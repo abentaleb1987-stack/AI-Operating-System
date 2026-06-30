@@ -15,42 +15,16 @@ Son role potentiel est de piloter des actions recurrentes ou semi-autonomes auto
 
 ## 3. Architecture
 
-Elements observes dans la demonstration Vision IA du 2026-06-12, a confirmer par documentation officielle ou experimentation interne :
+Architecture consolidee a confirmer par documentation officielle ou experimentation interne :
 
-- installation possible sur un environnement Linux local ou sur un VPS ;
-- interaction possible via terminal ;
-- connexion possible a Telegram via un bot ;
-- usage d'un backend LLM choisi lors de la configuration, a verifier ;
-- presence observee de skills, de memoire et de taches planifiees, a confirmer.
-
-Elements observes dans la demonstration Mike Codeur du 2026-05-28, a confirmer par documentation officielle ou experimentation interne :
-
-- experimentation possible sur VPS Linux pour un fonctionnement persistant ;
-- modes d'installation presentes : service gere, Docker et installation root, a verifier ;
-- interaction via Hermes TUI observee ;
-- installation d'Open WebUI comme interface de chat connectable a Hermes, a tester ;
-- usage de Tailscale observe pour exposer les services sur un reseau prive ;
-- dashboard Hermes observe pour sessions, modeles, logs, crons, skills, plugins et configuration ;
-- presence d'une gateway/API et d'une commande d'update mentionnees dans la demonstration, a confirmer.
-
-Elements observes dans la demonstration Parlons IA du 2026-06-26, a confirmer par documentation officielle ou experimentation interne :
-
-- configuration du prompt systeme via un fichier `Sys.md` ;
-- usage de la memoire, des skills, des outils et des providers comme composants de configuration agentique ;
-- connexion possible a des outils externes via MCP, API ou OAuth selon la demonstration ;
-- lancement observe de Claude Code ou Claude depuis un terminal integre a Hermes ;
-- presence observee d'agents paralleles ou sous-agents dans l'interface ;
-- usage de crons pour planifier une automatisation ;
-- configuration observee de LM Studio comme provider local via endpoint compatible API.
-
-Elements observes dans la demonstration Parlons IA du 2026-06-19, a confirmer par documentation officielle ou experimentation interne :
-
-- architecture multi-agents avec orchestrateur, agents specialises et agents de controle ;
-- logique de double controle independant pour les taches a haut risque ;
-- construction recommande par blocs avant parallelisation ;
-- Hermes presente comme hub de providers, avec choix du modele selon cout, confidentialite, capacites et criticite ;
-- structure interne mentionnee : soul ou prompt systeme, environnement, memoire, sessions, skills, cron, logs, plugins et hooks ;
-- memoire presentee comme dependante de la configuration et du modele connecte, a verifier.
+- Hermes est a traiter comme une couche agentique autour d'un backend LLM choisi, plutot que comme un modele IA autonome.
+- L'installation semble possible sur environnement Linux local ou VPS ; les modes exacts recommandes restent a verifier.
+- Les interactions observees incluent terminal, Hermes TUI, Telegram, dashboard et interface type Open WebUI, selon configuration.
+- Les composants structurants a verifier sont : prompt systeme ou soul, memoire, sessions, skills, crons, logs, plugins, hooks et gateway/API.
+- Hermes peut potentiellement se connecter a des outils externes via MCP, API ou OAuth ; ces connexions doivent etre testees une par une.
+- Hermes semble pouvoir utiliser plusieurs providers, y compris providers externes ou locaux ; le choix doit tenir compte du cout, de la confidentialite, des capacites et de la criticite.
+- Les workflows avances peuvent impliquer orchestrateur, agents specialises, agents de controle et agents paralleles ; cette architecture reste a valider experimentalement.
+- L'exposition reseau et les canaux de controle doivent etre limites et audites, notamment pour VPS, Tailscale, Telegram, Open WebUI, dashboard, tokens et ports.
 
 ## 4. Forces
 
@@ -166,20 +140,16 @@ Hermes est a tester prudemment pour :
 
 ## 11. Orchestration IA
 
-Hermes peut etre envisage comme couche agentique potentielle autour :
+Hermes peut etre envisage comme couche d'orchestration agentique a tester autour :
 
-- d'un backend LLM ;
-- de skills ;
-- d'une memoire ;
-- de canaux de communication ;
-- de taches planifiees ;
-- d'interfaces de controle comme TUI, Telegram, Open WebUI ou dashboard ;
-- d'une couche reseau privee comme Tailscale, a confirmer ;
+- d'un ou plusieurs backends LLM ;
+- de providers externes ou locaux choisis selon cout, confidentialite, capacites et criticite ;
+- d'une memoire, de sessions, de skills et de taches planifiees ;
+- de canaux et interfaces de controle comme terminal, TUI, Telegram, Open WebUI ou dashboard ;
 - de connexions MCP, API ou OAuth vers des outils externes ;
-- de providers multiples ou locaux, a evaluer selon cout, confidentialite et capacites ;
-- d'agents paralleles ou sous-agents, a confirmer par experimentation.
-- d'un orchestrateur et d'agents de controle pour les workflows sensibles ;
-- d'un routage de providers par sous-tache, a evaluer prudemment.
+- d'une couche reseau privee ou controlee pour limiter l'exposition des services ;
+- d'un orchestrateur, d'agents specialises et d'agents de controle pour les workflows sensibles ;
+- d'agents paralleles uniquement lorsque les sous-taches sont independantes et verifiables.
 
 Ces elements restent a confirmer avant usage strategique.
 
@@ -190,37 +160,33 @@ Cas d'usage observes a tester :
 - briefing recurrent automatise ;
 - recherche web structuree sous controle humain ;
 - preparation de listes de leads a valider manuellement ;
-- agent persistant H24 sur VPS dedie ;
-- supervision de sessions, logs, modeles, crons, skills et plugins via dashboard ;
-- interface conversationnelle via Open WebUI connectee a Hermes.
-- configuration agentique via `Sys.md` ;
-- automatisation connectee a Gmail, Airtable, Notion ou autre outil externe via MCP ;
-- orchestration Hermes + Claude Code pour taches de navigation ou analyse visuelle ;
-- usage de provider local via LM Studio pour tests de confidentialite.
+- agent persistant sur environnement dedie ou VPS ;
+- supervision via dashboard des sessions, logs, modeles, crons, skills et plugins ;
+- interface conversationnelle ou de controle via Open WebUI, TUI, Telegram ou outil equivalent ;
+- configuration agentique via prompt systeme, memoire, tools, skills et providers ;
+- automatisations connectees a des outils externes via MCP, API ou OAuth ;
+- orchestration avec Claude Code ou autre outil specialise pour les taches non couvertes par Hermes seul ;
+- usage de provider local pour scenarios sensibles ou tests de confidentialite ;
 - workflow multi-agents avec orchestrateur, agents specialises et agents de controle ;
-- automatisation email ou CRM supervisee ;
-- aide a des workflows fiscaux, administratifs ou financiers uniquement sur donnees de test.
+- automatisation email, CRM, administrative ou financiere uniquement sur donnees de test ou en mode supervise.
 
 Points a surveiller :
 
 - statut open source et rattachement exact a Nous Research ;
-- fonctionnement reel des skills ;
-- nature exacte de la memoire ;
+- fonctionnement reel des skills, de la memoire, des sessions, hooks, plugins et logs ;
 - backends officiellement supportes ;
 - commandes gateway / cron ;
 - modes d'installation officiellement recommandes : service gere, Docker, root ou autre ;
 - fonctionnement exact de Hermes TUI, dashboard, Open WebUI et gateway/API ;
 - usage de Tailscale ou alternative pour l'acces prive aux services ;
 - gestion des utilisateurs, permissions, ports, logs et mises a jour ;
-- fonctionnement exact de `Sys.md` et de sa relation avec la memoire, les tools et les skills ;
+- fonctionnement exact du prompt systeme ou soul et de sa relation avec la memoire, les tools et les skills ;
 - fiabilite et securite des connexions MCP, API et OAuth ;
 - capacites reelles de Claude Code lance depuis Hermes ;
 - fonctionnement des agents paralleles ou sous-agents ;
 - compatibilite et limites de LM Studio comme provider local ;
 - risques lies a l'envoi automatique d'emails ou a l'ecriture dans des bases externes ;
 - couts, confidentialite et conditions d'usage des providers tiers ;
-- fonctionnement exact du soul ou prompt systeme et de la structure interne Hermes ;
-- portee reelle des sessions, hooks, plugins et logs ;
 - robustesse du spawning et de l'orchestration multi-agents ;
 - fiabilite des agents de controle independants ;
 - risques juridiques, fiscaux, administratifs et financiers des workflows sensibles ;
@@ -237,3 +203,4 @@ Points a surveiller :
 - 2026-07-01 - Mise a jour - Sections 3, 6, 7, 8, 10, 11, 12 - Source YouTube Mike Codeur, workflow AOS GO partiel
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA, workflow AOS GO partiel
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA business automation, workflow AOS GO partiel
+- 2026-07-01 - Consolidation - Sections 3, 11, 12 - Synthese permanente Hermes apres audit Aion

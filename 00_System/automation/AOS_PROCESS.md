@@ -59,6 +59,19 @@ Elle ne doit jamais etre reecrite entierement.
 
 Chaque source ne doit produire que des differences ciblees, pertinentes et justifiees.
 
+La fiche permanente ne doit pas devenir une accumulation chronologique de sources.
+
+Les references aux sources peuvent apparaitre dans l'historique des mises a jour, mais les sections principales doivent presenter une connaissance consolidee.
+
+Lorsqu'une nouvelle source confirme une connaissance deja presente, Codex doit :
+
+- renforcer ou preciser l'element existant ;
+- eviter de creer un bloc redondant par source ;
+- ne pas repeter une information deja integree ;
+- conserver le detail de la source dans la fiche de veille.
+
+La fiche permanente doit rester synthetique, structuree et orientee decision.
+
 ## Sources brutes
 
 Les sources brutes sont deposees dans :
