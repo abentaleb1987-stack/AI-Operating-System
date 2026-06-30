@@ -43,6 +43,15 @@ Elements observes dans la demonstration Parlons IA du 2026-06-26, a confirmer pa
 - usage de crons pour planifier une automatisation ;
 - configuration observee de LM Studio comme provider local via endpoint compatible API.
 
+Elements observes dans la demonstration Parlons IA du 2026-06-19, a confirmer par documentation officielle ou experimentation interne :
+
+- architecture multi-agents avec orchestrateur, agents specialises et agents de controle ;
+- logique de double controle independant pour les taches a haut risque ;
+- construction recommande par blocs avant parallelisation ;
+- Hermes presente comme hub de providers, avec choix du modele selon cout, confidentialite, capacites et criticite ;
+- structure interne mentionnee : soul ou prompt systeme, environnement, memoire, sessions, skills, cron, logs, plugins et hooks ;
+- memoire presentee comme dependante de la configuration et du modele connecte, a verifier.
+
 ## 4. Forces
 
 ## 5. Faiblesses
@@ -57,8 +66,9 @@ Aucun cas d'usage n'est encore valide par experimentation interne, documentation
 - prospection automatisee sans verification des donnees ;
 - usage sensible sans audit securite et confidentialite ;
 - usage operationnel fonde uniquement sur une demonstration video ou une source sponsorisee ;
-- exposition publique directe de Hermes, Open WebUI, dashboard, ports API, tokens ou acces Telegram sans audit securite.
-- automatisation d'emails, CRM, OAuth, MCP ou donnees metier sans validation humaine, journalisation et limites d'action.
+- exposition publique directe de Hermes, Open WebUI, dashboard, ports API, tokens ou acces Telegram sans audit securite ;
+- automatisation d'emails, CRM, OAuth, MCP ou donnees metier sans validation humaine, journalisation et limites d'action ;
+- taches fiscales, juridiques, administratives ou financieres sans validation humaine finale, sources officielles et audit de conformite.
 
 ## 8. Workflows recommandes
 
@@ -93,6 +103,17 @@ Workflow d'experimentation agentique :
 7. Planifier via cron seulement apres validation manuelle.
 8. Prevoir une condition d'arret et une intervention humaine pour les actions sensibles.
 
+Workflow de conception multi-agents :
+
+1. Decomposer le processus en sous-taches distinctes.
+2. Identifier les agents specialises necessaires.
+3. Definir un orchestrateur et ses criteres de routage.
+4. Ajouter un agent de controle pour les taches sensibles.
+5. Tester chaque bloc separement avec donnees non critiques.
+6. Verifier les sorties avec sources officielles ou donnees de reference.
+7. Paralleliser uniquement les blocs independants.
+8. Conserver une validation humaine finale pour tout impact externe.
+
 ## 9. Prompts & methodes
 
 Pour les taches recurrentes, preciser :
@@ -116,6 +137,17 @@ Pour le prompt systeme Hermes, preciser :
 - conditions d'intervention humaine ;
 - garde-fous de securite, confidentialite et cout.
 
+Pour les workflows multi-agents, preciser :
+
+- role de l'orchestrateur ;
+- role de chaque agent specialise ;
+- criteres de controle independant ;
+- provider ou modele autorise par sous-tache ;
+- sources officielles ou donnees de reference ;
+- assets, templates et regles metier ;
+- actions autorisees et actions interdites ;
+- journalisation et procedure de reprise.
+
 ## 10. Integration dans mon ecosysteme
 
 Hermes est a tester prudemment pour :
@@ -128,6 +160,8 @@ Hermes est a tester prudemment pour :
 - experimentation d'interfaces de controle comme TUI, Telegram ou Open WebUI ;
 - automatisations connectees a des outils externes via MCP, API ou OAuth ;
 - tests de providers locaux via LM Studio pour scenarios sensibles ;
+- workflows administratifs, email ou CRM en mode supervise ;
+- prototypage de systemes multi-agents avec agents de controle ;
 - scenarios ou les resultats peuvent etre verifies avant usage.
 
 ## 11. Orchestration IA
@@ -140,10 +174,12 @@ Hermes peut etre envisage comme couche agentique potentielle autour :
 - de canaux de communication ;
 - de taches planifiees ;
 - d'interfaces de controle comme TUI, Telegram, Open WebUI ou dashboard ;
-- d'une couche reseau privee comme Tailscale, a confirmer.
+- d'une couche reseau privee comme Tailscale, a confirmer ;
 - de connexions MCP, API ou OAuth vers des outils externes ;
 - de providers multiples ou locaux, a evaluer selon cout, confidentialite et capacites ;
 - d'agents paralleles ou sous-agents, a confirmer par experimentation.
+- d'un orchestrateur et d'agents de controle pour les workflows sensibles ;
+- d'un routage de providers par sous-tache, a evaluer prudemment.
 
 Ces elements restent a confirmer avant usage strategique.
 
@@ -161,6 +197,9 @@ Cas d'usage observes a tester :
 - automatisation connectee a Gmail, Airtable, Notion ou autre outil externe via MCP ;
 - orchestration Hermes + Claude Code pour taches de navigation ou analyse visuelle ;
 - usage de provider local via LM Studio pour tests de confidentialite.
+- workflow multi-agents avec orchestrateur, agents specialises et agents de controle ;
+- automatisation email ou CRM supervisee ;
+- aide a des workflows fiscaux, administratifs ou financiers uniquement sur donnees de test.
 
 Points a surveiller :
 
@@ -180,6 +219,12 @@ Points a surveiller :
 - compatibilite et limites de LM Studio comme provider local ;
 - risques lies a l'envoi automatique d'emails ou a l'ecriture dans des bases externes ;
 - couts, confidentialite et conditions d'usage des providers tiers ;
+- fonctionnement exact du soul ou prompt systeme et de la structure interne Hermes ;
+- portee reelle des sessions, hooks, plugins et logs ;
+- robustesse du spawning et de l'orchestration multi-agents ;
+- fiabilite des agents de controle independants ;
+- risques juridiques, fiscaux, administratifs et financiers des workflows sensibles ;
+- criteres de choix des providers par criticite, cout, confidentialite et capacites ;
 - securite VPS, Telegram, tokens et acces utilisateurs ;
 - confidentialite des donnees ;
 - fiabilite reelle sur les taches de veille et de prospection.
@@ -191,3 +236,4 @@ Points a surveiller :
 - 2026-06-30 - Ajout - Sections 2, 3, 6, 7, 8, 9, 10, 11, 12 - Source YouTube Vision IA, validation humaine GO partiel
 - 2026-07-01 - Mise a jour - Sections 3, 6, 7, 8, 10, 11, 12 - Source YouTube Mike Codeur, workflow AOS GO partiel
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA, workflow AOS GO partiel
+- 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA business automation, workflow AOS GO partiel
