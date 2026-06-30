@@ -24,9 +24,9 @@
 
 ## 3. Statut du cycle de traitement
 
-- Statut : Analyse en cours
-- Etape actuelle : Fiche de veille creee et differences proposees pour validation humaine
-- Prochaine action : Valider ou rejeter les differences candidates avant toute mise a jour de la fiche permanente Hermes
+- Statut : Validee partiellement / A surveiller
+- Etape actuelle : Differences prudentes integrees dans la fiche permanente Hermes
+- Prochaine action : Recouper les points a surveiller avec documentation officielle, depot GitHub ou experimentation interne
 
 ## 4. Resume synthetique
 
@@ -231,11 +231,11 @@ La video montre un processus d'installation sur VPS Hostinger, la connexion a un
 
 ## 15. Rapport final
 
-- Statut final : A surveiller
-- Differences validees : Aucune difference integree dans la fiche permanente a ce stade.
+- Statut final : GO partiel / A surveiller
+- Differences validees : Sections 2, 3, 6, 7, 8, 9, 10, 11, 12 integrees prudemment dans la fiche permanente Hermes.
 - Differences rejetees : Formulations marketing, sponsorisation Hostinger, promesses de performance non verifiees, bruit YouTube.
-- Elements conserves en veille : Description d'Hermes, installation VPS, backends LLM, Telegram, skills, memoire locale, crons, cas d'usage briefing et prospection, limites et risques.
+- Elements conserves en veille : Statut open source, rattachement exact a Nous Research, fonctionnement reel des skills, nature exacte de la memoire, backends officiellement supportes, commandes gateway/cron, securite VPS/Telegram/tokens, confidentialite des donnees, fiabilite reelle sur veille et prospection.
 - Fichiers concernes : `02_IA/Hermes/veille/2026-06-30_youtube_vision-ia_hermes-agent-installation-vps-telegram.md`, `01_Collecte/sources_brutes/videos/2026-06-30_youtube_vision-ia_hermes-agent-installation-vps-telegram_transcript.txt`
 - Actions realisees : Lecture de la transcription, creation de la fiche de veille, qualification de la source, separation faits/hypotheses/marketing/limites, proposition de differences pour la fiche permanente.
-- Decision finale : Aucune modification de `02_IA/Hermes/fiche_permanente.md` sans validation humaine.
+- Decision finale : GO partiel / A surveiller.
 - Points ouverts : Recouper avec documentation officielle Hermes/Nous Research et depot GitHub avant integration permanente.

@@ -2,6 +2,11 @@
 
 ## 1. Fiche d'identite
 
+- Nom : Hermes
+- Type : Agent IA / couche agentique a evaluer
+- Statut dans la base : En veille / En test
+- Derniere mise a jour : 2026-06-30
+
 ## 2. Role principal
 
 Hermes est a evaluer comme agent IA oriente execution de taches, automatisation et workflows persistants.
@@ -95,3 +100,7 @@ Points a surveiller :
 - fiabilite reelle sur les taches de veille et de prospection.
 
 ## 13. Decisions strategiques
+
+## Historique des mises a jour
+
+- 2026-06-30 - Ajout - Sections 2, 3, 6, 7, 8, 9, 10, 11, 12 - Source YouTube Vision IA, validation humaine GO partiel
