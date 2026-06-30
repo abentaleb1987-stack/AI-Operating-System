@@ -1,0 +1,1700 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+Mike Codeur
+81,1 k abonnés
+
+
+347
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+15 181 vues  28 mai 2026  BALI
+Code MIKECODEUR pour 10% de réduction sur Hermes VPS https://www.hostg.xyz/SHJRk
+
+Chapitres :
+0:00 Intro
+1:22 Sommaire
+2:41 Pourquoi Hermes (10 SaaS remplacés)
+4:25 Les 5 fondamentaux — Memory, Skills, Soul, Sessions, Auto-amélioration
+10:03 Pourquoi un VPS — un assistant H24
+11:21 Architecture cible — Tailscale  + segmentation user
+13:06 3 modes d'installation — Managed, Docker, Root
+16:50 Setup VPS
+18:03 Les 7 étapes CORE
+18:48 SSH Acces et configuration
+20:27 Creation user
+21:28 Hermes Installation
+24:46 Setup Telegram
+27:07 Setup Model (OpenAI)
+29:29 Hermes TUI
+33:57 Hermes + OpenWEBUI
+40:31 Tailscale - Sécurise tes accès Hermes
+46:54 Hermes Dashboard
+52:00 Outro
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+
+#hermes #agenticdev #vps #claudecode #openclaw #tailscale #ia #dev #saas #hostinger #youthumbai
+Mike Codeur guide l'installation technique de l'agent Hermes sur un serveur VPS dédié pour une disponibilité continue. La formation détaille la configuration sécurisée, l'intégration de compétences autonomes, et la mise en place d'outils complémentaires comme Telegram, transformant l'assistant en un stagiaire numérique capable d'auto-amélioration au fil des tâches.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+81,1 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+🚀 Essaye YouThumb gratuitement
+🚀 Essaye YouThumb gratuitement
+Rejoindre
+79 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@kennyjudickael
+il y a 1 mois
+Merci beaucoup Mike, c'est très intéressant
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@emeric277
+il y a 1 mois
+Franchement merci, j'avoue qu'en ce moment j'suis un peu entrain de péter mon crane avec toutes ces nouveautées constantes xD, j'me pose beaucoup de question sur le métier etc. Ca va trop vite ! J'sais pas comment tu fais pour faire tous ca, rester autant à la page, j'ai l'impression que j'ai le temps de rien xD. Donc merci pour tes vidéos à chaque fois, celle là va m'etre très utile :D
+
+2
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@Seby7459
+il y a 3 semaines
+Hermès WebUi bien stable et Hermès bureau est pas mal non plus…. J’adore le projet Hermès il est stable il faut savoir le prendre en main et bien le comprendre. Bravo pour la vidéo c’est un outil qui mérite d’être encore plus connu!
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@tonnygarcia8457
+il y a 1 mois
+Parfait merci  !
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ToxAlert
+il y a 1 mois
+gg bonne video
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@philtoa334
+il y a 1 mois
+Top
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@wafistos
+il y a 1 mois
+Salut @Mike il y'a aussi Hermes Workspace , c'est plutot top pour travailler comme avec ui
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@kianhendrick3794
+il y a 1 mois
+Hostinger collabore avec la terre entière ,trop fort les mecs ,..
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@louisciffer3268
+il y a 1 mois
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@jnblcontact
+il y a 1 mois
+Merci pour cette vidéo. Je suis en plein dedans, ça tombe bien. J'ai vu ton autre vidéo sur ton agentic OS. Cela paraît faire doublon. Est-ce que tu peux nous dire STP dans quels cas tu utilises l'un par rapport à l'autre ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@JeremyHARRAR
+il y a 1 mois
+Bon à savoir, si tu installes Hermes Workspace, Hostinguer t'embarque directement un container Hermes Agent donc si tu commences par installer un Hermes Agent, tu auras un doublon sur ton VPS (J'avais pas compris tout de suite la suptilité ahah) 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@AzzedineBoug
+il y a 1 mois
+Salut @Mike Franchement un grand merci, j'avoue que c trés bien explique.
+dite es ce qu on peux l'installé sur un serveur proxmox ala place du serveur VPS ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@qobmedia
+il y a 1 mois
+J'ai quitté openclaw depuis des lustres parce que sa config ne finit pas  / il y a toujours un petit truc qui ne marche pas j'apprécie de pouvoir dire à Hermes configuré toi de telle manière et le voir s'exécuter c'est trop top pour le reste j'ai zéro problème avec Hermes
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Ouafimameri
+il y a 1 mois
+Salut Mike,
+Je voulais te dire merci. Pas seulement pour cette vidéo, mais surtout pour toutes celles que tu as faites au fil des années.
+Je te suis depuis très longtemps. Ça fait peut-être un peu “fanboy” alors que j’ai 50 ans aujourd’hui , mais je tenais vraiment à te le dire : tu as eu un vrai impact sur ma vie.
+À une période, je n’étais pas très heureux dans mon ancien travail, et un jour je suis tombé sur tes vidéos. Elles m’ont donné le courage de me reconvertir et de changer de vie professionnelle maintenant je taf en freelance depuis 4ans. Et honnêtement, je pense ne pas être le seul dans ce cas.
+Bien que tu ne souri pas bcp je te trouve sincère, intègre et surtout très compétent, et c’est assez rare pour être souligné.
+Bonne continuation à toi, et encore merci pour tout ce que tu partages.
+
+4
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@maloukemallouke9735
+il y a 1 mois
+Hello,
+Merci pour la vidéo est ce que tu peux nous dire la conf de ton PC ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@FlorentTetaud
+il y a 1 mois
+Petite question, dans une infra où tout est conteneurisé (1 pour hermes, 1 pour open webUI etc...) tailscale, il lui faut aussi un conteneur dédié ou on peut le mettre directement sur le vps comme tu sembles avoir fait comme ton hermes n'est pas conteneurisé.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@raphael7970
+il y a 1 mois
+Super vidéo. 
+J'ai une question pour toi (encore). 
+J'ai un Hermes installé sur un docker packagé depuis hostinger et j'aimerais remplacer ce docker par Hermes directement sur le vps comme tu l'as fait. 
+Comment migrer toute sa mémoire, ses skills etc ? C'est facile ? 
+
+Autre question : 
+Je suis sur windows c'est quoi l'équivalent de cmux ?
+
+
+
+
+Répondre
+
+·
+
+3 réponses
+
+@daniel_diawaku1377
+il y a 1 mois
+VOUS POUVEZ NOUS REGROUPER : PAPER CLIP - HERMES ? 
+
+
+PUIS: POLSIA - HERMÈS ?
+
+s'il vous plaît
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@gillianlevert3740
+il y a 1 mois
+En vrai, j'ai encore du mal avec les Agents, j'utilise Claude Code & Codex chaque jour pour mes projets mais j'ai l'impression que les agents comme Hermes c'est pas donné, le VPS, les API, j'arrive pas à me dire : ouais c'est rentable comparer aux "standards" Codex & Co
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@mouhammadabdallah9192
+il y a 1 mois
+tu utilises quels model LLM en API ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+    
+IA
+Privée
+Abder Bent
+9/9
+
+
+
+
+1
+true
+27:19
+Gemini 3 : le GUIDE Complet (et l'obtenir gratuitement)
+Labo Des Réseaux
+
+2
+true
+22:34
+Je Crée un Business en 20 min avec 4 IA GRATUITE de Google
+Yassine Sdiri
+
+3
+true
+22:15
+Comment maîtriser l'IA mieux que 99% des entrepreneurs (3 secrets)
+Yassine Sdiri
+
+4
+true
+18:17
+Comment créer une App COMPLÈTE avec l’IA (vous n’allez pas le croire)
+Yassine Sdiri
+
+5
+true
+19:53
+Comprendre l'IA en 2026 (tout a changé)
+theyo
+
+6
+true
+23:27
+Créez votre IA Pentest 100% locale et sans censure (LM Studio + AnythingLLM)
+Michel Kartner
+
+7
+true
+10:19
+Vibe coding — Comment tester son application ?
+Shubham SHARMA
+
+8
+true
+43:35
+J'ai installé l'agent IA le plus puissant du monde
+Vision IA
+
+true
+53:43
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Intro
+0:00
+Alors, comme tu le sais, j'adore Open Clow. C'est un outil que j'utilise depuis quasiment le jour de son
+0:05
+lancement. Ça fait plus de 6 mois que je suis à fond dessus. J'adore cet outil. Il a changé complètement ma manière de
+0:11
+de travailler. D'ailleurs, il a ouvert des portes et des nouveaux cas d'utilisation pour tous les agents et
+0:17
+cetera. Et on comprend tout à fait pourquoi Peter Stenberger et bien a rejoint les rangs d'Open AI. Maintenant,
+0:23
+le problème c'est que depuis quelques temps et bien moi, je galère un petit peu avec les mises à jour. C'est souvent un petit peu compliqué. il y a souvent
+0:29
+des des problèmes et cetera. Et je me suis dit maintenant que Peter Senberger a ouvert les portes comme ça à ce cette
+0:35
+manière d'utiliser les agents et bien que c'était le moment d'utiliser d'autres agents comme ici notre agent
+0:42
+Hermes qui depuis quelques mois est vraiment en train de littéralement exploser. Pourquoi ? Parce que justement
+0:49
+ils ont intégré tout un tas d'outils, ils ont un système de mise à jour qui se fait beaucoup plus facilement. Et bien
+0:55
+ce qu'on va faire dans cette vidéo, je vais te montrer étape par étape comment installer Hermes sur un VPS. Pourquoi un
+1:01
+VPS ? Parce que je t'ai déjà parler de ça dans nombreuses vidéos. Pour moi, ce type d'assistant, il a ce type d'outil
+1:07
+doit tourner H24. Et quelle est la meilleure architecture pour faire tourner ce type d'outil H24 ? Et bien,
+1:14
+c'est un VPS puisque ça coûte très peu cher et en même temps, tu as un outil qui est disponible. H24. Et bien ce
+1:20
+qu'on va faire dans cette vidéo, je vais te présenter tout ça à travers des petits schémas et cetera. Donc c'est une vidéo qui va être un peu longue.
+Sommaire
+1:25
+Pourquoi ? Parce qu'on va rentrer dans le fond du détail de la configuration, de l'installation et surtout de la
+1:31
+sécurité. On va regarder un petit peu la documentation, la philosophie qu'il y a derrière. On verra aussi comment ça
+1:37
+fonctionne avec le dashboard, les plugins et cetera. Et enfin, on on installera aussi un web UI puisque c'est
+1:43
+pas intégré directement comme un peu de clos. Bref, c'est parti. Je te présente tout ça dans cette vidéo. Alors, c'est
+1:49
+parti. Ça risque d'être un peu long mais en même temps il y a plein d'étapes intermédiaires donc je vais essayer d'aller droit au but et de pas te faire
+1:56
+perdre du temps. Bien sûr, tu retrouveras tous ces slides dans la description et tu retrouveras aussi tout un tas d'informations dans la
+2:02
+description. Alors première chose, qu'est-ce qu'on va voir dans cette vidéo ? Et bien on va voir qu'est-ce que
+2:08
+Hermes remplace. On verra un petit peu la différence avec les autres agents. Je montrerai les cinq fondamentaux.
+2:13
+Pourquoi un VPS, l'architecture cible, ce que moi j'ai mis en place et enfin les pièges à éviter. Et surtout en fait
+2:20
+le gros du sujet, c'est l'installation guidée sur un VPS vraiment étape par
+2:26
+étape. C'est ce que vous m'avez demandé à l'époque avec Open Clow et j'avais pas vraiment pris le temps. Mais là, on va
+2:32
+prendre le temps justement avec Hermes. Mais tu verras que si jamais tu veux installer un autre agenda en fait ça
+2:37
+fonctionnera plus ou moins de la même manière. Alors concrètement, pourquoi de plus en plus de personnes et bien se
+Pourquoi Hermes (10 SaaS remplacés)
+2:44
+mettent à installer ce type d'agent en fait, Open Clow, Hermes et cetera ? Pourquoi ? Parce qu'en fait maintenant
+2:50
+avec ce type d'agent, tu vas pouvoir remplacer tout un tas de s et moi je le vois et bien j'utilise de moins en moins
+2:57
+àier Notion, j'ai quasiment arrêté de l'utiliser et toutes les options
+3:02
+d'automatisation, les et cetera et bien on en a de moins en moins besoin.
+3:07
+Pareil, j'ai supprimé Lead Pages, j'ai supprimé Frame.io et cetera et cetera. Pourquoi ? Parce que maintenant avec un
+3:14
+bon agent, un assistant I bien configuré et bien tu peux en fait faire d'énormes
+3:19
+économies. Alors avant d'aller plus loin et bien j'aimerais te faire un petit rappel sur la différence entre cloud code tout simplement open clos et parce
+3:26
+que souvent on dit ça, on me dit bah pourquoi tu mets pas tu utilises pas cloud code directement ou cloud code en fait sur un VPS. Alors cloud code c'est
+3:33
+génial mais en fait c'est un terminal et en fait il faut être derrière faut interagir avec lui et si tu es plus derrière le terminal et bien ça
+3:40
+fonctionne pas très bien, il y a pas tout un système de mémoire et cetera avancé et du coup et bien même s'il
+3:45
+développe des fonctionnalités autour de cloud code qui permet notamment les channels, le remote contrôle et cetera et bien on est loin d'un outil un petit
+3:53
+peu plus avancé justement comme Open Clow qui lui bien il est tout le temps en train de tourner, il y a beaucoup de
+3:58
+canaux et cetera c'est un petit peu le majord d'homme qui suit tes règles et bien Hermes c'est un petit peu aussi la
+4:04
+même chose ce qu'on va voir aujourd'hui mais il va un petit peu plus en profondeur notamment sur la mémoire sur
+4:10
+les skills automatiques et on verra tout ça. En gros l'idée de Hermè c'est de se dire que c'est un stagiaire au début
+4:16
+quand tu démarres avec Hermes, c'est un stagiaire et de fil en aiguille et bien il va s'améliorer. Il va créer des
+4:21
+skills automatiquement et il va devenir de plus en plus fort. Les cinq fondamentaux qu'il faut avoir en mémoire
+Les 5 fondamentaux — Memory, Skills, Soul, Sessions, Auto-amélioration
+4:28
+autour d'Hermes. Premièrement, c'est un peu comme Open Clow, c'est le système de memory et ça c'est vraiment vraiment
+4:34
+important. Ça a été la force d'open clos. Pourquoi ? Parce que en fait quand tu utilises Cloud code, bah le système
+4:40
+il souvient pas trop de ce que tu as fait même si ça améliore un petit peu et bien avec Open Clow et Hermes notamment
+4:45
+et bien tu peux lui dire "Tu te souviens la semaine dernière on a travaillé sur tel sujet de vidéo et je voudrais que tu
+4:51
+me ressortes en gros l'angle du script." et ben il va être capable de s'y retrouver. Donc ça c'est vraiment un
+4:56
+point hyper important si tu as un assistant il a qui tourne H24 parce que voilà tu fais des action tu veux pouvoir
+5:02
+t'en rappeler. Ensuite les skills bien évidemment comme tu sais les skills c'est central dans un assistant I
+5:09
+pourquoi parce que chaque activité chaque business chaque personne a des manières de travailler un petit peu
+5:15
+différentes. Et bien les skills c'est vraiment un petit peu comme quand tu arrives dans une entreprise et qui a des
+5:20
+process à suivre he tu sais il y a un nouveau qui va arriver. on va lui dire bah tiens, lis ces process et tu dois répéter ces processement
+5:28
+de notre boîte. Et bien les skills, faut les voir comme des processissent en fait ta boîte. Ensuite on a le sou le soule
+5:34
+c'est en gros bah l'identité. Tu lui dis bah voilà soit je suis un développeur avec 20 ans d'expérience ou tu peux dire
+5:40
+je suis je sais pas un méia buer qui est expert dans la création de pub et
+5:46
+cetera. Donc le soule ça définit vraiment l'identité. Comment je parle ? Est-ce que je parle plutôt je vous vois,
+5:52
+je tue toi ? Est-ce que je vais droit au but ? Est-ce que je parle bien ? Langage soutenu, langage plus cool, plus plus décontracté. Bref, c'est hyper
+5:59
+important. Ensuite, on a le système de recall qui permet de vraiment bien retrouver toutes les conversations
+6:04
+passées dans tous les canaux et cetera. Donc ça c'est hyper important hein, c'est lié un petit peu au système de
+6:10
+mémorie mais c'est plus avancé en fait qu'Open Clow. Et enfin, on a ce système
+6:15
+là qui est vraiment pas mal. C'est un système d'autoamélioration. Ça veut dire que c'est un peu ils ont rajouté ça aussi dans Open Clow, le système de
+6:21
+Dream. Ça veut dire que quand il est un petit peu quand on travaille pas dessus ou la nuit bien un Cron qui travaille et
+6:26
+qui va regarder un petit peu ce qu'on a fait dans le but de s'autoaméliorer. Alors on va rentrer un petit peu en
+6:32
+détail de tout ça. Donc la mémory je te le refais pas. En gros si l'idée c'est de se dire bah tu vois tu peux lui dire
+6:38
+par exemple tu-toi moi PNPM uniquement et cetera, l'idée c'est vraiment tu lui dis ce que tu veux et il s'en souvient.
+6:43
+Par exemple, arrête de faire des réponses trop longues et cetera. Tout ça c'est important et en gros ça se base
+6:49
+sur les préférences, les faits et les projets. Souviens des projets et cetera. Donc la mémorie je te la présente plus mais c'est quelque chose d'hyper
+6:55
+important. Ensuite les skills hein, les skills hyper importants puisque il apprend tes capacités et notamment il a
+7:02
+un système de skills autocréé et raffiné par l'agent lui-même, le curator audit
+7:07
+et propose des reifacto depuis la V12. Bon, en gros, l'idée ici c'est que et bien là où Open Clow, en fait je suis
+7:14
+sur Open Clow, c'est vraiment des skills statiques. Ça veut dire que c'est à toi bah de de créer tes skills et puis ça s'arrête là. Il y a pas
+7:20
+d'autoamélioration des skills, c'est vraiment des skills figés. Alors parfois, il se permet de faire des
+7:25
+petites des petites mises à jour même quand tu lui as pas demandé mais c'est pas quelque chose d'officiel. Avec Hermes et bien les skills et bien ils se
+7:32
+sont ils se ils sont autocréés. par exemple ici voit que tu fais régulièrement quelque chose et bien il
+7:38
+va autorer des skills. Je fais un exemple si jamais tu publies sur les réseaux sociaux et que tu dis bah voilà on va passer par disons type fully le ça
+7:45
+ce qui permet de de poster sur les réseaux sociaux et cetera. Tu vas le faire une fois, tu vas le faire deux fois. Alors normalement ton réflexe ça
+7:51
+serait de créer un skills mais si tu oublies de le faire il va voir que tu le fais souvent et il va se dire "Bon allez on va créer un skills puisque il fait
+7:57
+souvent cette action et comme ça et bien le skills sera appelé." Ensuite, on a un curator agent, lui qui va détecter des
+8:02
+skills qui sont pas performants. Et par rapport à Open Clow, je te disais c'est que Open Clow, il a des skills statiques
+8:10
+et donc c'est une approche un petit peu donc différente et surtout tu as cette boucle là et qui fait qu'il qui
+8:16
+l'améliore au fur et à mesure tes skills. Et ça c'est quand même utile parce que moi je le vois avec Open Clow, au début je crée des skills qui sont
+8:22
+statiques et au fur et à mesure bah ils sont plus voilà, je dois les adapter. Alors je suis obligé de le dire à Open Clow. Peux-tu adapter ce skill ? Peux-tu
+8:28
+faire celle-là parce qu'on fait pas de la bonne manière. tandis que là et bien c'est quand même automatique. Ensuite le sous qu'on présente plus c'est
+8:34
+l'identité de ton agent les règles. Ne fais pas ceci, ne fais pas cela, le ton
+8:39
+valeurs, le style, la langue. Tu peux lui dire bah réponds-moi en français, en anglais et cetera. Par exemple ici, bah
+8:44
+tu as des exemples genre tue-toi-moi direct, pas de blabla. OK, il va comprendre. Priorité entrepreneur
+8:50
+raisonne roi par exemple. Moi ce ski moi j'ai il a plutôt un skill entrepreneur. Ça veut dire que voilà quand on définit
+8:56
+des actions, il va me dire non mais ça ça sert à rien, tu vas dépenser du temps pour rien et cetera. Donc il a vraiment cette vision retour sur investissement
+9:02
+et ce qui fait que le ton Hermes ne parle pas comme celui de quelqu'un d'autre. C'est c'est ça qui est important c'est que chaque agent va
+9:08
+avoir une identité propre. Par exemple, si demain tu te connectes à l'agent de ton pote et ben il aura pas la même manière de te parler, la même manière de
+9:15
+réfléchir et cetera. Donc il a vraiment une identité qui est propre. le système de recall ici comme je t'ai déjà dit par
+9:20
+exemple qu'est-ce qu'on a décidé pour le VPS la semaine dernière il va être capable de se dire bah voilà la semaine
+9:25
+dernière on a installer ça on a fait ceci et cetera par exemple ici là un user Hermes ud segmentation ça c'est ce
+9:31
+que je lui ai demandé décision système système D pour le getway pas un user service bah ça il s'en est souvenus c'est des exemples que je t'ai ressorti
+9:38
+architecture telscale CAD reverse proxy et cetera ça c'est ce qu'on a fait il y a pas longtemps quand j'ai fait une installation de Hermes sur un VPS et
+9:45
+enfin la bonne fonctionnalité qui est l'autoamélioration qui tourne tout seul. En gros, tu as des chron des boucles
+9:51
+autonomes, curateur qui audit les skills. Bref, je vais pas remontrer tout ça, mais en gros, c'est important
+9:56
+d'avoir cette philosophie de se dire que et bien c'est un système qui s'améliore, qui se bonifie en fait avec le temps.
+Pourquoi un VPS — un assistant H24
+10:04
+Alors, point important, je t'en ai déjà parlé pas mal de fois, pourquoi en fait un VPS et pas un Mac Mini ? On a on sait
+10:10
+qu'il y a eu toute une hype autour des Mac Mini mais personnellement je suis pas fan de cette option déjà parce que ça coûte cher pour un gain qui n'est pas
+10:17
+exceptionnel. Moi par exemple, j'habite à Bali en Indonésie. Régulièrement tu peux avoir des coupures de de de
+10:23
+d'internet. Alors, j'ai deux lignes internet en parallèle avec un système de fallback parce que je suis un peu
+10:28
+parano, mais même tu es pas à l'abri qu' y a une coupure d'électricité que tu es tu as internet
+10:34
+qui marche pas, que ton Mac reboot ou des choses comme ça. Et personnellement, moi c'est pas des solutions que je
+10:39
+trouve efficaces avec ce type d'agent. Pour moi, ce type d'agent se doit de tourner sur un VPS pour avoir une
+10:47
+disponibilité 24/ 7, accessible depuis n'importe où, n'importe quel appareil dans le monde et cetera et surtout
+10:53
+indépendant de ton matériel. L'idée c'est tuas un VPS ici avec Hermes
+10:58
+dessus. Moi d'ailleurs j'ai Hermes, j'ai Open Clow et tu peux mettre tout un tas aussi de d'outils. J'ai agent zéro,
+11:04
+enfin j'ai d'autres trucs, j'ai un Docker qui tourne avec à chaque fois que je fais des tests, des choses et cetera. Donc avec un VPS, tu peux utiliser
+11:10
+beaucoup de de services et ensuite bah tu te connectes comme ça depuis donc n'importe quoi dessus, depuis Telegram,
+11:17
+les API, GitHub et cetera. Donc tu as accès à tout. Ici dans ce slide, moi ce
+Architecture cible — Tailscale + segmentation user
+11:22
+que je vais te montrer c'est ma manière de fonctionner. Bien sûr, il y a plein de manières différentes de fonctionner. Quand tu as un VPS comme ça et bien tu
+11:29
+as deux manières de voir de voir la chose et moi je vais te montrer cette manière-là c'est que en gros à l'intérieur de ton VPS et bien tu as des
+11:37
+services ici comme Hermes Open Clow, Open Web UI et moi j'en ai d'autres. J'ai mission contrôle j'ai plein
+11:44
+d'outils comme ça mais bien évidemment je ne laisse pas ces outils directement
+11:50
+sur le net. Pourquoi ? Parce que si tu laisses sur le net, alors est-ce que ça va marcher mes petites flèches ici ? Et bien si tu ouvres les ports de ces
+11:56
+outils là et bien c'est d'autant de points d'entrée pour les attaquants. On sait que par exemple le web UI d'Open
+12:04
+Clow et bien il est pas sécurisé et Peter Stenberger l'a dit lui-même, c'est pas un outil qui est fait pour être
+12:09
+exposé sur le web. Même s'il y a une petite clé, il y a un petit token dans la session que tu passes, c'est pas un outil qui est fait pour être exposé.
+12:16
+Pareil si tu as des outils en interne, le web UI et cetera, c'est pas des outils qui sont faits pour être exposés
+12:21
+sur le net. On a vu notamment, mais ça arrive souvent en fait quand tu t'exposes comme ça des outils et bien il a des gens qui scannent tes ports et
+12:27
+puis ils vont voir qu'il y a je sais pas telle version de de de open clos, ils vont se dire "Ah bah voilà, on sait qu'il y a une faille, on va se connecter
+12:33
+et cetera." Donc ça c'est clairement à proscrire. Et la philosophie ici c'est d'avoir un reverse proxy avec un qui
+12:39
+s'appelle CAD dans un VPS avec tel scales privé. Et [grognement] l'idée c'est que quand tu te connectes ici via
+12:45
+un laptop, via un navigateur et cetera, et bien à chaque fois tu passes par des sessions privées sécurisées et comme ça
+12:52
+tu n'as pas de risque de d'exposer des données sensibles. Et ça avec ce genre d'outil, ils ont accès à tout, ils sont
+12:57
+en route sur ta machine, ils peuvent faire énormément de choses, il peut exposer des clés SSH, des choses comme ça. Donc il faut faire hyper attention à
+13:04
+la sécurité et bien sûr on verra tout dans cette vidéo. Alors, si tu veux installer Hermes sur un VPS, je dirais
+3 modes d'installation — Managed, Docker, Root
+13:10
+que tu as trois types d'installation en fonction de ton niveau, on va dire, d'expertise. Est-ce que tu veux
+13:15
+maîtriser ou pas l'outil en profondeur ? Et ça dépend un peu de tes skills techniques en terme, on va dire, d'admin
+13:21
+système. Si tu veux pas trop te prendre la tête, tu prends une version managed. Là, c'est directement les hostingers et
+13:28
+cetera, les providers qui vont te préinstaller ça et vont te faire gagner du temps. Tu as pas de clés SSH, de
+13:33
+choses compliquées à faire. c'est tu cliques, tuinstalles et tu démarres et tu utilises directement. La deuxième
+13:39
+version qui est pas mal aussi, c'est d'utiliser un docker. Si tu es familier avec tout ce qui est conteneur, docker et cetera, c'est quand même pas mal pour
+13:45
+tester des choses euh rapidement si tu as déjà un VPS ou quoi. Et la dernière version, moi celle qu'on va voir dans
+13:50
+cette vidéo, c'est l'installation le route installe. C'est-à-dire en gros, bah on va installer ça de manière tout
+13:57
+frais à partir d'une version d'un VPS tout neuf. Ça ça te permet en fait de
+14:02
+maîtriser l'outil. Donc si tu veux aller droit au but hein, comme je te disais sans perdre de temps, tu passes par la
+14:07
+version manager. Alors tu vas dans la description, tu vas retrouver un lien par exemple sur ici Hostinger et par
+14:13
+exemple ici sur Hostinger et bien il te propose une installation en un clic de
+14:18
+Hermes agent. Donc là tu prends tu passes par ce lien et tu arrives ici. Tu prends un KVM2 par exemple. Moi, j'ai un
+14:25
+KVM2 et ça fonctionne très bien. Dessus, j'ai Open Clow Hermes et j'ai un Docker qui permet de faire tourner aussi pas
+14:30
+mal pas mal de choses. Et tu arrives ici. Et ensuite quand tu vas arriver sur cette page et bien comme tu sais, je
+14:36
+fais régulièrement des collaborations avec Hostinger. Et là justement bah par exemple sur un pack KVM2, tu peux voir
+14:43
+déjà que tu as une grosse réduction puisqu'on passe de 596
+14:48
+€ à 212 €. Et si tu rajoutes le code promo en plus my coder, et bien tu as
+14:56
+encore par-dessus donc 10 % supplémentaire. Donc en faisant ça, tu
+15:01
+vas directement alors là tu fais continuer et bon là ils vont te demander de de te connecter et cetera et
+15:06
+directement et bien tu auras une installation fresh de Hermes. Alors pour la version Docker, je vais te montrer ça
+15:13
+tout de suite. Alors là il faut avoir un VPS. Alors, je te remets ici par exemple si tu es sur la page Hostinger, tu vas
+15:20
+ici, il te faut un VPS. Donc VPS ici VPS hosting par exemple et encore une fois et bien tu prends un KVM2 et là tu vas
+15:27
+prendre directement un serveur Hostinger. Encore une fois, toujours pareil, ici tu peux mettre ton code
+15:34
+coupon Micoder pour avoir ton VPS directement. Et dedans, une fois que tu
+15:40
+auras ton VPS à l'intérieur, tu vas pouvoir installer via l'interface directement en fait des images de Docker
+15:46
+et notamment l'image de Hermes. Alors là, ici, tu arrives dans l'interface d'administration ici. Donc tu as une
+15:53
+fois que tu as ton VPS et que tu as créé ton instance VPS ici tu vas dans Docker
+15:58
+Manager ici Docker Manager. Tu vas dans catalogue et ici vraiment tu as tout un tas de de choses préconfigurées et ils
+16:05
+ont rajouté notamment Hermes agent. Donc ici en faisant ça, tu vas installer
+16:11
+directement une image de Hermes agent. Et si jamais tu veux la version web UI, etth bien c'est ici. Et une version
+16:18
+Workspace que j'ai pas encore testé, mais si tu veux directement démarrer, c'est donc cette versionlà. Là on est en
+16:25
+mode docker directement et tu peux aussi l'installer si jamais tu es habitué, que tu as déjà ton instance en SSH. Bien
+16:31
+sûr, une fois que tu es connecté dedans, tu peux aussi via Docker installer ton instance. Mais c'est tout aussi simple
+16:37
+de passer justement par cette interface qui est relativement donc simplifiée. Et enfin pour la version qu'on va faire
+16:44
+ici, étape par étape, donc route installation ici et bien donc une fois
+16:49
+que tu as mis le coupon et cetera, tu vas sélectionner ton serveur location. Ici moi je suis en Indonésie donc du
+Setup VPS
+16:54
+coup je vais prendre là puisque je j'ai un ping une latence qui est très basse. Mais si tu es en France normalement
+16:59
+France devrait être préconfigurée par défaut. Ensuite et bien le mieux c'est
+17:04
+d'installer un Ubuntu. Tu choisis la version ici 24 LTS, c'est la version la
+17:09
+plus courante. Ensuite et bien tu vas y générer un password. Bah là on va générer un password ici tu vois que je
+17:17
+vais garder côté. Voilà comme ça pour la suite. Alors ça garde-le parce que alors après, tu peux toujours le changer. Mais
+17:23
+là alors pour la démo, allez on va mettre un truc asserti 1 2 3 4 bien sûr ça sera changé mais ça nous permettre de
+17:29
+Alors, ils veulent pas. OK, ils veulent qu'il y ait au minimum 12 caractères. On va régénérer. Écoute, c'est très bien de
+17:35
+régénérer quelque chose de plus sécurisé. Ensuite, si tu veux ajouter des clés SSH, c'est ici. Voilà. Est-ce
+17:42
+qu'on va le faire ? On le fera. Bon, tu peux le faire si jamais tu es habitué avec des clés SSH. Allez, on continue
+17:48
+ça. Tu peux le gérer si tu veux. C'est toi qui vois. OK. Là, tu vois qu'il est en train de setup le VPS. Bien sûr, il
+17:56
+doit installer tout ça, j'imagine démarrer un serveur, mettre Ubun tout dessus et cetera. On va le laisser
+18:02
+travailler. Alors, le temps qu'il installe hein, je vais te montrer un petit peu les étapes d'installation. Ici, première étape, donc setup du VPS,
+Les 7 étapes CORE
+18:09
+connexion SSH, tant que tu as pas une bonne connexion SSH, c'est un petit peu le bordel. On va créer un utilisateur,
+18:15
+installer Airmes, configurer Telegram, mettre le TUI et ensuite on va créer
+18:20
+notre premier skills. Et enfin, bien sûr en bonus, je montrer stcale. Open web UI. et le Hermes dashboard. Une fois que
+18:27
+tu as ça, tu démarres sur quelque chose de relativement propre. Alors voilà, on y est. Donc une fois que c'est bon, il
+18:32
+te donne l'accès SSH route avec ton IP. Donc là, on va faire ça. Je vais te
+18:38
+montrer rapidement comme ça, tu vas pouvoir configurer proprement ton SSH. Donc ce que tu fais, tu vas dans un
+18:43
+terminal là sur ta machine là je suis par exemple, je suis sur mon map et normalement en tapant cette commande et
+SSH Acces et configuration
+18:48
+bien il va te demander "Yes, fingerprint". tu lui dis bien sûr et ensuite il va te demander le password et
+18:55
+comme on a vu tout à l'heure c'était le password que l'on a enregistré. Allez c'est parti, on va coller. Est-ce que
+19:00
+c'est bon ? Voilà. Donc là j'ai collé et il s'est bien donc connecté. Donc là tu vois comme tu peux voir dès que tu vois
+19:07
+route@as srv machin, ça veut dire que tu es donc sur le VPS. Maintenant, si tu
+19:13
+veux éviter à chaque fois d'avoir à taper cette commande machin et cetera et le mot de passe, et bien ce que tu peux
+19:19
+faire, je vais te passer une petite commande pour copier justement la clé SSH directement la commande qui
+19:25
+s'appelle SSH- copie- ID. Et là, booum ici et
+19:31
+normalement ici. Voilà. Donc là, il va nous redemander notre mot de passe. On
+19:37
+va coller. Et voilà. Donc là maintenant, il a accédé. Donc là, il a copié justement les clés sur ton Mac et
+19:44
+normalement à partir de là et bien tu auras pu à rerentrer le mot de passe. On va aller faire un test directement
+19:50
+normalement maintenant avec cette commande normalement ici si tu colles SSH et que tu te connectes au serveur,
+19:55
+il devrait plus te demander le mot de passe. Voilà, ça c'est une petite astuce qui va permettre de te faire gagner un
+20:02
+petit peu de temps. Maintenant, qu'est-ce qu'on a aussi ici ? Et bien on va commencer par les étapes habituelles.
+20:08
+Moi j'aime bien mettre à jour la version d'Ubuntu et les dépendances. Allez, on va mettre à jour aptate et cetera. C'est
+20:14
+le gestionnaire de dépendance debuntu. Comme ça, on est sur une version qui est un petit peu plus à jour. Voilà. Tac.
+20:21
+Tac. Donc ça ça devrait ça devrait être bon. OK. Ensuite, une fois qu'on est à
+Creation user
+20:27
+jour, moi j'aime bien créer un petit utilisateur Hermes. Allez, hop, on va
+20:32
+créer un petit user Hermes. Ici en password, on va mettre un password
+20:37
+facile pour la vidéo. Voilà. Donc là, on est bon. On va l'appeler Hermes. Donc lui donne un nom. Hermes room number, on
+20:44
+s'en fout. Phone, on s'en fout et cetera. Est-ce que les informations sont correctes ? Oui, les informations sont
+20:51
+correctes. Donc là, il faut Moi, j'aime bien créer un utilisateur à part. Si tu veux rester en route, tu fais comme tu
+20:56
+veux. Moi personnellement, j'aime pas ce genre de chos. Je préfère isoler avec un
+21:02
+utilisateur. Éventuellement, tu peux le rajouter en sudo, mais ça c'est pour les utilisateurs avancés. Allez là, je me
+21:08
+connecte maintenant en utilisateur Hermes. Et donc là, tu vois que quand tu vois ça, route @AS machin, c'est que
+21:15
+c'est connecté en route. Et quand tu vois Hermes@ machin, c'est que tu es bien connecté avec l'utilisateur Hermes.
+21:20
+Une fois que tu es avec le bon utilisateur Hermes et bien bah là, c'est la documentation officielle hein de la
+21:25
+documentation de Hermes. Il suffit d'aller ici et comme tu peux voir, j'invente rien. Je tape cette commande
+Hermes Installation
+21:32
+pour aller installer Hermes agent. Alors, tu verras que probablement il va
+21:39
+faire des checks et il va falloir installer des dépendances comme et cetera et sil y en a besoin et bien on
+21:46
+le fera étape par étape. Là, je suis vraiment sur un serveur tout neuf. Allez, lui il nous demande d'installer
+21:51
+RIP, grap et FFMpegir les vidéos. Bien évidemment, on va dire yes. Là, il redemande le password pour
+21:59
+Hermes. Allez, on va lui remettre son password pour autoriser les installation.
+22:04
+Si ça te saoule de faire ça, et bien tu le fais en route, mais moi, je préfère ne pas lui laisser accès à tout.
+22:10
+Ensuite, il nous demande ici, est-ce qu'on veut install ? Bien évidemment, on
+22:16
+va mettre yes ici. Alors, attends, je vais un petit peu grand agrandir pour que ça soit plus simple pour cette
+22:22
+vidéo. Elle encore une fois, nous demande le password. Je préfère le faire. Donc là, il build tous les tools
+22:27
+dont il a besoin, les dépendances et cetera, chromium, nos sudoable. Là, tu
+22:33
+vois qu'on a des petites des petits problèmes notamment sur ça parce qu'on n'est pas en sudo mais normalement, il
+22:39
+nous demande de retaper le mot de passe. Allez, il continue. Allez, ensuite donc il a installé le browser engine. Ensuite
+22:46
+là, il va nous installer le T UI. OK, donc il est bon. Voilà. Donc là, la
+22:51
+partie importante sur le setup. Alors moi ce que je te recommande c'est de plutôt choisir ici dans un premier temps
+22:57
+un quick setup. Bien sûr si tu veux tout installer, tu peux tout faire. Mais sache qu'à tout moment tu vas pouvoir relancer la commande Hermes setup et
+23:03
+reparer toutes les commandes. Donc là on va aller rapidement. L'idée c'est d'avoir un setup qui fonctionne plutôt efficacement. Allez c'est parti. Il va
+23:10
+nous demander inférence provider. OK. On va le laisser travailler ici. Qu'est-ce
+23:17
+qu'il nous dit ? Donc il va poulling. Il va pouler tout ça. OK. Alors c'est un petit peu nouveau de ce que j'avais
+23:23
+avant. Normalement, il là il me il me demande d'aller vers le portail alors que normalement et bien je préfère
+23:30
+utiliser directement mes provider. Mais à la limite là c'est une nouvelle étape que j'avais pas vu. Et bien on va suivre
+23:36
+ça. Il veut qu'on passe par on va créer un compte, c'est pas grave. On va gérer une souscription. Mais normalement alors j'ai dû j'ai dû rappeler une étape parce
+23:42
+que normalement je suis pas obligé d'utiliser leur souscription. Allez on va tester. On va on va créer un petit
+23:47
+compte. C'est parti. Ici on va créer un compte gratuit. Allez, il se connecte.
+23:53
+Donc là, on s'est connecté. OK. OK. OK. Alors, j'avais pas fait cette étape avant. Je te la montre si jamais tu veux
+23:59
+passer. Donc là, je suis euh connecté et subscribe and connect. J'imagine que ça doit être ça. Voilà. Alors, je sais pas
+24:06
+pourquoi il me demande ça. Voilà. Donc, il demande de mettre la carte de crédit et cetera. Donc là, je pense que c'est une étape que tu peux zapper. Moi, je
+24:12
+l'avais pas vu avant. Je sais pas pourquoi il me l'a proposé. Ils veulent nous pousser à utiliser leur plan qu'on ne va pas utiliser. Donc là, hop, ce que
+24:20
+je vais faire, je vais annuler ça et plutôt avancer sur les étapes. On reviendra bien sûr sur sur les étapes de
+24:28
+d'agent là parce que là, il m'a il m'a il m'a forcé un petit peu à suivre leur étape. Il m'a un peu surpris, ça doit
+24:33
+être une nouvelle version parce que normalement à cette étape là, il me laissait créer une clé open AI et cetera. Mais on reviendra dessus,
+24:39
+t'inquiète pas. Allez là pour ici le terminal backend, on va le laisser current, c'est-à-dire local. On va setup
+Setup Telegram
+24:46
+les messaging no bien évidemment. Et donc là, tu vas pouvoir sélectionner ton
+24:51
+canal. Ce qu'on va faire ici, bah on va choisir alors tu peux sélectionner ce que tu veux. Je veux pas tous te les
+24:56
+montrer, mais je vais te montrer le plus courant, c'est-à-dire le canal Telégram. Donc là, tu fais espace pour
+25:03
+sélectionner et ensuite on va laisser. Donc là, il te demande ensuite d'entrer
+25:08
+le Telegram Bot token. Donc pour ça, bien sûr, il te faut avoir l'application sur ton téléphone Telegram ou sur ton
+25:15
+ordi. Et tu vas chercher ce bot là qui s'appelle boter ici. Et c'est ce qu'on
+25:21
+va faire et on va aller directement ajouter et créer la clé. OK. Donc une
+25:27
+fois que tu as trouvé, il est où notre boter ? ici là là je donc je faut retrouver donc ce bot phaser et
+25:34
+normalement ici et bien on va créer donc tu fais slash new bot ici add a new bot
+25:40
+please chose a name on va l'appeler on va l'appeler herm alors moi j'ai plein
+25:45
+de botes je vais éviter donc hermes vps tuto bot et on va lui use for your bot
+25:53
+must termine by bot on va lui mettre le même name ok parce que c'est le nom ensuit donc tu vois qu'ici il te propose
+25:59
+pose donc un token, tu vas cliquer dessus pour que coller au clipboard et ensuite tu vas revenir ici et tu vas
+26:07
+coller. Alors quand tu vas pas, il va pas forcément tu vas tu vas croire que ça bug mais ça bug pas, c'est pour des
+26:12
+raisons de sécurité. Et tu cliques sur entrer. Donc là on va faire contrôle V. Tu vois qu'il se passe rien mais tu cliques quand même sur entrée. Et là il
+26:19
+me dit que c'est pas bon. OK. Allez contrôle V c'est toujours pas bon. Là
+26:25
+c'est bon. Voilà. Donc est-ce que c'est bon ? J'ai pas vu si c'est bon. D'ailleurs, il allé un peu vite là. Ah, OK, setup complète. J'ai pas vu qu'il
+26:32
+m'a dit que c'était bon pour le token. Là, je suis allé un peu vite, mais voilà. Donc, il nous dit que tout ça a
+26:37
+étaé installé, il nous montre le setup et cetera. Donc là, ce qui est bien, c'est qu'à tout moment en fait, tu vas
+26:43
+pouvoir relancer cette commande Hermes setup. Là, on va le relancer parce que par exemple, on a toujours pas mis tout
+26:49
+ce qui est en fait clé API pour notamment Codex et peut-être d'autres agents. Allez, on va relancer. Alors,
+26:54
+Airm setup notre bien évidemment il faut relancer cette commande parce que ça a été ajouté au B au B chercher BH RC
+27:02
+voilà pour pouvoir utiliser Hermes setup sinon Hermes n'est pas reconnu. Allez,
+Setup Model (OpenAI)
+27:08
+on y va. Hermes setup. Donc là, on va relancer un setup ici. Alors, je comprends pas pourquoi il me force à
+27:14
+utiliser son truc là. Ça me saoule. Ah là, on a accès hein. Les petits malins, ils veulent ils veulent nous forcer à
+27:19
+utiliser leur leur provider à la con. Avant, c'était moins gênant. Alors ce qu'on va faire nous on va utiliser 6 le
+27:27
+codex open a codex. Alors 6 open a codex 6 ici. Voilà. Donc là qu'est-ce qu'il va
+27:34
+nous faire ? Il va nous demander de se connecter ici. Ici donc je vais aller me connecter sur open AI. Donc là je vais
+27:42
+me connecter avec mon compte classique. Ici on va y mettre le tout FA. Ça a été
+27:48
+collé. Il nous demande connexion ici avec chat GPT. OK. connexion codex avec
+27:54
+chat GPT. Et ici bien évidemment, il faut saisir le code à9 shift. Donc le code à9 shift à coller, c'est celui qui
+28:01
+nous a été proposé ici. Donc tu reviens ici et tu fais contrôle shift C. Et on va pouvoir donc coller à nouveau notre
+28:09
+code ici. Et là voilà, on va être connecté à Codex et on va pouvoir fermer cette page. Donc là on va arriver ici et
+28:15
+normalement voilà. Donc là, tu vas pouvoir sélectionner ensuite et bien les différents modèles. Moi, je vais rester
+28:22
+sur le GPT 5.5 et ensuite voilà, on est passé à l'étape suivante. Donc là, il
+28:27
+garde la configuration comme avant, le setup comme avant. Alors, c'est marrant, il a pas setup le télégramé
+28:34
+tout à l'heure. Donc, ce qu'on va faire, on va le resetup. Je vais lui redonner notre token ici qui a été collé là. Et
+28:41
+je sais pas pourquoi le coller ne fonctionne pas. On va retester là. Il me dit que c'est bon cette fois-ci. Alors,
+28:48
+chose intéressante, il faut aussi que tu donnes les ID Telegram qui peuvent communiquer. Alors, moi je te recommande de mettre ton user de Telegram pour
+28:54
+éviter que n'importe qui puisse se connecter. Tu utilises ce infobot là, il
+29:00
+va te dire qui tu es avec son ID et cetera. Et ben on va le faire hein, mais j'ai pas envie de te donner les informations personnelles. Et donc
+29:06
+ensuite et bien il va nous demander d'installer la gateway à système des service. Bien sûr faut mettre yes parce
+29:12
+que tu redémarres souvent le VPS et c'est et c'est intéressant qu' redémarre aussi en parallèle. Allez donc là tu
+29:18
+mets ici donc tu mets user service no sudo machin n na nana. Alors, vaut mieux mettre celui-là, hein. Donc, système
+29:25
+service. OK. Donc là, on l'a mis à système service. Donc, normalement, à partir de là, et bien, on devrait
+Hermes TUI
+29:32
+pouvoir utiliser notre Hermes. Alors, tu fais Hermes--tu ti. Là, tu devrais voir
+29:39
+qu'il est que la gateway normalement n'est pas encore lancée, hein, si je me trompe pas. Si elle est lancée, d'accord, elle est déjà lancée. Donc
+29:45
+voilà, tu fais Herms T-T. Sinon, si jamais la gateway est pas lancée, tu fais Hermes gateway.
+29:52
+Ça je sais pas ce que c'est. Salgate système D. Ah parce que voilà donc là c'est marrant c'est Telégramle.
+29:59
+OK donc je vais je vais dire que j'accepte. Et donc du coup après tu vas pouvoir parler à ton bot Telegram ici.
+30:07
+Est-ce qu'il répond ? Alors on va lui envoyer un petit hello là. Tu vois j'ai contacté le Hermes. Alors il a pas l'air
+30:12
+de répondre encore. On va lui faire start peut-être. C'est ça. Bon il est pas encore connecté pour le télégram. On
+30:17
+va voir un petit peu ce qui se passe. On va lui faire hello s'il a l'air de mouliner. Si. Voilà. Donc il est connecté. Donc on va sortir et on va
+30:25
+tenter. Donc là tu fais contrôle C si tu veux quitter et on va faire un Hermes
+30:31
+getway. Alors est-ce que c'est pareil que open clos ? Donc ça a pas l'air de
+30:37
+fonctionner. Ce qui est bien, c'est qu'on est sur Hermes et ce qu'on va faire, ben on va lui demander lui-même de s'autoanalyser,
+30:43
+hein. OK, donc là on est là, on va lui dire peux-tu
+30:48
+redémarrer la gateway Hermes ? Ou là, alors là, c'est mal écrit mais j'espère
+30:54
+qu'il devrait comprendre. Alors des fois, faut faut faire gaffe quand même. Hermes agent, voilà, il va lire automatiquement. Alors, c'est marrant
+31:00
+qu'il me demande ça ici. Il m'envoie ça en même temps en parallèle sur Telegram. OK. Voilà, il a donc tu vois il avait il
+31:06
+faut toujours faire un petit restart. Donc là il me dit qu'il a relancé manuellement et cetera et note le
+31:12
+redémar permanent a échoué. L'inger n'est pas activé pour l'utilisateur. Donc ce qu'on va faire déjà alors
+31:17
+attends on va on vient de redémarrer. Première chose on vient de redémarrer. Allons tester notre Airman. Voilà donc
+31:23
+ça répond. Salut ça va ? Donc là on va pouvoir donc la base c'est quand même de
+31:28
+pouvoir communiquer avec lui sur Telegram. Donc là oui ça va. Donc première chose, le canal Telegram est
+31:34
+activé. Je vais lui demander quelle liber. Je sais plus laquelle pour le restart
+31:41
+service. Donne les commandes. Allez, on va le laisser travailler. Normalement, il va me demand il va me dire
+31:46
+d'installer Linger là. Linger machin. Allez, donne-moi les livres. Il peut pas l'installer parce qu'il est pas sudo.
+31:51
+OK. Qu'est-ce qu'il nous dit ? Il nous dit voilà. Donc on doit taper ça. On doit taper ça. Et ben on va taper ça.
+31:58
+Allez excite. Contrôle Ca rapide. Allez Sudo. On remet le password de notre
+32:04
+utilisateur. Hermes notre sudower. Il est pas sudo et ben on va le rendre sudoer notre ami. Allez on va quitter la
+32:11
+session ssh. Ah benah là je suis bah je suis en route. Donc du coup on va pouvoir l'utiliser. Voilà ça et on va
+32:18
+lui dire tirer machin. Voilà. Donc là normalement donc si je fais essu alors
+32:23
+je suis pas un expert, je suis pas un admin système expert hein su mais si je
+32:30
+me trompe pas désolé à tous les admins 6 qui vont me dire que je suis une merde.
+32:36
+Voilà c'est bon. Donc là c'est bon. OK et on va pouvoir relancer notre commande en sudo. Normalement il aura les droits
+32:43
+sudo notre ami Hermè. Est-ce que c'est bon ou pas ? Oui ça a l'air bon. J'ai pas d'erreur sudo, je peux exécuter donc je vais pouvoir donc on relance notre
+32:50
+Hermes tirer tirer ti. Désolé pour ces petites étapes techniques mais bah si je
+32:55
+les ai, tu les auras aussi et c'est l'objet d'une vidéo longue. Donc là je suis bon. On a notre service qui est
+33:01
+redémarré donc c'est vraiment pas mal. OK. Alors maintenant que l'on a donc
+33:06
+fait toutes ces étapes là, le setup VPS, le SSH, le user, le Hermes, le Telegram, on est en mode TUI ici. Donc tu vois
+33:14
+qu'ici c'est sympa mais quand tu es sur ta machine ou quand tu es je sais pas, enfin c'est quand même Telegram c'est sympa mais voilà des fois tuas tu as
+33:20
+envie d'interagir ici pour faire des commandes, pour restart, pour faire des mises à jour. le mode SSH. Alors, tu
+33:27
+peux bien sûr avec tiens, je te montrer ça si jamais tu es tu es un gros geek et que tu veux utiliser, je crois que tuas
+33:32
+une application iOS qui s'appelle Thmius. Thmus iOS. Voilà cette application ici qui va te permettre en
+33:38
+fait sur ton téléphone mais ça reste des trucs quand même de geek et c'est pas des choses voilà vraiment incroyables.
+33:44
+Et donc moi ce que je te propose ici par exemple, j'ai comme Open Clow. Ici, on a vraiment une vraie interface. Et bien
+33:51
+ici, c'est intéressant d'avoir un chat, une interface web pour chatter avec ton Hermes. Donc si tu veux faire ça, il y a
+Hermes + OpenWEBUI
+33:58
+un truc qui s'appelle Open Web UI. Ici, get open web UI qui va te permettre en fait d'avoir une belle interface web, un
+34:04
+peu comme ici et pouvoir chatter avec ton agent. Tu en as une autre aussi, je vais te la montrer même si on va pas
+34:10
+l'installer, qui s'appelle donc Herms Web UI. ici si jamais tu si te sens le
+34:17
+plaisir d'installer ça, on pour remarque on pourrait installer ça plutôt qui est un peu de la même manière qui ressemble
+34:23
+peut-être un peu plus à Claude ici qui va nous permettre de travailler avec les agents Hermes directement. Bah, on peut
+34:30
+même faire les deux, hein. C'est une longue vidéo, on a le temps, on va s'amuser. Allez, on va commencer plutôt. Et ben, pour faire ça, c'est très
+34:35
+simple, hein. Il y a il y a rien de magique maintenant puisque à partir du moment où tu as un agent configurer une machine, les accès, on va lui dire
+34:42
+directement "OK, maintenant installe sur ce VPS, open web UI. On verra dans un
+34:49
+second temps comment l'exposer. On va utiliser tail scale, mais commence par
+34:56
+l'installation." Voilà. Donc il va lancer des tâches et cetera. Allez, on va autoriser. Donc qu'est-ce qu'il fait
+35:02
+? Donc tu regardes ce qu'il fait. Il fait des aptgate update et cetera. Donc on va l'autoriser. Il est en sudo maintenant. Donc ça c'est quand même
+35:07
+cool. Allez, on l'autorise. Alors je vais l'arrêter ici hein parce qu'il me dit que Sudo n'est pas utilisable sans
+35:13
+mot de passe. Il y a un mode sudo, je l'avais fait dans la config avant. Donc on va lui demander parce que normalement il a un mode pour qui gère le sudo. On
+35:21
+on va regarder dans la config et je vais lui demander où c'est. J'ai déjà vu qu'avec Hermes, il y avait un mode où tu gardais le mot de passe pour Sudo afin
+35:28
+de pouvoir installer de manière autonome. Peux-tu me préciser où c'est ? Alors voilà ce qu'il nous dit. Il nous
+35:33
+dit si jamais tu veux mettre donc le le l'autorisé en sudo, c'est ici dans hermes. Tu mets sudo password, le
+35:39
+password chod machin. Mais je sais de mémoire qu'il y avait Hermes Getaway
+35:47
+Setup. Est-ce que c'est cette commande Start Getaway ?
+35:52
+Yes ! Est-ce que c'est ? Ah, démarre automatiquement en service. Yes.
+35:59
+Non, c'est pas là. Faudrait que je retrouve Hermes setup. Peut-être Hermes setup directement. Donc, on a notre
+36:04
+agent. Ça, je vais pas lui dire de je vais rien faire de particulier. Keip curente. Max itération. Donc ça, on va
+36:12
+laisser ça. On va laisser compression, on va laisser ça. On va laisser
+36:18
+l'inactivité, tu vois. Donc là, on avait vu tous ces trucs là. Donc Telegram, on va laisser. No, on va pas reconfigurer
+36:24
+Telegram, on va restart the getway to pickup change. Il m'a pas reproposé. Alors, dans la dans là, c'est une mise à
+36:30
+jour dans la version présente. Il m'avait il m'avait vraiment proposé ça. C'est vraiment dommage que je ne n'ai
+36:35
+pas. Donc là, il me repropose configure le CLI. On va continuer. Alors là, tu vois, tu
+36:42
+as tous les options. Bon, on va pas on va pas faire. On va dire que c'est donne. Et voilà. Donc, c'est tout. Donc,
+36:47
+j'ai pas l'option. Donc bah on va lui dire, allez on recommence. Hermors c'est marrant parce que dans la version d'avant, je l'avais. Écoute, c'est c'est
+36:54
+la vie. Au moins, tu vois les mêmes versions que moi. Hermesti. Allez, on va faire un résume session résume plutôt,
+37:00
+pardon. Hop, ici résume ici. Et je vais lui dire fais-le, je vais te donner le
+37:07
+mdp. OK, donc on lui a filé le mot de passe. Il a bien mis he ce qu'il nous
+37:13
+dit. Attends, j'ai parce que j'ai redémarré. Il a bien mis dans sudo ch mod. Donc normalement, c'est bon. Et du
+37:19
+coup maintenant, il a accès en sudo, il devrait être autonome. C'est dommage qu'avant il l'avait proposé directement. Écoute, donc du coup là, il reprend
+37:25
+l'installation de Open Web UI. Alors, il a pas fait comme je l'avais déjà fait. Moi, il me l'avait proposé de le faire
+37:31
+directement. Alors là, il dit que ça a pas marché encore. OK. OK. Il a galéré à CT. Il avait un problème sudo. Il faut
+37:37
+lui donner le mot de passe de Hermes. Donc là, il reprend l'installation. On va lui autoriser pour toute la session.
+37:43
+Ce que je disais c'est que là ce que j'aime pas, bon why not il installe un docker. Je vais lui dire attends je j'ai
+37:48
+pas envie qu'il alors tu peux l'installer directement ou via un docker. Je vais le stopper tout de suite. Je vais lui dire ne l'installe pas via Docker, installe-le directement.
+37:55
+Alors tu peux utiliser un Docker. Moi, je pense que c'est bien d'avoir un Docker mais pour voilà si tu veux installer un un Open Clow ou quelque
+38:01
+chose différent. Là on le laisse terminer. Donc là il va nous installer. Donc tu vois, il nous installe notre web
+38:07
+UI. Open web UI. Et ce qu'il va falloir faire, je laisse mouliner, c'est un peu long le temps qu'il démarre. Donc il va
+38:12
+démarrer un serveur ici. Est-ce que je peux te montrer ça dans un Excalidro ? Peut-être. Peut-être ici. Voilà. Donc
+38:18
+là, on va dire que tu as le VPS, tu as Hermes, tu as la gateway et en vrai, tu
+38:23
+as deux manières de faire. Soit où je te disais, tuexposes directement sur le web
+38:28
+le web UI, mais là c'est ce qui bah c'est ce qui fait. Donc premièrement, il faut installer le web UI et après bah tu
+38:35
+mets, tu fais en gros, tu vas faire http s point machin, tu vas mettre l'IP du VPS. Donc en gros l'IP du VPS qui
+38:42
+devrait être plus ou moins celleci qui est où je sais plus si on l'avait fini l'installe ici. Donc cette IP là tu peux
+38:50
+aussi mettre un nom de domaine derrière qui pointe vers cette IP et tu te connectes en direct comme ça dessus sur
+38:55
+le bon port. Ça peut être un port 80 port 3000 enfin peu importe le port. Ça c'est une manière on va dire où tu as un
+39:02
+accès direct. Moi je recommande pas directement cette manière-là. Ce que je te recommande, hein, comme je te disais,
+39:07
+je te recommande cette infrastructure-là, c'est-à-dire que ici, il vaut mieux en fait que depuis
+39:13
+l'extérieur, tu puisses pas accéder directement au service, mais que tu que ça soit à l'intérieur d'un réseau privé
+39:20
+ici. Ce qui veut dire que par exemple ici, tu vois, j'ai mon Open Clow. Ici, cette adresse, c'est pas une adresse publique, c'est une adresse privée de
+39:26
+tel qu'elle. Ça veut dire que si toi tu tapes cette adresse, ça va t'amener nulle part puisqu'on est sur un réseau privé VPS mèche de de tel. Donc ça c'est
+39:34
+important puisque si je mettais ça en public, bah quand je fais des vidéos, si quelqu'un voit l'URL et ben il peut tenter de se connecter, si c'est mal
+39:40
+protégé et cetera. Bon voilà, donc moi c'est ce que je te recommande. Donc là pour le moment, on est en train d'installer ça et ce que je ferai après
+39:47
+derrière, je lui dirai d'installer tel pour exposer un petit peu tout ça. Allez, il en est où notre ami Imoulin ?
+39:53
+Voilà, Open Web UI est maintenant installé en local. Docker a été installé juste avant machin. Donc il va nettoyer
+39:59
+le docker. Après il aurait pu le garder si l'installation était propre. Bon c'est pas grave. Donc il continue. C'est un peu long mais voilà. OK, donne. On
+40:06
+est bon. Alors qu'est-ce qu'il nous a dit ? Il nous a dit donc voilà c'est fait. Donc open web UI est installé ici.
+40:12
+Donc tu vois qu'il a pu installer en soudo. Donc maintenant une fois que tu as ça, tu peux tout installer. Il est là. Le service user a été créé. Donc là
+40:18
+il a testé en local sur le port 80 que c'est bon. Donc ça c'est cool. Il te dit que c'est HTTP. OK. J'ai aussi nettoyé
+40:24
+le docker et cetera. Donc là on a le web UI. OK ça bug là. Ça commence à me saouler ce ce clipboard là. Je disais
+Tailscale - Sécurise tes accès Hermes
+40:31
+donc tu peux maintenant installer le tels scale et on va le configurer afin
+40:37
+de pouvoir exposer web UI sur tels scale. Installe-le là. On va laisser
+40:43
+installer ça hein. Je te rappelle ici qu'on va installer ça. Il faut bien évidemment que tu installes, tu crées un
+40:48
+compte, tu vas sur tel scale ici he le temps qu'il installe. Voilà, donc tu
+40:54
+fais get started, c'est gratuit. Tu vas pouvoir te créer un compte. Il faut que tu installes sur par exemple ici, ben
+41:00
+moi je l'ai hein, tel il est là. Ici, hop et tu vas pouvoir en gros créer ton
+41:05
+réseau privé. Et une fois qu'il est là, après ça tourne tout le temps. Alors ce qui est bien, c'est pas comme un VPS, un VPN normal. C'est dire qu'un VPN, si tu
+41:12
+tu installes Nord VPN par exemple ici, tout le trafic passer par ton VPN et parfois bah tu as pas envie que tout le
+41:18
+trafic passe par VPN. Ici ça va vraiment être ciblé sur les noms de domaines qui vont être attribués. C'est-à-dire que
+41:24
+uniquement le trafic vers des serveurs notamment bah par exemple ici ça va être vers Hermes mais tout le reste va passer
+41:31
+normalement. C'est pas tout le trafic qui va passer sur ce tru-là. Donc tu crées ça, tuinstalles le petit client,
+41:37
+tu crées un compte et cetera et ensuite tu vas pouvoir une fois que lui il aura fait le boulot, on va pouvoir donc là il
+41:45
+installe le tel scale. Allez on va le laisser. Il faudra se loguer. Alors, je refais la procédure en même temps avec
+41:50
+toi puis ça fait un petit moment que je l'ai pas faite. Mais comme ça et bien écoute, tu pourras le faire normalement.
+41:55
+Alors, ça c'est un peu c'est un peu ballot bateau ballot qui qui mettent le
+42:01
+mot de passe sous dans les logs. Ici, je le vois tourner plusieurs fois. Alors, bien évidemment à la fin de ce tuto, je
+42:06
+vais détruire le VPS comme ça, il y a aucun truc qui traîne. Donc, ne vous me dites pas Mike, tu as laissé des
+42:12
+problèmes de sécurité, on est dans le but d'une vidéo tuto. Donc voilà. Donc là, allez, il nous a activé tel SC.
+42:18
+enbl, il me reste plus qu'à m'authentifier. Donc voilà ce que tu vas faire, tu vas une fois que tu as créé
+42:23
+ton compte et cetera, tu vas pouvoir t'authentifier avec ça. Donc c'est ce qu'on va faire dès maintenant. Et
+42:29
+ensuite et bien je vais pouvoir y accéder. Allez. Alors par contre je vais me je vais me connecter. Alors tu le
+42:34
+verras pas parce que je vais le faire sur une autre adresse où je suis connecté pour éviter que tu vois des
+42:41
+informations personnelles bien évidemment. Donc le lien une fois que tu as ton compte hein, bien sûr tu vas
+42:46
+pouvoir te connecter ici, tu vas lui l'accepter le les deux tailles d'event
+42:51
+ici. Donc tu vois, il te met le serveur, la clé, machin et cetera que je vais supprimer bien évidemment après. Et
+42:57
+ensuite voilà, donc tu fais connect. Donc là, tu es connecté. Voilà, tu viens juste de te loguer depuis ici
+43:03
+directement. Voilà. Donc là, je vais pouvoir lui dire "OK, c'est bon, je me suis connecté. Vérifie." OK, on va
+43:09
+accepter. OK, le service a redémarré avec le tiret hose, donc ilutorise ici.
+43:15
+Allez, on continue. Donc ce qui fait, voilà, il va se connecter, ce qui va faire que et bien alors le CAD, il est
+43:22
+optionnel hein, c'est du reverse proxy, mais mais ce qui veut dire qu'ici et bien il a il a bindé ici, il a fait ça
+43:28
+en fait hein. Il a il bind ça et ça. Comme ça, tu vas pouvoir rentrer dans ton VPS en interne et se connecter.
+43:34
+Allez, voilà. Donc là, il me donne l'adresse ton tail net là machin. Alors pour avoir cette adresse, et bien on va
+43:40
+aller directement sur alors pour avoir alors attends voilà, normalement ici ça devrait il devrait être exposé via cette
+43:47
+IP. Alors est-ce que ça marche ? On va tester cette IP déjà. On va on va tester en mode IP avant de tester en mode nom
+43:54
+de domaine. Allez ici on y est ou pas ? Booum. Voilà. Donc là je suis donc
+44:01
+connecté. Alors bien sûr ça tu peux changer par un nom de domaine. Tu vas dans tel scale ici dans la config de tel
+44:07
+scale ici on y a accès. C'est quand même plus sympa. On va se créer un compte administrateur. Allez on va mettre un
+44:12
+nom d'utilisateur. On va mettre admin. On va mettre admin.
+44:18
+Et on va lui mettre un mot de passeer comme ça. Booum. Voilà est allons-y. Et
+44:24
+là on va tester si ça marche parce que c'est pas tout d'avoir accès à l'interface. Il faut aussi qu'on puisse accéder à Hermes via les API. Donc on va
+44:30
+dire hello, ça va ? Modèle non sélectionné. OK. C'est où ça qu'on sélectionne le modèle ? Je suis pas un
+44:37
+grand fan conversation. Ah pardon. Sélectionner un modèle. Gérer les connexions. OK. Bah il a pas de il a pas
+44:44
+de connexion. Alors encore une fois ici hein, je te remontre un peu le schéma. Ça veut dire que open web UI qui est ici
+44:52
+je t'explique un peu la problématique que je découvre en même temps que toi. Open web. UI, c'est un serveur web qui
+44:58
+expose un frontal, on va dire, de chat. Derrière, bien évidemment, il doit être connecté. Donc, il peut être connecté,
+45:04
+c'est c'est un truc générique, il peut être connecté à Open Clow, à Airmes, à des API, au lama et cetera. Donc bien
+45:09
+évidemment, nous ici, dans notre cas, on veut connecter Hermes donc il faut lui spécifier la config. Quand j'ai fait des tests avant moi sur mon autre serveur,
+45:16
+il l'a fait automatiquement. Ici, il l'a pas fait. Mais donc ça veut dire que ça se fait ici. Il faut configurer. Alors,
+45:22
+probablement mettre le bon domaine et cetera. Ici, le met en local host. Voilà. Bon, on n pas ça si tu veux
+45:27
+générer ça. Donc ce que j'ai fait, on lui a demandé ici webi doit pointer vers la pay du serveur Hermes. Je vérifie
+45:33
+pour l'adapter et cetera et cetera. Donc on va le laisser faire encore une fois, il devrait trouver et faire la config.
+45:39
+OK. OK. Alors là, je vais accepter un truc. Je vais te montrer. Alors, je vais tout accepter pour la session mais
+45:45
+regarde ce qu'il nous dit. C'est important bien évidemment je te montre les étapes. La config qui est en faire en deux morceaux, c'est premièrement
+45:50
+Hermes doit exposer ses API open AI compatible sur 127 machin V1. Why not ? Alors ça il me l'avait pas fait dans mon
+45:57
+installation précédente. Donc je découvre et aussi open web d'utiliser cette URL comme backend open compatible.
+46:03
+Donc là alors bien évidemment ça sera pas 127001 mais ça sera probablement l'IP tel de notre VPS et cetera. Donc
+46:11
+allez il y va il va nous faire cette config. Es-tu sûr que c'est une IP locale vu qu'on est sur tel scale avec
+46:19
+une IP ? Je quand même lui dire on va le laisser faire. Il nous dit qu' ça redémarre. Je te montre tout ça. Ça va être un peu long dans le tuto mais bon.
+46:25
+Après voilà, je commence à voir un agent Hermes. Et ben on va tester. Salut, ça
+46:31
+va ? Est-ce que ça marche ça ? Alors il a je je vais un peu vite parce qu'il est en train de faire des choses mais comme
+46:37
+je vois qu'il est c'est là-bas. Voilà ça va. OK donc là voilà on vient de
+46:42
+installer. Alors il a dû finir la config hein. OK. OK donc là on voit que ça marche. Donc ça fonctionne d'ici. Donc
+46:49
+là on reprend notre truc. Donc on a accès. Donc là, on a accès depuis ici. Depuis ici. Maintenant, donc une
+Hermes Dashboard
+46:55
+dernière chose qu'on aimerait bien avoir, c'est d'avoir accès à ce dashboard magnifique qui est ici, que
+47:02
+j'ai installé sur un autre outil sur un de mon VPS. Donc le Hermes dashboard qui est un outil officiel. Donc là, pour
+47:08
+lancer ce truc là, il faut taper Hermes dashboard. Ici, je mets un petit E
+47:15
+derrière pour lui dire de tourner en background. Voilà, donc il tourne en arrière-plan. Comme ça, je vais pouvoir
+47:20
+relancer un Hermes-tu TUI. Alors, on va laisser quand même builder le UI ici pour vérifier qu'il y
+47:26
+a pas de galère. Voilà, je vais lui dire je viens de démarrer le Hermes dashboard. Peux-tu l'exposer via tail
+47:34
+scale sur un autre port ? OK, donc il vient nous dire qu'il vient de exposer
+47:39
+Hermes via tels scale. Donc ce qui est bien avec cette technique, c'est que tu peux en vrai installer autant de
+47:44
+services que tu veux, les exposer sur un port et dire et tu lui dis ah de l'exposer sur ton réseau privé tel qu'el
+47:51
+sur un port particulier. Et donc là par exemple ici il nous dit alors bien sûr tu peux mettre un nom de domaine he ça je te l'ai dit tout à l'heure et c'est
+47:57
+important d'avoir un nom de domaine. C'est un peu moins moche que d'avoir une IP comme ça interne. Allez qu'est-ce
+48:02
+qu'on fait ? Ben, on a donc notre interface ici. On va voir est-ce que c'est exposé côté tel scale ici. Et ben
+48:09
+voilà, bingo. Donc on a tout qui nous permet de gérer ça tout simplement. Donc on a les modèles. Alors je je montre
+48:16
+rapidement ce qu'on a. Donc on a les sessions là qu'on était en train de de travailler. Donc là Telegram, là API
+48:22
+serveur, là c'est probablement Open Web UI qui passe par là. Là c'est Telegram et probablement aussi le TUI qui passe
+48:29
+par l'API serveur directement. récente session. Donc tu vois quand il y
+48:35
+a tout ce qui s'est passé, tu peux les supprimer. Donc ces deux-là sont encore en train de de fonctionner hein. Tu peux
+48:40
+voir tout tout ce qu'on a fait. On a la sélection des modèles ici. Donc tu peux en configurer d'autres. Donc tu vois,
+48:46
+c'est plus sympa si tu veux pas passer par le TUI de passer par là. Ensuite on a les logs ici. Donc tu vois tout ce qui
+48:52
+s'est passé, les logs en erreur, la de la gateway et cetera. Donc si tu veux aller un petit peu superviser un peu
+48:59
+mieux ce qui s'est passé sur Hermes, bien évidemment les chron c'est quand même quelque chose d'hyper important, c'est ici par exemple si tu veux créer
+49:05
+un chrome et lui dire daily morning et là tu mets ton chrome, tu tu lui dis où
+49:10
+tu veux que ça ressorte par exle, tu peux le sortir sur Telegram et tu mets le l'expression et tu peux lui dire tous
+49:16
+les matins, va faire une recherche sur le web des dernières news à propos de cloud code et cetera. Bim ! Et là, tu
+49:22
+vas pouvoir créer. Alors là, le l'expression n'est pas bonne. Tu lui demandes de te le mettre. Alors moi, le mieux c'est d'aller le pronter. Il va te
+49:28
+le faire plutôt que le faire là et après tu peux aller l'éditer là. Ensuite, bien évidemment les skills hyper importants.
+49:33
+Je t'avais dit qu'on allait en créer un mais finalement tu vas voir que c'est relativement simple. Ce qui est bien avec Hermes, c'est que de base, il te
+49:40
+propose quand même pas mal de skills, hein, pas mal de choses de DevOps, d'email, tu vois. propos Himalaya, des
+49:46
+choses de gaming, des accès à Gitub, MCP, Méia, Spotify et cetera. Donc c'est
+49:52
+quand même c'est voilà, c'est quand même et bien évidemment tu peux en installer d'autres par exemple ici, tu vois, voilà, il y a tout un tas de de choses.
+49:59
+Qu'est-ce qu'on a ? On a des plugins ici, je pas trop utiliser mais ça va permettre probablement de tu vois de browser ici. Donc le plugin pour pour
+50:06
+faire des recherches power base. Alors ils avaient aussi Fire Craw [grognement]
+50:12
+il me semble c'était celui-là qui était pas mal comme outil qui permet de de craw des sites quand même qui sont pas mal dis cleanup et cetera. Bon, il y a
+50:19
+tout un tas de de plugin et je pense qu'ils vont étendre un peu tout ça. La gestion des profils ici, ça tu l'as pas
+50:26
+forcément dans Open Clow ou alors ils appellent ça des agents dans Open Clow. Tu as la config ici donc l'agent
+50:32
+terminal display memory et cetera, speed tech donc tu énormément de choses les log si tu veux gérer tes clés open
+50:40
+router et cetera et tu peux restart la gateway et un petit bouton pour update
+50:45
+herm une fois que tu as tu as du chat ton dashboard ton tui et à partir de là tu
+50:53
+as plus qu'à t'amuser. Félicitations si tu es arrivé jusqu'à la fin de cette vidéo. Je pense qu'on aura parcouru les
+50:59
+grandes étapes pour installer Hermes de manière sécurisée sur un VPS. Je pense que là on a à peu près tout. À partir du
+51:06
+banan où tu as vraiment le tel scale qui te protège et que tu donnes des règles claires de ne pas exposer des services
+51:13
+directement sur ton VPS et cetera, et bien je pense que derrière tu peux avoir vraiment un service sécurisé. Et à
+51:19
+partir de là et bien c'est à toi de développer ton activité. Tu peux donc ensuite aller créer comme je te disais
+51:25
+des chrones, des skills et cetera. des choses qui sont liées à ton activité et puis plus tu vas travailler dessus et
+51:30
+bien plus en fait ton Hermes va devenir intelligent, va comprendre ce que tu fais et tu vas pouvoir communiquer avec
+51:36
+lui rapidement. Pour aller un petit peu plus loin, moi je dirais qu'un des outils que je vais utiliser de plus en
+51:42
+plus et bien c'est Hermes ici web UI. Je vais aller le tester, voir ce que ça donne mais je pense que ça peut être un
+51:48
+outil sympa qui a l'air beaucoup plus friendly peut-être que Open Web UI. Bon voilà, c'est à tester. C'est des choses
+51:54
+que je vais explorer par la suite. Et dernière chose que je voulais dire et bien si tu veux mettre à jour he quand
+51:59
+même c'est important, je te le coupe ici. Tu fais un Hermes régulièrement update et il devrait aller chercher les
+Outro
+52:06
+updates parce que voilà don là on est up to date mais c'est comme ça que régulièrement et bien tu vas pouvoir
+52:11
+mettre à jour donc ton agent hein. C'est ce que j'ai mis ici. Ou alors tu vas pouvoir y accéder hein depuis ici. C'est
+52:18
+pour ça que le dashboard est pas mal puisqueavec le dashboard il est où notre dashboard ? tu commence à avoir plein de choses avec le dashboard ici. Bah tu vas
+52:24
+pouvoir aussi faire des updates et cetera. Bref, ben je te remercie d'être allé jusqu'au bout de la vidéo. C'était
+52:30
+un petit peu long, mais si tu veux gagner un petit peu de temps et justement pas trop te prendre la tête, si pour toi les histoires de sudo, de
+52:36
+groupe utilisateur et cetera ça te fait un petit peu peur et tu te sens pas trop à l'aise et bien tu peux passer par le
+52:42
+premier lien dans la description et tu arriveras ici justement sur cette page où ils viennent de mettre en place
+52:47
+justement chez Hostinger, ils sont assez actifs sur les nouveautés en terme d'agent et cetera et justement ici en
+52:53
+passant par là et bien en utilisant cette formule avec un KVM2 ici tu vas pouvoir avoir une préinstall
+52:59
+installation en fait une préinstallation et configuration de Hermes he c'est quelque chose qu'ils ont mis en place
+53:04
+récemment et du coup bien évidemment oublie pas que tu as déjà une grosse promo et oublie pas de rajouter en plus
+53:10
+le code j'allais dire le cheat code mais non le code de réduction my coder et tu auras accès à 10 % supplémentair c'est
+53:17
+une nouveauté qu'ils ont ça c'est pour les personnes qui voudraient gagner un petit peu plus de temps. Sinon tu peux passer par un VPS normal avec une
+53:24
+formule KVM2 ça fonctionne aussi très bien. Merci à Hostinger de soutenir ce
+53:30
+type de vidéo. Voilà, c'est tout. Si tu veux aller plus loin et bien [musique] tout est dans la description. Je te dis à bientôt pour une prochaine vidéo.
+53:38
+[musique]
+
+Tout
+
+Source : Mike Codeur
+
+Cloud computing
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+88 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+19:46
+La vraie vie d'un bodybuilder
+Brut
+ et Stephane Matala
+509 k vues
+•
+il y a 7 mois
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+7:05
+Comment fixer et atteindre ses premiers objectifs financiers.
+Finance Facile
+15 vues
+•
+il y a 4 jours
+Nouveau
+
+
+44:45
+Ce repo te met 6 mois d'avance sur 90% des devs (Formation 1h)
+Mike Codeur
+8,1 k vues
+•
+il y a 4 semaines
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+4,8 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+43 k vues
+•
+il y a 3 semaines
+
+
+16:33
+Hermes Agent : 10 VRAIS usages quotidiens que je fais avec mon Agent IA
+Melvynx
+5,9 k vues
+•
+il y a 2 mois
+
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+139 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:35:38
+Hermes Agent en vrai : skills, crons, SEO et support automatisé
+David Schkiwisk - Kavyro
+1,1 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+19:49
+Je teste les restaurants ouverts 24h après minuit
+Gurky
+135 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+29 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+34:56
+SPÉCIALE BLIZZARD
+Bazar du Grenier
+2,1 M de vues
+•
+il y a 9 mois
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+4,7 k vues
+•
+il y a 7 heures
+Nouveau
+
+17:56
+Agents IA Parallèle vs Séquentiel : l'erreur à ne pas commettre
+Mike Codeur
+1,8 k vues
+•
+il y a 3 semaines
+
+37:08
+Joueur du Grenier - LOST (feat @edwardretrodecouverte  )
+Joueur Du Grenier
+1,6 M de vues
+•
+il y a 6 mois
+
+20:24
+La Silicon Valley commence à avoir peur de l'IA (pas pour ce que vous croyez)
+Grand Angle Nova
+19 k vues
+•
+il y a 2 jours
+Nouveau
+
+57:19
+Hermes Agent, comment profiter de l'OpenClaw killer
+Renaud Dékode
+235 k vues
+•
+il y a 2 mois
+
+16:23
+Le système MEMOIRE derrière un Agentic OS
+Mike Codeur
+3,1 k vues
+•
+il y a 1 mois
+
+    
+
