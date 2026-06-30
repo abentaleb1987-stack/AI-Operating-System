@@ -1,0 +1,873 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+ia
+
+
+
+
+Créer
+
+1
+
+Image d'avatar
+J'ai testé Hermès 2.0 avec Claude Code : Le résultat est fou !
+IA
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+1,7 k
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+12 239 vues  26 juin 2026
+Découvrez comment débloquer Hermès agent pour booster vos capacités et devenir 1000 fois plus puissant. Ce tutoriel complet vous guide à travers l'installation et la configuration de l'agent Hermès, vous permettant de profiter de l'intelligence artificielle pour votre business. Vous apprendrez comment installer Hermès agent, comment le configurer et comment l'utiliser pour améliorer vos processus. Nous comparerons également Hermès agent avec d'autres outils tels que OpenClaw, et nous discuterons des avantages de l'utilisation d'un agent local comme Hermès. Si vous souhaitez en savoir plus sur les agents IA et comment ils peuvent vous aider à développer vos activités, ce tutoriel est fait pour vous. Nous aborderons également les concepts de base tels que l'automatisation par IA, les outils d'IA pour les entreprises et la formation nécessaire pour devenir un expert en agents IA. En suivant ces étapes, vous pourrez débloquer le plein potentiel de Hermès agent et profiter de ses capacités pour votre entreprise. Nous vous montrerons comment déployer Hermès agent de manière efficace, comment le configurer sur votre ordinateur et comment l'utiliser pour améliorer vos tâches quotidiennes. Avec Hermès agent, vous pourrez automatiser des tâches répétitives, améliorer vos processus et augmenter votre productivité. Ne perdez plus de temps et découvrez comment débloquer Hermès agent pour devenir 1000 fois plus puissant et améliorer vos résultats commerciaux.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+
+
+
+Découvrez le secret pour débloquer Hermès agent et augmenter sa puissance jusqu'à 1000 fois. Dans ce tutoriel, nous allons vous montrer comment installer et configurer Hermès agent pour profiter de ses capacités avancées d'automatisation et d'intelligence artificielle. Vous apprendrez comment déployer Hermès agent de manière efficace et découvrir les avantages de l'utilisation d'un agent local pour vos besoins d'automatisation. Nous comparerons également Hermès agent à d'autres outils tels que OpenClaw et discuterons des applications commerciales possibles de ces technologies. Que vous soyez un entrepreneur ou un professionnel, ce tutoriel vous aidera à comprendre comment utiliser Hermès agent pour améliorer votre productivité et votre efficacité. Nous aborderons également les sujets tels que la formation agent IA, les outils d'intelligence artificielle pour les entreprises et les meilleures pratiques pour mettre en place un espace de travail Hermès. Rejoignez-nous pour découvrir comment Hermès agent peut vous aider à atteindre vos objectifs et à débloquer votre plein potentiel.
+
+Découvrez comment débloquer Hermès agent et augmenter sa puissance jusqu'à 1000 fois. Dans ce tutoriel, nous allons vous montrer comment installer et configurer Hermès agent, un outil d'intelligence artificielle puissant qui peut être utilisé pour l'automatisation et la recherche. Nous allons également comparer Hermès agent avec d'autres outils tels que OpenClaw et Nous Research, et discuter de ses avantages et de ses inconvénients. Si vous êtes intéressé par les agents d'intelligence artificielle et leur utilisation dans les entreprises, ce tutoriel est fait pour vous. Vous apprendrez comment déployer Hermès agent, comment le configurer pour qu'il soit 1000 fois plus puissant, et comment l'utiliser pour améliorer vos processus métier. Nous allons également discuter de la formation et de la mise en place d'un agent IA pour les entreprises, et explorer les possibilités offertes par les outils d'intelligence artificielle tels que Hermès agent et Claude Code. Rejoignez-nous pour découvrir les secrets de Hermès agent et comment il peut vous aider à développer votre business.
+Parlons IA détaille la configuration technique essentielle pour optimiser Hermes. Ce guide pratique explore la structure des agents, la gestion de la mémoire, ainsi que l'intégration avancée des connecteurs MCP pour automatiser des flux de travail professionnels. Une approche méthodique pour transformer un simple chatbot en un système agentique performant et sécurisé.
+Résumé
+
+Comment ce contenu a été créé
+Créé avec l'IA
+Des sons ou des images ont été modifiés ou entièrement générés. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+true
+55:38
+J'ai automatisé mon business avec Hermes Agent, les résultats m'ont choqué !
+de Parlons IA
+19 k vues · il y a 11 jours
+true
+30:17
+Claude Fable 5 : Le gouvernement veut le bloquer ! Comment y Accéder!
+de Parlons IA
+22 k vues · il y a 2 semaines
+true
+31:03
+J'ai testé Claude Mythos Fable 5 : voici LA vérité !
+de Parlons IA
+6 k vues · il y a 2 semaines
+true
+32:28
+Voici mon Agent IA Claude + Obsidian I Deuxième cerveau !
+de Parlons IA
+4,1 k vues · il y a 3 semaines
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+de Parlons IA
+80 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 4 jours
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr
+ j’ai mis le fichier à télécharger dans la section « Recevoir les bases de l’IA » sur ma page. https://parlonsia.teachizy.fr/   --> Video HERMES
+
+1
+
+
+Répondre
+
+
+@jahwarrior77
+il y a 4 jours
+Franchement, merci,  dur dans cette foule de vidéo youtube de trouver la bonne personne, mais là enfin quelqu’un de pertinent, avec de vrais analyses et une vrai pédagogie pas juste là pour du like.
+
+3
+
+
+
+Répondre
+
+Parlons IA
+·
+
+2 réponses
+
+@benoithugues5740
+il y a 4 jours
+Une pédagogique sans précédent  sur se sujet . Vidéo française très complète... et franchement mec j'apprends énormément grâce à toi 🤙 thank bro 🤙
+
+2
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@jeannazairenitiema1694
+il y a 2 jours
+Grand Merci Fabrice. Tes vidéos sont une qualité impeccable. J'ai cherché pendant des mois des formations et je t'ai trouvé. Dés les 1ères vidéos, j'ai vu un fossé abyssale avec les autres vidéos des grands influenceurs. Bon courage à toi.
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@zicesm7470
+il y a 2 jours
+Très pédagogique et précis à la portée des débutants . Bravo et merci pour la qualité du contenu .
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@Turbigoo
+il y a 2 jours
+J'ai craqué, je me suis inscrit.
+Je sais maintenant à quoi je vais passer mes soirées, c'est mieux que la télé 
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@laurenthaquet6709
+il y a 3 jours (modifié)
+Tes formations sont... Dingues ! D'une qualité technique époustouflante. C'est un vrai investissement. Bravo Fabrice ! Continue, tu nous apporte beaucoup...
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@arcturien
+il y a 1 jour
+Franchement merci pour ce tutoriel!!!! J'ai dans mes favoris des tas de vidéos youtube mais là c'est au delà de tous. Mon Hermes WebUI dans un VPS chez Hostinger a enfin trouvé son manuel d'utilisation.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@philippealouane8829
+il y a 3 jours
+Toujours top tes videos et la qualité de tes formations également, grasse a toi on progresse dans les connaissances IA merci Fabrice
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@djibriltamsirbangoura637
+il y a 3 jours (modifié)
+trop top je te kiff grace j'ai arretter de regarger toutes les autres videos a cause de toi Merci a toi Depui Guinee Conakry
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Monxx447
+il y a 4 jours
+merci maitre !!! 
+
+
+
+
+Répondre
+
+
+@morganvalcke1694
+il y a 4 jours
+Toujours des vidéos de grandes qualités
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Jamiil-d9h
+il y a 4 jours
+Merci Tonton cool
+
+
+
+
+Répondre
+
+
+@reezm34
+il y a 4 jours
+Merci pour la qualité des infos que tu transmets
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Energieplus42
+il y a 4 jours
+Sais une pépite ce mec j’ai pris son abonnement une mine de savoir j’ai progresser comme un fou avec ça méthode
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@alicemeuter1993
+il y a 4 jours
+Merci pour le tuto, je suis entrain de regarder et j'espère que ça va fonctionner ;)
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@massilamany
+il y a 3 jours
+
+
+
+
+Répondre
+
+
+@Hashtag615
+il y a 4 jours (modifié)
+big up pour ton travail explicatif et de vulgarisation, en gros, l'environnement est plus ou moins comparable a une ville, dont l'agent operant en son sein est +/- le coursier/taxi connaissant la carte ? ca commence a ressembler a la matrice ct'affaire ;) delegation sous contrainte, telle semble etre la voie, des skills; des tools et des armées de test et de de verrous avant de lacher la bete ;) merci
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@samrider8740
+il y a 1 jour
+super video ! petite question sur quel site pouvons nous trouver les abonnement claude beaucoup moins chère, je ne retrouve plus la video ou tu en parle. Merci beaucoup ! Surotu continue ton contenue, une mine d'or que tu nous offre.
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ericberteau8963
+il y a 4 jours
+merci pour cette vidéo. Est-ce possible d'avoir un tuto sur comment bien installer et configurer Hermès Desktop et Claude Code en local?
+
+
+
+Répondre
+
+·
+
+3 réponses
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+L'IA qui nous est présentée comme la  plus puissante du monde, Hermes 2.0,  
+0:05
+vient de sortir. Dans cette vidéo, je vais  vous montrer comment rendre Hermes beaucoup  
+0:11
+plus puissant et vous présenter toutes  ses nouveautés : l'intégration directe   de Claude 4.8 Code dans l'interface d'Hermes, les  automatisations, les MCP... Bref, comment produire  
+0:22
+du vrai travail aujourd'hui avec les agents  IA. On vous dit souvent qu'Hermes apprend seul,  
+0:27
+qu'il a de la mémoire, qu'il faut un VPS  ou prendre un abonnement. Mais en vérité,  
+0:32
+99 % des gens font la même erreur. Je vais vous  montrer exactement comment installer Hermes,  
+0:38
+comment le connecter et le configurer pas à pas  avec vous. Et surtout, à la fin de la vidéo,  
+0:44
+je vous montrerai comment utiliser  Hermes de manière complètement gratuite,   sans aucun frais. C'est maintenant dans la vidéo. Dans cette vidéo, je vais vous apprendre à créer  
+0:57
+une automatisation complète, à structurer  des agents IA, et à connecter des outils à   Hermes. Pour cela, je vais vous montrer l'une des  mises à jour les plus importantes d'Hermes : la  
+1:08
+possibilité de lancer Claude directement dans le  terminal à l'intérieur d'Hermes. C'est un outil  
+1:14
+extrêmement puissant et je vais vous expliquer  pourquoi. Vous avez certainement vu des tutoriels   où l'on vous dit : "Avec Hermes, j'automatise la  recherche de biens immobiliers." Dès maintenant,  
+1:24
+en cliquant sur l'icône en bas à droite, vous  pouvez ouvrir un terminal pour lancer Claude  
+1:33
+directement dans l'interface d'Hermes. Ce que  vous allez comprendre, c'est que le point faible   d'Hermes aujourd'hui, c'est qu'il n'a pas de  navigateur avec une prise de contrôle totale  
+1:43
+de l'écran, alors que Claude possède son propre  système Chromium indépendant. Cela veut dire que  
+1:49
+si je demande du travail à Claude aujourd'hui, je  peux lui demander de naviguer sur Internet et de  
+1:56
+réaliser un vrai travail, chose qu'Hermes ne sait  pas faire. Par exemple, extraire les informations  
+2:03
+d'un DPE (Diagnostic de Performance Énergétique),  qui sont souvent présentées sous forme d'images.   Hermes n'en sera pas capable. C'est pourquoi  vous allez compléter les capacités d'Hermes en  
+2:12
+les combinant avec celles de Claude (la gestion  des navigateurs). Vous aurez ainsi certainement   l'IA la plus puissante du marché. Actuellement,  Claude navigue sur Internet et extrait toutes  
+2:21
+les informations. Je ne touche à rien, il gère  complètement l'écran. Dans quelques instants,   je vais vous montrer la différence avec  Hermes. C'est la raison pour laquelle vous  
+2:29
+devez absolument apprendre à combiner Hermes avec  Claude via le terminal. C'est exactement ce qu'on  
+2:36
+va faire dans la formation "Le meilleur de l'IA".  Ici, vous avez exactement le produit demandé que  
+2:42
+le modèle a extrait, tout en identifiant un  élément qu'Hermes ne sera pas en mesure de  
+2:48
+traiter : l'analyse des images DPE. Hermes n'a  pas accès à ces informations visuelles. Il n'a  
+2:53
+pas la capacité, via Playwright par exemple,  de réaliser une capture d'images. Tout est   parfaitement réalisé par Claude. Vous vous  rendrez compte que sur l'interface d'Hermes,  
+3:01
+les informations du DPE ne sont pas présentes.  La raison est simple : le système n'a pas de  
+3:06
+navigation optimisée pour l'analyse d'images.  C'est pourquoi il faut absolument combiner  
+3:12
+Claude à l'intérieur d'Hermes. Cela rend  cet outil tout simplement incroyable.  Dans la suite du tutoriel, je vais vous montrer  comment créer un workflow complet de A à Z et  
+3:22
+configurer chaque partie. Mais pour cela, il faut  comprendre réellement ce qu'est Hermes et oublier  
+3:28
+ce que vous avez cru apprendre dans d'autres  tutoriels. Je vais réellement vous montrer  
+3:36
+comment on code des agents dans cette vidéo. Et  si je vous disais que la réponse que nous allons  
+3:41
+obtenir sera intégralement gratuite ? Je vous l'ai  dit, je vais vous montrer comment utiliser les  
+3:47
+dernières versions d'Hermes Agent. Ici, le modèle  vous dit : "Je suis Gemma 4, un modèle de langage,  
+3:54
+et tu vas pouvoir m'utiliser complètement  gratuitement", contrairement à vos habitudes.  
+4:00
+C'est exactement ce que je vais vous apprendre.  N'hésitez pas à laisser un commentaire de qualité  
+4:06
+pour la communauté, pour que tout le monde soit  engagé et de bonne humeur. Et si vous n'êtes pas   encore abonné, abonnez-vous, car dans cette vidéo,  je vais vous apprendre à développer des agents IA,  
+4:15
+et tout ce que vous avez vu jusqu'à présent  n'est que le début. Le meilleur reste à venir. 
+4:22
+Pour pouvoir produire du vrai travail avec Hermes,  il faut le configurer. On vous dit qu'il peut  
+4:28
+gérer votre business, qu'il travaille pendant que  vous dormez, mais la vérité, c'est que 99 % des  
+4:34
+gens font la même erreur : ils installent Hermes,  connectent un modèle et pensent que des agents IA  
+4:40
+avec un nom stylé vont faire leur travail. Ça ne  marche absolument pas comme ça. Dans cette vidéo,  
+4:46
+je vais vous montrer la différence entre  simplement installer Hermes et configurer  
+4:51
+une véritable architecture de système d'agent  IA. Restez jusqu'à la fin, car c'est là que  
+4:57
+je vous montrerai comment optimiser tout  votre système pour produire du travail.  Le premier point, c'est de comprendre ce qu'est  réellement Hermes, au-delà des déclarations des  
+5:03
+influenceurs, et de rendre Hermes plus puissant  et plus efficace. Pour comprendre cela, il faut  
+5:09
+comprendre comment fonctionne l'architecture  d'Hermes. C'est ce que nous allons faire   maintenant. Dans cette partie de la vidéo, on va  comprendre comment il faut configurer le prompt  
+5:20
+système (Sys.md) d'Hermes et comment l'optimiser.  À partir de là, il faut s'intéresser à chacun des  
+5:25
+blocs, car en réalité, Hermes n'a pas du tout  un système configuré pour fonctionner "à la  
+5:31
+sortie de la boîte". C'est ce que font 99 % des  utilisateurs : ils installent Hermes mais ne  
+5:37
+savent pas comment le configurer. Nous allons  le faire étape par étape : le fichier Sys.md,  
+5:44
+la gestion de la mémoire, les outils et les  "skills". Une fois la configuration terminée,  
+5:53
+vous pourrez réellement créer du travail et  des agents IA, et passer à leur structure. 
+6:00
+Passons à la génération du prompt système. C'est  lui qui permet au modèle de comprendre où se  
+6:11
+situe la mémoire, comment la gérer, quels outils  appeler et quand travailler. Une IA ne sait pas  
+6:20
+où elle est installée ni ce qu'elle a le droit de  faire. C'est à cela que sert le prompt système que  
+6:27
+l'on va configurer. Sans cela, c'est comme un  système sans cerveau, c'est un point capital.  
+6:35
+Pour trouver les répertoires d'installation  d'Hermes, cliquez sur l'icône en bas à gauche,  
+6:44
+allez dans la section "Système" et vous verrez où  Hermes est installé. Récupérez l'adresse jusqu'au  
+6:56
+dossier "Hermes-agent". C'est très important.  Ouvrez ce répertoire dans le terminal et cherchez  
+7:21
+le fichier Sys.md. Par défaut, ce fichier est vide  ! Il faut absolument corriger ce problème. Effacez  
+7:34
+ce qui s'y trouve et enregistrez. Copiez le chemin  d'accès de ce fichier, car c'est là qu'il faudra  
+7:48
+installer le nouveau prompt système. Même  si vous n'avez jamais codé, je vais vous   montrer comment le faire étape par étape.  L'objectif est de fournir une instruction  
+8:06
+système à Hermes via un prompt automatisé que j'ai  conçu. Téléchargez le fichier, demandez au système   de l'exécuter en lui fournissant l'adresse du  répertoire. Pour l'opération, on va utiliser  
+8:38
+GLM-5.2 avec un raisonnement "High" (ou ChatGPT /  Claude). Hermes vous demandera votre accord. Une  
+8:59
+particularité intéressante : vous pouvez voir les  agents parallèles (spawns) en action via le bouton  
+9:09
+"Agents". Le modèle lance des commandes pour  identifier les caractéristiques de votre système  
+9:33
+(OS, dépendances Python, environnement, clés,  navigateurs) afin de tout configurer. En effet,  
+9:46
+Hermes exécute du code en arrière-plan  et doit connaître votre environnement.  
+10:07
+À la fin, il livrera le prompt système configuré  et un résumé du travail. Il suffira de cliquer sur  
+10:38
+"Installer" et de redémarrer Hermes pour que tout  soit opérationnel. En retournant dans Sys.md, vous   verrez un prompt complet indiquant au modèle son  comportement, où trouver les skills, etc. C'est le   système que j'utilise au quotidien. Pour obtenir ce fichier gratuitement : ceux  
+11:24
+qui me suivent savent que j'utilise l'IA pour  "scaler" (mettre à l'échelle) mon travail. L'IA ne  
+11:33
+travaillera pas pour vous si vous l'utilisez comme  sur les tutoriels des réseaux sociaux. Vous devez  
+11:40
+être capable de créer des agents IA et de déléguer  du travail en toute sécurité. La formation  
+11:52
+"Maîtriser le meilleur de l'IA" (niveau 2) offre  400 leçons à votre rythme. Vous y apprendrez des  
+12:02
+compétences rares pour devenir un orchestrateur  d'agents IA (piloter, rechercher, analyser,  
+12:12
+rédiger, automatiser). Dans la formation, vous  trouverez les fichiers nécessaires dans le  
+12:37
+répertoire Hermes, avec des slides, des cours, des  prompts et des méthodes d'interaction. Je propose  
+13:04
+un enseignement très technique et pragmatique,  à un tarif très accessible, mais qui augmentera  
+13:38
+avec l'ajout de nouvelles compétences. Pour ceux  qui veulent juste configurer le prompt système,  
+13:59
+je vous offre le fichier d'installation  Sys.md gratuitement. Rendez-vous dans la  
+14:06
+section "Recevoir les bases de l'IA", téléchargez  le fichier et appliquez le tutoriel. En moins de  
+14:38
+5 minutes, votre prompt système sera configuré. Pour créer du travail et des automatisations avec   Hermes, il faut configurer l'ensemble du système.  Hermes est un "wrapper" : vous choisissez votre  
+14:58
+modèle LLM et vous le placez au centre d'une  architecture agentique. Ce système donne accès  
+15:04
+à des compétences (skills), des outils, de  la mémoire et un backend conçu sur le modèle  
+15:10
+d'Anthropic. On entend souvent dire qu'Hermes  apprend tout seul, mais comment fait-il ? Je suis  
+15:24
+allé vérifier le système interne. Dans le prompt  par défaut, il n'y a aucune instruction pour la  
+15:54
+gestion de la mémoire. Le système peut créer deux  fichiers ("memory" au démarrage et "memory user"),  
+16:19
+mais sans configuration, il n'optimise pas sa  mémoire. Sans configuration approfondie de son  
+16:34
+prompt système, Hermes est une coquille vide  incapable de produire réellement du travail. 
+16:49
+Maintenant que nous avons un "cerveau", il faut  lui donner "des bras et des jambes" en configurant  
+17:14
+les outils MCP (Model Context Protocol). C'est  le moyen de communiquer avec le monde extérieur.  
+17:42
+Comment les configurer ? Ce n'est pas aussi simple  qu'avec ChatGPT ou Claude, cela requiert quelques  
+17:59
+bases. Par exemple, pour connecter Airtable (un  CRM gratuit pour gérer des bases de données de  
+18:23
+clients) : si vous ne savez pas comment faire,  utilisez Perplexity pour lire la documentation  
+18:48
+officielle et comprendre comment configurer  la requête. Dans l'interface d'Hermes, section  
+19:06
+"Connexion MCP", vous pouvez vous connecter soit  via une clé API, soit via OAuth. La méthode OAuth  
+19:42
+est plus simple et rapide. Créez un compte  sur Airtable. Dans mon prompt de configuration  
+20:22
+(fourni dans la formation), je demande au modèle  d'ouvrir une connexion OAuth et de détecter les  
+20:40
+variables d'environnement. Le modèle va ouvrir des  fenêtres de connexion, un pop-up et un bip sonore  
+21:25
+vous avertiront, vous devrez autoriser  l'accès, et le système configurera tout  
+21:34
+automatiquement. Faites de même pour Notion  (pour vos bases de connaissances). À la fin,  
+22:43
+le système mettra à jour le fichier Sys.md avec  les nouvelles fonctionnalités et effectuera un  
+22:53
+"test run MCP" pour vérifier que tout fonctionne. Une fois que cela fonctionne, vous pouvez créer  
+23:35
+un agent IA pour automatiser la configuration des  futurs MCP. En demandant à Hermes (via GLM-5.2) de  
+23:40
+coder un tel agent, vous verrez qu'il  utilise la structure YAML adéquate,  
+24:05
+incluant les répertoires, les scripts et la mise  à jour de Sys.md. C'est une architecture complète,  
+25:28
+pas une simple phrase. Il faut éviter l'erreur de  croire qu'un simple prompt comme "Tu es un expert  
+25:49
+en détection de pièges immobiliers locatifs"  suffit pour créer un agent performant. C'est  
+26:00
+faux. Dire "tu es un expert" ne rend pas l'IA  capable d'effectuer une tâche, surtout si elle  
+26:13
+doit analyser des images (DPE) alors qu'elle ne  fait que du "scraping" de texte. Une IA est un  
+27:02
+système neuronal qu'il faut configurer via des  instructions précises (section YAML, "triggers",  
+27:45
+scripts Python, vérifications de sécurité,  diagnostic). Un système agentique est une  
+28:01
+architecture complète. Les entreprises cherchent  des professionnels capables de développer ce type  
+28:56
+de systèmes de haute fiabilité et proposent  des rémunérations attractives, car le délai  
+29:16
+pour recruter un tel expert est de plus de 7  mois. Les formations vous apprendront tout cela. 
+29:35
+Construisons une vraie automatisation. Les  critères pour automatiser : tâche régulière,  
+30:09
+risque d'erreur (l'IA est meilleure que  nous), temps consommé, et standardisation.  
+30:44
+Objectif : récupérer les e-mails tagués  "partenariat" dans Gmail, identifier les variables  
+30:54
+et les exporter dans un tableur Airtable avec un  statut et la date. Je réorganise mon prompt : on  
+31:02
+structure l'objectif, les stratégies et  les tâches. On définit les mots-clés de  
+31:39
+filtrage et les cases du tableur. On convertit  cela en prompt système. Je crée souvent une  
+32:09
+représentation graphique du workflow (collecte  Gmail -> extraction -> normalisation -> envoi  
+32:27
+vers Airtable). Il faut donner des règles  à l'agent pour la gestion de la mémoire,  
+33:18
+la connexion aux outils, et des "templates"  (modèles) de réponse. On demande à Hermes de  
+34:05
+"spawner" (lancer) des agents en parallèle. Avec  la nouvelle interface d'Hermes ("new window"),  
+34:24
+on peut suivre l'avancement des sous-agents  en temps réel via des fenêtres flottantes,  
+35:03
+ce qui permet le multitâche. Les instructions  système doivent être extrêmement compactes et  
+35:40
+proches du code. En moins de 4 minutes, l'agent IA  est créé. Le système lance des agents en parallèle  
+37:15
+pour créer la base Airtable via le connecteur MCP.  On fait ensuite un premier test pour collecter  
+38:22
+les e-mails depuis Gmail. L'agent extrait les  informations et remplit le CRM. Pour répondre,  
+38:35
+on utilise un "asset" préétabli (les  conditions de partenariat), et on utilise   la fonction send_email. En quelques secondes,  l'e-mail est rédigé et envoyé. L'automatisation   complète de la tâche est en place. Comment faire prendre des décisions à l'IA ? Il  
+39:41
+faut coder des instructions sous forme de  schéma décisionnel (ex: si je dispose des  
+42:54
+"assets" nécessaires, je réponds automatiquement  ; sinon, je qualifie la demande mais j'attends  
+43:16
+l'intervention humaine). Pour automatiser  régulièrement ce processus, on utilise la  
+43:30
+fonction "Cron". Vous pouvez exécuter le prompt  système d'Hermes en définissant la fréquence  
+44:16
+(ex : tous les jours à 18h). Vous pouvez demander  à l'IA de créer cette automatisation, mais je vous  
+45:16
+conseille de toujours contrôler ce qu'elle génère. Quand faut-il intégrer des "skills" (compétences)  
+45:52
+dans une architecture ? Lors d'un workflow, si  un modèle rencontre un problème ou n'effectue  
+46:21
+pas une tâche comme souhaité, une skill (un  prompt au format code) définit comment l'IA doit  
+46:31
+gérer cette tâche précise. La skill n'est exécutée  que lorsqu'elle est chargée. Une skill doit être  
+47:24
+globalement inférieure à 250 lignes. C'est une  architecture qui définit les outils autorisés,  
+48:17
+les modèles à lancer, les étapes et la logique  d'intervention. Dans la formation, on modélise  
+48:40
+cette structure pour Claude et Hermes. Comparaison de consommation de   tokens : sur une session avec Ollama, j'ai  consommé 80 % de la fenêtre contextuelle.  
+48:58
+Avec MiniMax, seulement 17 %. Il y a un facteur  4,5 entre les serveurs chinois et américains. 
+49:19
+L'interface d'Hermes permet d'intégrer  n'importe quel LLM, appelé "provider". Vous  
+49:29
+pouvez configurer cela en haut à droite. Il y a  le provider natif d'Hermes, mais vous pouvez aussi  
+49:58
+connecter vos comptes payants (comme ChatGPT)  sans frais supplémentaires. C'est très intéressant  
+50:19
+d'utiliser différents modèles en parallèle,  comme MiniMax (à 17 € par mois avec une adresse  
+54:14
+IP en Côte d'Ivoire). MiniMax a été entraîné  avec Claude 4.8 Code, c'est l'équivalent d'un   ChatGPT 5.5 ou Opus 4.6/4.7. Ses crédits sont 10  fois moins chers que Claude et 5 fois moins chers   qu'OpenAI. Une fois votre compte MiniMax créé,  faites une authentification OAuth, et vous pourrez   utiliser Hermes, MiniMax et Claude dans la même  interface. L'utilisation par clés API (facturation  
+54:19
+à l'usage) est différente, mais avec un  forfait, c'est quasiment illimité. Il y a   une autre solution pour ceux qui ne veulent pas  envoyer leurs données en Chine : utiliser les   serveurs américains d'Ollama. Ollama garantit la  confidentialité car il n'entraîne pas ses modèles   avec vos données, mais vous êtes facturé selon la  puissance de calcul. La confidentialité a un coût.  
+54:24
+Pour l'utiliser, créez un compte Ollama (17 € / 20  dollars avec l'astuce de l'IP), générez une "clé  
+54:34
+d'usage", et insérez-la dans Hermes avec  l'endpoint ollama.com/v1. Cela vous permet  
+55:09
+d'utiliser plusieurs providers et d'envoyer  plusieurs agents travailler simultanément.  
+55:16
+L'intelligence d'Hermes, c'est cette capacité  à faire collaborer des systèmes différents.  
+55:25
+Le conseil pour la configuration est de  toujours laisser le niveau d'effort sur  
+55:49
+"High" pour les modèles de raisonnement. Comment utiliser gratuitement Hermes Agent  
+56:02
+en local ? Installez LM Studio sur votre  ordinateur. Dans "Sélection des modèles",  
+56:09
+vérifiez la compatibilité avec votre carte  graphique (une icône verte l'indique). Les modèles  
+56:24
+12B nécessitent environ 12 Go de VRAM, mais il  existe des modèles plus petits (3B, 4B, 7B).  
+56:52
+Choisissez un modèle capable de gérer la vision  (images), les outils et le raisonnement (ex:   Gemma 4). Téléchargez-le. Dans LM Studio (section  Développeur > Serveur Local), chargez le modèle  
+56:57
+et définissez la taille de la fenêtre  contextuelle (ex: 32 000 ou 64 000 tokens  
+58:22
+selon votre RAM pour éviter les dépassements).  Lancez le modèle. Pour synchroniser LM Studio  
+58:38
+et Hermes : dans les paramètres serveur  de LM Studio, activez la gestion réseau,  
+58:45
+le MCP et CORS. Copiez l'adresse fournie. Dans  Hermes (Settings > Provider > API Keys), ajoutez  
+59:04
+LM Studio et collez l'adresse  IP. Dans la section "Modèles",  
+59:20
+indiquez le modèle utilisé. Laissez LM  Studio tourner en arrière-plan. Vous  
+59:38
+pouvez maintenant poser vos questions au modèle  local, qui répondra rapidement (même en filmant   en parallèle avec une RTX 5090 et 32 Go de RAM).  Pour les requêtes simples, le travail en local  
+1:00:10
+est idéal pour garantir la sécurité et  la gouvernance de vos données. C'est ce  
+1:00:31
+qu'on approfondit dans la formation "Le meilleur  de l'IA". J'espère que cette vidéo vous a plu.
+
+Tout
+
+Source : Parlons IA
+
+Interface de programmation
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+88 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+22:14
+BODYBUILDING : vrai ou faux ? (avec un pro @Theo_Leguerrier)
+Charles.co
+ et Théo Leguerrier
+23 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+4:44
+Claire Châtaignier, promo 2017 : accompagner les dirigeants dans leurs transformations chez KPMG
+IIM Digital School
+16 vues
+•
+il y a 5 jours
+Nouveau
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+13 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 2 mois
+
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+13 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+4,9 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+5 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+61 k vues
+•
+il y a 5 heures
+Nouveau
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+139 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+25:20
+Utilisez Hermes GRATUITEMENT – Plus besoin de payer de jetons API !
+Dr. Firas
+1,2 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+36:21
+J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé
+Eliott Meunier
+10 k vues
+•
+il y a 3 jours
+Nouveau
+
+14:42
+JEU EN VRAC - LE BIKINI-GAME DU JEU VIDEO
+Bazar du Grenier
+1 M de vues
+•
+il y a 5 mois
+
+53:43
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+15 k vues
+•
+il y a 1 mois
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,4 M de vues
+•
+il y a 10 mois
+Doublée
+
+16:27
+Le grand tri des entreprises par l’IA a commencé
+Xavier Delmas
+55 k vues
+•
+il y a 1 mois
+
+    
