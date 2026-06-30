@@ -1,0 +1,2052 @@
+
+Créer
+
+1
+
+Image d'avatar
+Gemini 3 : le GUIDE Complet (et l'obtenir gratuitement)
+Labo Des Réseaux
+Labo Des Réseaux
+233 k abonnés
+
+
+705
+
+
+Partager
+
+Posez une question
+
+32 896 vues  25 nov. 2025  #labodesreseaux
+Dans cette vidéo, on découvre toutes les possibilités que Gemini 3 de Google nous offre avec toutes les utilisations possibles via tous les outils disponibles.
+
+On verra aussi comment obtenir Gemini 3 de façon gratuite.
+
+📣 Les Avantages avec nos Partenaires : 
+CANVA PRO : 30 jours d'essai gratuit : https://partner.canva.com/6bk6ZV
+SUBMAGIC  : 3 vidéos offertes par mois et -10% code LABO10 : https://submagic.co/?fpr=labo10
+LEONARDO AI : 150 crédits offerts par jour : https://leonardoai.pxf.io/EEjbyQ
+THUMBMAGIC : 3 miniatures offertes : https://thumbmagic.co/?via=labodesres...
+ELEVEN LABS : 10k caractères offerts par mois : https://try.elevenlabs.io/xf4wkfpyo191
+HEYGEN : 3 vidéos offertes par mois : https://heygen.com/?sid=rewardful&via...
+HEDRA : 300 crédits offerts par mois : https://hedra.link/boris
+PODIA : 30 jours d'essai pour vendre tes formations : https://www.podia.com/?via=6594fe
+OPUS CLIP : 7 jours offerts sur la version Pro : https://www.opus.pro/?via=f407df
+MANYCHAT  : 1000 contacts offerts : https://manychat.partnerlinks.io/labo...
+HOSTINGER : -10% sur les offres VPS avec le code LABODESRESEAUX : https://www.hostg.xyz/SHIBo 
+
+📩 Notre Newsletter : https://labodesreseaux.podia.com/  
+
+👨‍🏫 Les Formations du Labo des Réseaux : 
+CANVA : Devenir un(e) Boss du DESIGN : https://labodesreseaux.podia.com/form...
+TIKTOK : Guide Gratuit pour RÉUSSIR SUR TIKTOK : https://labodesreseaux.podia.com/reus...
+
+🎙️Notre set-up audio : 
+Rode NT1 : https://amzn.to/3UVazDP
+Scarlett Solo (indispensable pour connecter le Rode NT1 à un PC) : https://amzn.to/3ForbhN
+Pied Rode : https://amzn.to/4566z9w
+BOYA LINK (micro cravate sans fil pour tournage extérieur) : https://amzn.to/4b6waVY
+
+Mon conseil si tu débutes, opte plutôt pour un micro Rode USB (le premier que nous avons utilisé sur la chaine) : https://amzn.to/3HoOESB
+
+📸 Notre set-up vidéo : 
+Le Trépied : https://amzn.to/3OZ8yGB
+Avec l'Adaptateur pour Smartphone : https://amzn.to/41YPjlQ
+Les Lumières d'éclairage principales (x2, utilisées pour m'éclairer de face) : https://amzn.to/3Qxiadh
+Le Trépied pour les Lumières : https://amzn.to/3UX1lKZ
+Les Lumières d'éclairage secondaires (x2, utilisées pour mon background) : https://amzn.to/3VRCvKm
+La Caméra : nous utilisons pour l'instant un smartphone (https://amzn.to/47wF1f5), mais nous hésitons  à changer pour : https://amzn.to/3ThE4Cx
+
+#labodesreseaux
+Labo Des Réseaux détaille les fonctionnalités avancées du nouveau modèle Google, incluant l'analyse multimodale en temps réel et l'outil Canvas pour le codage. Cette revue explore comment ces outils modifient le workflow de création de contenu et de développement.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Labo Des Réseaux
+233 k abonnés
+Vidéos
+À propos
+
+TikTok
+
+Instagram
+
+Facebook
+51 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @labodesreseaux
+@labodesreseaux
+il y a 5 mois
+Notre Newsletter : https://labodesreseaux.podia.com/
+
+
+
+Répondre
+
+
+@jiji20001999
+il y a 7 mois
+Merci Beaucoup explications détallées
+
+
+
+
+Répondre
+
+
+@AnisPartage
+il y a 7 mois
+Merci pour le partage des astuces
+
+1
+
+
+
+Répondre
+
+
+@christiantekolo2795
+il y a 7 mois
+Merci beaucoup 
+Dommage que la vue dynamique n’est pas téléchargeable.
+
+3
+
+
+
+Répondre
+
+
+@Pierrotjimmy
+il y a 7 mois
+Félicitations pour tes vidéos. Elles sont claires, pédagogiques et vraiment différenciantes. 
+Tu apportes une vraie valeur ajoutée grâce à tes explications, tes démonstrations concrètes, tes photos et tes vidéos. C’est ce qui te distingue des autres créateurs de contenu.
+Si c’est possible, j’aimerais que tu me diriges vers une explication plus approfondie concernant l’abonnement Gemini 3. Ton avis d’expert m’aiderait énormément.
+Merci pour ton retour.
+Jimmy
+
+1
+
+
+
+Répondre
+
+Labo Des Réseaux
+·
+
+1 réponse
+
+@Confianceestimepouvoir
+il y a 5 mois
+Merci pour votre précieux contenu, si c'est possible beaucoup de gens ont besoin de créer du contenu youtube et ont besoin d'un guide pour utiliser NotebookLM Gemini3 et Nanobanana
+
+
+
+Répondre
+
+
+@AvBW
+il y a 7 mois
+
+
+
+Répondre
+
+
+@omaramrani8687
+il y a 7 mois
+Merci pour la vidéo ! Peut tu stp faire une vidéo sur NotebookLm et sa différence avec Gemini 3 quels usages ? quels différences ? Merci d'avance 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@djipih3101
+il y a 6 mois (modifié)
+Gemini est lié à un compte Google, pas à Gmail : nuance et précision ...
+
+1
+
+
+
+Répondre
+
+
+@gregelfie
+il y a 7 mois
+Super ta video merci MAIS avec Gemini 3, comment télécharger une image en 4K ? Faut-il le préciser dans le prompt comme pour le ratio ?
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@paraboliqfred
+il y a 6 mois
+merci, mais comme toujours je reste sur ma faim : générer des vidéos, analyser des vidéos youtube, faire des jeux vidéos : mais qui fait ça ? 95% des gens sont salariés, et aucun usage réel n'est démontré. C'est comme faire un test d'un PC mais jamais tu l'allumes, juste tu parles de sa forme, de son poids...
+
+6
+
+
+Répondre
+
+·
+
+1 réponse
+
+@jamesweb-e4f
+il y a 7 mois
+Il manque la sélection avec la souris, d'un endroit précis et dire... met un smiley ici. ou change moi cette couleur sélectionnée et fait un dégradé de vert herbe.
+
+
+
+
+Répondre
+
+
+@gregorybazin297
+il y a 7 mois
+Merci pour vette vidéo.
+Si je comprends bien pour Banana Pro : là j'ai un compte AI studio pro, je dois créer un compte Google Cloud avec le meme compte Google n'est-ce pas ? 
+Donc au bout de 3 mois si j'arrrte mon compte Cloud, edtce que je pourrais en rperendre un avec un autre compte Google ? Sauf que je n'aurais pas de compte AI Studio avec cet autre compte donc pas d'intérêt n'estce pas ? Merci pour votre précision
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@maxali6591
+il y a 5 mois
+Tu as gagné un nouvel abonné, félicitations.
+Pas de put a clic, t'es pédagogue et tu t'exprime correctement.
+Je vibe code 4h/jour sur codex, je voulais changer pour aller sur antigravity et vendre mon âme a Google.
+Je saute le pas.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ArnaudMeurgues
+il y a 6 mois
+Je rêve où la main droite qui ouvre le couvercle du pot de confiture se transforme en main gauche lorsqu'elle le pose ?
+(bon, c'est une question très périphérique, je reconnais)
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Afigoth
+il y a 6 mois
+Quelle est la différence avec l'offre AI google plus et AI google pro ? Sachant que j'ai actuellement l"offre AI google plus et je bénéficie de gémini 3 pro ? 
+Merci de votre retour
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@jamesweb-e4f
+il y a 7 mois
+la version gratuit = catastrope... tout n'est que erreur et buggué
+
+
+
+Répondre
+
+
+@ToujoursDansLeRouge
+il y a 6 mois
+GEMINI n’arrive pas même avec des instructions, à fournir un numéro de téléphone cliquable qui pré déclenche le appel sur le smartphone (iPhone), alors que ChatGPT y arrive.
+
+Seriez vous capable de trouver une solution ?
+
+
+
+Répondre
+
+
+@L3sion
+il y a 7 mois
+Est ce que l'abonnement Google ai plus est interressant ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@sebastien9520
+il y a 7 mois
+Tu dis qu’il faut au moinsgoogle AI pro. Mais laxdescription de AI plus mentionne aussi gemini 3 pro.
+Peux tu preciser le prerequis stp
+
+
+
+Répondre
+
+·
+
+1 réponse
+    
+IA
+Privée
+Abder Bent
+1/9
+
+
+
+
+true
+27:19
+Gemini 3 : le GUIDE Complet (et l'obtenir gratuitement)
+Labo Des Réseaux
+
+2
+true
+22:34
+Je Crée un Business en 20 min avec 4 IA GRATUITE de Google
+Yassine Sdiri
+
+3
+true
+22:15
+Comment maîtriser l'IA mieux que 99% des entrepreneurs (3 secrets)
+Yassine Sdiri
+
+4
+true
+18:17
+Comment créer une App COMPLÈTE avec l’IA (vous n’allez pas le croire)
+Yassine Sdiri
+
+5
+true
+19:53
+Comprendre l'IA en 2026 (tout a changé)
+theyo
+
+6
+true
+23:27
+Créez votre IA Pentest 100% locale et sans censure (LM Studio + AnythingLLM)
+Michel Kartner
+
+7
+Vibe coding — Comment tester son application ?
+Shubham SHARMA
+
+8
+J'ai installé l'agent IA le plus puissant du monde
+Vision IA
+
+9
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Gini 3 de Google vient de pulvériser
+0:02
+tous les records, s'imposant comme le
+0:04
+numéro 1 des benchmark, la communauté
+0:07
+des influenceur IA ne parle plus que de
+0:10
+ça. Mais au-delà du buzz, est-ce
+0:11
+vraiment une révolution ? Et surtout,
+0:13
+comment tu peux [musique] utiliser
+0:15
+concrètement Géini 3 dès maintenant ?
+0:17
+Dans cette vidéo, on va en détail
+0:20
+plonger dans les secrets de Gémini 3. Je
+0:22
+te donnerai les clés pour l'exploiter
+0:23
+[musique]
+0:24
+au maximum, mais aussi te révéler ses
+0:26
+vraies limites actuelles. Pas de doute,
+0:28
+il va peut-être changer ton workflow. Le
+0:31
+nouveau Titan de Lia est là et on va
+0:33
+l'explorer ensemble. Dans un premier
+0:35
+temps, pour utiliser G Mini 3, il faudra
+0:37
+un Minima un abonnement pro. Mais
+0:39
+t'inquiète pas, en fin de vidéo, je te
+0:41
+révèle comment tu peux en profiter
+0:43
+gratuitement avec différentes méthodes.
+0:46
+Pour l'instant, voyons comment le
+0:47
+trouver et toutes les possibilités que
+0:48
+nous avons avec. Donc GMini 3, il va
+0:51
+être lié à ton compte Gmail et tu
+0:54
+pourras y avoir accès avec un abonnement
+0:56
+pro et en te rendant dans tes
+0:58
+applications pour directement aller
+0:59
+chercher ici Gemini. Ensuite, pour
+1:02
+pouvoir utiliser le modèle GMini 3, il
+1:05
+faudra sélectionner dans le petit bouton
+1:07
+raisonnement le modèle raisonnement avec
+1:10
+3 Pro. En raisonnement rapide, tu
+1:12
+resteras sur l'ancien modèle 2.5. Sur la
+1:15
+gauche ici, tu pourras développer le
+1:16
+menu pour aller chercher les anciennes
+1:18
+conversations que tu as avec. Tu as une
+1:20
+possibilité ici d'activer l'option
+1:22
+discussion temporaire si tu ne veux pas
+1:23
+que celle-ci soit enregistrée plus de 72
+1:26
+heures dans tes discussions. Au centre,
+1:28
+tu as ta barre de prompt où tu pourras
+1:30
+demander ce que tu veux à Gemini. sur la
+1:31
+gauche, une possibilité d'ajouter des
+1:33
+fichiers à partir de ton ordinateur, à
+1:36
+partir de ton Google Drive, à partir de
+1:38
+ton Google Photo ou directement la
+1:40
+possibilité d'importer du code et
+1:42
+surtout ici, tu auras l'ensemble des
+1:44
+outils disponibles. Attention de
+1:45
+sélectionner le bon avant de demander ce
+1:48
+que tu veux à Géini 3. Puisque avec ces
+1:50
+différents outils, tu vas pouvoir faire
+1:51
+des choses différentes. On va les
+1:53
+explorer ensemble mais dans un premier
+1:55
+temps, nous allons voir notre recherche
+1:58
+classique pour voir un petit peu comment
+2:00
+l'IA se comporte Gini 3 versus l'ancien
+2:03
+modèle 2.5. Et pour se faire, on va
+2:06
+partir sur un exemple qui en dit long.
+2:08
+Donc ici, ce qu'on va faire, c'est qu'on
+2:09
+va ouvrir deux pages Gémini avec sur la
+2:11
+première, nous allons utiliser l'ancien
+2:13
+modèle 2.5 et sur l'eau le nouveau
+2:16
+modèle raisonnement avec 3 Pro. Et on va
+2:18
+poser la même question. Je veux gagner
+2:20
+10000 € par mois sans rien faire et sans
+2:22
+compétence. Bonne chance. Alors, on va
+2:25
+faire ici sur notre modèle 2.5 et la 3
+2:29
+Pro et on va pouvoir voir directement la
+2:32
+différence. La première, c'est que si le
+2:35
+modèle 2.5 me dit que ah oui, c'est un
+2:37
+objet objectif ambitieux sans pour
+2:39
+autant me malmener, et bien sur le 3, il
+2:42
+commence directement avec je vais être
+2:44
+brutalement honnête avec vous car c'est
+2:46
+la seule façon de vous aider réellement.
+2:48
+Ce que vous demandez est impossible dans
+2:50
+la réalité économique actuelle. C'est la
+2:53
+première grosse différence. Fini le
+2:54
+blabla et les polyitesses excessif de
+2:57
+2.5. Gemini 3 va droit au but. Ensuite,
+3:00
+on a aussi des opinions tranchées. Le 3
+3:02
+ose prendre partie et vous conseille de
+3:05
+choisir l'option la plus claire et la
+3:07
+plus fiable. Puis aussi, on aura moins
+3:09
+d'hallucination grâce au raisonnement
+3:12
+profond. La version 3 vérifie la
+3:14
+logique. Elle préfère dire je ne sais
+3:15
+pas plutôt que d'inventer des faits. Et
+3:17
+enfin, on a un contexte intelligent.
+3:19
+Ici, ça sera pour contourner les
+3:21
+questions de sécurité. Si dans
+3:23
+l'intention on précise que c'est de la
+3:25
+fiction ou de l'humour, et bien Géini 3
+3:28
+refusera moins souvent de nous répondre
+3:30
+en évoquant des questions de sécurité.
+3:33
+En fait, ici, on appuie sur le concept
+3:35
+de deep think, c'est-à-dire que LIA
+3:37
+réfléchira vraiment au problèmes posés
+3:40
+et essaiera d'apporter une solution
+3:42
+adaptée à celui-ci en prenant en compte
+3:45
+le maximum de paramètres. On revient sur
+3:47
+notre question des 10 cas par mois où on
+3:50
+en avant que si quelqu'un nous promet
+3:52
+ça, bah c'est sûrement une arnaque et
+3:54
+que le seul moyen d'atteindre ces 10000
+3:55
+€ par mois et bien c'est le revenu
+3:58
+passif avec un capital nécessaire de
+4:00
+départ très très haut. On nous dit de
+4:02
+faire attention aux vendeurs de rêve et
+4:04
+Gini 3 nous donne quand même des clés
+4:06
+pour pouvoir gagner de l'argent sans
+4:08
+capital de départ. Mais il faudra
+4:11
+investir du temps dans des produits ou
+4:12
+des compétences qu'on pourra revendre
+4:14
+mais en investissant beaucoup de temps
+4:16
+de départ. Et la suite ici, ça sera
+4:18
+identifier une compétence simple et
+4:20
+accessible qu'on pourrait apprendre en
+4:22
+moins de 3 mois pour commencer à générer
+4:24
+les premiers revenus. Quant à Gémini
+4:26
+2.5, bon s'il est pas totalement idiot
+4:28
+et qu'il nous dit que quand même ce
+4:30
+n'est pas réaliste, il mettra peut-être
+4:31
+un petit peu plus les formes sans trop
+4:33
+me décourager, mais c'est vraiment
+4:35
+l'approche tranchée sur Gemini 3 qui est
+4:37
+ici très intéressante. Bon, ça c'est le
+4:39
+point de départ mais je pense ce qui est
+4:41
+le plus intéressant avec Gemini 3, c'est
+4:44
+sa compréhension de la multimodalité. Le
+4:47
+principe de multimodalité sur NIA, c'est
+4:50
+la compréhension de tout ce qui va être
+4:52
+vidéo, document, code ou audio
+4:55
+directement par LIA. Si déjà ce principe
+4:57
+était appliqué sur Gini 2.5, ici il est
+5:00
+poussé sur le modèle Gini 3. On n'est
+5:03
+plus sur une analyse classique image par
+5:05
+image, mais une analyse du mouvement. Et
+5:07
+du coup, Gémini 3 peut analyser une
+5:10
+vidéo là où Gemini 2.5 retranscrivait le
+5:13
+texte à l'intérieur de la vidéo sans
+5:15
+comprendre ce qui se passe à l'image.
+5:17
+C'est la même chose avec l'audio. Avant,
+5:19
+on avait une transcription fidèle.
+5:21
+Maintenant, on a une compréhension du
+5:22
+ton et du nom dit de l'audio. Sur les
+5:24
+documents complexes comme un PDF, la
+5:26
+même chose, on était avant sur un
+5:27
+traitement des fichiers un par un et
+5:29
+maintenant on peut croiser les infos,
+5:31
+c'est-à-dire mettre un PDF, ajouter
+5:34
+aussi un audio, une vidéo et avoir les
+5:37
+infos générales. Exemple ici où on lui a
+5:39
+donné une vidéo avec un PDF et un guide
+5:43
+de nutrition. Donc c'est une vidéo
+5:45
+d'exercice de sport avec un PDF sur des
+5:48
+exercices complémentaires et un guide
+5:50
+audio sur la nutrition. Et à partir de
+5:52
+ces trois éléments, il doit me faire un
+5:55
+document complet. Donc là, Google Gemini
+5:58
+3 va analyser les trois documents pour
+6:00
+pouvoir me faire une synthèse et ainsi
+6:03
+me préparer un guide complet qui reprend
+6:06
+l'essentiel de ces trois documents
+6:08
+audio, vidéo et PDF. Et ce qui est
+6:10
+important de dire, c'est que surtout au
+6:12
+niveau de la vidéo, il a analysé les
+6:15
+images et ce qu'elles interprètent pour
+6:18
+pouvoir retranscrire au mieux les
+6:20
+exercices. Donc ça ça va être pour
+6:21
+l'utilisation classique de G Mini 3.
+6:24
+Mais pour aller au-delà de la
+6:26
+conversation et passer en mode création,
+6:28
+il faudra sélectionner l'outil Canvas.
+6:31
+Et à partir de celui-ci, on pourra
+6:33
+réaliser des projets, que ça soit des
+6:36
+documents ou du code. Et Gemini 3 ici va
+6:39
+nous apporter de nouvelles évolutions
+6:42
+dans ce contexte de Canvas. La plus
+6:44
+impressionnante, je pense est au niveau
+6:46
+du code. Avant, quand on utilisait Géini
+6:49
+2.5 dans Canvas, on devait faire un
+6:52
+prompt très précis et si le prompt
+6:54
+n'était pas assez réfléchi, n'était pas
+6:56
+assez détaillé, on pouvait être loin du
+6:59
+résultat souhaité. Ici en fait on va
+7:02
+introduire avec Gémini 3 dans Canvas la
+7:04
+notion de vibe coding. Cette notion nous
+7:07
+permet de donner une description vague
+7:09
+ou naturelle de notre idée ou de
+7:11
+l'ambiance souhaitée et Gini 3 sera
+7:14
+capable de construire une application ou
+7:16
+un site web fonctionnel visuellement
+7:19
+abouti en une seule fois. Vous allez
+7:21
+comprendre tout de suite avec un
+7:22
+exemple. Donc, j'ai bien sélectionné mon
+7:24
+outil Canvas avec mon modèle 3. Pro et
+7:27
+je vais lui demander de me créer un site
+7:30
+web pour vendre ma gamme de confiture.
+7:34
+C'est bon. Et là, qu'est-ce qui va se
+7:35
+passer ? Nous allons basculer en mode
+7:38
+canvas. Donc, nous allons avoir la
+7:40
+fenêtre de dialogue qui va basculer sur
+7:42
+la gauche et sur la droite nous allons
+7:44
+avoir l'écriture du code qui va se
+7:47
+faire. Et ce qui est bien, c'est que sur
+7:48
+la gauche, donc on va voir la
+7:49
+description des actions concrètes que
+7:52
+j'ai mis. 3 va mettre en place sur la
+7:54
+droite la réalisation du code et nous
+7:57
+allons aussi pouvoir basculer dans le
+7:59
+mode aperçu qui va nous donner
+8:01
+directement la possibilité de naviguer
+8:03
+sur ce site web qui vient d'être créé.
+8:06
+On voit que les menus sont fonctionnels,
+8:09
+on peut se balader, on peut voir les
+8:12
+différents produits, les ajouter au
+8:14
+panier. On voit, on a les quantités qui
+8:16
+sont juste ici. On peut commander,
+8:19
+accéder à notre panier. bien sûr, on
+8:22
+restera dans la simulation. C'est
+8:24
+important de le dire que ici la fonction
+8:26
+canvas, ça reste de la simulation du
+8:29
+croquy. Vous pouvez créer la structure
+8:32
+d'un site internet, aller dans le code
+8:34
+et récupérer le code pour le donner
+8:36
+peut-être à votre développeur ou
+8:37
+peut-être vous-même intégrer le site
+8:39
+internet, mais vous ne pouvez pas rendre
+8:41
+le site internet fonctionnel à partir de
+8:44
+cette interface. Ici, on sera vraiment
+8:46
+plutôt sûr de la simulation de code et
+8:49
+on va pouvoir aussi continuer de changer
+8:51
+tout ce qu'on veut en écrivant par
+8:53
+exemple ajoute-moi un menu pour vendre
+8:56
+des accessoires. Voilà, on est vraiment
+8:58
+sur le mode croquy que ça soit au niveau
+9:01
+de la création de site web mais aussi au
+9:03
+niveau de la création d'application.
+9:05
+Voilà, par exemple ici, il m'a ajouté le
+9:08
+menu accessoire qui est juste ici avec
+9:10
+des idées comme cuillère de confiture,
+9:12
+tablier, c'est bon, le coffret cadeau,
+9:14
+et cetera et cetera. Donc voilà, c'est
+9:16
+plutôt sympa. Si on veut revenir en
+9:18
+arrière sur la version précédente, on a
+9:19
+juste à aller juste ici pour pouvoir
+9:21
+charger le site internet qui était avant
+9:24
+et la version suivante. Ça permet aussi
+9:27
+de dire bah voilà, je veux des
+9:28
+changements, je veux que ça se refasse
+9:30
+comme ça. Et comme dit tout à l'heure,
+9:32
+on peut faire des projets sympas. Moi,
+9:34
+je me suis amusé à créer mon mini RTS.
+9:37
+Donc le RTS, c'est en mode Age of
+9:40
+Empire, c'est-à-dire que vous avez vos
+9:42
+unité qui vont fermer tout ce qui est
+9:44
+nourriture,
+9:46
+bois. Vous pouvez créer des paysans et
+9:48
+puis après construire votre armée pour
+9:50
+pouvoir attaquer l'ennemi qui lui
+9:52
+pendant ce temps-là aussi il est en
+9:54
+train d'avancer dans le jeu. Donc voilà,
+9:56
+c'est pas encore ofre mais en tout cas
+9:58
+j'ai réussi à créer quelque chose de
+10:00
+jouable, de sympa et ça permet de
+10:01
+comprendre les mécanismes de jeu sans
+10:03
+être développeur.
+10:05
+C'est assez sympa comme exercice et le
+10:07
+workflow est vraiment pas mal parce que
+10:09
+vous avez à chaque fois G Mini qui vous
+10:11
+explique ce qu'il est en train de faire
+10:13
+dans un langage que vous pouvez
+10:14
+comprendre mais aussi en mettant les
+10:16
+notions clés du code. Vous avez le code
+10:18
+qui est toujours disponible ici et ça
+10:21
+vous permet de progresser, de voir s'il
+10:23
+y a des choses qui bugent. En tout cas,
+10:25
+moi j'ai été assez impressionné et c'est
+10:27
+vraiment sympathique. Si vous avez
+10:29
+besoin de créer un prototype, votre
+10:31
+idée. Après, si vous voulez aller plus
+10:33
+loin, il y a un autre outil qui est
+10:34
+disponible qui s'appelle Google
+10:36
+Antigravity où là on n'est plus dans la
+10:39
+simulation, on est vraiment sur le
+10:40
+chantier de construction autonome où par
+10:42
+exemple, on va pouvoir se connecter à
+10:44
+GitHub ou en local. Il va pouvoir
+10:46
+intégrer toute l'architecture de ce
+10:48
+qu'on est en train de créer. On va on va
+10:49
+pouvoir vraiment travailler sur des
+10:50
+projets sérieux. Par contre, ça demande
+10:53
+des connaissances minimum en codage, en
+10:56
+développement pour pouvoir utiliser
+10:57
+cette version qui est beaucoup plus
+10:59
+complexe mais qui permet d'avoir des
+11:02
+travaux aboutis. Là, ici sur ce G Mini 3
+11:05
+et sur ce Canvas. Donc, à part faire ces
+11:07
+croquis de sites web, d'application ou
+11:10
+de jeux vidéos, on peut quand même
+11:12
+imaginer pour nous dans notre vie de
+11:14
+tous les jours qui peut servir et bien
+11:16
+toujours utiliser cette multimodalité.
+11:19
+Par exemple ici, si je veux transformer
+11:21
+une de nos vidéos en slide pour pouvoir
+11:23
+mieux l'expliquer, alors hop, je copie
+11:25
+le lien de la vidéo, je vais le coller
+11:28
+juste ici et puis je vais dire euh
+11:30
+peux-tu me l'expliquer en slide pour
+11:33
+avoir une présentation qui va se créer
+11:35
+et ainsi à partir de ma vidéo, je vais
+11:37
+avoir la création de mes diapositives
+11:39
+qui reprend toutes les informations clés
+11:42
+de ma vidéo. Qu'est-ce que je vais
+11:44
+pouvoir faire ? Je vais pouvoir exporter
+11:46
+dans Google Slide pour pouvoir peut-être
+11:48
+effectuer de mon côté les modifications,
+11:50
+rajouter des slides, les changer et
+11:52
+m'emparer de ce travail pour pouvoir le
+11:55
+modifier comme je souhaite. Voilà. Donc
+11:57
+Canvas, ça va permettre de créer avec G
+12:00
+Mini 3, mais c'est parfait ici parce que
+12:03
+ça fait aussi le lien que G Mini 3 est
+12:05
+disponible dans votre suite Google, donc
+12:08
+dans tous les outils que ça soit Slide,
+12:10
+que ça soit les Google Sheet, que ça
+12:12
+soit les Google Doc, vous allez pouvoir
+12:14
+faire appel à Gemini pour pouvoir vous
+12:16
+résumer un document ou vous aider à le
+12:19
+concevoir par exemple ici, je suis sur
+12:20
+le script de la vidéo, bien en
+12:22
+sélectionnant le texte, je peux aller
+12:24
+ici dans améliorer, le reformuler, le
+12:26
+raccourcir, le développer, le rendre
+12:27
+plus formel ou tout simplement le
+12:29
+modifier avec un prompt. Exemple ici,
+12:32
+crée-moi une intro plus dynamique. Et
+12:36
+ainsi ici, on voit ce que Gini 3 m'a
+12:39
+proposé. Je peux améliorer le résultat
+12:40
+si je souhaite quelque chose. J'aurai
+12:42
+les différentes possibilités qui
+12:44
+s'affichent juste ici et dès que ça me
+12:46
+convient et bien je pourrais l'insérer
+12:48
+dans mon Google Doc pour pouvoir ici le
+12:50
+retravailler directement. Voilà, cette
+12:53
+intégration de Gémini, elle est
+12:54
+intéressante dans la suite Google. Elle
+12:56
+est aussi disponible dans Gmail si vous
+12:58
+avez besoin d'écrire un mail, par
+13:00
+exemple euh une réponse à une lettre de
+13:04
+candidature. Voilà, c'est fait pour
+13:06
+améliorer le workflow et directement
+13:09
+avoir Gemini disponible dans votre suite
+13:11
+Google pour vous faire gagner du temps
+13:13
+dans par exemple la rédaction des mails
+13:15
+ou dans l'élaboration de vos
+13:17
+présentations, de vos documents, de vos
+13:18
+Google Sheet et cetera. Une autre
+13:20
+fonction souvent sous-estimée dans
+13:22
+Gémini, c'est la fonction deep research.
+13:25
+Deep Research est conçu comme un
+13:28
+analyste autonome. Son objectif n'est
+13:30
+pas seulement de fournir une réponse
+13:31
+rapide, mais de mener une enquête
+13:34
+complexe et approfondie sur un sujet
+13:36
+donné. C'est parfait pour faire une
+13:37
+veille concurrentielle et stratégique,
+13:39
+un rapport d'étude sur un marché
+13:41
+complexe, une synthèse de dossiers
+13:43
+académiques ou technique volumineux ou
+13:45
+des recherches d'informations spécifiées
+13:48
+et vérifiées. Et ici, utilisé sous la
+13:50
+version Gemini 3, et bien on peut avoir
+13:53
+un petit ressenti de déception par
+13:56
+rapport à la version 2.5 et notamment au
+14:00
+niveau de la longueur des pages que nous
+14:02
+allons avoir. Si sur la version 2.5, 5,
+14:05
+on était entre 30 et 40 pages. Ici, on
+14:07
+sera plafonné à une quinzaine de pages
+14:10
+pour privilégier plutôt la logique et
+14:12
+l'intégration de données perso,
+14:15
+rapidité. En fait, le ressenti
+14:18
+utilisateur, il va être plus naturel
+14:20
+comme un consultant senior versus sur le
+14:22
+2.5, un chercheur académique qui fait un
+14:25
+petit peu de On va tout de même le
+14:26
+tester. Donc, il faudra sélectionner
+14:29
+bien de research et ici le modèle 3 en
+14:32
+précisant le prompt que l'on souhaite.
+14:34
+Donc nous ici, on a fait quelque chose
+14:36
+qui est en rapport avec notre
+14:38
+thématique. On voudrait une analyse
+14:40
+technique dans les vidéos. analyser sur
+14:43
+les 6 derniers mois tout ce qui est
+14:44
+miniature, les vidéo tendances, les mots
+14:47
+clés utilisés, la structure pour pouvoir
+14:49
+avoir des indications sur le chemin à
+14:52
+suivre pour pouvoir améliorer nos vidéos
+14:55
+sur le labo des réseaux. Donc ici, on
+14:56
+sera sur la source internet, mais on
+14:58
+peut aussi rajouter des sources internes
+15:01
+en sélectionnant des fichiers précis ou
+15:03
+tout simplement en scannant nos mails,
+15:05
+notre drive, notre chat dans notre suite
+15:08
+Google. Donc ici, on va juste faire sur
+15:11
+le net et on a Deep research qui se
+15:14
+lance. Ça va aller assez vite puisque
+15:16
+par rapport à la version 2.5, vous allez
+15:19
+voir, on est plutôt sur un consonancé et
+15:21
+sur un résumé, mais les sources sont là
+15:24
+et on apprend des choses sympathiques.
+15:26
+On nous met en avant les youtubeurs
+15:28
+tendance qui exploitent au mieux la
+15:31
+niche. I a notamment deux Américains. Je
+15:34
+connaissais pas West Ross, je vais
+15:35
+m'abonner mais je connaissais bien Mat
+15:37
+Wolf. On a une partie intéressante sur
+15:39
+le YouTube face et la connexion humaine,
+15:42
+c'est-à-dire montrer sa tête sur les
+15:44
+miniatures pour augmenter le top clic.
+15:46
+Ça, c'est quelque chose de plutôt
+15:47
+logique qu'on fait pas assez sur le labo
+15:49
+des réseaux et qu'on devrait faire
+15:50
+automatiquement. Ça met un sentiment de
+15:52
+confiance. Et ce que j'aime beaucoup
+15:53
+aussi, c'est qu'il m'a fait une partie
+15:55
+sur les spécificités culturelles sur la
+15:58
+Friend Touch. Donc l'approche
+15:59
+anglophone, elle est plutôt centrée sur
+16:02
+la hype quand nous on est plutôt sur la
+16:04
+narration et l'esprit critique. Très
+16:06
+intéressant pour pouvoir travailler nos
+16:08
+prochaines vidéos sur le labo des
+16:09
+réseaux. On a aussi toutes les étapes du
+16:11
+raisonnement qui sont marquées avec
+16:13
+l'ensemble des sources qui ont été
+16:14
+exploitées. Donc voilà, très
+16:16
+intéressant. Je vais transformer tout ça
+16:19
+en canvas pour avoir mes graphiques et
+16:21
+mon résumé de la vie et réalité. Voilà,
+16:23
+je pense que c'est ça aussi l'intérêt de
+16:25
+Géini, c'est pouvoir avoir un résultat
+16:27
+et le transformer en différents supports
+16:29
+pour avoir toujours une grille
+16:31
+supplémentaire de lecture et pouvoir s'y
+16:34
+retrouver. Ensuite, avec Gemini 3, on a
+16:37
+suivi aussi l'annonce de Nano Banana
+16:40
+Pro. La différence avec Nano Banana
+16:43
+Standard, c'est que le Nano Banana Pro,
+16:45
+bah il utilise le modèle G Mini 3 pour
+16:47
+fonctionner et du coup les performances
+16:49
+sans ressentes. On a un raisonnement qui
+16:52
+a été ajouté sur certaines tâes. On a
+16:54
+plus de lisibilité au niveau du texte,
+16:56
+une édition in painting et out painting
+16:58
+précis, une résolution aussi en 2K et 4K
+17:02
+et ce qui fait que bah si on sélectionne
+17:04
+créer une image et le modèle Gini 3, on
+17:06
+va pouvoir faire des merveilles. Déjà,
+17:08
+en terme de création, à partir d'un
+17:10
+prompte, on peut maintenant indiquer le
+17:12
+format dans lequel on souhaite voir
+17:14
+notre création. Par exemple, là en
+17:16
+16/9e. Et on a toujours cette
+17:18
+possibilité de continuer le dialogue et
+17:21
+de mettre en scène notre personnage dans
+17:23
+différentes situations et aussi de
+17:25
+transformer le style. Ça, j'adore. Autre
+17:27
+exemple que j'ai fait avec Harold. Ici,
+17:30
+j'ai changé le décor pour aller à la
+17:32
+plage. Ensuite, j'ai changé aussi
+17:34
+l'atmosphère. On peut faire ce genre de
+17:36
+chos avec énormément de précision. Donc
+17:39
+changer la lumière, faire du focus,
+17:41
+ajouter ou retirer des choses et
+17:43
+transformer le style. Encore une fois
+17:45
+ici, je l'ai mis dans un album où est
+17:47
+Charlie. Donc ça c'est vraiment
+17:48
+incroyable. Et un exemple que j'aime
+17:50
+particulièrement, c'est de partir d'une
+17:52
+simple idée et de pousser la combinaison
+17:54
+entre Gini 3 et Google Nano Banana Pro
+17:58
+pour avoir toute cette partie
+17:59
+raisonnement. Exemple ici dans la
+18:02
+création d'un logo, je vais pas avoir la
+18:04
+création directe de mon logo mais tout
+18:07
+un cheminement et des proposition de la
+18:09
+part de Gini 3 qui va me faire des
+18:11
+propositions. Donc là, j'en ai quatre
+18:13
+avec des visuels différents. Je vais
+18:15
+sélectionner celui qui me plaît. Après,
+18:17
+j'aurai aussi le style à choisir et
+18:20
+enfin la proposition de logo qui va se
+18:22
+faire. Je vais pouvoir ensuite mettre en
+18:24
+scène mon logo. Donc par exemple ici sur
+18:27
+Dieu Merch. Ensuite, j'ai imaginé une
+18:29
+boutique d'extérieur, à l'intérieur de
+18:32
+la boutique et pourquoi pas une
+18:33
+publicité. Donc pareil, un nouveau
+18:35
+raisonnement avec Bastien euh quels
+18:37
+seraient les plans séquences à mettre
+18:39
+dans ma publicité, la réalisation de ces
+18:41
+plans séquence sur une composition
+18:44
+globale et puis ensuite la réalisation
+18:47
+individuelle de chaque image que j'ai pu
+18:49
+télécharger. Et là, j'ai pu les animer
+18:52
+en passant par Google Flow et en
+18:53
+utilisant aussi le dernier modèle de
+18:56
+Google Vio 3.1 pour donner de la vie aux
+18:59
+images et pouvoir rajouter aussi le son
+19:02
+qui va avec. Je vais pas aller en détail
+19:04
+ici sur Vio 3.1. J'ai fait une vidéo sur
+19:07
+la chaîne si ça t'intéresse, tu peux
+19:08
+aller la consulter. Mais en tout cas,
+19:10
+Google Nano Banana Pro est vraiment
+19:13
+super. Alors, il est juste disponible
+19:15
+avec G Mini 3 et un compte Pro. Donc
+19:18
+reste bien jusqu'à la fin de la vidéo,
+19:19
+je te donnerai des moyens de l'avoir
+19:22
+gratuitement. Ensuite, je voulais aussi
+19:23
+aborder deux outils qui sont méconnus
+19:26
+mais dommage parce qu'ils sont
+19:27
+spécialisés dans l'éducation et avec le
+19:30
+modèle Gini 3. Et bien, ils sont très
+19:32
+intéressants à utiliser. Le premier
+19:33
+c'est l'apprentissage guidé où tu vas
+19:36
+marquer le concept que tu souhaites
+19:37
+apprendre et ici tu vas avoir un
+19:39
+dialogue avec Lia qui va se mettre en
+19:41
+place pour pouvoir apprendre ce concept.
+19:43
+Donc là par exemple, on est sur la
+19:44
+théorie des couleurs et au fur et à
+19:46
+mesure on va avoir des questions qui
+19:48
+vont être posées dans le cheminement de
+19:50
+la théorie des couleurs pour pouvoir
+19:52
+apprendre celle-ci. et ensuite peut-être
+19:54
+mon préféré qui est la vue dynamique.
+19:56
+Ici, tu marques le concept que tu
+19:58
+souhaites explorer et tu vas avoir une
+20:01
+vue dynamique comme un espèce de site
+20:03
+internet interactif qui va se créer. Ça
+20:05
+prend peut-être un petit peu de temps
+20:07
+mais l'expérience, elle est vraiment
+20:09
+ultime avec de l'animation et de
+20:12
+l'interactivité. Par exemple ici sur Van
+20:14
+Gog, c'est super, on a une carte
+20:16
+interactif, on a toutes ces œuvres qui
+20:18
+sont mis en place et on peut se balader
+20:21
+comme ça à travers ce mini site pour
+20:24
+pouvoir apprendre sur la vie et l'œuvre
+20:26
+de Vang Gog. Voilà, c'est super sympa.
+20:28
+Maintenant, c'est seulement disponible
+20:30
+tout ça avec l'option Pro, mais tu as
+20:32
+plusieurs moyens d'obtenir gratuitement
+20:35
+Gini 3. Et le premier, c'est que tu peux
+20:37
+bénéficier tout simplement d'un mois
+20:40
+d'essai gratuit à Google AI Pro. Il
+20:43
+faudra quand même que tu rentres ta
+20:45
+carte bleue et que tu penses à te
+20:46
+désabonner avant que le mois se finisse.
+20:49
+Et la bonne nouvelle, c'est que si tu es
+20:51
+étudiant, et bien juste en bas là, tu
+20:53
+vas pouvoir vérifier ton éligibilité et
+20:56
+c'est 1 an de Google à IRO qui sont
+20:59
+offerts sans frais. Donc ça c'est plutôt
+21:01
+pas mal pour pouvoir avoir accès à Gini
+21:04
+3 pendant un an en tant que étudiant.
+21:06
+J'interviens dans la vidéo de Marco pour
+21:08
+te donner une bonne nouvelle. Il y a
+21:10
+actuellement une offre exceptionnelle de
+21:12
+300 dollars offerts sur Google Cloud.
+21:14
+Ces crédits vont te permettre d'utiliser
+21:16
+Nano Banana Pro gratuitement. Je
+21:18
+t'explique. Pour commencer, il faudra
+21:20
+créer un compte sur Google Cloud. Tu
+21:22
+peux en créer un à l'aide de ton adresse
+21:23
+Gmail. Ton compte Google Cloud va te
+21:26
+permettre d'utiliser les produits Google
+21:28
+par API et donc Nano Banana Pro. Je te
+21:31
+rassure, pas d'installation complexe, ça
+21:33
+se passe directement dans le Google AI
+21:35
+Studio. On voit ça ensemble juste après.
+21:38
+Une fois ton compte créé, tu verras sur
+21:39
+ta page d'accueil 300 dollars de crédit
+21:41
+offert. Pour en profiter, il faudra te
+21:43
+rendre sur la page de l'offre et
+21:45
+démarrer laisser gratuit en
+21:47
+sélectionnant le bouton. Alors, il
+21:48
+faudra entrer des coordonnées bancaires
+21:50
+pour profiter de cette offre, mais tu ne
+21:52
+seras pas prélevé. Ensuite, tu disposes
+21:54
+de 300 dollars offerts sur 90 jours et à
+21:57
+l'issue de ces 90 jours, rien ne te sera
+22:00
+prélevé. J'insiste bien sur ce fait, ces
+22:02
+300 dollars de crédit, ils sont offerts
+22:05
+et entièrement gratuits. Par contre, au
+22:07
+bout de ces 90 jours, à la fin de ton
+22:09
+essai, les données stockées sur ton
+22:11
+Google Cloud seront marquées pour
+22:12
+suppression. Si tu ne veux pas que ça
+22:14
+arrive, il faudra activer ton compte
+22:16
+avant la fin des 90 jours. Et je te
+22:18
+rassure, l'activation de compte
+22:20
+n'entraîne là aussi aucune facturation.
+22:22
+Comme le précise Google, l'activation
+22:24
+d'un compte complet converti un compte
+22:26
+de facturation Google Clot des sans
+22:28
+frais en compte payant et tu peux
+22:30
+activer ton compte payant complet à tout
+22:32
+moment pendant l'essai. Après avoir
+22:34
+activé ton compte payant complet, tu
+22:36
+peux toujours utiliser les crédits
+22:38
+d'essai sans frais restant pendant la
+22:40
+période des 90 jours. Pour résumer deux
+22:42
+choix possibles, tu prends l'essai mais
+22:44
+tu n'actives pas ton compte. Tu as 300
+22:45
+dollars de crédit, tu ne seras pas
+22:47
+facturé. Par contre, au bout de la
+22:48
+période d'essai de 90 jours, tu perds
+22:50
+les données stockées sur ton compte.
+22:52
+Google Cloud. Deuxième choix, tu prends
+22:54
+l'essai et sous 90 jours, tu actives ton
+22:56
+compte payant. Là aussi, tu n'es pas
+22:58
+facturé et tes crédits d'essais sont
+23:00
+toujours valable pendant la période
+23:02
+d'essais de 90 jours et tu commences à
+23:03
+payer selon ta consommation seulement si
+23:06
+après ces 90 jours, tu continues à
+23:08
+utiliser les API des produits de Google
+23:10
+ou dans le cas où tu dépasses les 300
+23:13
+dollars dans les 90 jours. Donc si tu
+23:15
+dépasses tes crédits d'essai, tu
+23:17
+commenceras à payer ta consommation. À
+23:18
+toi de voir ce que tu préfères. De toute
+23:20
+façon, tu as 90 jours pour prendre cette
+23:21
+décision et pour activer ton compte, ça
+23:23
+se passe directement sur Google Cloud
+23:25
+depuis la page console. Maintenant que
+23:27
+tu as ton compte Google Cloud et tes
+23:29
+crédits offerts, pour tester Nano Banana
+23:31
+Pro, ça se passe sur le Google AI
+23:34
+Studio. Tu vas commencer par créer un
+23:35
+projet. Tu te rends donc dans Get AP key
+23:38
+et dans le menu de gauche projet. Tu
+23:40
+crées un nouveau projet, tu le nommes,
+23:45
+tu te rends ensuite dans clé API,
+23:48
+tu vas créer une nouvelle clé API, tu la
+23:51
+nommes
+23:53
+et tu sélectionnes un projet.
+23:58
+Une fois ta clé créée, tu cliques sur
+24:00
+configurer la facturation.
+24:03
+Tu es redirigé sur ton compte Google
+24:05
+Cloud. Tu choisis associer un compte de
+24:07
+facturation.
+24:15
+Et c'est bon, ton API est lié à ton
+24:17
+compte Google Cloud avec tes crédits
+24:19
+offerts. Bon, tu vois de mon côté, j'ai
+24:20
+déjà commencé à profiter de l'offre,
+24:22
+donc il me reste actuellement un peu
+24:24
+moins de 300 dollars. Je retourne sur
+24:26
+mon Google AI Studio, j'actualise ma
+24:30
+page, je retourne sur l'accueil
+24:33
+et là, je vais sélectionner Nano Banana
+24:36
+Pro.
+24:37
+puis le bouton link API. Je sélectionne
+24:40
+mon projet et la clé API que je viens de
+24:42
+créer et je valide selecty.
+24:45
+Et ça y est, je peux utiliser Nano
+24:47
+Banana Pro avec les crédits offerts par
+24:49
+Google.
+24:53
+Cette offre avec Google Cloud, c'est un
+24:55
+bon moyen de tester Nano Banana Pro,
+24:57
+mais pas que. Tu vas aussi pouvoir
+24:59
+tester le dernier modèle vidéo de Google
+25:02
+via 3.1 avec ses crédits offerts. Du
+25:04
+coup, je me rends de nouveau sur ma page
+25:06
+d'accueil. Je sélectionne VO 3.1 et
+25:09
+pareil, je vais connecter une clé API.
+25:12
+Je sélectionne mon projet et ma clé API.
+25:14
+Tu peux sélectionner le même projet ou
+25:16
+en créer un nouveau avec une clé API
+25:18
+dédiée. À toi de voir ce que tu
+25:20
+préfères. Et là, tu vas pouvoir utiliser
+25:22
+VO 3.1. D'ailleurs, VO 3.1, on en a fait
+25:25
+une vidéo dédiée sur le labo des
+25:27
+réseaux. N'hésite pas à aller la voir si
+25:29
+tu veux quelques conseils pour savoir
+25:31
+comment l'utiliser au mieux. Les clés
+25:33
+API que tu vas créer, tu peux aussi les
+25:35
+utiliser en dehors de Google et Studio.
+25:37
+D'ailleurs, récemment, j'ai travaillé
+25:39
+sur un projet d'agent IA sur N8N, un
+25:41
+agent IA qui publie automatiquement des
+25:43
+vidéos Vio 3.1 sur YouTube en utilisant
+25:46
+justement les 300 dollars de crédit
+25:49
+offerts avec Google Cloud. Et si tu veux
+25:51
+voir à quoi ça ressemble et comment
+25:52
+créer ton propre agent IA, n'hésite pas
+25:54
+à aller consulter la vidéo qui est
+25:56
+disponible sur le labo des réseaux. Je
+25:58
+redonne maintenant la parole à Marco
+25:59
+pour la suite de la vidéo.
+26:01
+Voilà. Merci Boris pour avoir présenté
+26:03
+cette troisème solution. Euh je pense
+26:05
+qu'on a fait le tour. Ah si, j'allais
+26:07
+oublier aussi tout ce que je viens de te
+26:08
+montrer, à part peut-être deux trois
+26:10
+choses. Tout ça est disponible aussi sur
+26:12
+l'application Gemini. Si tu n'as pas
+26:14
+d'ordinateur, tu peux le faire
+26:15
+fonctionner sur ton portable. Tu pourras
+26:18
+avoir accès au modèle Vio 3.1 mais aussi
+26:22
+à Nano Banana Pro, à Depch et à Canvas
+26:25
+pour pouvoir créer avec G Mini 3 comme
+26:27
+on a vu dans tous les exemples suivants
+26:30
+et ainsi utiliser G Mini 3 sur ton
+26:33
+mobile. Voilà, merci d'avoir suivi cette
+26:35
+vidéo. Donc Gini 3 m'a vraiment
+26:38
+impressionné. Alors attention après LIA
+26:40
+ne fait pas encore tout à ta place. Il
+26:43
+faut garder son esprit critique. Il y a
+26:45
+aussi certaines fonctionnalités qui
+26:47
+tendent à être amélioré. On n pas
+26:49
+toujours le résultat à 100 % qu'on
+26:51
+souhaite. Et aussi on est encore au
+26:54
+début sur certaines fonctionnalités
+26:56
+comme sur Canvas où on est dans la
+26:58
+création de prototypes sans pouvoir
+27:00
+encore les [musique] utiliser. Mais ça
+27:02
+avance très vite et dans le bon sens
+27:03
+chez Google. Hâte de voir la suite. S'il
+27:06
+y a les réseaux sociaux t'intéressent et
+27:08
+la création de contenu, je t'invite à
+27:10
+poursuivre avec les différentes vidéos
+27:12
+qui s'affiche à l'écran. Et quant à moi,
+27:14
+je te dis à très bientôt pour un nouveau
+27:16
+tuto sur le labo des réseaux. Yeah.
+
+Tout
+
+Source : Labo Des Réseaux
+
+Informatique
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+24:36
+Ces 7 IA GRATUITES de Google sont surpuissantes ! (Plus besoin de payer)
+Elliott Pierret
+102 k vues
+•
+il y a 4 mois
+
+
+46:02
+Chine, le grand bond dans le futur - reportage intégral
+Envoyé Spécial
+375 k vues
+•
+il y a 3 semaines
+
+
+9:17
+Gemini Omni : Le NOUVEAU Meilleur Modèle Vidéo IA ?
+Labo Des Réseaux
+5,3 k vues
+•
+il y a 1 mois
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+2:25
+🎥 Facturation électronique : les grandes transformations selon Samira Gourroum (CMI)
+Lenew
+24 vues
+•
+il y a 6 jours
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+4,5 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+87 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+139 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+19:49
+Je teste les restaurants ouverts 24h après minuit
+Gurky
+125 k vues
+•
+il y a 7 heures
+Nouveau
+
+21:26
+Comprendre le NOUVEAU Google AI Studio en 20 Minutes
+Yassine Sdiri
+151 k vues
+•
+il y a 5 mois
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 9 mois
+Doublée
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+4,3 k vues
+•
+il y a 7 heures
+Nouveau
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+13 k vues
+•
+il y a 6 jours
+Nouveau
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+43 k vues
+•
+il y a 3 semaines
+
+23:24
+Maîtrisez Google Gemini : Tout ce qu'il faut savoir (Tutoriel complet)
+Alex DEW - Automatisation & IA
+22 k vues
+•
+il y a 5 mois
+
+37:58
+Comprendre LES IA comme un pro (et arréter de tout mélanger)
+Renaud Dékode
+1,8 k vues
+•
+il y a 8 heures
+Nouveau
+
+13:59
+Gemini 3.0 Pro 🔥 Il peut écrire un livre de 130 pages en une fois !
+Johan : Solutions Digitales
+9 k vues
+•
+il y a 7 mois
+
+    
