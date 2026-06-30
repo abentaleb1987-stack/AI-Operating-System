@@ -29,12 +29,7 @@ Elements observes dans la video Labo Des Reseaux du 2025-11-25, a confirmer par 
 
 ## 6. Cas d'usage valides
 
-Cas d'usage valides par demonstration, pas encore par experimentation interne :
-
-- analyse multimodale de documents, audio et video sous verification humaine ;
-- prototypage de documents, sites, applications ou code via Canvas ;
-- recherche structuree et veille via Deep Research ;
-- assistance a la redaction, reformulation et preparation de supports dans Google Workspace.
+Aucun cas d'usage n'est encore valide par experimentation interne, documentation officielle recoupee ou retour d'experience reproductible.
 
 ## 7. Cas d'usage a eviter
 
@@ -97,6 +92,13 @@ Gemini peut etre envisage comme composant multimodal dans une orchestration avec
 Ces integrations restent a confirmer avant usage strategique.
 
 ## 12. Evolutions
+
+Cas d'usage observes a tester :
+
+- analyse multimodale de documents, audio et video sous verification humaine ;
+- prototypage de documents, sites, applications ou code via Canvas ;
+- recherche structuree et veille via Deep Research ;
+- assistance a la redaction, reformulation et preparation de supports dans Google Workspace.
 
 Points a surveiller :
 

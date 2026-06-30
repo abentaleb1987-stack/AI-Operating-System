@@ -117,6 +117,17 @@ Ne pas integrer :
 
 Les informations faibles ou incertaines restent uniquement dans la fiche de veille, avec le statut `A surveiller`.
 
+Une information issue uniquement d'une video de demonstration non officielle ne doit pas etre classee comme "cas d'usage valide" dans la fiche permanente.
+
+Elle peut etre integree uniquement comme :
+
+- cas d'usage a tester ;
+- hypothese de workflow ;
+- point a surveiller ;
+- evolution a confirmer.
+
+Le statut "Cas d'usage valide" est reserve aux usages confirmes par experimentation interne, documentation officielle fiable, ou retour d'experience reproductible.
+
 ## Mise a jour de la fiche permanente
 
 Codex doit mettre a jour automatiquement la fiche permanente lorsque l'information est claire, durable et bien classable.
