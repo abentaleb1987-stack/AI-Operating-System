@@ -1,0 +1,1434 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J'ai installé l'agent IA le plus puissant du monde
+Vision IA
+Vision IA
+273 k abonnés
+
+Rejoindre
+
+S’abonner
+
+3,9 k
+
+
+Partager
+
+Posez une question
+
+88 459 vues  12 juin 2026  #hermes #aiagents #networkchuck
+🚀 Lancez votre propre agent Hermes sur un VPS Hostinger : https://www.hostinger.com/fr/visionia
+
+Utilisez le code VISIONIA au moment du paiement pour obtenir une réduction sur votre serveur.
+
+LIENS
+Agent Hermes - https://hermes-agent.nousresearch.com/
+Agent Hermes sur GitHub - https://github.com/NousResearch/herme...
+Nous Research - https://nousresearch.com/
+Jeff Quesnelle, cofondateur de Nous Research
+
+#hermes #aiagents #networkchuck
+
+SOMMAIRE
+00:00 Intro
+00:53 Hermes, c'est quoi ?
+03:08 Installation en 10 minutes
+15:48 Connexion de Telegram
+24:48 La vraie force de Hermes
+25:48 Exemple 1 - Agent de recherche et briefing
+31:42 Exemple 2 - Trouver des clients avec un agent IA
+
+SOUTENIR VISION IA
+
+🚀 Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA !  https://vision-ia.teachizy.fr/formati...
+
+📧 Rejoignez la newsletter vision ia - https://vision-ia.beehiiv.com/subscribe
+
+🔥Rejoignez la communauté Vision IA pour bénéficier d'avantages exclusifs -    / @visionia-fr  
+
+🤯 X.com - https://x.com/vision_ia
+
+*Vidéo Sponsorisé par Hostinger
+Vision IA guide l'installation étape par étape de cet agent open source autonome sur un serveur VPS. Ce tutoriel détaille la configuration des compétences, de la mémoire locale et des notifications automatisées pour transformer le fonctionnement de cet outil au quotidien, sans nécessiter de compétences avancées en programmation.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Vision IA
+273 k abonnés
+Vidéos
+À propos
+Ma 2ème chaîne Vision Science
+289 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @VisionIA-FR
+@VisionIA-FR
+il y a 2 semaines
+🚀 Lancez votre propre agent Hermes sur un VPS Hostinger : https://www.hostinger.com/fr/visionia
+
+Utilisez le code VISIONIA au moment du paiement pour obtenir une réduction sur votre serveur.
+
+9
+
+
+Répondre
+
+
+@melnyyrk4886
+il y a 2 semaines
+Merci beaucoup pour ce petit tuto, Vision ! Je ne manque aucune de tes vidéos, et je trouve que partager des tutoriels comme celui-ci de temps en temps, c’est une super idée. Je suis vraiment fan ! Si jamais tu en fais d’autres, je suis partant avec plaisir. Bravo et encore merci pour tout le boulot que tu fournis !
+
+13
+
+
+Répondre
+
+
+1 réponse
+
+@JeanGaelRouchon
+il y a 2 semaines
+Très didactique
+j'aime bien ce format moins sensationnaliste.
+merci
+
+9
+
+
+Répondre
+
+
+@lerigante3892
+il y a 11 jours (modifié)
+10:10 ça ne met pas l'ordi avec lequel on se connecte dans une white list pour limiter qui peut se connecter. A priori en l'état n'importe qui peut essayer de se connecter depuis n'importe où sur internet. Ce que fait vraiment cette étape: l'ordinateur ou le téléphone avec lequel on se connecte en SSH sur le serveur va enregistrer une clé publique du serveur VPS, qui peut être utilisée pour vérifier que les prochaine fois qu'on se connecte sur le VPS en SSH, c'est bien notre serveur sur lequel on se connecte. Sinon quelqu'un pourrait notamment se mettre devant notre serveur, répondre à sa place genre "ah salut, pour te connecter donne moi ton mot de passe" et nous n'aurions pas de moyen de savoir qu'on envoie pas notre mot de passe à notre serveur à nous. Là si un impersonateur essaye de faire ça, il ne pourra pas prouver qu'il connaît la clé privée qui va avec la clé publique qu'on a enregistré sur notre appareil client ssh et le client va interrompre la tentative de connexion.
+
+3
+
+
+Répondre
+
+
+@erwannbrun7603
+il y a 2 semaines
+J'y comprends rien et je suis nul dans ce domaine, mais ça reste les vidéos et la vulgarisation les plus accessibles et sympathiques que j'ai trouvé à l'heure actuelle sur le web.
+
+14
+
+
+
+Répondre
+
+
+@joeguilian2829
+il y a 2 semaines
+Très intéressant, ça change des vidéos de news habituelles
+
+13
+
+
+Répondre
+
+
+@Jérôme-s1n
+il y a 2 semaines
+Votre manière d'expliquer est vraiment très bien même un débutant peut suivre vos vidéos et bien faire 
+
+5
+
+
+
+Répondre
+
+
+@Jérôme-s1n
+il y a 2 semaines
+D'autres font des vidéos mais on ne comprend rien par exemple comme des vidéos qui parlent des skills de claud on ne montre jamais comment faire exactement mais avec vous c'est le contraire apparemment je suis content d'être tomber sur votre vidéo. Force et courage 
+
+5
+
+
+
+Répondre
+
+
+@alainlaforce3483
+il y a 2 semaines
+ça ne serait pas une bonne idée de créer sur le serveur un utilisateur supplémentaire pour connecter les moyens d'échanges via ce dernier et non via le profil root ?
+
+6
+
+
+Répondre
+
+
+@stephanaime8937
+il y a 1 jour
+Merci pour ce tuto où tu nous prends vraiment pas à pas: J'ADORE !
+Je vais essayer tout ça de ce pas
+
+
+
+Répondre
+
+
+@zianifarid640
+il y a 2 semaines
+Top. Merci pour le pas à pas. Ça aide à comprendre beaucoup de choses, pas seulement à "faire".
+
+3
+
+
+Répondre
+
+
+@GaetanVachet
+il y a 2 semaines
+Merci je l'ai enregistré... j'adore ta chaîne et ta façon d'expliquer continue 
+
+3
+
+
+
+Répondre
+
+
+@pen0079
+il y a 2 semaines
+Merci infiniment pour cette vidéo . Elle n'était pas longue parce qu'elle était très intéressante. Elle donne vraiment un aperçu du potentiel des agents IA.
+
+1
+
+
+Répondre
+
+
+@maximillien_dazelo
+il y a 7 jours
+Bravo Vision, tu es au top, tout est clair comme d'habitude pour tes infos sur l'IA. Mais ce partage est particulièrement sympa de ta part et ton enthousiasme est communicatif, je vais tester ça au plus vite
+
+
+
+Répondre
+
+
+@shinpayn6994
+il y a 2 semaines
+Au début j'étais tombée sur ta chaîne à cause de la science, etant un habitué de la chaîne "scienceetonnante", je vue qu'il y a une grande différence de vulgarisation, l'autre est bien plus précis, mais il aborde pas trop le monde de l'informatique comme tu le fais et là.... Je suis impressionnée finalement. Je savais déjà faire tout ce que tu expliques pour les serveurs, mais c'est cool de voir quile tu as sérieusement pris ton temps pour expliquer. Je m'abonne finalement .
+
+6
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@francoisdeloffre8036
+il y a 7 jours
+Top . Éducatif et précis. Je trouve que cette orientation de video te va très bien .
+
+
+
+Répondre
+
+
+@oa4330
+il y a 2 semaines
+Oui ! Hermes agent desktop est Génial !
+
+2
+
+
+Répondre
+
+
+@zaadhum4512
+il y a 2 semaines
+très belle vulgarisation, on commence à entrevoir le champs des possibles... très intéressant.
+
+1
+
+
+Répondre
+
+
+@PapsonBoyRaphaël
+il y a 2 semaines
+Vraiment sympa ce petit tuto, ta formation doit être encore plus fun 
+
+1
+
+
+Répondre
+
+
+@frederickdvorak6502
+il y a 2 semaines (modifié)
+Merci. J'apprécie que vous vous adressez à nous, les néophites. Nous sommes friands de savoir pour rejoindre la vague de l’IA mais, trop souvent, les initiés donnent des explications vagues ou qui présupposent des installations déjà faites et des connaissances déjà acquises.
+
+1
+
+
+Répondre
+
+    
+IA
+Privée
+Abder Bent
+8/9
+
+
+
+
+1
+true
+27:19
+Gemini 3 : le GUIDE Complet (et l'obtenir gratuitement)
+Labo Des Réseaux
+
+2
+true
+22:34
+Je Crée un Business en 20 min avec 4 IA GRATUITE de Google
+Yassine Sdiri
+
+3
+true
+22:15
+Comment maîtriser l'IA mieux que 99% des entrepreneurs (3 secrets)
+Yassine Sdiri
+
+4
+true
+18:17
+Comment créer une App COMPLÈTE avec l’IA (vous n’allez pas le croire)
+Yassine Sdiri
+
+5
+true
+19:53
+Comprendre l'IA en 2026 (tout a changé)
+theyo
+
+6
+true
+23:27
+Créez votre IA Pentest 100% locale et sans censure (LM Studio + AnythingLLM)
+Michel Kartner
+
+7
+true
+10:19
+Vibe coding — Comment tester son application ?
+Shubham SHARMA
+
+true
+43:35
+J'ai installé l'agent IA le plus puissant du monde
+Vision IA
+
+9
+true
+53:43
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Intro
+0:00
+Hermes, c'est l'un des agents IA les plus puissants que j'ai jamais testé. Je dis pas ça à la légère, j'en teste
+0:05
+[musique] tous les jours. Donc dans la vidéo d'aujourd'hui, je vais vous accompagner depuis zéro. Vraiment depuis
+0:11
+le tout début hein, jusqu'à ce que vous soyez capable de l'installer, de le configurer [musique] et de l'utiliser
+0:16
+chez vous dès aujourd'hui. Pas besoin de savoir coder, pas besoin d'un ordinateur à 4000 €. Un simple serveur de 5 à 10 €
+0:23
+par mois suffit. Et l'installation a des étapes assez simples à suivre. À la fin de cette vidéo, vous comprendrez
+0:29
+exactement comment tirer le maximum de cet agent IA ultra puissant. Car on parle souvent des avancées en ia des
+0:35
+dernières sorties, mais aujourd'hui, j'ai décidé de vous partager ce cours pour tout le monde. Aujourd'hui, les agents IA ont un problème. Vous passez
+0:42
+une heure à tout expliquer, donc le contexte, les fichiers, vos préférences et cetera. L'agent fait un travail
+0:48
+correct, puis vous fermez la session et le lendemain, il a oublié la moitié. Ça, c'est l'état de l'art en 2026 ou du
+Hermes, c'est quoi ?
+0:55
+moins ça l'été. parce que il y a un outil qui a changé la façon de bosser avec Lia, un agent open source qui
+1:01
+tourne sur votre propre serveur, qui se souvient de tout ce qu'il a fait pour vous et qui je pèse mes mots devient
+1:07
+meilleur au fil du temps. Un agent I, c'est pas un chatbot comme chat GPT ou cloud hein, c'est pas non plus un
+1:13
+copilote de code comme Codex ou Cloud Code. C'est une IA autonome qui vide sur
+1:18
+votre machine et qui apprend. Ça s'appelle Hermes agent, c'est développé par NS Research. Alors, si vous voyez
+1:24
+ça, vous vous dites "OK, encore un nouvel outil." Je sais, vous en avez vu passer des une quinzaine cette année,
+1:30
+tellement ça va vite. Mais celui-là, si je vous le montre, c'est parce qu'il est différent. Et la raison tient en deux
+1:35
+mots seulement, boucle d'apprentissage. Je rajouterai même boucle d'apprentissage open source. Voici
+1:43
+comment ça marche. Vous donnez une tâche complexe à Hermes, il l'a résus là, rien de nouveau. Sauf que après, il fait
+1:49
+quelque chose qu'aucun autre agent ne fait. Il analyse ce qui a fonctionné puis il en écrit une procédure
+1:54
+réutilisable. C'est ce qu'ils appellent une skill donc une compétence. Puis il va la stocker. La prochaine fois qu'un
+2:00
+problème similaire se présente, il ne repart pas de zéro. Il charge la compétence, il va l'appliquer et si le
+2:05
+résultat est encore meilleur, il met à jour la procédure. C'est une boucle fermée de l'autoamélioration.
+2:12
+L'agent s'améliore tout seul. pas en réentraînant un modèle entier, mais en accumulant de l'expérience concrète sur
+2:18
+la façon dont vous travaillez à vous avec vos problèmes à vous. En clair, dit très simplement, votre agent Hermes au
+2:24
+jour numéro 30 n'a plus rien à voir avec celui que vous aviez au jour numéro 1. C'est le même outil hein, mais il ne
+2:30
+travaille plus du tout de la même façon. Au bout de quelques semaines, il connaît vos projets, vos préférences et vos petites manies. Le projet est
+2:36
+entièrement open source, ça veut dire que le code est public. Vous pouvez lire chaque ligne, le modifier, le redistribuer, créer des applications
+2:43
+dessus, bref, tout faire. Alors, dans la suite de cette vidéo, on fait deux choses. Je vous montre comment installer
+2:48
+Hermes de zéro. On va le faire ensemble pas à pas, c'est plus facile que vous le pensez. Et à la fin, je vous montre
+2:53
+comment des exemples d'utilisation. Si vous n'avez jamais vu d'agent il y a un action, vous allez être surpris aujourd'hui. Bien, alors c'est parti.
+3:00
+Allez vous faire un thé, un café, mettez-vousle à côté et on va commencer à manipuler tout ça. Vous trouverez bien
+3:06
+sûr tous les liens vers les pages que je vais vous montrer sous la vidéo. Alors, pour l'installer, vous allez sur le site de Hermes eux-mêmes et vous voyez des
+Installation en 10 minutes
+3:13
+lignes de commande ici. C'est avec ça que l'on va l'installer. Mais la question qui vient, c'est où est-ce qu'on l'installe ? Et bien, plusieurs
+3:19
+options s'offrent à nous. En fait, vous pouvez faire tourner ça à peu près n'importe où, hein. C'est c'est très
+3:25
+léger, c'est construit en Python, donc vous pouvez le mettre sur votre PC portable, votre PC personnel ou même
+3:31
+votre téléphone portable. Mais moi, mon endroit préféré pour le faire tourner, bien sûr, c'est dans le cloud tout
+3:37
+simplement pour y avoir accès partout qu'il tourne toujours 24 heures sur 24, ce qui sera très important pour certaines tâches. Et la façon dont on va
+3:44
+faire ça, c'est sur un VPS, ce qu'on appelle un VPS, donc qui signifie serveur privé virtuel. C'est une un
+3:51
+ordinateur virtuel dans le cloud en quelque sorte. Euh bien sûr, ne vous inquiétez pas, le tutoriel que je vais
+3:56
+vous montrer dans cette vidéo va s'appliquer à n'importe quel mode d'utilisation. Euh mais ici, c'est par
+4:01
+souci de simplicité et d'accessibilité que le VPS, c'est vraiment l'option la plus simple, euh la plus rapide et même
+4:08
+la plus fiable pour une première prise en main comme ça pour comprendre cet outil. Donc vous l'avez compris, ce
+4:13
+qu'on va faire ici, c'est d'installer l'agent Hermes sur un ordinateur dans le cloud en ligne. Et pour faire ça, je
+4:19
+vais utiliser Hostinger. [grognement] Alors, une remarque, euh personnellement, j'utilise Hostinger pour héberger mes automatisations mes
+4:26
+divers agents, notamment des agents Open Clow et même parfois Cloud Code, il m'arrive de l'utiliser sur des instances
+4:31
+Hostinger. J'y héberge aussi mes sites web et cetera. Donc en réalité, c'est mon fournisseur de VPS de choix car tout
+4:37
+simplement ils sont très fiables et c'est une qualité- prix euh imbattable pour être honnête. Donc il y a le lien
+4:43
+dans la description si vous voulez aller voir ça. Lorsqu'ils m'ont proposé ce partenariat, j'ai vite dit oui car je
+4:48
+sais que cet outil est vraiment très fiable. Donc ça vaut le coup. N'hésitez pas à aller voir et vous allez le voir
+4:54
+très rapidement d'ailleurs. C'est vraiment un outil génial. Donc on va on va créer notre serveur VPS. Quand vous
+5:01
+êtes sur cette page ici, pareil, vous trouverez le lien en description. vous descendez, vous avez ici les divers plans, donc les divers serveurs que vous
+5:07
+pouvez acquérir. Vous avez KVM1, KVM2, KVM4, KVM8. Alors ça en gros, ça va
+5:12
+juste changer la quantité de CPU et de RAM que votre ordinateur virtuel va avoir. Donc en gros la puissance de
+5:19
+votre ordinateur et la banne passante et tout ça sur le serveur. Vous pouvez tout à fait débuter par le KVM1. Donc pour
+5:26
+tester tous ces outils, pour vous prendre la main, c'est vraiment pas cher. Euh et vous pourrez monter en gamme plus tard si vous avez besoin de
+5:32
+plus de ressources de calcul. Ça se fait assez facilement. Ici, je vais sélectionner le numéro 2. Une fois que vous avez sélectionné votre plan, vous
+5:38
+arrivez sur cette page et vous pouvez sélectionner donc la durée de votre abonnement 1 mois, 12 mois, 24 mois. Et
+5:43
+très bonne nouvelle pour les spectateurs de Vision IA, Hostinger nous a accordé donc un code promo que vous pouvez
+5:50
+utiliser. Vous tapez ici Vision IA, vous cliquez sur appliquer et vous obtenez la réduction correspondante. Donc ça vaut
+5:55
+vraiment le coup si vous voulez vous y lancer. C'est le bon moment. Une fois l'étape de paiement finalisée, il faut
+6:01
+maintenant configurer votre VPS tout simplement. Alors, vous arrivez sur cette page ici, vous sélectionnez votre serveur. Je vais prendre un serveur en
+6:07
+France pour rester euh sur des serveurs français. Ensuite, il vous demande de sélectionner votre système d'exploitation. Alors, je vous conseille
+6:13
+d'utiliser Buu, donc c'est Linux. Euh ça, c'est ce qui permet de faire tourner le mieux la plupart des agents IA. Vous
+6:20
+allez comprendre pourquoi un peu plus tard. Sachant que vous pouvez également taper Hermes ici directement. Vous voyez que vous avez déjà des versions du VPS
+6:27
+déjà préprogrammées avec cette version. Mais on va on va pas faire comme ça. Ce que je veux c'est que vous puissiez
+6:33
+avoir le plus de contrôle possible sur notre machine. Donc c'est ce qu'on va faire. On revient en arrière et dans système d'exploitation je vais taper sur
+6:39
+je vais cliquer sur un et ensuite pour la version celle-ci fera très bien le boulot. Donc je clique sur sélectionner.
+6:45
+Il vous demande de créer un mot de passe maintenant. Alors ça c'est très important. C'est un mot de passe qui va vous permettre d'accéder à votre machine
+6:50
+depuis n'importe où. Donc c'est c'est vraiment important. Donc c'est un peu bête dit comme ça, mais c'est important
+6:55
+de ne pas perdre ce mot de passe. Une fois que vous avez saisi le mot de passe, vous cliquez sur suivant. Puis enfin, pas besoin de coucher rien ici.
+7:02
+Euh nous le verrons peut-être plus tard. Et voilà, maintenant votre VPS va commencer sa configuration. Il va
+7:08
+infuser en quelque sorte. Vous suite à ça, vous allez atterrir dans le tableau de VPS. Donc bravo, votre ordinateur
+7:14
+virtuel est en ligne, il est en train de se configurer et on va y avoir accès dans un instant. Une fois qu'il a fini,
+7:20
+vous avez deux options. Donc soit ouvrir votre table de bord, soit y accéder directement par SSH. Donc vous allez
+7:26
+cliquer par gérer le VPS. Il vous pose un questionnaire, donc vous pouvez soit y répondre, soit y passer. Et vous voilà
+7:32
+dans votre tableau de bord de votre ordinateur virtuel. Alors juste avant de continuer, un petit aparté pour vous
+7:37
+rappeler de ne pas hésiter à utiliser l'IA1 quand vous êtes bloqué quelque part. Vous savez des fois les boutons
+7:42
+changent, les le nom des des choses changent. Donc si dans ce tuto vous êtes bloqué à un moment donné, n'hésitez pas
+7:48
+à aller sur Uniab, par exemple Cloud et vous lui énoncez très clairement votre problème. Donc par exemple, vous pouvez
+7:53
+lui dire "Cloud, je suis bloqué à une étape lors d'une installation dans VPS Hostinger. Je suis en train de suivre
+8:00
+une vidéo de vision. Il y a je dois installer une machine Ubuntu mais je ne l'ai pas. Quelles sont mes alternatives
+8:06
+?" C'est un exemple pour vous pour vous montrer. Ça paraît évident mais j'ai
+8:12
+remarqué que beaucoup de gens ne fait pas ça. Donc quand vous êtes bloqué quelque part, quand des boutons ne correspondent pas, quand vous savez pas
+8:17
+trop où vous êtes ou que vous êtes un peu perdu, n'hésitez pas à utiliser Lia pour vous aider dans vos processus. Bien, alors de retour dans le panneau de
+8:23
+bord, le tableau de bord du VPS. Plusieurs options s'offrent à vous. La première chose que vous pouvez faire,
+8:29
+c'est directement changer le nom du serveur car à long terme, vous pouvez vous retrouver avec plusieurs serveurs, plusieurs VPS, plusieurs agents y a
+8:35
+installés et c'est pas mal de de bien commencer les choses dès le début. Donc vous cliquez ici sur paramètres
+8:40
+paramètres principaux et ici dans nom de l'ot, vous allez le changer. Donc vous faites modifier et vous écrivez le nom
+8:45
+de votre serveur que vous voulez. Par exemple, je vais mettre YouTube Hermes et je clique sur changer. Là, votre nom
+8:50
+d'OT va changer. Ça sera important plus tard pour pouvoir y accéder depuis le cloud. Ça met un petit moment. Et puis
+8:56
+une fois que c'est fini, vous avez ici votre nouveau serveur, votre nouveau nom dot. Bien, je vous propose d'installer
+9:02
+directement Hermes sur votre machine. Alors, comment on fait ? Vous retournez ici dans l'aperçu, donc le tableau de bord général de votre serveur. Vous
+9:08
+allez copier cet accès ici là. Donc vous voyez SSH route@as numéro, c'est l'adresse de votre serveur. Vous cliquez
+9:15
+dans le sur les petits symboles ici pour copier l'adresse. Ensuite, on va lancer notre terminal pour y accéder. Alors, je
+9:21
+sais que beaucoup d'entre vous êtes informaticien euh vous y accédez comme vous voulez, hein. C'est une simple commande SSH. Euh si vous n'avez déjà
+9:27
+pas trop trop manipulé l'informatique encore, suivez ce que je vais faire. Donc vous allez dans la barre de recherche Windows, ici vous tapez CMD.
+9:34
+Euh, vous allez avoir quelque chose qui apparaît dans les résultats qui s'appelle invite de commande. Vous l'ouvrez. Vous avez donc ce qu'on
+9:39
+appelle le terminal qui s'ouvre, ce fameux carré noir que vous voyez dans les films souvent avec du texte qui défile et cetera. C'est c'est juste du
+9:46
+texte ça. Il ne faut pas trop avoir peur de de terminal. Et ce que je vais faire, c'est contrôle V donc pour coller le la
+9:53
+commande qu'on vient de copier depuis notre serveur. Ça c'est une commande pour accéder tout simplement à votre
+10:00
+serveur depuis votre ordinateur local. Donc vous pourriez être n'importe où dans le monde. Vous pouvez accéder à
+10:05
+votre serveur comme ça. Ça s'appelle SSH. Donc là il vous parle de votre emprunte. Vous tapez, vous écrivez y et
+10:10
+vous faites entrer tout simplement. Ça met votre ordinateur dans une white list en quelque sorte pour que pas tout le
+10:16
+monde puisse y accéder hein, tout simplement. Donc une fois que vous avez fait ça, il vous demande de mettre votre mot de passe. Donc vous mettez votre mot
+10:22
+de passe que vous avez défini à l'étape de configuration, celui que je vous ai dit de ne pas oublier. Et d'ailleurs au passage, quand vous écrivez euh ça
+10:28
+n'écrit pas, hein. Vous n'êtes pas censé voir que ça écrit. C'est normal, c'est fait pour la protection du mot de passe, mais ça écrit bien. Donc vous écrivez le
+10:33
+mot de passe, vous faites entrer et une fois que vous faites cela, vous êtes enfin arrivé sur votre dans votre serveur. Vous voyez plusieurs
+10:40
+informations. Donc notamment votre l'espace disponible sur votre ordinateur cloud. Vous voyez que vous avez 95 Go
+10:45
+ici l'utilisation des du processeur. Donc quand vous allez faire tourner des agents à fond, vous allez voir la
+10:50
+mémoire qui va euh augmenter. D'ailleurs, au passage sur ce genre de serveur, vous pouvez installer des LLM
+10:56
+locaux, des choses comme ça, mais ça ça sera pour notre sujet. Là, on s'est donc connecté à votre ordinateur à distance.
+11:02
+Ce qu'on va faire maintenant, c'est retourner sur le site web de Hermes, le fameux site du début. Donc vous avez ici
+11:08
+deux onglets. Faites attention à bien cliquer sur Linux. Euh et vous avez la commande pour installer Hermes sur une
+11:13
+machine Linux ici. Donc vous allez cliquer sur copie, ça va copier toute la commande. Vous retournez sur votre terminal ici et vous la collez tout
+11:20
+simplement. Donc vous le voyez hein, vous faites entrer et la magie
+11:25
+l'ordinateur va commencer à travailler et installer votre Hermess en local. Je mets entre guillemets puisque c'est ça
+11:31
+reste du cloud mais ça reste du local mais dans le cloud. Et maintenant et bien il faut attendre tout simplement.
+11:38
+D'ailleurs, pendant que on attend, assurez-vous de mettre un petit like et de vous abonner si ce n'est pas déjà fait, ainsi que de commenter si vous
+11:44
+aimez ce genre de contenu. Moi, ça me servira de pour savoir si je dois en faire d'autres ou pas. Euh ce qu'on va
+11:50
+faire quand ça ça sera terminé, ça sera d'abord de créer notre majord d'homme IA personnel. Euh donc c'est vous allez
+11:57
+voir, c'est vraiment puissant. Après, on pourra ce majord d'hôme aura des ce qu'on appelle des compétences. Donc euh
+12:02
+par exemple, il sera envoyé des emails, euh consulter des documents, lire euh
+12:08
+transcrire des audios, des choses comme ça. Ce qu'on appelle des compétences. On pourrait lui donner une compétence euh pour par exemple allumer une lumière,
+12:15
+éteindre votre lumière, descendre votre garage, enfin on peut tout imaginer avec les agents I. C'est pour ça que c'est
+12:21
+puissant d'ailleurs. Une fois qu'on a fini, on arrive ici avec des choix. il va nous proposer des options à choisir. Soit vous avez un quick setup où vous
+12:27
+pouvez configurer tout ça en vous connectant sur Hermes qui ont leur propre LLM, donc leur propre IA et cetera. Ce qu'on va faire ici, c'est le
+12:33
+full setup pour que vous puissiez choisir l'option qui vous vous intéresse le plus, donc l'A qui vous intéresse le plus. Euh vous donc vous faites bien
+12:40
+attention de sélectionner la deuxième option, vous faites entrer. Là vous arrivez ici, il vous donne plusieurs informations. Alors il a marqué guide.
+12:46
+Vous allez cliquer ici sur le lien clic gauche et ça vous ouvre cette liste ici.
+12:52
+C'est quoi cette liste ? C'est tout simplement tous les cerveaux IA, donc toutes les LLM, tous les IA que vous pouvez connecter à votre agent IA. C'est
+12:59
+le cerveau qu'il y aura derrière votre agent Hermes. Alors bien sûr, comme Open Clow, Hermess harné, ce qu'on appelle un
+13:05
+harnet maintenant dans le monde désir, c'est un ensemble d'outils qui va utiliser un LLM, celui que vous voulez.
+13:12
+Si vous voulez rester en local, vous pouvez le faire hein, vous pouvez le il gère très bien par exemple un modèle comme Queen que vous pouvez installer
+13:18
+sur votre machine et le faire tourner en local. Comme ça, les données restent sur votre machine safe. Euh mais si vous
+13:24
+voulez des modèles plus intelligents, donc des modèles frontières qui sont vraiment très intelligents, vous pouvez connecter Cloud par exemple. Euh mais
+13:30
+moi pour débuter, mon préféré c'est tout simplement Codex, donc Open AI. Pourquoi ? Parce que vous pouvez utiliser votre
+13:37
+abonnement Chat GPT avec. Vous savez, la plupart d'entre nous, nous payons déjà un abonnement pour chat GPT. Et donc,
+13:43
+sans payer un centime de plus, vous pouvez utiliser Chat GPT comme cerveau ici sur Hermes sans payer un centime de
+13:49
+plus. Donc ça c'est pas négligeable en ce moment et c'est super. Puis aussi récemment ils ont inclin donc c'est le
+13:55
+même principe. Vous avez si vous avez un abonnement X premium euh vous pouvez le connecter comme ça il va utiliser votre abonnement Grock sans payer euh 1
+14:02
+centime de plus. Donc c'est vraiment intéressant. Comme je vous l'ai dit ici on va utiliser Codex. Je vais me mettre
+14:08
+sur Open et faire entrer. Euh donc ici, je vais prendre Open Codex entrée et il
+14:14
+me donne ensuite la méthode pour connecter donc mon Open AI à mon agent Hermes. Ce que je vais faire, c'est tout
+14:19
+simplement maintenir la touche contrôle et cliquer gauche ici. Ça va ouvrir le site qu'il me propose donc sur le
+14:25
+navigateur et j'ai qu'à me connecter à mon chat JPT. Alors, petite remarque que j'ajoute au montage. J'ai remarqué que
+14:31
+beaucoup de personnes se retrouvent bloquées à cette étape où ils ont un carré rouge qui demande d'activer les codes. Pour ça, il vous suffit de
+14:37
+cliquer sur le lien que chat GPT vous propose, paramètres de sécurité. Cela vous renvoie dans les paramètres de votre chat GPT. Vous allez dans sécurité
+14:43
+et tout en bas, vous avez ici activer l'autorisation avec les codes d'appareil pour Codex. Suite à ça, vous pouvez répéter la manipe et vous arrivez là où
+14:48
+moi j'arrive. Vous arrivez sur cette page, vous cliquez sur continuer puis il attend un code. C'est le code que vous
+14:55
+avez dans votre terminal ici. Vous le voyez hein. Donc ce code là a h caractères. Vous le collez. Donc j'ai
+15:00
+fait contrôle C, contrôle V et continuez. Voilà, c'est aussi simple que ça. Vous avez connecté votre compte
+15:05
+Codex, donc c'est Chat GPT, à votre agent Hermè sans payer en centime de plus. Donc très intéressant. Sur le
+15:12
+terminal, vous voyez d'ailleurs que c'est passé à l'étape suivante. Il vous demande de sélectionner le modèle. Bien sûr, on va utiliser Chat GPT 5.5. C'est
+15:19
+le plus intelligent au moment où je pars, où je j'enregistre cette vidéo. Vous faites entrer. Ici, il vous demande
+15:24
+le backend. Donc euh pour rappel, on est sur une machine virtuelle. Il vous demande si vous voulez le l'installer en
+15:29
+local, en docker, en SSH et cetera. Euh euh rappelez-vous que là, on est déjà
+15:34
+connecté à distance sur le VPS. Donc pour Hermes, c'est en local mais pour nous, c'est dans l' cloud. Il faut bien
+15:41
+avoir cette distinction. Donc, je vais laisser ici keep current en local. Et on arrive ensuite à l'étape suivante où il
+15:46
+nous demande de configurer euh un moyen d'échanger avec cet agend-là. Plusieurs
+Connexion de Telegram
+15:52
+options s'offr à nous. Alors nous, on va utiliser Telegram parce que c'est le plus simple, c'est celui queon utilise
+15:57
+presque tous dans le monde des agents IA. Euh si vous êtes un de mes apprenants, vous le savez très bien. Je vous ai déjà montré comment configurer
+16:03
+ça. Euh je voulais montrer, je vous ai montré comment le connecter à une par exemple. Mais vous pouvez utiliser
+16:09
+n'importe lequel hein, celui qui vous intéresse le plus. si vous êtes beaucoup sur Discord par exemple ou alors vous pouvez aussi par email, c'est-à-dire
+16:14
+interagir avec votre agent Hermes par email comme si c'était un employé. Donc vous envoyer des emails le matin et
+16:20
+cetera. Et ici pour sélectionner Telegram, attention vous si vous appuyez sur entrer, il va passer comme si vous ne l'aviez pas sélectionné. Pour
+16:26
+sélectionner c'est espace ici. Regardez si j'appuie sur espace vous voyez qui apparaît. Donc vous pouvez sélectionner plusieurs modes de communication comme
+16:33
+ça. Alors pour la simplicité, je vais juste sélectionner Telegram. Vous allez comprendre un après pourquoi. Donc une
+16:38
+fois que c'est sélectionné avec le espace, je vais faire entrer et c'est là où il vous demande de configurer votre
+16:44
+euh token Telegram. Ne vous inquiétez pas, cette partie est assez facile. Il vous demande tout simplement de discuter
+16:49
+avec ce bot fader ici. Euh donc c'est un compte Telegram bot qui vous permet de
+16:54
+créer vos vos botes à vous Telegram. Pour ça, il vous suffit d'ouvrir l'application Telegram, donc soit sur
+17:00
+votre portable euh, soit sur l'application de bureau. Je vous conseille de télécharger l'application de bureau car avec les agents IA, vous
+17:06
+allez faire beaucoup de tests et c'est tout simplement plus facile pour les copiers coller et cetera, pour les envoies de docum. Donc, j'ai téléchargé
+17:12
+l'application, je l'ai ouvert, j'ai créé un nouveau compte. On arrive sur un compte neuf Telegram. Euh ce qu'on va faire, c'est dans la recherche ici à
+17:18
+haut, vous allez taper, vous allez taper bot father, donc le paire des bottes tout simplement et cliquer dessus sur ouvrir. Là, il va vous proposer de
+17:25
+configurer très simplement votre bot Telegram. Vous cliquez sur démarrer, puis vous avez plein d'options. Alors,
+17:31
+pour créer un nouveau bot, c'est ici dans new bot. Donc, créer un nouveau bot. Vous cliquez dessus, il vous demande nom pour votre bot. Moi, je vais
+17:38
+l'appeler par exemple Gérard Majordom. Bon, c'est pour la vidéo, c'est pour l'exemple. Euh, ça sera le nom de votre
+17:43
+agent IA. En fait, je le répète, mais cette étape [raclement de gorge] à cette étape, vous êtes en train de
+17:49
+créer un agent IA qui va pouvoir remplir le rôle que vous voulez. Par exemple, il peut jouer le rôle d'un salarié
+17:55
+informatique dans votre entreprise. Donc pour de vrai, hein, donnez-lui un nom d'utilisateur que vous allez utiliser
+18:00
+assez souvent. il doit être unique et c'est avec celui-ci que vous allez interagir. Donc par exemple, votre
+18:05
+salarié informatique, ça sera un agent qui va s'occuper de de passer sur t tous vos vos codes informatiques et s'assurer
+18:11
+de la sécurité tous les jours, par exemple, des routines qui vont tourner, s'assurer qu'il n'y ait pas de bug dans les codes, reprogrammer le code pour
+18:19
+l'améliorer et cetera. Vous voyez, c'est c'est un exemple parmi tant d'autres. OK ? Donc une fois que son nom est choisi, il vous dit de choisir un nom
+18:25
+d'utilisateur. Il faut que le nom d'utilisateur finisse par bot. Donc je prends exactement le même nom et je vais
+18:31
+tout simplement rajouter tirer du bas bot à la fin. OK, une fois que ça c'est fait, c'est fini, on a notre bot qui
+18:38
+telegram qui est prêt. Donc ce qu'on va faire c'est que vous voyez ici le token, c'est ce fameux token qui va vous permettre d'y accéder. Vous cliquez
+18:44
+dessus, ça le copie automatiquement. Vous retournez dans votre terminal, vous faites contrôle V, vous avez votre token
+18:50
+ici, vous faites entrer, on y est. Donc vous voyez Telegram token saved, on a presque fini, ne vous inquiétez pas.
+18:57
+Donc ça, cette mesure de sécurité, elle est assez intéressante. Vous pouvez dire à votre agent Hermes et ne parle
+19:04
+uniquement que à moi et à personne d'autre. Ignore tout le monde qui t'envoie un message. Par exemple, c'est
+19:11
+moi l'utilisateur principal et unique interlocuteur. Donc on va faire ça, hein. C'est c'est pas mal. C'est très
+19:16
+intéressant. Si vous voulez que tout le monde puisse accéder, si vous faites un bot accessible à tout le monde, en fait, il faut laisser vide et vous faites
+19:22
+entrer. Il vous dit de envoyer ce message ici sur Telegram. Donc je vais faire contrôle C. Vous retournez sur
+19:28
+Telegram, vous faites marche arrière. Dans la recherche, vous tapez ce nom d'utilisateur ici. Vous l'avez vous
+19:33
+l'avez ici. Alors je sais pas pourquoi les ceuxlà apparaissent en premier. C'est bien celui-ci où vous avez l'icône certifiée. Et là vous faites démarrer.
+19:41
+Hop, il vous donne l'idée de votre télégram. Vous faites copier, vous le copiez, vous cliquez dessus, ça vous le copie. Vous le collez ici et vous faites
+19:47
+entrer. Et puis voilà, vous êtes l'utilisateur donc autorisé. Alors vous, il faut mettre Y pour dire oui. Il vous
+19:54
+demande est-ce que vous voulez utiliser cette idée utilisateur ? Donc vous en tant que personne principale, vous faites oui et puis voilà. Vous êtes
+20:01
+l'utilisateur principal. Vous pouvez bien sûr en ajouter d'autres pas uniquement vous mais ça vous permet en
+20:07
+réalité de donner accès à votre agent uniquement aux personnes que vous voulez. Vous pouvez rajouter votre femme, vos enfants, peu importe. Ici, on
+20:14
+a juste mis notre utilisateur, notre ID utilisateur à nous pour ce cas ici. Donc
+20:20
+pas de souci. Ensuite, on va installer les passerelles. On va cliquer sur oui pour que ça puisse tourner en
+20:25
+arrière-plan. Ici, pour cette étape, si vous êtes sur votre ordi, votre machine locale, hein, laissez l'option par
+20:30
+défaut qui est la première. Ici, comme on est sur un VPS, on va choisir donc le système service. Euh donc vous faites
+20:37
+hop entrée ou espace ici, puis il vous demande avec quel utilisateur vous voulez utiliser le backend. Donc ici, on
+20:44
+va mettre tout simplement route. C'est l'utilisateur. Rappelez-vous, si on va dans le panneau de configuration de
+20:49
+votre VPS, c'est tout simplement le l'utilisateur principal, l'administrateur de de ce de cet
+20:54
+ordinateur. Donc on va tout simplement mettre ici route. C'est le seul utilisateur que j'ai pour l'instant. Euh
+21:00
+plus tard, on peut on pourra en mettre d'autres mais ça requiert des étapes supplémentaires. On a fini toute la configuration. La dernière étape, c'est
+21:07
+voulez-vous lancer le service maintenant ? On va tout simplement faire yes. Donc Y, on fait entrer. Puis dans les
+21:13
+options, vous allez cliquer sur don. Donc bravo, vous avez le le message setup complete. On vient de créer votre
+21:19
+d'installer votre agent Hermes sur un ordinateur virtuel, un VPS. Donc maintenant, on va essayer de lui parler
+21:26
+tout simplement. Et pour ça, deux options, il y a plein d'options, mais la première, c'est soit lui parler via le terminal, via ici là, soit via le
+21:33
+télégramlé. Donc on va on va tout simplement commencer par le terminal. Donc là où vous étiez, il suffisait de taper Hermes
+21:39
+pour commencer à lui parler mais j'ai profité pour fermer et réouvrir tout le depuis le début pour vous montrer comment il a accédé de nouveau à tout
+21:45
+moment. Euh donc c'est assez simple en fait c'est la même manipe qu'on a fait. Donc vous allez sur votre tableau de bord, vous cliquez vous copiez votre
+21:51
+accès ici SSH route. Dans l'invite de commande, vous collez tout simplement euh votre accès route, vous mettez votre
+21:59
+mot de passe et là vous êtes à nouveau connecté sur votre machine virtuelle mais vous n'êtes pas sur Hermes. Alors
+22:04
+comment on y accède ? C'est très simple. Vous tapez Hermes. Donc c'est exactement là où vous y étiez. Sans avoir besoin de
+22:10
+fermer, vous tapez Hermes et là votre agent IA Hermes va se lancer. Donc regardez, on arrive dans cette jolie
+22:17
+fenêtre Hermes. Donc votre agent IA Hermes. Alors plusieurs choses ici. Je vous ai dit qu'on peut discuter de deux
+22:23
+manières. Là c'est la manière terminale. Donc par ici on va pouvoir parler à votre agent chose qu'on va faire. Donc je vais mettre bonjour Hermes. C'est
+22:30
+pour tester voir si on est bien connecté à chat GPT. Donc il va commencer à initialiser l'agent et on a le retour.
+22:36
+Donc bonjour, comment puis-je vous aider aujourd'hui ? On sait qu'il est bien connecté à une IAIA, donc ici chat GPT
+22:42
+via votre abonnement. Si on monte un petit peu, on voit qu'il y a plusieurs outils, donc des skills, des compétences
+22:48
+qui sont déjà actives que Hermes sait faire de base. C'est ce genre de chos qu'on peut améliorer nous-même après,
+22:54
+c'est-à-dire qu'on peut lui apprendre des compétences personnalisées, celles que l'on veut. C'est comme ça qu'il devient très fort. C'est comme ça qu'il
+23:00
+va s'autoaméliorer également. H c'est-à-dire que vous allez créer votre agent pour une tâche spécifique, vous
+23:05
+allez le laisser tourner. Et au bout de 7 jours, 10 jours, 14 jours, il aura appris lui-même des compétences qui
+23:10
+servent précisément ce domaine-là. C'est pour ça que c'est très très fort comme agent. Mais ça de toute façon, nous allons en parler dans un instant.
+23:17
+Maintenant, essayons l'accès Telégram puisque'au final, c'est avec ce genre d'accès-là que vous allez discuter avec votre agent, où que vous soyez. Vous
+23:23
+êtes au restaurant, vous sortez votre téléphone, vous parlez sur Telegram à votre agent pour faire des tâches pour vous et qu'il travaille pour vous. Donc
+23:30
+pour ça, il faut discuter avec votre bot, celui qu'on vient de créer tout simplement. un bot, c'est comme un utilisateur, hein. Donc vous avez ici
+23:36
+l'APA PI, vous avez ici le le la conversation, le le lien vers votre bot,
+23:41
+vous pouvez aussi tout simplement le rechercher. Euh il a maintenant un nom d'utilisateur, c'est comme si nous avions créé un utilisateur. Donc vous
+23:48
+voyez ici, Gérard Majordom Bot. Je fais cliquer sur démarrer et je vais lui faire bonjour. Là, vous voyez qu'il est
+23:54
+en train d'écrire en haut et on a un retour. Bonjour, comment puis-je vous aider aujourd'hui ? C'est Hermes qui a
+24:00
+répondu dans cette fenêtre de chat ici. On a tout bien connecté. Si vous n'avez
+24:05
+jamais fait ça, je vous dis bravo. Vous venez de créer votre premier agent IA qu'en va même son exploité à son
+24:11
+maximum. Et je dis vraiment bravo parce que à ce stade, si vous n'avez jamais utilisé un agent avant, c'est de la
+24:18
+magie, vous allez voir. Alors, profitez, amusez-vous bien. Euh et si ce n'est pas
+24:23
+votre premier agent, si vous avez déjà utilisé des agents comme Open Clow par exemple, vous êtes probablement en train de vous dire "Oui, mais vision, en quoi
+24:31
+c'est différent des autres ?" Ça donne exactement la même chose. Honnêtement, à première vue, c'est un peu le cas, mais
+24:36
+laissez-moi vous montrer pourquoi c'est pas le cas vraiment. Très bien, maintenant on va attaquer la partie où je vous montre comment on utilise cet
+24:42
+outil. On va faire quelques exemples, mais juste avant de vous montrer ça, il faut que je vous parle de ce qui est pour moi sa vraie force qui à savoir sa
+La vraie force de Hermes
+24:50
+mémoire, la mémoire de cet agent parce que c'est elle qui rend tout cela possible en réalité. Bien sûr, un
+24:55
+assistant IA qui ne se souvient de rien, ça ne sert pas à grand-chose. À chaque fois, il faut tout réexpliquer. Donc,
+25:01
+votre métier, votre projet, votre façon de travailler et cetera. Il va garder tout ça en mémoire et il va devenir de plus en plus pertinent dans la façon
+25:07
+dont vous travaillez. Bon, alors la mémoire des agents IA, c'est un vaste domaine. Il existe beaucoup de méthodes
+25:12
+pour faire ça, hein. Plusieurs systèmes que l'on peut brancher, certains plus avancés que d'autres avec des bases de
+25:18
+données, de la recherche sémantique, des bases vectorielles et cetera, des trucs assez poussés. Je ne vais pas rentrer dans les détails aujourd'hui dans ça
+25:25
+parce que ça mériterait une vidéo à part entière et honnêtement pour démarrer, vous n'en avez pas besoin. Ce qu'il faut
+25:31
+que vous reteniez surtout aujourd'hui, c'est que Hermes a déjà de base euh sans rien installer de plus sa propre mémoire
+25:37
+en local. Donc ici votre ordinateur virtuel, elle est là de dès le départ, elle tourne toute seule et c'est
+25:42
+précisément celle-là que l'on va utiliser aujourd'hui. Donc allez, j'ai assez parlé, on passe à notre premier exemple et pour ça, on va faire un truc
+Exemple 1 - Agent de recherche et briefing
+25:49
+très simple pour une première prise en main. Imaginez le scénario suivant, donc
+25:54
+que vous travaillez dans un certain domaine ou vous êtes passionné d'un certain domaine. Ça peut être votre hobby ou votre travail. Vous vous
+26:00
+réveillez le matin et avant même d'avoir touché votre ordinateur, votre téléphone vous envoie une notif telégramé
+26:08
+complet des dernières actuier ou en tech, en législation, en fait peu
+26:15
+importe, c'est vous qui choisissez. Ce n'est pas une application hein, ce n'est pas chatt, c'est un agent qui a
+26:20
+travaillé pour vous. euh pendant la nuit, il a fait le recap et je vais vous montrer comment le mettre en place en
+26:25
+seulement 3 minutes. C'est extrêmement facile à faire avec cet agent-là une fois qu'on a tout installé de la manière
+26:31
+dont on l'a fait. Donc première étape bien sûr définir le canal sur lequel il va vous envoyer ce briefing quotidien.
+26:38
+Je vous ai parlé de Telegram euh mais je vous rappelle que lors de l'installation on pouvait choisir donc soit par email,
+26:44
+c'est-à-dire qu'il vous envoie des emails tous les jours ou autre chose à Discord, peu importe. D'ailleurs à ce sujet, à tout moment, vous pouvez taper
+26:50
+une commande en fait qui vous permet de reconfigurer un nouveau canal d'entrée. C'est assez simple. Lorsque vous êtes
+26:55
+sur Hermes, vous faites contrôle C pour sortir. Ça ça vous permet de ressortir donc sur le serveur en lui-même en
+27:00
+dehors de Hermes. Et vous tapez Hermes getway setup. Euh donc ça c'est vous
+27:05
+retrouverez toutes ces infos dans la doc officielle. Sinon vous demandez à Lia de vous aider, sinon vous écoutez ce que je vous dis tout simplement. Donc ça en
+27:12
+fait quand vous allez cliquer dessus, quand vous allez envoyer ça, ça vous ramène dans toute la euh toute la partie
+27:18
+installation des sources. Donc regardez Telegram qui ici est configuré puisque c'est ce qu'on a euh configuré. Et là,
+27:24
+vous pouvez refaire la maniple qu'on a fait lors de l'installation, mais pour une autre euh entrée, par exemple WhatsApp, si vous voulez faire des gens
+27:29
+des agents qui v qui vont discuter avec des euh clients, par exemple, des choses comme ça. Voilà, donc ici, on reste
+27:34
+simple. Je fais contrôle C à nouveau à nouveau. Une fois, ça me sort dans le serveur, je refais Hermes pour euh aller
+27:41
+dans l'interface de mon agent IA et faire la manipe suivante. Ensuite, il faut dire à Hermes quel sera le canal
+27:46
+sur lequel il va envoyer les messages automatiques. Alors, il y a plusieurs façons de faire. Vous pouvez séparer les canaux, mais ici de manière très simple,
+27:53
+vous ouvrez tout simplement votre Telegram et vous envoyez donc à votre agent RMS une fois configurer/s
+27:59
+homme. Ça ça va permettre de dire à RMS que c'est sur ce canal sur ce cette conversation Telegram qu'il doit envoyer
+28:06
+donc les tâches préprogrammées que l'on va faire maintenant. Et maintenant, une fois que vous avez fait ça, le cœur du
+28:12
+truc, donc je ne vais pas coder, je vais juste lui demander en français, en langage naturel ce que je veux qu'il
+28:17
+fasse tous les matins. Donc regardez, j'ai préparé un prompt ici. J'ai écrit "Créer une tâche nommée briefing matin."
+28:23
+Euh chaque matin, à 7h du matin, envoie-moi un briefing court éclair, le jour et la date, les trois actuantes
+28:30
+des dernières 24 heures avec une phrase euh courte et une analyse. C'est tout. Rien de plus, je vais cliquer sur
+28:36
+envoyer. Là, l'agent va commencer à travailler. Il va comprendre qu'il doit créer un nouveau chrone, donc une tâche
+28:41
+automatique. Vous le voyez ici, il a utilisé une compétence skill airmessagent pour comprendre ce que vous vouliez. Puis chrome, il a créé un
+28:47
+nouveau Alors, le chrome, c'est c'est ce qui désigne une tâche automatique, hein. [grognement] Et puis c'est tout. Regardez, il a fini en en quelques
+28:54
+secondes, c'est fait, la tâche a été créée. Et donc tous les matins à 7h du
+28:59
+matin, je vais recevoir un message télégramis les plus impactantes de la robotique. Comme ça, le matin, lorsque je m'assois et que je commence à
+29:05
+travailler mes prochaines vidéos, je sais quelles sont les actues les plus importantes du moment. Alors, bien sûr, j'utilise pas
+29:10
+cette version de cet agent, mais j'ai aussi un agent Hermes très poussé que j'ai beaucoup configuré pour aller assez
+29:16
+loin dans la dans les news, la réception des news et cetera. Deux choses importantes par rapport à ça. D'abord,
+29:22
+première chose, adapter le domaine des briefing à votre domaine à vous. Bien sûr, si vous investissez en bourse, par
+29:28
+exemple, vous remplacez la robotique par euh le nom des valeurs que vous suivez. Euh si vous je sais pas, si vous êtes
+29:33
+dans les cryptos, vous faites pareil. Idem pour tout autre domaine bien sûr, cela va de soi. Ou alors si vous
+29:39
+cherchez un appartement, vous pouvez programmer des tâches comme ça dans l'immobilier ou si vous vous des
+29:45
+appartements également pour suivre le marché immobilier, enfin peu importe, on peut tout imaginer. Et deuxième chose, c'est là la puissance de cet agent,
+29:50
+c'est que plus vous allez l'utiliser et discuter avec lui sur et lui faire des retours sur sur ce qu'il vous envoie,
+29:56
+plus il va savoir cibler l'analyse correspondante pour correspondre exactement à ce que vous vous attendez.
+30:02
+Rappelez-vous, c'est pas chat GPT, c'est pas Claude, c'est un agent IA qui se souvient, qui a de la mémoire. Donc là,
+30:07
+on vient de créer une première tâche pour une première fois. au bout de 1 mois, 2 mois, 3 mois que Hermes va faire
+30:12
+cette tâche et vous allez lui faire des retours, oui, cette analyse est pertinente. Non, cette analyse n'est pas pertinente. Il va devenir meilleur dans
+30:18
+cette tâche-là. Donc quelque chose de très important à prendre en compte. Alors maintenant, évidemment, je vais pas vous faire attendre demain matin 7h
+30:24
+pour tester ça. Il y a une manière de déclencher les tâches qu'on vient de créer ou les tâches programmées de manière manuelle et c'est ce qu'on va
+30:31
+faire tout de suite. Pour ça, c'est assez simple. Je vais juste taper Hermes chron run briefing matin. Donc ça c'est
+30:36
+le nom de de le du de votre tâche qui a été créé juste avant. D'accord ? Et là vous le voyez donc il lance ce cette
+30:43
+commande là. Il a dit cette tâche a été déclenchée pour une exécution immédiate au prochain tic du schéduleur. Voilà,
+30:50
+j'ai attendu 2 3 minutes et regardez le message que j'ai reçu. Donc on a bien le briefing robotique pour le jour où
+30:55
+j'enregistre cette vidéo. Donc on a Nvidia qui a conclu des partenariats Hyundai Nvidia et ça aussi et puis une
+31:03
+analyse telle que je vous l'ai dit. D'ailleurs, une autre petite remarque, vous le voyez que sur le prompte que j'ai fait ici en haut, je n'ai pas
+31:09
+précisé sur quel canal il devait envoyer son briefing. Donc lui, il a créé une tâche en disant livraison ici dans cette
+31:15
+conversation, donc dans le terminal. Mais ce n'est pas ce qu'il a fait parce que je vous rappelle qu'au début, on a mis ici c homme. Donc en fait, il va
+31:22
+envoyer toutes les toutes les tâches programmées qui nécessitent un message dans ce canal là. Mais ça, on va en
+31:28
+parler dans 5 minutes parce que justement c'est très important la manière de promster ici euh ce que ce
+31:34
+que les tâes que vous attendez. On en parle dans un instant dans l'exemple numéro 2 que l'on va attaquer maintenant. Vous allez voir. Donc on
+31:40
+part dans un autre exemple un peu plus complexe cette fois-ci parce que celui-ci vous avez vu, il est assez facile. Mais maintenant et si je vous
+Exemple 2 - Trouver des clients avec un agent IA
+31:45
+disais que euh cet agent, votre agent IA peut se comporter comme un salarié et vous trouvez des clients pendant que
+31:51
+vous dormez. Là on parle vrai business, on commence à parler salarié virtuel, n'est-ce pas ? Et bien, je vais lui
+31:57
+donner une mission concrète, le genre de mission que compérer un assistant pour faire pendant des heures par exemple. On
+32:04
+va imaginer que vous vendez des campagnes marketing à des professionnels. Ça se fait beaucoup ça.
+32:09
+Vous vendez des pubs donc que ce soit sur Google Ads ou Meta ou enfin peu importe, vous pouvez dire à votre agent
+32:15
+quelque chose comme ça. Je cherche sur internet les plombiers et artisans du chauffage autour de Toulouse. Donc vous
+32:21
+mettez n'importe quelle ville, une ville qui est proche de chez vous, qui est dans votre région, enfin peu importe. Et euh vous lui dites identifie ceux qui
+32:27
+n'ont pas de campagne marketing adaptée. J'aurais pu mettre campagne marketing active. Vérifie-le. Ramène-moi trois
+32:34
+leads qualifiés, donc trois prospects. [grognement] Euh le nom de l'entreprise, téléphone, angle d'amélioration pour la
+32:39
+marque et positionnement, pour la vente d'une campagne marketing Google, Ads ou Meta. Présente-moi ça en tableau. Alors,
+32:44
+je vais lui envoyer cette commande tout simplement. C'est pas on n'est pas en train de faire une tâche programmée ici. C'est juste un prompt qui sont parfois
+32:51
+assez poussé honnêtement. Par exemple, ici, vous le voyez, il est en train d'utiliser Maps. Euh donc il ne va pas juste aller sur Google euh et taper
+32:58
+entreprise plomberie Toulouse. Il va vraiment il va assez loin puisqu'il va aussi faire des bouts de code pour
+33:04
+arriver à à trouver ce genre de client. Tant qu'il y arrive pas, il va pas s'arrêter et donc il va travailler pour
+33:10
+arriver à euh obtenir ce que vous cherchez tout simplement. Puis d'ailleurs encore une remarque, vous le voyez ici, un il a fait une capture
+33:17
+d'écran du d'un résultat Google pour analyser ce résultat comme si c'était un vrai humain qui est appris sur Google
+33:24
+entreprise Momb et qui regarderait ce qu'il y a. Il n'est pas juste sur du texte, pas juste là sur de la recherche.
+33:29
+Donc ça va vraiment assez loin. Il utilise Maps, il utilise la navigation, il utilise la vue comme comme un être
+33:35
+humain et cetera. Bon là, je vais le laisser tourner un petit peu pour voir le résultat qui me donne tout simplement. OK. Bon voilà, après 15 20
+33:41
+minutes, il a fini. Alors, je voulais vous montrer qu'il est allé assez loin quand même car il a fait du code. Euh, il est allé sur certains sites. Là, par
+33:48
+exemple, il est allé sur le site, ce site-là, il a cliquer, il a navigué, il a pris des photos pour savoir où
+33:53
+naviguer. Euh, il a fait du scroll down et cetera, vous le voyez ici. Bref, puis à la fin, il m'a pondu ça. Donc, j'ai
+33:59
+vérifié via ce site Open Street Map. Donc, ça c'est Google Maps, et des sites officiels quand disponibles. Donc, il a
+34:06
+écarté les acteurs trop nationaux. C'est exactement ce qu'on cherche. Si dans le cas où on vendrait des campagnes
+34:11
+marketing à des c'est ça serait plutôt des petites structures euh ou très structuré, c'était évident. Puis il a
+34:18
+trouvé trois lead exploitables autour de Toulouse. Donc vous avez ici donc le nom de le nom de l'entrepreneur, son numéro de téléphone que que je floute bien sûr
+34:24
+hein pour pas que il reçoive beaucoup de messages. Puis il nous explique un petit peu pourquoi la campagne pourrait
+34:30
+sembler adaptée ou pas. Donc il donne ses raisons. Puis il donne aussi un angle de pitch par rapport à Google et
+34:35
+cetera. Ça honnêtement et bien c'est magique, n'est-ce pas ? Il a cherché pendant une vingtaine de minutes sur
+34:42
+internet comme salarié. Il a visité des résultats. C'est là vraiment toute l'utilité d'un agent IA qui se
+34:47
+différencie d'un chatbot normal. Il il ne s'est pas contenté de sortir une liste au hasard. euh il a qualifié
+34:53
+chaque piste. C'est exactement le travail donc commercial hein, sauf que là il l'a fait en en 15 minutes, 20
+34:59
+minutes. Donc bien sûr, après il y a quand même un autre travail, hein. Euh c'est quand même à vous de faire le
+35:04
+travail de comprendre le défaut de ces entrepreneurs, de leur vendre le marketing, de savoir comment ils peuvent
+35:09
+faire plus de vente. Donc le travail de marketeur reste à faire quoi. Mais juste en faisant ça, vous gagnez énormément de
+35:15
+temps puisque vous savez que trouver des leads aujourd'hui qui sont bien qualifiés, c'est beaucoup de temps. On y
+35:21
+passe beaucoup de temps aujourd'hui. OK. Maintenant, ça c'était juste une simple commande que j'ai lancé à mon agent pour
+35:26
+vous montrer comment il agit tout seul avec les outils qu'il a déjà à disposition et les nouveaux qu'il vient de d'installer pour faire cette tâche là
+35:31
+qui sont maintenant dispo pour chaque fois qu'on va lui demander. Maintenant, le truc qui peut changer la vie d'un entrepreneur, vous pouvez lui demander
+35:38
+de refaire ça tout seul tout le temps, tous les jours, chaque lundi matin par exemple ou ou tous les tous les matin
+35:44
+tout simplement pour des domaines différents, pas uniquement la plomberie là comme on vient de faire. euh vous pourriez chercher tous les jours un un
+35:51
+un domaine d'entrepreneur différent ou le même domaine mais trois euh leads qualifiés à nouveau des entreprises en
+35:57
+général quoi. Et pour ça c'est vraiment pas compliqué. On refait comme on a fait pour l'exemple numéro 1. On lui dit en
+36:02
+langage naturel. Donc créer une tâche nommée Lips journalier qui chaque matin à 9h cherche en ligne des entreprises
+36:09
+autour de Toulouse. Vous mettez vous pouvez même mettre une région et comme ça vous avez toujours des leads dispo
+36:14
+qui n'a pas de site web ou avec titre web mais pauvre en information. Vérifie l'absence de communication marketing efficace qui est en fait ce qu'on vient
+36:21
+de faire. Au début de chaque exécution, lit le fichier leads déjà sorti.txt et ne ressort aucune entreprise qui y
+36:27
+figure. À la fin, ajoute les nouvelles dedans. Donc euh c'est aussi simple que ça. Vous cliquez sur entrer pour envoyer
+36:33
+cette tâche là et c'est tout. Et voilà, il a fini sa tâche. Alors, petite précision, regardez ici en haut, il a commencé par compresser la conversation
+36:39
+car on est arrivé presque à la limite. Alors, c'est euh j'aimerais attirer votre attention sur le fait que je vous rappelle qu'on a connecté notre chat
+36:46
+GPT, l'abonnement qu'on avait déjà. Euh donc, il y a pas eu de paiement en plus. Vous voyez qu'on a consommé pas mal de
+36:51
+tokens mais et bien on s'est compris dans les abonnements que vous avez déjà. Ça c'est pas négligeable hein. S'il vous
+36:56
+fallait payer tout ça en en API, bien sûr ça se fait quand vous le faites à un niveau plus industriel entre guillemets.
+37:04
+Chose que je fais pour beaucoup de tâches. Mais quand vous vous avez peu de tâches à gérer au début, c'est très très
+37:11
+intéressant de de pouvoir connecter comme ça nos abonnements sans payer un centime de plus. Franchement euh pour les tests et tout ça, c'est Game
+37:17
+Changer. Alors euh voilà, donc il a fini la tâche, regardez, il a il a fait la tâche lead journalier tous les jours à
+37:23
+9h, il va faire cette tâche-là de trouver des prospects qualifiés, c'est-à-dire qui seront beaucoup plus
+37:29
+promptes à euh accepter le produit que vous vendez. Et bien sûr, il va vous envoyer le résultat sur le Telegram
+37:34
+puisque c'est là où on a défini le channel principal. On pourrait l'enregistrer dans un fichier euh un
+37:40
+fichier Excel enregistré sur l'ordinateur qui serait récupéré tous les jours. On pourrait aller assez loin par rapport à ça. Alors, ayant fait
+37:47
+cela, deux choses très importantes. La première, c'est sur ce prompt là que je viens de taper. Euh soyons très clair,
+37:53
+il est volontairement simple. Je vous le montre pour que vous compreniez le principe de cet agent, pas pour que vous le copiez tel quel dans la vraie vie. Si
+38:00
+vous voulez des résultats vraiment exploitables, il va falloir le travailler en minimum. Malheureusement
+38:05
+euh il faut appliquer tout ce que vous avez déjà appris sur le prompt engineering. Lui préciser le type d'entreprise que vous ciblez vraiment,
+38:11
+le ton du pitch, le produit que vous vendez, ce que vous savez faire, le ce
+38:16
+qui fait un bon lead pour vous, ce qui doit être ignoré, le format exact que vous voulez recevoir, tout ce genre de
+38:21
+choses. En fait, ça se met dans le prompt final. Plus votre demande sera précise et structurée, plus ce qu'il
+38:27
+vous ramènera en résultat utilisable sera efficace. Un prompté, je vous l'ai
+38:33
+dit main et main de fois, vous donne un résultat baclé ici comme partout. Donc ce que vous voyez à l'écran, c'est le
+38:38
+squelette, hein. Travaillez bien le prompt par rapport à votre situation à vous. Deuxième chose et c'est ce qui
+38:44
+rend cette automatisation vraiment intelligente, euh c'est cette histoire de fichier que vous voyez ici hein. Tout
+38:49
+à coup, j'ai parlé de fichier le lads déjà sorti.txt. Alors là, je lui demande
+38:55
+de créer et de lire un fichier au démarrage à chaque fois de cette de cette tâche euh et d'y écrire des nouvelles entreprises à la fin. Pourquoi
+39:01
+? Parce que il faut que vous compreniez un point essentiel sur ces tâches automatiques là, c'est que chaque jour,
+39:06
+la tâche qui se déclenche, euh l'agent repart d'une page blanche. Il n'a aucun
+39:12
+souvenir de ce qu'il fait, de ce qu'il a trouvé le lundi d'avant d'entreprise, c'est-à-dire le c'est-à-dire le promte qu'il a sorti ce promte ici par exemple.
+39:19
+Il se souvient des outils qu'il a créé, des tâches qu'il a créé, de la manière qu'il a qu'il a fait la recherche pour que la prochaine fois il soit plus
+39:25
+intelligent à le faire. Donc il fera plus rapidement et de manière plus efficace. Mais les résultats en en tant
+39:30
+que tel, ça ne va pas dans sa mémoire immédiate. C'est là où il faut créer donc ce genre de fichier que je viens de
+39:37
+de faire. Donc c'est un fichier texte tout simplement avec les lits qu'il a déjà trouvé. Comme ça chaque jour il
+39:42
+sait ce qu'il a déjà trouvé et puis il donne uniquement des prosprês frais et ça sera jamais deux fois les mêmes. Je
+39:48
+ne vais pas rentrer dans les détails de la mémoire des agents. Il y a, je l'ai déjà dit, il y a plusieurs méthodes, mais ici pour garder la simplicité d'une
+39:55
+première prise en main, vous allez pouvoir déjà faire beaucoup de choses juste avec ça. On va tout stocker, on stock tout en local sur la machine
+40:01
+virtuelle donc que le VPS Hostinger qu'on a pris. Le reste, ça fera l'objet de cours plus avancé, je pense. Bien
+40:07
+sûr, pour la lancer, vous faites exactement la même chose. Vous faites euh Herm Chron run et vous mettez le nom
+40:12
+de votre ici, c'est leads euh journalier. Bon, je vais pas le faire puisque ça va reprendre une dizaine de
+40:17
+minutes, mais vous avez compris le principe. D'ailleurs, deux dernières petites choses. Plus vous allez avoir de de tâches comme ça automatiques, plus
+40:23
+vous allez peut-être vous perdre de ne pas vous en souvenir. Il y a une manière de voir les tâches que vous avez déjà préprogrammé. Tout simplement, vous
+40:29
+faites un mescron list. Là, il va vous donner la liste des tâches préprogrammées que vous avez déjà créé
+40:35
+tout simplement. Et vous voyez qu'on retrouve les deux tâches actives qu'on a, donc le briefing du matin qu'on vient de faire tout à l'heure et le lead
+40:41
+journalier. Il vous dit le déclenchement et les statuts de des résultats. Plus vous allez jouer avec votre agent hier,
+40:47
+plus vous allez avoir de tâches et après vous allez avoir un méga liste de tâches à faire. Donc votre ça sera vraiment un homme à tout faire, un salarié très
+40:54
+efficace. C'est très très efficace. Deuxième chose également, si vous êtes perdu, vous faites tout simplement help
+40:59
+comme ça hein avec le le slash et là il va vous donner toutes les commandes qui sont actuellement disponibles dans votre
+41:05
+version DMS, dans votre agent en fait euh pour si jamais vous souhaitez chercher de nouvelles fonctionnalités.
+41:11
+Sinon, comme d'habitude, vous allez sur Cloud, vous allez sur chat GPT, vous lui faites une capture d'écran, vous lui
+41:16
+dites quel est votre problème, où est-ce que vous êtes bloqué, qu'est-ce que vous aimeriez faire ? Et il va vous guider en fait à pour faire ce que vous voulez
+41:22
+faire. Ce qui est un peu compliqué, c'est l'installation que je vous ai montré tout à l'heure qu'il faut que vous pouvez suivre sur cette vidéo et
+41:28
+après le reste pourra vous aider. Donc là voilà, on a fini. Vous avez vu, je me retrouve avec un un agent IA qui me
+41:34
+qualifie des prospects, qui me les livre sur mon téléphone le matin, qu'il fait ça pendant que je dors. Donc il passe 30
+41:40
+minutes, 1 heure, 1h30 à chercher sur les sites, à scroller, à chercher des nouveaux clients sans que je lève le
+41:45
+petit doigt, je dors. Au début, je le répète, ce sera pas forcément des résultats incroyables, mais plus vous
+41:50
+allez l'utiliser et plus il va apprendre ce qui marche et ce qui marche pas. C'est la puissance de cet agent Hermes.
+41:56
+Au bout de 1 mois ou 2 mois hein, ce sera une vraie machine à trouver des leads potentiels et viables. Par exemple, si vous faites cette technique
+42:02
+là. Alors ce qu'on a vu là, c'est vraiment la base. On pourrait aller beaucoup plus loin, mais je vais
+42:08
+m'arrêter là. Sinon, la vidéo ferait 2 3 4 5 he fait il est déjà très très longue. Je sais pas combien elle fait mais déjà ce que je vous conseille
+42:15
+premièrement c'est de tester les étapes que j'ai faites. Vous testez deux ou trois trucs adaptés à votre situation de
+42:20
+trois tâches qui pourraient vous servir puis ensuite vous pourrez aller plus loin. Car oui, on a vu un exemple dans
+42:26
+la recherche de clients, mais n'importe quel domaine est adapté et et impacté également. Comme je le dis toujours,
+42:32
+pensez à votre agent IA comme majord d'homme virtuel. Et dites posez-vous la question suivante : si j'avais quelqu'un
+42:38
+à disposition H24, que lui ferais-je faire pour moi tous les jours ? Vous allez voir que plus vous allez réfléchir
+42:44
+à cette question et plus vous allez me dire "Ah, je peux faire ça, je peux faire ça, je peux faire ça ?" Donc très intéressant. D'ailleurs, pour mes
+42:50
+élèves, hein, je vais sans doute en faire toute une série de vidéos à l'intérieur de la formation. Ça c'était vraiment une introduction. Ça sera la
+42:55
+vidéo d'introduction. Euh donc restez à l'écoute par rapport à ça. Messieurs dames, je vous rappelle qu'il y a une
+43:01
+offre vraiment intéressante chez Hostinger en ce moment pour faire ce genre de choses. Euh vous avez le lien sous la vidéo. Euh c'est c'est la
+43:08
+méthode la la c'est la méthode la plus connue aujourd'hui dans le monde des agents I. Je vous conseille vraiment de
+43:13
+le tester par vous-même. Merci d'avoir regardé cette vidéo un peu spéciale. Elle est un peu longue. Ce genre de vidéo est normalement destinée à mes
+43:19
+élèves où on rentre un peu plus dans les détails techniques dans du monde de Lia en fait tous les outils il a disponibles
+43:24
+aujourd'hui. Mais j'ai décidé de vous le partager et de le partager à tout le monde aujourd'hui. Merci d'avoir regardé
+43:30
+cette vidéo et moi je vous dis à très très vite pour les prochaines vidéos sur Vision.
+
+Tout
+
+De la série
+
+Source : Vision IA
+
+Interface de programmation
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+43 k vues
+•
+il y a 3 semaines
+
+
+15:03
+Le chat de Schrödinger vient d'être prouvé (90 ans plus tard)
+Vision IA
+45 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+49:33
+EDHEC, M&A, LONDON : POURQUOI ELLE A TOUT ABANDONNÉ
+ESCadrille Toulouse Junior Conseil
+429 vues
+•
+il y a 5 jours
+Nouveau
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+3,5 k vues
+•
+il y a 5 heures
+Nouveau
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+237 k vues
+•
+il y a 3 mois
+
+
+32:28
+Agent IA Hermes : le Tuto Ultime pour Débutants
+Nicolas Guyot
+1,2 k vues
+•
+il y a 1 mois
+
+
+25:20
+Utilisez Hermes GRATUITEMENT – Plus besoin de payer de jetons API !
+Dr. Firas
+1 k vues
+•
+il y a 11 heures
+Nouveau
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+83 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+2,9 k vues
+•
+il y a 5 heures
+Nouveau
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+13 k vues
+•
+il y a 6 jours
+Nouveau
+
+2:58:49
+Expert anti-âge : Manquer cette vitamine est comme fumer ! La vérité sur la créatine !
+The Diary Of A CEO
+ et FoundMyFitness
+5,3 M de vues
+•
+il y a 11 mois
+Doublée
+
+1:05:19
+💥TOP 10 des MAGOUILLES de Brigitte Macron ! (détournements, corruption, mensonges...) [Le OFF]
+J'suis pas content TV
+16 k vues
+•
+il y a 3 heures
+Nouveau
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+28 k vues
+•
+il y a 2 jours
+Nouveau
+
+55:38
+J'ai automatisé mon business avec Hermes Agent, les résultats m'ont choqué !
+Parlons IA
+19 k vues
+•
+il y a 11 jours
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+137 k vues
+•
+il y a 2 jours
+Nouveau
+
+33:54
+Claude Code : obtenez le diplôme officiel pour être embauché !
+Parlons IA
+16 k vues
+•
+il y a 1 mois
+
+29:06
+The ULTIMATE Guide to Cutting
+Chris Bumstead
+1,3 M de vues
+•
+il y a 8 mois
+
+1:35:38
+Hermes Agent en vrai : skills, crons, SEO et support automatisé
+David Schkiwisk - Kavyro
+1,1 k vues
+•
+il y a 1 jour
+Nouveau
+
+    
