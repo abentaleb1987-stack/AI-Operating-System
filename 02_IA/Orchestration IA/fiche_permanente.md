@@ -125,7 +125,7 @@ Points a surveiller :
 - workflows dynamiques et suivi de workflow ;
 - controle du spawn automatique de sous-agents ;
 - securite des skills navigateur et hooks ;
-- integration potentielle NotebookLM / Obsidian / Codex sous contraintes de confidentialite.
+- integration d'outils documentaires externes uniquement sous contraintes de confidentialite et de tracabilite.
 
 ## 13. Decisions strategiques
 

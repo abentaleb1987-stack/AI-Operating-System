@@ -140,6 +140,22 @@ Une source peut produire :
 
 Chaque fiche de veille doit rester centree sur une seule IA, un framework IA ou un outil IA.
 
+## Fiches transversales
+
+Les fiches transversales comme `Agents IA`, `Orchestration IA`, `MCP` ou `Standards IA` ne doivent pas etre modifiees a chaque mention secondaire dans une source.
+
+Elles ne doivent etre enrichies que si la source apporte :
+
+- une regle generale durable ;
+- un principe d'architecture reutilisable ;
+- une limite transversale importante ;
+- un workflow applicable a plusieurs IA ;
+- une decision strategique utile pour l'ecosysteme AOS.
+
+Une simple mention d'un outil, d'un modele, d'un provider ou d'un usage ne suffit pas pour modifier une fiche transversale.
+
+Si l'information concerne surtout une IA principale, elle doit rester dans la fiche de cette IA et dans sa fiche de veille.
+
 ## Validation des connaissances
 
 Integrer uniquement les informations ayant une valeur durable.
