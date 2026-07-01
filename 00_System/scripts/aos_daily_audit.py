@@ -191,7 +191,7 @@ def changed_files_for_commits(commits: list[str]) -> list[ChangedFile]:
 
 
 def changed_files_for_commit(commit: str) -> list[ChangedFile]:
-    raw = run_git(["show", "--name-status", "--format=", "--find-renames=40%", commit])
+    raw = run_git(["diff-tree", "--no-commit-id", "--name-status", "-r", commit])
     return parse_name_status(raw)
 
 
@@ -473,6 +473,17 @@ def format_commits(infos: list[CommitInfo]) -> str:
     return "\n".join(rows) if rows else "- Aucun commit analyse."
 
 
+def format_git_analysis_method(infos: list[CommitInfo]) -> str:
+    return "\n".join(
+        [
+            f"- Nombre de commits analyses : {len(infos)}",
+            "- Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>",
+            "- Base de comparaison : parent direct de chaque commit analyse.",
+            "- Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.",
+        ]
+    )
+
+
 def format_commits_by_class(infos: list[CommitInfo], classification: str) -> str:
     selected = [info for info in infos if info.classification == classification]
     if not selected:
@@ -723,13 +734,16 @@ def render_report(since_hours: int, fallback_count: int) -> str:
     report = template
     for placeholder, value in replacements.items():
         report = report.replace(placeholder, value)
+    method_section = f"\n## Méthode d’analyse Git\n\n{format_git_analysis_method(infos)}\n"
+    report = report.replace("\n## Fichiers crees\n", f"{method_section}\n## Fichiers crees\n")
     return report
 
 
 def write_report(report: str, date: dt.date | None = None, suffix: str = "") -> Path:
     report_date = date or dt.date.today()
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
-    output = REPORT_DIR / f"{report_date:%Y-%m-%d}_audit-journalier-aos{suffix}.md"
+    normalized_suffix = suffix if not suffix or suffix.startswith("-") else f"-{suffix}"
+    output = REPORT_DIR / f"{report_date:%Y-%m-%d}_audit-journalier-aos{normalized_suffix}.md"
     output.write_text(report, encoding="utf-8", newline="\n")
     return output
 
