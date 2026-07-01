@@ -72,6 +72,26 @@ Lorsqu'une nouvelle source confirme une connaissance deja presente, Codex doit :
 
 La fiche permanente doit rester synthetique, structuree et orientee decision.
 
+## Creation de nouvelles fiches permanentes
+
+Une nouvelle fiche permanente ne doit etre creee que si l'outil, l'IA ou le framework est clairement un sujet principal de la source ou s'il apporte une connaissance durable utile a l'ecosysteme AOS.
+
+Si l'outil est seulement mentionne brievement, Codex doit creer uniquement une note dans la fiche de veille de l'IA principale, sans creer de fiche permanente dediee.
+
+En cas d'incertitude, Codex doit creer la fiche de veille, classer l'outil comme sujet secondaire et ne pas creer de fiche permanente.
+
+## Protection des fiches permanentes majeures
+
+Pour les IA majeures comme ChatGPT, Claude, Gemini, Codex ou Claude Code, une source YouTube non officielle ne doit pas initialiser largement ou restructurer massivement la fiche permanente.
+
+Elle peut seulement :
+
+- creer une fiche de veille ;
+- ajouter des points a surveiller ;
+- integrer des connaissances prudentes si elles sont durables, clairement formulees et non speculatives.
+
+Les informations sur noms de modeles, disponibilite, prix, benchmarks ou capacites futures doivent rester en veille tant qu'elles ne sont pas recoupees par documentation officielle, experimentation interne ou source fiable.
+
 ## Sources brutes
 
 Les sources brutes sont deposees dans :
