@@ -1,0 +1,678 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Sonnet est un ÉCHEC ? Nouveau modèle "Agentic" de Claude
+Melvynx
+Melvynx
+61,7 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Télécharger
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+1 juil. 2026  #ia #ai #intelligenceartificielle
+Ma formation IA : https://mlv.sh/xa7Rvne
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Analyse de Sonnet 5
+3:00 - Analyse du tokenizer et pricing
+4:45 - Comparaison des coûts par tâche
+6:30 - Efficacité des modèles LLM
+8:00 - Fonctionnement des systèmes agentiques
+9:45 - Utilisation d'un orchestrateur IA
+11:15 - Test du Timezone Checker
+13:00 - Comparaison avec Tailwind CSS
+14:45 - Analyse des benchmarks de performance
+16:15 - Test du simulateur de car crash
+17:45 - Limites sur les tâches complexes
+19:30 - Test du Drawing inspiration editor
+21:15 - Manipulation des composants React
+22:45 - Finalisation du test Sonnet
+24:00 - Conclusion et avenir de IA
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+Masterclass sur les SaaS : https://mlv.sh/nowts-masterclass
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx analyse les récentes annonces d'Anthropic, notamment le déploiement de Claude Sonnet 3.5 et le retour prévu de Fable. À travers divers tests de performance en développement agentique, le contenu compare les capacités, les coûts et l'efficacité réelle de ces outils par rapport aux solutions concurrentes, tout en examinant la stratégie tarifaire adoptée.
+Résumé
+
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,7 k abonnés
+Vidéos
+À propos
+6 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Law_MarshallDow
+il y a 1 heure
+Super vidéo comme d'habitude.
+
+1
+
+
+Répondre
+
+
+@ForPeace333
+il y a 1 heure
+Cool 😎 j'aime bien Sonnet 4.6 pour écrire du contenu marketing. Pour le code c'est moins bien
+
+
+
+Répondre
+
+
+@ounnoughikarim4906
+il y a 1 heure
+Franchement je viens d'essayer codex j'aime pas du tout on parle de pricing mais j'ai l'impression que pour le même abonnement à 20euros. Codex me fait litteralement rien il s'épuise en 4 prompts. La où avec claude j'en ai beaucoup plus pour mon argent je trouve. Je sais que toi t'es à fond codex j'ai essayé grâce à toi mais j'ai pas du tout aimé.
+
+3
+
+
+Répondre
+
+
+@juste_mesure
+il y a 21 minutes (modifié)
+Moi je suis glm depuis 4.7. ok, il était pas ouf à l'époque, mais il était tres tres bon pour le prix. Et aujourd'hui 5.2 est  assez imbatable.
+
+sauf le 20E de codex, qui est un bon complement
+
+
+
+Répondre
+
+
+@ranker-max
+il y a 1 heure
+Ce nouveau modèle c'est de la merde
+
+
+
+Répondre
+
+
+@ffilloux1897
+il y a 38 minutes
+Sonnet 5 est tb vous êtes des larpeurs
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00L'introduction de Son5 par Claude fait un énorme drama sur internet. Pas mal de
+0:066 secondesdiscussions, pas mal de beaucoup de choses à dire sur ce lancement. Et donc on a comme je te le dis ici introducing
+0:1414 secondesClaude Sony 5. Alors en plus de ça euh quelques jours après cette introduction de Claude Sony 5, si on va sur le
+0:2323 secondesTwitter de Claude, on veut aussi voir qu'il nous ont fait toute une tout un speech à à mourir de rire pour dire que Claude
+0:3232 secondesFable 5 va pouvoir être disponible. Donc ça évidemment c'est la deuxième chose qu'on a juste ici sur ce tweet avec le
+0:3939 secondesredéploying de Fable 5. Mais bon ce Fable 5, il va pas changer des anciennes vidéos que je t'ai fait donc c'est pas très intéressant d'en discuter plus de
+0:4848 secondesça. Mise à part que il va revenir ici le 1er juillet et que il va être inclus
+0:5555 secondespour 50 % de ta weekly usage limit uniquement jusqu'au July 7, jusqu'au 7 juillet. après quoi ce sera utilisé via
+1:041 minute et 4 secondesles usage crédit soit totalement inutilisable parce que Fable 5 coûte littéralement le prix de 4 développeurs.
+1:111 minute et 11 secondesDonc ça ne sert à rien. Mais du coup il y a Son 5. Qu'est-ce que c'est Son5 ? À l'époque son 4.5 ou 3.5 c'est le modèle
+1:191 minute et 19 secondesqui avait révolutionné le développement agentique et qui a fait que les gens ont commencé à switcher à Cloud Code. Donc Sony, ça reste un modèle de référence.
+1:281 minute et 28 secondesMaintenant le cloud son 4.5 4.7 4. Je sais pas quoi, était pas du tout compétitif et c'est pour ça qu'ils ont
+Chapitre 2 : Analyse de Sonnet 5
+1:331 minute et 33 secondessorti Cloud Sony 5 qui est le plusic sonnet jusqu'à maintenant qui va permettre de faire des plans, utiliser des browsers, des terminales et cetera.
+1:441 minute et 44 secondesDonc comme il comme il dit juste ici pour beaucoup de développeurs, le développement par IA a commencé avec
+1:501 minute et 50 secondesClaud Son 3.5, 3.6 et 3.7 qui ont été les premiers capables de faire du vrai coding avec Kia. Et donc maintenant
+1:591 minute et 59 secondesJudson S5, il vient réduire la différence avec Opus et un modèle qui coûte moins cher. On verra qu'il y a pas
+2:062 minutes et 6 secondesmal de problèmes par rapport à ça. Donc ici on peut voir voilà les benchmark. Ce sont les benchmark n'ont plus aucun sens. Donc je sais même pas pourquoi on les lit encore. Donc juste ici, il dit
+2:152 minutes et 15 secondesque c'est super, que c'est safe évidemment. Et là ensuite il nous montre évidemment les petits graphiques. Comme quoi som5 maintenant est aussi bon
+2:252 minutes et 25 secondespresque enfin est aussi bon que Claude Opus et qui coûte un peu près le même prix. Donc ça on verra ici un graphique assez intéressant par rapport au prix.
+2:342 minutes et 34 secondesOn peut voir ici que les finking dès qu'on va sur des thinking high, hix high max, on peut voir que les prix sont en fait aussi élevés que opus. Alors que le
+2:422 minutes et 42 secondesconcept même d'utiliser Sony, c'est pour payer moins cher. Et la grosse différence avec ce Sonyet 5, c'est la petite footne que tu vois juste ici que
+2:502 minutes et 50 secondesj'ai sélectionné. Alors, on dirait qu'elle a peu d'importance, hein, parce que c'est une footne mais pourtant, il nous explique Sony S5 est une upgrade
+2:592 minutes et 59 secondesqui a mis à jour son tokenizer qui change comment le modèle processe le texte et améliore les performances.
+Chapitre 3 : Analyse du tokenizer et pricing
+3:083 minutes et 8 secondesC'est similaire de ce qu'ils avaient fait avec Opus 4.5. Mais ce changement fait que le le même input peut créer
+3:163 minutes et 16 secondesplus de tokens environ 1 à 1,35 fois donc entre 0 et 35 % plus de token en
+3:253 minutes et 25 secondesfonction du type de contenu. Ce qui fait que le changement de price avec son est presque cost neutral. On va voir que
+3:343 minutes et 34 secondesc'est pas très le cas parce que quand on s'intéresse au pricing, encore une fois euh ils nous font toujours un petit peu des petites des petites conneries, hein.
+3:443 minutes et 44 secondesC'est c'est aussi là où c'est pas cool cette histoire de Claude et il commence vraiment à me tendre tous les jours.
+3:493 minutes et 49 secondesDonc ici, on introduit notre price à 2 dollars per million input token, donc à la place de 5 pour Opus, je pense et 10
+3:563 minutes et 56 secondesdollars pour les output token. Là, on a baissé en prix. Je suis pas sûr pour le prix d'OUS. Faudrait que je vérifie. Mais ça c'est juste jusqu'au 31 août.
+4:054 minutes et 5 secondesAprès le 31 août, évidemment, faut augmenter les prix, faut changer, pourquoi pas. À partir de ce moment-là, ça va passer à 3 dollars par million de
+4:134 minutes et 13 secondesinput token et 15 dollars par million de output token. Ils ont augmenté les limites pour euh avoir plus de token
+4:214 minutes et 21 secondesusage et pouvoir faire sens de tout ce qu'ils ont dit juste ici. Alors maintenant, on va parler des des petits
+4:294 minutes et 29 secondesrésultats qu'on a eu juste ici. Donc hop, dans mes bookmark YouTube. Donc on
+4:354 minutes et 35 secondesa ici si on va sur intelligence Analysis qui est pour moi un bon benchmark et je sais des fois quand je montre ça les
+4:434 minutes et 43 secondesgens me disent mais c'est un benchmark qui sert à rien. Alors je suis désolé c'est quand même un benchmark cool. Et donc ici dans ce cost per tasque test
+Chapitre 4 : Comparaison des coûts par tâche
+4:514 minutes et 51 secondesqu'on a juste là on peut voir que Claude Sony qui est censé être un modèle pas très cher coûte en fait plus cher que
+5:015 minutes et 1 secondeClaudopus 4.8. Et donc juste ici, je crois qu'il avait même montré ça. Et donc ici quand on compare les prix que je te montre juste là, on peut voir que
+5:095 minutes et 9 secondesClaude Son 4.llar 14 que Claude opus en moyenne par tâche coûtait 1,90. Donc là, on peut voir qu'on a 80 pardon une grande différence.
+5:195 minutes et 19 secondesPuis ensuite la claud son max qui coûte 2,29 dollars, ce qui fait qu'il est plus cher que Opus et qu'il est à peine moins
+5:275 minutes et 27 secondescher que Fable. pour intelligence vs cos per tasque. Juste ici, un modèle qui va
+5:345 minutes et 34 secondesse retrouver beaucoup plus cher pour une intelligence qui est pas forcément plus élevée. Donc ici, normalement ce que tu vois, ça c'est le cadrant le plus
+5:435 minutes et 43 secondesattractif et ça ici c'est le cadrant entre guillemets le moins attractif. He ça veut dire que ici l'intelligence de
+5:505 minutes et 50 secondesSonnet est moins bonne que Opus et pourtant sonnet coûte plus cher que Opus. En clair, en tropique ici a sorti un modèle qu'on peut dire inutile. OK ?
+6:016 minutes et 1 secondeEt tu vas voir qu'avec les tests que je vais faire après, ça valide ce que j'ai dit juste ici. Alors que Claude Fable, lui, il coûte très cher mais il est super intelligent. Si en plus juste ici
+6:106 minutes et 10 secondeson affiche GPT 55 juste qu'on rigole avec ici la version high, tu peux voir que encore une fois GPT détruit
+6:186 minutes et 18 secondescomplètement les modèles Opus parce qu'à ce moment-là on a une intelligence qui est très proche de Claude Opus quand on compare
+6:256 minutes et 25 secondesjuste ici pour un prix qui est presque la moitié. Donc en fait c'est mieux d'utiliser GPT 5.5 high que son S5. Ça
+Chapitre 5 : Efficacité des modèles LLM
+6:336 minutes et 33 secondesn'a aucun sens en fait d'utiliser S5 ici ou au plus si tu as envie d'avoir un tout petit peu plus d'intelligence mais payer deux fois plus. Donc il faut toujours avoir un petit peu l'équilibre.
+6:436 minutes et 43 secondesMalheureusement on n pas encore GPT 5.6 sinon ce serait une totale boucherie. Et après quand on parle
+6:506 minutes et 50 secondesartificial analysis coding agents index donc j'aimerais bien que je puisse cliquer dessus. Donc ici, on peut voir que artificial analysis coding adjent
+6:596 minutes et 59 secondesindex, c'est un un benchmark qui est aussi très intéressant parce que ici en fait ça vient faire un composite de Deep
+7:067 minutes et 6 secondesSWE terminal terminal bench et SW Atnas QNA. Higher is better. Donc là on peut
+7:137 minutes et 13 secondesvoir GPT 5.5 qui fait 76. Opus 4.6 73, GPT 5.5 en médium qui fait 71 Opus 67
+7:237 minutes et 23 secondesOpen Code cursor cursor cursor cloud et si on cherche ici euh merde il y a même pas Sonnet 5 en fait je suis fou. Ah
+7:307 minutes et 30 secondesmerde, ils ont pas encore lancé Sony. On a toujours que Sonnet 4.6. Bon, autant pour moi, oublier tout ça. Bref, maintenant, on a quand même un tweet
+7:387 minutes et 38 secondesd'un français qui est sympa et qui répond parfois à mes tweets. Il nous dit "Le graphe est exact." et il prouve que la plupart de ceux qui brandissent n'ont
+7:477 minutes et 47 secondesjamais piloté un vrai système dans leur vie. Donc un peu Got trip trade en mode on utilise pas les vraies choses. Donc
+7:547 minutes et 54 secondesici, il nous dit que les deux sont utilisés au max de leur effort. Et donc pourquoi est-ce que c'est plus cher ?
+7:597 minutes et 59 secondesParce qu'un modèle plus léger réussit moins souvent une tâche difficile du premier coup. Dans une boucle agentique, un échec n'est pas un mur, c'est un tour
+Chapitre 6 : Fonctionnement des systèmes agentiques
+8:078 minutes et 7 secondesde plus. Il relie réessai se corrige. Ce qui fait qu'avec cette boucle gentique, le modèle coûte très cher à lancer artificial intelligence index machin
+8:158 minutes et 15 secondeschose parce que si je comprends ce qu'il dit, chaque tour, il vient brûler plus de token. Et vu qu'ici artificial
+8:228 minutes et 22 secondesintelligence index et bah il fait que le modèle est moins intelligent, ça fait qu'il fait plus de tours et donc il utilise plus de token et ensuite ici ben
+8:308 minutes et 30 secondeset c'est là c'est intéressant où je dis que c'est un peu trip. Personne qui bosse sérieusement ne pilote un système agentique en déversant toute la charge
+8:388 minutes et 38 secondesdans un seul modèle réglé à fond. Ce serait comme coller ton meilleur architecte sur la poste de chaque vis du chantier. Mais en fait, dans un monde où
+8:468 minutes et 46 secondestu payes un abonnement à 200 balles par mois comme moi je fais juste ici ou généralement à part si tu es un forçonné du code, tu n'atteins jamais tes
+8:548 minutes et 54 secondeslimites. Donc là moi si je vais dans mes settings, on peut voir que je suis que à 5 % d'usage et que ça resette Sunday.
+9:019 minutes et 1 secondeDonc en clair, ça resette dans quelques jours. Euh non, ça resette dans 4 jours et j'ai utilisé 5 %. Donc tu vois que cette semaine, j'ai pas trop bossé. Mais
+9:089 minutes et 8 secondesdans un monde où tu as des abonnements qui te subsitizent tes tokens comme je sais pas quoi. Oui, Ben, je suis désolé mais oui, on va utiliser notre meilleur
+9:179 minutes et 17 secondesarchitecte sur la pause de chaque vis du chantier. Pourquoi est-ce que on utiliserait pas la meilleure chose quand on ne le paye pas ? C'est le concept de
+9:259 minutes et 25 secondesces abonnements. Et donc un sonnet 5 qui vient être proposé dans un abonnement qui propose aussi opus, ça n'a ça ne
+9:339 minutes et 33 secondesfait aucun sens parce que les gens qui codent avec ces modèles là vont faire ça. Bref, et donc ici il dit il faut séparer les rôles, travailler avec
+9:419 minutes et 41 secondesplusieurs modèles et cetera et donc il faut un orchestrateur et ensuite utiliser un sonnet pour plutôt effectuer
+Chapitre 7 : Utilisation d'un orchestrateur IA
+9:489 minutes et 48 secondesles tâches comme une sorte de petit de petit lutin travailleur. Et ce n'est pas de la théorie, c'est déjà sous le capot des outils que tu utilises. Donc l'autre
+9:569 minutes et 56 secondescode, la phase d'exploration, celle qui lit le code sur un agent, c'est souvent IQ pendant que le modèle principal garde la main. Ouais, ouais, Ben, tu as
+10:0510 minutes et 5 secondesraison. Mais moi sur GPT, j'ai des résultats bien meilleurs et chaque phase d'exploration est lancée par GPT 5.5. Et
+10:1310 minutes et 13 secondesc'est là en fait où si on arrive à avoir une intelligence qui est moins chère, on se retrouve avec un modèle qui permet de
+10:2110 minutes et 21 secondestout faire. Donc là, c'est ça qui est super intéressant parce que quand on regarde Price and Cost juste ici, on
+10:2710 minutes et 27 secondesvoit qu'un GPT 5.5 euh Xi coûte moins cher et est plus intelligent que tout.
+10:3410 minutes et 34 secondesEt pourtant, il a presque le niveau d'intelligence maximum que tu peux avoir. Donc bien sûr que moi tous les subad que j'ai, j'utilise GPT 5.5. Bref,
+10:4310 minutes et 43 secondesvoici un petit peu pour la phase théorique. Alors, j'ai fait quelques petits tests. Je t'arrête 2 secondes. Si tu es développeur ou pas, sache que tu
+10:5010 minutes et 50 secondespeux rejoindre I Blueprints, c'est-à-dire que tu vas devenir un enginer et coder 10, 20, 30 fois plus vite. Personnellement, ma productivité a
+10:5810 minutes et 58 secondesexplosé. Tu vas apprendre à utiliser Cloud Code, Codex et cetera via cette plateforme de formation. Donc, tu vas voir un tuto Codex, c'est quoi un
+11:0611 minutes et 6 secondesmanager comprendre les agents, setup de cloud code et j'en passe avec ici Windows Codex. et tous les outils que tu
+11:1311 minutes et 13 secondesvas devoir utiliser pour réaliser ta transformation en développeur agentique.
+Chapitre 8 : Test du Timezone Checker
+11:1811 minutes et 18 secondesJe te laisse avec le lien juste en dessous de cette vidéo en cliquant sur mlv.sh/fa pour rejoindre maintenant. Euh donc le premier test que j'ai fait juste ici,
+11:2511 minutes et 25 secondesc'est le fameux Time Zone Checker que personnellement j'adore parce que ça permet de voir comment pense le modèle.
+11:3211 minutes et 32 secondesPour les personnes qui n'auraient jamais vu ce test et qui sont nouveaux sur cette magnifique chaîne YouTube, vous allez voir que ici dans testing prompt
+11:4011 minutes et 40 secondessur mon site code pourmelvinx.dev, on a time zone checker pour voir mon prompt.
+11:4411 minutes et 44 secondesEt donc là, ce qui est le plus important, c'est que je lui crée une petite application pour checker les différentes time zones et je lui dis
+11:5211 minutes et 52 secondesattention parce que tu as un full creative freedom sur les technologies, l'architecture du code, la structure et
+11:5811 minutes et 58 secondescetera et cetera. Et euh juste ici, il a le choix de faire les décisions qu'il veut et donc le résultat qu'on va avoir
+12:0612 minutes et 6 secondeset le résultat de la vraie réflexion que le modèle a pu avoir. Et donc l'utilisateur a deux modes, le meeting mode, le base mode, bla bla bla bla bla.
+12:1412 minutes et 14 secondesVoici le résultat de Sonet. Donc on peut voir que quand on compare encore une fois à Opus, si on veut comparer à son
+12:2212 minutes et 22 secondesgrand frère dans le cas où tu te dis "J'ai envie d'utiliser un modèle intelligent pour je sais pas quoi et pas pour je sais pas quoi" et cetera. et que
+12:2912 minutes et 29 secondesje vais ici sur CD point. Sachant que l'effort que j'ai utilisé he c'est Xi pour les gens qui me demandent. Et si
+12:3712 minutes et 37 secondesici je vais sur un Opus 4. Lancer euh port 3 4999, évidemment ça marche pas. Je ne sais pas
+12:4512 minutes et 45 secondescomment lancer une application vite sur un autre port. Donc l'application de Opus est environ 100 fois mieux. Est-ce
+12:5312 minutes et 53 secondesque il a réussi à faire les choses bien ? Alors déjà le problème, j'ai l'impression que c'est la première fois qu'un modèle OK. OK. Bon là là c'est
+Chapitre 9 : Comparaison avec Tailwind CSS
+13:0213 minutes et 2 secondeshonteux. Donc il m'affiche un icône soleil pour les settings au lieu de m'afficher des settings d'une manière ou d'une autre ce qui rend la chose un peu
+13:1113 minutes et 11 secondesdifficile à lire. Ensuite ici on a l'open on a le base mais le design des carrés est vraiment moche. On a aussi
+13:1813 minutes et 18 secondescette shadow qui l'a rajouté en mode dégueulasse. Je suis pas super fan. Et le code source. Voilà, il a toujours fait un truc très clean. Alors ça, tous les modèles font des trucs très clean.
+13:2813 minutes et 28 secondesEn plus, il a utilisé Tailwin, ce qui est quand même pas mal. Si on compare ça avec ici Opus 4.
+13:3713 minutes et 37 secondesIl avait pas utilisé Tailwind. Donc ça c'est assez drôle. Sonc utilise aussi Tailwind, ce qui est assez satisfaisant.
+13:4313 minutes et 43 secondesJ'aurais même envie en fait ici en réfléchissant de comparer ça avec GLM qui a été quand même le modèle open source le plus fou qu'on a vu ensemble.
+13:5313 minutes et 53 secondesJe sais pas si tu es d'accord avec moi, mais moi j'ai été assez surpris par découvrir le modèle GLM et vous voyez que le modèle GLM ici en règle générale,
+14:0214 minutes et 2 secondesil a la même fave icô que le modèle son qui est assez étrange quand même dans l'idée. Alors évidemment lui c'est update, ça c'est très très chiant. Donc
+14:1114 minutes et 11 secondesen fait il a pas du tout la même icône, il a ce petit truc là, c'est juste qu' s'était refresh 51 53. Mais vous voyez
+14:1814 minutes et 18 secondesqu'en général, je trouve que ce modèle GLM, il est plus beau. Il a fait un truc même plus beau avec les settings ici qui
+14:2614 minutes et 26 secondessont plus en settings. Donc là sur ce sonnet, si en plus dans ce benchmark on le compare à GLM 5.2 max, à ce
+14:3514 minutes et 35 secondesmoment-là, on peut voir que celui-ci quand même il réagit moins bien. C'est ça GLM 5.2, il avait une bonne intelligence, il est toujours moins
+14:4314 minutes et 43 secondescher. Mais ici, vous voyez que en fait pour un GLM 5.2, 2, il score 51. Un son 5, il score ici 53. Donc pour deux
+Chapitre 10 : Analyse des benchmarks de performance
+14:5214 minutes et 52 secondespoints de différence, tu peux quand même diviser le prix par juste ici. Donc c'est quand même immense. OK, donc ça c'était pour le
+15:0115 minutes et 1 secondepremier test. Le deuxième test que j'ai fait, c'est aberrant. C'est c'est honteux. Ici, j'ai voulu faire un test de car Brick Wall Crash. Alors, je vais
+15:0915 minutes et 9 secondeste montrer le résultat de GPT 5.5 qui a terminé en écoute-moi bien 7 minutes 23.
+15:1615 minutes et 16 secondesDonc ici open point, on a ici le test et je vais lancer le fichier index.html. Donc ici, on est sur GPT5.5.
+15:2415 minutes et 24 secondesEn clair, dans mon prompt ici, je lui dis euh donc si j'arrive à te le trouver, je veux que tu crées un fichier avec un realistic 2D crash experiment
+15:3315 minutes et 33 secondesdans un Canva. Une car qui accélère et qui va dans une scène. Ensuite, il faut ça, ça. Voici toutes les données par défaut. il faut qu'on puisse tout
+15:4115 minutes et 41 secondeschanger. Donc là, ça permet de faire des tests. Donc typiquement ici, tu peux voir, j'appuie sur test et ça vient lancer et ça vient nous faire cet effet.
+15:4915 minutes et 49 secondesL'avantage de ce que je peux faire ici, c'est brique masse. Donc là, par exemple, je dis que les briques font 8 kg et donc là quand la voiture arrive,
+15:5715 minutes et 57 secondeson peut voir que ça bouge moins. On va tester avec 1 kg. Les briques, elles sont dégagées super loin et avec ici 12
+16:0616 minutes et 6 secondeskg, les briques, elles restent très statiques. Ou sinon, on peut tester avec une vitesse de 45. Donc à ce moment-là,
+16:1416 minutes et 14 secondesça vient balancer et tu peux voir que ça lance un truc de fou. Ensuite, on peut mettre on peut mettre un d player ou une
+Chapitre 11 : Test du simulateur de car crash
+16:2116 minutes et 21 secondesrow. Comme ça ici, on peut voir ce que ça fait. Et bam ! Regardez-moi ça. Donc ça c'est GPT 5.5 qui a one shot cette
+16:3116 minutes et 31 secondesapplication avec un prompt en uniquement en uniquement 7 minutes. OK, c'est pour vous montrer à quel point les modèles
+16:4016 minutes et 40 secondesutiliser GPT maintenant c'est une dinguerie. OK, je vous le dis, c'est une dinguerie mais je sais que vous êtes pas encore tous à m'écouter. Donc tester
+16:4816 minutes et 48 secondesdépenser 100 balles sur Open I. C'est ce que j'ai fait. J'ai dépensé 100 balles.
+16:5316 minutes et 53 secondes2 semaines plus tard, une semaine plus tard, j'ai mis mes 200 balles et depuis, j'ai plus jamais repayé 200 balles à Claude, sauf pour tester Fable. Bref, ici, on va tester la version de Opus 4.
+17:0417 minutes et 4 secondesPour comparer un petit peu en sachant que Opus 4. Juste ici a pris 33 minutes.
+17:1117 minutes et 11 secondes33 minutes pour Op 4.8. Alors, apparemment, je les ai tous lancés ici, ce qui était une petite erreur, mais c'est pas très grave. On va créer ici
+17:1917 minutes et 19 secondesCar crash et on va mettre tous ces projets dans le car crash. Je vais pas le faire parce que sinon ça va arrêter tous mes agents mais je le ferai plus
+17:2617 minutes et 26 secondestard. Donc ici Opus 4.8, je l'ouvre et vous voyez que déjà l'interface ici comme ça, bon elle est sympa mais elle
+17:3517 minutes et 35 secondesest cool. La voiture la voiture est je sais pas je sais pas quoi dire. La voiture me semble plus cool sur GPT.
+17:4317 minutes et 43 secondesdites-moi dans les commentaires. En tout cas, ici, on a des briques avec leur petit effet 3D et on va pouvoir tester.
+Chapitre 12 : Limites sur les tâches complexes
+17:4817 minutes et 48 secondesEt vous voyez que la physique est complètement folle. La physique ne respecte rien. Alors, je lui ai dit "Pourtant, c'est très important que la physique respecte." En plus, on peut
+17:5617 minutes et 56 secondesvoir que ça lag complètement et que si ici je mets une brique masse de 7 kg, juste pour voir, c'est totalement buggé.
+18:0318 minutes et 3 secondesAlors, les animations sont jolies. Tu vois que ici c'est fonctionnelin. Donc là, on peut voir ça fait les choses comme on peut l'imaginer. Ici, les
+18:1118 minutes et 11 secondesanimations sont jolies. Tu peux voir que quand les briques tombent, mais je sais pas pourquoi on a cette shadow de brique qui s'éjecte. Alors, je sais pas si
+18:1918 minutes et 19 secondesc'est juste visuel parce que après quand on regarde le la logique des briques, elle est sympa. Je sais pas exactement comment donnerait une vraie une vraie un
+18:2718 minutes et 27 secondesvrai crash mais bon. Allez, si ici on vient mettre des bric layers, voilà. Hop là. Ouais. Voilà. Ça c'était juste pour
+18:3518 minutes et 35 secondesvous montrer la version d'opus pour avoir une petite référence. Si maintenant on passe sur la version de Sayet, Sony a été imbitable sur cette
+18:4318 minutes et 43 secondestâche. Donc je l'ai lancé en Xi pour lancer le maximum d'intelligence possible et imaginable. Faut savoir que rien n'a fonctionné parce que au début
+18:5318 minutes et 53 secondesil a crash. Ensuite il a travaillé pendant 37 minutes pour crash. Après avoir travaillé pendant 37 minutes, il a continué continué continué pour me faire
+19:0219 minutes et 2 secondesde la de la D. Et tu peux voir juste ici que il avait travaillé juste avant encore pour 300 en en clair, il a
+19:1019 minutes et 10 secondestravaillé une petite heure pour faire ça et vous voyez le résultat. Donc on a ici la voiture. Cette fois c'est intéressant, je trouve ça je trouve ça
+19:1819 minutes et 18 secondesintéressant. On a la voiture, on va avec la voiture et on arrive dans Alors, la voiture est infemme, le mur est infemme,
+19:2619 minutes et 26 secondesil y a tout qui est infemme. En fait, il y a rien qui va, il y a rien qui va, c'est infemme. Les boutons ici settings sont infemmes. En moins, on peut quand même changer la vitesse de la voiture.
+Chapitre 13 : Test du Drawing inspiration editor
+19:3519 minutes et 35 secondesMais la la OK, la gravité est pas trop mauvaise, mais c'est moche. Alors, je sais pas si je lui ai demandé de faire ses animations, mais ça bug
+19:4219 minutes et 42 secondescomplètement. Donc vous voyez qu'ici encore une fois son s montré d'une inutilité assez impressionnante. Bon allez, on va tester des vraies features maintenant
+19:5119 minutes et 51 secondessurface. J'ai décidé de faire un nouveau benchmark. Encore une fois, vous allez pouvoir trouver le prompt juste ici pour un dernier test du fun. Donc ici, si on
+19:5919 minutes et 59 secondesva sur test prompt, normalement j'ai un petit benchmark. Alors, j'ai pas le meilleur de réseau du monde où je suis juste ici. Donc juste ici, on a
+20:0820 minutes et 8 secondesnormalement Subfal Drawing Inspiration Editor. Donc un prompt encore une fois défini et cré à l'avance et lancé sur
+20:1620 minutes et 16 secondesplusieurs modèles. Donc ici implente une feature avec ici un DRW pour mes inspirations de Tomnate. Alors, j'ai déjà lancé l'application de GPT 5.5.
+20:2520 minutes et 25 secondesEncore une fois, vu que je sais que GPT 5.5 est quand même bon pour coder, j'ai espoir que ça puisse être une référence.
+20:3320 minutes et 33 secondesAlors, on peut voir qu'ici dans les inspirations, on peut maintenant faire nouvelle inspiration, create from drawing new. Et là, ici, on peut créer euh une inspiration depuis un dessin.
+20:4320 minutes et 43 secondesDonc, c'est assez cool parce que là, je peux venir rajouter des place holders.
+20:4820 minutes et 48 secondesAlors, je sais pas exactement ce que c'est. Là, on peut voir que je peux faire un before after versus euh là, il a créé et c'est trop marrant les gars,
+20:5620 minutes et 56 secondesc'est trop cool. Allez, blank. Donc ici, on peut dessiner. Waouh, mais c'est génial. Comment il a fait ça ? Je sais pas. Alors, les lignes sont pas top
+21:0521 minutes et 5 secondeshein. Les lignes sont pas top. J'ai quand même des boutons bac qui marchent pas. Il a il a quand même bossé, il a testé, il a tenté. Moi, je serais trop
+21:1321 minutes et 13 secondescurieux de tester ça sur Fable. Écoutez, dès que Fable est dispo, je vais le lancer là-dessus. Mais donc là, on peut voir quand même que je peux faire des carrés. Et moi, j'aimerais bien pouvoir
+Chapitre 14 : Manipulation des composants React
+21:2121 minutes et 21 secondes[ __ ] un place holder juste ici parce que là, c'est quoi ? Ah, OK, en fait, je peux choisir mon place holder. Donc là, je peux mettre ça et je peux dire OK, je
+21:3021 minutes et 30 secondesveux mon personnage là. Ensuite, ici, je veux un texte. Avec ici, je peux changer le texte. J'aime beaucoup le style qu'il a fait. Donc ici, avec une trash. Ah
+21:3921 minutes et 39 secondesnon, je dois écrire le texte ici. Donc là, avec une poubelle, je veux que ce soit super grand. Et une fois que j'ai
+21:4721 minutes et 47 secondesça, je veux déplacer ma poubelle ici. Et là, je veux mettre euh ici, hop, un rond
+21:5521 minutes et 55 secondesavec C'est assez difficile de sélectionner les trucs, en fait. Un rond et ici, une flèche qui va dans la poubelle et un autre rond juste ici.
+22:0322 minutes et 3 secondesVous voyez, je peux pas copiercoller.
+22:0522 minutes et 5 secondesDonc il y a vraiment beaucoup de boulot à faire. Je pense que je vais encore améliorer le prom dans une V2 ici pour essayer de one shot cette feature là.
+22:1222 minutes et 12 secondesici avec GPT 5.5 comme je l'imagine.
+22:1422 minutes et 14 secondesMais voici en tout cas pour la version de GPT 5.5. La version de Sony, je pour que ce soit bon avec toi, il est en Say
+22:2122 minutes et 21 secondesHi. J'ai lancé cette vidéo et j'ai lancé le prom.
+22:2722 minutes et 27 secondesOK. Ici, il m'a fait ça, la base de ce que tu vois ici. J'ai pété 5.5. Il me l'a fait ici en une minute. Non, pas une
+22:3622 minutes et 36 secondesminute. Je pense pas qu'il me l'a fait en une minute. Je sais pas exactement combien de temps. Je pense que ça a pris environ 10 minutes. C'était plutôt rapide. Voilà, je l'ai pas lancé non
+Chapitre 15 : Finalisation du test Sonnet
+22:4522 minutes et 45 secondesplus avec un prompt de l'enfer. C'est juste qu'il a commencé à vouloir tester l'application et quand il a voulu tester l'application, je lui ai dit "Arrête, ça ne sert à rien de tester l'application.
+22:5422 minutes et 54 secondesTu peux voir juste ici. Et là, je l'ai arrêté." Donc on n pas pu voir mais je lui ai dit ne teste pas, je testerai moi-même. Mais donc on peut voir ici qu'il a terminé, on va dire là il lance
+23:0223 minutes et 2 secondesPNPMTS. Donc écoutez, on va l'arrêter et on va le lancer juste ici tout simplement avec P start allort 3005. On
+23:1323 minutes et 13 secondesva le laisser ici en port 3005 comme ça on va vérifier qu'on a bien des tokens différents et cetera et on va voir une version de son 5 juste pour le fun et
+23:2023 minutes et 20 secondespour pour faire en sorte que la vidéo soit un peu un peu cool parce que j'ai peu d'espoir, je me sens un peu mal pour lui. OK, je me suis dit il y a quand
+23:2823 minutes et 28 secondesmême un monde où le modèle nous surprend. Alors voici, j'ai réussi à lancer l'application. Donc là, quand on va dans New, on a ici le draw template.
+23:3723 minutes et 37 secondesEt déjà ce qu'on peut voir ici, c'est que ça vient sur ce start new drawing.
+23:4223 minutes et 42 secondesDonc ici, on va pouvoir choisir plusieurs options. Donc par exemple before after et là on a le before after.
+23:4723 minutes et 47 secondesAlors j'aime bien l'éditeur parce qu'il est en full screen. On va quand même voir ce que ça donne. Donc là le carré on peut le faire, on peut le déplacer.
+23:5423 minutes et 54 secondesIl y a une librairie qui a été utilisée qui est dégueulasse.
+23:5823 minutes et 58 secondesIci les templates vont quand même pas bien par défaut. Est-ce que là on peut sélectionner ce texte ? Donc là, booum, on change. OK, on peut sélectionner, on
+Chapitre 16 : Conclusion et avenir de IA
+24:0724 minutes et 7 secondesa tous les layers juste ici. On a quand même un éditeur qui est un peu plus cool. Donc voilà, j'ai quand même envie de dire l'éditeur est plus cool. Je vais
+24:1524 minutes et 15 secondespas m'amuser à tester parce que comme je t'ai dit avant, mais voilà, voilà un petit peu en tout cas mon opinion sur ce Sony S5. Hésitez pas à me dire ce que vous en pensez dans la description.
+24:2324 minutes et 23 secondesEncore une fois, moi je suis passé du côté obscur avec Open AI. Euh je pense que Open va release GPT 5.6 sol de
+24:3124 minutes et 31 secondesmanière bien plus efficace. Euh parce que c'est encore entre guillemets des ils essaient encore entre guillemets de rattraper leur retard. Je pense que sol va démonter tout le monde. Bref, on verra ça très bientôt.
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+
+34:31
+Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.
+Ludo Salenne
+145 vues
+•
+il y a 18 minutes
+Nouveau
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 2 mois
+
+
+17:37
+FABLE 5 EST DE RETOUR
+Neocell
+8 vues
+•
+il y a 14 minutes
+Nouveau
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,6 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+22:34
+LES EMISSIONS DE JEUX VIDÉO
+Bazar du Grenier
+1,9 M de vues
+•
+il y a 2 ans
+
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+102 k vues
+•
+il y a 2 jours
+Nouveau
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,4 M de vues
+•
+il y a 10 mois
+Doublée
+
+43:54
+SPECIALE BLIZZARD: PARTIE FINALE
+Bazar du Grenier
+1,2 M de vues
+•
+il y a 5 mois
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+295 k vues
+•
+il y a 23 heures
+Nouveau
+
+54:35
+La France peut-elle encore éviter une nouvelle étrange défaite ?
+Le Figaro
+162 k vues
+•
+il y a 5 jours
+Nouveau
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+13 M de vues
+•
+il y a 5 mois
+Doublée
+
+20:44
+RAM, Valve, Rockstar : ça devient INFERNAL
+DiscoverID
+7,5 k vues
+•
+il y a 1 jour
+Nouveau
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+147 k vues
+•
+il y a 3 jours
+Nouveau
+
+1:39:42
+Effondrement mondial : nous entrons dans le vide de pouvoir le plus dangereux de l'histoire
+The Diary Of A CEO
+ et Ian Bremmer
+2,9 M de vues
+•
+il y a 2 mois
+Doublée
+
+24:59
+Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (hélène & les garçons, Premiers Baisers etc)
+Joueur Du Grenier
+6,4 M de vues
+•
+il y a 6 ans
+
+    

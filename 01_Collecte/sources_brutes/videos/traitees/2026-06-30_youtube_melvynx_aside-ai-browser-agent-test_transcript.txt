@@ -1,0 +1,483 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Aside le navigateur qui veut utiliser Chrome et Dia
+Melvynx
+Melvynx
+61,7 k abonnés
+
+Rejoindre
+
+
+53
+
+
+Partager
+
+Enregistrer
+
+Télécharger
+
+2 177 vues  30 juin 2026  #ia #ai #intelligenceartificielle
+Sponsor TestSprite : https://mlv.sh/testsprite
+TestSprite Hackathon ($3000 prize): https://www.testsprite.com/hackathon-s3
+Ma formation IA : https://mlv.sh/1Ihw7hm
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Test Sprite automation
+3:00 - Configuration du navigateur
+4:30 - Connexion compte ChatGPT
+6:00 - Interface et fonctionnalités
+7:30 - Test de automatisation Gmail
+9:00 - Analyse des limitations IA
+10:30 - Recherche produits Amazon
+12:00 - Problèmes de gestion agent
+13:30 - Retour sur la performance
+15:00 - Navigation et recherche web
+16:30 - Conclusion et formation
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+Masterclass sur les SaaS : https://mlv.sh/nowts-masterclass
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx explore Aside, un navigateur intégrant des fonctionnalités d'agent IA conçu pour automatiser les tâches de navigation. La démonstration couvre l'installation, la gestion des mots de passe, la synchronisation des abonnements existants et les tests de workflow en temps réel pour évaluer l'efficacité de cet outil dans le quotidien d'un utilisateur.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,7 k abonnés
+Vidéos
+À propos
+7 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @melvynxdev
+@melvynxdev
+il y a 1 jour
+Retrouve TestSprite : https://mlv.sh/testsprite
+TestSprite Hackathon ($3000 prize): https://www.testsprite.com/hackathon-s3
+
+
+
+Répondre
+
+
+@PierreAtman
+il y a 16 heures
+J’ai reçu la livraison avant la fin de la vidéo 😂
+
+
+
+Répondre
+
+
+@wesley.armando
+il y a 21 heures (modifié)
+Merci Melvynx pour le contenu ;) mais en fait des outil de browsing on peut en creer nous meme maintenant lol, au fait l'appli quer tu utilise c'est celle que tu a creer ou c'est l'interface d'un autre outil? j'arrive pas a reconnaitre ? c'est codex?
+
+
+
+Répondre
+
+
+@topazzel
+il y a 1 jour
+J'utilise un MacBook air M4, le problème principal que je rencontre avec Aside : Les App web (SaaS) charge très mal et lag énormément, je ne sais pas si c'est moi qui ai fait une config qui ne fallait pas pourtant je n'ai rien touché...
+
+
+
+Répondre
+
+
+@thegrinch360
+il y a 1 jour
+ok c'est de la merde, perte de temps même en 1.5x
+
+3
+
+
+Répondre
+
+
+@AnatoleMellet-c5u
+il y a 1 jour
+first
+
+
+
+Répondre
+
+
+@AnatoleMellet-c5u
+il y a 1 jour
+first
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:011 secondeC'est le browser qui a retourné Twitter avec cette lounge vidéo. Euh donc ici, ils disent "On a tué euh chat GPT,
+0:1111 secondesClaude et Arc en gros et maintenant tu vas pouvoir utiliser aside.com." Donc
+0:1818 secondesj'ai eu un pote à moi ici qui a fait cette vidéolà, Michael Komski que j'ai rencontré à San Francisco qui fait ce
+0:2626 secondessetup clos. Donc il avait fait 6600 vues, ça n'avait aucun sens mais cette vidéo était assez folle où il explique un petit peu sa réaction à Aside. Donc
+0:3535 secondesAside, bois-toi ici. J'ai téléchargé le navigateur et on va le lancer tout de suite comme ça on va tout de suite voir à quoi ça ressemble. Donc euh hop là,
+0:4444 secondesattends. Hop, la landing page au cas où ça ressemble à ça. The most intelligent II assistant, but it's a browser. Donc
+0:5151 secondesici, on peut voir qu'on a déjà beaucoup de choses qu'on aime bien. Side bar, bookmark élément. Ici, la question c'est
+0:5959 secondesest-ce qu'il va démonter mes performances à coup de je retourne l'histoire et je le démonte ou pas ?
+1:041 minute et 4 secondesDonc c'est très intéressant. On va avoir beaucoup de choses à tester. Mais avant de continuer, mon sponsor un message pour toi. C'est parti. Quel est le problème que tu as avec les agents IA ?
+1:141 minute et 14 secondesC'est le fait de faire des tests et de vérifier que l'agent IA n'a pas cassé ton application. C'est pour ça qu'aujourd'hui, je te présente Test
+1:211 minute et 21 secondesSprite qui va venir vérifier la correctness. il va te faire des preuves avec des screenshots et il va s'intégrer à tous les tools dont tu as besoin.
+Chapitre 2 : Test Sprite automation
+1:301 minute et 30 secondesC'est très simple de commencer, on va pouvoir se sign in juste ici et on va pouvoir créer évidemment une petite API key juste ici. Donc là, moi je vais
+1:371 minute et 37 secondesl'appeler test vidéo create et on va copier cette clé dans le terminal. Dans le projet de ton choix, tu vas pouvoir
+1:441 minute et 44 secondeslancer test sprit setup. Test sprit setup, ça va tout faire automatiquement.
+1:511 minute et 51 secondesEn lançant ça, ici, tu vas pouvoir coller la clé et ça va setup test sprit pour toi. Tu peux voir ici profil, endp,
+1:591 minute et 59 secondesemail, scope, agent. Et là, ça devient très intéressant parce que tu vas pouvoir lancer le skill test sprits verify. Tu vois qu'il va venir
+2:082 minutes et 8 secondess'installer automatiquement et ici, on va lui dire verify the common workflow for the organization update name et
+2:172 minutes et 17 secondescetera. Et donc là, tu vas pouvoir créer des nouvelles des nouveaux tests avec test sprit directement en demandant à Cloud Code de le créer et ça va venir le créer sur l'interface qui est juste ici.
+2:282 minutes et 28 secondesIci, tu vas pouvoir directement choisir quel environnement tu as envie de tester. Donc ici, par exemple, production. Ici, on va pouvoir choisir
+2:362 minutes et 36 secondesun compte juste ici. Donc là, moi je lui dis I will provide credential submit andare. Ensuite, tu vas pouvoir créer un
+2:432 minutes et 43 secondescompte de test tout simplement dans ton dans ta production. Donc là par exemple, tu vas sur subfast ici avec Melvin My
+2:502 minutes et 50 secondesplus test sprite 1 2 3 4 comme ça ici je lui fais je lui donne un compte de test et ici tu peux voir qu'en 2 secondes il
+2:572 minutes et 57 secondesa commencé à lancer les tests et ici tu vas voir qu'il va automatiquement vérifier d'organisation fonctionnent
+Chapitre 3 : Configuration du navigateur
+3:043 minutes et 4 secondesdonc ici tu peux voir que c'est terminé ça a fait les tests on a une vidéo qui montre le test que je viens de demander donc renommer une organisation et
+3:123 minutes et 12 secondesensuite tu peux débugger chaque étape chaque clic chaque acte commeci afin afin de voir ce qui s'est passé et tu vas avoir chaque fois la preview, ce qui
+3:203 minutes et 20 secondesest très pratique pour pouvoir vérifier que ça fonctionne à chaque fois qu'il y a un nouveau déploiement. Dès que ça fonctionne pas, ça t'affiche qu'il y a
+3:283 minutes et 28 secondesdes erreurs, ce qui te permet de t'assurer que ton app fonctionne toujours. Alors, si tu as envie d'accéder à tout ça, tu peux aller sur testsprite.com
+3:353 minutes et 35 secondesou sur le premier lien sous cette vidéo qui te permet de récupérer ton accès.
+3:403 minutes et 40 secondesMerci eux d'avoir sponsorisé cette vidéo et on reprend la vidéo. Donc, welcome to a side. Euh, on va récupérer tes comptes
+3:463 minutes et 46 secondessur tes ton bordel et cetera. Donc ici, sign in. Hop, nous on va se sign in avec Google. On est des on est des vendus les
+3:543 minutes et 54 secondesamis à Google. On se vend se hop voilà, on s'est vendu à Aside. Donc ici, setup an account, il nous demande un password.
+4:024 minutes et 2 secondesFaites attention, je discutais de ça hier. à avoir un password manager, sinon
+4:094 minutes et 9 secondesc'est n'importe quoi. Ne faites pas de compte sans password manager. Donc là boom, moi je génère un password, je ne
+4:184 minutes et 18 secondessais même pas ce que c'est et je l'utilise. Voilà, un petit moment de sécurité. Donc ici, nos recovery K qui
+4:244 minutes et 24 secondessont lic devant tes yeux et bah c'est super. [rires] Je vais flouer ça. Écoutez, l'écran sera
+Chapitre 4 : Connexion compte ChatGPT
+4:314 minutes et 31 secondesflou mais là, il y a toutes mes security key qui sont affichées. Merci au logiciel tout simple que j'utilise en montage vidéo pour m'empêcher d'avoir
+4:404 minutes et 40 secondesça. Non mais les gars, c'estant. J'adore quand je lique tout et après ça me fait faire avoir du montage, ce qui est pas top. Next. Déct browser. Donc là, on
+4:494 minutes et 49 secondespeut voir qu'il détecte tous mes browsers. Donc on peut voir qu'il a pas Hellium. Moi celui que j'aime bien c'est normalement personne 1. Donc ici c'est
+4:584 minutes et 58 secondesmon browser par défaut. Faut voir que j'en ai plein mais je vais importer celui-ci ici. Il me dit qu'il va avoir besoin de permission. Waouh ! Les gars se sont fait kiffer sur l'animation.
+5:085 minutes et 8 secondesHeureusement qu'il y a Lia maintenant et qu'ils ont fait que 2 he pour faire ça et pas et qu'ils ont pas payé 10k pour faire ça. Donc tout ce que tu peux faire
+5:165 minutes et 16 secondesdans un browser peut faire pour toi. Use aside connect my password manager. Hop.
+5:225 minutes et 22 secondesAh, c'est pas mal ça. OK, donc là ça load extension et là euh remember unlock password. OK, j'ai ajouté one password,
+5:305 minutes et 30 secondesdonc c'est intéressant. Waouh ça les gars, c'est ça que je voulais. Et là, j'avais très peur parce que je me suis dit s'il commence à nous faire payer
+5:405 minutes et 40 secondesencore une fois un abonnement à 20 dollars par mois pour utiliser leur highers slop, vous connaissez mon opinion, je vais casser mon ordi,
+5:485 minutes et 48 secondesprendre ma lumière, me [ __ ] du spray dans le nez, je sais pas. Donc bon, attendez, ça c'est un agent qui travaille. Donc là, on va pouvoir
+5:565 minutes et 56 secondesutiliser chat GPT subscription. Oh yeah ! Connect connect GPT. Ici, on clique connect. Là, du coup, on peut se
+Chapitre 5 : Interface et fonctionnalités
+6:056 minutes et 5 secondesconnecter. J'aurais jamais dû créer un compte sans Google ici pour faire ça.
+6:106 minutes et 10 secondesVoilà, je suis chaque fois énervé de devoir devoir aller chercher Open AI. Je sais pas si je pourrais connecter Google à mon compte, mais donc là, je me
+6:186 minutes et 18 secondesconnecte avec euh mon compte qui a l'abonnement à 200 dollars par mois et beaucoup welcome aboard your also 7
+6:256 minutes et 25 secondesaside asur default browser. Non, pas tout de suite mon ami. Il va falloir prendre du temps. Il va falloir que tu il va falloir que tu gagnes mon respect.
+6:336 minutes et 33 secondesOK. Avant de avant de avant d'avoir ça.
+6:366 minutes et 36 secondesAdd a side to doc. Non. Help improve doc. Non. Non non. Oh oh. Moi, je revends pas mes données. Tu tu me laisses tranquille, hein. Je veux je
+6:446 minutes et 44 secondesveux avoir mon freedom. OK, donc ici, on a le browser. Alors, ils ont un transparent qui est assez fou. Alors là, je vous je vous montre pur gym qui est
+6:526 minutes et 52 secondesma gym, mais mais bon, vous voyez le le transparent est assez dingue. On a la sidebar, on a ici les bookmarks que
+6:596 minutes et 59 secondesj'avais avec ici les pages, le nom qui est là. OK, c'est très cool. Donc je vais un peu enlever tous ces trucs. Donc
+7:077 minutes et 7 secondesça c'est les autres vidéos que j'exécute. Ça ça dégage. Ça dégage. Donc ici on a le browser. On peut voir qu'on
+7:147 minutes et 14 secondesa nouveau chat. Donc là ça ouvre le chat. On peut voir qu'on a les modèles.
+7:197 minutes et 19 secondesÇa ressemble vraiment à une interface open AI dans l'idée. Donc là on a les modèles, on a ici les chats et on a les tabls. Alors on va tester d'aller juste
+7:277 minutes et 27 secondessur x.com juste pour voir un peu ce qui se passe. OK donc je suis bien connecté.
+Chapitre 6 : Test de automatisation Gmail
+7:327 minutes et 32 secondesDonc ça a bien récupéré toutes mes tokens. Et là du coup, on a un tweets euh on aime avoir les deux et donc euh
+7:417 minutes et 41 secondesShotoutots à browser compagnie qui a popularisé ça. Donc là c'est ce qu'on peut voir dans les settings New York San Francisco. Donc là j'imagine que je peux
+7:507 minutes et 50 secondesaller dans les settings et là on peut voir que je suis en mode New York. Si je vais en mode San Francisco, on a les tables qui sont en haut. Donc on a les
+7:587 minutes et 58 secondesdeux options. Ensuite, qu'est-ce que c'est cette histoire de chat ? Va lire mon dernier OTP Gmail thinking. Donc là,
+8:078 minutes et 7 secondeson peut voir qu'on a l'option local ou cloud. Pour l'instant, on n pas ici, on a guard full access. On va mettre full accès et on va mettre final confirm, on
+8:168 minutes et 16 secondesva l'activer. Donc s'il essaie de send, pay, delete or submit, il va ici me demander. On a GPT5, on peut choisir
+8:258 minutes et 25 secondesUltra Brow. OK, donc là on a quand même le billing. Donc le billing, c'est 20 dollars par mois pour avoir Ultra Bros,
+8:328 minutes et 32 secondesunlimited routine, cloud und off. Donc on a quand même un abonnement.
+8:378 minutes et 37 secondesÉvidemment, c'est une boîte donc ils doivent bien survivre. Moi je j'ai envie de dire je ne payerai jamais de ces browsers les gars. Pourquoi est-ce qu'on
+8:458 minutes et 45 secondesva payer un browser qui lui-même paye GPT à la fin ? En fait, tu te fais juste [ __ ] tu vois ? Pay direct GPT, Pay Direct Cloud et ensuite tu utilises les
+8:548 minutes et 54 secondesdifférents providers pour utiliser le différents trucs et tu te fait dans une sorte de logique. Et donc on peut voir qu'ici il a Gmail skill, il essaie de
+Chapitre 7 : Analyse des limitations IA
+9:039 minutes et 3 secondess'énerver un petit peu sur mon Gmail. On va voir s'il arrive à non seulement s'énerver mais aussi à atteindre le résultat etcompter mon ami. Donc ici
+9:119 minutes et 11 secondesdéjà il a fail hein. Donc on va voir si je vais sur mail.google. Ah ok. Non il a pas fail. Donc là, moi j'ai tous les OTP mais ce qu'il me dit c'est je ne peux
+9:199 minutes et 19 secondespas afficher le OTP. Je vais dire OK utilise melvinmal@gmail.com
+9:259 minutes et 25 secondeset dis-moi si euh le euh la commande Coilla a été envoyée. On va voir. Il a
+9:339 minutes et 33 secondespris quand même beaucoup de temps ici hein. Il a pris 1 minute 57 pour aller ouvrir Gmail et faire trois trucs. Ce
+9:409 minutes et 40 secondesqui est quand même très très très très très lent. Mais bon, vous voyez, c'est là où je comprends pas forcément l'utilité de ce genre de browser où là,
+9:499 minutes et 49 secondestu te dis qu'est-ce que je vais me faire chier attendre une minute 44 d'avoir le browser qui contrôle mes
+9:579 minutes et 57 secondesemails pour faire ça. Alors, on va voir d'autres use case parce que pour l'instant euh browser, c'est un peu de la sausage, c'est un peu
+10:0510 minutes et 5 secondesde la saucisse partie. Donc ici, à part que je redownload pour 5 la 5è fois ça, tout ce que tu peux faire dans un browser, il peut le faire. Donc on va demander un autre chose dans les chats.
+10:1610 minutes et 16 secondesEuh cherche s'il te plaît euh comme ajoute dans mon panier la DJI Osmo
+10:2410 minutes et 24 secondesPocket 4 pour livraison en Suisse euh sur Amazon. J'ai oublié d'envoyer ça.
+Chapitre 8 : Recherche produits Amazon
+10:3010 minutes et 30 secondesHop steer send now. Boom. Puis on va voir ce que ça donne. Donc évidemment là il y a Amazon, il y a Notion, il y a
+10:3810 minutes et 38 secondesd'autres trucs. Donc là il va pouvoir se sign in avec ton compte. il va pouvoir communiquer avec tes lead sur LinkedIn
+10:4710 minutes et 47 secondeset il va pouvoir connecter tes doc et tes spreading de Sota Browser Agents. Il rent il rank 1 sur ce browser use je
+10:5610 minutes et 56 secondessais pas quoi. Donc sur tous les benchmarks ici apparemment il te rend.
+11:0111 minutes et 1 secondeEnsuite Memory qui sait sur quoi tu travailles euh il sait qu'est-ce que tu as fait hier et cetera. Il a accès à tes
+11:0911 minutes et 9 secondessecrets qui sont invisibles à l'IA mais que l'IA peut faire. Ensuite ici il y a des approuves et il y a un record de
+11:1611 minutes et 16 secondestous les accès qu'il a fait. Donc ici pour la sécurité add password manager.
+11:2011 minutes et 20 secondesDonc là tu vas pouvoir ajouter des password manager pour que Lia puisse contrôler. Private enough to use data.
+11:2711 minutes et 27 secondesLocal by default encrypted by your password. Sendbox et amène tes propres abonnements. A été fait pour les humains
+11:3511 minutes et 35 secondeset les agents. Bon [raclement de gorge] ok ici il a trouvé quand même mon truc.
+11:3911 minutes et 39 secondesMaintenant, est-ce qu'il arrive à trouver ma DJI Osmo Pocket sur Amazon ?
+11:4311 minutes et 43 secondesOn peut voir qu'ici, il a ouvert un tab Amazon. Switch to tab. Ici, ça m'ouvre le tab. Donc là, on peut voir qu'on a ce
+11:5011 minutes et 50 secondestab et il y a euh Aside qui prend le contrôle du tab. Ici, on peut voir qu'on n'est pas connecté alors qu'il pourrait
+11:5811 minutes et 58 secondesse connecter. Connecte-toi, sen now d'abord parce que si on n'est pas connecté, qu'est-ce qu'est-ce qui va se passer ? Enfin sérieusement. Donc là,
+Chapitre 9 : Problèmes de gestion agent
+12:0712 minutes et 7 secondeson a le challenge, c'est qu'on a la page de sign in. Mais je suis One Password, je peux pas le déverrouiller.
+12:1312 minutes et 13 secondesDéverrouiller one password. Summit and Sware. OK, donc là euh comment est-ce que je déverrouille One Password, mon ami ? One password. Password manager.
+12:2312 minutes et 23 secondesPourquoi est-ce qu'il s'ouvre pas ? Si on vient là, qu'on clique sur One Password, one password. OK. Donc ici, là cette fois j'ai
+12:3112 minutes et 31 secondesfait j'ai repris contrôle parce qu'en fait One Password était pas était pas était pas défini. Mais là tu vois que j'ai repris le contrôle de la page et
+12:4012 minutes et 40 secondesdonc ici je sais plus comment lui redonner le contrôle mais c'est une lenteur. Faut faut quand même c'est vraiment des tâches asynchrones, tu vois. Enfin si tu veux faire quelque
+12:4812 minutes et 48 secondeschose et te dire "Bon, let's go, je me lance, je vais regarder mon écran bossé." Ouais ouais. Bah alors là, tu es prêt pour attendre un mois quoi. Pour l'instant, les modèles sont trop lents.
+12:5812 minutes et 58 secondesIl faudrait des Je sais pas, faudrait un Spark ici, un modèle qui va vite. Mais ici, on voit qu'il arrive plus à contrôler mon navigateur, donc je sais pas quoi lui dire. OK. OK. OK. OK. Il se
+13:0613 minutes et 6 secondespasse un truc. Donc ici, on peut voir qu'ici, "Peux-tu ouvrir l'Amazon et mettre ton code ?" Je donne le code.
+13:1513 minutes et 15 secondesAlors, attention, c'est intense là.
+13:1713 minutes et 17 secondesAlors, est-ce que déjà j'ai Amazon sur mon ordinateur ? Ouais, mais il est bloqué. On va l' bloquer. Et là, est-ce que j'ai un security code ? C'est quoi cette histoire ? My Amazon shopping app.
+13:2913 minutes et 29 secondesJe sais pas qu'est-ce qu'il a fait mais c'est insupportable. Il a pas du tout réussi à se sign. Donc est-ce que normalement si je choisis ici Melvin Mal
+Chapitre 10 : Retour sur la performance
+13:3713 minutes et 37 secondes? Voilà, ça doit m'envoyer un code à mon email. Il je sais pas quel compte il a utilisé. Ça envoie un code à l'email. Tu as accès à cette email normalement.
+13:4813 minutes et 48 secondesOuais les gars, c'est d'une lenteur mais c'est Ouais, moi sur ces IA Browsers, j'en ai jamais vu une qui fait le travail et
+13:5713 minutes et 57 secondesj'ai jamais rencontré une seule personne qui utilise ses A browsers. C'est insupportable. Donc je vais abandonner.
+14:0314 minutes et 3 secondesPour moi, c'est de la merde si tu veux mon opinion. Après, je t'invite à tester. Mais je trouve ça d'une lenteur enfin open clos et 100 milliards de fois
+14:1214 minutes et 12 secondesmieux. Mais genre des années lumières, c'est c'est enfin open clos herm agent c'est faire beaucoup plus vite des
+14:1914 minutes et 19 secondesactions. Là c'est d'une lenteur de quoi avoir envie de se tirer les cheveux de ça me rend fou ça m'énerve hein. On a quand même des boutons qui sont cools.
+14:2814 minutes et 28 secondesDonc on a TD qui va j'imagine lister voilà les trucs agent tab et cetera. Quand on fait des new tab tu vois que par défaut c'est en search.
+14:3714 minutes et 37 secondesDonc ça c'est quand même cool parce que du coup là si je fais how to create you state, c'est pas comme Arc qui une fois
+14:4414 minutes et 44 secondessur deux va m'ouvrir cette mort de chat et cette fois on peut voir que il m'ouvre quand même directement le le le
+14:5114 minutes et 51 secondesGoogle et c'est que si tu appuies sur tab que là ça vient changer et là donc j'imagine qu'on peut aussi faire des recherches how to create state hook et
+Chapitre 11 : Navigation et recherche web
+15:0015 minuteslà du coup on va directement utiliser GPT5 c'est un peu une interface pour pouvoir coder avec Lia mais là on peut voir qu'il nous répond directement Donc ça permet aussi de poser des
+15:0915 minutes et 9 secondesquestions, tout ce qu'on peut imaginer de plus simple. Alors quand je fais N, ça fait pas ce que je veux. Et si ici je
+15:1615 minutes et 16 secondesfais un nouveau chat et que je lui dis quel est le dernier match de la France à la Coupe du monde ? Et oui, c'est ça qui
+15:2315 minutes et 23 secondesnous intéresse ou de la Suisse ou de la Suisse, vous voyez quand vous envoyez un autre message, ça le met dans la queue, ce qui est quand même une très bonne interface. Et en général, je trouve que
+15:3215 minutes et 32 secondesce chat, vu qu'ils ont copié codex, l'interface est quand même agréable.
+15:3715 minutes et 37 secondesContrairement à je trouve arc ou c'est pas arc en fait je parle de arc tout le temps mais je parle pas vraiment
+15:4415 minutes et 44 secondesvraiment de arc je parle plutôt de di cette d de diya je trouve que c'est
+15:5215 minutes et 52 secondesinutilisable et là on est quand même sur un truc un peu utilisable que on peut apprécier en tant qu'utilisateur sans se
+16:0016 minutesdire mais qu'est-ce que c'est cette histoire je n'y comprends rien. Bon là, on peut voir que ça m'a répondu ici.
+16:0516 minutes et 5 secondesAwaiting and swear, tu peux me donner le code, j'arrive pas à le faire moi-même. Voilà, il est incapable de rien faire.
+16:1116 minutes et 11 secondesC'est infamme, c'est fatiguant. C'est fatiguant d'incapacité. En plus, pour archiver, ça t'affiche un menu. Il y a rien de plus chiant que quand tu veux
+16:1916 minutes et 19 secondesarchiver des chats et que tu dois cliquer sur 25 boutons. Bon, il y a archive all chat qui est quand même un bouton sympa. Et là, si je fais clear,
+16:2716 minutes et 27 secondesvoilà, ça nettoie tout ça et ça clean un petit peu cette histoire. Là, on a un fichier notion. OK. Bon ben voilà un
+Chapitre 12 : Conclusion et formation
+16:3516 minutes et 35 secondespetit peu. Écoutez, ce browser, il va finir en commande cul à la poubelle jusqu'à que ce soit un peu mieux parce que pour l'instant, on va pas se mentir,
+16:4316 minutes et 43 secondesc'est un peu de la gnognotas, de la gnonotas. De la gnonotas à comprendre à quoi ça sert. Voilà, écoutez, je sais
+16:5016 minutes et 50 secondespas si on me voit en retour. Non, je crois pas qu'on me voit. Mais dites-moi ce que vous en pensez. Si tu as envie d'utiliser un vrai agent, je t'invite à
+16:5816 minutes et 58 secondesutiliser Codex. Et pour utiliser Codex, il y a rien de mieux que d'aller sur mlv.sh/fa
+17:0517 minutes et 5 secondespour formation AI. Et ici, vous allez apprendre à devenir IA Enginer, que ce soit Codex, Cloud Code, Cursor, vous aurez tout au même endroit. C'est
+17:1217 minutes et 12 secondesvraiment une masterclass rejoint par 14000 des fous. 14000 personnes qui rejoint, c'est c'est immense.
+
+Tout
+
+Source : Melvynx
+
+Interface de programmation
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+34:31
+Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.
+Ludo Salenne
+153 vues
+•
+il y a 19 minutes
+Nouveau
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,4 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+17:37
+FABLE 5 EST DE RETOUR
+Neocell
+8 vues
+•
+il y a 14 minutes
+Nouveau
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+102 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 9 mois
+Doublée
+
+
+37:08
+Joueur du Grenier - LOST (feat @edwardretrodecouverte  )
+Joueur Du Grenier
+1,6 M de vues
+•
+il y a 6 mois
+
+
+24:43
+Sonnet est un ÉCHEC ? Nouveau modèle "Agentic" de Claude
+Melvynx
+675 vues
+•
+il y a 1 heure
+Nouveau
+
+
+1:39:42
+Effondrement mondial : nous entrons dans le vide de pouvoir le plus dangereux de l'histoire
+The Diary Of A CEO
+ et Ian Bremmer
+2,9 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+54:35
+La France peut-elle encore éviter une nouvelle étrange défaite ?
+Le Figaro
+162 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+13 M de vues
+•
+il y a 5 mois
+Doublée
+
+3:04:50
+Créer un Business en 2025 [Formation Complète]
+Max Piccinini
+13 k vues
+•
+il y a 1 an
+
+24:59
+Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (hélène & les garçons, Premiers Baisers etc)
+Joueur Du Grenier
+6,4 M de vues
+•
+il y a 6 ans
+
+1:47:04
+Psy keto : Ce que le keto fait à votre corps ! Peut-il guérir 43 % des maladies mentales ?
+The Diary Of A CEO
+2,7 M de vues
+•
+il y a 1 an
+Doublée
+
+29:36
+GLM 5.2 : le PREMIER modèle chinois qui m'impressionne vraiment ?
+Melvynx
+8,4 k vues
+•
+il y a 12 jours
+
+1:35:38
+Hermes Agent en vrai : skills, crons, SEO et support automatisé
+David Schkiwisk - Kavyro
+1,3 k vues
+•
+il y a 2 jours
+Nouveau
+
+    

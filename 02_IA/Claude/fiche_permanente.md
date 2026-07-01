@@ -35,6 +35,7 @@ Elements observes dans la video Parlons IA du 2026-05-29, a confirmer :
 - Risque de produire des resultats non fiables si la demande reste vague ou uniquement conversationnelle.
 - Sensibilite aux longues sequences de contexte si les sources et objectifs ne sont pas controles.
 - Risque de cout eleve si les workflows longs, appels d'outils ou fonctions avancees sont lances sans garde-fous.
+- Le cout reel en usage agentique doit etre mesure par tache terminee, car retries, corrections et tours supplementaires peuvent annuler un prix nominal attractif.
 
 ## 6. Cas d'usage valides
 
@@ -102,6 +103,7 @@ Points a surveiller :
 - statut officiel et comportement reel des fonctions Ultra Code, Ultra Plan, Deep Search et workflows dynamiques ;
 - precision et cout des tres longs contextes ;
 - valeur effective des consoles de suivi de workflow pour l'audit.
+- impact des changements de tokenizer, pricing et limites d'usage sur le cout complet d'un workflow agentique.
 
 ## 13. Decisions strategiques
 
@@ -111,3 +113,4 @@ Ne pas traiter une demonstration video comme validation suffisante d'un cas d'us
 
 - 2026-07-01 - Ajout - Sections 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 - Source YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 5, 9, 12 - Source YouTube Parlons IA Opus 4.8, batch AOS GO partiel
+- 2026-07-01 - Ajout - Sections 5, 12 - Source YouTube Melvynx Sonnet 5, batch AOS GO partiel

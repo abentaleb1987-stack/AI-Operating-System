@@ -1,0 +1,501 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+GPT 5.6 : MIEUX que Fable 5 mais interdit par les USA
+Melvynx
+Melvynx
+61,7 k abonnés
+
+Rejoindre
+
+
+95
+
+
+Partager
+
+Télécharger
+
+Enregistrer
+
+4 230 vues  27 juin 2026  #cursor #ia #claude
+Ma formation IA : https://mlv.sh/3r8VA20
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Présentation des modèles GPT
+3:00 - Analyse du system card
+4:30 - Benchmarks et performances IA
+6:00 - Marché global des modèles
+7:30 - Le nom Sol et polémiques
+9:00 - Régulation et sécurité IA
+10:30 - Conclusion
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+Masterclass sur les SaaS : https://mlv.sh/nowts-masterclass
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx analyse les nouvelles versions Sol, Terra et Luna de GPT 5.6, en examinant leurs performances techniques, leurs capacités de sécurité et leur disponibilité limitée par les autorités américaines. Cette présentation explore également les dynamiques géopolitiques et les conséquences de ces restrictions sur l'accès mondial aux outils d'intelligence artificielle les plus avancés.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,7 k abonnés
+Vidéos
+À propos
+23 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@antoinegeneration9649
+il y a 4 jours
+Dario a raison de sonner l'alarme, le model Mythos n’a pas fait l'objet que de hype, les failles qu’il a trouvé ont été corrigé publiquement, tu peux aller voir, les issues ont précisé corrigé par Mythos etc...
+Le model a été testé par les indépendants de cyber et c’est réel, donc ...
+
+4
+
+
+Répondre
+
+
+@Law_MarshallDow
+il y a 4 jours
+Franchement, on approche des limites des modèles USA. Les modèles chinois vont bientôt prendre le dessus. Mais on garde espoir pour la sortie de GPT 5.6 Sol.
+
+5
+
+
+Répondre
+
+
+2 réponses
+
+@Paletekht
+il y a 3 jours
+me voici
+
+
+
+Répondre
+
+Melvynx
+·
+
+1 réponse
+
+@borisbob
+il y a 1 jour
+J' ai décidé de ne pas renouveler mon abonnement pro si l'offre expire avant la sortie
+
+
+
+Répondre
+
+
+@thelinkofperfectioncharity9469
+il y a 4 jours
+J'espère que le gouvernement US va subventionner leur Chiffre d'affaires pour la suite
+
+
+
+Répondre
+
+
+@Sachapoidom
+il y a 4 jours
+bon bah tant pis pour les states si ils perdent la guerre de lia hein
+
+2
+
+
+Répondre
+
+·
+
+1 réponse
+
+@addDexter
+il y a 4 jours (modifié)
+Le terra luna c aussi une mauvaise histoire en crypto, ceux qui savent savent
+
+
+
+Répondre
+
+
+@commentaire_random-dh5xb
+il y a 4 jours
+heureusement que y a les chinois. on a eu le Opus équivalent Open Source facile d'accès GLM 5.2, on a eu des kimi k2.6, deepseek v4 pro et bientot de nouvelle version encore + avancé donc ça va le monde libre n'est pas mort encore.
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@samboo25
+il y a 4 jours
+Tu fais du multi agent, tu automatises tout, mais le clic droit pour traduire la page c'est pas valable? Franchement t'endendre agoniser quand tu fais toi même ta traduction approximative, ca m'a fait lacher la video.
+
+2
+
+
+Répondre
+
+
+1 réponse
+
+@rychtwins97
+il y a 4 jours
+Non mais serieusement c'est quoi ce delire ?
+
+
+
+Répondre
+
+
+3 réponses
+
+@zyrakin3454
+il y a 4 jours
+Arrete de nous faire peur. Apres avoir testé Fable 5 tout est fade. si on reste que sur ces modèles je stop l'ia 
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@peterblake988
+il y a 3 jours
+Trump a tué le marché de l'ia Étatsunien , il a tué le mythe de l'AGI brandit comme objectif par les boites d'ia Étatsunienne. Aucune boite d'ia Étatsunienne ne peut commercialiser un model supérieur ou égal a fable5. Donc a quoi bon faire mieux.
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00Dans cette vidéo, j'aimerais bien dire que je vais tester le nouveau meilleur modèle d'open GPT 5.6 sol le la
+0:1010 secondesgénération de modèles suivantes. Mais malheureusement, cette vidéo ne va pas tester ce modèle parce que toi et moi ne pouvons pas tester ce magnifique outil.
+0:2121 secondesMalgré que tu sais que j'utilise énormément Codex, que je suis presque maintenant entièrement sur Codex.
+0:2727 secondesNon non non non non, on a un problème.
+0:3131 secondesDario nous a tous [ __ ] la gueule. Alors déjà qu'il a [ __ ] la gueule des Américains. Maintenant plus en tant que européen, si vous avez des comptes.
+0:3939 secondesAlors moi j'ai j'ai tous mes truc aux États-Unis, donc c'est pas très grave euh parce que j'aurai les accès. Mais
+0:4747 secondesqui te dit que même si je suis pas américain mais qui te dit que l'Europe demain ne va même pas avoir les nouveaux modèles si s'il bloque tout ça. Bref,
+0:5656 secondesils ont sorti une preview limitée des modèles GPT 5.6 6 qu'ils ont renommé à
+1:031 minute et 3 secondesau même style que ce qu'a pu faire Claude depuis le début. Donc Sol, le meilleur modèle, Terra, un modèle moyen
+1:121 minute et 12 secondesbalance donc ça veut dire qui satisfait les besoins. Et Luna qui est le fast and affordable model. Terra a été une
+1:231 minute et 23 secondesa une performance compétitive à GPT 5.5 tout en étant deux fois moins cher, ce qui est très très intéressant. Mais le mieux c'est GPT 5.6 Sol qui est le plus
+Chapitre 2 : Présentation des modèles GPT
+1:331 minute et 33 secondesle modèle le plus le meilleur modèle qu'ils ont en sachant qu'ils ont les mêmes choses de la Dario la Dario Erie.
+1:401 minute et 40 secondesLà on a la protection high risque cyb security machin qu'il faut qu'on fasse attention. Donc il pense qu'il faut le
+1:471 minute et 47 secondesrendre accessible à tout le monde. On se rappelle, la boîte s'appelle Open eye qui avait pour but de rendre l'intelligence disponible à tout le monde dans les prochaines semaines.
+1:571 minute et 57 secondesComing weeks Wix les gars, c'est le temps de prendre des vacances. C'est la merde. C'est la merde. Les modèles, il y en a aucun qui sont dispos avec notre
+2:062 minutes et 6 secondesengagement avec les États-Unis, on a rendu nos modèles disponibles avant le lancement. Comme ils ont demandé, on a
+2:132 minutes et 13 secondesrajouté on a on a donné les accès à un petit groupe de partenaires qu'on fait confiance afin de pouvoir le tester
+2:202 minutes et 20 secondesavant de le releas tout le monde. Durant durant cette preview, on va venir se coordonner pour voir la disponibilité
+2:282 minutes et 28 secondesblab blabla. Capabilities, GPT5. Et notre meilleur modèle. On a fait un set of evaluation et cetera et on a le
+2:372 minutes et 37 secondessystem card. Alors, si on va sur le système card, là c'est un truc très intéressant parce que c'est tous les
+2:432 minutes et 43 secondesdétails. Donc très très pas pas juste visuel mais très dans les détails ici de tous ces modèles. Donc ici, violente
+2:512 minutes et 51 secondesillicide behavior extrémiste, hate. Waouh ! Je sais pas quoi, je sais pas quoi en penser. Donc
+2:582 minutes et 58 secondesici, ils font des tests, des tests de sexuel, harassment, violence et cetera pour vérifier que le modèle fait ou non
+Chapitre 3 : Analyse du system card
+3:053 minutes et 5 secondesles choses. Bref, c'est c'est c'est très évidemment technique, mais ce qu'il faut noter, c'est qu'évidemment il est super dans Terminal Bench. Il score meilleur
+3:143 minutes et 14 secondesque GPT 5.6 Sol et surtout de Claude Mythos qui score qui score mieux que GPT
+3:233 minutes et 23 secondes5.6 Terra. et j'ai pété 5.6 terra score mieux que Claud F mais on peut voir que les pourcentages sont tellement faibles que c'est vraiment du détail quoi. C'est
+3:313 minutes et 31 secondesc'est suivant comment il a juste eu un bon RNG sur le coup. Gen bench aussi ici c'est super. Exploite bench c'est super.
+3:403 minutes et 40 secondesExploite gym c'est super. À la différence on a un graphique qui est intéressant. Alors je l'avais mis dans
+3:463 minutes et 46 secondesles tweets. C'est celui-ci. Pourquoi ils admettent sur Exploit Bench qui sont moins bons que Mythos ? On peut voir
+3:533 minutes et 53 secondesqu'ici que GPT 5.6 sol qui se situe là est moins bon que Mythos. On peut se dire mais pourquoi en fait ils nous disent que leur modèle est moins bon que
+4:024 minutes et 2 secondesMythos ? Réponse, Mythos, c'est la barre qui te fait te faire bannir. Ne dépasse pas cette barre. Dire que ton modèle
+4:094 minutes et 9 secondesn'est pas dang n'est pas n'est pas n'est pas dangerous, c'est une technique de survie. Mais un peu ce qui se passe ici
+4:174 minutes et 17 secondesavec GPT 5.6 qui est par relay blab blabla technique de survie de venir garder le modèle pas assez bon pour
+4:244 minutes et 24 secondesdépasser évidemment le le king du bannissement qui est Fable 5. Donc voici un petit peu Ouais, c'est ce graphique
+Chapitre 4 : Benchmarks et performances IA
+4:324 minutes et 32 secondeslà. Juste que moi je suis pas avec le même thème mais c'est ce graphique là.
+4:364 minutes et 36 secondesGPT 5.6 Availability Bench. Donc là, on a tous les meilleurs modèles et on voit les modèles qui sont disponibles. Donc
+4:444 minutes et 44 secondesle premier modèle 5.6 pas disponible, 5.6 sol pas disponible, Claude Mythos 5 non. GPT 5.6 Terra non. Fable 5 non. GPT
+4:534 minutes et 53 secondes5.5 oui. GPT 5.6 Luna, non. Opus non. Ah non, opus, oui, et cetera. Donc là, on se retrouve quand on a l'option de
+5:015 minutes et 1 secondechoisir ici entre euh donc il y en a cinq, il y en a un total de neuf modèles. Sur neuf modèles, il y en a
+5:085 minutes et 8 secondesattention six qui sont euh pas disponibles pour la masse, ce qui est évidemment aberrant de se dire en fait
+5:165 minutes et 16 secondeson se retrouve, on a enfin atteint le point de singularité euh des modèles où on va peut-être plus
+5:235 minutes et 23 secondesjamais tester les meilleurs modèles, hein. Enfin, c'est possible.
+5:285 minutes et 28 secondesjusqu'à que les Chinois relay ce modèle, c'est possible qu'on ne puisse plus tester les meilleurs modèles. Et donc, on a pas mal de tweets drôles. Par
+5:355 minutes et 35 secondesexemple, Chat GPT qui nous dit "Newè on the horizon alors que les modèles ne sont pas disponibles. Merci, merci de
+5:435 minutes et 43 secondesnous donner." À quoi ça sert même de les relays à part créer de la hype ?
+5:475 minutes et 47 secondesÉvidemment, c'est tout le concept de ces boîtes, c'est créer de la hype. OK ? un open a qui lève des fonds. S'ils arrivent à dire "On a un modèle
+5:555 minutes et 55 secondestellement bon que maintenant nous aussi on est bloqué par le gouvernement." Super, voici 100 millions. Avec 100 millions avec 100 millions, ils font rien. Avec 100 millions, ils s'amusent
+Chapitre 5 : Marché global des modèles
+6:046 minutes et 4 secondespendant une après-midi à tourner des Ça ne sert à rien. Hop, voici 10 milliards et va faire va t'amuser. Tu vois euh un
+6:116 minutes et 11 secondesautre graphique intéressant, la partie des tokens entre les US models et les Chinese model. Ici, on peut voir sur
+6:186 minutes et 18 secondesOpen Router qui est le leader des des du routeur des modèles. Donc US Google OpenI enropique. En 2025, ça
+6:266 minutes et 26 secondesreprésentait plus de 60 70 % euh de l'utilisation des modèles. Maintenant, en 2026, ça représente 30 [grognement]
+6:336 minutes et 33 secondeseuh % de l'utilisation des modèles. Il y a ici une vingtaine de pour qui sont pour les autres modèles. Et sinon
+6:406 minutes et 40 secondesmaintenant c'est bien ici 40 % 40 presque 50 % ici des modèles chinois qui
+6:476 minutes et 47 secondessont utilisé dansic Tensen Xiaomi mini max. Très intéressant parce que plus le temps va passer plus des open weight modèles qui peuvent être tournés pour
+6:556 minutes et 55 secondesn'importe qui sur des serveurs chinois russes qui va pas s'amuser à te limiter en fonction de ton passeport risque
+7:047 minutes et 4 secondesd'être plus en plus disponible. On a aussi un énorme troll, c'est que GPT 5.6
+7:127 minutes et 12 secondesSol Terra Luna, en fait, on dirait le nom de même coin. Et il y a Solana qui répond comme ceci euh BRW parce que sol
+7:217 minutes et 21 secondesc'est leur nom de token. Donc quand ici vous faites sol, ça représente la cryptoana qu'on a juste ici qu'on peut
+7:287 minutes et 28 secondesmettre en grand et qu'on peut tweeter en grand. Et cette cryptoana en fait maintenant ça va être le nom d'un token.
+Chapitre 6 : Le nom Sol et polémiques
+7:357 minutes et 35 secondesÇa va être potentiellement le nom du modèle. On va peut-être bientôt considérer Sol comme le nouveau modèle flagship d'Open AI, donc le meilleur modèle d'open AI et Solana va se faire
+7:457 minutes et 45 secondesvoler sans keyword comme jamais. Bref, alors l'avantage c'est que ça représente plus C'est marrant que ce soit sol parce
+7:517 minutes et 51 secondesque Terra Luna, je me demande de quel latin ça vient. Ça doit venir du latin parce que nous on a soleil mais en
+7:587 minutes et 58 secondesAmérique ils ont sun. Donc je me demande bien de quel langage ça vient. Alors évidemment je donc sol c'est le latin
+8:058 minutes et 5 secondespour soleil. Les Romains appelaient le soleil sol notamment à cause du dieu solaire sol invictus. C'est aussi l'origine des mots comme solaires. Terra
+8:148 minutes et 14 secondesc'est le latin pour terre ou sol c'est l'origine des mots comme terrain territoire terrestre. Luna, latin pour lune c'est aussi le nom de la déesse romaine de la lune. On le retrouve
+8:228 minutes et 22 secondeslunaire lunatique et cetera. Donc oui, j'avais raison. Alors, je suis désolé parce que peut-être que je ne connais pas assez euh la vie et les différents détails là-dessus, mais j'avais raison.
+8:328 minutes et 32 secondesOK. Et oh ! OK, pas pas de fight. Euh donc ici, c'est ce qu'on peut voir juste ici, Solterra et Solana qui réagit.
+8:418 minutes et 41 secondesC'était plutôt drôle. Quelqu'un qui dit la même chose avec aussi le Terra.
+8:458 minutes et 45 secondesAlors, je sais pas qu'est-ce que c'est le Terra, c'est une bonne question.
+8:498 minutes et 49 secondesEst-ce que on peut voir qu'est-ce que c'est le Terra directement sur Twitter ?
+8:528 minutes et 52 secondesTwitter qui devient la plateforme pour tout. J'ai pété 5.6 Terra. Il y a un gars, c'est un génie. Il a créé un token Solana pour Terra. C'est un génie. Et
+Chapitre 7 : Régulation et sécurité IA
+9:019 minutes et 1 secondeLuna, Luna, ça existait déjà. Luna by Visual juste ici. Très très très très drôle. Il y a du fun. Et ici, un bon
+9:109 minutes et 10 secondestweet. Thank you for keeping us safe normal people Frontieria. Et maintenant, il y a Dario qui vient te dégommer les
+9:179 minutes et 17 secondesFrontiè. Il a tellement créé de drama et l'entreprise en tropique qui est pour l'humanité de tout ce que tu veux pour l'égalité. Maintenant, commence à faire
+9:269 minutes et 26 secondesl'inverse parce que comme beaucoup de gens disent, quand tu t'amuses à dire à toutes les conférences que l'IA va tous nous dégommer et que c'est la fin du monde, que ce soit vrai ou non, tu vas
+9:349 minutes et 34 secondescréer des peurs et tu vas faire en sorte que un gouvernement comme les États-Unis qui veulent être les plus grandes puissances du monde se disent "Ouais,
+9:429 minutes et 42 secondesc'est vrai que si ça va tous nous dégommer et que si c'était vrai que ça pouvait hacker tous les systèmes au monde en moins de 5 minutes, 30 et
+9:499 minutes et 49 secondescetera et cetera, ouais, on serait sûrement à la à la fin du monde, mais je Je je suis pas sûr que ce soit à ce
+9:579 minutes et 57 secondespoint là. OK. Moi je moi j'y crois pas forcément trop et ça c'est drôle. Model dangerous. Nobody
+10:0510 minutes et 5 secondesunderstand model safety me. Donc ici Dario qui se fait critiquer et attaquer par Trumpy. Je sais pas si c'est la c'est Trump Administration qui fait ça.
+10:1610 minutes et 16 secondesEst-ce que c'est Trump qui doit rien comprendre à Lia qui fait ça ? Je suis pas sûr. Sûr non plus que ce soit du Trump. C'est plutôt du Trump administration. Il y a des il y a des
+10:2410 minutes et 24 secondesgens meilleurs que Trump là-dedans. Mais c'est marrant parce que quand tu penses quand même euh à certains personnes qui
+Chapitre 8 : Conclusion
+10:3110 minutes et 31 secondessont dans All in Podcast, donc David Sax si je me trompe pas. Ah voilà, regardez
+10:3810 minutes et 38 secondesson ancien rôle de César 2025-2026. En décembre 2024, Donald Trump l'avait nommé César de Lia et des cryptonnaies à
+10:4710 minutes et 47 secondesla Maison Blanche. Il avait le statut de employé spécial du gouvernement, ce qu' autorisait à travailler pour l'État au maximum de 130 jours par an tout en restant dans le secteur privé. Son
+10:5410 minutes et 54 secondesdépart récent en mars a annoncé qu'il quittait son poste officiel de conseiller spécial car il avait puisé son quota légal, son rôle consécutif,
+11:0211 minutes et 2 secondesbien qu'il ne soit plus dans l'administration, il a été nommé coprésident de PCAST, le conseil pour la science et la technologie. Donc c'est
+11:1011 minutes et 10 secondesmarrant que ce gars qui est quand même pro innovation se retrouve voilà, ça aurait peut-être été notre sauveur qui aurait éviter que tout ça se fasse
+11:1811 minutes et 18 secondesbloquer. Bref, voilà. Dites-moi ce que vous en pensez dans les commentaires. Il y aura pas de test de modèle et on va se contenter de GPT 5.5. Après, moi en vrai, je m'en fous. GPT 5.5 me fait à
+11:2711 minutes et 27 secondespeu près tout ce que je veux. Donc bon, ça
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Présentations
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+34:31
+Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.
+Ludo Salenne
+153 vues
+•
+il y a 19 minutes
+Nouveau
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,4 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+17:37
+FABLE 5 EST DE RETOUR
+Neocell
+8 vues
+•
+il y a 15 minutes
+Nouveau
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+9:12
+Papy Grenier -  Fallout 3
+Joueur Du Grenier
+8,6 M de vues
+•
+il y a 10 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 9 mois
+Doublée
+
+
+29:36
+GLM 5.2 : le PREMIER modèle chinois qui m'impressionne vraiment ?
+Melvynx
+8,4 k vues
+•
+il y a 12 jours
+
+
+24:59
+Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (hélène & les garçons, Premiers Baisers etc)
+Joueur Du Grenier
+6,4 M de vues
+•
+il y a 6 ans
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+24:43
+Sonnet est un ÉCHEC ? Nouveau modèle "Agentic" de Claude
+Melvynx
+675 vues
+•
+il y a 1 heure
+Nouveau
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+102 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+13 M de vues
+•
+il y a 5 mois
+Doublée
+
+1:39:42
+Effondrement mondial : nous entrons dans le vide de pouvoir le plus dangereux de l'histoire
+The Diary Of A CEO
+ et Ian Bremmer
+2,9 M de vues
+•
+il y a 2 mois
+Doublée
+
+18:48
+On teste toute la carte d'un MANGA CAFÉ au Japon
+Tev & Louis
+147 k vues
+•
+il y a 3 jours
+Nouveau
+
+18:08
+On vient enfin de chiffrer la SINGULARITÉ (et elle est proche)
+Vision IA
+49 k vues
+•
+il y a 2 semaines
+
+1:47:04
+Psy keto : Ce que le keto fait à votre corps ! Peut-il guérir 43 % des maladies mentales ?
+The Diary Of A CEO
+2,7 M de vues
+•
+il y a 1 an
+Doublée
+
+22:06
+LE PAYS OÙ SEGA EST ENCORE ROI
+Bazar du Grenier
+1 M de vues
+•
+il y a 1 mois
+
+    
