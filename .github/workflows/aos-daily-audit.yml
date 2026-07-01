@@ -1,0 +1,41 @@
+name: AOS Daily Audit
+
+on:
+  schedule:
+    # 01:00 Algeria time (UTC+01:00) = 00:00 UTC.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-audit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate daily audit report
+        run: python 00_System/scripts/aos_daily_audit.py
+
+      - name: Commit audit report if changed
+        run: |
+          if git diff --quiet -- 00_System/audits/daily/ && [ -z "$(git ls-files --others --exclude-standard 00_System/audits/daily/)" ]; then
+            echo "No daily audit report changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 00_System/audits/daily/
+          git commit -m "docs(aos): add daily audit report"
+          git push origin main
