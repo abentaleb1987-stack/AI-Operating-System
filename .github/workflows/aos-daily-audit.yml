@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+env:
+  PYTHONUTF8: "1"
+  LANG: C.UTF-8
+  LC_ALL: C.UTF-8
+
 jobs:
   daily-audit:
     runs-on: ubuntu-latest
@@ -18,6 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,11 +31,7 @@ jobs:
           python-version: "3.x"
 
       - name: Generate daily audit report
-        run: |
-          python 00_System/scripts/aos_daily_audit.py --print-path
-          git status --short
-          git ls-files --others --exclude-standard 00_System/audits/daily/
-          ls -la 00_System/audits/daily/
+        run: python 00_System/scripts/aos_daily_audit.py --print-path
 
       - name: Commit audit report if changed
         run: |
