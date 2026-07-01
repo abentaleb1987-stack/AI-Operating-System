@@ -47,6 +47,11 @@ Termine par le rapport final complet.
 - Utiliser `docs(aos): integrate multi-source AI watch batch` si plusieurs categories ou plusieurs IA sont traitees.
 - Si une source echoue sans risque critique, ne pas la deplacer vers `traitees/`, continuer les autres sources et mentionner l'echec dans le rapport consolide.
 - Si une erreur critique apparait, arreter le batch, ne pas commit, ne pas push, et produire un rapport de blocage.
+- Avant de deplacer une source vers `traitees/`, generer un nom lisible base sur le sujet reel detecte.
+- Ne pas conserver le nom d'entree s'il est generique ou trompeur.
+- Pour les videos, utiliser le format `YYYY-MM-DD_youtube_nom-chaine_sujet-video_transcript.txt`.
+- Mettre le nom final en minuscules, sans accents, sans caracteres speciaux, avec tirets.
+- Si deux sources produisent le meme nom final, ajouter `_01`, `_02` ou `_03` avant `_transcript.txt`.
 - A la fin du batch, executer `git status --short`, `git add .`, un seul commit global, `git push origin main`, puis `git status --short`.
 - Produire un rapport final consolide clair.
 
@@ -63,6 +68,9 @@ Le rapport final d'un batch doit contenir :
 - fiches permanentes modifiees ;
 - sections modifiees ;
 - sources deplacees ;
+- nom source initial ;
+- nom source traite final ;
+- chemin final dans `traitees/` ;
 - connaissances integrees ;
 - connaissances non integrees ;
 - points a surveiller consolides ;

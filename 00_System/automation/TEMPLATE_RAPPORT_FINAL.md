@@ -12,6 +12,12 @@
 
 - {{Source traitee}}
 
+## Nommage des sources traitees
+
+- Nom source initial : {{Nom source initial}}
+- Nom source traite final : {{Nom source traite final}}
+- Chemin final dans traitees : {{Chemin final traitees}}
+
 ## Sources echouees
 
 - {{Source echouee}} - {{Cause}} - {{Action}}
@@ -25,6 +31,9 @@
 - Fiche permanente modifiee : {{Fiche permanente ou Non}}
 - Sections modifiees : {{Sections}}
 - Source deplacee : {{Oui / Non}} - {{Chemin destination}}
+- Nom source initial : {{Nom source initial}}
+- Nom source traite final : {{Nom source traite final}}
+- Chemin final dans traitees : {{Chemin final traitees}}
 - Decision source : {{GO / A surveiller / Rejete / Echec}}
 
 ## IA / outils detectes
@@ -67,7 +76,7 @@
 
 ## Sources deplacees
 
-- {{Chemin source}} -> {{Chemin traitees}}
+- {{Nom source initial}} -> {{Nom source traite final}} -> {{Chemin traitees}}
 
 ## Git
 

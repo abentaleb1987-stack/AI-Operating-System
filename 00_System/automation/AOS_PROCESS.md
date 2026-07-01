@@ -140,6 +140,55 @@ Une source peut produire :
 
 Chaque fiche de veille doit rester centree sur une seule IA, un framework IA ou un outil IA.
 
+## Renommage des sources traitees
+
+Avant de deplacer une source brute vers `traitees/`, Codex doit generer un nom lisible a partir du sujet reel detecte.
+
+Le nom du fichier d'entree ne doit pas etre conserve s'il est generique ou trompeur.
+
+Pour les videos, le format obligatoire est :
+
+```text
+YYYY-MM-DD_youtube_nom-chaine_sujet-video_transcript.txt
+```
+
+Regles de nommage :
+
+- utiliser la date de traitement ou la date de collecte si elle est deja connue ;
+- utiliser la plateforme detectee, par exemple `youtube` ;
+- utiliser la chaine YouTube detectee ;
+- utiliser le sujet reel de la video, pas le nom generique du fichier d'entree ;
+- convertir le nom final en minuscules ;
+- supprimer les accents ;
+- supprimer les caracteres speciaux ;
+- remplacer les espaces et separateurs par des tirets ;
+- conserver uniquement lettres, chiffres, tirets et underscores techniques ;
+- terminer obligatoirement par `_transcript.txt`.
+
+Exemples :
+
+- `2026-07-01_youtube_parlons-ia_claude-opus-4-8-workflows_transcript.txt`
+- `2026-07-01_youtube_mike-codeur_hermes-vps-tailscale-openwebui_transcript.txt`
+- `2026-07-01_youtube_labo-des-reseaux_gemini-3-guide_transcript.txt`
+
+Si deux fichiers produisent le meme nom final, Codex doit ajouter un suffixe avant `_transcript.txt` :
+
+- `_01`
+- `_02`
+- `_03`
+
+Exemple :
+
+```text
+2026-07-01_youtube_parlons-ia_claude-code-agentique_01_transcript.txt
+```
+
+Le rapport final doit afficher pour chaque source :
+
+- nom source initial ;
+- nom source traite final ;
+- chemin final dans `traitees/`.
+
 ## Fiches transversales
 
 Les fiches transversales comme `Agents IA`, `Orchestration IA`, `MCP` ou `Standards IA` ne doivent pas etre modifiees a chaque mention secondaire dans une source.
@@ -246,6 +295,9 @@ A la fin, Codex doit afficher un rapport contenant :
 - connaissances non integrees ;
 - points a surveiller ;
 - source deplacee vers traitees ;
+- nom source initial ;
+- nom source traite final ;
+- chemin final dans `traitees/` ;
 - hash du commit ;
 - resultat du push ;
 - resultat final de `git status --short` ;
@@ -262,6 +314,9 @@ Pour un batch, le rapport consolide doit obligatoirement contenir :
 - fiches permanentes modifiees ;
 - sections modifiees ;
 - sources deplacees ;
+- noms sources initiaux ;
+- noms sources traites finaux ;
+- chemins finaux dans `traitees/` ;
 - connaissances integrees ;
 - connaissances non integrees ;
 - points a surveiller consolides ;
