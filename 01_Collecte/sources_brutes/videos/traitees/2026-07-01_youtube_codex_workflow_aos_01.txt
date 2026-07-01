@@ -1,0 +1,973 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+3
+
+Image d'avatar
+Gemini 3 5 flash: Comment mieux utiliser l'IA agentique ?
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+406
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+2 620 vues  5 juin 2026
+Découvrez les secrets de l'utilisation de l'IA agentique avec la formation Gemini 3 5 flash. Dans cette vidéo, nous allons vous montrer comment mieux utiliser l'IA pour améliorer vos processus et augmenter votre productivité. Nous allons discuter des dernières nouvelles et mises à jour sur Google Gemini, ainsi que des meilleures pratiques pour utiliser les prompts ChatGPT et l'ingénierie de prompt pour obtenir des résultats optimal. Que vous soyez débutant ou expert en matière d'intelligence artificielle, cette formation Gemini 3.5 flash vous aidera à comprendre comment utiliser l'IA pour votre entreprise ou votre projet personnel. Vous apprendrez comment créer des prompts efficaces pour ChatGPT, comment utiliser l'automatisation de l'IA pour gagner du temps et comment comparer les fonctionnalités de Gemini 3.5 et ChatGPT. Rejoignez-nous pour découvrir les possibilités infinies de l'IA avec Gemini 3.5 et commencez à utiliser cette technologie puissante pour atteindre vos objectifs.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+Chaîne YouTube :    / @iaexpliquee.x  
+Chaîne Dailymotion : https://dailymotion.com/formation.ai87
+Podcast : https://spoti.fi/4dqZ3uO
+Blog :   / flma1349  
+
+📲 Réseaux & contact
+X / Twitter : https://x.com/ParlonsIAx
+TikTok :   / parlonsia  
+
+🧪 Outils IA à tester
+Coder Agent IA : https://bit.ly/Coder_agentiA
+Short AI : http://bit.ly/4lzE782
+SEO Agent IA : https://urlr.me/P8AS5N
+ — 🎁 -25 % avec le code PARLONSIA25
+
+Découvrez les secrets de l'utilisation de l'IA agentique avec Gemini 3 5 flash, la dernière version de l'assistant d'intelligence artificielle de Google. Dans cette formation, nous allons vous montrer comment mieux utiliser l'IA pour améliorer votre productivité et votre efficacité. Vous apprendrez les bases de la prompt engineering avec ChatGPT et Gemini, ainsi que les dernières nouvelles et tendances en matière d'IA. Nous comparerons également les fonctionnalités de ChatGPT et Gemini, pour vous aider à choisir l'outil qui convient le mieux à vos besoins. Que vous soyez un débutant ou un expert en IA, cette formation vous permettra de maîtriser les outils d'automatisation d'IA et de devenir un expert en prompt engineering. Vous découvrirez comment utiliser Gemini 3.5 pour créer des contenus de haute qualité, automatiser des tâches répétitives et améliorer vos processus de travail. Ne manquez pas cette opportunité d'apprendre à utiliser l'IA pour améliorer votre vie professionnelle et personnelle. Nous allons vous expliquer comment utiliser Gemini 3.5 flash pour atteindre vos objectifs et vous donner les outils nécessaires pour devenir un expert en IA.
+
+Découvrez comment utiliser l'IA agentique avec Gemini 3 5 flash pour améliorer votre productivité et votre efficacité. Cette formation vous guide à travers les fonctionnalités avancées de Gemini 3.5 et vous apprend à créer des prompts pour ChatGPT et d'autres outils d'IA. Vous allez apprendre comment utiliser l'IA pour automatiser des tâches répétitives et comment créer une agence d'automatisation d'IA pour booster votre entreprise. Nous allons également comparer les fonctionnalités de Gemini 3.5 avec celles de ChatGPT et vous montrer comment utiliser ces outils pour améliorer vos compétences en matière d'IA. Que vous soyez un débutant ou un expert en IA, cette formation vous aidera à comprendre comment utiliser Gemini 3.5 flash pour atteindre vos objectifs. Rejoignez-nous pour apprendre à utiliser l'IA de manière efficace et découvrir les dernières nouvelles en matière d'IA avec Google Gemini.
+Parlons IA explore les stratégies pour optimiser les coûts et l'utilisation des crédits liés aux modèles d'intelligence artificielle agentique. Cette analyse technique présente des méthodes de structuration de prompts avancées et des solutions pratiques pour maintenir la productivité tout en gérant efficacement les ressources au sein des écosystèmes Google et des interfaces CLI.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+31 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 2 semaines
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr 
+ -40 % sur les IA 👉: https://www.subifyhub.com/product-detail/69a852b8f438449fdb59dbeb 👉  +92 327 234 18 39   I  -40 % sur les IAt +10 % de remise Ajoute le code NYQVY  via ce lien :  https://www.gamsgo.com/partner/gcjmX
+
+
+
+Répondre
+
+
+@user-uv8su5es4o
+il y a 3 semaines
+Explications sur la language au top.
+
+A mon sens, vous avez tout à fait raison de rappeler et insister sur le fait qu'une IA communique avec nous au moyen d'un modèle.
+
+Dans mon milieu professionnel (industrie/énergie), la communication entre les personnes est entravée par les intérêts et susceptibilités de chacun. Ceci amène à de l'incertitude et de l'incompréhension.
+
+Convenir d'un univers de dialogue entre utilisateurs/ia semble essentiel. Je me demande d'ailleurs s'il est possible de restreindre l'ia de manière certaine dès l'enclenchement de la discussion ?
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@quentin7952
+il y a 3 semaines
+Je trouve qu'il faut choisir son et ia et des ia spécialisé selon les projets perso, enfin je fais ça
+
+1
+
+
+Répondre
+
+Parlons IA
+·
+
+7 réponses
+
+@alixf7648
+il y a 3 semaines
+Cool
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@JG-vw7iy
+il y a 2 semaines (modifié)
+Alors pour répondre à ta question, j’utilise beaucoup gemini 3.5 Flash pour créer des composants rapidement, mais il est IMPÉRATIF de mettre l’option canvas quand tu sais que dès le départ tu veux voir le résultat. Autre point de vigilance et ça ça peut te rendre fou, il faut impérativement faire un copier-colle du code dans un fichier à minima type .txt car il est incapable de faire machine arrière, surtout quand tu veux revenir à une version quand l’évolution suivante  ne correspond pas à ce que tu souhaitais. En tout cas, c’est comme ça que je l’utilise pour le moment, ah oui au-delà d’un fichier de 2000 lignes il commence à perdre les pédales, il vaut mieux faire un copier-coller du code tu relances un conversation sans oublier de mettre Canvas et tu lui demandes de reconstituer le code et là tu peux poursuivre le dev
+
+1
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@hadjbelmedjahed4512
+il y a 3 semaines
+merci beaucoup pour tout ces effort, je voulais savoir si j'utilise antigravity ide au lieu de cli, est ce que ça fonctionne si je me logout et je change de compte et est ce que ça fonctionne avec plusieurs compte ou c'est limité
+
+
+
+Répondre
+
+Parlons IA
+·
+
+4 réponses
+
+@laurentdias6555
+il y a 3 semaines
+Bonjour, j'aurais besoin d'une info dans la mesure du possible . je travaille sur mon projet de societe avec cowork. Et depuis hier j'ai un message qui s'affiche sur toute mes conservastions API error : unable to connect to API ( econnreset) . avez vous une solution pour me debloquer ce probleme. merci !
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@AdrienVercaempst
+il y a 3 semaines
+Gemini va très vite mais delivre de manière pauvre même en chat classique. Il oublie parfois après 2-3 questions. Il n'est pas très critique comme claude. Bref coder avec sûrement pas.
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@DupontDupont-m4q
+il y a 11 jours
+Gimini j'utilise plusieurs AI jai  le pro une grosse grosse merde en recherche et imagerie je suis tres tres decu....je deconseille fortement en ce qui conserne le code la.je peu pas dire.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Comment bien utiliser Gemini 3.5 Pro ?  C'est exactement le sujet de cette vidéo, 
+0:06
+car les choses ont changé. Jusqu'à  maintenant, on était sur des forfaits  illimités. On pouvait travailler tout  le temps, quand on voulait, avec Gemini, 
+0:15
+mais les choses viennent de changer,  et un abonnement plus un autre plus un  autre encore, ça commence à peser  lourd sur le budget des salariés mais 
+0:24
+également des entreprises. On doit  réinventer les entreprises, recâbler notre  cerveau pour le rendre complémentaire  avec l'intelligence artificielle. Et 
+0:32
+maintenant qu'on avait tous pris  l'habitude de travailler en quasi-illimité,  tout à coup, on se retrouve bloqué,  bloqué pendant une semaine pour pouvoir 
+0:41
+continuer notre travail. Et pourtant,  j'ai un plan Pro. J'ai donc trouvé des  solutions pour pouvoir débloquer des  crédits supplémentaires et on va parler de 
+0:51
+comment optimiser l'utilisation de l'IA  à travers le prompt, les forfaits, la 
+0:57
+manière de l'utiliser, et c'est exactement   ce dont on va parler dans cette vidéo : comment bien utiliser Gemini 3.5 Flash.
+1:08
+L'arrivée de Gemini 3.5 Flash signe  l'arrivée de Google dans l'écosystème 
+1:16
+agentique. On a donc maintenant l'arrivée  d'Antigravity 2.0, Antigravity CLI, 
+1:23
+Antigravity IDE et SDK. Ce qui change,  c'est que Gemini 3.5 Flash n'est pas 
+1:29
+simplement un LLM qui va répondre à  des questions, c'est un moteur qui va  prendre des décisions, utiliser des outils  pour accomplir du travail. Et ça, ça 
+1:39
+change la dynamique de consommation de  ce qu'on appelle des tokens. Tout le  marché est orienté aujourd'hui vers  les systèmes agentiques, pour avoir des 
+1:48
+agents IA. Vous êtes en train de devenir  des managers, des managers d'agents IA. 
+1:54
+Donc, tout le monde sera le patron d'une  équipe. Simplement, ce ne sera pas une  équipe d'humains, ce sera une équipe  d'assistants IA. Doit-on avoir peur de 
+2:00
+tout ça ? Non, pas du tout, ça ne fait  pas du tout peur. Va-t-on entrer en  compétition avec la machine ? Non, je  ne pense pas non plus. La position que  l'on va avoir vis-à-vis des machines,  c'est que nous allons être leur boss. Donc 
+2:07
+l'attitude que tout un chacun aura, c'est  que quand tu travailles avec tous ces  agents, c'est comme si tu avais une  équipe de jeunes experts qui travaillaient 
+2:13
+avec toi. Ils ne sont pas parfaits, tu  dois corriger de temps en temps, mais  c'est comme si tu étais le patron d'une  équipe. C'est exactement ce qui est en 
+2:24
+train de se passer dans le monde du  travail et dans le monde du business : vous  allez être de plus en plus confrontés  à gérer des salariés virtuels auxquels 
+2:33
+vous allez devoir donner des ordres.  C'est exactement ce qui va se passer avec  l'arrivée de Genspark. Mais aujourd'hui,  il est réservé uniquement aux comptes 
+2:41
+Ultra, aux comptes les plus  chers. Pourquoi ? Parce que   ces systèmes coûtent très cher en tokens.
+2:47
+Parlons justement des abonnements. La  plupart des gens connaissent simplement  l'abonnement classique, le Plus, le  Google AI Pro et le Google Ultra. Le 
+2:56
+changement principal, c'est que le système  Ultra maintenant se décline de deux  manières. Vous avez un système Ultra  qui permet d'avoir des limites 10 fois 
+3:05
+supérieures au forfait Pro pour 99 € par  mois, et vous avez toujours le forfait 
+3:11
+à 219 € par mois qui permet des limites  20 fois plus élevées que l'AI Pro. Mais 
+3:17
+ce n'est pas tout. Pour pouvoir utiliser  ces nouveaux systèmes agentiques, vous  avez également ce qu'on appelle des crédits  de génération d'images et de vidéos. 
+3:26
+Mis bout à bout, tous ces forfaits  commencent à représenter une certaine somme,  environ 220 € par an. C'est là que j'ai  dû trouver des solutions alternatives. 
+3:35
+Et d'ailleurs, si vous voulez, vous pouvez  faire comme certains, aller sur cette 
+3:41
+référence, sur ce site, et pouvoir  obtenir un accès à l'année pour le prix de 
+3:47
+deux mois et demi. Et c'est exactement  ce que permet de faire le système Ultra, 
+3:52
+le modèle Ultra à 219 € avec les 25 000  crédits, avec 20 fois plus de tokens que 
+4:00
+le système AI Pro avec cette interface-là.  Je vous en parle parce que j'en ai 
+4:05
+pris un et ça m'a permis de vraiment  avancer dans le travail. Et ça, c'est le 
+4:11
+premier point qui permet de faire des  économies. Quand on doit travailler et  qu'on doit multiplier les forfaits avec  Claude, ChatGPT, Gemini, on se rend vite 
+4:20
+compte qu'on est complètement devenu  dépendant de l'intelligence artificielle.  Au-delà des forfaits Google AI Pro et  Ultra, il y a en fait aussi les forfaits 
+4:30
+entreprise, moins connus en ce moment.  Il y a une offre d'essai de 14 jours 
+4:36
+avec 50 % de réduction sur le Workspace  pour les trois premiers mois, ce qui  vous amène grosso modo à moins d'une  vingtaine d'euros par mois pour avoir un 
+4:46
+forfait entreprise avec l'accès à  l'écosystème Gemini. C'est l'équivalent  d'avoir un Gemini Pro version entreprise.  C'est-à-dire que, avant tout, vous 
+4:55
+avez de la visioconférence, des adresses  mail et quelques outils supplémentaires 
+5:00
+qui sont orientés plutôt entreprise  que grand public. Certains d'entre vous 
+5:06
+auront donc également intérêt à regarder  ce type de forfait, surtout qu'en ce  moment vous bénéficiez de 14 jours d'essai.  Si cette vidéo vous plaît, n'hésitez 
+5:15
+pas, si vous voulez la soutenir, à laisser  un commentaire de qualité, un like, 
+5:20
+un boost, ce sera très apprécié.  Et on continue la vidéo ensemble. Avec l'écosystème Google, on a l'arrivée  d'Antigravity 2.0, CLI, IDE, SDK. Il y 
+5:34
+en a tellement qu'on ne saurait pas  lesquels choisir. Mais ce que je peux vous  dire aujourd'hui, c'est que je vais vous  montrer comment installer la version 
+5:41
+CLI. Pour le système CLI, vous avez  besoin en fait de sept lignes de commande.  Si vous êtes sous Windows, vous prenez  la ligne de Windows, vous la copiez, et 
+5:49
+c'est là que je vais vous montrer une  astuce absolument géniale. J'étais en  train de travailler, de coder avec  l'interface de Gemini 3.5 Flash et tout à 
+5:57
+coup, j'ai reçu le fameux message :  "Vous n'avez plus de crédit, vous avez  épuisé tous vos crédits. Rendez-vous la  semaine prochaine." Alors, le travail 
+6:05
+n'attend pas. Vous avez bien compris  qu'aujourd'hui Google Gemini 3.5 Flash a un  objectif : c'est de vous faire  acheter des tokens. Si on fait un bref 
+6:14
+comparatif, Gemini 3.5 Flash coûte  en entrée 1,50 $ et en sortie 9 $ par 
+6:20
+million. Globalement, ce que je peux  vous dire, c'est que le prix est très  acceptable comparé notamment à ChatGPT  5.5, qui est à 5 $ en entrée et 30 $ en 
+6:30
+sortie, ou Claude Opus, à 7,50 $ en  entrée et 37,50 $ en sortie. Et c'est sans 
+6:36
+compter l'arrivée d'un outsider, le  MiniMax 3, qui aujourd'hui est encore en 
+6:41
+promotion jusqu'à la fin de la semaine.  Avec -50 % sur les tarifs affichés au  prix du token, c'est-à-dire 25 centimes  en entrée et 1,50 $ en sortie, il est 
+6:52
+pratiquement équivalent au 3.5 Flash.  Mais pour ceux qui veulent travailler avec  Gemini, vous l'avez compris, Google est  en train de vous pousser à consommer du 
+7:00
+token. Alors, que vaut ce système Gemini  3.5 Flash ? Comment l'utiliser ? Et 
+7:07
+comment peut-on encore un petit peu  optimiser si, à un moment, vous êtes bloqué  en train de travailler sur Antigravity  CLI ? Je vais vous donner une astuce. 
+7:15
+Tous ceux qui veulent installer Antigravity  CLI, je vous montre comment faire.  Vous allez dans VS Code, dans la section  du terminal juste en bas, vous cliquez 
+7:24
+sur le terminal et vous allez entrer  la ligne de code qui correspond à votre  interface. Dans mon cas, ce sera PowerShell.  Vous tapez Entrée et vous laissez 
+7:33
+le processus s'installer. Une fois que  l'interface est installée, vous allez  simplement taper le mot "agi", valider  par Entrée sur votre clavier et vous 
+7:43
+allez lancer votre interface Antigravity  CLI. Pour avoir l'ensemble des  commandes, vous allez faire une barre  oblique et vous allez voir défiler 
+7:51
+l'ensemble des commandes. Ce qui va vous  intéresser, c'est la commande "config"  qui va vous permettre d'activer la  verbosité du raisonnement du modèle. Vous 
+8:00
+pouvez le configurer en "high" ou "medium"  et vous pouvez également le mettre en  permission "always proceed". C'est-à-dire  qu'il va automatiquement lancer les 
+8:08
+outils sans vous interrompre continuellement.  Si vous avez besoin de changer de  modèle, vous tapez barre oblique "model",  puis Entrée, et vous choisissez le 
+8:15
+modèle. Vous allez remarquer que vous  allez avoir accès à Claude Sonnet 4.6 et  Claude Opus 4.6, mais il m'est arrivé  très souvent de ne pas avoir accès à ces 
+8:22
+modèles, faute de disponibilité face à  de trop nombreuses demandes. En général, 
+8:27
+c'est assez difficile de pouvoir  travailler avec Sonnet 4.6 ou Opus 4.6 dans 
+8:33
+Claude 4.8 CLI. Alors, comment faire  pour débloquer la situation, celle qui 
+8:39
+m'est arrivée : j'étais en train de  bosser et tout à coup j'ai épuisé mes  crédits. Je vais vous montrer comment  j'ai fait : j'ai simplement tapé la 
+8:44
+commande "logout". Avec "logout", je  suis sorti de ma connexion, et l'outil va  vous demander de vous authentifier avec  un compte Google. C'est assez fréquent 
+8:54
+que l'on puisse utiliser des comptes  secondaires. Donc tout simplement, avec un  compte secondaire, vous allez lancer  l'authentification. Une fenêtre va 
+9:06
+s'ouvrir, vous allez copier le  code, le coller dans l'interface, et  automatiquement, il va vous proposer de  vous connecter à tous les comptes Google 
+9:15
+que vous possédez. C'est comme ça que  vous allez récupérer le code de connexion. 
+9:20
+Vous allez le coller juste en dessous,  valider par Entrée, et le tour est joué.  Vous avez à nouveau accès à un autre  compte. Et la particularité de Claude 
+9:31
+Antigravity, c'est que vous pouvez stocker  tout ce que vous avez fait en local, 
+9:36
+et toutes les conversations que vous  avez eues, vous allez pouvoir les  récupérer. Je vais vous montrer comment  faire. Donc ici déjà, vous pouvez 
+9:43
+vérifier que vous avez à nouveau des  requêtes qui sont gratuites (vous en avez  environ une vingtaine dans la journée).  C'est toujours ça pour pouvoir terminer 
+9:50
+un travail qui est en cours. Et pour  reprendre une conversation que vous aviez  précédemment, vous faites "resume",  vous recherchez la conversation, vous 
+9:57
+cliquez sur Entrée pour récupérer une  discussion d'une autre session et vous  reprenez le travail en cours. C'est  exactement comme ça que j'ai pu terminer 
+10:06
+cette partie de codage. Pour ceux qui  vont disposer du cours de niveau 3, je  vous ai codé ce qu'on appelle une  "status line" (je vous mets toutes les 
+10:15
+explications dans le cours). C'est une  barre de contrôle de contexte. Elle vous 
+10:22
+indique combien de requêtes il vous reste  en cours, combien de tokens vous avez  utilisés, et quel est le modèle que vous  êtes en train d'utiliser. Cela permet 
+10:30
+de suivre les choses de manière plus  précise. C'est quelque chose qu'on peut  faire facilement avec Claude 4.8, un  peu moins avec Codex, et c'est assez 
+10:38
+compliqué à mettre en place avec Gemini.  Je vous ai déjà tout codé. Donc je  change de système, et automatiquement,  vous savez le modèle que vous avez, le 
+10:45
+contexte qui vous reste, bref, vous êtes   capable de suivre et de suivre précisément votre consommation,   et c'est vraiment le point capital. Aujourd'hui, il faut optimiser votre  
+10:53
+manière de travailler avec l'IA, et pour cela, il faut savoir s'en servir. C'est  
+10:58
+pour ça qu'on va parler maintenant de prompt engineering et des capacités de ce modèle. J'ai effectué quelques tests pour comparer  l'évolution de Gemini 3.5 Flash avec 
+11:07
+le Gemini 1.5, et j'ai été agréablement  surpris. Mais je vais vous révéler 
+11:13
+également les failles de Gemini 3.5  Flash. Premier test : je lui ai demandé de 
+11:18
+coder un jeu, et le simple fait de comparer  le rendu visuel entre le Gemini 1.5 
+11:25
+qui se trouve à droite et le Gemini  3.5 Flash vous montre déjà le saut 
+11:31
+technique. Je suis en train de le guider  simplement avec ma souris : c'est hyper  fluide, c'est très agréable. Vous avez  en plus le son, c'est très jouable, c'est 
+11:39
+vraiment bien rendu. Il y a une belle  évolution au niveau du gaming. Vous avez 
+11:47
+la possibilité d'acquérir des options  pour faire évoluer votre système, chose  que vous n'avez pas sur l'autre modèle  qui est beaucoup plus basique. On voit 
+11:55
+qu'on a une très belle évolution au niveau  de la partie code. Ce qui est plutôt  cool, c'est que l'un et l'autre ont  fonctionné du premier coup, on se croirait 
+12:04
+vraiment dans une petite salle d'arcade  en train de jouer. Mais il faut aussi  vous montrer les limites de Gemini 3.5  Flash. J'ai demandé à Gemini 3.5 Flash de 
+12:15
+me créer une infographie qui mettait  en scène les modèles Transformers, les 
+12:21
+mécanismes neuronaux de l'IA. Et là,  j'ai remarqué deux problèmes assez  récurrents. Premièrement, l'image n'a  strictement rien à voir avec le sujet. Il 
+12:29
+a mélangé des concepts de bobines  d'électricité avec les modèles Transformers. 
+12:35
+Si on fait exactement la même demande  à ChatGPT : "génère une infographie" en  lui fournissant un prompt très basique  (l'objectif pour moi étant de voir s'il 
+12:43
+est capable de se débrouiller de manière  autonome, de comprendre le contenu et 
+12:50
+le contexte pour générer du travail  sans qu'on ait à lui donner une infinité  d'explications), regardons le résultat  que va nous donner ChatGPT. Je peux déjà 
+12:59
+vous montrer ce qui s'est passé lorsque  j'ai fait réaliser des infographies à  Gemini Flash 3.5. C'est le rendu que m'a  donné Gemini 3.5 Flash avec Imagen 3. 
+13:11
+Mais je devez vous dire que ce que  m'a fait Gemini, Imagen 3, et la 
+13:18
+compréhension du contexte n'ont vraiment  rien à voir avec ce que fait ChatGPT.  Pour moi, il y a une nette différence  de qualité, à la fois sur le plan de la 
+13:25
+représentation, sur la partie graphique  et sur la clarté, en faveur de ChatGPT  par rapport à ce qu'a pu nous donner  Gemini 3.5 Flash accompagné d'Imagen 3. On 
+13:35
+va maintenant comparer comment ChatGPT  5.5 va générer l'infographie : s'il a 
+13:41
+bien compris qu'il y a différents blocs  qui parlent d'intelligence artificielle,  d'architecture Transformer et de  pré-entraînement. Là, on a exactement le sujet 
+13:50
+que l'on traite et, il faut être  honnête, ChatGPT me paraît beaucoup plus 
+13:55
+performant. À mon sens, d'après mon  expérience, j'ai l'impression que le système 
+14:01
+neuronal de Gemini a été entraîné pour  aller très vite, mais qu'en conséquence, 
+14:07
+il fait parfois des erreurs de compréhension,  d'association, ce qui mène à des 
+14:13
+hallucinations ou des contresens. Cela  doit nous alerter, parce que Google 
+14:19
+aujourd'hui a très clairement fait un  choix : basculer l'immense majorité des 
+14:25
+utilisateurs sur Gemini 3.5 Flash et  réserver Gemini 3.5 Pro aux forfaits Pro et 
+14:31
+Ultra (les forfaits à 99 € ou 219 € que  vous pouvez parfois utiliser). Sur le 
+14:43
+plan visuel, ils ont fait un effort et  je vais vous expliquer comment arriver à  ce type de résultat sur le plan graphique  et de l'animation. Mais c'est un 
+14:51
+modèle dont il faut surveiller les  limites : il est très vite saturé. Dès que  vous lui envoyez du contexte lourd à  travailler, comme le système neuronal doit 
+15:00
+faire des choix, il fait des impasses,  avec pour conséquence des risques  d'hallucinations. Ce manque de clarté,  on le retrouve au niveau du rendu dans 
+15:09
+certaines conditions. Attention, il est  très bon dans certaines situations, mais  j'ai eu du mal à lui faire lancer  l'intégration Canva lors de mon travail. 
+15:18
+Dites-moi en commentaire si vous rencontrez  le même problème : je lui demande  très clairement de lancer Canva, de  sélectionner l'option Canva, et je suis 
+15:30
+obligé de l'écrire de manière tout à fait  explicite ("Ouvre Canva" au démarrage  ou en fin de prompt) pour que le modèle  m'active l'interface Canva. À ce sujet, 
+15:39
+je vais vous expliquer comment faire  ces mises en page très bien réussies par 
+15:45
+Gemini 3.5, car il y a beaucoup d'animations  au niveau du rendu graphique, et 
+15:53
+c'est le sujet qu'on va traiter après  : comment bien prompter avec Gemini 3.5 
+15:58
+Flash. Pour optimiser à la fois le coût des  tokens et le forfait que va coûter à 
+16:05
+l'entreprise l'utilisation de l'IA, il  faut changer votre manière de l'utiliser.  J'ai demandé à Gemini 3.5 Flash de me  faire un cours sur l'optimisation des 
+16:16
+prompts basé sur la documentation  officielle de Google. Je vous montre cette 
+16:21
+présentation parce que sur le plan  graphique, je trouve qu'elle est bien  aboutie, dynamique, et qu'elle propose  des animations et des effets visuels 
+16:31
+intéressants par rapport à d'autres IA.  Pour obtenir ce type de résultat, je 
+16:38
+vais comparer cela avec ce qu'il a été  possible de faire avec ChatGPT 5.5. Il  s'agit des mêmes demandes. À gauche,  nous avons Gemini 3.5 Flash et à droite, 
+16:56
+nous avons ChatGPT 5.5. La différence,  vous commencez à l'apercevoir, réside  dans l'animation. ChatGPT 5.5 fait quelque  chose de plus épuré, de plus propre, 
+17:05
+de plus lisible et encore plus graphique,  donc on peut faire quelque chose de  plus abouti. Mais il faut toujours rapporter  ce que l'on a sous les yeux au coût 
+17:17
+par million de tokens. La question à se  poser, c'est : est-ce que ce que je vais 
+17:24
+lui demander est suffisamment bien découpé,  propre et clair pour que Gemini 3.5 
+17:30
+Flash puisse être utilisé ? Il est quatre  fois moins cher que ChatGPT 5.5 (ce 
+17:37
+qui est un avantage en termes de coût)  et cinq fois moins cher que Claude  Opus 4.6 ou 4.8. Mais si vous dépassez  les capacités du modèle, le modèle risque 
+17:48
+d'halluciner et vous ne pourrez  plus lui faire confiance. Comment bien prompter avec Gemini 3.5  Flash ? Ce système a changé. On est passé 
+17:57
+sur un système de type agentique. On  n'est plus simplement sur de la complétion  de mots. Il faut donc transformer votre  demande de prompt en un système de 
+18:07
+génération qui est à la fois contrôlable,  testable et reproductible. Pour  cela, alors que vous aviez l'habitude  d'écrire des phrases très génériques (ce 
+18:18
+qui est clair pour vous, mais représente  une infinité de probabilités pour une  IA), par exemple : "analyse les  demandes des clients et dis-moi si c'est 
+18:27
+urgent". C'est très compliqué pour une  IA de comprendre ce qui est urgent de ce  qui ne l'est pas. Pour optimiser ce type  de prompt, il faut comprendre que l'IA 
+18:36
+n'est pas une intelligence au sens humain,  elle n'est pas capable de deviner la 
+18:41
+logique : elle ne possède que son  apprentissage. Des humains ont cliqué pendant 
+18:47
+des jours pour lui indiquer ce qu'on  attend d'elle, et quand elle ne comprend 
+18:55
+pas, elle invente. Elle possède également  une certaine variabilité (elle ne 
+19:02
+répondra pas exactement de la même  manière), d'où la difficulté du cadrage. 
+19:07
+C'est pour cela qu'un prompt n'est pas  simplement une consigne de travail, mais  une boucle système qui définit : quel est  le contexte à utiliser, quels sont les 
+19:18
+outils à employer pour travailler, et  sur quels critères déterminer que le  travail a été correctement exécuté. Dans  le cas contraire, elle doit recommencer 
+19:27
+un cycle, ce qui constitue un processus  itératif de contrôle. Pour commencer à  bien prompter, il faut définir des blocs  d'instructions à l'aide de délimiteurs. 
+19:39
+Dans les systèmes comme Gemini ou Claude,  on utilise beaucoup les structures de 
+19:44
+type XML. On va créer des sections, puis  on écrit des règles : "en entrée, voici 
+19:54
+les données que tu as". On définit les  contraintes de cadrage, les règles de 
+20:00
+comportement, et on lui donne un format  de sortie. Il ne sert à rien de lui dire 
+20:07
+simplement "n'invente pas", car l'IA ne  produit par nature que des probabilités  de tokens. Ce qu'il faut faire, c'est  mettre en place des systèmes de logs. En 
+20:17
+tant qu'architecte IA, vous devez lire  et comprendre les logs de l'IA : comment 
+20:23
+elle a travaillé, comment elle a réfléchi,  a-t-elle pris la bonne décision ?  Est-ce que le prompt fourni lui a permis  de comprendre la décision à prendre 
+20:32
+dans telle circonstance ? C'est là  que la structure du prompt change  complètement l'interaction avec l'IA.  Et c'est comme cela qu'il faut interagir 
+20:42
+avec les systèmes d'agents IA. Tout ce  qui arrive sur le marché, ce sont des 
+20:50
+systèmes agentiques, comme Gemini Spark,  l'agent personnel qui va travailler 24h  sur 24. Si vous utilisez encore les  anciennes méthodes de prompt, c'est le 
+21:02
+moment de changer votre manière d'interagir  avec l'IA. La grande erreur que l'on 
+21:07
+fait aujourd'hui, c'est de croire que  parce que l'IA est gratuite et accessible  dans nos poches, nous sommes plus  intelligents. L'accès ne fait pas l'usage. Il 
+21:23
+faut être intelligent pour utiliser  l'intelligence. Cela va vous permettre de  mieux cadrer le modèle, de créer des  critères d'acceptation de fonctionnement et 
+21:33
+de lui permettre de s'analyser et de  s'auditer. L'IA est capable de comparer la 
+21:40
+demande de l'utilisateur avec ce qu'elle  a fait et de se dire : "ici, ce n'est  pas conforme, je dois recommencer". Et  vous devez avoir la compétence de lire 
+21:49
+les logs et de comprendre  comment le modèle fonctionne. Jusqu'à maintenant, ce que vous avez  souvent vu sur les réseaux sociaux, c'est 
+21:57
+ce qu'on appelle du "prompt voodoo".  C'est Gemini 3.5 Flash lui-même qui me 
+22:03
+l'explique : le prompt voodoo consiste  à écrire des instructions générales et  subjectives en disant à l'IA : "sois un  expert, explique bien, pense étape par 
+22:16
+étape". Je pense que vous avez entendu  ce conseil "réfléchis étape par étape" 
+22:25
+des dizaines de fois. Gemini 3.5 Flash  nous dit : "Cela peut fonctionner  ponctuellement, mais cela ne crée pas  un comportement stable, ce qui est un 
+22:32
+problème en production. Cela donne des  phrases vagues qui laissent trop de  liberté au modèle, les exécutions  varient et le niveau de détail ou les 
+22:43
+hypothèses sont trop implicites. Si l'IA  ne comprend pas, le rendu sera flou." 
+22:50
+Un exemple : "Résume ce rapport de  manière professionnelle." Une façon 
+22:57
+structurée de le dire : "Résume ce  rapport en cinq points maximum en 
+23:04
+sélectionnant les risques (définis  selon tels critères) et les décisions à  prendre (selon des critères financiers  et juridiques)", en précisant le ton, le 
+23:16
+format, la longueur et la cible. Cela  permet de stabiliser les résultats avec 
+23:24
+des critères objectifs. Et si l'on doit  concevoir une instruction structurée, 
+23:34
+l'objectif n'est pas de mieux parler au  modèle, mais de transformer l'intention  humaine en un contrat d'entrée où vous  donnez à l'IA un ensemble de règles de 
+23:46
+fonctionnement et de paramètres pour  qu'elle comprenne où se situe chaque bloc.  C'est pour cela qu'on va transformer :  "tu es un expert en React, fais un bon 
+23:57
+hook TypeScript propre et professionnel"  en quelque chose de beaucoup plus  structuré en définissant des zones de délimiteurs  
+24:05
+contenant l'instruction : "génère un hook React TS strict,   utilise console.log et useEffect sur la sortie de données, gère les erreurs,  
+24:16
+les resets, et ferme le bloc d'instructions". C'est une approche  
+24:22
+professionnelle de développement de prompts pour les agents IA, et c'est ainsi que l'on  
+24:33
+construit tous les agents IA aujourd'hui. Pendant longtemps, on a dit : "donne un  rôle à Gemini ou à ChatGPT". Gemini 3.5 
+24:49
+Flash nous dit une chose aujourd'hui :  "Tu es un expert React" n'installe pas  une compétence dans le modèle. Cela  modifie seulement le contexte qui influence 
+25:00
+la distribution du prochain token. Gardez  à l'esprit que le modèle n'a pas de 
+25:05
+personnalité, il calcule seulement une  probabilité : la probabilité du token 
+25:10
+suivant en fonction du token précédent,  des blocs d'attention et du contexte. La 
+25:17
+réponse dépend de tout ce que vous avez  dit préalablement et des contraintes 
+25:22
+fournies. Si vous lui dites "tu es un  expert", Gemini 3.5 Flash vous explique 
+25:31
+que c'est trop large et ambigu : "un  expert" peut être compris comme un expert 
+25:38
+en tutoriels de blogs, en composants,  en opinions Stack Overflow ou en  documentation officielle. Le terme "expert"  ne veut rien dire pour l'objectif de 
+25:50
+l'IA, et les études l'ont largement  démontré. Cela fait partie du prompt voodoo, 
+25:57
+qui a dépanné ceux qui ne savaient pas  comment structurer un prompt système, 
+26:05
+mais qu'il ne faut plus utiliser avec les   systèmes agentiques car cela ne répond pas aux trois questions essentielles d'un  
+26:14
+système d'agent : Quel est le contexte de données à extraire ? Quel outil   doit-il utiliser pour y parvenir ? Quel est le schéma de prise de décision des boucles  
+26:21
+itératives ? C'est à ces trois points qu'il faut répondre. Pourquoi est-on aussi précis au niveau  des structures ? Parce que les modèles 
+26:33
+comme Gemini 3.5 Flash sont basés sur ce  qu'on appelle l'attention. Imaginez les 
+26:41
+yeux de l'IA qui peuvent regarder  certaines phrases, mais pas toutes en même  temps. Souvent, on lui envoie des  centaines de pages de documents parce qu'on 
+26:54
+nous dit que le modèle a un million de  contexte, mais l'attention d'un modèle  est limitée, on ne peut pas mettre une  infinité de blocs d'attention. Le modèle 
+27:05
+doit donc faire des choix. Dans le  prompt voodoo où vous lui dites "tu es un  expert", le modèle choisit plusieurs  probabilités. Dans un modèle où vous 
+27:14
+définissez un fonctionnement déterministe,  le modèle sait exactement quelles  bases il doit récupérer en termes de  probabilité de tokens. Rappelez-vous, vous 
+27:24
+êtes face à une machine qui calcule des  probabilités en fonction du contexte 
+27:30
+sémantique. L'objectif de l'IA est de  réduire l'entropie en supprimant les 
+27:38
+chemins d'ambiguïté. Pour être bon  en prompt engineering, il ne faut pas 
+27:47
+seulement savoir structurer son prompt  en séquences, il faut aussi connaître la 
+27:55
+sémantique précise pour contrôler le déterminisme   du modèle. Le rapport que nous entretenons avec le langage n'est  
+28:07
+pas probabiliste. Par exemple, si vous demandez "fais-moi un cours de niveau   intermédiaire", le modèle doit deviner ce qu'est un niveau intermédiaire (pour des  
+28:17
+étudiants, des experts, des managers ? Ce n'est pas la même chose). En revanche,  
+28:23
+dans un système plus déterministe, on définit des termes sémantiques précis  
+28:29
+en incluant les mots "poids", "neurone", "couche neuronale", "Generative Pre-trained  
+28:34
+Transformer". On oblige le système à cibler les bons vecteurs et à créer  
+28:41
+les analogies d'équations qui permettront au modèle de mieux choisir ses mots. C'est le  
+28:59
+principe du garbage in, garbage out : ce que vous mettez en entrée,  
+29:07
+vous le retrouvez en sortie. C'est ainsi que fonctionnent les LLM, et c'est là que se déploie  
+29:13
+toute la logique des systèmes agentiques. Maintenant que vous avez compris que  Gemini 3.5 est un système agentique, je 
+29:20
+peux vous dire que je l'ai testé en  tant qu'agent IA complet, capable de 
+29:27
+rechercher des informations sur Google,  d'échanger sur Slack, de s'appuyer sur  une base RAG et de faire des recherches  sur internet. Le système agentique 
+29:38
+comprend qu'il a des outils à utiliser,  réalise des appels d'outils et peut  enchaîner des boucles avec des dizaines  d'outils. Gemini 3.5 Flash est aussi 
+29:53
+performant que ChatGPT 5.4 en agent IA,  mais il est surtout beaucoup moins cher.  Il est excellent dans les architectures  d'agents une fois qu'il est bien cadré. 
+30:06
+Les systèmes d'agents avancés s'appuient  sur un noyau, un kernel, comme pour les 
+30:13
+systèmes d'exploitation. On configure  ce noyau puis on lui donne accès à un 
+30:23
+ensemble d'outils, en spécifiant des  règles de comportement et de stop pour que 
+30:32
+Gemini 3.5 Flash comprenne ce qu'il a le  droit de faire et combien de fois, afin  de mener à bien sa mission. Je l'ai  testé sur des systèmes de chatbots 
+30:43
+classiques s'appuyant sur des RAG, et il  m'a impressionné par sa rapidité et son 
+30:57
+coût avantageux : c'est un excellent  candidat pour équiper les entreprises. Si 
+31:02
+vous débutez et que vous comprenez que  l'IA est le levier de croissance de 
+31:07
+toutes les entreprises, l'optimisation  des prompts change votre productivité et 
+31:13
+la rentabilité. Ce ne sont pas des  prompts basiques qui feront le travail à 
+31:20
+votre place, mais votre compétence à  configurer et manager des équipes d'agents  IA. C'est ce que vous allez apprendre  au sein des formations. Le niveau 2, "Le 
+31:32
+meilleur de l'IA", permet à chaque  entrepreneur, en moins de 15 jours,  d'acquérir ces compétences à son rythme  avec 85 heures de cours, incluant la 
+31:45
+préparation aux certifications de prompt  engineering de Google, 15 agents IA  préconfigurés, des vidéos et des méthodes.  Pour les professionnels avancés, le 
+31:58
+niveau 4 "Chatbot, Agent IA et RAG" est  conçu pour transformer l'IA en machine 
+32:07
+de travail pour les PME et freelances.  Tout le monde utilise l'IA en 2026, mais  personne ne sait la faire travailler.  C'est ce que je vous apprends : être les 
+32:17
+premiers à savoir déployer, sécuriser  et vendre des agents IA en API ou en 
+32:26
+local. Toutes les infos sont en description. La différence principale entre un chatbot  classique et un système agentique, 
+32:36
+c'est que le modèle de chatbot n'a pas  besoin de prendre de décisions : il  s'appuie de manière rigide sur un RAG et  une mémoire. Dans un système agentique, 
+32:46
+si on pose une question, il doit analyser  le contexte, prendre une décision,  choisir s'il doit se connecter à internet,  quel outil utiliser, où se connecter 
+32:55
+et quelles données récupérer. C'est  le système de raisonnement, et pour y 
+33:00
+parvenir, on configure des instructions  système via un noyau (kernel) de 
+33:19
+comportement. Ce n'est pas un simple  prompt, c'est une structure globale qui 
+33:25
+gère l'incertitude et réoriente le modèle.  L'IA est extrêmement puissante, mais 
+33:41
+elle peut dériver dans toutes les  directions. Un bon architecte sait cadrer le 
+33:49
+modèle et le prémunir contre les attaques  de type "prompt injection" (comme  demander les instructions système ou les  outils connectés). Le modèle configuré 
+34:12
+avec des instructions précises sait  adhérer à un comportement robuste. Ce ne 
+35:01
+sont pas des rôles superficiels,  ce sont des paramètres neuronaux. Un prompt robuste doit contenir : un  objectif (le livrable souhaité), un  contexte (les données stables pour orienter  les probabilités), et des variables.  Contrairement aux anciens workflows  rigides de type Make, un système agentique 
+35:13
+est capable de s'adapter et de se  réaligner de manière autonome grâce à des 
+35:33
+règles et des critères de validation  permettant un contrôle automatique de 
+35:42
+l'IA, qui s'auto-analyse et renvoie un  format de sortie (comme un JSON) testable 
+35:49
+et auditable. Ces points structurent un  prompt robuste, réduisant les risques 
+35:59
+que le modèle confonde contexte, consignes  et exemples. Le prompt devient un 
+36:11
+programme déterministe contenant des objectifs,  
+37:49
+des variables d'entrée, des contraintes, des interdictions (comme  
+38:09
+ne jamais utiliser telle fonction), des conditions (if/then) et des critères   d'acceptation. On anticipe ainsi les cas limites (situations d'erreur, données   manquantes). On peut aussi intégrer un système de validation humaine (HITL,  
+40:51
+Human-in-the-Loop) où l'agent peut envoyer un e-mail ou un message Slack s'il a besoin  
+41:01
+d'aide. C'est ainsi que l'IA devient un véritable partenaire que vous pilotez.
+41:17
+Ne dites plus : "Tu es un expert React,  fais un hook propre et professionnel." 
+41:25
+Utilisez un prompt structuré par blocs  : "Génère un hook React TS strict, gère 
+41:34
+le chargement, l'analyse d'erreur et  les requêtes API. Retourne uniquement le 
+41:39
+code TypeScript complet. Contraintes  techniques : utilisation de TypeScript 
+41:44
+obligatoire, interdiction d'utiliser  d'autres librairies, cibler React Web 
+41:50
+version 18, interdiction d'utiliser  console.log et de lancer des requêtes au 
+41:57
+montage via useEffect." Définissez  des critères d'acceptation précis pour 
+42:08
+valider le statut, les données, les  erreurs et les fonctions de reset afin de 
+42:15
+finaliser le workflow. L'IA rapproche  les mots grâce à l'analogie spatiale (les 
+42:24
+mots sont des vecteurs dans l'espace, la  proximité sémantique est définie par la 
+42:35
+similarité cosinus). C'est cela qui  apporte la nuance lexicale. Décomposer vos 
+42:46
+prompts et vos mots demande un effort  intellectuel, mais rien n'est laissé au 
+42:53
+hasard car la distribution de probabilité  de Gemini 3.5 Flash est extrêmement 
+43:00
+sensible. Enrichissez votre vocabulaire,  car un vocabulaire pauvre produit des 
+43:05
+structures imprécises. Ce qu'il ne  faut plus faire, c'est envoyer des  descriptions de bugs vagues du style :  "L'application plante quand j'essaie de 
+43:23
+charger mon avatar, j'ai une erreur 500,  le bouton reste gris." Traduisez cela 
+43:34
+de manière structurée pour l'IA, sous  forme de rapports d'erreurs exploitables 
+44:11
+avec des variables précises. Cette nouvelle capacité de Gemini 3.5  à coder des animations natives s'appuie 
+44:20
+sur le HTML5, les feuilles de style CSS  (keyframes, transitions, transforms, 
+44:29
+filters, backdrop-filter, gradients, shadows,  
+44:36
+pseudo-éléments), Tailwind CSS (grids, flexbox, espacements,  
+44:43
+responsive, layouts) et des librairies comme Reveal.js avec l'utilisation de patterns  
+45:04
+spécifiques (data-auto-animate, data-background-color, fragments,   fragment-blur-in). Je vous mets toutes ces structures dans le cours pour concevoir  
+45:17
+des animations parfaites sur des pages web, des applications ou des présentations.  
+45:22
+Ce sont ces détails techniques qui font la différence pour passer de   simple utilisateur à professionnel de l'IA, capable de déléguer efficacement son travail  
+45:31
+à des agents. Je vous dit à bientôt.
+
+Tout
+
+De la série
+
+Source : Parlons IA
+
+Interface de programmation
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+13:35
+On vient d'enterrer 50 ans de physique théorique
+Vision IA
+il y a 2 mois
+Sélection YouTube
+Réservé aux membres
+
+
+5:59:36
+Le secret d'une soirée réussie : Smooth Jazz Café, Blues doux et une Ambiance Lounge incroyable.
+Smooth Blue Swing
+27 vues
+•
+Diffusé il y a 21 heures
+Nouveau
+
+
+32:28
+Voici mon Agent IA Claude + Obsidian I  Deuxième cerveau !
+Parlons IA
+4,1 k vues
+•
+il y a 4 semaines
+
+
+2:39:50
+Expert anti-âge : lâchez vos tickets de caisse ! L'astuce ultime pour brûler la graisse viscérale
+The Diary Of A CEO
+ et FoundMyFitness
+2,9 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+27:16
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+Parlons IA
+11 k vues
+•
+il y a 1 mois
+
+
+24:59
+Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (hélène & les garçons, Premiers Baisers etc)
+Joueur Du Grenier
+6,4 M de vues
+•
+il y a 6 ans
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+95 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+14 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+8,7 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+7,6 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+37:08
+Joueur du Grenier - LOST (feat @edwardretrodecouverte  )
+Joueur Du Grenier
+1,6 M de vues
+•
+il y a 6 mois
+
+
+21:26
+Comprendre le NOUVEAU Google AI Studio en 20 Minutes
+Yassine Sdiri
+151 k vues
+•
+il y a 5 mois
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+1:59:51
+La retraite à 40 ans : mythe ou réalité ?
+l'Observateur
+17 k vues
+•
+il y a 10 jours
+
+9:52
+3 Exercices contre la Négativité qui vont CHANGER votre vie à JAMAIS.
+Max Piccinini
+18 k vues
+•
+il y a 3 ans
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+30:17
+Claude Fable 5 : Le gouvernement veut le bloquer ! Comment y Accéder!
+Parlons IA
+22 k vues
+•
+il y a 2 semaines
+
+    

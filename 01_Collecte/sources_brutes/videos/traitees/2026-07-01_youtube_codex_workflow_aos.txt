@@ -1,0 +1,1056 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+3
+
+Image d'avatar
+J'ai testé Claude Mythos Fable 5 : voici LA vérité !
+IA
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+681
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+6 087 vues  12 juin 2026
+Découvrez la vérité sur Claude Mythos Fable 5 dans cette vidéo où j'ai testé les capacités de cet outil d'intelligence artificielle de pointe. Claude Fable 5 est le dernier modèle de langage de la plateforme Claude, conçu pour offrir des interactions plus naturelles et plus intelligentes. Dans cette vidéo, je vais vous montrer comment Claude Fable 5 se compare à d'autres outils d'intelligence artificielle tels que Gemini 3.5 Pro, et comment il peut être utilisé pour améliorer la productivité et l'efficacité. Vous découvrirez également les dernières mises à jour de Claude, notamment la version 5, et comment elles améliorent les capacités de l'outil. Enfin, je partagerai mes conclusions sur les avantages et les inconvénients de l'utilisation de Claude Fable 5 par rapport à d'autres solutions d'intelligence artificielle telles que Gemini 3.5. Si vous êtes curieux de savoir comment fonctionne Claude Mythos Fable 5 et comment il peut vous aider, regardez cette vidéo jusqu'au bout pour découvrir la vérité sur cet outil révolutionnaire.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+Chaîne YouTube :    / @iaexpliquee.x  
+Chaîne Dailymotion : https://dailymotion.com/formation.ai87
+Podcast : https://spoti.fi/4dqZ3uO
+Blog :   / flma1349  
+
+📲 Réseaux & contact
+X / Twitter : https://x.com/ParlonsIAx
+TikTok :   / parlonsia  
+
+🧪 Outils IA à tester
+Coder Agent IA : https://bit.ly/Coder_agentiA
+Short AI : http://bit.ly/4lzE782
+SEO Agent IA : https://urlr.me/P8AS5N
+ — 🎁 -25 % avec le code PARLONSIA25
+
+---Découvrez la vérité sur Claude Mythos Fable 5 dans cette vidéo où j'ai testé les capacités de cet outil d'intelligence artificielle de pointe. Claude Fable 5 est le dernier modèle de langage de la plateforme Claude, conçu pour offrir des interactions plus naturelles et plus intelligentes. Dans cette vidéo, je vais vous montrer comment Claude Fable 5 se compare à d'autres outils d'intelligence artificielle tels que Gemini 3.5 Pro, et comment il peut être utilisé pour améliorer la productivité et l'efficacité. Vous découvrirez également les dernières mises à jour de Claude, notamment la version 5, et comment elles améliorent les capacités de l'outil. Enfin, je partagerai mes conclusions sur les avantages et les inconvénients de l'utilisation de Claude Fable 5 par rapport à d'autres solutions d'intelligence artificielle telles que Gemini 3.5. Si vous êtes curieux de savoir comment fonctionne Claude Mythos Fable 5 et comment il peut vous aider, regardez cette vidéo jusqu'au bout pour découvrir la vérité sur cet outil révolutionnaire.
+Parlons IA explore les limites réelles des nouveaux modèles Claude Mythos et Fable 5. Cette analyse technique examine l'importance d'une structuration rigoureuse, basée sur le kernel, le workflow, l'objectif et la mémoire, pour transformer ces outils en systèmes d'agents autonomes fiables et performants en entreprise, bien au-delà des simples interactions conversationnelles.
+Résumé
+
+Comment ce contenu a été créé
+Créé avec l'IA
+Des sons ou des images ont été modifiés ou entièrement générés. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+true
+45:35
+Gemini 3 5 flash: Comment mieux utiliser l'IA agentique ?
+de Parlons IA
+true
+27:16
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+de Parlons IA
+123 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 2 semaines
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr 
+ -40 % sur les IA 👉: https://www.subifyhub.com/product-detail/69a852b8f438449fdb59dbeb 👉  +92 327 234 18 39   I  -40 % sur les IAt +10 % de remise Ajoute le code NYQVY  via ce lien :  https://www.gamsgo.com/partner/gcjmX
+
+
+
+Répondre
+
+
+@NoelChEvan
+il y a 2 semaines
+Merci pour la vidéo.
+
+Il y a un fait : 
+bien que ne semblant peut-être pas maîtriser le prompt engineering (donc absence probable de compétences), ces influenceurs ont la sympathie du public parce que ceux-ci partagent OUVERTEMENT comment ils utilisent l'IA.
+
+Donc le nombre d'abonnés est le reflet de leurs valeurs perçues (celles-ci fortement corrélés à ce qu'ils partagent gratuitement en vidéo).
+
+Et tant qu'il n'y aura aucun partage gratuit qui propose mieux qu'eux, ils seront le standard.
+
+(Après, il faut clairement différencier engagement du public et ventes réelles des services et formations. Les deux ne sont pas toujours liés).
+
+8
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@abdoulaye9444
+il y a 2 semaines
+et y'a moi qui pensait que ca ne sert a rien de continuer mes études en informatique en entendant les influenceurs dire que l'IA vas remplacer les développeurs, oui l'IA vas changer les choses mais pas au point de remplacer complètement l'humain, je penses que tu viens de me motiver a continuer mon apprentissage de la programmation (en incluant l'IA dans mes outils de travail bien sûr), merci bcp cette masterclass que tu nous a pondus 
+
+2
+
+
+
+Répondre
+
+Parlons IA
+·
+
+2 réponses
+
+@amuratel
+il y a 2 semaines
+Excellente vidéo qui remet "l'église au milieu du village".
+Continue surtout a produire tes vidéos pertinentes qui expliquent vraiment comment utiliser l'IA
+
+1
+
+
+
+Répondre
+
+
+@thoutmes14
+il y a 2 semaines
+Enfin du réalisme plutôt que du sensationnalisme !
+
+1
+
+
+
+Répondre
+
+
+@dylanlesieur-v2p
+il y a 2 semaines
+Overall, really helpful This video. I've completed some of my knowledge and now work like you. It's not that hard after all. But maybe this POV is biased because I'm already a developer. Anyway, thank you for your help. I hope my advice helped you too :D.
+
+1
+
+
+
+Répondre
+
+
+@intelligenceviruelle
+il y a 2 semaines
+Cette vidéo est très instructif 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@yvankeyna
+il y a 2 semaines
+Encore une vidéo qui va bousculer ! Merci pour cette vdiéo !
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@PhilippePoncelet
+il y a 2 semaines
+Merci de cette mise au point 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@phb_fr
+il y a 2 semaines
+MDR le strike d'anthologie ! 
+Un des seuls comptes francophone qui soit honnête professionnellement parlant.
+Un vrai pro.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@NeoIA-o8x
+il y a 2 semaines
+Salut Fabrice, totalement aligné avec ta réflexion. Pour vendre du vent, ils sont champions, et ton parti pris de démonter tout ça, je le partage , et je t'en remercie, parce que j'ai moi aussi écouté le chant des sirènes à mes débuts. Je guettais ta vidéo sur Fable 5, je savais que tu étais en train de le poncer à fond. Merci de nous montrer comment utiliser ces outils pour de vrai. Petite info qui dit tout : j'ai acheté ta formation, j'y ai passé des heures et j'applique tes tips au quotidien. Celle de Ludo ? Jamais ouverte.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@AbdelGenAI
+il y a 2 semaines (modifié)
+MERCI POUR LES TERMES !!!! J'ai envie de liker 100 fois
+
+1
+
+
+
+Répondre
+
+·
+
+3 réponses
+
+@elingo6252
+il y a 2 semaines (modifié)
+Ce serait cool que tu fasses reference au monde anthropic quand tu parles de cela : on y parle d'instructions , de contexte, de skill et de memory ; du coup , j'ai cherché a faire le lien et ai posé la question à Opus de quoi il s'agit quand on parle de kernel , objectif , worflow, memory,logs ; il m'a indiqué que tu etais vraisemblablement un expert de semantic Kernel le systeme d'agent de Microsoft . Je te fais juste cette remarque car c'est moi le plus deçu quand tu ne le dis pas franchement. Et attention, je ne mets pas en cause ton expertise car bien souvent je suis incapable de tout comprendre. Du coup je doute de cliquer sur tes liens. Merci pour tes videos ou tes qualités de communicant , en sus d'expert technique, me font regaler
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@timon9090
+il y a 2 semaines
+merci
+
+1
+
+
+
+Répondre
+
+
+@RogerAbiza
+il y a 2 semaines
+Ok, on a bien reçu le message. Le type de contenu que tu dénonces fonctionne car peu importe la qualité de l'input l'IA va produire un résultat.
+Delà a ce qu'il soit de qualité est un autre problème.
+Merci pour tes vidéos
+
+2
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@benjy865
+il y a 2 semaines
+Complètement d'accord la manière dont vous utilisez et apprendrez l'IA défini souvent qui vous êtes, aujourd'hui le niveau cognitif et critique des gens est devenu chaotique. Toutes techno toutes analyse pertinente sont inaudible pour la masse d'humain qu'à créé le système capitaliste. Une vraie sélection naturelle est en cours, le monde est ainsi. 
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@wesley.armando
+il y a 2 semaines
+ le tacle mdrr mais bon t’a raison sur toute la ligne , en tout ça merci 🫡
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@dzobokouedem2137
+il y a 2 semaines
+Je suis d accord
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@christopherequin
+il y a 2 semaines (modifié)
+En fait avec Mythos c'est très fort on arrive à détecter les influ mythos ^^
+Je code tous les jours avec Claude, même avec PRD / Epics / Stories / règles fermes, etc ... et franchement ca l'empêche pas de faire de la merde sans orchestration.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@xing8789
+il y a 2 semaines
+salut Fabrice, top vidéo  j'ai pas vu sur le niveau 2 et 3 des cours sur Claude OPUS 4.8. Je pense que je me trompe ? Merci encore pour ton travail
+
+
+
+Répondre
+
+·
+
+1 réponse
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Tout ce qu'on vous a raconté, c'est  du marketing. Un agent IA ne peut  fonctionner que s'il y a ces quatre  éléments. Claude Mythos 5 vient de sortir. 
+0:09
+Je vais vous dire exactement ce qu'il  en est. Il faut arrêter complètement le  marketing qu'on a sur les réseaux sociaux.  Il faut prendre du recul, vous dire 
+0:17
+la vérité, vous dire ce qu'attendent  les employeurs, ce qu'attendent les  entreprises. OK, on a des modèles qu'on  nous livre en nous disant que c'est le 
+0:25
+meilleur modèle, qu'il est de plus en  plus puissant. Mais la question qui va se  poser, c'est comment l'utiliser ? Comment  bien l'utiliser ? Qu'est-ce qu'on peut 
+0:32
+réellement faire avec ? Et surtout, comment  faire la différence sur un marché où  tout le monde dispose du même outil ?  Je parle bien entendu de Claude Mythos 5 
+0:43
+et Claude Fable 5. C'est  maintenant dans cette vidéo.
+0:48
+Claude Fable 5 vient de sortir. Qu'est-ce  que ça change pour vous sur le marché 
+0:55
+de l'emploi ? Le point qui change tout,  c'est votre manière de prompter, la  capacité de structurer des instructions  avec les agents IA, et est-ce qu'à la 
+1:03
+fin de votre travail, vous êtes réellement  capable de produire du travail. Si la  seule chose que vous faites, c'est d'être  capable de me dire que vous avez codé 
+1:10
+une page HTML que vous êtes incapable  de vendre, vous avez perdu votre temps.  Qui ressemble à celui des Simpson. Et  voilà ce qu'il m'a construit avec deux 
+1:17
+prompts d'itération supplémentaires. Je  ne suis pas hyper impressionné par la  partie design pour être honnête, mais  par l'IA, vous êtes complètement passés à 
+1:25
+côté de ce qu'est l'intelligence artificielle  depuis 2 ans. Ça fait 2 ans qu'on  nous montre : "code-moi une page internet".  Est-ce que ça, vous allez le vendre 
+1:32
+sur un marché du travail ? Est-ce que  demain vous êtes capables de prendre ce  type d'interface et de me dire "je vais  faire de l'argent avec" ? La réponse est 
+1:39
+non. Il faut arrêter de montrer des  tests qui ne servent à rien, et si vous  continuez à les écouter, vous êtes en  train de vous planter. J'ai vu qu'il 
+1:46
+restait très peu de forfaits promotionnels  alors qu'il y a une demande énorme  sur le marché avec Claude Fable 5 et  Claude Mythos 5, et tout le monde n'aura 
+1:55
+pas la possibilité d'en avoir. Vous êtes  avec l'IA qui est la plus performante 
+2:01
+et que toute l'industrie du marketing  nous a annoncée comme celle qui allait  nous mettre tous au chômage. Vous voulez  savoir la vérité ? Il n'y a pas une IA 
+2:10
+qui réussit ce test, et je vais vous  montrer le test maintenant. Demandez à  Gemini 3.5 et après à Claude Fable 5  de trouver des maisons à louer avec un 
+2:20
+budget qui présente un jardin et de nous  faire un tableau pour aller vérifier  l'annonce. Vous allez me dire : "Mais  c'est hyper simple". C'est tellement 
+2:27
+simple que aucune des IA n'arrive à faire  ce test très basique. Et je vais vous  expliquer pourquoi et la raison pour  laquelle aujourd'hui l'IA n'est pas un 
+2:36
+outil fiable, contrairement à ce qu'on  vous annonce dans les vidéos de tous les  influenceurs. Si je vais cliquer sur  cette annonce, je devrais retrouver une 
+2:43
+annonce avec une maison de quatre pièces,  trois chambres, 150 m² à 950 € en prix 
+2:50
+mensuel. On va ouvrir la première annonce.  Je vais cliquer dessus et, surprise,  il n'y a aucune annonce correspondante.  
+2:56
+On va rechercher la deuxième annonce : 500 m², 1200 € par mois, un pavillon  
+3:01
+familial contemporain. On n'a pas plus d'informations. Je vais cliquer   là-dessus et je n'ai strictement rien. On reprend : pavillon familial contemporain,  
+3:10
+500 m², 1200 €. Ça ne correspond pas du tout aux éléments qui sont ici. Alors,   qu'est-ce qui est en train de se passer ? Exactement la même chose  
+3:17
+avec Claude Fable 5. Si je vais cliquer et que je vais rechercher la maison à 900 € avec 350  
+3:23
+m² de jardin ou l'annonce à 1200 € à 500 m² de jardin, la vérité c'est  
+3:30
+que les annonces n'existent pas. Elles ne sont présentes ni sur l'une ni sur l'autre.   Et pourtant, vous avez vu des influenceurs qui vous ont fait  
+3:38
+croire qu'il était possible, en demandant à l'intelligence artificielle, de trouver   des maisons à acheter, de calculer des crédits, des taux d'emprunt, et vous vous  
+3:46
+rendez compte qu'avec les derniers modèles d'IA, ce n'est pas possible. Voici pourquoi tout ce qu'on vous a  raconté, c'est du marketing. Un agent IA ne 
+3:54
+peut fonctionner que s'il y a ces quatre  éléments qui sont codés : le kernel, le  workflow, l'objectif et la mémoire. Le  problème, c'est que tous les prompts des 
+4:03
+influenceurs qui vous parlent d'agents  d'IA ne savent pas écrire une seule ligne 
+4:08
+de code d'un agent IA. Ils sont en  train de faire du pur blabla qui ne  fonctionnera jamais sur une ossature  d'un système d'agents. Ça vous choque ? 
+4:18
+Moi, ce qui me choque, c'est qu'on leur  donne du crédit depuis 2 ans sur les 
+4:24
+devis mais également des propositions  commerciales à travers des outils comme 
+4:32
+dizaines d'appels par jour aujourd'hui  avec des prospects à nous qui viennent.  Qu'est-ce qu'il en a à faire Claude Fable  5 si tu lui parles comme ça ? Tu peux 
+4:39
+m'expliquer à quel moment ? Ne va  pas me dire que c'est du prompt pour  De contacter pour qu'on puisse  implémenter l'IA dans leur entreprise et 
+4:46
+j'aimerais automatiser toute la partie  devis et génération. Et franchement, tu  crois que quand tu vas parler comme  ça, elle va faire ton job ? "Et salut 
+4:54
+Claude, demain je dois faire des devis.  Tu ne voudrais pas faire mon travail à  ma place pendant que moi je parle dans  un micro ?" Non mais sérieux les gars, on 
+5:01
+arrête avec ce système marketing où on  commence à comprendre que les entreprises  ont besoin de gens qui ont des compétences  pour coder des systèmes d'agents IA. 
+5:08
+Ne venez pas m'expliquer que ça c'est  pour des débutants. Ça c'est n'importe  quoi. Ce n'est pas compliqué, c'est  n'importe quoi. Une IA, vous me prenez le 
+5:15
+dernier modèle Claude Fable 5, elle n'est  pas fichue de me trouver des maisons  qui correspondent à des critères avec  le lien du produit correspondant. Et on 
+5:23
+est sur le dernier modèle qui est  censé déstabiliser tout le marché de  l'économie. Est-ce que vous commencez  à comprendre ? Il est où le problème ? 
+5:31
+C'est la manière dont on vous vend  le produit, on vous a menti sur  l'intelligence artificielle, ou c'est  la manière de l'utiliser ? Faites votre 
+5:37
+choix, ou c'est peut-être les deux.  Alors oui, je te vois venir. Oui, je vais  t'expliquer les choses mais patience,  tu ne vas pas tout comprendre en 5 
+5:45
+secondes comme dans leurs tutoriels. Je  le sais parce que leurs tutoriels, il  suffit de parler dans le micro. Tu parles  dans le micro et le travail se fait 
+5:51
+tout seul. Mais ça, il faut que tu  comprennes que ça n'existe pas, sauf  là-dedans. Et donc là, il va faire  un diagnostic. Donc il va essayer 
+5:57
+d'identifier qui vous êtes et quel est  le meilleur business que vous devriez  lancer. Quel est le meilleur business  que vous allez lancer ? C'est ça que 
+6:04
+Claude 4.8 est capable de faire ? Non  mais je ne sais pas, ça ne vous choque pas  ? Non, vous allez me dire ça fait 3 ans  que des gens qui ont un million et demi 
+6:11
+d'abonnés vous racontent des trucs comme  ça. Bon, si ça ne vous choque pas que  Claude soit capable de vous dire quel  business vous devez lancer, c'est qu'ils 
+6:17
+ont certainement raison ces gens. Bah  oui, ils ont beaucoup d'abonnés, c'est  connu. Plus ils ont d'abonnés, plus ils  sont bons dans ce qu'ils font, plus ils 
+6:24
+sont compétents. Bah oui. Pourquoi  ? Eh bien parce qu'ils ont beaucoup  d'abonnés. C'est du bon sens. Si tu n'as  pas beaucoup d'abonnés, c'est que ce 
+6:31
+que tu digère n'est pas vrai. Lui, il  a raison. Ouais. Allez, on continue. En  fait, j'ai arrêté parce que c'était un  peu des petits projets comme ça, mais ce 
+6:37
+n'étaient pas des manières sérieuses de  gagner de l'argent. Une idée ? Bah, je  sais qu'aujourd'hui le e-commerce c'est  un bon business. Apparemment, j'ai vu 
+6:44
+quelques vidéos. Il y a aussi Yomi qui  parle d'agences d'agents IA, puis il y a  les start-ups aussi. Mais en vrai, je ne  sais pas trop ce que je devrais lancer 
+6:51
+comme business. Moi, ça me fait mourir  de rire. Tu as un mec qui vend des  formations pour parler à l'intelligence  artificielle, qui est un spécialiste 
+6:59
+soi-disant de l'intelligence artificielle,  qui t'apprend à utiliser l'IA comme  si tu parlais à ton pote. Oh les gars,  ratterrissez sur terre parce que sinon 
+7:08
+l'atterrissage va faire super mal. Il va  faire super mal tellement vous avez un  décalage entre l'absurdité de ce qu'on  est en train de vous raconter et le fait 
+7:17
+que l'on a le modèle soi-disant le plus  dangereux du marché, et on est en train  de continuer à voir des tutoriels qui  t'utilisent des outils comme si tu avais 
+7:25
+l'âge mental d'un enfant de 8 ans. Ce  qui est montré par ce type de contenu,  même un enfant de 8 ans est capable  de le faire. Alors, comment vous allez 
+7:32
+faire pour faire la différence  sur un marché du travail ? Si vous souhaitez aller plus loin dans  la maîtrise de l'IA, en 15 jours, vous 
+7:38
+allez être capable de passer de simple  utilisateur de ChatGPT à un entrepreneur 
+7:44
+ou salarié capable de construire des  systèmes IA utiles, propres, auditables et 
+7:50
+activables dans le domaine de l'entreprise.  Vous allez apprendre à déployer,  structurer et rendre rentables vos  abonnements. Imaginez un abonnement de 
+7:58
+ChatGPT à 20 dollars par mois qui va  vous produire peut-être 30 % de plus en 
+8:03
+productivité. Dans cet écosystème, je  vais vous mettre en place 30 agents IA  préconfigurés, des outils, 80 heures de  cours que vous faites à votre rythme, 
+8:13
+les mises à jour sont incluses et je  vous apprends les toutes dernières  technologies de création d'agents IA  pour optimiser votre temps et votre 
+8:20
+travail. Toutes les infos sont en  description. Je sais, vous allez me dire :  "Claude Mythos 5, tu es un expert, fais  mon travail, je connais le prompt." On 
+8:28
+va lui dire : "Tu es mon conseiller  juridique, génère un exemple de contrat de  prestation de services en freelance,  puis analyse les cinq clauses les plus 
+8:36
+risquées pour moi en tant que prestataire,  pourquoi et comment les reformuler."  Donc là, et ouais, elle n'est pas belle  la vie ? Tu lui dis "Tu es un conseiller 
+8:42
+juridique" et Claude Mythos 5 et Claude  Fable 5, boum ! Il te fait une analyse  de contrat, les gars. Elle n'est pas belle  la vie ? Oh là là ! Si je n'avais pas 
+8:50
+vu ce prompt, maintenant que j'ai ce  prompt super puissant, je sais comment  faire avec Claude Fable 5. Ouais, mais  carrément, mais vraiment carrément. 
+8:58
+Alors, pour ceux qui découvrent  l'intelligence artificielle, vous allez  apprendre une chose. Je vais demander  un courrier juridique avec l'intégration 
+9:04
+des articles de loi. L'objectif aujourd'hui,  c'est d'être capable d'avoir des IA  qui sont capables de faire des courriers.  C'est ce qu'on vous dit. D'analyser 
+9:11
+des contrats, c'est ce qu'on vous dit.  Mais vous ne savez pas sur quels critères  elles les analysent. Vous ne savez pas  ce qu'elles vont analyser du contrat. 
+9:16
+Vous ne savez pas sur quel système elles  font des choix, et vous pensez que ce  qu'on vous montre est vrai. Le problème,  c'est que quand vous allez l'utiliser 
+9:22
+dans le domaine professionnel, il n'y a  rien qui marche. Il n'y a que dalles qui  marche. Là, ce que je vais lui demander,  c'est de faire un courrier. On met ce 
+9:29
+qu'on appelle des étapes de workflow et  je lui demande : "Je veux vérifier les  sources. Tu me mets les sources en bas  du document. Je vais cliquer dessus pour 
+9:36
+vérifier ce que tu me racontes." Alors,  on va en bas du courrier et là, allez,  on va cliquer sur le lien : article de  loi, et on va cliquer dessus. Ah, ça 
+9:43
+n'existe pas. Je vais cliquer ici. Ah,  ça n'existe pas. Je vais cliquer ici. Ah,  ça n'existe pas. Attention, on va  retester. On n'en a fait que trois. On va 
+9:50
+faire le quatrième. Oh, ça n'existe  pas. Oh, ça alors ! Mais je pensais que  normalement les agents IA étaient capables  de faire des courriers juridiques. 
+9:57
+Non, mais je vous remontre le prompt.  Objet : courrier juridique. Va vérifier la  jurisprudence, tu me donnes tous les  articles de loi, les liens et tu vérifies 
+10:04
+ton travail. Il n'y a rien qui fonctionne.  Alors oui, d'accord. Sur le plan  technique, en vrai, les IA ont une capacité  de 2,1 % dans le domaine juridique. 
+10:14
+Donc dès qu'on est en train de vous  parler de contrats d'analyse, faites  attention. Les IA ne sont pas entraînées  pour travailler correctement dans le 
+10:21
+domaine juridique. Ça, c'est le premier  point. Mais si on fait le même travail  avec Claude Fable 5, qu'est-ce qui va  se passer ? Et bien, cette fois-ci, je 
+10:29
+vais cliquer sur les boutons et je  vais avoir les articles de loi et, par  chance, ce sont les bons. Qu'est-ce qui  a changé et pourquoi ? Premièrement, le 
+10:36
+modèle dispose de deux avancées principales.  On est passé d'une valeur de 2 % 
+10:42
+à 13 %, et ensuite on a augmenté ce  qu'on appelle la validation GPQA,  c'est-à-dire qu'on lui a appris un  mode de comportement. Et l'une des 
+10:50
+particularités de Claude Fable 5 et  de Claude Mythos 5, c'est la capacité 
+10:55
+d'alignement sur les questions  factuelles. Ce sont des modèles qui sont  davantage factuels, mais ça ne l'a pas  empêché de complètement se planter sur la 
+11:04
+partie des maisons. Si on reclique encore  sur un lien, on ouvre le lien et le  lien ne correspond pas, et aucun lien ne  correspond à la maison de 800 m² à 1150 
+11:14
+€ dans l'interface. Alors, comment  expliquer ce problème ? Le modèle n'a pas  reçu d'apprentissage pour fonctionner  sur certaines tâches. Bien qu'on lui 
+11:23
+apprenne avec des fonctions de validation,  c'est-à-dire qu'il y a 44 métiers  qu'on est en train de modéliser et de  transférer à l'intelligence artificielle. 
+11:31
+C'est-à-dire que prochainement, l'IA  sera capable de développer des workflows  pour des tâches qui vont être certes  de la comptabilité, du code, de la 
+11:39
+bureautique. Ce qu'il faut comprendre,  c'est que ces tâches sont spécifiques à  des pratiques qui ont été créées par  Anthropic. Donc elles ne correspondent pas 
+11:48
+aux tâches que vous voulez faire pour  vous ou pour votre entreprise. Alors,  comment faire ? Vous allez lui demander  du travail que Claude Mythos 5, Claude 
+11:56
+Fable 5, ou n'importe quel modèle n'est  pas capable aujourd'hui de faire, même  si c'est du travail simple comme retrouver  des maisons sur internet à un prix 
+12:04
+défini dans une annonce. Alors quelle  est la solution ? La solution, c'est de  comprendre que Claude 4.8 Code, Claude  Mythos 5, Claude Fable 5, ChatGPT, 
+12:14
+Gemini, tout ce que vous voulez, ont  été particulièrement bien entraînés au  niveau du code. Mais l'IA, ce n'est pas  une personne, ce n'est pas un système 
+12:22
+qui réfléchit. Quand il n'a pas la  connaissance sur un sujet, c'est comme un  enfant de 3 ans avec des encyclopédies  : il ne sait pas quoi faire de 
+12:30
+l'information. Et c'est là que vous  intervenez. Vous devez être capable.  Aujourd'hui, ce que demande le marché  du travail, ce que demandent les 
+12:37
+entreprises, c'est de créer de la  valeur avec l'IA, d'être capable de  transformer Claude Fable 5 en un agent  qui travaille pendant des heures. Et 
+12:47
+c'est exactement ce qu'il est possible  de faire. Mais pour cela, il faut être  capable de coder ces quatre éléments :  un kernel, un workflow, un objectif et la 
+12:54
+gestion des mémoires. Ça, c'est le  bloc commun. N'importe quelle IA sur le  marché, n'importe quel système d'agents  est basé sur cette matrice. Le système 
+13:04
+kernel, c'est quelque chose que j'ai  découvert très récemment et qui a  complètement changé ma manière de travailler  et de stabiliser le fonctionnement 
+13:10
+des IA. Et dans cette vidéo, je vais  vous montrer ce que j'ai été capable  d'automatiser avec Claude Fable 5 qui  m'a codé la structure de mon architecture 
+13:20
+d'agents IA pour faire du travail. L'IA  va travailler à ma place, va récupérer  des données sur mes fichiers, va mettre  à jour mes tableurs Excel, va produire 
+13:28
+des factures, mais des factures pour mon  entreprise, se connecter directement à  mes bases, mettre à jour les données et  continuer le workflow pendant tout le 
+13:36
+temps nécessaire, voire plusieurs heures,  produire pour chaque client tous les  documents et me préparer même les e-mails  à envoyer dans les bases de données. 
+13:43
+Ça, c'est Claude Fable 5 qui  a été capable de le faire   et je vous le montre à la fin de cette vidéo. Tout d'abord, alors ce qu'il faut maîtriser  en premier lieu, c'est le système de 
+13:53
+base, c'est l'agent. On va s'intéresser  à la création d'agents secondaires, ce  qu'on appelle des sous-agents, dans deux  conditions. La première, c'est que le 
+14:00
+travail que vous allez demander à Claude  Fable 5, Claude Mythos 5 ou n'importe  quelle IA aujourd'hui qui a un système  agentique, si le travail est long et va 
+14:08
+durer sur plusieurs heures, le problème  c'est la gestion de la mémoire des IA.  Et ça, c'est toujours le point faible  de n'importe quel système agentique 
+14:17
+moderne. Quand vous démarrez une  discussion avec Claude Mythos 5 ou Claude  Fable 5, au début tout va bien. On est  dans un fonctionnement stable. Le modèle 
+14:26
+récupère les informations dans l'interface.  Mais quand Anthropic nous dit que  c'est un modèle qui est capable aujourd'hui  de s'aligner sur des heures voire 
+14:33
+des jours de travail, l'idée c'est  d'être capable de lui lancer du travail  sur 12h, 24h ou voire 5 jours d'affilée.  Et là, ce qui va se passer, c'est que 
+14:42
+votre contexte, au bout de quelques  minutes (on est en train de parler de 20  à 30 minutes), va se dégrader. Pourquoi  ? Parce qu'ils n'ont pas résolu la 
+14:51
+stabilité des contextes. On est donc  obligés aujourd'hui de gérer cette  problématique en créant des sous-agents,  ce qui va nous permettre de chaque 
+14:59
+fois redémarrer une tâche dans un contexte  neuf et d'éviter ce qu'on appelle le 
+15:05
+context rot, la dégradation des systèmes.  Mais il y a quelque chose d'encore  plus dangereux que le context rot, ce  sont les prompts des influenceurs. Toutes 
+15:14
+les études le prouvent. Le simple fait  de répéter des mots, d'utiliser des  phrases non construites fait effondrer  le fonctionnement des modèles. Ce qui 
+15:23
+veut dire que si vous devez travailler  avec Claude Fable 5, Claude Mythos 5 ou  ChatGPT, tous les modèles, je dis bien  tous les modèles vont être impactés par 
+15:32
+la manière de gérer vos prompts, votre  interface. Et si vous commencez à entrer 
+15:39
+un seul élément qui est faux, vous baissez  de 10 % la capacité de l'IA. Quatre 
+15:44
+éléments dans votre structure de prompt  qui ne fonctionnent pas correctement  dans l'architecture, et vous baissez de  30 à 70 % les performances des modèles. 
+15:53
+Ce qui veut dire que si vous continuez  à utiliser ces méthodes de proposition  commerciale pour que simplement, en te  disant que je viens de sortir d'un appel 
+16:01
+ou en te mettant le lien de l'appel  Phantom, tu saches que tu doives enclencher  tout ça pour envoyer automatiquement  un e-mail avec toutes les informations 
+16:07
+nécessaires... J'aimerais que tu m'aides  à créer cette compétence. Démarrer une  nouvelle conversation et que je dis :  "Salut Claude, je viens tout juste de 
+16:13
+sortir d'un appel avec un prospect.  Salut Claude, tu vas bien ?" Pour  Chatflow.AI, je vais te mettre le lien  Phantom de tout notre appel et j'aimerais 
+16:21
+que tu fasses le nécessaire pour que je  puisse lui envoyer un devis et une...  Ouais, fais le nécessaire Claude, vas-y.  Pour la vidéo, c'est trop bien de faire 
+16:28
+le nécessaire. Proposition de manière  complètement automatisée. Donc là, je  vais... Non mais les gars, si demain  vous pensez que vous allez ouvrir une 
+16:35
+agence d'IA avec des processus de workflow  stables avec ça, pourquoi ce n'est  pas possible de retrouver une maison  simplement avec un prompt ? Posez-vous la 
+16:41
+question. Est-ce que si ça c'est suffisant,  vous pensez demain débarquer sur un  marché du travail ? Le problème, c'est  que ce dont ont besoin aujourd'hui les 
+16:47
+entreprises, ce n'est pas de sortir  des phrases qu'un enfant de 8 ans est  capable de taper sur un écran. Ça, tout  le monde sait le faire, il n'y a pas 
+16:52
+besoin de compétences pour faire ça.  Le problème, c'est que le marché a  complètement changé. Et je pense que  vous vous en êtes rendu compte qu'à un 
+16:58
+moment, entre ce qu'on vous raconte et  ce que vous êtes capable de faire, il y a  un fossé. Le fossé, il est clair. Il  ne faut pas me dire que c'est pour les 
+17:03
+débutants. Non, quand tu apprends quelque  chose qui est faux, il est faux pour  les débutants, il est faux pour les  intermédiaires, il est faux pour les mecs 
+17:09
+qui sont avancés. Mais les mecs avancés,  ils ne vont pas te donner ça comme ça  sur un plateau d'argent en te disant  aujourd'hui : la compétence qui vaut le 
+17:16
+plus cher sur un marché, je vais te la  donner comme ça dans une vidéo. Parce que  les entreprises, je vous le dis en toute  honnêteté, n'ont besoin que d'un seul 
+17:24
+salarié aujourd'hui pour remplacer sept  ou neuf postes de travail : un qui sait 
+17:29
+gérer les prompts système des agents IA  et qui coordonne le fonctionnement dans  une entreprise. Et ça, c'est le seul  mec qui va rester à coup sûr dans les 
+17:37
+entreprises. Pourquoi ? Parce qu'on avait  avant un modèle qui sortait une fois  par an. Ensuite, c'était tous les 6 mois.  Maintenant, c'est tous les 3 mois et 
+17:45
+aujourd'hui, c'est tous les mois et demi  qu'on a un nouveau modèle. Celui qui  est capable de vendre un agent IA est  obligé, tous les mois et demi, de mettre à 
+17:53
+jour le fonctionnement du modèle parce  que le modèle a évolué, a changé, et ça,  c'est une charge considérable. Quand  tu achètes un agent IA, il faut que ton 
+18:01
+entreprise, celui qui te le fournit,  soit capable de faire évoluer le modèle.  Mais ce que je vois sur le marché, ce  sont des mecs qui parlent comme un enfant 
+18:08
+de 8 ans en te faisant croire que ça  c'est faire du travail. Non, ça c'est pas  faire du travail. Ensuite, les entreprises  ont besoin de personnes capables 
+18:16
+d'intervenir sur ces modèles pour, en  fonction de l'évolution, faire évoluer le  fonctionnement de ton modèle. La  compétence numéro une, c'est d'être capable 
+18:25
+d'intervenir sur ces modèles et de les  faire réellement travailler. Le seul  moment où tu as donc besoin de séparer  en sous-agents, c'est lorsque ton 
+18:34
+contexte de travail devient long, il faut  que des sous-agents puissent récupérer 
+18:40
+uniquement les informations pertinentes  pour pouvoir travailler dans de bonnes  conditions et ne pas entrer dans une  zone de context rot. Le deuxième point, 
+18:50
+c'est qu'un agent, s'il travaille de  manière linéaire, une tâche après une tâche  après une tâche, tu dois attendre que  toutes les tâches soient terminées pour 
+18:58
+obtenir le résultat. Pour gagner du  temps, on est capables aujourd'hui, sous  certaines conditions, d'envoyer des  agents en simultané. On peut aller 
+19:07
+rechercher en simultané des informations.  Et pour optimiser le fonctionnement, 
+19:12
+on va donc créer ce qu'on appelle du  fan-out, c'est-à-dire un système qui  travaille en parallèle dans  ton système d'agents IA.
+19:19
+Quand un agent fonctionne, il a besoin  d'un kernel, d'un bloc d'identification 
+19:25
+et d'un workflow. Le workflow, c'est ce  que tu connais : étape 1, 2, 3, 4. Mais  dedans, ce qui est devenu beaucoup  plus technique, c'est qu'il faut que le 
+19:32
+modèle sache quel outil utiliser, de  quelle manière, comment il vérifie et  communique avec l'agent principal. En cas  de problématique, comment prend-il une 
+19:42
+décision ? Parce que demander à l'IA  de faire un travail, tu ne sais pas sur  quels critères elle va le faire. C'est  là que tu entres en jeu et que tu vas 
+19:50
+coder les instructions. Il n'y a pas  sur le marché un agent IA qui travaille  tout seul si tu n'es pas capable de  coder une instruction. Ça, il faut que tu 
+19:57
+l'oublies. Tout ce que tu vois aujourd'hui,  c'est du marketing qui n'est pas  utilisable et qui n'a pas de fiabilité  sur le marché du travail. Faire 
+20:04
+fonctionner tous ces agents ensemble...  juste ici, je lui dis que je vais aller  réaliser une revue trimestrielle de la  dernière campagne, c'était "HelloFresh 
+20:12
+débarque à la montagne pour les vacances  d'hiver". L'idée, c'est qu'il va créer  une stratégie marketing de cette campagne  qui va s'appuyer sur les agents IA. 
+20:21
+Ils savent comment faire une stratégie  marketing ? Ils savent comment faire le  positionnement ? Ils se repèrent comment  par rapport à la concurrence, par 
+20:28
+rapport à tes produits ? Moi je veux bien  qu'on fasse croire aux gens que c'est  possible avec l'IA, mais le problème,  c'est que ça, ce n'est pas du travail. 
+20:34
+Tout ça, c'est faux. Et le problème,  c'est que vous êtes des centaines de  milliers à regarder ce contenu toute la  journée. Et un jour, vous débarquez sur 
+20:42
+ma page et vous me dites : "Ce que tu  fais, c'est trop technique." Non, ce que  je fais, c'est ce qui est demandé sur le  marché du travail. Ce qui est fait là, 
+20:48
+il ne faut aucune compétence pour dire  une phrase : "Fais-moi une stratégie  marketing, fais-moi gagner 10 000 € par  mois". Tout le monde le fait, alors ça 
+20:56
+doit être vrai. Ou bien tout le monde  est en train de vous mentir. Et prendre  conscience que tout le monde est en train  de vous mentir, ça fait peut-être plus 
+21:02
+mal de prendre conscience que tout ce  qu'on vous raconte depuis 3 ans est faux.  HelloFresh qui débarque à la montagne,  il va analyser les données de performance 
+21:09
+de la campagne précédente pour savoir  où est-ce qu'on va investir. Tu es en  train de me dire qu'une IA va te dire  où il faut investir en analysant les 
+21:18
+performances des données de la campagne  précédente. Sur quels critères, sur  quelles métriques, par rapport à quoi,  par rapport à qui ? Et tu crois que 
+21:25
+simplement en envoyant ça dans Claude  Mythos 5, Claude Fable 5 ou des agents IA,  tu crois que le système est capable,  parce que tu as écrit cette phrase, de 
+21:32
+faire ça ? Non, mais tu commences à  comprendre ou il faut encore t'expliquer ?  C'est juste qu'il ne peut pas commencer  à créer ton business. Ouais, il ne peut 
+21:41
+pas commencer à créer ton business, Claude  Fable 5 et Claude Mythos 5. Je pense  que Claude Mythos 5 ne peut pas créer ton  business si tu ne lui as pas donné ces 
+21:47
+détails. Ouais, il va créer ton business  Claude. Ouais. Ouais, franchement,  ouais. S'il n'a pas ces infos. "Moi  je veux faire 10k par mois dans les 6  prochains mois." Attends, je reprends.  "Moi, je veux faire 10k par mois dans 
+21:56
+les 6 prochains mois. Je veux faire 10k  par mois dans les 6 prochains mois."  Vous êtes un million et demi à suivre ce  type de tutoriels. Combien d'entre vous 
+22:03
+ont fait les 10k par mois en suivant  ce type de tutoriels sans faire des  pyramides de Ponzi ? Parce que les  pyramides de Ponzi, on connaît, et c'est 
+22:09
+important pour moi parce que du coup,  je pourrais potentiellement arrêter  d'étudier. En tout cas, je sais que  je n'aurais pas besoin d'un travail  classique métro-boulot-dodo, et puis en  général, j'ai un peu de temps à partir 
+22:15
+de 18h quand... Non mais Claude Mythos  5 n'est pas ton pote. Claude Mythos 5  n'est pas ta mère. Claude Mythos 5 n'est  pas ta sœur. Arrête de lui raconter ta 
+22:22
+vie. C'est une IA qui consomme des tokens,  qui a besoin de tokens, d'un prompt  système et qui va ressortir des tokens.  Là, tu es en train de nous faire le gars 
+22:29
+en burnout qui parle à une IA. Si tu  parlais à ton chat, ça me choquerait moins 
+22:34
+que tu parles à Claude. "...fin des cours  et puis le week-end, j'ai un peu plus  de temps pour travailler." Voilà. Et  donc là, qu'est-ce qu'il en a à faire 
+22:39
+Claude ? Non mais les gars, on se dit  les choses franchement. On continue à  faire semblant que toute cette industrie  du "moi je veux faire 10k par mois" 
+22:47
+suivie par un million et demi de personnes,  c'est la bonne méthode d'interaction  avec l'intelligence artificielle ? On  continue à faire semblant, je ne sais pas. 
+22:54
+OK, si ça ne vous choque pas, très  bien, allez-y. Oubliez les entreprises.  Oubliez de bosser un jour. Ce n'est pas  ça qui est demandé dans les entreprises. 
+23:00
+Ce n'est pas ce qu'est capable de faire  un enfant de 8 ans dans une boîte. Voici ce qu'on va faire maintenant. Je  vais vous montrer toute l'architecture 
+23:06
+des agents IA que j'ai codée avec Claude  Fable 5 pour exécuter du travail pour 
+23:12
+mon entreprise. Pour vous aider à comprendre  l'architecture de ce que je suis en  train de faire, j'utilise une IA pour  modéliser toute l'architecture des prompts 
+23:19
+système. Voici ce qui se passe. Voici  un exemple d'agents parallèles. Pendant  qu'on est en train de travailler sur  cette tâche qui va prendre du temps, je 
+23:27
+voulais vous montrer un exemple de ce  qu'on appelle des tâches fan-out, donc une  exécution parallèle. Le système va  envoyer quatre agents IA analyser tous les 
+23:36
+fichiers, et c'est là qu'on gagne du  temps. L'objectif d'un système d'agents IA,  c'est de comprendre comment l'information  de l'agent principal va être envoyée 
+23:45
+aux agents sous-agents secondaires pour  gagner du temps. Mais quand tu construis  un agent IA, la première chose à  faire, c'est de vérifier que les étapes 
+23:54
+séquentielles fonctionnent. Et quand les  étapes séquentielles fonctionnent, là  tu peux commencer à réfléchir : est-ce  qu'il y a des étapes que je peux envoyer 
+24:02
+en parallèle ? L'objectif est de diviser  par trois ou par quatre le temps de  travail grâce à ce type d'architecture  qui pilote mon entreprise et toute la 
+24:11
+facturation. Je vais vous montrer comment  il fonctionne. L'agent IA que j'ai  codé avec Claude Fable 5 est structuré  en trois couches. La première couche, 
+24:20
+c'est l'orchestrateur. Ce qu'on a vu tout  à l'heure : il a un kernel, la gestion  du workflow, l'objectif, la gestion de  sa mémoire et la gestion des logs. Il est 
+24:28
+lancé à partir d'une commande. Cette  commande va permettre d'identifier quels 
+24:33
+sont les agents IA qu'il doit contacter.  Chaque agent IA a son propre système de  kernel, de workflow, d'objectif, de  mémoire et de log. Et chaque agent a des 
+24:42
+outils et des interfaces. J'ai des agents  qui vont récupérer les informations  sur internet à partir des fonctions MCP,  se connecter à des bases de données, 
+24:50
+mettre à jour mes fichiers clients  Excel, récupérer les données, créer les  factures, et je dis bien les factures  formatées dans un domaine absolument 
+25:00
+cadré. Vous ne pouvez pas faire comme  on fait sur internet en disant "fais-moi  une facture", sinon vous allez obtenir  une facture toujours différente. Vous 
+25:06
+n'allez jamais avoir la même facture.  Il faut donc cadrer chacune de ces  instructions. Et c'est ça qui fait la  différence sur un marché du travail. Vous 
+25:14
+êtes réellement capable aujourd'hui de  remplacer n8n, Make et Airtable avec 
+25:21
+Claude 4.8 qui va automatiquement se  connecter à Google Drive, à Gmail, à 
+25:26
+Chrome, produire les factures, mettre à  jour mes bases de données, tout cela de  manière automatique. Et dans la  gestion d'orchestration, ce qu'il faut 
+25:33
+comprendre, c'est que le système a  un kernel, c'est-à-dire un système de  raisonnement qui permet de prendre  des décisions lorsqu'il y a un 
+25:42
+dysfonctionnement. Comme l'intelligence  artificielle est un modèle de  probabilités, ce qui peut arriver et  ce qui peut se passer, c'est que l'IA 
+25:50
+décide de s'éloigner du prompt initial  et fasse des erreurs dans la génération 
+25:56
+de ses réponses. Et quand on génère du  code qui va produire du travail, on ne  peut pas se permettre qu'il y ait ce  type d'erreurs parce que cela va changer 
+26:04
+complètement le fonctionnement du système  agentique. Donc l'orchestrateur est là  pour vérifier le fonctionnement. Il  récupère immédiatement les déviations de 
+26:13
+comportement de l'IA et la recadre.  C'est exactement ce qu'on fait avec la  fonction Advisor sur Claude CLI. Mais  là, on le fait avec un codage avec Claude 
+26:22
+Fable 5, et cet outil est capable de  travailler pendant des heures. Je l'ai codé  avec Claude Fable 5. Voici le résultat.
+26:30
+La raison pour laquelle j'utilise Claude  4.8 dans l'interface CLI, c'est le  contrôle des agents IA. Pendant que  j'envoie le travail dans l'agent IA pour 
+26:39
+gérer toute la base de données de  facturation, le système est lancé par la  commande. La commande enclenche tout  le workflow interne avec la base de 
+26:47
+données. Et c'est là que vous allez  découvrir qu'en fait, un agent IA, ce n'est  que de la structure de code que vous  mettez en place pour faire travailler des 
+26:55
+agents IA. Et c'est exactement ce que  je vous apprends à faire au sein des  formations. Les interfaces avancées sont  aujourd'hui les seules à pouvoir donner 
+27:03
+ce niveau de fiabilité. Pendant que  Claude 4.8 travaille de son côté, on va  parler de l'avancée. Qu'est-ce que  permettent de faire Claude Mythos 5 et Claude 
+27:12
+Fable 5 ? Ce sont avant tout des  IA qui ont pour but de réduire les  hallucinations et d'augmenter la stabilité  des modèles. On se rend compte que ce 
+27:20
+sont des modèles capables de s'aligner  sur de longues séquences de travail. Mais  pour ce faire, ils ont besoin d'avoir  des instructions extrêmement bien 
+27:29
+structurées, ce qui nous montre également  que le système de raisonnement a un  plafond en termes de ratio équilibre  efficacité. Lorsqu'on augmente trop la 
+27:39
+capacité de raisonnement, on augmente  de 2 dollars le coût du travail de l'IA 
+27:45
+pour augmenter de 0,3 % la fiabilité du  résultat. Donc aujourd'hui, quand tu as 
+27:50
+une entreprise, il faut que tu connaisses  parfaitement un système d'agents IA :  comment le paramétrer, l'optimiser pour  une question de coût. On a tous entendu 
+27:59
+parler de Salesforce qui a explosé son  forfait en 4 mois. On a tous entendu  parler de Deliveroo qui a explosé son  forfait en 3 mois. On a entendu parler de 
+28:08
+Microsoft qui a interdit à ses ingénieurs  d'utiliser Claude tout simplement  parce que cela explose les forfaits.  Oui, mais pourquoi ? Parce qu'il y a un 
+28:16
+défaut dans la manière d'utiliser  l'intelligence artificielle. Elle était en  open bar illimitée jusqu'à maintenant  parce qu'on entraînait les modèles. 
+28:24
+Maintenant que les IA savent travailler,  elles n'ont plus trop besoin de nous.  C'est nous qui avons besoin d'apprendre  à utiliser ces modèles pour les faire 
+28:31
+travailler. Et il faut que chaque  paramètre soit réglé en fonction de  l'objectif, des outils et du coût, parce  qu'à la fin, celui qui paye, c'est toi. 
+28:40
+Pendant qu'on a parlé, en quelques  minutes à peine, trois factures ont été  faites. Le modèle vient de produire trois  factures à l'instant en récupérant les 
+28:48
+informations sur les bases de données  sur internet, les a récupérées pour les  mettre dans mon ordinateur et il a produit  les factures, toutes les trois de la 
+28:56
+même manière, avec la même mise en page.  Et c'est là où en fait l'agent IA prend  son sens : le système est capable de  s'adapter à la fois au type de produit et 
+29:05
+de garder une logique d'architecture  en comprenant les statuts de règlement.  S'il y a un règlement en plusieurs fois  ou en une fois, les factures ne sont pas 
+29:12
+gérées de la même manière. S'il y a des  dates d'échéance au niveau des factures,  une fois que j'ai codé avec Claude Fable  5 toute la structure, le système est 
+29:22
+capable intégralement de déléguer du  travail, et de manière extrêmement  efficace. Mais non seulement il me fait  les factures, mais il va sauvegarder les 
+29:30
+informations sur une base en ligne et  m'écrire l'e-mail à envoyer au client.  J'ai uniquement à contrôler avant l'envoi  le formatage. Et c'est exactement ce 
+29:40
+qu'on vient de faire là. On a eu une  facture qui a été faite, j'ai validé, je  n'ai plus qu'à envoyer ma facture. Une  autre facture qui a été faite, toujours 
+29:48
+avec la même mise en page. Et c'est là  où je vous dis : travailler, produire du  travail, c'est produire de la fiabilité.  Produire du travail avec les agents IA, 
+29:55
+c'est être capable de coder des systèmes  qui ont de la fiabilité. Et là, je suis  sur la dernière facture qu'on vient de  faire juste à l'instant avec le système 
+30:03
+de stockage. Je n'ai plus qu'à cliquer  sur le bouton envoyer. Les trois critères  aujourd'hui pour savoir si ce que vous  êtes en train de faire est réellement 
+30:10
+utilisable : Est-ce que ça vous fait  gagner du temps ? Est-ce que vous faites  des économies ? Est-ce que ce que vous  avez fait est fiable ? Alors, on pourra 
+30:16
+faire ce que font aujourd'hui les réseaux  sociaux, dire à chaque fois qu'on est  tombé sur le meilleur modèle d'intelligence  artificielle et que Claude Mythos 5 
+30:24
+est le modèle le plus incroyable. Mais  la question n'est pas de savoir si c'est  le modèle le plus incroyable. Est-ce que  vous avez aujourd'hui les compétences 
+30:30
+pour faire d'un modèle technique un  outil de travail pour votre entreprise ?  Est-ce que demain, au lieu de croire à  des tutoriels qui vous parlent de pièges 
+30:40
+cachés ou de compétences, vous vous  rendrez compte que vous avez exactement les  mêmes outils que ces gens-là ? Mais ce  qui fera la différence sur un marché, 
+30:47
+c'est celui qui sait intervenir  sur les modèles d'agents, coder les  instructions. Et lui, il va malheureusement  remplacer les postes des autres 
+30:55
+collaborateurs qui continuaient à utiliser  l'intelligence artificielle de cette 
+
+Tout
+
+Source : Parlons IA
+
+Intelligences
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+2:39:50
+Expert anti-âge : lâchez vos tickets de caisse ! L'astuce ultime pour brûler la graisse viscérale
+The Diary Of A CEO
+ et FoundMyFitness
+2,9 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+30:17
+Claude Fable 5 : Le gouvernement veut le bloquer ! Comment y Accéder!
+Parlons IA
+22 k vues
+•
+il y a 2 semaines
+
+
+13:35
+On vient d'enterrer 50 ans de physique théorique
+Vision IA
+il y a 2 mois
+Sélection YouTube
+Réservé aux membres
+
+
+1:29:13
+La France dans tous ses états du 30 juin
+Sud Radio
+756 vues
+•
+il y a 19 heures
+Nouveau
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+95 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+14:49
+JEUX EN VRAC - Parappa The Rapper!
+Bazar du Grenier
+1,1 M de vues
+•
+il y a 1 an
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+7,6 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+31:15
+Obsidian + Claude 4.7 = voici comment créer Le cerveau artificiel parfait !
+Parlons IA
+11 k vues
+•
+il y a 2 mois
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+14 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+8,7 k vues
+•
+il y a 16 heures
+Nouveau
+
+1:59:51
+La retraite à 40 ans : mythe ou réalité ?
+l'Observateur
+17 k vues
+•
+il y a 10 jours
+
+36:21
+J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé
+Eliott Meunier
+10 k vues
+•
+il y a 4 jours
+Nouveau
+
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+Parlons IA
+7,7 k vues
+•
+il y a 1 mois
+
+33:53
+Claude Fable 5 : qui gagne, qui perd, et quoi faire avant le 23 juin
+IA et Stratégie | Le SamourAI
+16 k vues
+•
+il y a 2 semaines
+
+50:01
+Le plein d'innovations, pour le meilleur et pour le pire
+Renaud Dékode
+5,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+    

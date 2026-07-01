@@ -1,0 +1,736 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+3
+
+Image d'avatar
+Voici mon Agent IA Claude + Obsidian I Deuxième cerveau !
+IA
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+331
+
+
+Partager
+
+Posez une question
+
+Télécharger
+
+4 104 vues  3 juin 2026  #obsidian #claude #claude47
+Découvrez comment combiner Obsidian et Claude 4.8  pour créer un cerveau artificiel parfait. Dans cette vidéo, nous allons explorer les possibilités offertes par l'intégration de Claude, un outil d'intelligence artificielle avancé, avec Obsidian, un système de gestion des connaissances personnelles. Nous allons vous montrer comment configurer Claude code et utiliser ses compétences pour améliorer votre productivité et votre capacité à traiter l'information. Vous apprendrez également comment utiliser Claude cowork pour collaborer avec d'autres utilisateurs et créer des agents intelligents. Nous aborderons également les concepts de prompt engineering et de construction d'un second cerveau, et comment utiliser Claude opus 4.8 pour améliorer vos capacités de codage et de gestion des connaissances. Si vous cherchez à améliorer votre workflow et à augmenter votre intelligence artificielle, cette vidéo est faite pour vous. Nous allons vous montrer comment utiliser Obsidian et Claude 4.7 pour créer un système de gestion des connaissances personnalisé et améliorer votre capacité à apprendre et à créer. 
+
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+Chaîne YouTube :    / @parlons.ia.2  
+Chaîne Dailymotion : https://dailymotion.com/formation.ai87
+Podcast : https://spoti.fi/4dqZ3uO
+Blog :   / flma1349  
+
+📲 Réseaux & contact
+X / Twitter : https://x.com/ParlonsIAx
+TikTok :   / parlonsia  
+
+🧪 Outils IA à tester
+Coder Agent IA : https://bit.ly/Coder_agentiA
+Short AI : http://bit.ly/4lzE782
+SEO Agent IA : https://urlr.me/P8AS5N
+ — 🎁 -25 % avec le code PARLONSIA25
+
+Découvrez comment combiner Obsidian et Claude 4.8 pour créer le cerveau artificiel parfait. Dans cette vidéo, nous allons explorer les capacités de Claude, notamment son potentiel en matière de codage et de prompt engineering, ainsi que les possibilités offertes par son intégration avec Obsidian. Vous apprendrez comment configurer Claude pour obtenir des résultats optimaux et comment l'utiliser en tandem avec Obsidian pour créer un système de gestion des connaissances personnelles, également appelé "second brain". Nous aborderons également les avantages de l'utilisation de Claude pour améliorer vos compétences en matière de codage et de développement, ainsi que les différentes façons dont vous pouvez utiliser Claude pour améliorer votre productivité et votre efficacité. Que vous soyez un développeur expérimenté ou un débutant, cette vidéo vous montrera comment utiliser Claude et Obsidian pour prendre votre travail à un niveau supérieur et créer un cerveau artificiel qui répond à vos besoins. Nous discuterons également de la façon dont Claude 4.8 peut être utilisé pour créer des agents intelligents et des systèmes de codage avancés, et comment Obsidian peut être utilisé pour créer un système de gestion des connaissances personnalisé. Rejoignez-nous pour découvrir les possibilités infinies de Claude et Obsidian, et apprenez à utiliser ces outils pour améliorer votre travail et votre vie
+
+
+
+#obsidian #claude #claude47
+Comment ce contenu a été créé
+Créé avec l'IA
+Des sons ou des images ont été modifiés ou entièrement générés. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+true
+27:16
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+de Parlons IA
+true
+33:54
+Claude Code : obtenez le diplôme officiel pour être embauché !
+de Parlons IA
+true
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+de Parlons IA
+13 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 4 semaines
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr 
+ -40 % sur les IA 👉: https://www.subifyhub.com/product-detail/69a852b8f438449fdb59dbeb 👉  +92 327 234 18 39   I  -40 % sur les IAt +10 % de remise Ajoute le code NYQVY  via ce lien :  https://www.gamsgo.com/partner/gcjmX
+
+1
+
+
+Répondre
+
+Parlons IA
+·
+
+2 réponses
+
+@raphael19553
+il y a 3 semaines
+Superbe vidéo ! Vous êtes très pros ! Avec une vraie approche, comparée à ce qui se fait dans la masse.
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+2 réponses
+
+@benjy865
+il y a 3 semaines
+Merci super vidéo pleine d'infos très intéressantes, j'apprécie énormément vos conseils. 👩🏼‍💻🤝🏽
+
+
+
+Répondre
+
+Parlons IA
+·
+
+2 réponses
+
+@Bentusiii
+il y a 3 semaines
+effectivement ça a l'air pro et très pragmatique, ancré dans le réel et pas seulement des idées jamais testées, mais je dois avouer mon incompétence à ce niveau.
+
+j'étais seulement en train de chercher comment organiser un assistant un peu complexe avec de très nombreuses sous-compétences et références croisées dans obsidian et connecter ça en semi-local via anythingllm  quelqu'un a déjà essayé ??? effectivement, pas moyen d'envoyer un prompt de plusieurs pages à chaque fois, comment réussir à conserver ses données en local et n'envoyer que le contexte nécessaire et/ou le conserver en cache ? (nouvelle notion pour moi). bref, on ouvre une porte et il y en a encore 100 derrière 
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@AdrienVercaempst
+il y a 3 semaines (modifié)
+Mes "fiches" sont générés par claude mais quid des llm locaux/openweight (en gros chinois en local/datacenter EU ou Mistral) pour un résultat "RGPD" corporate. Quels sont les meilleurs scoring/benchmark à évaluer pour être déterministe jusqu'au bout? Peut-être un bon sujet lié au wiki et intéressant pro. (et Idem thinking vs sans thinking)
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Je suis professeur à NYU (New York  University) depuis 23 ans. Les LLM, c'est une 
+0:05
+révolution, mais ce n'est pas une voie  royale vers l'intelligence au niveau  humain. Il leur manque quelque chose  d'essentiel pour atteindre ce type 
+0:13
+d'intelligence. Donc l'idée qui est  toujours très répandue selon laquelle pour  arriver à l'intelligence au niveau  humain, il suffirait d'augmenter la taille 
+0:19
+des modèles, est totalement fausse à mon  avis. Alors comment faire pour créer un  deuxième cerveau sécurisé pour vos  données ? Dans cette vidéo, je vais vous 
+0:26
+expliquer comment on va créer une base  de données avec Obsidian dans l'interface  Claude 4.8. Mais ce que je vais vous  apprendre pour Claude 4.8 est aussi valable 
+0:33
+avec ChatGPT. L'objectif, c'est d'optimiser  notre système de fonctionnement. Ce  qu'il faut éviter absolument, c'est de  rentrer dans la zone de long contexte. La 
+0:42
+zone où on surcharge le modèle en quantité  de contexte va épuiser votre forfait 
+0:47
+et surtout vous faire perdre en  performance. On va essayer de tout coder  ensemble, de déployer et de tester un  système de deuxième cerveau local sous 
+0:54
+Obsidian en utilisant Claude 4.8  Code, et on va faire ça ensemble.
+1:03
+Quelle est la différence principale entre  Obsidian et un système RAG ? Obsidian,  c'est une base de données au format  Markdown, c'est-à-dire un système qui permet 
+1:12
+en fait de lire du texte. L'avantage  de ce système, c'est que ça nous permet  également de faire des représentations  visuelles où on détermine des liaisons. 
+1:20
+Mais attention, ce n'est absolument pas  un RAG. Les fois précédentes, on a vu  les systèmes RAG. On a travaillé sur  des sources de données, on a inséré des 
+1:29
+métadonnées et on a effectué un chunking.  Après cette étape, on les a envoyées  dans une base vectorielle, la vector  database. Cette fois-ci, on va s'arrêter à 
+1:37
+l'étape du chunk. L'objectif est de  créer une base de chunks directement sur 
+1:42
+l'ordinateur, mais on va coder des  agents IA qui vont récupérer ces données.  Alors la difficulté, et ce qu'il faut  éviter maintenant qu'on a bien nettoyé nos 
+1:51
+bases, c'est de saturer le contexte de  Claude 4.8. Claude 4.8, c'est une IA qui 
+1:57
+revient vite cher. Donc pour optimiser  Claude 4.8 CLI, ce qu'on va faire, c'est  que l'on va coder des agents IA. Voici  ce qu'on va coder dans cette vidéo. Alors 
+2:04
+n'ayez pas peur si vous ne codez pas,  j'ai déjà tout codé. Mais il se peut qu'il  y ait des bugs et j'ai envie de vous  montrer comment on va les corriger, comment 
+2:12
+on va optimiser. Ça va être une façon  d'apprendre. Notre système va être conçu  avec trois agents IA. Un système qui va  faire de la recherche dans la base de 
+2:20
+données. Une fonction qui s'appelle une  fonction "grep", c'est une recherche de  mots-clés lancée par Claude 4.8, et on  va utiliser un algorithme, le BM25 et le 
+2:30
+TF-IDF. Ce sont deux algorithmes qui  répondent à l'ordre de la milliseconde,  c'est hyper rapide. Si les deux modèles  ne trouvent pas de résultats dans la 
+2:38
+base Obsidian, c'est un agent sémantique  qui va utiliser les structures d'index. 
+2:43
+Lorsqu'on va créer notre base de  connaissances de deuxième cerveau avec  Obsidian, ce qu'il faut faire, c'est  créer une structure d'index. Cet index va 
+2:51
+permettre, grâce à la reconnaissance  sémantique (on n'est plus sur l'algorithme  brut), d'aller rechercher les mots-clés.  On va éviter comme ça de saturer 
+2:59
+l'interface. On va le tester, on va le  déployer ensemble, et si ça marche, la  version corrigée, je vais la mettre dans  les formations, dans les cours. Dans le 
+3:07
+tutoriel précédent, je vous ai montré  comment on extrait les données à partir de  documents PDF et comment y ajouter les  métadonnées d'identification. Une fois 
+3:15
+qu'on a préparé notre base, on va  directement la mettre dans l'interface. Donc,  on va retrouver notre index racine et  la structure à l'intérieur des chunks.
+3:24
+Ce qui va nous intéresser maintenant,  c'est de déployer la partie logicielle.  Pour le déploiement, je vais certainement  utiliser Claude 4.8 Sonnet. Je vais 
+3:32
+partir sur une nouvelle conversation.  Donc vous faites deux fois "Escape", vous  faites un "clear" de la conversation et  après vous passez sur le modèle Sonnet. 
+3:40
+En raisonnement, on va passer sur du  Claude 3.5 Haiku et, par-dessus, je vais 
+3:46
+rajouter un système d'Advisor pour pouvoir  gérer certaines problématiques. Et on  va mettre un Claude Opus 4.7 par-dessus.  On optimisera comme ça. Dans l'idée, 
+3:54
+j'ai en fait tout codé les éléments qui  sont ici. On va le faire déployer par  Claude Opus 4.7. Donc je vais lui indiquer  le répertoire d'installation et le 
+4:02
+répertoire racine. Pour obtenir les  répertoires, vous faites un clic droit et  vous sélectionnez "Copy path". On va  lui donner le répertoire racine pour les 
+4:10
+commandes, les agents et les scripts, qui  va être le répertoire principal. Alors  on va faire ça vraiment en live pour un  tutoriel d'installation. On va voir si 
+4:18
+ça marche, s'il y a des choses à  corriger. Pour un système de démarrage, je  fais toujours un fichier README. Cela  permet en général au modèle de lui dire de 
+4:26
+suivre les étapes d'installation,  d'installer les packages et de me poser des  questions si des éléments ne sont pas  clairs. Ce que je vous conseille de faire, 
+4:32
+c'est de passer en "Plan mode",  de vérifier comment il va recevoir  l'information. On va partir là-dessus  et on va regarder quelles sont les 
+4:40
+questions qu'il va me poser, de quoi  il va avoir besoin. Il voit qu'on a le  fichier README et BM25, donc il va explorer  la structure complète du fichier. Je 
+4:48
+fais toujours un fichier d'installation  ; c'est un peu comme un programme où on  lui explique dans quel ordre il doit  travailler, quels sont les packages et 
+4:54
+quels sont les tests finaux qu'il doit  lancer au niveau de l'exécution (run)  pour vérifier ses actions. Les boucles  agentiques doivent toujours être 
+5:00
+composées de ces trois séquences pour  fonctionner. Il faut toujours être dans  un système de boucle agentique. Chaque  fois que vous travaillez avec l'IA, votre 
+5:09
+prompt doit lui dire quoi récupérer,  à quel moment, et quelle action  entreprendre. Il ne faut pas démarrer  directement en disant "code-moi quelque 
+5:17
+chose". Je pense qu'il faut toujours  préparer en amont toute la structure avec  les éléments de code déjà présents, puis  lui dire d'installer les éléments dans 
+5:25
+les répertoires et ensuite de  vérifier si les tests fonctionnent. Si vous voulez apprendre à utiliser  l'intelligence artificielle, il faut sortir 
+5:33
+de la logique d'un prompt parfait et  non fonctionnel. Ce que vous allez  apprendre avec les formations, c'est  comprendre ce qu'est un dataset, comment on 
+5:41
+optimise les contextes, les mémoires,  les "memories". Vous allez apprendre à  coder vos propres agents IA pour votre  business, pour votre entreprise. Toutes 
+5:49
+les infos sont en description. Que  vous soyez débutant ou avancé, cette  formation est conçue pour vous permettre  de devenir le meilleur sur le marché en 
+5:56
+moins de 15 jours. 80 heures de cours  avec mises à jour incluses, à suivre à  votre rythme. Toutes les  infos sont en description.
+6:03
+Pour l'installation, nous allons installer  le BM25. On va créer un dossier BM25. 
+6:10
+On valide. Dans votre interface, je vous  conseille de faire un système de cache  comme je l'ai fait ici. Cela me permet  de contrôler l'avancée de ma mémoire 
+6:19
+contextuelle. Dès que vous rentrez dans  une zone de 70-80 %, vous savez que ça  va être plein. Anticipez le problème  avec l'IA notamment. Sinon, vous êtes 
+6:27
+toujours sur des fenêtres à 1 million de  tokens. Et le problème des fenêtres à 1  million, c'est que sur Claude 3.5 Sonnet,  on a une précision de 76 %, ce qui est 
+6:35
+plutôt pas mal. Mais par contre, ce  n'est pas du tout le cas avec Claude  Opus 4.7 où l'on a un très gros drop  de précision, on descend à 36 %. Donc 
+6:42
+aujourd'hui, il faut attendre qu'Anthropic  résolve ce problème de précision dans  la fenêtre contextuelle. Ce qui fait que  quand vous dépassez les 2 500 tokens, 
+6:50
+vous payez plus cher et vous perdez  beaucoup en précision, ce qui va amener  systématiquement des erreurs. Donc  travaillez toujours avec le contrôle de 
+6:57
+votre fenêtre de travail. Un élément  aussi qu'il faut comprendre, c'est que  quand vous envoyez un système, il va  lire l'intégralité du package. Donc cela 
+7:04
+veut dire que tout ce qui est codé va  être envoyé dans la fenêtre contextuelle  et va être mis en cache. L'avantage,  c'est qu'une fois que c'est mis en cache, 
+7:12
+vous ne le payez pas une deuxième fois.  Tout ce qui a déjà été envoyé dans le  système d'Anthropic va rester dans la  mémoire. Ce qu'on va payer en revanche, 
+7:20
+c'est le fait de relancer la machine pour  lui dire d'exécuter. Le point capital  de démarrage est de toujours commencer  un système avec un "Plan mode". On va lui 
+7:29
+permettre de vérifier s'il a compris ce  qu'il a à faire, de préciser s'il n'a  pas compris, et c'est la seule manière  en fait de faire exécuter des workflows 
+7:37
+qui vont être longs. Là, si on regarde  bien, cela fait à peu près 6 à 7 minutes  qu'il est en train de travailler, et  quand il va installer l'intégralité, ça 
+7:43
+peut prendre un quart d'heure. Donc  pour stabiliser les systèmes, démarrez  toujours par un système de plan (raccourci  Maj + Tab). Vous basculez sur le 
+7:53
+système "Plan mode" en bas. J'ouvre une  parenthèse : dans mes paramètres, j'ai 
+7:59
+accès à tout son système de raisonnement.  Ce système de raisonnement, je l'ai  activé par défaut, vous ne l'avez pas.  Il faut aller dans les paramètres de 
+8:06
+configuration pour pouvoir y accéder.  Dans les paramètres, vous avez une  variable qui s'appelle verbosity, et  c'est là que vous l'activez, ce qui vous 
+8:11
+permet d'avoir accès à tout  son système de raisonnement. Vérifions le comportement du modèle  : installation du kit BM25, donc de 
+8:18
+l'algorithme des fonctions grep, à  partir des fichiers. C'est très important  d'avoir codé en amont. On va gagner du  temps et cela va permettre de vérifier 
+8:25
+aussi les répertoires. Il a compris mon  répertoire d'installation, le fichier  racine de Claude 4.8, la source et le  dossier où il va mettre les algorithmes et 
+8:36
+les librairies. On va utiliser PowerShell  pour installer les scripts, déployer 
+8:42
+Claude 4.8 dans les assets et substituer  les chemins d'accès. C'est parfait, car  en codant, on utilise des répertoires  génériques, donc il faut qu'il y ait une 
+8:57
+substitution des répertoires. Cela  fait partie des commandes que j'ai  configurées. Et normalement, on a les  variables d'environnement et les tests de 
+9:05
+vérification à la fin. Donc pour moi  tout est bon, il a tout compris. Ensuite,  vous avez la partie du code avec  la réponse du LLM. Moi, je regarde 
+9:13
+systématiquement comment il a raisonné.   Une fois que tout est bon, je valide le déploiement et l'installation avec "Bypass  
+9:20
+permission" (commande : claude-cli --dangerously-skip-permissions).  
+9:38
+C'est parti. On commence le déploiement et l'installation. Je vous donne mon avis par rapport à ce  que j'ai pu voir sur les tutoriels sur 
+9:45
+Obsidian et tous les conseils des influenceurs.  
+9:51
+Primo, vous avez compris qu'on ne peut pas envoyer des documents   de 58 pages à chaque fois que l'on pose une question, sinon on va exploser les forfaits  
+9:58
+en 4 secondes. Ensuite, ça n'existe pas, honnêtement, un système autogéré  
+10:06
+capable de faire gérer Obsidian tout seul par le LLM (Claude 4.8) en le mettant en   mémoire. Ce n'est pas possible. Sans entrer dans les détails techniques,  
+10:14
+le modèle n'est pas capable de travailler sur tous les types de documents ou différents  
+10:19
+sujets. Si vous ne traitez qu'un seul type de sujet, vous pouvez   configurer un système. Mais si vous travaillez sur des sujets différents (comptabilité,  
+10:25
+marketing, documents personnels), vous ne pouvez pas créer un système qui gère  
+10:30
+tout en même temps, ou alors c'est très complexe. À mon sens, il est nettement  
+10:36
+préférable d'intervenir en tant qu'humain au bon moment, de choisir de n'avoir que   deux fonctions pour ne pas noyer la machine. Les deux fonctions : un,  
+10:44
+c'est poser des questions ; deux, c'est gérer les index. Toute l'architecture est pensée   pour être fonctionnelle sur un petit ordinateur. Il n'y a pas de RAG complexe, mais  
+10:52
+on va utiliser des captures d'index. Maintenant, on va tester. On va ouvrir  une nouvelle session. Je vais me mettre 
+10:59
+en split terminal comme ça on pourra  voir s'il y a des corrections à apporter.  Au niveau de Sonnet, cette fois-ci en  effort de raisonnement, je vais rester en 
+11:09
+"medium" (c'est le minimum recommandé).  On va le tenter quand même. Ce qu'on va 
+11:16
+lancer maintenant, c'est une "WikiQuery".  Mes fonctions sont présentes. Ici, le 
+11:22
+système attend ma demande. Vu que la  documentation parle de DeepSeek, on va lui 
+11:28
+poser la question là-dessus. C'est  important de noter que ce sont des fonctions 
+11:36
+de recherche par expressions régulières  (Regex) qui vont chercher des mots-clés.  On ne va pas utiliser le cache et le  contexte au début, on va envoyer des 
+11:43
+algorithmes Python pour effectuer des  recherches en parallèle. Je vais lui 
+11:53
+donner des mots à aller rechercher :  "auteur" et "date", pour commencer et voir 
+12:00
+s'il y a un matching. Cela a été  ultra-rapide. Il n'a pas trouvé de matching 
+12:07
+direct, il a basculé sur l'agent  sémantique. Regardons s'il utilise le bon 
+12:15
+fichier : il a pris le fichier index  (raccourci Ctrl + O pour déplier tout le 
+12:21
+raisonnement). On voit qu'il a délégué  à WikiQuery, la fonction que j'ai  appelée. Il a lancé une recherche sur  l'auteur et la date. On a un top_k de 5 
+12:33
+et une profondeur de 3. Il a utilisé une  fonction glob et grep pour rechercher 
+12:39
+dans tout le répertoire, et il a trouvé  une métadonnée dans le fichier d'origine  avec les termes "auteur" et "date". Il  a matché deux mots, c'est pour cela que 
+12:49
+les métadescriptions sont hyper  importantes. On a une correspondance avec le  document d'origine. Ce qu'il faut  éviter, c'est d'injecter le document en 
+13:02
+entier, ce n'est pas l'objectif. À partir  de l'index, il a pu récupérer la date 
+13:09
+de publication et le chunk 01. C'est bien  là que se trouve le document. Si on va 
+13:19
+sur le chunk 01, on voit qu'il y a  l'auteur (DeepSeek) et la date. Les 
+13:25
+informations sont bien là. On va refaire un test. On fait un "clear"  pour repartir sur un contexte propre. 
+13:55
+On lance une "WikiQuery" sur le concept  de "Sparse". Le modèle va directement 
+14:08
+rechercher dans le fichier. L'installation  est bonne. Il m'a exclu tous les  éléments du dossier R. En revanche, je  ne l'ai pas vu partir sur le fichier 
+14:22
+index. On va donc rajouter cette  consigne : démarrer sur le fichier index, 
+14:28
+écriture de l'index du répertoire. On  lui donne l'obligation de lire le fichier 
+14:37
+index au démarrage. C'est ainsi que l'on  va optimiser le système pour le rendre  plus performant et plus léger. Est-ce  que le modèle nous a répondu ? Il a bien 
+14:54
+trouvé la documentation, il a injecté la  méthode "Sparse explained", extrait les  données et donné la représentation des  documents. On a pu récupérer la mécanique 
+15:04
+du système Sparse, les  formules mathématiques et les   avantages. On est à 12 % d'utilisation de contexte, ce  
+15:12
+qui est très bien. Mais je veux qu'il passe par l'index. On refait une tentative avec la  
+15:20
+vérification de la lecture de l'index. Cette fois, il va chercher le fichier  
+15:32
+principal du répertoire index.md. Quand vous aurez plusieurs index,   il y aura un index global qui va router dans les différents répertoires. Quand vous avez une base  
+15:59
+de données qui commence à être grosse, c'est bien d'avoir une   idée d'où se trouvent les éléments. Pour optimiser le système et réduire les coûts, je   peux lui indiquer directement le chemin du répertoire et lui demander  
+16:18
+de m'expliquer le sujet. Regardons son fonctionnement : première étape,  
+16:31
+il a trouvé le terme dans plusieurs éléments en utilisant uniquement l'algorithme, ce qui  
+16:38
+nous coûte zéro en termes de puissance de processeur et de contexte de départ.
+16:44
+Régulièrement, quand vous faites des  modifications, il faut mettre à jour votre  fichier principal index. C'est lui qui  va permettre, quand vous ne savez pas où 
+16:51
+se trouve une donnée, de router vers  tous les répertoires. C'est là que vous 
+16:56
+définissez la profondeur de recherche  (niveau 1, niveau 2, niveau 3). Si vous  voulez descendre dans des sous-dossiers,  vous donnez plus de profondeur à 
+17:04
+l'agent IA. Voilà pour cette section.  Nous avons vu deux méthodes différentes 
+17:11
+pour coder des agents IA qui vont utiliser  vos fichiers de travail stockés sur  votre ordinateur. Ce qui est important,  c'est de préparer, d'entretenir et de 
+17:19
+nettoyer votre base de données. Ne  pensez pas que l'IA va faire cela toute  seule. C'est la raison pour laquelle  les bases de données de type RAG coûtent 
+17:30
+cher à mettre en place. Plus une  IA permet de répondre à un problème 
+17:37
+d'entreprise en travaillant à partir de  vos documents de manière sélective, plus  vous gagnez en vitesse d'exécution. C'est  un retour sur investissement évident. 
+17:46
+Si l'on crée des réponses génériques  où l'IA n'est pas capable de cibler ce  qu'elle doit récupérer, elle  travaillera par défaut sur les données 
+17:57
+d'entraînement du LLM. Le RAG a du sens  quand vous devez travailler à partir de 
+18:05
+vos données et injecter des informations  précises. Il faut un système capable de 
+18:12
+les récupérer et de les insérer au point  précis, sans envoyer des dizaines de  documents non pertinents. On privilégie  des séquences courtes basées sur la 
+18:27
+recherche par mots-clés (BM25), couplée  à une fonction grep, et par-dessus un 
+18:35
+système de retrieval sémantique basé sur  l'indexation. N'hésitez pas à partager 
+18:44
+vos stratégies en commentaire.
+18:53
+Dans cette section, on va parler  de l'architecture du programme.  Personnellement, je ne l'ai pas directement  déployé et installé avec Claude 4.8. 
+19:01
+Je l'ai codé avec ChatGPT, car cela me  revient moins cher en tokens. J'ai tout  codé avec ChatGPT 5.3 et la dernière  passe, je l'ai faite avec ChatGPT 5.5. Les 
+19:13
+paramètres utilisés ont été "raisonnement  High" pour ChatGPT 5.3 Codex et 
+19:19
+ChatGPT 5.5. Cela a été largement  suffisant. Le temps de développement a été 
+19:27
+de 3 jours, soit environ 30 heures de  raisonnement et 8 heures pour la mise en 
+19:33
+place, la correction des bugs et  l'intégration des contraintes. Je propose le  système complet dans mon accompagnement  One-to-One, mais je vous livre ici la 
+19:41
+méthode et les variables. À partir de  ce draft, vous pouvez tout reconstruire 
+19:47
+avec ChatGPT. Il faut suivre exactement  la structure suivante : j'ai défini des 
+19:53
+répertoires par défaut avec un "top K"  de 8 pour limiter l'injection à moins 
+20:03
+de 2 000 tokens, ce qui est très correct.  Par défaut, le système crée un fichier 
+20:16
+"RAG". La structure des dossiers est  la suivante : agents, command, example, 
+20:24
+script, test, package, test_config et  system_config. Ce sont les noms par défaut 
+20:30
+utilisés dans Claude 4.8 Code. En  fournissant cette structure à Claude 4.8, il 
+20:39
+sait exactement quels dossiers construire.  La partie logique est compressée. On 
+20:46
+a deux fonctions : WikiQuery et WikiIndex.  Le système Query est lancé par la 
+20:55
+commande dans le répertoire, il lance  index.js puis un sous-agent qui s'appelle 
+21:02
+Query Sémantique. L'indexation s'appuie  sur le BM25. Je vais rajouter un fichier  de logique d'architecture BM25 et de  fonctionnement des agents en ASCII dans le 
+21:12
+répertoire dédié. On démarre sur un "Plan  mode" pour valider l'arborescence des 
+21:20
+agents. Le fonctionnement est classique  : la commande appelle l'agent, l'agent 
+21:50
+Query appelle le sous-agent si les valeurs  du BM25 sont inférieures à un certain 
+21:55
+seuil, et l'agent sémantique commence à  lire les index. Développer ce programme 
+22:03
+prend environ 3 jours de tests et  d'optimisation. C'est un vrai travail de  compétences. Si vous devez choisir,  privilégiez le RAG, qui reste le plus 
+22:29
+performant pour travailler de manière  sélective sur vos documents. C'est un  outil rapide qu'il faut savoir coder.  Vous pouvez utiliser Claude Opus 4.7 pour 
+22:42
+ce type de structure complexe. Je vous  fournis les fichiers d'installation et de 
+22:52
+configuration des agents. Il vous suffira  de personnaliser les répertoires. Je 
+23:09
+passe toujours par une phase de tests pour valider   la logique du workflow et des chemins avant le déploiement.
+23:26
+Regardons l'architecture BM25 : la  requête de l'utilisateur est lancée par la 
+23:38
+fonction WikiQuery, résolue avec un  top_k de 8 et une profondeur de recherche 
+23:46
+de 4. La boucle d'indexation démarre  avec le fichier main_index.md. Les 
+24:01
+répertoires "RAG" sont exclus. À partir  de là, le traitement s'effectue et 
+24:14
+l'agent sémantique récupère uniquement  les chunks avec un score supérieur à 85. 
+24:20
+Il construit un index lexical combinant  BM25 et sémantique, réalise un "rank 
+24:31
+fusion" et renvoie la synthèse. Tout  cela se fait dans une fonction fork 
+24:36
+externe. Le fichier package.json  cartographie le fonctionnement des agents 
+25:03
+(Query et Index). L'index a pour but  de scanner les fichiers index d'un 
+25:12
+répertoire pour mettre à jour le  fichier main_index.md. C'est cet index 
+25:23
+principal qui sert à la fonction Query.  Il est important de le mettre à jour  lorsque vous ajoutez de nouveaux  dossiers, mais manuellement pour éviter de 
+25:48
+scanner la base en continu et de  consommer votre forfait inutilement.
+26:16
+Pour coder l'architecture du programme,  
+28:42
+j'ai utilisé ChatGPT 5.3 Codex et ChatGPT 5.5 en mode raisonnement High,  
+28:52
+ce qui a été parfait. Avec les fichiers fournis, vous pouvez tout assembler  
+29:10
+vous-même. Bâtir une bonne architecture demande de la réflexion pour savoir quoi   optimiser et comment. Le RAG est la meilleure option pour travailler   proprement. Si vous souhaitez tout centraliser en local, vous pouvez utiliser un modèle adapté  
+30:25
+aux tâches agentiques. Le modèle Llama 3 8B n'est pas suffisant  
+30:32
+pour cela, je vous conseille plutôt d'utiliser Qwen 3 en version 32B minimum pour éviter  
+30:59
+les erreurs, ou le modèle local Nemotron. Si vous avez les forfaits  
+31:04
+nécessaires, vous pouvez basculer sur Claude 3.5 Sonnet ou DeepSeek   V4 en version Pro. DeepSeek a de fortes chances 
+31:32
+d'avoir été entraîné en partie grâce  à des données issues de Claude par 
+31:39
+apprentissage par renforcement, ce qui  en fait un excellent candidat pour le 
+31:52
+développement et les tâches agentiques,  avec des performances remarquables pour  un coût très avantageux. Pour développer  votre système, donnez la logique et les  fichiers à l'interface, basculez en  "Plan mode", structurez les étapes en 
+32:12
+Markdown, puis passez à l'installation.
+
+Tout
+
+De la série
+
+Source : Parlons IA
+
+Intelligences
+
+Informations
+
+Pour vous
+
+Regardées
+
+
+19:44
+Chaque IA Expliquée en 19 Minutes
+Yassine Sdiri
+70 k vues
+•
+il y a 9 jours
+
+
+23:32
+Hermes Agent vient de tuer Openclaw ?
+Shubham SHARMA
+109 k vues
+•
+il y a 1 mois
+
+
+13:35
+On vient d'enterrer 50 ans de physique théorique
+Vision IA
+il y a 2 mois
+Sélection YouTube
+Réservé aux membres
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+31:15
+Obsidian + Claude 4.7 = voici comment créer Le cerveau artificiel parfait !
+Parlons IA
+11 k vues
+•
+il y a 2 mois
+
+
+1:29:13
+La France dans tous ses états du 30 juin
+Sud Radio
+756 vues
+•
+il y a 19 heures
+Nouveau
+
+
+2:39:50
+Expert anti-âge : lâchez vos tickets de caisse ! L'astuce ultime pour brûler la graisse viscérale
+The Diary Of A CEO
+ et FoundMyFitness
+2,9 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+24:59
+Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (hélène & les garçons, Premiers Baisers etc)
+Joueur Du Grenier
+6,4 M de vues
+•
+il y a 6 ans
+
+
+24:31
+Votre Second Cerveau IA est DÉPASSÉ (Wiki Karpathy 2.0)
+Valentin Fontana
+992 vues
+•
+il y a 5 jours
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+36:21
+J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé
+Eliott Meunier
+10 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+41:58
+Tech Sama Show #360 : Windows 10 prolongé à 2027, Steam Machine à 1039€
+Tech_Sama
+7,6 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+8,7 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,4 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+Parlons IA
+7,7 k vues
+•
+il y a 1 mois
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+11:12
+Claude Advisor Agent: tous les développeurs doivent le tester !
+Parlons IA
+4,2 k vues
+•
+il y a 2 mois
+
+29:08
+Claude, crée un deuxième cerveau RAG avec Obsidian
+IA Expliquée
+5,3 k vues
+•
+il y a 11 jours
+
+    

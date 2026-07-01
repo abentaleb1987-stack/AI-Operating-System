@@ -23,9 +23,22 @@ Elements observes dans la video Labo Des Reseaux du 2025-11-25, a confirmer par 
 - integration observee avec Google Docs, Slides, Sheets et Gmail ;
 - liens possibles avec Google AI Studio, Google Cloud, Nano Banana Pro et Veo 3.1 selon la demonstration.
 
+Elements observes dans la video Parlons IA du 2026-06-05, a confirmer :
+
+- usage de Gemini dans une logique agentique avec outils, criteres de decision et boucles de controle ;
+- importance de limiter l'ambiguite semantique pour stabiliser les sorties ;
+- necessite de parametrer les outils, permissions, formats de sortie et conditions d'arret.
+
 ## 4. Forces
 
+- Peut etre interessant pour des workflows agentiques si les outils, contraintes et criteres sont explicites.
+- Peut servir a des productions rapides lorsque la demande est suffisamment structuree.
+
 ## 5. Faiblesses
+
+- Risque de sorties instables si le prompt reste vague ou role-based.
+- Les conditions d'acces, couts, forfaits et credits sont instables et doivent etre verifies avant decision.
+- Les comparaisons de performance issues de videos de demonstration ne sont pas suffisantes pour valider un usage strategique.
 
 ## 6. Cas d'usage valides
 
@@ -67,6 +80,16 @@ Pour les usages Gemini, preciser :
 - limites a respecter ;
 - niveau de verification attendu.
 
+Pour les usages agentiques, transformer la demande en contrat operationnel :
+
+- contexte et donnees d'entree ;
+- outils autorises ;
+- criteres d'acceptation ;
+- contraintes et interdictions ;
+- format de sortie testable ;
+- boucles de correction ;
+- conditions d'arret ou validation humaine.
+
 ## 10. Integration dans mon ecosysteme
 
 Gemini est a tester prudemment pour :
@@ -91,6 +114,8 @@ Gemini peut etre envisage comme composant multimodal dans une orchestration avec
 
 Ces integrations restent a confirmer avant usage strategique.
 
+Dans un systeme agentique, Gemini doit etre encadre par des permissions, des criteres de stop, des logs et une verification des sorties lorsque des outils ou donnees sensibles sont manipules.
+
 ## 12. Evolutions
 
 Cas d'usage observes a tester :
@@ -111,9 +136,13 @@ Points a surveiller :
 - qualite reelle de l'analyse multimodale video/audio/documents ;
 - confidentialite des donnees dans l'ecosysteme Google ;
 - evolution des offres gratuites, credits et abonnements.
+- documentation officielle sur Gemini 3.5 Flash, Antigravity et les interfaces agentiques citees par les videos ;
+- robustesse des prompts structures face a la prompt injection ;
+- cout reel des workflows Gemini avec appels d'outils.
 
 ## 13. Decisions strategiques
 
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1, 2, 3, 6, 7, 8, 9, 10, 11, 12 - Source YouTube Labo Des Reseaux, workflow AOS GO partiel
+- 2026-07-01 - Ajout - Sections 3, 4, 5, 9, 11, 12 - Source YouTube Parlons IA, batch AOS GO partiel
