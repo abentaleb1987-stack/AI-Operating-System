@@ -58,6 +58,24 @@ MARKETING_TERMS = (
     "abonnement",
     "formation",
 )
+CORRECTION_TERMS = (
+    "tighten",
+    "consolidate",
+    "safeguard",
+    "rename",
+    "correction",
+    "audit",
+    "rules",
+    "fix",
+)
+STRONG_SECTION_TERMS = (
+    "role principal",
+    "forces",
+    "cas d'usage valides",
+    "cas d'usage validés",
+    "decisions strategiques",
+    "décisions stratégiques",
+)
 
 RISK_ORDER = {
     "faible": 1,
@@ -66,12 +84,37 @@ RISK_ORDER = {
     "bloquant": 4,
 }
 
+COMMIT_CLASSES = {
+    "knowledge": "Knowledge batch",
+    "protocol": "Protocol / system",
+    "maintenance": "Maintenance",
+    "audit": "Audit",
+}
+
+QUALITY_ALERT_CATEGORY_ORDER = {
+    "creation abusive de fiche permanente": 1,
+    "modification abusive des fiches transversales": 2,
+    "sur-enrichissement": 3,
+    "speculation": 4,
+    "marketing integre": 5,
+}
+
 
 @dataclass
 class ChangedFile:
     status: str
     path: str
     old_path: str | None = None
+
+
+@dataclass
+class CommitInfo:
+    full_hash: str
+    short_hash: str
+    date: str
+    subject: str
+    classification: str
+    files: list[ChangedFile]
 
 
 @dataclass
@@ -141,11 +184,83 @@ def commit_hashes(commit_lines: list[str]) -> list[str]:
 def changed_files_for_commits(commits: list[str]) -> list[ChangedFile]:
     by_key: dict[tuple[str, str | None, str], ChangedFile] = {}
     for commit in commits:
-        raw = run_git(["show", "--name-status", "--format=", "--find-renames=40%", commit])
-        for item in parse_name_status(raw):
+        for item in changed_files_for_commit(commit):
             key = (item.path, item.old_path, item.status)
             by_key[key] = item
     return list(by_key.values())
+
+
+def changed_files_for_commit(commit: str) -> list[ChangedFile]:
+    raw = run_git(["show", "--name-status", "--format=", "--find-renames=40%", commit])
+    return parse_name_status(raw)
+
+
+def dedupe_changed_files(files: list[ChangedFile]) -> list[ChangedFile]:
+    by_key: dict[tuple[str, str | None, str], ChangedFile] = {}
+    for item in files:
+        by_key[(item.path, item.old_path, item.status)] = item
+    return list(by_key.values())
+
+
+def classify_commit(subject: str, files: list[ChangedFile]) -> str:
+    subject_lower = subject.lower()
+    paths = [item.path for item in files]
+    all_paths = paths + [item.old_path for item in files if item.old_path]
+
+    touches_audit = any(path and path.startswith("00_System/audits/") for path in all_paths)
+    touches_permanent = any(path and PERMANENT_RE.match(path) for path in all_paths)
+    touches_knowledge = any(
+        path
+        and (
+            path.startswith("02_IA/")
+            or (path.startswith("01_Collecte/sources_brutes/") and "/traitees/" in path)
+        )
+        for path in all_paths
+    )
+    touches_protocol = any(
+        path
+        and (
+            path.startswith("00_System/")
+            or path.startswith("03_Frameworks/")
+            or path.startswith("04_Templates/")
+        )
+        for path in all_paths
+    )
+
+    if touches_audit or "audit" in subject_lower:
+        return COMMIT_CLASSES["audit"]
+    if not touches_permanent and (
+        "rename processed" in subject_lower
+        or "move processed" in subject_lower
+        or "source renaming" in subject_lower
+    ):
+        return COMMIT_CLASSES["maintenance"]
+    if touches_knowledge or touches_permanent:
+        return COMMIT_CLASSES["knowledge"]
+    if touches_protocol or "protocol" in subject_lower or "system" in subject_lower or "aos" in subject_lower:
+        return COMMIT_CLASSES["protocol"]
+    return COMMIT_CLASSES["maintenance"]
+
+
+def commit_infos(commit_lines: list[str]) -> list[CommitInfo]:
+    infos: list[CommitInfo] = []
+    for line in commit_lines:
+        parts = line.split("\t", 3)
+        if len(parts) != 4:
+            continue
+        full_hash, short_hash, date, subject = parts
+        files = changed_files_for_commit(full_hash)
+        infos.append(
+            CommitInfo(
+                full_hash=full_hash,
+                short_hash=short_hash,
+                date=date,
+                subject=subject,
+                classification=classify_commit(subject, files),
+                files=files,
+            )
+        )
+    return infos
 
 
 def read_text(path: str) -> str:
@@ -188,6 +303,26 @@ def classify_files(files: list[ChangedFile]) -> dict[str, list[ChangedFile]]:
         "transversal_modified": transversal_modified,
         "processed_sources": processed_sources,
     }
+
+
+def files_for_knowledge_audit(infos: list[CommitInfo]) -> list[ChangedFile]:
+    files: list[ChangedFile] = []
+    for info in infos:
+        if info.classification == COMMIT_CLASSES["knowledge"]:
+            files.extend(info.files)
+            continue
+        files.extend([item for item in info.files if PERMANENT_RE.match(item.path)])
+    return dedupe_changed_files(files)
+
+
+def commits_for_knowledge_audit(infos: list[CommitInfo]) -> list[str]:
+    commits: list[str] = []
+    for info in infos:
+        if info.classification == COMMIT_CLASSES["knowledge"] or any(
+            PERMANENT_RE.match(item.path) for item in info.files
+        ):
+            commits.append(info.full_hash)
+    return commits
 
 
 def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
@@ -299,14 +434,20 @@ def highest_risk(alerts: list[Alert]) -> str:
     return max(alerts, key=lambda alert: RISK_ORDER[alert.level]).level
 
 
-def audit_decision(risk: str) -> str:
-    if risk == "bloquant":
+def audit_decision(priority_alerts: list[Alert]) -> str:
+    if any(alert.level == "bloquant" for alert in priority_alerts):
         return "Blocage"
-    if risk == "eleve":
+    if any(alert.level == "eleve" for alert in priority_alerts):
         return "Audit Aion recommande"
-    if risk == "moyen":
+    if any(alert.level == "moyen" for alert in priority_alerts):
         return "GO partiel"
     return "GO"
+
+
+def priority_risk(priority_alerts: list[Alert]) -> str:
+    if not priority_alerts:
+        return "faible"
+    return highest_risk(priority_alerts)
 
 
 def bullet_list(items: list[str], empty: str = "Aucun element detecte.") -> str:
@@ -325,14 +466,37 @@ def format_files(files: list[ChangedFile]) -> list[str]:
     return formatted
 
 
-def format_commits(commit_lines: list[str]) -> str:
+def format_commits(infos: list[CommitInfo]) -> str:
     rows = []
-    for line in commit_lines:
-        parts = line.split("\t", 3)
-        if len(parts) == 4:
-            _, short_hash, date, subject = parts
-            rows.append(f"- `{short_hash}` - {date} - {subject}")
+    for info in infos:
+        rows.append(f"- `{info.short_hash}` - {info.date} - {info.classification} - {info.subject}")
     return "\n".join(rows) if rows else "- Aucun commit analyse."
+
+
+def format_commits_by_class(infos: list[CommitInfo], classification: str) -> str:
+    selected = [info for info in infos if info.classification == classification]
+    if not selected:
+        return "- Aucun commit."
+    return "\n".join(f"- `{info.short_hash}` - {info.date} - {info.subject}" for info in selected)
+
+
+def format_ignored_commits(infos: list[CommitInfo]) -> str:
+    ignored = [
+        info
+        for info in infos
+        if info.classification
+        in {
+            COMMIT_CLASSES["protocol"],
+            COMMIT_CLASSES["maintenance"],
+            COMMIT_CLASSES["audit"],
+        }
+    ]
+    if not ignored:
+        return "- Aucun commit ignore pour audit connaissance."
+    return "\n".join(
+        f"- `{info.short_hash}` - {info.date} - {info.classification} - {info.subject}"
+        for info in ignored
+    )
 
 
 def format_alerts(alerts: list[Alert]) -> str:
@@ -352,6 +516,137 @@ def format_alerts(alerts: list[Alert]) -> str:
             ]
         )
     return "\n".join(lines).strip()
+
+
+def subject_tokens(path: str) -> set[str]:
+    parts = re.split(r"[/_.\-\s]+", path.lower())
+    return {part for part in parts if len(part) >= 4 and part not in {"fiche", "permanente", "veille"}}
+
+
+def touches_alert_subject(info: CommitInfo, alert: Alert) -> bool:
+    alert_tokens = subject_tokens(alert.path)
+    paths = [item.path for item in info.files] + [item.old_path for item in info.files if item.old_path]
+    if alert.path in paths:
+        return True
+    haystack = " ".join([info.subject.lower(), *(path.lower() for path in paths if path)])
+    return any(token in haystack for token in alert_tokens)
+
+
+def correction_touches_alert(info: CommitInfo, alert: Alert) -> bool:
+    subject = info.subject.lower()
+    return any(term in subject for term in CORRECTION_TERMS) and touches_alert_subject(info, alert)
+
+
+def alert_treated_or_attenuated(alert: Alert, infos: list[CommitInfo]) -> bool:
+    if alert.level == "bloquant":
+        return False
+    matching_indexes = [index for index, info in enumerate(infos) if touches_alert_subject(info, alert)]
+    if len(matching_indexes) < 2:
+        return False
+    newest_matching_index = min(matching_indexes)
+    return correction_touches_alert(infos[newest_matching_index], alert)
+
+
+def text_in_strong_section(path: str, terms: tuple[str, ...]) -> bool:
+    lines = read_text(path).splitlines()
+    in_strong_section = False
+    for line in lines:
+        stripped = line.strip().lower()
+        if stripped.startswith("#"):
+            in_strong_section = any(section in stripped for section in STRONG_SECTION_TERMS)
+            continue
+        if in_strong_section and any(term in stripped for term in terms):
+            return True
+    return False
+
+
+def is_priority_candidate(alert: Alert) -> bool:
+    if alert.level == "bloquant":
+        return True
+    if alert.category == "creation abusive de fiche permanente":
+        return True
+    if alert.category == "modification abusive des fiches transversales":
+        return True
+    if alert.category == "sur-enrichissement" and alert.path.startswith(MAJOR_PREFIXES):
+        return True
+    if alert.category == "speculation":
+        return text_in_strong_section(alert.path, SPECULATION_TERMS)
+    return False
+
+
+def split_aion_alerts(alerts: list[Alert], infos: list[CommitInfo]) -> tuple[list[Alert], list[Alert]]:
+    priority: list[Alert] = []
+    treated: list[Alert] = []
+    for alert in alerts:
+        if alert_treated_or_attenuated(alert, infos):
+            treated.append(alert)
+        elif is_priority_candidate(alert):
+            priority.append(alert)
+
+    priority.sort(
+        key=lambda alert: (
+            -RISK_ORDER[alert.level],
+            QUALITY_ALERT_CATEGORY_ORDER.get(alert.category, 99),
+            alert.path,
+        )
+    )
+    treated.sort(
+        key=lambda alert: (
+            -RISK_ORDER[alert.level],
+            QUALITY_ALERT_CATEGORY_ORDER.get(alert.category, 99),
+            alert.path,
+        )
+    )
+    return priority[:7], treated
+
+
+def priority_alerts(alerts: list[Alert], infos: list[CommitInfo]) -> list[Alert]:
+    priority, _ = split_aion_alerts(alerts, infos)
+    return priority
+
+
+def format_aion_alerts(alerts: list[Alert], empty: str) -> str:
+    if not alerts:
+        return f"- {empty}"
+    return "\n".join(
+        f"- {alert.level} - `{alert.path}` - {alert.category} : {alert.observation} "
+        f"Recommandation : {alert.recommendation}"
+        for alert in alerts
+    )
+
+
+def format_treated_alerts(alerts: list[Alert]) -> str:
+    if not alerts:
+        return "- Aucune alerte traitee ou attenuee detectee."
+    return "\n".join(
+        f"- Traite / a verifier - {alert.level} - `{alert.path}` - {alert.category} : {alert.observation}"
+        for alert in alerts
+    )
+
+
+def legacy_priority_alerts(alerts: list[Alert], minimum: int = 3, maximum: int = 7) -> list[Alert]:
+    actionable = [alert for alert in alerts if alert.level != "faible"]
+    actionable.sort(
+        key=lambda alert: (
+            -RISK_ORDER[alert.level],
+            QUALITY_ALERT_CATEGORY_ORDER.get(alert.category, 99),
+            alert.path,
+        )
+    )
+    if len(actionable) <= maximum:
+        return actionable
+    return actionable[: max(minimum, maximum)]
+
+
+def format_priority_alerts(alerts: list[Alert]) -> str:
+    selected = legacy_priority_alerts(alerts)
+    if not selected:
+        return "- Aucune alerte prioritaire."
+    return "\n".join(
+        f"- {alert.level} - `{alert.path}` - {alert.category} : {alert.observation} "
+        f"Recommandation : {alert.recommendation}"
+        for alert in selected
+    )
 
 
 def format_alerts_by_level(alerts: list[Alert], level: str) -> str:
@@ -374,12 +669,16 @@ def recommendations(alerts: list[Alert]) -> str:
 def render_report(since_hours: int, fallback_count: int) -> str:
     now = dt.datetime.now()
     commits_lines = recent_commits(since_hours, fallback_count)
+    infos = commit_infos(commits_lines)
     commits = commit_hashes(commits_lines)
     files = changed_files_for_commits(commits)
+    knowledge_files = files_for_knowledge_audit(infos)
+    knowledge_commits = commits_for_knowledge_audit(infos)
     classes = classify_files(files)
-    alerts = detect_alerts(files, commits)
-    risk = highest_risk(alerts)
-    decision = audit_decision(risk)
+    alerts = detect_alerts(knowledge_files, knowledge_commits)
+    aion_priority_alerts, treated_alerts = split_aion_alerts(alerts, infos)
+    risk = priority_risk(aion_priority_alerts)
+    decision = audit_decision(aion_priority_alerts)
     status = run_git(["status", "--short"], check=False)
     head = run_git(["rev-parse", "--short", "HEAD"], check=False)
     period = f"Dernieres {since_hours}h ou fallback {fallback_count} commits recents"
@@ -393,7 +692,17 @@ def render_report(since_hours: int, fallback_count: int) -> str:
         "{{periode}}": period,
         "{{datetime}}": now.strftime("%Y-%m-%d %H:%M:%S"),
         "{{periode_detail}}": period,
-        "{{commits_analyses}}": format_commits(commits_lines),
+        "{{a_traiter_par_aion}}": format_aion_alerts(aion_priority_alerts, "Aucune alerte prioritaire."),
+        "{{alertes_traitees_ou_attenuees}}": format_treated_alerts(treated_alerts),
+        "{{nombre_alertes_prioritaires}}": str(len(aion_priority_alerts)),
+        "{{nombre_alertes_traitees_ou_attenuees}}": str(len(treated_alerts)),
+        "{{nombre_alertes_total}}": str(len(alerts)),
+        "{{commits_analyses}}": format_commits(infos),
+        "{{commits_knowledge_batch}}": format_commits_by_class(infos, COMMIT_CLASSES["knowledge"]),
+        "{{commits_protocol_system}}": format_commits_by_class(infos, COMMIT_CLASSES["protocol"]),
+        "{{commits_maintenance}}": format_commits_by_class(infos, COMMIT_CLASSES["maintenance"]),
+        "{{commits_audit}}": format_commits_by_class(infos, COMMIT_CLASSES["audit"]),
+        "{{commits_ignores_audit_connaissance}}": format_ignored_commits(infos),
         "{{fichiers_crees}}": bullet_list(format_files(classes["created"])),
         "{{fichiers_modifies}}": bullet_list(format_files(classes["modified"] + classes["renamed"])),
         "{{fiches_permanentes_impactees}}": bullet_list(
@@ -417,10 +726,10 @@ def render_report(since_hours: int, fallback_count: int) -> str:
     return report
 
 
-def write_report(report: str, date: dt.date | None = None) -> Path:
+def write_report(report: str, date: dt.date | None = None, suffix: str = "") -> Path:
     report_date = date or dt.date.today()
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
-    output = REPORT_DIR / f"{report_date:%Y-%m-%d}_audit-journalier-aos.md"
+    output = REPORT_DIR / f"{report_date:%Y-%m-%d}_audit-journalier-aos{suffix}.md"
     output.write_text(report, encoding="utf-8", newline="\n")
     return output
 
@@ -429,11 +738,12 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Generate a passive AOS daily audit report.")
     parser.add_argument("--since-hours", type=int, default=24, help="Git commit lookback window.")
     parser.add_argument("--fallback-count", type=int, default=10, help="Recent commits to inspect if 24h is empty.")
+    parser.add_argument("--suffix", default="", help="Optional suffix added before the .md extension.")
     parser.add_argument("--print-path", action="store_true", help="Print generated report path.")
     args = parser.parse_args()
 
     report = render_report(args.since_hours, args.fallback_count)
-    output = write_report(report)
+    output = write_report(report, suffix=args.suffix)
     if args.print_path:
         print(output.as_posix())
     return 0

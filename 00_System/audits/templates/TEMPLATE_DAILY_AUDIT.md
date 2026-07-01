@@ -7,6 +7,17 @@
 - Commit audite : {{commit}}
 - Periode auditee : {{periode}}
 - Rapport genere le : {{datetime}}
+- Alertes prioritaires Aion : {{nombre_alertes_prioritaires}}
+- Alertes traitees ou attenuees : {{nombre_alertes_traitees_ou_attenuees}}
+- Alertes totales detectees : {{nombre_alertes_total}}
+
+## À traiter par Aion
+
+{{a_traiter_par_aion}}
+
+## Alertes traitées ou déjà atténuées
+
+{{alertes_traitees_ou_attenuees}}
 
 ## Periode auditee
 
@@ -15,6 +26,28 @@
 ## Commits analyses
 
 {{commits_analyses}}
+
+## Classification des commits
+
+### Knowledge batch
+
+{{commits_knowledge_batch}}
+
+### Protocol / system
+
+{{commits_protocol_system}}
+
+### Maintenance
+
+{{commits_maintenance}}
+
+### Audit
+
+{{commits_audit}}
+
+## Commits ignorés pour audit connaissance
+
+{{commits_ignores_audit_connaissance}}
 
 ## Fichiers crees
 
@@ -44,7 +77,7 @@
 
 {{sources_traitees}}
 
-## Alertes detectees
+## Toutes les alertes détectées
 
 {{alertes_detectees}}
 
