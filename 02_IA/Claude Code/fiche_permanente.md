@@ -21,6 +21,15 @@ Elements observes dans la video Parlons IA du 2026-06-03, a confirmer par docume
 - execution controlee par tests et verification des chemins ;
 - usage possible de fonctions de recherche documentaire comme WikiQuery et WikiIndex.
 
+Elements observes dans la video Parlons IA du 2026-05-23, a confirmer :
+
+- fichier `Claude.md` court comme cadrage projet lu au demarrage ;
+- fichiers secondaires appeles seulement dans certaines situations ;
+- agents specialises decrits par fichiers `.md` ;
+- memoires persistantes pouvant etre placees au niveau agent ou projet ;
+- skills a chargement progressif pour reduire le contexte initial ;
+- hooks dans `settings.json` pour declencher ou bloquer des comportements via scripts.
+
 ## 4. Forces
 
 - Peut aider a deployer des outils locaux lorsque les chemins, scripts et tests sont definis en amont.
@@ -40,6 +49,8 @@ Aucun cas d'usage n'est encore valide par experimentation interne AOS.
 - Demander a Claude Code de gerer une base Obsidian entiere sans index, chunks ni filtres.
 - Lancer un deploiement sans README, chemins cibles, tests et criteres de validation.
 - Considerer Obsidian comme un RAG complet sans architecture de retrieval.
+- Charger un `Claude.md` trop long qui melange toutes les instructions du projet.
+- Installer des hooks ou skills non audites qui peuvent agir sur fichiers, commandes ou environnement.
 
 ## 8. Workflows recommandes
 
@@ -62,6 +73,15 @@ Workflow documentaire :
 5. Basculer vers un agent semantique si la recherche lexicale est insuffisante.
 6. Injecter seulement les chunks pertinents.
 
+Workflow de contexte Claude Code :
+
+1. Garder `Claude.md` court et centre sur les regles projet.
+2. Deporter les details dans des fichiers secondaires.
+3. Creer des agents specialises pour les taches longues ou isolees.
+4. Utiliser `/compact` si le contexte reste coherent et utile.
+5. Utiliser `/clear` si la conversation derive ou hallucine.
+6. Mettre les controles critiques dans des hooks audites.
+
 ## 9. Prompts & methodes
 
 Pour Claude Code, expliciter :
@@ -73,6 +93,15 @@ Pour Claude Code, expliciter :
 - criteres de reussite ;
 - limites de contexte ;
 - action attendue en cas d'echec.
+
+Pour les agents Claude Code, documenter :
+
+- contexte d'activation ;
+- outils autorises et interdits ;
+- nombre maximal de cycles ;
+- schema d'entree/sortie ;
+- memoire persistante utilisee ;
+- criteres de retour a l'orchestrateur.
 
 ## 10. Integration dans mon ecosysteme
 
@@ -96,6 +125,9 @@ Points a surveiller :
 - seuils `top_k`, profondeur de recherche et scores minimaux ;
 - cout et precision des longues fenetres contextuelles ;
 - pertinence de modeles locaux ou tiers pour les taches de retrieval.
+- comportement exact de `/clear`, `/compact`, memory, skills et hooks selon les versions ;
+- securite des hooks et scripts dans `settings.json` ;
+- efficacite du chargement progressif des skills sur projets AOS.
 
 ## 13. Decisions strategiques
 
@@ -104,3 +136,4 @@ Prioriser les architectures de recherche selectives plutot que l'injection massi
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Source YouTube Parlons IA, batch AOS GO partiel
+- 2026-07-01 - Ajout - Sections 3, 7, 8, 9, 12 - Source YouTube Parlons IA Claude Code 101, batch AOS GO partiel

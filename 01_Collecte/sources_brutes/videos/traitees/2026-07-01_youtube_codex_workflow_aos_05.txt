@@ -1,0 +1,757 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+6
+
+Image d'avatar
+Obsidian + NotebookLM + Codex : le second brain que tu attendais!
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+254
+
+
+Partager
+
+Posez une question
+
+Télécharger
+
+3 574 vues  19 mai 2026  #obsidian #secondbrain #codex
+Découvrez comment créer un Second Brain pour automatiser vos tâches grâce à Obsidian, NotebookLM et Codex. Dans cette vidéo, nous allons explorer les possibilités offertes par l'intégration de ces outils pour améliorer votre productivité et votre efficacité. Nous allons voir comment utiliser ChatGPT 5.5 et GPT-5.5 pour créer des agents AI qui peuvent vous aider à automatiser vos tâches répétitives. Nous allons également discuter de l'importance de la conception de prompts pour obtenir les meilleurs résultats avec ChatGPT et comment utiliser les extensions Chrome pour améliorer votre expérience de travail. Enfin, nous allons voir comment créer un Second Brain avec Obsidian et NotebookLM pour centraliser vos connaissances et vos idées, et comment utiliser Codex pour créer des outils d'automatisation personnalisés. Cette vidéo est idéale pour ceux qui cherchent à améliorer leur productivité et à exploiter le potentiel de l'intelligence artificielle pour simplifier leur travail.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+Chaîne YouTube :    / @parlons.ia.2  
+Chaîne Dailymotion : https://dailymotion.com/formation.ai87
+Podcast : https://spoti.fi/4dqZ3uO
+Blog :   / flma1349  
+
+📲 Réseaux & contact
+X / Twitter : https://x.com/ParlonsIAx
+TikTok :   / parlonsia  
+
+🧪 Outils IA à tester
+Coder Agent IA : https://bit.ly/Coder_agentiA
+Short AI : http://bit.ly/4lzE782
+SEO Agent IA : https://urlr.me/P8AS5N
+ — 🎁 -25 % avec le code PARLONSIA25
+
+
+
+#chatgpt55  #gpt55 #chatgpt  #obsidian #secondbrain #codex 
+
+ Découvrez comment créer un Second Brain pour automatiser vos tâches avec Obsidian, NotebookLM et Codex. Dans cette vidéo, nous allons explorer les possibilités offertes par l'intégration de ces outils pour améliorer votre productivité et votre efficacité. Nous allons voir comment utiliser l'agent AI de ChatGPT 5.5 pour automatiser des tâches répétitives et comment utiliser le prompt engineering pour obtenir des résultats précis. Nous allons également découvrir les avantages de l'utilisation de l'extension Chrome de ChatGPT pour simplifier votre travail. Avec Obsidian comme base, nous allons créer un système de gestion de connaissances personnalisé qui vous permettra de stocker et de retrouver facilement vos informations. Nous allons également voir comment utiliser NotebookLM pour prendre des notes et les relier à vos connaissances existantes. Enfin, nous allons explorer les possibilités offertes par Codex pour automatiser des tâches complexes et améliorer votre productivité. Si vous cherchez à améliorer votre efficacité et à gagner du temps, cette vidéo est faite pour vous. Apprenez comment créer votre propre Second Brain avec ces outils puissants et découvrez comment l'AI peut vous aider à atteindre vos objectifs.
+
+Découvrez comment créer un Second Brain pour automatiser vos tâches grâce à l'intégration d'Obsidian, NotebookLM et Codex. Dans cette vidéo, nous allons explorer les possibilités offertes par ces outils de productivité pour améliorer votre gestion du temps et de l'information. Nous allons voir comment utiliser ChatGPT 5.5 et GPT-5.5 pour créer des prompts efficaces et comment les combiner avec des extensions comme le ChatGPT Chrome extension pour booster votre productivité. Vous apprendrez également comment mettre en place un système d'automatisation avec Codex et NotebookLM pour gérer vos notes et vos idées de manière plus efficace. Que vous soyez un utilisateur d'Obsidian ou que vous cherchiez à découvrir de nouveaux outils pour améliorer votre second cerveau, cette vidéo est faite pour vous. Nous allons aborder des sujets tels que la création d'un second brain avec Obsidian, l'utilisation de NotebookLM pour la prise de notes et la recherche, ainsi que les possibilités offertes par Codex pour l'automatisation de tâches répétitives. Nous discuterons également de l'utilisation de l'intelligence artificielle pour améliorer la productivité et comment les outils comme ChatGPT et GPT-5.5 peuvent être utilisés pour créer des assistants virtuels personnalisés. Rejoignez-nous pour découvrir comment créer un système d'automatisation puissant pour améliorer votre productivité et votre efficacité.
+Parlons IA propose une méthode pour structurer une base de connaissances multimodale en évitant l'hallucination induite par des données non structurées. Ce tutoriel détaille l'utilisation combinée de l'OCR de Mistral et des compétences automatisées (skills) pour connecter Obsidian à NotebookLM, permettant ainsi une recherche intelligente et efficace au sein d'un second cerveau numérique optimisé.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+true
+23:39
+Le prompt pour transformer ChatGPT 5.5 en agent IA !
+de Parlons IA
+true
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+de Parlons IA
+Claude Advisor Agent: tous les développeurs doivent le tester !
+de Parlons IA
+6 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 1 mois
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr 
+ -40 % sur les IA 👉: https://www.subifyhub.com/product-detail/69a852b8f438449fdb59dbeb 👉  +92 327 234 18 39   I  -40 % sur les IAt +10 % de remise Ajoute le code NYQVY  via ce lien :  https://www.gamsgo.com/partner/gcjmX
+
+
+
+Répondre
+
+
+@lilbreezyvalery9457
+il y a 1 mois
+👍 Merci beaucoup
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@nermeld9406
+il y a 1 mois
+tu peux pas parlé d'un concept aussi complexe avec si peut d'outil. c'est pas du tous comme ça que la réalité ce passe.
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Dans cette vidéo, on va utiliser la  toute dernière extension Chrome "ChatGPT 
+0:04
+Extension" dont je vous ai montré comment  l'activer en avant-première en Europe 
+0:09
+dans la précédente vidéo. Et dans  cette vidéo, on va utiliser l'extension 
+0:13
+ChatGPT Chrome Extension pour combiner  un deuxième cerveau dans Codex 
+0:19
+ChatGPT 5.5. On va constituer une base  à partir d'Obsidian et cette base on va 
+0:24
+la stocker dans NotebookLM. La puissance  de cet outil, c'est de combiner une 
+0:29
+base de recherche personnelle qui va  nous permettre d'utiliser à la fois le 
+0:33
+texte, l'image et la puissance de Google.  Associé à Obsidian, vous allez créer 
+0:38
+votre première base de connaissances, le  deuxième cerveau, le "second brain", en 
+0:43
+utilisant une fonction skill. Je vais  vous montrer comment coder tout ça. La 
+0:48
+skill sur laquelle je me suis inspiré  pour écrire mon propre code, la voici dans 
+0:52
+ce tuto. On va implémenter  l'IA de manière professionnelle  
+0:57
+pour les entreprises et les entrepreneurs.
+1:01
+Et dans ce tutoriel, on va donc construire  une base de connaissances. Dans les 
+1:05
+vidéos précédentes, on a parlé de la  possibilité de créer des bases Obsidian. Ce 
+1:09
+qui se passe dans un système Obsidian,  c'est que l'intégralité de la database 
+1:13
+qu'on construit est envoyée dans  le contexte total, ce qui va causer 
+1:18
+automatiquement la saturation du système.  La solution, on l'a vue préalablement, 
+1:22
+c'est de construire un système database  avec des métadonnées et faire une 
+1:27
+découpe de système, ce qu'on appelle  un "chunk". On a donc tous les éléments 
+1:31
+pour constituer un système RAG. Mais  si on trouvait un moyen de faire un RAG 
+1:37
+light, un RAG ultra léger en utilisant  l'écosystème de NotebookLM ? C'est 
+1:42
+exactement ce qu'on va faire au niveau de ce tuto.
+1:44
+On va donc utiliser toute la partie du  dataset qu'on a construit dans les vidéos 
+1:48
+précédentes et on va construire un  système dans NotebookLM. Pour ceux qui 
+1:53
+utilisent pour la première fois  NotebookLM, une très rapide prise de vue du 
+1:57
+système. On est sur une interface qui va  vous permettre d'utiliser gratuitement 
+2:01
+un certain nombre de requêtes. Google  nous donne la possibilité d'utiliser 
+2:05
+NotebookLM. Chaque fois que vous allez  créer un système, c'est un système fermé, 
+2:10
+c'est-à-dire que vous ne travaillez que  sur vos documents en utilisant Google 
+2:15
+Gemini. Le principe est le suivant : vous  allez appuyer sur le bouton "Créer" et 
+2:18
+ici vous allez ajouter des sources. Ces  sources peuvent être du texte, accéder à 
+2:22
+Google Drive, des informations sur les  sites internet ou importer des fichiers. 
+2:25
+Alors, je vais vous montrer le problème  principal. Si j'importe un PDF (ce que 
+2:29
+je viens de faire : la dernière étude  de DeepSeek V3), beaucoup de gens font 
+2:33
+cette erreur, c'est-à-dire qu'ils vont  prendre un document, un PDF, et l'envoyer 
+2:36
+dans l'interface. Alors, NotebookLM,  c'est un système multimodal, c'est-à-dire 
+2:40
+qu'il va être capable progressivement  d'extraire à la fois les images et le 
+2:44
+texte. Mais voici ce qui se passe.  Premièrement, le modèle n'arrive pas à 
+2:47
+structurer correctement les données et  vous perdez toute la mise en page des 
+2:51
+tableaux. Ensuite, vous avez les pages  et les images qui se mettent de manière 
+2:54
+aléatoire au niveau du texte. Ce  qui est en train de se passer, c'est 
+2:57
+extrêmement dangereux pour une  IA et je vous explique pourquoi.
+3:01
+Il y a toujours deux points capitaux  à résoudre au niveau des IA, c'est la 
+3:05
+qualité de la data. Quand vous envoyez  de la donnée, ce qui est en train de se 
+3:08
+passer, c'est que comme les IA, ce  sont des machines de prédiction, elles 
+3:11
+prédisent des tokens en fonction des  tokens d'attention. Si vous mettez de 
+3:15
+l'information qu'on considère comme des  distracteurs, donc de l'information qui 
+3:18
+n'est pas cohérente (ce qui est en  train de se passer exactement ici, 
+3:21
+c'est-à-dire qu'on a introduit des éléments  qui ne sont pas compréhensibles, on 
+3:24
+a rajouté des images à des endroits qui  ne sont pas compréhensibles, on a perdu 
+3:28
+le format des tableaux), donc toute la  donnée qu'on a ici, ce n'est pas de la 
+3:31
+donnée structurée, c'est de la donnée  aléatoire. Et en plus de ça, vous avez des 
+3:34
+caractères divers et variés qui se mettent  dans la structure. Donc tout ce que 
+3:38
+vous êtes en train de faire et tout ce  que vous avez vu dans tous les tutos qui 
+3:40
+n'ont jamais parlé de cette  problématique, ne vous ont jamais parlé de 
+3:43
+l'hallucination induite par la data non  structurée. C'est exactement ce qu'il 
+3:47
+faut prendre en compte quand vous créez  une base de connaissances, un deuxième 
+3:51
+cerveau dans ChatGPT, Claude ou Obsidian.  C'est la raison pour laquelle les 
+3:55
+distracteurs, ce qu'on vient de voir,  doivent être absolument évités. L'étude de 
+3:59
+Chrome nous explique que si on augmente  le nombre de distracteurs jusqu'à quatre 
+4:03
+(et là vous avez vu qu'il y a bien plus  que quatre distracteurs), les modèles 
+4:07
+vont s'intéresser en avant-première  aux éléments qui sont des distracteurs. 
+4:10
+C'est un défaut de comportement des  modèles. Ils vont s'intéresser à ces 
+4:13
+distracteurs. Quatre distracteurs vont  descendre de plus de 50 à 60 % la qualité 
+4:18
+de réponse d'un LLM. Que ce soit ChatGPT,  que ce soit DeepSeek, que ce soit 
+4:22
+Claude, tous les modèles vont être impactés.
+4:24
+Donc la première partie, c'est ce qu'on  a vu dans les vidéos précédentes, c'est 
+4:26
+de faire de la data structurée optimisée  pour les systèmes 2ème cerveau. En 
+4:30
+conséquence, l'étude nous montre que le  modèle qui est le plus performant face 
+4:34
+aux distracteurs, ça reste Claude.  Aujourd'hui, de manière absolue, Claude, 
+4:38
+c'est un modèle qui est prudent. On va  le définir comme ça. ChatGPT par contre, 
+4:42
+c'est tout le contraire. ChatGPT  lui, il a tendance à pécher par trop 
+4:46
+d'assurance. En conséquence, même  lorsqu'il ne sait pas, il va répondre. Et 
+4:50
+c'est tout ce qu'il faut éviter là. Quand  on va créer notre système de deuxième 
+4:54
+cerveau en utilisant l'extension  Chrome de ChatGPT, il faut que  
+4:58
+notre data soit parfaite.
+4:59
+Première solution au problème, on l'a  vu dans les vidéos précédentes, on a un 
+5:02
+fichier brut qui s'appelle un fichier RAW  qui est parfaitement structuré. On l'a 
+5:06
+extrait en utilisant un système d'OCR.  Vous avez donc le document qui n'est plus 
+5:12
+le document brut PDF mais qui est un  document optimisé, structuré pour les bases 
+5:18
+de connaissances. Et donc là, on a  constitué un système de connaissances. Mais 
+5:22
+ce qu'on a perdu, ce sont les images.  Alors, on a rentré des métadonnées et on a 
+5:27
+rentré des informations concernant la  présence des images. Dans ce système, ce 
+5:31
+qu'on va faire, c'est qu'on  va récupérer cette fois-ci  
+5:33
+les images et je vais vous montrer comment.
+5:34
+Nous allons donc aller sur la partie OCR  de Mistral et basculer dans l'interface 
+5:40
+Document AI. C'est ici qu'on va  pouvoir télécharger les fichiers. On va 
+5:43
+récupérer notre document. Et ce qui va  nous intéresser cette fois-ci dans les 
+5:47
+options (on a déjà utilisé ce logiciel  donc je vais aller plus vite), c'est de 
+5:51
+décomposer la section image en utilisant  l'éditeur de code en faisant des 
+5:55
+réponses structurées. On va donc extraire  des datas ciblant les données des 
+6:00
+images qu'on va insérer à l'intérieur  de notre système de deuxième cerveau en 
+6:06
+format Markdown. Vous allez donc exécuter  cette fonction et à la sortie, on va 
+6:10
+récupérer à la fois les images et le  texte. Alors bien entendu, je n'ai pas 
+6:13
+configuré la section JSON, c'est parce  qu'on montre pour vous faire identifier 
+6:18
+chacune des étapes, mais en fonction du  type de data que vous allez avoir, il va 
+6:21
+falloir que vous structuriez les données  que vous voulez extraire au niveau des 
+6:26
+images. Donc là, on a mis des  métadonnées, mais ce qu'on veut récupérer 
+6:29
+maintenant en cliquant sur "Télécharger",  c'est les métadonnées et les images. 
+6:33
+Et cette fois-ci, on va pouvoir donc  basculer toute cette information dans 
+6:38
+NotebookLM.
+6:38
+Si vous voulez apprendre à utiliser l'IA  de manière professionnelle et scaler 
+6:41
+votre travail, rendez-vous dans "Maîtriser  le meilleur de l'IA 2026". Vous allez 
+6:45
+apprendre à être un entrepreneur certifié  qui automatise son business en moins 
+6:49
+de 15 jours. L'IA aujourd'hui c'est un  domaine extrêmement dynamique. Vous avez 
+6:54
+l'intégralité des mises à jour qui  sont incluses. On est les number one au 
+6:58
+niveau des updates. Vous avez plus de 85  heures de cours que vous faites à votre 
+7:02
+rythme. Tous les modèles principaux  d'IA sont présents dans cette formation. 
+7:06
+Vous avez ChatGPT, ChatGPT Codex, les  agents IA et bien entendu Claude, Claude 
+7:10
+Cowork, Claude CLI. Vous allez devenir  pro avec une trajectoire claire, un vrai 
+7:15
+niveau professionnel. Vous allez apprendre  à nourrir un agent avec vos données 
+7:20
+de manière exploitable, propre et utile.  Rendez-vous dans les formations juste 
+7:24
+en description.
+7:24
+On est en train de construire notre  2ème cerveau et on aura corrigé toute la 
+7:28
+problématique qu'on a eue sur l'extraction  de données précédentes. Ce qu'il faut 
+7:32
+absolument retenir, c'est qu'il ne faut  jamais utiliser un import direct de 
+7:36
+source. Vous allez contaminer la réponse  de l'IA. Tous les tutos que vous avez 
+7:40
+vus jusqu'à maintenant qui vous aidaient,  "Mettez vos PDF, allez prendre des 
+7:43
+informations sur des sites internet dans  l'interface" font cette erreur et il 
+7:47
+faut absolument que vous la corrigiez dès  maintenant. À partir de maintenant, je 
+7:50
+vais vous montrer ce qui va se passer au  niveau de la data maintenant qu'on l'a 
+7:52
+nettoyée, qu'on l'a optimisée et qu'on  a rajouté à partir de l'extraction de 
+7:57
+Mistral OCR toutes les images. On a  maintenant de la data extrêmement propre et 
+8:02
+structurée où on a la description de  l'image, l'image elle-même qui va se 
+8:05
+retrouver avec sa métadonnée de description  juste en dessous, vous l'avez, elle 
+8:09
+est là, qui indique où elle est placée,  ce qu'elle contient, quelles sont les 
+8:12
+informations. À partir de là, le modèle  en fait va disposer de l'intégralité de 
+8:17
+la base de connaissances et vous pouvez  observer que la qualité de la mise en 
+8:20
+page n'a plus rien à voir. NotebookLM  dispose maintenant de data structurée 
+8:24
+hautement optimisée pour pouvoir  comprendre tout le contexte.
+8:28
+Alors jusqu'à maintenant, si on devait  poser une question et bien on était 
+8:31
+obligé de la taper dans l'interface de  NotebookLM. Pour arriver à automatiser 
+8:34
+ce système, ce qu'on va faire, c'est  qu'on va exploiter la possibilité 
+8:37
+aujourd'hui de ChatGPT Chrome Extension,  de prendre le contrôle des interfaces 
+8:42
+et donc de construire ce qu'on appelle  une skill. On aurait pu faire un système 
+8:46
+MCP, mais ça sera l'occasion aujourd'hui  de travailler sur les concepts des 
+8:50
+skills. C'est cette capacité à donner des  compétences aux IA, des compétences de 
+8:55
+type workflow humain. On va automatiser  notre travail grâce à des skills. Ce qui 
+8:59
+va nous intéresser, c'est d'être capable  de récupérer les questions et les 
+9:03
+réponses dans l'interface de NotebookLM,  de récupérer également les citations 
+9:08
+des numéros des documents qu'on va  utiliser et d'activer une skill qui va 
+9:14
+interroger notre base de données. On va  donc transférer toute la connaissance 
+9:17
+qu'on a dans l'interface d'Obsidian dans  NotebookLM et ça sera NotebookLM avec 
+9:22
+le moteur Gemini 3.1 qui va faire les  recherches avec l'avantage maintenant 
+9:28
+d'avoir des recherches multimodales,  c'est-à-dire qu'on va pouvoir mettre de 
+9:31
+l'image, de la vidéo, des tableaux et  du texte. On va donc avoir un système de 
+9:36
+deuxième cerveau beaucoup plus puissant  qu'avec Obsidian parce qu'on va utiliser 
+9:40
+la multimodalité native de Gemini dans  NotebookLM. Je vous montre le principe de 
+9:45
+fonctionnement et après je vais vous  montrer comment est-ce qu'on va coder une 
+9:48
+skill. Et je vais vous faire un bref  rappel au niveau des structures des skills 
+9:51
+pour ceux qui n'ont pas pris l'occasion  de voir comment ça fonctionne.
+9:55
+Voilà, le système, je lui ai envoyé  une demande pour aller rechercher les 
+9:57
+informations dans l'interface de  NotebookLM. Il va taper les questions par 
+10:01
+rapport à la question que je lui ai  posée : le mode sparse de DeepSeek V3. 
+10:04
+"Explique-moi en détail le système sparse  mécanisme DeepSeek V3." Il va envoyer 
+10:08
+un certain nombre de mots-clés pour les  retrouver dans la base de connaissances. 
+10:11
+NotebookLM va aller récupérer les  informations avec le nom de source, le numéro 
+10:15
+de page, les tableaux et autres. Et  ensuite ChatGPT, grâce à Chrome extension 
+10:21
+qu'on va activer, va récupérer les  informations et les réinjecter dans 
+10:24
+l'interface. Si vous voulez voir comment  ça se passe, je vous le montrerai juste 
+10:27
+après. Vous avez juste en dessous  les questions-réponses entre les deux 
+10:30
+interfaces. Donc là, je vous montre euh  l'écran qui a été lancé pour vous faire 
+10:35
+prendre conscience que en arrière-plan,  vous pouvez lancer donc des requêtes 
+10:39
+avec des demandes. Et c'est ici que vous  voyez que j'ai des agents IA. C'est un 
+10:43
+agent en fait qu'on va coder qui va  se lancer et qui va interroger la base 
+10:48
+NotebookLM à ma place et donc utiliser  l'écosystème NotebookLM pour en faire une 
+10:54
+base de connaissances et retourner  l'information. Grâce aux informations qui 
+10:57
+sont ici, vous avez en fait la  référence des images qui apparaissent. 
+11:00
+Architecture détaillée de l'image 1.4  image 38. Donc si on veut récupérer les 
+11:05
+éléments des sources, on est en mesure  de récupérer toutes les informations à 
+11:08
+partir du contexte. Alors ça, ça veut  dire une chose concernant la sécurité. Ce 
+11:13
+que je viens de vous montrer, c'est que  j'ai laissé l'écran ouvert parce que 
+11:17
+j'ai voulu que la skill montre qu'un  écran allait être ouvert en arrière-plan. 
+11:21
+Mais ça ça veut dire en termes de sécurité  une chose hyper importante. Moi, je 
+11:25
+vais vous donner un lien où vous allez  pouvoir trouver et télécharger cette 
+11:30
+skill. Je l'ai personnalisée, j'ai  complètement changé toute la structure du 
+11:33
+code. Je l'ai optimisée pour mon mode  de travail. Mais je vais vous donner ce 
+11:37
+lien. Mais faites attention quand vous  allez installer des skills parce que 
+11:42
+techniquement si vous ne savez pas lire  le code, on peut aujourd'hui prendre le 
+11:46
+contrôle de votre navigateur, de  votre PC et envoyer à votre insu des 
+11:50
+informations. Je dis ça parce que vous  avez des bases entières de skills où les 
+11:56
+gens vont cliquer dessus, les télécharger  et très souvent les gens n'ont aucune 
+12:00
+compétence dans le domaine du code et ni  dans le domaine de l'IA. Donc elles ne 
+12:03
+sont pas du tout en mesure de comprendre  ce qui est en train de se passer 
+12:06
+derrière leur terminal. Donc prenez  garde quand vous téléchargez un élément, 
+12:10
+contrôlez toujours la sécurité. Qu'est-ce  que récupère comme information de data 
+12:14
+personnelle le système ? Je vous l'ai  montré dans la vidéo précédente de Chrome 
+12:17
+ChatGPT Extension. On peut récupérer  les variables d'environnement de votre 
+12:21
+système et les envoyer à distance en  utilisant ce type de procédé. Alors 
+12:26
+prudence, ne téléchargez pas les skills  sans avoir avant vérifié l'écriture du 
+12:31
+code. La skill sur laquelle je me suis  inspiré pour écrire mon propre code, la 
+12:35
+voici. Je l'ai prise donc à cette adresse.  Et maintenant, je vais vous détailler 
+12:39
+les modifications que j'ai apportées  pour l'optimiser, pour la rendre plus 
+12:42
+efficace, plus rapide et plus performante  et l'adapter de Claude à ChatGPT 
+12:47
+Codex.
+12:48
+Première info, euh vous trouverez au  niveau du cours beaucoup plus de détails, 
+12:52
+beaucoup plus d'étapes. On prendra plus  le temps d'expliquer chacune des parties 
+12:55
+de création, mais je vous rappelle  quand même les grandes lignes d'un 
+12:58
+fonctionnement d'un système skill. Un  système skill est composé d'une zone qui 
+13:01
+s'appelle les métadonnées dans laquelle  il y a le nom et la description au 
+13:05
+minimum. Ensuite, on peut ajouter des  fonctions d'agent. Dans la section, on a 
+13:09
+le trigger, le déclencheur, et ensuite  les étapes du workflow. Donc ça c'est la 
+13:13
+structure de base. Quand on commence  à avoir une skill un petit peu plus 
+13:17
+technique, ce qui va être le cas de ce  qu'on va développer maintenant, on va 
+13:20
+intégrer un ensemble de process, c'est-à-dire  qu'on va appeler un workflow avec 
+13:25
+des étapes. 1, 2, 3, 4. On va lui dire  "Tu vas te connecter en lançant Chromium. 
+13:30
+Tu vas ensuite aller sur la page, tu vas  prendre le contrôle de la page, tu vas 
+13:33
+utiliser Playwright pour prendre le  contrôle de l'interface. Tu vas taper les 
+13:37
+questions, les questions vont être à tel  format et ensuite tu vas récupérer les 
+13:40
+réponses et tu vas les réinjecter dans  l'interface." On va donc créer un agent 
+13:44
+d'interfaçage et on va donc optimiser  les queries. On va lui dire comment 
+13:48
+doivent être structurées les questions-réponses  au niveau du système. Si vous 
+13:51
+avez besoin, vous allez prendre toutes  les datas pour comprendre comment sont 
+13:53
+constitués les
+
+Tout
+
+Source : Parlons IA
+
+Intelligences
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+Parlons IA
+7,7 k vues
+•
+il y a 1 mois
+
+
+11:26
+Unreliable JSON from Claude? Specify, Don't Hope | Claude Certified Architect | Prompt Engineering
+AI TechBook
+54 vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+95 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 9 mois
+Doublée
+
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,6 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+8,8 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+31:15
+Obsidian + Claude 4.7 = voici comment créer Le cerveau artificiel parfait !
+Parlons IA
+11 k vues
+•
+il y a 2 mois
+
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+17:40
+Le déclassement silencieux de la France
+Xavier Delmas
+62 k vues
+•
+il y a 4 semaines
+
+
+50:01
+Le plein d'innovations, pour le meilleur et pour le pire
+Renaud Dékode
+5,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+25:20
+Best Second Brain IA Gratuit: Obsidian + OpenWebUi + Nvidia
+Parlons IA
+4,7 k vues
+•
+il y a 1 mois
+
+27:16
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+Parlons IA
+11 k vues
+•
+il y a 1 mois
+
+34:58
+ChatGPT 5.5 Codex : c'est vraiment la révolution que tout le monde attend?
+Parlons IA
+3,1 k vues
+•
+il y a 2 mois
+
+16:27
+Le grand tri des entreprises par l’IA a commencé
+Xavier Delmas
+55 k vues
+•
+il y a 1 mois
+
+    

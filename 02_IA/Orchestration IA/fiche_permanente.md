@@ -73,6 +73,16 @@ Workflow de retrieval :
 5. Injecter uniquement les chunks utiles.
 6. Produire une sortie testable et sourcable.
 
+Workflow de preparation documentaire :
+
+1. Nettoyer la source brute avant ingestion.
+2. Supprimer ou qualifier les distracteurs.
+3. Preserver tableaux, sections et images.
+4. Ajouter metadonnees et citations.
+5. Decrire les images et leur emplacement.
+6. Importer dans l'outil de recherche uniquement apres structuration.
+7. Verifier les citations avant integration permanente.
+
 ## 9. Prompts & methodes
 
 Les instructions d'orchestration doivent definir :
@@ -112,6 +122,10 @@ Points a surveiller :
 - securite contre prompt injection ;
 - cout des agents avec outils ;
 - recherche hybride index + lexical + semantique.
+- workflows dynamiques et suivi de workflow ;
+- controle du spawn automatique de sous-agents ;
+- securite des skills navigateur et hooks ;
+- integration potentielle NotebookLM / Obsidian / Codex sous contraintes de confidentialite.
 
 ## 13. Decisions strategiques
 
@@ -120,3 +134,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
+- 2026-07-01 - Ajout - Sections 8, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel

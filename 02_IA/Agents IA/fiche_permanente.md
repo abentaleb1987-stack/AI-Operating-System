@@ -34,6 +34,15 @@ Une architecture plus avancee peut inclure :
 - recherche lexicale avant retrieval semantique ;
 - Human-in-the-Loop pour les cas incertains ou sensibles.
 
+Pour un agent specialise, documenter aussi :
+
+- contexte d'activation ;
+- outils autorises et interdits ;
+- nombre maximal de cycles ;
+- schema d'entree/sortie ;
+- memoire persistante ;
+- criteres de retour vers l'orchestrateur.
+
 ## 4. Forces
 
 - Peut automatiser des workflows repetables lorsque les entrees, outils et criteres sont controles.
@@ -56,6 +65,8 @@ Aucun cas d'usage n'est encore valide par experimentation interne AOS.
 - Prompt vague transforme en pretendu agent.
 - Injection massive de documents sans index ni selection.
 - Usage d'outils externes sans permissions, limites et logs.
+- Skill ou hook non audite capable de piloter navigateur, fichiers, commandes ou variables d'environnement.
+- Workflow long ou couteux lance sans limite de cycles, console de suivi ou criteres d'arret.
 
 ## 8. Workflows recommandes
 
@@ -117,6 +128,9 @@ Points a surveiller :
 - securite contre prompt injection ;
 - qualite des logs et formats auditables ;
 - performance des recherches hybrides lexicales + semantiques.
+- chargement progressif des skills par rapport aux memories chargees en continu ;
+- hooks deterministes pour bloquer les actions sensibles ;
+- suivi de workflow des agents longs.
 
 ## 13. Decisions strategiques
 
@@ -125,3 +139,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
+- 2026-07-01 - Ajout - Sections 3, 7, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel

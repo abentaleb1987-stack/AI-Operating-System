@@ -22,12 +22,19 @@ Elements observes dans la video Parlons IA du 2026-06-12, a confirmer par docume
 - recours a un orchestrateur pour surveiller les deviations et recadrer le comportement ;
 - separation possible en sous-agents lorsque le contexte ou la tache devient trop long.
 
+Elements observes dans la video Parlons IA du 2026-05-29, a confirmer :
+
+- relation possible entre effort de raisonnement, verbosite, longueur de sortie et usage des outils ;
+- existence ou annonce de workflows dynamiques, suivi de workflow, Deep Search et Ultra Code selon la source ;
+- usage recommande de sections structurees, notamment XML, pour les scripts, instructions, contexte, input et documents.
+
 ## 4. Forces
 
 ## 5. Faiblesses
 
 - Risque de produire des resultats non fiables si la demande reste vague ou uniquement conversationnelle.
 - Sensibilite aux longues sequences de contexte si les sources et objectifs ne sont pas controles.
+- Risque de cout eleve si les workflows longs, appels d'outils ou fonctions avancees sont lances sans garde-fous.
 
 ## 6. Cas d'usage valides
 
@@ -62,6 +69,14 @@ Pour Claude, privilegier des instructions structurees contenant :
 - format de sortie ;
 - conditions d'arret ou de demande d'aide.
 
+Pour les usages agentiques avec outils :
+
+- calibrer l'effort selon le besoin reel de profondeur et d'outils ;
+- expliquer pourquoi un outil doit etre utilise ou interdit ;
+- limiter les executions longues sans suivi de workflow ;
+- eviter les roles generiques lorsqu'ils n'apportent pas de contexte operationnel ;
+- utiliser des sections delimitees pour separer contexte, input, instructions, documents et scripts.
+
 ## 10. Integration dans mon ecosysteme
 
 Claude est a tester pour :
@@ -84,6 +99,9 @@ Points a surveiller :
 - capacite reelle sur longs contextes ;
 - cout et disponibilite des modeles adaptes aux agents ;
 - robustesse face aux deviations et aux prompts ambigus.
+- statut officiel et comportement reel des fonctions Ultra Code, Ultra Plan, Deep Search et workflows dynamiques ;
+- precision et cout des tres longs contextes ;
+- valeur effective des consoles de suivi de workflow pour l'audit.
 
 ## 13. Decisions strategiques
 
@@ -92,3 +110,4 @@ Ne pas traiter une demonstration video comme validation suffisante d'un cas d'us
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 - Source YouTube Parlons IA, batch AOS GO partiel
+- 2026-07-01 - Ajout - Sections 3, 5, 9, 12 - Source YouTube Parlons IA Opus 4.8, batch AOS GO partiel

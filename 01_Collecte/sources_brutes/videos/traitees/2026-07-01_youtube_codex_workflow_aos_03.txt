@@ -1,0 +1,1238 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+6
+
+Image d'avatar
+Opus 4.8 vient de sortir. Voici comment bien l'utiliser !
+Parlons IA
+Parlons IA
+14,4 k abonnés
+
+
+704
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+11 519 vues  29 mai 2026  #claude #claudecode #opus48
+Découvrez les dernières fonctionnalités d'Opus 4.8 et apprenez à les utiliser de manière efficace. Dans cette vidéo, nous allons vous guider à travers les meilleures pratiques pour mettre en œuvre les capacités de Claude AI, notamment les compétences avancées de Claude code et les applications de Claude cowork. Vous découvrirez comment configurer votre environnement de travail avec Claude code setup et explorer les possibilités de prompt engineering pour améliorer vos résultats. Nous aborderons également les avantages de l'utilisation d'agents IA comme Claude pour créer une sorte de deuxième cerveau et automatiser vos tâches répétitives. Que vous soyez débutant ou avancé, cette vidéo vous fournira des conseils pratiques et des exemples concrets pour tirer le meilleur parti de Claude AI, y compris des tutoriels sur la façon d'utiliser Claude et des cours pour vous aider à maîtriser les fonctionnalités d'Opus 4.8. Rejoignez-nous pour découvrir comment vous pouvez utiliser Claude pour améliorer votre productivité et simplifier votre travail avec des cas d'utilisation pratiques et des exemples d'automatisation d'AI.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+Chaîne YouTube :    / @parlons.ia.2  
+Chaîne Dailymotion : https://dailymotion.com/formation.ai87
+Podcast : https://spoti.fi/4dqZ3uO
+Blog :   / flma1349  
+
+📲 Réseaux & contact
+X / Twitter : https://x.com/ParlonsIAx
+TikTok :   / parlonsia  
+
+🧪 Outils IA à tester
+Coder Agent IA : https://bit.ly/Coder_agentiA
+Short AI : http://bit.ly/4lzE782
+SEO Agent IA : https://urlr.me/P8AS5N
+ — 🎁 -25 % avec le code PARLONSIA25
+
+Découvrez les dernières fonctionnalités d'Opus 4.8 et apprenez à l'utiliser de manière efficace pour améliorer votre productivité avec Claude AI. Dans cette vidéo, nous allons vous montrer comment configurer correctement Claude code et mettre en place des cas d'utilisation pour Claude cowork, ainsi que comment utiliser les capacités d'automatisation de l'AI pour créer un système de second brain personnalisé. Vous apprendrez également comment utiliser les prompts d'ingénierie pour interagir avec Claude AI et obtenir des résultats précis. Que vous soyez débutant ou avancé, cette vidéo vous fournira les connaissances nécessaires pour utiliser Claude AI de manière optimale et tirer parti de ses capacités d'automatisation pour votre entreprise ou vos projets personnels. Avec Opus 4.8, vous pourrez créer des agents AI personnalisés pour automatiser des tâches répétitives et vous concentrer sur des tâches à plus haute valeur ajoutée. Rejoignez-nous pour découvrir comment utiliser Claude AI pour améliorer votre productivité et votre efficacité.
+
+
+#claudecode  #claude #opus48 #claude48
+Parlons IA analyse les fonctionnalités avancées de Claude Opus 4.8, notamment l'introduction des flux de travail dynamiques et de la fonction Ultra Code. Cette présentation explore les changements nécessaires en matière de prompting pour optimiser le raisonnement, la gestion des outils et la précision du modèle dans des environnements agentiques complexes.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,4 k abonnés
+Vidéos
+À propos
+true
+33:54
+Claude Code : obtenez le diplôme officiel pour être embauché !
+de Parlons IA
+true
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+de Parlons IA
+J'ai testé tous les prompts Claude : voici le meilleur !
+de Parlons IA
+Obsidian + Claude 4.7 = voici comment créer Le cerveau artificiel parfait !
+de Parlons IA
+97 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 1 mois
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr 
+ -40 % sur les IA 👉: https://www.subifyhub.com/product-detail/69a852b8f438449fdb59dbeb 👉  +92 327 234 18 39   I  -40 % sur les IAt +10 % de remise Ajoute le code NYQVY  via ce lien :  https://www.gamsgo.com/partner/gcjmX
+
+
+
+Répondre
+
+
+@ALBundy73
+il y a 1 mois
+Oh lallaalalala Claude 4.8 !!!!!!!!! J'en parle à mes parents de 78 et 72  ans ça va révolutionner leur viiiiiie .
+
+
+
+
+Répondre
+
+
+@Djbilboxbeats
+il y a 3 semaines
+Salut je m'abonne merci
+
+
+
+
+Répondre
+
+
+@morganvalcke1694
+il y a 1 mois
+Merci pour cette videode qualité !
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@quentin7952
+il y a 4 semaines
+Je suis d'accord avec Claude code je fais des trucs incroyables
+
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@xing8789
+il y a 1 mois (modifié)
+j'oubliais examen claude code 101 réussi ! merci a toi 
+
+2
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@psykobibi
+il y a 1 mois
+Mec tu parles archi bien c’est fou ! J’ai rarement autant apprécié un youtubeur Tech du début à la fin, +1 abonnés 
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@pascaldasse9175
+il y a 1 mois
+Merci pour ta vidéo
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@openx7913
+il y a 1 mois
+Merci pour ta vidéo !
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@Vincent003Knk
+il y a 1 mois
+Merci pour la vidéo et ton expertise.
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@xing8789
+il y a 3 semaines
+j'avoue avoir suivi la doc ...mais bon je vais revenir aux bases.
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Fresh38590
+il y a 1 mois
+Salut super vidéo comme d hab
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@philippealouane8829
+il y a 1 mois
+Toujours top tes videos Fabrice
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@replaylefreezez5460
+il y a 1 mois
+AHAHAHA il fait chaud visiblement (force à ceux qui n'ont pas la clim)
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@xing8789
+il y a 1 mois
+c'est un truc de dingue a peine terminé de reconfigurer un agent selon un model Anthropic qu'un nouveau modèle arrive 
+
+1
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@monialeblandine9141
+il y a 4 semaines
+oui, il est tout de même sycophante, 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@blaguemdr9392
+il y a 1 mois
+Il va y avoir tellement de nouveautés dans ce domaine
+
+
+
+
+Répondre
+
+·
+
+3 réponses
+
+@jiben37
+il y a 1 mois
+La fonction était déjà accessible quand tu l’activais dans les settings.json. Je l'ai testé sur une petite équipe d'agents en opus 4.7. Ça fonctionne bien.
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@BL_Pac
+il y a 1 mois
+Merci pour la vidéo ! 
+Je me demandais si j'ajoute à mes prompt "tu es un expert" ça va tout changer la donne?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@cedriccourtois5482
+il y a 1 mois (modifié)
+J'en peux plus de tes vidéos bien travaillées et approfondies....je veux du prompt parfait moi !!! 
+Trève de plaisanteries : j'ai tellement progressé et te suivant...que je mets la misère ( à mon niveau de non codeur) à tous mes collègues avec ce savoir.
+
+
+
+
+Répondre
+
+·
+
+3 réponses
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Si tu ne changes pas ta manière d'utiliser  Claude Opus 4.8, tu vas cramer ton 
+0:05
+forfait en quelques minutes. Alors,  comment bien utiliser Claude Opus 4.8 ? 
+0:11
+C'est exactement ce dont on  va parler dans cette vidéo.
+0:21
+Il y a deux faces à la même médaille.  Il y a celle du marketing où Anthropic 
+0:26
+nous a présenté la sortie de Claude Opus  4.8. Mais il y a celle qui est la face 
+0:32
+cachée, celle que personne ne va lire,  mais je l'ai fait pour vous. Dans cette 
+0:37
+vidéo, je vais vous dire la vérité, ce  qu'Anthropic vous a caché sur Claude 
+0:42
+Opus 4.7 mais surtout sur Opus 4.8 :  l'arrivée des flux de travail dynamiques, 
+0:50
+la nouvelle fonction "Ultra Code", celle  qui va permettre aux entreprises, aux 
+0:55
+développeurs et aux ingénieurs de ne  plus travailler et d'utiliser Claude 
+1:00
+Opus 4.8 pour faire leur travail. C'est  ce que nous promet Anthropic avec Claude 
+1:06
+Opus 4.8. Est-ce que nous sommes proches  d'un système AGI ? Un système capable 
+1:11
+de raisonner, de travailler, de  réfléchir à notre place ? C'est un peu la 
+1:16
+manière qu'ils ont eue de nous amener  ce nouveau modèle Claude Opus 4.8. Mais 
+1:21
+je vais vous dire la vérité : il faut  savoir lire entre les lignes et surtout ce 
+1:25
+que ne montrent pas Anthropic dans les  documents. Alors attention, je ne dis pas 
+1:30
+qu'il n'y a pas d'amélioration, je dis  qu'il y a des choses à prendre en compte 
+1:35
+parce que sinon l'utilisation de Claude  Opus 4.8 va surtout vous revenir très 
+1:42
+cher. Le prompt a changé, le comportement  du modèle a changé et si vous n'opérez 
+1:47
+pas ces corrections, vous allez droit  dans le mur. Au niveau du prompting, 
+1:50
+Anthropic nous explique pour Claude  Opus 4.8 qu'il y a une relation entre le 
+1:56
+système de raisonnement et la verbosité.  Ça veut dire que si vous mettez un 
+2:01
+niveau maximal de raisonnement, vous  allez obtenir une réponse à la fois plus 
+2:05
+approfondie mais plus longue. Si vous  mettez un effort "medium", vous allez 
+2:09
+obtenir un raisonnement moins approfondi  et des réponses plus courtes. Mais en 
+2:14
+plus de ça, le système de calibrage  d'effort de raisonnement de Claude Opus 4.8 
+2:18
+est lié aujourd'hui à la capacité du  modèle à déclencher la gestion des outils. 
+2:23
+Ça veut dire que si vous mettez Claude  Opus 4.8 en "low" ou "medium", il ne va 
+2:28
+pas déclencher d'outil. Automatiquement,  il va utiliser ses connaissances, 
+2:33
+celles des données d'entraînement. Et  pour le coup, son cutoff knowledge, ou sa 
+2:38
+base de connaissance, c'est janvier  2026. Sa fenêtre de sortie de jetons 
+2:43
+(tokens) est de 128 000 tokens, la  même que Claude Opus 4.7. Sa fenêtre de 
+2:49
+contexte est de 1 million de tokens. Alors  là, je vais vous révéler une première 
+2:54
+faille, une première faille qui me fait  dire qu'Anthropic nous cache quelque 
+3:00
+chose sur la capacité de Claude Opus  4.8. Déjà, le prix est le même que Claude 
+3:06
+Opus 4.7, mais Anthropic nous avait  fait le même coup avec le lancement de 
+3:11
+Claude Opus 4.7. Je veux parler du MR  VRC2. Alors, si ça ne vous parle pas, 
+3:17
+imaginez la capacité de l'IA à gérer  un très grand contexte de 1 million. 
+3:22
+N'hésitez pas à booster, à liker cette  vidéo, à la partager. Je compte sur 
+3:26
+vous. Un like, un commentaire de  qualité, ça me fera toujours plaisir de 
+3:30
+répondre. Et pour ceux qui veulent  transformer leur façon d'apprendre à 
+3:33
+utiliser l'intelligence artificielle,  parce que comprenez bien une chose : ce 
+3:36
+n'est pas l'IA qui va vous remplacer,  c'est quelqu'un qui sait s'en servir et 
+3:41
+qui va prendre votre poste. Pendant très  longtemps, on a dit le diplôme protège 
+3:44
+et crée l'emploi. C'est devenu faux  avec l'IA. C'est en train de changer sur 
+3:48
+deux points. Un, l'IA révolutionne  complètement le travail aujourd'hui. Il n'y a 
+3:53
+qu'à voir à quel point Mythos,  c'est-à-dire la super IA aux États-Unis 
+3:56
+d'Anthropic, fait peur à tout le monde.  Ça, c'est le premier point. Donc, l'IA 
+3:59
+révolutionne tout et change le paradigme  actuel sur le code du travail. Deux, 
+4:03
+le chômage remonte. Le chômage remonte  et à cause de l'IA, les jeunes ne sont 
+4:06
+plus recrutés. On n'en parle pas, mais  le problème du chômage des jeunes est en 
+4:09
+train de revenir comme l'une des premières  priorités en France. Moi, j'ai des 
+4:13
+enfants, j'ai un gamin qui a 20 ans,  je m'inquiète énormément pour lui par 
+4:16
+rapport aux débouchés professionnels,  malgré un bon diplôme. Pendant très 
+4:19
+longtemps, on a dit le diplôme protège  et crée l'emploi. C'est devenu faux avec 
+4:23
+l'IA, parce que les entreprises ont  fait un choix : faire des économies. 
+4:27
+Pourquoi ? Parce que la politique choisie,  c'est que faire travailler quelqu'un, 
+4:32
+ça coûte trop cher. En conséquence, on  va prendre un profil, celui qui sait 
+4:37
+configurer des systèmes agents IA.  Alors, vous avez compris ? Oubliez les 
+4:42
+prompts basiques. Oubliez le "fais-moi  mon travail, tu es un expert". 
+4:46
+Aujourd'hui, le résultat, c'est d'être  capable de passer de débutant à pro en 15 
+4:51
+jours avec 80 heures que vous faites  à votre rythme. Les derniers systèmes 
+4:57
+agents IA sur Claude, ChatGPT, Codex,  Claude CLI, Gemini, bref, le meilleur de 
+5:05
+l'IA. Entre les mains, vous avez l'avenir  et l'avenir appartient à ceux qui ont 
+5:10
+compris l'impact, la révolution qu'a  l'intelligence artificielle sur le marché 
+5:15
+du travail. Je vous permettrai à travers  cet écosystème de vous préparer pour 
+5:21
+l'examen Claude Code 101 et pour  l'examen Gemini Prompt Engineering. Deux 
+5:26
+diplômes que vous allez pouvoir ajouter  sur votre CV pour faire la différence 
+5:29
+dans le monde de l'emploi. Toutes les  mises à jour sont incluses. Toutes les 
+5:32
+informations sont en description.  Je compte sur toi. Un like,  
+5:35
+un boost et on continue la vidéo.
+5:37
+Ce sujet des jeunes est un scandale  national dont tout le monde n'a pas 
+5:40
+conscience. Si on regarde la Suisse :  deux fois et demi plus de PIB industriel, 
+5:45
+une balance commerciale excédentaire,  taux de chômage des jeunes à 3,2 %. En 
+5:49
+France, on est dorénavant à 21 %. Taux  d'emploi des jeunes en France : 35 %, en 
+5:53
+Allemagne : 51 %, aux Pays-Bas : 75 %.  Dorénavant, ils veulent massivement, quel 
+5:59
+que soit leur niveau de formation, créer  des entreprises. L'IA est capable de 
+6:02
+gérer un très grand contexte si elle  sait retrouver l'information, et c'est ce 
+6:06
+que nous avait montré ChatGPT 5.5, qui  était capable de retrouver 74 % des 
+6:12
+informations dans un contexte d'un  million, alors que Claude Opus 4.7 n'en 
+6:17
+retrouvait que 32 %, alors qu'il était  capable d'en faire 80 % précédemment. Et 
+6:21
+ça, on ne nous l'a jamais révélé,  mais le problème vient de se reposer 
+6:27
+exactement de la même manière avec  Claude Opus 4.8. Alors, je ne dis pas que 
+6:31
+tout est mauvais, mais je dis que  cette information est absente et qu'en 
+6:35
+conséquence, cela met à mal tout le  discours marketing du million de tokens de 
+6:40
+la fenêtre. Parce que toute cette  logique d'architecture repose sur deux 
+6:46
+éléments. Les voici. Anthropic avec  Claude Opus 4.8 vient de lancer le flux 
+6:52
+dynamique de travail dans Claude Code.  Imaginez l'IA capable de travailler 
+6:57
+pendant 10 jours où Claude génère tout  seul des scripts d'orchestration pour 
+7:03
+avoir des dizaines jusqu'à 100 agents  subordonnés en parallèle au cours d'une 
+7:08
+même session qui sont capables de  travailler en tandem, de discuter entre eux 
+7:13
+et de gérer de très gros volumes jusqu'à  presque 1 million de lignes de code 
+7:18
+et 500 fichiers, grâce à la nouvelle  fonction "Ultra Code". Un flux dynamique de 
+7:23
+travail où le modèle est plus précis,  arrive à déboguer à l'échelle d'une 
+7:30
+entreprise, d'un livrable complet où  vous n'avez plus qu'à réceptionner le 
+7:34
+travail fini. La fonction "Ultra Code",  c'est cette fonction où vous posez une 
+7:39
+question à Claude, il planifie de manière  dynamique avec des scripts, code tous 
+7:45
+les agents à votre place, va lancer ce  qu'on appelle une parallélisation du 
+7:50
+travail. Plusieurs agents et sous-agents  vont coexister, échanger, avoir des 
+7:55
+points de vue différents et ils vont  travailler en parallèle pour analyser le 
+8:00
+code, faire de la migration, faire des  tests, du contrôle d'analyse, valider, 
+8:04
+réfuter, converger les points de vue et  sont capables d'arrêter une tâche, de 
+8:09
+la reprendre et de tenir jusqu'à 10 jours  en autonomie sur un même travail. Vous 
+8:15
+imaginez la quantité de gestion de  contexte par ces systèmes ? C'est juste 
+8:21
+astronomique. C'est juste la révolution  qui nous est proposée par Claude 
+8:26
+Opus 4.8. Mais le problème, c'est que  tout ça, le fait de nous livrer un 
+8:31
+résultat fini, ça repose sur la gestion  des contextes et la capacité de gestion 
+8:36
+des chaînes de raisonnement. Et c'est  là que j'ai découvert les plus grosses 
+8:40
+failles qu'Anthropic n'a pas voulu révéler.  Dans la documentation officielle, le 
+8:44
+système card de Claude Opus 4.8, là où  vous avez tous les tests, il y a 244 
+8:50
+pages, je les ai lues pour vous et voici  ce qu'il en sort : le modèle Claude 
+8:54
+Opus 4.8 n'améliore pas ses réponses en  augmentant son raisonnement et son temps 
+9:00
+de raisonnement. C'est très clair. Alors,  comment Anthropic aujourd'hui va faire 
+9:06
+pour justifier l'utilisation de la fonction  "Ultra Code" ? Toute l'architecture 
+9:10
+repose sur ces deux facteurs : la gestion  des fenêtres à 1 million de tokens. Si 
+9:15
+on a un score qui n'est pas donné, je  peux supposer que le résultat n'est pas 
+9:18
+bon. Et si la documentation nous dit  que sur de très grandes séquences de 
+9:21
+raisonnement, le modèle n'améliore pas  ses réponses, alors je vais vous dire, ça 
+9:24
+va vous coûter très cher ces fonctions  "Ultra Code". Mais attention, il n'y a 
+9:28
+pas que des mauvaises choses, il y a  aussi des choses positives. Il faut savoir 
+9:32
+quand l'utiliser et de quelle manière.  Premièrement, la confirmation du 
+9:36
+benchmark sur le raisonnement, c'est  exactement la même chose sur le 
+9:39
+mathématisme. Plus de raisonnement, pas  de meilleure réponse là où les autres 
+9:44
+modèles précédents arrivaient à être  meilleurs. Alors, où est meilleur donc 
+9:48
+Claude Opus 4.8 ? Ils nous disent qu'il  est quatre fois moins en erreur pour 
+9:57
+identifier les failles, notamment dans  le domaine du code, que les modèles 
+10:00
+précédents. Traduisez : vous n'avez pas  de schéma ici. Vous savez pourquoi ? 
+10:04
+Parce que ça veut dire que Claude Sonnet  4.6 et Opus 4.7 font quatre fois plus 
+10:09
+d'erreurs que Opus 4.8. Et oui, ce n'était  pas très joli de mettre un schéma où 
+10:13
+vous avez quatre fois plus d'erreurs que  le nouveau modèle. Ça nous montre que 
+10:16
+les modèles précédents faisaient énormément  d'erreurs et moi ça m'a choqué, et 
+10:20
+c'est cette information... Claude Opus  4.7 était capable de mentir deux fois 
+10:25
+plus que Claude Opus 4.8. Si vous donnez  du travail à Claude Sonnet 4.6, il est 
+10:32
+capable de vous mentir en vous disant  qu'il a effectué le travail alors qu'il ne 
+10:37
+l'a pas fait. Vous pensiez pouvoir faire  confiance à Claude ou plus généralement 
+10:41
+à l'intelligence artificielle ? Eh  bien, vous allez découvrir que jusqu'à 
+10:46
+présent, vous travailliez avec des  modèles qui ont tendance à vous mentir. Le 
+10:51
+point positif : Claude Opus 4.8 est le  modèle le plus éthique de sa série. Il ne 
+10:58
+va pas vous flatter, il va vous dire ce  qu'il pense, il va très peu halluciner 
+11:02
+et il ne va pas avoir de comportement  de fraude. Mais ça a des conséquences 
+11:06
+aussi très importantes. La société  Laboratoire a mis au point un benchmark, le 
+11:13
+Vingch 2, qui a pour objectif de  regarder si l'IA est capable de gérer des 
+11:19
+commerces. Dans les précédents tests,  on avait obtenu avec Claude Opus 4.7 un 
+11:24
+score incroyable, vraiment stratosphérique.  Le modèle avait explosé toutes les 
+11:30
+autres IA avec 11 000 dollars récoltés  en gérant tout seul un commerce. Là où 
+11:36
+les autres s'arrêtaient à 5 à 6 000  dollars, Claude Opus avait pulvérisé tout le 
+11:41
+monde. Mais Anthropic ne vous avait  pas révélé la vérité : Claude Opus 4.7 
+11:46
+s'était révélé comme l'IA la plus  mensongère de toute la série d'Anthropic. Le 
+11:54
+modèle s'est mis à mentir aux utilisateurs,  au service après-vente pour arriver 
+11:59
+à ses objectifs. Mais malheureusement,  jamais, au grand jamais, cette 
+12:03
+documentation n'est apparue ni sur la  documentation officielle marketing de 
+12:08
+Claude Opus 4.8, ni sur celle de Claude  Opus 4.7. C'est là que je vous dis : 
+12:15
+prudence avec les entreprises, ce sont  les mêmes qui vous livrent les produits, 
+12:20
+le marketing et qui vous disent : "Prenez,  achetez, ça fonctionne bien, allez-y, 
+12:25
+feu vert." Conséquence, vous découvrez  tout à coup que les performances sur 
+12:29
+lesquelles on vous a bâti la réputation  et la fiabilité étaient avant tout un 
+12:34
+comportement de tromperie du modèle. Et  c'est pour ça qu'Anthropic a réagi aussi 
+12:39
+vite. Mais je pense que pour tous les  professionnels, Anthropic aurait dû 
+12:44
+communiquer immédiatement en nous  alertant. Dites-moi ce que vous en pensez, 
+12:49
+mais personnellement, je trouve que  c'est un manque de transparence de leur 
+12:53
+part. Le point positif, c'est Claude  Opus 4.8. C'est un modèle qui n'a pas 
+12:58
+tendance à la sycophantie, qui ne va pas  vous flatter, qui ne va quasiment pas 
+13:04
+halluciner et qui est capable d'identifier  des différences subtiles dans les 
+13:09
+documents. Donc, c'est un modèle qui  est très fin au niveau de l'analyse. Par 
+13:13
+contre, il n'est pas forcément meilleur  que ses prédécesseurs sur un certain 
+13:18
+nombre de benchmarks. Bien que le modèle  soit au même prix que Claude Opus 4.7 
+13:23
+(5 dollars en entrée par million de  tokens et 25 en sortie), on n'a pas 
+13:31
+forcément des résultats exceptionnels  sur certains benchmarks sur les questions 
+13:35
+de connaissance générale ou d'omniscience.  Il ne fait pas forcément mieux que le 
+13:40
+précédent, ni sur les questions "hard",  ni sur les questions simples, ni sur la 
+13:45
+section "omniscience". On a gagné en  fiabilité, mais on n'a pas forcément gagné 
+13:53
+en qualité de réponse. On a un équilibre  très difficile à obtenir. On se rend 
+13:57
+compte avec les IA : est-ce qu'une IA est  capable de travailler avec fiabilité ? 
+14:03
+Est-ce qu'elle est capable de vous répondre  en prenant juste le risque que, plus 
+14:08
+elle a de réponses justes, plus elle a  tendance à mentir pour faire semblant 
+14:12
+qu'elle est juste ? Et c'est ce que révèle  donc cette partie de l'étude qui nous 
+14:15
+montre que Grok 4.2 et Grok 4.3 sont  peut-être les pires modèles sur le 
+14:22
+comportement. En revanche, Claude  Opus 4.8 est extrêmement fiable et que 
+14:27
+Gemini 3.5 Flash, étonnamment, n'est pas  spécialement fiable sur l'alignement du 
+14:33
+comportement du modèle et fait partie,  avec Grok 4.3 et 4.2, des IA avec un fort 
+14:40
+taux de sycophantie. Bref, une déception  qui n'était vraiment pas présente dans 
+14:46
+la documentation de Google avec Gemini  3.5 Flash et c'est là que nous avons 
+14:52
+Claude Opus 4.8 qui lui devient beaucoup  plus fiable. Quand utiliser Claude 
+14:56
+Opus 4.8 ? C'est un modèle qui est  capable de comparer des éléments, des 
+15:01
+documents, des lignes d'information  l'une contre l'autre avec une bonne 
+15:07
+précision. C'est un modèle qui a un  très faible contexte d'hallucination. 
+15:11
+Aujourd'hui, c'est le meilleur modèle  qui réduit l'hallucination de 95 % par 
+15:17
+rapport aux autres. Alors, quand l'utiliser  par rapport au coût ? Moi, j'aurais 
+15:21
+tendance à vous dire que quand vous faites  du droit, du juridique, de l'analyse, 
+15:25
+de la data, du code, c'est un modèle qui  présente quatre fois plus de précision 
+15:30
+que les précédents. Mais revenons sur la  fonction "Ultra Code". Pour comprendre 
+15:35
+quand l'utiliser, comment l'utiliser,  Anthropic nous donne des conseils et des 
+15:40
+directives : le flux de travail dynamique.  L'idée, c'est de rechercher des bugs 
+15:45
+à très grande échelle où Claude Code  va lancer en parallèle jusqu'à des 
+15:49
+centaines d'agents, et la particularité,  c'est qu'il va manager tout seul, c'est 
+15:54
+la promesse, des centaines d'agents  de travail. Pour lancer cette fonction 
+15:58
+"Dynamic Workflow", pour orchestrer des  sous-agents à grande échelle avec des 
+16:03
+flux de travail dynamiques gérés par  Claude, vous avez deux nouvelles fonctions. 
+16:08
+On a la fonction "Deep Search" qui va  vous permettre de lancer un flux de 
+16:13
+travail groupé. La fonction, c'est  "Deep Search" et vous donnez la ligne à 
+16:18
+exécuter, le travail à exécuter, et  le modèle va utiliser des fonctions de 
+16:23
+recherche approfondies, des sub-agents  et vous fait un travail de synthèse. Vous 
+16:28
+pouvez d'ailleurs utiliser la fonction  "Deep Search" en lui demandant : "Regarde 
+16:32
+tel dossier, tel document, dis-moi si à  la fin il faut que je lance une fonction 
+16:40
+Ultra Code." Les fonctions "Ultra Code",  vous avez deux manières en fait de les 
+16:43
+lancer. L'Ultra Code : vous pouvez donner  --effort ultra-code qui va combiner un 
+16:49
+effort de raisonnement en XI et géré  automatiquement par Claude Opus 4.8, 
+16:56
+complètement en autonomie. C'est-à-dire  que vous n'avez rien à faire et vous 
+16:59
+allez pouvoir dans les deux cas activer  ce qu'on appelle un suivi de workflow. 
+17:04
+Imaginez en fait le suivi de workflow  comme une console où vous avez l'avancée 
+17:10
+de votre travail et vous voyez dans quelle  étape est le modèle, où est-ce qu'il 
+17:14
+en est, qu'est-ce qu'il a testé, quel  modèle il a appelé, quelle est la fenêtre 
+17:18
+de contexte, quels sont les outils et  combien de temps a duré la session pour 
+17:23
+chacun des agents et le nombre d'agents.  Ça va vous permettre d'avoir une 
+17:27
+console de contrôle du comportement du  modèle. Alors là, ça nous rappelle encore 
+17:32
+deux choses : un, vous voyez qu'on est  sur des fenêtres à 1 million de contacts. 
+17:35
+Donc à un moment, il va falloir qu'on  ait la valeur de la fenêtre. Parce que si 
+17:40
+on a un score qui est faible, mais  qu'aujourd'hui va lancer des fonctions "Ultra 
+17:44
+Code" pour une précision de 32 %, il y  a un problème. Ensuite, si on gère des 
+17:48
+centaines d'agents, quelle est la  capacité du modèle à gérer de grands 
+17:53
+raisonnements ? Est-ce qu'ils sont  meilleurs ? Et là, la documentation du 
+17:58
+système card de Claude Opus 4.8 montre  que même si vous mettez le raisonnement 
+18:03
+maximum, vous ne gagnez rien en termes  de performance de réponse. Aussi bien sur 
+18:09
+la partie du benchmark physique "GPQA",  les autres modèles continuent à avoir un 
+18:16
+meilleur score avec plus de raisonnement  mais ce n'est absolument pas le cas de 
+18:20
+Claude Opus 4.8. Et c'est exactement la  même chose avec le benchmark "MATH". On 
+18:26
+augmente le raisonnement au max, on n'a  pas de gain, on reste au même niveau du 
+18:31
+modèle. Alors moi, je vais vous poser une  question. Qu'est-ce que vous en pensez 
+18:35
+? Est-ce que ça vaut le coup de lancer  un système ultra plan ? Parce que les 
+18:40
+fonctions ultra, c'est la nouveauté  d'Anthropic. Ils nous ont lancé donc 3-4 
+18:46
+fonctions ultra qui vont vous permettre  de lancer des millions de tokens de 
+18:50
+génération. Ce sont des workflows qui  vont durer entre 40 minutes à 10 jours 
+18:56
+de travail et à la fin, il faut que ce  qui est donné soit un résultat fini, un 
+19:03
+travail fini. Vous imaginez le coût de  la dynamique du travail de ces fonctions 
+19:09
+? Alors objectivement, moi je ne vois  pas de résultat qui me montre que le 
+19:14
+système est capable de le faire. Donc  bah les premiers qui vont essayer nous le 
+19:17
+diront s'ils ont payé très cher et qu'ils  n'ont pas obtenu ce qu'ils voulaient. 
+19:21
+C'est un petit peu le doute  que j'ai sur le plan technique.
+19:24
+Dans la documentation sur Claude Opus  4.8, si vous devez paramétrer le modèle, 
+19:29
+le niveau par défaut justement, c'est  High. Si vous êtes en système agentique, 
+19:35
+il est recommandé d'utiliser le système  XI. Rappelez-vous qu'il y a une relation 
+19:40
+dans le nouveau modèle Claude 4.8 entre  le niveau de raisonnement et la capacité 
+19:45
+du modèle à la fois à répondre de  manière approfondie et de manière plus 
+19:49
+verbeuse. Plus vous donnez de raisonnement,  la nouveauté du modèle Opus 4.8, 
+19:53
+c'est que plus vous lui donnez de  raisonnement, plus il va approfondir l'étude, 
+19:57
+la verbosité et les outils. Ces trois  facteurs sont reliés dans ce nouveau 
+20:02
+modèle. Si vous voulez que le modèle  utilise des outils, il faut au minimum 
+20:07
+être en système High. Ça veut dire que  si vous codez des systèmes agentiques 
+20:12
+sur les agents IA, il faut que vous  changiez les défauts de raisonnement au 
+20:17
+minimum en High. Et en chatbot simple,  vous le mettez en Low. Mais c'est 
+20:22
+impératif de changer ces paramètres,  sinon le modèle n'utilisera pas 
+20:25
+correctement les outils. Et les paramètres  de défaut de température ne sont pas 
+20:30
+paramétrés. Il faut les mettre en variable  par défaut, sinon vous allez obtenir 
+20:34
+une erreur 400 dans l'interface. Alors,  ceux qui codent des agents IA, modifiez 
+20:40
+les paramètres de sortie. Le calibrage  d'effort est directement relié maintenant 
+20:45
+au niveau de verbosité, utilisation  des outils et longueur des réponses du 
+20:51
+modèle. Il y a donc un calibrage d'effort  sur Opus 4.8 entre la profondeur de 
+20:55
+réflexion, les outils et la verbosité.  Sur la partie prompt, il y a aussi des 
+21:00
+changements à opérer. Il faut faire des  instructions plus littérales. On a la 
+21:04
+possibilité de lancer les agents de  manière automatique en demandant de lancer 
+21:09
+un système "spawn" et d'activer la fonction  "Fan-out". Et si vous voulez bloquer 
+21:14
+cette fonction, vous indiquez "ne  pas spawner les agents", de lancer 
+21:18
+complètement la tâche dans une seule  réponse et vous bloquez la génération de 
+21:24
+système agentique, parce que Claude Opus  4.8 a tendance à générer des agents IA 
+21:29
+moins que Claude Opus 4.7, mais il le  fait de manière automatique. Au niveau du 
+21:35
+prompt, on garde les structures avec des  sections XML. Il est quatre fois plus 
+21:39
+précis que les précédents modèles pour  la gestion et la relecture du code. C'est 
+21:44
+le modèle le plus précis pour la section  code. Et il a vraiment une très grosse 
+21:48
+modification sur la gestion du contexte.  Si vous devez donner une indication à 
+21:53
+un modèle, par exemple "utilise cet  outil" ou "n'utilise pas cet outil", c'est 
+21:58
+un modèle maintenant où vous devez  justifier le pourquoi : "tu utilises cet 
+22:02
+outil parce que..." ou "tu n'utilises  pas cet outil parce que...", ça, c'est 
+22:07
+complètement nouveau et c'est vraiment  un élément de rupture par rapport à tout 
+22:10
+ce qui s'est fait jusqu'à maintenant.  Donc pour utiliser efficacement Claude 
+22:14
+Opus 4.8, il faut que vous intégriez  ces modifications de prompts dans le 
+22:18
+fonctionnement. Autre élément : tous les  exemples doivent être intégrés dans des 
+22:22
+balises entrée/sortie en format XML.  Ils vous le disent. Ce qui doit être 
+22:27
+intégré dans les balises XML spécifiquement  pour Claude Opus 4.8, ce sont les 
+22:32
+sections "script", "instruction", "contexte",  "input", "section documents". Il y 
+22:36
+a une chose, moi qui m'a surpris, c'est  Anthropic qui nous dit : "Définissez un 
+22:42
+rôle dans l'invite système." Alors moi  je vous propose, parce qu'honnêtement 
+22:46
+toutes les études montrent que c'est une  chose à ne plus faire. D'ailleurs sur 
+22:50
+tous les nouveaux modèles Gemini, on vous  le dit : ne mettez plus de rôle, c'est 
+22:54
+quelque chose qui biaise complètement les  réponses des IA. Alors on va donner ce 
+22:59
+prompt à Claude Opus 4.8 que j'ai mis  dans l'interface, qui est ici, et je vais 
+23:03
+lui demander d'analyser cette section  en particulier d'Anthropic, parce que je 
+23:09
+voudrais avoir la réponse du modèle  Claude Opus 4.8 et je vais comparer la 
+23:13
+réponse avec ce que va me dire  éventuellement Claude Opus 4.7. Mais voici ce 
+23:18
+que nous dit Claude Opus 4.8, alors que  la documentation officielle nous dit 
+23:23
+"définissez un rôle" : "Tu es un expert  assistant spécialisé en Python". OK, 
+23:27
+moi, c'est quelque chose que je ne  conseille absolument pas de faire au vu de 
+23:30
+toute la lecture que j'ai pu faire sur  la documentation. Regardez ce que nous 
+23:33
+dit Claude Opus 4.8 : "L'attribution  d'un rôle (assistant de codage en Python) 
+23:38
+introduit plusieurs risques selon le  degré de généricité du rôle choisi. Rôle 
+23:43
+trop générique ('assistant utile',  'tu es un expert') : ça n'apporte pas 
+23:46
+d'information utile. À l'inverse, un  rôle trop spécifique et mal calibré 
+23:51
+contraint les réponses. Troisième  conséquence : le rôle peut créer une 
+23:55
+dissonance entre le rôle et la tâche."  Donc on a des effets potentiellement 
+23:59
+négatifs de deux ordres. D'abord sur un  effet de registre : le rôle introduit 
+24:05
+un verbiage stylistique. Le rôle,  c'est un système, ce qu'on appelle un 
+24:09
+"encapsulateur thématique". Et donc,  il nous dit : c'est un effet de dérive 
+24:13
+thématique et un impact de compréhension  et d'interprétation des instructions 
+24:17
+de contexte. Donc vous voyez ce qui  est dit : Claude Opus 4.8 ne valide pas 
+24:23
+cette section officielle d'Anthropic.  Moi, je ne la valide pas personnellement. 
+24:28
+Donc encore une fois, il faut toujours  prendre du recul par rapport à la 
+24:33
+documentation. Personnellement, dites-moi  ce que vous en pensez en commentaire : 
+24:37
+est-ce que vous mettez un rôle à Claude  ? Oui ? À d'autres IA ? Oui ? Comment ? 
+24:42
+Est-ce que vous avez lu toute la  documentation qui est sortie depuis deux ans 
+24:45
+sur ce sujet qui nous indique exactement  ce que va nous répondre Claude Opus 4.8 
+24:50
+? Ça déstabilise les modèles, ça enferme  les modèles dans des systèmes, ce n'est 
+24:54
+pas optimisé. En conséquence, moi j'ai  vraiment abandonné. Je trouve que ça 
+24:59
+marche beaucoup mieux en structurant  différemment les prompts. Il y a quelques 
+25:03
+lignes qu'il faut savoir lire dans la  documentation : trop réfléchir n'est pas 
+25:08
+forcément la meilleure solution. Alors  ça, ça me fait sourire, parce que ce que 
+25:11
+je vous disais tout à l'heure, c'est  que dans la documentation officielle de 
+25:13
+Claude Opus 4.8, on voit très bien qu'il  n'y a pas d'amélioration avec davantage 
+25:17
+de réflexion des modèles, et ils le  disent, ils le disaient déjà pour Claude 
+25:21
+Opus 4.6. Donc le flux de travail, le  système workflow, c'est avant tout la 
+25:27
+capacité d'avoir une console de contrôle  du travail des agents IA, de voir les 
+25:33
+phases de fonctionnement et l'avancée  de travail des outils des modèles. Mais 
+25:37
+rappelez-vous : si vous lancez la  fonction "Ultra Code", "Ultra Plan" ou la 
+25:41
+nouvelle fonction "Deep Search" avec Opus  4.8, la question qui demeure : est-ce 
+25:46
+que le modèle est capable de gérer 1  million de tokens avec une forte précision 
+25:51
+? On n'a pas la réponse. Si vous  l'avez, n'hésitez pas à me le mettre en 
+25:55
+commentaire dans le lien. Je suis curieux  de voir si on a à nouveau les 80 % 
+25:59
+qu'on avait sur l'Opus 4.6 qu'on a perdus  depuis. Et la documentation officielle 
+26:04
+nous montre très bien qu'on n'a pas  d'amélioration de réponse malgré une 
+26:08
+augmentation du token de raisonnement.  Alors, n'oubliez pas une chose : ces 
+26:12
+boîtes, elles vous vendent un produit,  elles vous vendent des concepts, mais si 
+26:16
+vous n'obtenez pas le résultat après  12h, 20h, 10 jours de travail, c'est vous 
+26:22
+qui payez la facture. Ce n'est pas  Anthropic, ce n'est pas Claude. Eux, ils vont 
+26:26
+encaisser les tokens que vous allez payer.  Alors pour moi aujourd'hui, prudence 
+26:30
+avec la fonction "Ultra Code", "Ultra  Plan" et "Deep Search" de chez Claude 
+26:35
+Opus 4.8, je ne suis pas certain qu'elle  soit à la hauteur des promesses qu'ils 
+26:39
+nous font. Ce qui est intéressant,  c'est l'arrivée du travail dynamique en 
+26:43
+action, la gestion donc de la fonction  workflow avec l'interface de gestion. Ça 
+26:48
+c'est bien, c'est intéressant, ça va  nous remplacer la fonction loop pour ceux 
+26:52
+qui le connaissent. Mais dites-moi vous,  en commentaire : est-ce que vous avez 
+26:56
+déjà testé la fonction "Ultra Code",  "Ultra Plan" ? Qu'est-ce que vous en 
+26:58
+pensez ? Comment sont gérés les systèmes  d'agents ? Dites-le-moi en commentaire. 
+27:02
+Moi personnellement, je n'ai pas envie  de cramer mon forfait en 30 minutes en 
+27:06
+l'utilisant. Alors, dites-moi en commentaire,  vous, est-ce que vous êtes prêts à 
+27:09
+le faire ? Je vous dis à bientôt, à  la prochaine. N'hésitez pas à liker, à 
+27:12
+booster cette vidéo. Je compte  sur vous. À très bientôt.
+
+Tout
+
+Source : Parlons IA
+
+Intelligences
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+2:11:44
+Expert en Revenus Passifs : Comment Gagner 10 000 par Mois en 90 Jours !
+The Diary Of A CEO
+ et Chris Koerner on The Koerner Office Podcast
+4,9 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+31:15
+Obsidian + Claude 4.7 = voici comment créer Le cerveau artificiel parfait !
+Parlons IA
+11 k vues
+•
+il y a 2 mois
+
+
+1:29:13
+La France dans tous ses états du 30 juin
+Sud Radio
+759 vues
+•
+il y a 20 heures
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+33 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+11:26
+Ces jeux qui m'ont marqué - MASS EFFECT
+Bazar du Grenier
+1 M de vues
+•
+il y a 4 ans
+
+
+15:59
+Les 4 Compétences IA Qui Valent Une Fortune — Tutoriel Complet
+Parlons IA
+9 k vues
+•
+il y a 3 mois
+
+
+2:02:37
+Expert : les plombiers mieux payés que les avocats ? Après 2008, il prédit le choc de 2029 !
+The Diary Of A CEO
+ et Daniel Priestley
+1,8 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+14 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie | Le SamourAI
+8,8 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+95 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:38:37
+L’expert en argent : de 0 $ à des millions en 2 ans sans aucun travail acharné ! Codie Sanchez
+The Diary Of A CEO
+ et BigDeal by Codie Sanchez 
+6,9 M de vues
+•
+il y a 3 ans
+Doublée
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+11:12
+Claude Advisor Agent: tous les développeurs doivent le tester !
+Parlons IA
+4,2 k vues
+•
+il y a 2 mois
+
+
+50:01
+Le plein d'innovations, pour le meilleur et pour le pire
+Renaud Dékode
+5,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+10:19
+Vibe coding — Comment tester son application ?
+Shubham SHARMA
+32 k vues
+•
+il y a 2 semaines
+
+29:06
+J'ai créer un VRAI RAG Claude 4.7 + Obsidian I Deuxième cerveau Claude !
+Parlons IA
+7,7 k vues
+•
+il y a 1 mois
+
+20:24
+La Silicon Valley commence à avoir peur de l'IA (pas pour ce que vous croyez)
+Grand Angle Nova
+19 k vues
+•
+il y a 3 jours
+Nouveau
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,7 M de vues
+•
+il y a 1 an
+Doublée
+
+    
