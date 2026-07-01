@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : 82f51c1
+- Commit audite : 802800a
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-01 19:19:27
+- Rapport genere le : 2026-07-01 20:29:27
 - Alertes prioritaires Aion : 7
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 16
@@ -31,7 +31,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `82f51c1` - 2026-07-01 21:05:56 +0200 - Audit - ci(aos): add daily audit workflow
+- `802800a` - 2026-07-01 22:24:36 +0200 - Audit - ci(aos): fix daily audit workflow history and encoding
 
 ## Classification des commits
 
@@ -49,11 +49,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `82f51c1` - 2026-07-01 21:05:56 +0200 - ci(aos): add daily audit workflow
+- `802800a` - 2026-07-01 22:24:36 +0200 - ci(aos): fix daily audit workflow history and encoding
 
 ## Commits ignorés pour audit connaissance
 
-- `82f51c1` - 2026-07-01 21:05:56 +0200 - Audit - ci(aos): add daily audit workflow
+- `802800a` - 2026-07-01 22:24:36 +0200 - Audit - ci(aos): fix daily audit workflow history and encoding
 
 ## Fichiers crees
 
@@ -62,6 +62,7 @@ Dernieres 24h ou fallback 10 commits recents
 - A 00_Documentation/README.md
 - A 00_System/audits/daily/.gitkeep
 - A 00_System/audits/daily/2026-07-01_audit-journalier-aos-calibration-final.md
+- A 00_System/audits/daily/2026-07-01_audit-journalier-aos.md
 - A 00_System/audits/templates/TEMPLATE_DAILY_AUDIT.md
 - A 00_System/automation/AOS_DAILY_AUDIT_DESIGN.md
 - A 00_System/automation/AOS_GIT_RULES.md
