@@ -25,7 +25,11 @@ jobs:
           python-version: "3.x"
 
       - name: Generate daily audit report
-        run: python 00_System/scripts/aos_daily_audit.py
+        run: |
+          python 00_System/scripts/aos_daily_audit.py --print-path
+          git status --short
+          git ls-files --others --exclude-standard 00_System/audits/daily/
+          ls -la 00_System/audits/daily/
 
       - name: Commit audit report if changed
         run: |
