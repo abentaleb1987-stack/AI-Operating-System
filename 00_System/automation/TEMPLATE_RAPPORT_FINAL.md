@@ -1,8 +1,31 @@
 # Rapport final AOS - {{Date}} - {{Sujet}}
 
+## Synthese batch
+
+- Sources detectees : {{Nombre sources detectees}}
+- Sources traitees : {{Nombre sources traitees}}
+- Sources echouees : {{Nombre sources echouees}}
+- IA principales detectees : {{Liste IA principales}}
+- Decision finale batch : {{GO / GO partiel / A surveiller / Rejete / Blocage critique}}
+
 ## Sources traitees
 
 - {{Source traitee}}
+
+## Sources echouees
+
+- {{Source echouee}} - {{Cause}} - {{Action}}
+
+## Detail par source
+
+- Source : {{Chemin source}}
+- IA principale : {{IA principale}}
+- Outils / frameworks : {{Outils ou frameworks}}
+- Fiche de veille creee : {{Fiche de veille}}
+- Fiche permanente modifiee : {{Fiche permanente ou Non}}
+- Sections modifiees : {{Sections}}
+- Source deplacee : {{Oui / Non}} - {{Chemin destination}}
+- Decision source : {{GO / A surveiller / Rejete / Echec}}
 
 ## IA / outils detectes
 
@@ -41,6 +64,10 @@
 ## Source deplacee vers traitees
 
 - {{Chemin source traitee}}
+
+## Sources deplacees
+
+- {{Chemin source}} -> {{Chemin traitees}}
 
 ## Git
 

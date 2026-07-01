@@ -89,6 +89,42 @@ Sous-dossiers :
 
 Codex doit scanner les fichiers a traiter, analyser leur contenu et detecter automatiquement l'IA, le framework IA ou l'outil IA concerne.
 
+## Batch processing
+
+Un seul `GO AOS` doit traiter automatiquement toutes les sources presentes dans les dossiers `a_traiter/`.
+
+Pour les videos, Codex doit scanner :
+
+```text
+01_Collecte/sources_brutes/videos/a_traiter/
+```
+
+Codex doit traiter les sources une par une, sans demander d'intervention intermediaire sauf blocage critique.
+
+Pour chaque source, Codex doit :
+
+- lire la source brute ;
+- detecter l'IA, l'outil ou le framework concerne ;
+- router vers le bon dossier `02_IA/` ;
+- creer une fiche de veille ;
+- mettre a jour la fiche permanente si l'information est claire, durable et justifiee ;
+- deplacer la source vers `traitees/` uniquement si le traitement de cette source reussit.
+
+Si une source echoue sans risque critique, Codex doit :
+
+- ne pas deplacer cette source vers `traitees/` ;
+- continuer le traitement des autres sources ;
+- mentionner l'echec dans le rapport consolide.
+
+Si une erreur critique apparait, Codex doit :
+
+- arreter le batch ;
+- ne pas creer de commit ;
+- ne pas pousser vers GitHub ;
+- produire un rapport de blocage.
+
+A la fin d'un batch non critique, Codex doit executer un seul cycle Git global pour toutes les sources traitees avec succes, puis produire un rapport consolide.
+
 ## Routage
 
 Codex ne doit jamais supposer le classement a partir du dossier d'entree.
@@ -159,7 +195,7 @@ Apres traitement complet, Codex doit executer :
 git status --short
 git add .
 git commit -m "docs(aos): integrate source analysis"
-git push
+git push origin main
 git status --short
 ```
 
@@ -172,6 +208,13 @@ Exemples :
 - `docs(aos): add MCP source watch note`
 
 Si aucune modification utile n'a ete produite, Codex ne doit pas creer de commit vide.
+
+Pour un batch, Codex doit creer un seul commit global et ne jamais creer un commit par source.
+
+Messages recommandes pour un batch :
+
+- `docs(aos): process video source batch`
+- `docs(aos): integrate multi-source AI watch batch`
 
 ## Rapport final
 
@@ -191,6 +234,25 @@ A la fin, Codex doit afficher un rapport contenant :
 - resultat du push ;
 - resultat final de `git status --short` ;
 - decision finale : `GO`, `GO partiel`, `A surveiller` ou `Rejete`.
+
+Pour un batch, le rapport consolide doit obligatoirement contenir :
+
+- nombre de sources detectees ;
+- nombre de sources traitees ;
+- nombre de sources echouees ;
+- liste des IA principales detectees ;
+- detail par source ;
+- fiches de veille creees ;
+- fiches permanentes modifiees ;
+- sections modifiees ;
+- sources deplacees ;
+- connaissances integrees ;
+- connaissances non integrees ;
+- points a surveiller consolides ;
+- commit cree ;
+- resultat du push ;
+- resultat final de `git status --short` ;
+- decision finale batch.
 
 Contraintes generales :
 

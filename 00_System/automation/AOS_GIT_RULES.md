@@ -12,7 +12,7 @@ Apres un traitement utile, Codex execute :
 git status --short
 git add .
 git commit -m "{{message adapte}}"
-git push
+git push origin main
 git status --short
 ```
 
@@ -31,6 +31,8 @@ Exemples :
 - `docs(aos): integrate Hermes source analysis`
 - `docs(aos): update Codex permanent knowledge`
 - `docs(aos): add MCP source watch note`
+- `docs(aos): process video source batch`
+- `docs(aos): integrate multi-source AI watch batch`
 
 ## Regles
 
@@ -40,6 +42,36 @@ Exemples :
 - Verifier le statut Git avant et apres le push.
 - Signaler le hash du commit dans le rapport final.
 - Signaler explicitement si le push echoue.
+
+## Regles batch
+
+Un batch declenche par un seul `GO AOS` doit produire un seul commit global.
+
+Codex ne doit pas creer un commit par source.
+
+Pour un batch video simple, le message recommande est :
+
+```text
+docs(aos): process video source batch
+```
+
+Si plusieurs categories, IA, outils ou frameworks sont traites dans le meme batch, le message recommande est :
+
+```text
+docs(aos): integrate multi-source AI watch batch
+```
+
+Le cycle Git de fin de batch est :
+
+```text
+git status --short
+git add .
+git commit -m "{{message batch adapte}}"
+git push origin main
+git status --short
+```
+
+Si une erreur critique apparait pendant le batch, Codex doit arreter le traitement, ne pas creer de commit, ne pas pousser, et produire un rapport de blocage.
 
 ## Prudence
 
