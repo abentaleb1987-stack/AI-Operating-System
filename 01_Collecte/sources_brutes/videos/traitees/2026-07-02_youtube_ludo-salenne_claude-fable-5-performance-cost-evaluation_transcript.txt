@@ -1,0 +1,1235 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)
+Ludo Salenne
+Ludo Salenne
+264 k abonnés
+
+
+948
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+36 287 vues  10 juin 2026  #ClaudeFable5 #Fable5 #ClaudeAI
+Anthropique vient de sortir Claude Fable 5, la version grand public de son IA Mythos. Sur le papier, Fable 5 est la meilleure IA du marché. Mais qu’en est-il dans les faits ? Dans cette vidéo, je fais 5 tests concrets pour mesurer les performances de l’IA Claude Fable 5 et la compare avec Opus 4.8 et GPT 5.5.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+🔗 LIENS
+
+🧡 Ma Nouvelle Formation Claude IA : https://www.ludosln.net/formation-cla... 🧡
+👉 Rejoindre ma communauté IA privée : https://www.skool.com/qg-ia/about
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Au sommaire de ce Test Claude Fable 5 :
+
+0:00 - Claude Fable 5 est là !
+1:05 - Fable 5 vs Opus 4.8 vs GPT 5.5
+1:49 - Test 1 | Créer une App
+5:35 - Fable 5 marque des points
+7:48 - Test 2 | Créer un Jeu
+12:29 - Test 3 | Créer un Site Internet
+15:36 - Les IA Claude sont FORTES !
+17:24 - Claude Fable 5 presque parfait
+20:11 - Test 4 | Créer un Dashboard
+24:32 - Le test ULTIME !
+28:48 - J'étais pas prêt...
+29:58 - C'est incroyable !
+30:55 - Mon avis sur Fable 5
+33-31 - Le point faible de cette IA
+
+#ClaudeAI #ClaudeFable5 #Fable5
+Ludo Salenne met en compétition Claude 3.5 Sonnet avec Opus 3 et GPT-4o à travers cinq tests concrets, incluant le développement d'applications, la création de jeux et l'analyse de données. Cette exploration technique évalue si les performances accrues de ce nouveau modèle justifient un coût d'utilisation nettement supérieur.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Ludo Salenne
+264 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+
+Instagram
+
+TikTok
+
+Twitter
+98 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @LudovicSalenne
+@LudovicSalenne
+il y a 3 semaines
+🧡 Vous avez testé Claude Fable 5 ? Vous en pensez quoi vous ? Pensez vous que Claude Fable 5 justifie son prix par rapport à Opus 4.8 ? Dîtes-moi tout en commentaires et n'oubliez pas, vous pouvez profiter de ma toute nouvelle formation Claude complète au prix de lancement juste ici → https://www.ludosln.net/formation-claude-ia/ 😀
+
+5
+
+
+Répondre
+
+
+5 réponses
+
+@paraboliqfred
+il y a 2 semaines
+Super mais comme toujours, tu juges l'IA par des cas d'usages qui sont les tiens (je respecte), mais pas du tout les miens. Donc ma conclusion est différente :-) J'utilise l'IA de manière pro, pour de la stratégie commerciale et du business analyse + de l'écriture de livres (pro et romans). J'ai découvert Fable 5 hier qui est apparu "magiquement" et comme je suis en forfait Max je l'ai gavé. Je suis sidéré, il défonce tout. Du coup je le fais re-inspecter toutes mes tâches planifiés, mes agents et mes projets en cours pour qu'il remette tout au propre : je lui demande de valider avant, et je me rends compte que le binôme moi+Opus4.8, on était vraiment c*ns, et que je suis devenu subitement intelligent avec Fable. Je pleure déjà qu'il sorte du forfait le 22/06 (pour être remis dedans plus tard, je n'ai pas bien compris).
+
+15
+
+
+Répondre
+
+
+1 réponse
+
+@Optiliberal
+il y a 2 semaines (modifié)
+Merci encore Ludo pour ton partage. Tu soulèves un vrai problème de fond : dans les mois qui viennent, nous allons (enfin) devoir nous préoccuper du rapport qualité/prix des IA. Aujourd'hui, personne ne paye le vrai "prix" des IA. Or, les centaines de milliards investis en datacenters et en amélioration des modèles vont devoir être amortis d'une manière ou d'une autre. Et c'est bien les utilisateurs qui vont payer la facture in fine. La course au meilleur modèle, c'est bien, la course au modèle qui offre le meilleur rapport qualité/prix, c'est mieux. Sur le sujet, les IA de Google - et même les IA chinoises - sont certes un peu moins performantes mais sont mieux placées. Seul le temps long nous donnera le vainqueur de cette course sans fin
+
+9
+
+
+Répondre
+
+
+1 réponse
+
+@KamelBelkacemi
+il y a 2 semaines
+Incroyable contenu, merci Ludo ! On a fait le test : peu importe l'IA que tu présentes, tu finis toujours par revenir à ChatGPT. Tu confirmes ton statut de "Ludo 'OpenAI-or-Nothing' Salenne" : personne ne le défend aussi bien que toi, même quand la concurrence fait rage.D’ailleurs, chapeau pour ta formation sur Claude ! On sait bien que ton cœur appartient à OpenAI, alors on dirait bien que tu es capable de "tromper" ton outil fétiche quand la performance l'exige. Mais ne nous y trompons pas : tu restes officiellement "l'homme qui murmurait à l'oreille de ChatGPT". C’est une vraie relation fusionnelle !Vu la qualité de tes résultats, on finit par te donner raison... mais on t'a à l'œil pour tes prochaines vidéos ! 
+
+
+
+Répondre
+
+
+@Roland-cy7ll
+il y a 2 semaines
+Ca fait plaisir vous voir avec autant d energie!
+Belle présentation. Merci
+
+
+
+Répondre
+
+
+@letunisien87
+il y a 3 semaines
+Merci pour la vidéo c’est vraiment top  juste le changement de ta camera il y a un effet qui dérange
+
+1
+
+
+Répondre
+
+
+@SerenIA_Tech
+il y a 3 semaines
+D’après la doc d’Anthropic il est fait plutôt pour travailler sur de la grosse doc. Je l’ai lancé sur ma code base qui me permet d’automatiser et gérer ma micro-entreprise pour faire des plans d’implémentation et franchement j’ai été super content du résultat. Rapide et efficace. Effectivement va falloir lui donner à manger semble-t’il. 
+D’habitude je code avec sonnet et je debug avec opus. Aujourd’hui code avec opus et debug avec Fable et franchement je me suis régalé (par contre j’étais en permanence sur l’utilisation de mon à abonnement… et ça va à une vitesse… je vais pas pouvoir bosser comme ça demain ) merci pour la vidéo c’est cool.
+
+1
+
+
+Répondre
+
+
+@EloPavard
+il y a 2 semaines
+Merci pour cette vidéo passionnante ! une nouvelle abonnée :)
+
+
+
+Répondre
+
+
+@ForMyCom-z9c
+il y a 2 semaines
+Je kiffe ta chaine :)
+
+
+
+Répondre
+
+
+@fatimazohra2804
+il y a 2 semaines
+Excellente vidéo! Merci pour ce travail d'analyse et de comparaison. Compte tenu de mon niveau je n'utiliserai pas fable 5.
+
+
+
+Répondre
+
+
+@ConseilsmarketingFr
+il y a 2 semaines
+Ah, oui c'est vraiment pas mal !!
+
+
+
+Répondre
+
+
+@PatrickGamard-c6z
+il y a 3 semaines
+moi je dis attention a mes collègues, on peut s'inspirer de ce travail mais il faut remettre sa main c'est incontournable  il faut retravailler ces  présentation  ( moi en plus je fait  prendre  les meilleurs éléments des 3 par chaque IA ça  améliore encore le travail) mais  il faut terminer à la mano !
+
+1
+
+
+Répondre
+
+
+@PatrickGamard-c6z
+il y a 3 semaines
+je suis d'accord avec toi gpt n'est pas mort je développe une  grosse appli ( avec claude ) et ça roule
+
+
+
+Répondre
+
+
+@vincent_regnault
+il y a 2 semaines
+incroyable tu penses qu'on pourrait juste avoir le denier prompt pour l'adapter a d'autre sujet , je ne suis pas dans le skool si c'est pas possible je comprend :) merci en tout cas
+
+
+
+Répondre
+
+
+@PatrickGamard-c6z
+il y a 3 semaines
+les crédits sont un déjeuner de soleil ça  part tellement  vite que ça va couter un rein
+
+3
+
+
+
+Répondre
+
+
+2 réponses
+
+@superclix
+il y a 2 semaines
+Mon avis est que Fable 5 est un peu au dessus, mais le gap n'est pas non plus énorme. Par contre ce que je remarque, c'est qu'on s'oriente de plus en plus vers un pricing qui ne permettra plus d'utiliser ces modèles d'une façon "ludique", mais uniquement professionellement. Ce qui dans un sens est compréhensible, les entreprises commençant à remplacer les profils de développeurs (souvent consultants) par des AIC (AI Credits).
+
+1
+
+
+Répondre
+
+
+@olivierfisher
+il y a 2 semaines
+Très sympa merci ! J’aurai vraiment aimé que tu intègres Gemini pour comparer 
+
+1
+
+
+Répondre
+
+
+2 réponses
+
+@steevedelaune1603
+il y a 2 semaines
+Que pense tu de Fab 5 c le meilleur ludo alors ? Pour moi qui fait des paris sportifs et autre stats
+
+
+
+Répondre
+
+
+@jean-jacquesengels8821
+il y a 3 semaines
+Une dinguerie jusqu'à ce qu'une IA concurrente vienne lui bruler la politesse.  Je suis persuadé que d'ici à quelques semaines, Fable 5 aura été dépassé.  Toutes les IA prennent le lead tour à tour.  Cela fait des années maintenant que c'est comme ça...
+
+8
+
+
+Répondre
+
+
+3 réponses
+
+@enricmoro9634
+il y a 2 semaines
+salut, super vidéo merci ! 
+j'ai juste une question, j'ai vu que tu as l'option "demander à gemini" dans ton chrome, comment tu as fais ? 
+merci pour ta réponse.
+
+
+
+Répondre
+
+    
+
+Video ad upload channel
+Bytedance Seedance 2.0Publish
+Sponsorisé
+byteplus.com
+
+
+Explore Seedance Now
+New Seedance 2.0
+Seamless Sound-Vision Sync
+Accéder au site
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Claude Fable 5 est là !
+0:00
+Une grosse excitation pour une grosse nouveauté aujourd'hui dans le monde de l'intelligence artificielle. On a Anthropiic qui vient de frapper un grand
+0:06
+coup avec Claudia en sortant un nouveau modèle qui s'appelle Fable 5. Et si on en croit tous les benchmark qu'il nous
+0:13
+présentent dans leur page de présentation, et bien ce serait une intelligence artificielle qui surpasse
+0:18
+toutes les IA du marché. Donc autrement dit la meilleure IA qu'on aurait jamais eu entre les mains et surtout ce serait
+0:24
+une intelligence artificielle qui serait nettement meilleure que l'autre IA d'anthropique déjà puissante qui
+0:29
+s'appelle Opus 4.8. La petite problématique qu'on va avoir et on en reparlera tout au long de la vidéo et
+0:35
+notamment à la fin quand je reviendrai sur les conditions d'accès et d'utilisation de Fable 5 et bien le
+0:40
+tarif de Fable 5 est deux fois supérieur à celui d'Opus 4.8. Donc l'objectif de
+0:45
+cette vidéo découverte de Fable et bien il va être très très simple. On va voir si cette intelligence artificielle est
+0:52
+au moins deux fois meilleure COPUS 4.8 et est-ce qu'il vaut son tarif ? et bien
+0:57
+on va pouvoir analyser tout ça ensemble et on va même aller un peu plus loin pour que la vidéo vous apporte un maximum de valeur ajoutée. Ce que j'ai
+1:04
+fait aujourd'hui et bien c'est que j'ai lancé 5 à tests pour l'intelligence
+Fable 5 vs Opus 4.8 vs GPT 5.5
+1:10
+artificielle Fable 5 que je mets en compétition avec Opus 4.8 pour voir les
+1:15
+différences de performance mais aussi avec l'intelligence artificielle d'open GPT 5.5 que j'ai utilisé via Codex
+1:23
+puisque Fable 5 et Opus 4.8 Je l'ai utilisé sur Cloud Code afin
+1:28
+d'avoir les meilleures performances possibles. Et donc du coup, ce que je vous propose de faire pour chacun des
+1:34
+cas d'utilisation et bien c'est de regarder les résultats des intelligences artificielles et on pourra voir quels
+1:39
+sont les résultats qu'on préfère et si c'est bien Fable 5 avec son coût exorbitant qui retient notre attention.
+1:45
+Je vous propose d'entrer dans le vif du sujet parce qu'on a pas mal de choses à voir ensemble. Et donc le premier test,
+Test 1 | Créer une App
+1:50
+j'ai demandé à ces trois IA, donc rappelons bien, Fable 5, Opus 4.8 et GPT 5.5 5 de me créer une mini application
+1:58
+HTML qui s'appelle Diagnostic IA Express avec un objectif celui de poser cette
+2:03
+question à un utilisateur pour qu'il puisse avoir son profil d'utilisateur en
+2:08
+intelligence artificielle et surtout derrière ça un plan d'action concret sur 7 jours pour progresser dans l'IA et
+2:14
+surtout l'implémenter dans son environnement de manière stable, durable et rentable. Je vous propose d'aller
+2:20
+voir directement ce que ça donne. Et ce qu'il y a de bien, c'est que j'ai lancé ça pendant que je travaillais sur tous mes dossiers de la journée. Donc je vais
+2:27
+pouvoir découvrir les résultats avec vous et je pourrais aussi vous donner mon avis en live sans aucun filtre. Donc
+2:35
+ici, je vous propose le premier résultat et je vais bouger ma webcam pour que vous puissiez voir ça tranquillement. On
+2:41
+est sur le diagnostic IA Express, la mini application de GPT 5.5. Je vais
+2:47
+garder cet ordre tout au long de ce test découverte. GPT 5.5 Opus 4. Et on finira
+2:53
+par le résultat de Fable 5 pour voir s'il y a vraiment une montée en performance. Et donc là sur Codex GPT
+2:59
+5.5, on a notre outil de diagnostic qui est prêt. Donc quand je vais cliquer sur démarrer le diagnostic, ça va m'envoyer
+3:05
+vers le questionnaire qui est juste derrière. Est-ce que je peux cliquer sur ce que vous obtenez ? J'obtiens ce que j'obtiens ici dans la liste APUS. OK.
+3:13
+les deux boutons sont sympathiques, est-ce qu'ils ont un intérêt dans cette interface ? Je ne suis pas certain. Et donc maintenant, ce que je vais faire
+3:18
+pour voir l'expérience utilisateur et bien c'est que je vais répondre au pif aux sep questions pour voir un petit peu comment ça se passe pour la présentation
+3:25
+des résultats, si c'est sympathique ou non et on pourra comparer avec les deux autres intelligences artificielles derrière. Donc là, en répondant au PIF,
+3:32
+j'obtiens un profil utilisateur IA de praticien opportuniste avec un score de 36/ 100 et derrière j'ai un plan
+3:39
+d'action sur 7 jours qui m'est proposé. Donc on commence par choisir deux tâches concrètes à déléguer Alia dans le
+3:46
+premier jour et on va jusqu'à installer une routine à la fin de la semaine. On me propose trois outils à tester : Chat
+3:52
+GPT ou Cloud pour le 1, Perplexity pour le 2 et Notion ou Google Doc pour le 3.
+3:57
+On me propose de la lecture et surtout d'exporter ce plan en PDF ou de refaire le diagnostic si je le souhaite et vous
+4:04
+le voyez pas sous ma webcam mais il y a un lien pour envoyer vers ma communauté IA privé. Vous aurez le lien dans la
+4:10
+description si vous souhaitez en savoir plus. Donc voilà pour la partie codex, ça fait le taf, c'est pas mal, ça aurait
+4:16
+pu être mieux mais pour le moment j'en suis satisfait et si je n'avais eu que cette intelligence artificielle, ça
+4:21
+aurait été largement suffisant. Maintenant, on passe au deuxè la deuxième version de ce test et c'est
+4:28
+cette fois OPUS 4. Est-ce que c'est meilleur que GPT 5.5 ? Là, j'ai l'impression qu'on voit du traditionnel,
+4:34
+l'interface qu'on voit un petit peu dans tous les outils de développement nos codes. Donc là, pour le coup, je suis plutôt déçu du résultat. J'ai
+4:40
+l'impression que là, il y a une créativité, un parti prix un peu différent alors que
+4:45
+sur 4.8, on a quelque chose de très standard. Bref, ici, je vais cliquer sur démarrer mon diagnostic et comme tout à
+4:51
+l'heure, je vais répondre au pif pour voir un petit peu comment ça se passe à la fin l'affichage notamment des
+4:56
+résultats. Donc voilà, j'y arrive. Et donc là, j'obtiens un affichage qui est pas terrible contrairement à Codex,
+5:02
+c'était vachement plus sympa je trouve. Ici l'interface est beaucoup plus claire, on comprend mieux les résultats
+5:07
+et là pour le coup c'est renié donc c'est pas terrible la couleur. Ouais comme je vous disais précédemment, c'est quelque chose qu'on retrouve sur tous
+5:13
+les outils DI un peu mal développés actuellement. On a le plan sur 7 jours.
+5:18
+Je trouve qu'il est moins clair. On a des outils à tester, make cloud et cloud code. On a le petit bouton qui apparaît
+5:24
+à la fin, la possibilité d'exporter notre plan d'action en PDF. Là clairement je sais pas, vous me direz
+5:30
+votre avis en commentaire, je mets largement GPT 5.5 devant. Et maintenant ce qu'on va faire, c'est qu'on va tester
+Fable 5 marque des points
+5:37
+euh Fable 5. Et il y a quelque chose qui qui me choque moi dès le départ et vous vous pourrez peut-être pas le voir, mais
+5:43
+moi je le comprends vu mon contexte. Et du coup, je vais aller vérifier un petit peu ce qui s'est passé juste ici. C'est
+5:48
+que je remarque que euh Fable 5 a pris en compte ma charte graphique que j'ai
+5:54
+partagé dans Claude. Donc là, je peux regarder un petit peu s'il l'a fait ici. Ah bah voilà, on voit un petit peu les différences. Je vais m'attarder un petit
+6:00
+peu là-dessus pour ce premier test pour que vous puissiez voir aussi le la différence de fonctionnement entre Opus
+6:05
+4.8 et Fable 5 et puis aussi GPT 5.5. Opus 4.8. Je lui ai fait ma demande, il me dit "OK, je vais créer ta mini
+6:12
+application et je me lance et j'applique les choses." Alors que Fable 5 a une approche un petit peu différente. Déjà,
+6:17
+il me dit "Je reformule ton objectif." Et en plus, il dit ici que dans son process, justement, comme c'est un
+6:23
+contenu qui me concerne et qui pourrait concerner ma communauté, et bien il va charger ma charte graphique. J'ai créé
+6:29
+une skill pour ça et du coup, il a utilisé cette skill. il a pris la liberté de l'utiliser pour me proposer
+6:36
+un design d'application qui correspond pile poil à ma marque ce que n'a pas fait au+ 4.8. Donc là, on a déjà un
+6:43
+petit surplus de performance, j'allais dire et on va découvrir le résultat ensemble ce que ça donne. Donc là,
+6:49
+l'affichage me plaît plus puisqu'il correspond à ma marque. Je vais cliquer sur démarrer le diagnostic. Là, on voit
+6:54
+que c'est quelque chose de beaucoup plus clair, beaucoup plus dynamique, j'allais dire. Ça donne envie de cliquer sur les boutons. C'est très rapide, je trouve
+7:01
+l'affichage pour le coup en cliquant. L'affichage est aussi un peu meilleur même si là pour le coup je trouve que
+7:06
+Codex était meilleur dans l'affichage mais ça reste un parti prix. Euh il y a moins, c'est moins renié en tout cas
+7:12
+dans les résultats. Le plan d'action est un petit peu plus clair. On voit bien l'environnement calendrier qui a été repris. Il a repris ma police, il a
+7:18
+repris les codes couleur. Ça je trouve ça vraiment incroyable. Pour les outils recommandés pour nous, on a Cloud Perplexity Notion A. C'est clair en
+7:25
+fait, d'un coup d'œil, on comprend ce qui se passe. Exporter mon diagnostic en PDF, je peux le faire et je retrouve le
+7:31
+bouton ici pour découvrir le QG de Lia. Tout ça, c'est nickel. Donc là, ça fait
+7:36
+le taf. Clairement, Fable 5 au-dessus d'Opus 4. Maintenant, est-ce qu'il est nettement au-dessus de GPT 5.5 pour ce
+7:43
+premier test basique ? Je dirais que non, que ça se vaut. Vous pourrez me donner votre avis en commentaire.
+Test 2 | Créer un Jeu
+7:49
+Maintenant, je vous propose, on va y aller toujours créchendo un petit peu dans ce test aussi pour voir tout le potentiel et pousser les IA dans leur
+7:55
+retranchement. On va voir maintenant la création d'un jeu d'intelligence artificielle. L'objectif c'était de
+8:00
+créer un jeu qui s'appelle Prompt Defender et on va incarner un professionnel qui utilise Lia et qui
+8:07
+doit se défendre des mauvaises pratiques qui viennent polluer son cerveau. Donc
+8:13
+en gros, on va devoir tuer tout ce qui peut ruiner nos résultats quand on travaille avec l'intelligence
+8:18
+artificielle. On a une mécanique qui a été décrite, on a des contraintes aussi, notamment le fait d'avoir un seul
+8:24
+fichier HTML pour que ce soit plus facile à analyser. Et on demande aussi à l'intelligence artificielle de faire
+8:29
+différents tests. Donc là, Opus 4.8 c'est exécuté, il m'a fait un retour, Fable 5 a finalement suivi un petit peu
+8:36
+la même procédure. Maintenant, on va aller voir les résultats ensemble, hein. Je vous le dis pas parce que c'est vous
+8:41
+le savez maintenant, mais j'ai fait exactement la même chose et je vais dérouler ça puisque je l'avais pas fait pour le diagnosticia, mais j'ai fait
+8:48
+exactement le même prompt pour GPT 5.5. Donc vraiment les mêmes informations, les mêmes contraintes pour les trois
+8:54
+intelligences artificielles. Et donc bah je vous propose maintenant de découvrir les résultats après l'application précédente. On va regarder les jeux IA
+9:01
+et donc là on arrive avec le résultat de GPT 5.5. Moi, j'ai du mal et là je vous
+9:06
+donne mon avis un petit peu aussi sans filtre et de manière spontanée puisque je suis en mode découverte ici. J'ai du
+9:12
+mal aussi avec tous les avis qui nous disent que j'ai pété 5.5. C'est mauvais, c'est terminé, c'est pas bon pour tout
+9:18
+ce qui est développement. Quand je vois en tout cas l'interface qui est présentée ici, ça me paraît plutôt pas mal. Maintenant, je vais essayer de
+9:23
+jouer au jeu. Donc, j'ai la possibilité de me déplacer avec euh le clavier ou avec les flèches. J'ai la possibilité de
+9:30
+viser avec ma souris et j'ai la possibilité de tirer avec la souris. Je vous propose de voir un petit peu ce que
+9:35
+ça donne ici le jeu. Donc, je le lance. Donc, je peux me déplacer. Je vais pouvoir tirer du coup en visant avec ma
+9:40
+souris sur les différentes mauvaises pratiques. Par exemple, les automatisations bancales, les outils
+9:46
+inutiles. Donc voilà, le jeu est pas mal. Ça vaut ça vaut ce que ça vaut. Ça vaut des jeux à Atari des années 70 voir
+9:52
+un peu mieux. Le résultat est pas mal. Ce qui me gêne un petit peu ici, j'ai perdu, j'ai un affichage, c'est que j'ai
+9:58
+pas de de de d'effet de bruitage ici. Donc ça ça me paraît un petit peu
+10:03
+dommage. Quand je clique sur le mode pédagogique, bah du coup, je vais avoir toutes les leçons apprises par rapport aux ennemis qu'on a dû butter dans cette
+10:10
+version. Donc bah pour moi c'est plutôt pas mal hein. Je peux rejouer, je peux relancer le truc sur codex, ça fait le
+10:16
+taf et je sais pas ce que vous en pensez mais c'est assez remarquable quand même pour une intelligence artificielle d'avoir ça. Je pense qu'il y a 6 mois,
+10:21
+on était très très loin de ce genre de résultat. Claude ou pas Claude, j'ai pété 5.5 ou pas GPT 5.5 ? Maintenant on
+10:28
+va voir Opus 4. Là c'est pareil, j'ai un peu de mal avec Opus 4.8. Je trouve que c'est assez fouilli. On doit prendre le
+10:35
+temps de tout analyser pour voir un petit peu le fonctionnement du jeu. Je trouve que c'était plus clair. En tout cas, l'expérience utilisateur était plus
+10:41
+facile avec GPT 5.5. Quoi qu'il en soit, on va lancer au + 4.8. La mécanique,
+10:46
+c'est la même. Je vais pouvoir me déplacer avec le navigateur, viser avec la souris et tirer. Donc on va y aller. Et là, bah du coup, il ne se
+10:53
+[grognement] passe rien du tout. Donc au+ 4.8, bah il y a un bug dans le jeu. Donc ça c'est assez intéressant et c'est
+10:59
+pour ça aussi que c'est bien de vous montrer tout de manière spontanée. Là pour le coup en one shot puisque j'ai tout fait, tous les tests ont été faits
+11:05
+en one shot et bien Opus 4.8 n'a pas fonctionné. Bien entendu, vous le savez, on va peut-être pas en tenir rigueur sur
+11:11
+cette IA tout au long de ce test puisque c'est quelque chose qui arrive fréquemment sur toutes les intelligences artificielles du marché. Mais toujours
+11:17
+est-il qu'ici ça ne fonctionne pas, est-ce que ça va fonctionner sur Fable 5 ? Là, on pourrait du coup justifier une
+11:22
+hausse de tarif si quelque chose fonctionne directement en one shot pour la création de notre jeu. Je vais le
+11:29
+lancer juste ici. Donc pareil, la mécanique, on peut se balader. Donc là, c'est intéressant. Je peux me balader.
+11:35
+Je trouve que l'affichage est assez similaire à ce qu'on a pu avoir sur euh sur Codex. J'ai pas non plus de bruitage
+11:42
+qui apparaissent juste ici. Le jeu est plutôt pas mal. Ah si, j'ai débrutage là. J'ai débrage. Vous avez peut-être pas entendu ça vous qui me suivez en
+11:49
+vidéo, mais en gros quand on bute un ennemi j'allais dire et bien on a un petit bruit d'explosion qui apparaît.
+11:55
+Donc ça c'est pas mal par rapport à Codex qu'on avait pas précédemment. Bon le jeu est sympathique. Je vais me faire
+12:00
+perdre exprès pour voir un petit peu ce qui se passe quand je perds. Donc j'ai les vies en haut à droite qui défilent. C'est plutôt pas mal. Quand je perds du
+12:06
+coup j'obtiens une leçon IA qui apparaît juste ici et j'ai une nouvelle vague. Du coup je passe au niveau 2 ici. Je vais
+12:12
+essayer de perdre le plus rapidement possible. J'obtiens ici quelque chose d'agréable. Donc là, l'environnement de
+12:18
+jeu pour moi est très équivalent, voir je le mettrai même peut-être un peu en dessous de GPT 5.5 pour Fable 5. En tout
+12:25
+cas, je le mets au-dessus d'Oppus 4.8 puisqueus 4.8 a buggé. Maintenant, on va aller un tout petit peu plus loin et on
+Test 3 | Créer un Site Internet
+12:31
+va faire travailler ces trois intelligences artificielles de manière très opérationnelle. L'idée, c'est aussi
+12:37
+d'avoir des cas d'usage que vous allez pouvoir répliquer dans votre quotidien. Et là, ça tombe bien puisque je sors et
+12:43
+je vous l'annonce en live dans cette vidéo, une formation complète sur Cloud. Et donc du coup, j'ai utilisé les trois
+12:48
+intelligence artificielle pour faire la page de vente. Donc vous vous aurez le lien dans la description pour accéder et
+12:54
+acheter cette formation sur Cloud. Je vous explique tout après. Donc j'ai demandé aux trois intelligences artificielles de me créer les la
+13:01
+meilleure page de vente possible et pour ça j'ai fait différentes choses. Je leur ai partagé le lien, les informations sur
+13:07
+le tarif. J'ai partagé une structure attendue et j'ai surtout partagé l'intégralité des transcriptions des
+13:12
+modules pour que l'intelligence artificielle puisse avoir accès aux 23 modules proposés dans cette formation
+13:18
+qu'il connaissent parfaitement le contenu de cette formation pour me faire la meilleure page de vente possible.
+13:23
+Donc comme tout à l'heure, j'ai demandé à Opus 4.8 Fable 5 et j'ai demandé naturellement la même chose à Codex
+13:30
+juste ici avec GPT 5.5. Vous le voyez à l'écran. Je vous propose de découvrir
+13:35
+les résultats. On va voir pour l'instant. Je sais pas ce que vous en pensez mais là moi, j'aurais tendance à mettre Fable 5 effectivement au-dessus
+13:42
+d'Opus 4.8. Par contre, pour un usage pour le moment assez classique et assez
+13:48
+pragmatique, j'allais dire, Codex et Fable 5, pour moi, ça se vaut assez bien. J'ai pété 5.5, Fable 5,
+13:54
+pardonnez-moi pour l'abus de langage. Bref, maintenant on va découvrir les landing page, les pages de présentation
+13:59
+pour ma formation Claudia et ça va me permettre de vous en parler de manière ludique. Donc là, on a la version de
+14:05
+Codex donc qui nous met un petit slogan ici à prendre Claudia pour produire du vrai travail, pas seulement discuter avec une intelligence artificielle. Je
+14:12
+trouve que ça fait redondant. Il y a il y a ici l'affichage sur la droite. Je regarde quand même que vous voyez bien
+14:17
+euh malgré ma webcam avec ma photo juste ici, bah c'est renié par le nom qui
+14:22
+apparaît là. Le bouton le call to action en haut est pas très très visible mais l'affichage est plutôt sympathique. Donc
+14:29
+on va avoir les différents modules. Donc ce qu'il y a de bien dans cette formation c'est que c'est une formation en trois parties. La formation pour
+14:35
+utiliser Cloud chat mais aussi la formation pour utiliser Cloud Code que je vous montre depuis le début de cette
+14:40
+vidéo et aussi cloud cowork qui est un outil très puissant et qui va vous permettre d'automatiser des tâches grâce
+14:46
+à l'intelligence artificielle sans avoir aucune connaissance en code en développement ou que sais-je. Vous allez
+14:51
+pouvoir faire ça très facilement. Donc il présente les bénéfices de cette formation IA. J'ai débloque ici aussi ce
+14:58
+qu'on va apprendre dans cette formation sur Claude intelligence artificielle, le parcours en différentes parties et ce
+15:06
+que Claude peut changer dans votre quotidien. Donc pourquoi cette intelligence artificielle ? Pour qui est fait la formation Claude ? On va avoir
+15:12
+des témoignages clients qui apparaissent juste ici et le tarif parce que je vous en ai pas parlé mais à l'occasion du
+15:17
+lancement de cette formation sur Claudia, vous aurez le lien dans la description. Vous allez pouvoir en profiter pendant quelques jours à peine
+15:23
+au prix de 149 € au lieu de 590 € ce qui fait une réduction de 75 % pour
+15:30
+le prix de lancement. Donc bref, vous pouvez en profiter. On a la page faite par GPT 5.5 ici. On va maintenant aller
+Les IA Claude sont FORTES !
+15:37
+voir la page faite par Opus 4.8. Et là pour le coup, je trouve ça vraiment
+15:42
+sympathique. Donc on a bien formation Claudia ici. Le bouton en haut est sympathique. D'ailleurs, je vais cliquer
+15:47
+dessus pour voir si on arrive vraiment sur la page du panier. Ce qui est le cas ici. On a bien le code promo qui
+15:53
+s'affiche. Je vais vérifier d'ailleurs si c'était le cas aussi sur la version GPT 5.5. C'est bien le cas. On arrive
+15:59
+ici pour prendre la formation à 149 au lieu de 590. Donc les boutons fonctionnent juste ici. Je vais rebouger
+16:06
+ma tête une nouvelle fois. Donc on a le tarif, le slogan c'est maîtriser Claude et faites-en votre véritable assistant
+16:12
+de travail. Là, je trouve ça plutôt pas mal. On a la promotion qui apparaît bien ici. Je trouve que c'est plus visible que ce qu'on avait sur GPT 5.5. Là, pour
+16:19
+le coup, on voyait pas forcément que c'était une promotion. J'aime bien les effets aussi sur le bouton, on va pouvoir cliquer sur voir le programme,
+16:25
+arriver directement sur les trois parties, donc sur Cloud chat, Cloud Code et Cloud Cowork avec les différents
+16:31
+modules. 23 modules, ça représente plus de 10 heures de formation. J'en ai pas parlé, c'est pas forcément présenté dans
+16:36
+les pages juste ici. Je vous le dis donc à l'oral, vous allez avoir ici donc du coup tous les avantages de clause que
+16:43
+vous allez pouvoir apprendre dans la formation. Là, c'est assez similaire à ce qu'on avait sur Codex. En tout cas, je trouve que cette page est plus
+16:49
+percutante. Elle donne plus envie de cliquer et on voit plus l'aspect promotionnel. Donc pour 149 € au lieu de
+16:54
+590 €. Là, on voit bien qu'on a les 23 modules vidéos, qu'on a trois univers complets, qu'on a les différentes
+17:00
+méthodes, qu'on va récupérer des guides PDF, des templates, des ressources, qu'il y a des cas pratique réel et qui a un accès à vie aux mises à jour. Si vous
+17:07
+suivez régulièrement mes formations, vous savez que c'est un point important pour moi. Donc quand vous optez pour cette formation et au prix promo de 149
+17:13
+€ et bien vous bénéficiez des mises à jour à vie sur cette formation cloud. Et comme l'intelligence artificielle évolue
+17:20
+très très vite, et bien c'est plutôt sympa d'avoir cette option gratuitement. Bref, on va découvrir maintenant le
+Claude Fable 5 presque parfait
+17:26
+résultat de Fable 5. Alors, dans le design, j'ai l'impression que c'est un peu mieux quand même que Opus 4.8.
+17:32
+Maintenant, vous me donnerez votre avis en commentaire. Est-ce que ça justifie un prix deux fois plus élevé pour Fable 5 par rapport à Opus 4.8 ? Je ne suis
+17:40
+pas certain. Et je commence à avoir mon avis qui se construit sur ces deux intelligences artificielles à mesure que je découvre les résultats en même temps
+17:46
+que vous. Je vous dirai tout en fin de vidéo, mais vous allez voir, vous risquez d'être surpris ou peut-être que
+17:52
+vous partagerez d'ailleurs mon avis. Donc là, on a un autre slogan : "Mîtrisez Claudia et déléguer enfin le
+17:57
+travail qui vous prend des heures." Je trouve ça vraiment sympa. Pour le coup, le slogan est vraiment percutant. Je trouve que les textes en les regardant,
+18:03
+en les scannant ici ont l'air plus percutant que ce qu'on avait sur Opus 4.8. L'affichage est aussi plus clair en
+18:09
+haut. Je trouve que c'est oui, c'est plus ça donne plus d'information, c'est plus canap, ça donne plus aussi envie de
+18:14
+cliquer que sur opus 4.8 et derrière la structure ça reste la même puisque c'est ce que j'avais spécifié dans mon prompt
+18:20
+hein. Pourquoi Claude change la donne ? Ce que vous allez apprendre, je trouve que c'est plus cannable aussi là sur Fable 5, les trois modules 23 leçons et
+18:27
+cetera. Je trouve que c'est bien fait. Voilà le fait de pouvoir dérouler sur le programme et d'avoir un résumé de ce
+18:33
+programme et il s'est basé vraiment là sur toutes les transcriptions. Je trouve que le travail de Fable 5 là pour le coup est nettement supérieur à ce qu'on
+18:38
+a pu avoir sur GPT 5.5 et sur Opus 4.8 qui était d'ailleurs meilleur que GPT 5.5 je trouve. Là, l'expérience
+18:45
+utilisateur est vraiment sympa et on a des informations supplémentaires et on voit qu'il a vraiment pris connaissance de toutes les transcriptions pour faire
+18:52
+le résumé de chacun des modules. Donc là, vous allez avoir le programme complet puisque je pense que je vais opter pour cette page de présentation et
+18:57
+vous allez pouvoir cliquer dessus pour la découvrir en live et profiter de la promotion. Comme je le disais précédemment, ce que ça change
+19:03
+concrètement, ce que vous allez récupérer. Là, c'est pareil, c'est assez scannable. Les avis sont bien présentés. une pédagogie notée 5/5 par plus de 800
+19:10
+personnes. Je trouve ça très intéressant la manière dont c'est amené pour qui est cette formation, ce que vous allez
+19:16
+obtenir, un seul paiement et vous avez accès à tout. Je trouve ça génial. Là pour le coup, la page de présentation,
+19:22
+elle est nickel et dites-vous, j'ai balancé un prompte ultra basique hein que je vous ai présenté juste ici avec
+19:28
+quelques informations, des transcriptions, un lien et il m'a fait cette page sans que je ne demande rien d'autre. Vous pouvez voir dans la
+19:33
+discussion ici, je n'ai rien changé. Donc là, on est sur Opus 4.8. J'ai fait pareil sur Fable 5, je n'ai rien
+19:39
+demandé, il a tout fait tout seul pendant que moi j'étais en train de travailler sur d'autres dossiers à côté.
+19:44
+Donc ça c'est vraiment sympa. On voit vraiment la rentabilité de l'intelligence artificielle quand c'est utilisé dans un tel contexte. Donc voilà
+19:51
+pour la plage de présentation. Je vous rappelle que ma formation Claudia vient tout juste de sortir. Vous avez la primeur de l'information en regardant
+19:57
+cette vidéo. Le lien est dans la description et vous pouvez en profiter pendant quelques jours à peine au prix de 149 € spécial lancement au lieu de
+20:05
+590 €. Après, on passe à 590 et le prix de 149 € vous ne le reverrez plus. Bref,
+Test 4 | Créer un Dashboard
+20:12
+on va continuer les tests et là on va monter encore de deux étages, j'allais dire puisque je commence à demander des
+20:18
+choses plus puissantes à l'intelligence artificielle. Et donc là, ce que j'ai fait pour ce 4e test, et bien c'est que
+20:24
+j'ai demandé aux trois intelligences artificielles, rappelons-le, Opus 4.8, Fable 5 et GPT 5.5, d'analyser un
+20:30
+fichier CSV dans laquelle j'ai partagé des données sur 150 prospects pour un
+20:35
+logiciel de scoring de lead basé sur l'IA justement. et j'ai demandé du coup
+20:42
+au 3 IA de me créer un dashboard le plus efficace possible pour que je puisse avoir un état des lieux de la situation
+20:48
+et que je puisse vraiment comprendre en un coup d'œil les actions que je dois mener pour mener à bien ma campagne pour
+20:55
+vendre ce logiciel de scoring. Je vous propose maintenant de voir les résultats. On va commencer maintenant.
+21:01
+Vous avez l'habitude dans ce test par GPT 5.5. Voir ce que ça donne. Je l'affiche à l'écran. Et donc là, bah là
+21:08
+pour le coup, on se retrouve avec quelque chose encore de standard. Comme je le disais un peu précédemment pour
+21:13
+une des propositions d'OPUS 4. On a un dashboard qu'on pourrait récupérer sur n'importe quel outil d'intelligence
+21:19
+artificielle. Je sais pas vous, mais j'en ai marre de ce design avec toujours le même bleu, avec toujours les mêmes
+21:24
+logos qui apparaissent. On voit ça partout maintenant, vu que pas mal de personnes utilisent ces outils dia pour
+21:30
+coder des applications, des sites internet et cetera. Moi ça me fatigue. Alors là pour le coup, le dashboard a l'air plutôt pas mal. hein, il a
+21:36
+vraiment traité toutes les informations. On retrouve des informations clés ici sur le pipeline, donc le potentiel de
+21:41
+chiffre d'affaires, sur le chiffre d'affaires généré, le taux de clic dans les emails. On voit aussi quelles sont les sources qui rapportent le plus de
+21:48
+business, les top campagnes. Donc c'est quand même plutôt pas mal. Ce qu'il faut comprendre, ça apparaît euh juste ici
+21:54
+les trois actions prioritaires. Donc, je vais devoir relancer des leads ayant consulté la page tarif, traiter les haut
+21:59
+lead sous 24 heures et répliquer une campagne qui s'appelle Audit gratuit IIA qui avait plutôt bien fonctionné, qui
+22:05
+avait amené pas mal de cash potentiel dans le pipeline. Donc voilà, c'est pas mal, ça fait le job. On peut naviguer
+22:11
+ici. Oui, on peut naviguer dans la page. Je peux l'exporter en PDF. Je vais essayer de faire le test ici. Je peux l'exporter, l'imprimer directement. Ça
+22:19
+fonctionne, c'est bien, ça fait le taf. Mais oui, comme je le disais précédemment, moi ça me fatigue d'avoir ce genre de présentation. Maintenant, on
+22:25
+passe à Opus 4. On a une présentation un petit peu plus moderne, mais finalement on retrouve aussi un peu les standards.
+22:32
+Donc là, ce qui est intéressant, c'est qu'en bas à gauche, je vais avoir mon compte qui apparaissent qui n'était semble-t-il pas le cas. Non, ce n'était
+22:37
+pas le cas dans la version de GPT 5.5. Donc, on a en gros quelque chose de plus pertinent ici. Quand je clique sur les
+22:42
+boutons, là, ça me dérange, ça fonctionne pas. Alors que ça fonctionnait sur GPT 5.5. J'aurais bien aimé qu'on m'amène plus loin dans le
+22:49
+dashboard sur les catégories que je préférais juste ici. Est-ce que je peux exporter en PDF ? Oui, je peux le faire.
+22:55
+Juste là, j'ai les informations clés qui apparaissent, les mêmes chiffres d'affaires, les mêmes pipeline
+23:01
+potentiel. Je trouve que les graphiques sont plus lisibles, c'est plus facile et c'est plus agréable à lire et ça serait
+23:06
+plus agréable à partager. Il y a quelque chose moi là qui me choque dans le bon sens du terme par rapport à GPT 5.5,
+23:13
+c'est qu'on a des scores qui apparaissent ici pour bah scorer les lead justement et savoir lesquels
+23:18
+relancer en priorité. Donc je trouve ça sympathique. On va voir maintenant le résultat de Fable 5 et après on va
+23:25
+évoluer vers la tentative de création d'un environnement 3D pour vraiment la pousser l'intelligence artificielle
+23:31
+jusqu'à ses plus profonds retranchements. Et derrière je vous donnerai mon avis sur Fable 5 et sur
+23:37
+Claudia. en général. Donc voilà, on va voir le dashboard pour le moment fait par Fable 5. Est-ce que c'est meilleur
+23:43
+que Opus 4.8 ? Bah là, j'ai envie de dire, c'est assez similaire. L'information est un peu plus condensée,
+23:49
+elle est peut-être un petit peu meilleure. Le menu fonctionne bien, ça c'est plutôt sympathique. Et je trouve
+23:55
+que pour la présentation des actions prioritaires en bas, comme vous le voyez à l'écran, c'est quelque chose quand
+24:01
+même de plus de plus lisible et ça tape plus vite à l'œil, ça donne plus envie, j'ai envie de dire. ça incite plus à
+24:07
+passer à l'action et la manière dont c'est présenté ici les datas, on a des conclusions voilà qui sont présentées
+24:13
+voilà de manière scannable. Donc là pour le coup l'information est très facile à consommer dans ce dashboard
+24:19
+contrairement peut-être aux deux précédents. Donc la Fable 5 est un peu au-dessus maintenant est-ce que ça justifierait un prix deux fois supérieur
+24:24
+? Là je ne suis pas convaincu. On a le scoring aussi qui apparaît juste ici. C'est c'est vraiment sympa. En gros, on a quand même quelque chose de très
+24:31
+puissant. Maintenant, avant de vous donner mon avis, je vous propose d'aller voir le dernier test que j'ai lancé. Et
+Le test ULTIME !
+24:38
+là, j'ai envie de découvrir les résultats avec vous parce que j'ai essayé de pousser la chose très très loin. J'ai demandé aux trois
+24:45
+intelligences artificielles de me créer une expérience en 3D interactive qui s'appellerait AI Data Center Explorer.
+24:52
+Et l'objectif et bien c'est d'endosser le rôle d'un utilisateur qui va visiter un data center qui va se balader de
+24:58
+salle en salle pour découvrir différents concepts de l'intelligence artificielle. Et donc là, on a envie de voir comment
+25:05
+ce personnage ou comment ce cet objet va pouvoir évoluer dans un environnement 3D
+25:10
+et la complexité de l'environnement 3D proposé par les trois intelligences artificielles. Là, je pense que ça va
+25:15
+être le test qui va vraiment nous démontrer si Fable 5 est meilleur que les autres intelligences artificielles
+25:21
+et surtout nettement meilleur pour justifier son tarif élevé. Donc maintenant, on va arrêter de balbater et
+25:28
+on va aller découvrir les résultats ensemble. Donc j'arrive ici et donc on va commencer une fois n'est pas coutume.
+25:34
+Vous connaissez maintenant la marche à suivre par GPT 5.5. J'adore ici
+25:39
+l'interface d'accueil. Je regarde la webcam, oui, c'est nickel. Je vais cliquer sur commencer la visite. Donc on
+25:45
+va entrer dans le data center on va explorer les salles et activer des bornes pour euh répondre au quiz et donc
+25:52
+ouvrir les portes. Donc en gros, je vais devoir répondre à des questions pour pouvoir ouvrir les différentes portes.
+25:57
+Donc là quand je j'avance et je peux avancer avec les flèches et je peux avancer aussi avec le clavier. Bah là je suis bloqué, il y a une porte donc je
+26:03
+peux pas avancer. On va essayer d'évoluer. Ah voilà, j'ai la possibilité Ah oui, avec la souris de voir
+26:09
+l'environnement 3D. C'est quand même incroyable. Avouez-le. Vous me donnerez votre avis en commentaire, mais quand je vois ça par rapport à ce qu'on pouvait
+26:15
+faire il y a encore quelques mois avec l'intelligence artificielle, avec GPT 5.5, c'est quand même incroyable. Bref,
+26:20
+là je vais ouvrir une borne. C'est plutôt bien fait, une borne interactive, les données. Et donc, on me pose la question pourquoi les données sont-elles
+26:27
+si importantes pour l'intelligence artificielle ? Elles donnent la matière au départ du modèle, elle servent seulement à décorer l'interface. Là, on
+26:33
+sait que c'est faux. Elle remplace toujours le jugement humain. Bah non, elle donne la matière au départ pour le
+26:40
+modèle. Donc je clique là-dessus. Donc oui, c'est bon. Et je vais pouvoir du coup aller voir si la fenêtre est
+26:45
+ouverte. Donc je me balade en 3D avec la souris, je peux avancer avec le clavier et la porte est bien ouverte et je peux
+26:51
+comme ça aller voilà sur l'autre borne qui va me parler des tokens et je vais avoir du coup en appuyant sur eux la
+26:57
+question qui m'est posée. C'est vraiment sympa. L'environnement 3D est là. Je trouve que l'expérience utilisateur est
+27:02
+sympathique. Ça fait le boulot. Si on avait que j'ai pété 5.5 sur la main, et bien ça serait largement suffisant pour
+27:08
+obtenir un résultat exploitable et même bien plus que ça. Maintenant on va découvrir Opus 4.8. J'ai eu peur, j'ai
+27:14
+cru que comme précédemment il avait buggé comme le jeu et que du coup ça n'allait pas fonctionner. Donc là c'est
+27:19
+bon le call to action ici le bouton pour lancer. L'expérience est pas très lisible. J'aurais bien aimé que
+27:25
+l'intelligence artificielle puisse le voir par elle-même. Et d'ailleurs, j'en ai pas encore parlé dans cette vidéo,
+27:30
+mais un des points forts de Fable 5, c'est a priori sa capacité de vision quand il fait notamment des
+27:36
+vérifications. Parce que vous le savez, les modèles d'intelligence artificielle maintenant sont suffisamment costaud pour avant de nous livrer un résultat
+27:43
+faire une phase de vérification et améliorer les choses pour qu'on ait le meilleur résultat possible du premier coup. Bah là, j'aurais bien aimé que
+27:49
+OPUS 4.8 puisse le faire efficacement. Ce n'est pas le cas avec le bouton. Bref, je vais cliquer dessus. Je regarde
+27:54
+l'environnement. L'environnement est sympa. Je peux naviguer ici. Alors, je trouve que l'environnement data center
+28:00
+est un peu meilleur. On a C'est un peu moins joli mais par contre, c'est plus respecté. On a bien des murs, on a bien une salle. Quand on avance, on va avoir
+28:07
+les bais de de serveur qui apparaissent juste ici. Donc là, pour le coup, on y est. Par contre, on arrive à la porte et
+28:13
+on va devoir répondre au quiz. Comment je fais ça ? Bah, je sais pas. Il va falloir que je trouve a priori une borne. La borne, elle est juste là. Elle
+28:19
+est beaucoup plus design que celle qu'on avait du coup du côté de GPT 5.5. On a
+28:24
+la même question. Donc on sait qu'il nous faut des données de qualité. Je clique sur continuer. Est-ce que la porte est ouverte ? J'imagine que oui.
+28:31
+Ah, j'ai un petit bug. Je bub. Oui, quand je [grognement] clique sur
+28:36
+terminer, bah en fait, je ne peux plus naviguer. Donc là, autre bug un petit peu avec Opus 4.8. C'est peut-être pas à
+28:42
+Noin qu'on ait eu ce bug là déjà dans la partie jeux vidéo. Bah, je peux plus bouger alors que dans GPT 5.5, je
+J'étais pas prêt...
+28:48
+pouvais le faire. Bref, ouh wish, je m'attendais pas [rires]
+28:53
+du tout à un un gap aussi énorme d'un point de vue de de de résultat. Là, pour le coup,
+29:00
+l'interface n'a rien à voir en terme de de design, en terme de performance à ce qu'on avait ici. Et je sais pas si je
+29:07
+peux retourner sur euh cliquer. Je vais essayer de répondre au pif et voir si je peux recommencer la visite ici. Non, je
+29:12
+peux pas revenir sur la page d'accueil, c'est dommage. Ah, peut-être si je rafraîchis la page. Oui, voilà, on arrive là. Donc ce qu'on avait ici sur
+29:19
+GPT 5.5, ce qu'on a ici sur Opus 4.8, c'était assez similaire. Là pour le coup, ce qu'on obtient là, je trouve ça
+29:25
+beaucoup plus joli. Je trouve que ça donne beaucoup plus envie. Bref, je vais accéder au data center et voir comment
+29:31
+ça se passe. Ah ouais, là du coup le l'environnement est vraiment respecté. On arrive ici la salle numéro 1, les
+29:36
+données là la borne pour le coup, elle est vraiment sympa. On arrive, on a les bêtes de serveur qui sont vachement
+29:41
+jolies. Si je vais vers la porte, est-ce que je peux passer ? Je ne peux pas passer parce que faut que j'aille voir la borne. C'est quoi ça ? Je sais pas.
+29:48
+Je vais aller voir du coup la borne juste ici. Je vais cliquer donc sur le E. Qu'est-ce qui permet à Inia
+29:54
+d'apprendre ? Et bien c'est de grandes quantités de données. Je vais fermer juste ici. Donc j'ai bien répondu à la question. Est-ce que je peux est-ce que
+C'est incroyable !
+29:59
+je peux continuer la navigation ? Oui, la porte était rouge, maintenant elle est blanche. Donc j'imagine qu'elle est wouh wouh wouh wou w c'est
+30:07
+c'est incroyable. C'est incroyable. Là on voit les tokens. Ça apparaît ici, c'est segmenté pour nous expliquer un
+30:12
+petit peu le principe de tokenisation. On arrive sur la bande. Ouais, c'est incroyable là pour le coup. C'est vraiment incroyable la manière don s'est
+30:18
+présenté. Donc je vais Ah, j'aurais bien voulu répondre. Je vais essayer de répondre. Ah non, je peux pas mal répondre. J'ai répondu au pif. Bref, je
+30:25
+vais passer. Je vais essayer de mal répondre pour voir. Wou, c'est incroyable le la structure qui apparaît ici. J'avais pas vu mais en fait il y a
+30:30
+des structures dans chaque salle qui correspondent un petit peu à à la chose qu'on est en train d'analyser. E euh bah
+30:36
+là eux on a juste à dire j'ai compris pour pouvoir accéder à la page à la salle suivante. Ah regardez ce qu'on
+30:41
+obtient. C'est incroyable là pour le coup. C'est vraiment incroyable. Et Fable 5 est vraiment au-dessus de ce qu'on a pu avoir sur Opus 4.8. La petite
+30:49
+problématique, ah oui, c'est que j'ai dû cliquer sur échappe pour pouvoir échapper. D'ici, je pouvais pas revenir dans mon navigateur. Donc là, on a quand
+Mon avis sur Fable 5
+30:57
+même un delta de performance entre Fable 5 et Opus 4. Et donc, on arrive à la fin
+31:02
+de cette vidéo. Et avant que je vous donne mon avis, rappelez-vous parce que c'est cette page que je vais choisir et que vous allez avoir en lien à la
+31:08
+description, vous pouvez être les premiers à rejoindre ma formation Claudia. Accéder aux 23 modules, plus de
+31:14
+10 heures de formation et les mises à jour inclues gratuitement pour 149 €. au lieu de 590 € pendant quelques jours à
+31:20
+peine pendant le lancement de cette nouvelle formation Claudia. Et puisque je vous dis tout dans cette vidéo, il y
+31:25
+a une 4è partie qui arrive très très prochainement sur Claude Design et cette formation sera mise à jour régulièrement. Si vous aviez suivi ma
+31:32
+formation en chat GPT à l'époque, vous saviez que je vous envoyais par email toutes les mises à jour. Bah ça sera le
+31:38
+cas aussi avec cette formation. 149 € au lieu de 590 €. lien dans la description pour en profiter. Et donc maintenant, je
+31:44
+vous donne mon avis sur Fable 5. Alors, mon avis, il est un peu partagé. Pourquoi ? parce que déjà ce qu'on a pu
+31:52
+remarquer, je pense que vous serez d'accord avec moi en commentaire, c'est que tout ce qu'on a réalisé ensemble dans cette vidéo finalement sont des
+31:58
+actions je pense trop basiques pour qu'on puisse avoir vraiment toute la
+32:03
+puissance de Fable 5. Et c'est la raison pour laquelle plusieurs fois on n' pas vu vraiment d'écart de performance avec
+32:10
+Opus 4.8 ou GPT 5.5. Donc ça c'est le premier bémol. Est-ce qu'on va vraiment
+32:15
+utiliser nous en tant qu'utilisateur classique de l'intelligence artificielle Fable 5 ? Je ne pense pas. Je pense que
+32:21
+c'est un modèle vraiment DIIA qui sera réservé à une élite sur des actions très pointues, très lourdes, très complexes
+32:27
+et nous au quotidien sur du Opus 4.8 et même du Sonet 4.6. Comme je le dis dans
+32:33
+ma formation d'ailleurs, si vous savez bien utiliser Claudia, il y a plein de bonnes pratiques à respecter, notamment
+32:39
+en terme de prompt, en terme de fonctionnalité, en terme de paramétrage. Si vous faites tout nickel, en fait,
+32:44
+vous aurez des résultats déjà très très bien et même incroyables avec Sonet 4.6. Vous n'aurez même pas besoin d'Opus 4.8.
+32:51
+Alors, Fable 5, je pense qu'en fait on en aura pas besoin. L'autre chose qui moi peut me poser problème avec ce
+32:56
+modèle d'intelligence artificielle, bah c'est qu'il est inclus gratuitement dans nos abonnements, uniquement jusqu'au 22
+33:02
+juin et après on va passer à une facturation sous forme de crédit. Autrement dit, on va devoir payer des crédits supplémentaires pour pouvoir
+33:09
+utiliser Fable 5, notamment dans Cowork ou encore Cloud Code. Ça va coûter combien ? Bah, deux fois plus cher que
+33:15
+plus 4.8. Donc, un modèle pour nous qui sera pas forcément très intéressant. au
+33:21
+niveau des performances puisqu'on aura déjà suffisamment avec sonet 4.6 mais qui est beaucoup plus cher, bah est-ce
+33:26
+que ça vaut le coup de l'utiliser en terme de rentabilité ? Je ne suis pas convaincu. Et l'autre chose moi qui me
+33:32
+pose un petit peu problème avec ce modèle, c'est qu'on a déjà des frustrations et d'ailleurs dans ma formation, je vous donne des astuces
+33:37
+justement pour bien gérer vos quotas d'utilisation. On a des frustrations sur les quotas d'utilisation sur les IACloud. On atteint parfois nos quotas
+33:44
+de messages et on doit se reconnecter quelques heures plus tard, voir parfois quelques jours plus tard avant d'obtenir
+33:50
+du coup euh bah des les crédits supplémentaires pour avancer dans ce qu'on est en train de réaliser avec
+33:56
+l'IA. Alors pourquoi aujourd'hui nous proposer une IA encore plus lourde qui va encore plus vite bouffer nos quotas
+34:02
+d'utilisation ? Bref là en fait cette vidéo elle démontre que Fable 5 en a sous le capot qu'il y a effectivement
+34:08
+que c'est effectivement une intelligence artificielle bien meilleure que les autres. je pense vraiment. Par contre
+34:14
+bah niveau tarif c'est pas accessible à tout le monde. Et d'un point de vue utilisateur lambda de l'intelligence
+34:20
+artificielle et par lambda, j'entends tout le monde en fait quasiment hormis voilà quelques développeurs très pointus
+34:26
+ou quelques scientifiques très pointus, bah en fait ce modèle là il ne servira pas. Il va ne servir finalement qu'à une
+34:32
+niche de niche. Et je pense que Claude a sorti Fable 5 uniquement dans l'objectif
+34:37
+de rassurer les investisseurs, car vous le savez sans doute si vous suivez la chaîne notamment les revues d'actualité que je publie chaque semaine, Claude
+34:45
+Anthropique plutôt l'entreprise derrière Claude va rentrer en bourse et est en train de travailler son IPO
+34:50
+actuellement. Et ce modèle-là est simplement pensé et publié, je pense, pour démontrer aux investisseurs que
+34:57
+Anthropiic peut être le leader de l'intelligence artificielle et est peut-être devant la concurrence
+35:03
+actuellement. Vous pourrez me dire ce que vous en pensez en commentaire. Vous pourrez aussi me dire quels sont les résultats que vous avez préféré tout au
+35:09
+long de ces différents tests. J'espère que cette vidéo découverte vous aura plu. Moi, j'ai tout découvert en live
+35:14
+avec vous. J'ai trouvé ça sympa comme format. Vous me direz ce que vous en pensez. Donc et n'oubliez pas la
+35:19
+formation Claudia complète, plus de 10 heures de formation sur tous les outils et fonctionnalités de Clou intelligence
+35:25
+artificielle. Lien dans la description pour en profiter à 149 € au lieu de 590
+35:30
+€ pendant quelques jours à peine à l'occasion du lancement. Voilà, lien dans la description. Vous cliquez dessus
+35:36
+et une fois que vous avez passé commandes, vous recevez vos accès et vous pouvez télécharger toutes les ressources et regarder les modules quand
+35:42
+bon vous semble. Voilà, c'était Ludo. J'espère que cette vidéo vous aura plu. Moi, je vous retrouve très bientôt pour une autre dans laquelle je vous
+35:48
+partagerai des astuces, des démos, des actues, des tutos, des outils, bref tout ce que je peux découvrir de
+35:53
+l'intelligence artificielle et toutes mes connaissances dans le but de vous donner toutes les clés pour que vous
+35:58
+puissiez profiter des opportunités que Li génère. Et avec Fable 5 et bien, je pense que des opportunités nouvelles, il
+36:04
+y en a pas mal qui devraient arriver prochainement. À très bientôt.
+
+Tout
+
+Source : Ludo Salenne
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+111 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 2 mois
+
+
+9:47
+Fausse humilité, honte et insécurité 
+Pïn Provi
+110 vues
+•
+il y a 5 jours
+Nouveau
+
+
+2:13:05
+L’expert en investissement et crypto : « Il ne nous reste que 6 ans avant que tout change ! »
+The Diary Of A CEO
+ et Raoul Pal The Journey Man
+5,7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+31:03
+J'ai testé Claude Mythos Fable 5 : voici LA vérité !
+Parlons IA
+6,1 k vues
+•
+il y a 2 semaines
+
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+734 k vues
+•
+il y a 1 mois
+
+
+43:54
+SPECIALE BLIZZARD: PARTIE FINALE
+Bazar du Grenier
+1,2 M de vues
+•
+il y a 5 mois
+
+
+36:21
+J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé
+Eliott Meunier
+11 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+238 k vues
+•
+il y a 3 mois
+
+
+21:12
+I Made Opus 4.8 and Fable 5 Build the Same App (RAW RESULTS)
+Pat Simmons
+831 k vues
+•
+il y a 2 semaines
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+35 k vues
+•
+il y a 5 jours
+Nouveau
+
+2:07:16
+Direct n°118 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+12 k vues
+•
+Diffusé il y a 2 heures
+Nouveau
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,7 M de vues
+•
+il y a 1 an
+Doublée
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,5 M de vues
+•
+il y a 10 mois
+Doublée
+
+11:29
+GPT 5.6 : MIEUX que Fable 5 mais interdit par les USA
+Melvynx
+4,2 k vues
+•
+il y a 4 jours
+Nouveau
+
+45:45
+Vincent Lapierre : « Je crains pour ma vie si la France Insoumise arrive au pouvoir »
+Front Populaire
+8 k vues
+•
+il y a 7 heures
+Nouveau
+
+30:17
+Claude Fable 5 : Le gouvernement veut le bloquer ! Comment y Accéder!
+Parlons IA
+22 k vues
+•
+il y a 2 semaines
+
+    

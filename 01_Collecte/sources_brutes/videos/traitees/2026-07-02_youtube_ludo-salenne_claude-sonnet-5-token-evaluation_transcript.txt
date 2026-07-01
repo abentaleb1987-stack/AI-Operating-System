@@ -1,0 +1,895 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.
+Ludo Salenne
+Ludo Salenne
+264 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+1 juil. 2026  #ClaudeAI #ClaudeSonnet5 #ClaudeSonnet
+Voici Claude Sonnet 5, la nouvelle IA d'Anthropic qui fait tout, sans gaspiller vos tokens. Et forcément, ça change tout. Dans ce test de Claude Sonnet 5, je vous montre des cas d'usage concrets et compare les résultats avec Opus 4.8. Vous allez voir, les résultats sont bluffants avec 60% de tokens en moins !
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+🔗 LIENS
+
+🧡 Ma Nouvelle Formation Claude IA : https://www.ludosln.net/formation-cla... 🧡
+👉 Rejoindre ma communauté IA privée : https://www.skool.com/qg-ia/about
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Au sommaire du test Claude Sonnet 5 :
+
+0:00 - Claude Sonnet 5 est LÀ !
+0:55 - C'est quoi Sonnet 5 ?
+3:39 - Quelle IA Claude utiliser ?
+5:10 - Sonnet 5 vs Sonnet 4.6
+6:12 - Là où Opus 4.8 est meilleur
+6:48 - Là où Sonnet 5 rivalise
+8:07 - Sonnet 5 vraiment moins cher ?
+10:53 - Test Sonnet 5 vs Opus 4.8
+14:45 - Maitriser Claude IA
+16:17 - Le jugement à l'aveugle
+17:22 - Sonnet 5 bat Opus 4.8 ?
+20:30 - Test sur Claude Cowork
+23:16 - Mon hypothèse se vérifie !
+26:09 - Le fossé se creuse...
+29:38 - Test sur Claude Design
+31:32 - Ce que vous devez retenir
+33:18 - La synthèse de ce test
+
+#ClaudeAI #ClaudeSonnet5 #ClaudeSonnet
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Ludo Salenne
+264 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+
+Instagram
+
+TikTok
+
+Twitter
+true
+36:09
+Je découvre le nouveau Claude Fable 5 (cette IA est DINGUE)
+de Ludo Salenne
+true
+19:00
+Réponses IA : comment passer de ça... à ÇA !
+de Ludo Salenne
+10 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @LudovicSalenne
+@LudovicSalenne
+il y a 6 heures
+👋 Vous avez testé Claude Sonnet 5 ? Vous en pensez quoi ? C'est l'IA qu'il nous fallait pour ne pas cramer nos Tokens avec Claude Opus ou pire, Claude Fable. Partagez-moi vos retours d'expérience et vos avis en commentaires :)
+
+1
+
+
+Répondre
+
+
+@rampack1503
+il y a 4 heures (modifié)
+👍 Merci beaucoup, Ludo,
+j’ai beaucoup aimé cette vidéo, parce que pour une fois on sort du concours du “plus gros modèle” pour revenir à la vraie vie : celle où l’IA doit surtout bien bosser… sans avaler les quotas au petit-déjeuner.
+Tu montres très bien que Sonet 5 fait largement le travail du quotidien, et qu’Opus peut tranquillement garder sa cape pour les missions vraiment musclées.
+Le meilleur rappel, au fond, c’est peut-être celui-là : chez Claude, le danger n’est pas toujours l’IA… parfois c’est juste sa tendance à parler comme si les tokens étaient gratuits... 
+Vivement le prochain tuto avant qu’on découvre un Sonet 5.1 encore plus malin… et encore plus bavard, et encore bravo... 
+
+2
+
+
+Répondre
+
+
+@saoselbonne5027
+il y a 4 heures
+Je l'ai testé pour un prévisionnel, c'est ouf, il revoit les erreurs ,il teste etc...
+
+Ludo si tu peux faire un test pour créer un site ce sera trop bien...😊
+
+
+
+Répondre
+
+
+@alreeb2024
+il y a 2 heures
+Merci Ludo pour ce travail d'analyse.
+Petit bémol.. tu parles bcp bcp .. du coup ça dilue un peu l'info que tu veux faire passer. Avis perso bien sûr ;). Bon courage pour la suite
+
+
+
+Répondre
+
+
+@lamourestlemessage
+il y a 5 heures
+super  ! en plus demain fable revient mais avec des compromis
+
+
+
+Répondre
+
+
+@Otafog
+il y a 5 heures
+Un tuto de ludo et on y go !
+
+
+
+Répondre
+
+
+@fred010F
+il y a 4 heures
+Il y a une heure j'ai demandé sur Sonnet 5 une recherche sur un scientifique connu. 
+Résultat : 70% d'utilisation avec cette seule requête =-(
+
+
+
+Répondre
+
+
+@peteden
+il y a 2 heures
+Sonnet 5 c'est nul. Plus cher qu'Opus et moins performant... à quoi bon ?
+
+
+
+Répondre
+
+
+@alainjean633
+il y a 1 heure
+Frérot on est sur YouTube, tu veux bien faire tu veux démontrer mais tu nous a perdu rapidement sur cette vidéo. Get to the point. J’ai peur que si tu fais 10 fois le test t’as 10 réponses différentes donc bon … ça vaut ce que ça vaut mais reste sur les benchmark
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Claude Sonnet 5 est LÀ !
+0:00Il est plus intelligent, il est plus efficace pour le travail quotidien.
+0:033 secondesC'est comme ça qu'Anropique nous présente sa nouvelle intelligence artificielle Sonet 5. Et bien pour moi, cette elle est plus que ça puisque c'est
+0:1212 secondesle vrai remède à l'utilisation de l'intelligence artificielle cloud, à la préservation de vos tokens, de vos
+0:1919 secondesquotas d'utilisation. Je vais tout vous expliquer dans cette vidéo. L'idée, ça va être déjà de voir ce qu'est Cloud Sonet 5. On va voir ses particularités,
+0:2828 secondesses niveaux de performance et derrière on va faire quelques tests mais de manière ludique puisqu'on va faire intervenir différentes intelligences
+0:3434 secondesartificielles pour juger le travail de Sonet 5 versus Opus 4.8. Et vous allez le voir comme je le dis depuis des mois
+0:4242 secondesvoire plus maintenant, les modèles IA sonet sont clairement suffisants pour tout ce que vous avez à faire dans votre quotidien et vous n'allez plus avoir
+0:5151 secondesbesoin des intelligences artificielles opus. Je compte bien vous le démontrer.
+Chapitre 2 : C'est quoi Sonnet 5 ?
+0:5656 secondesOn va entrer dans le vif du sujet. On va s'intéresser à Sonet 5. Mais qu'est-ce que Sonet 5 ? Et bien pour vous en parler rapidement, j'ai préparé une
+1:051 minute et 5 secondesprésentation slide avec Sonnet 5 justement et on va regarder tout ça en détail mais comme moi je vais vous le présenter Claud Sonet 5 au-delà d'être
+1:131 minute et 13 secondesune évolution en terme de performance, ça va être surtout une intelligence artificielle qui va sauver vos token. On sait que c'est un point de frustration
+1:211 minute et 21 secondespour pas mal d'utilisateurs et comme vous allez le voir en fait, Sonet 5 pour la plupart des tâches que vous allez mener au quotidien sera presque aussi
+1:281 minute et 28 secondesperformant voire souvent aussi performant que Claude Opus 4.8. Donc ce qu'on va voir ensemble, l'identité de cette intelligence artificielle, ses
+1:361 minute et 36 secondesspecs, ses caractéristiques, on va voir où est-ce que cette intelligence artificielle performe et du coup quand l'utiliser. On va voir comment elle se
+1:431 minute et 43 secondescomporte face à Opus 4.8 et derrière on aura des cas d'usage professionnel. Et je vous ferai trois tests sur trois outils clés de Claude pour que vous
+1:521 minute et 52 secondespuissiez voir qui de Sonet 5 ou d'Opus 4.8 et bien est le plus performant ou si finalement le niveau de performance est
+1:591 minute et 59 secondesassez équivalent. Donc claud sonnette 5 en un coup d'œil, bah ça vient de sortir il y a quelques heures. Si vous n'y avez pas encore accès, logiquement ça devrait arriver. C'est en cours de déploiement.
+2:092 minutes et 9 secondesEt d'ailleurs on a une autre bonne nouvelle du côté de chez Claude, le retour d'une nouvelle intelligence artificielle mais je vous en reparle en
+2:162 minutes et 16 secondesfin de vidéo. La fenêtre contextuelle de Sonnet et vous allez le voir qu'il y a parfois des divergences de ce côté-là.
+2:242 minutes et 24 secondesElle est d'un million de tokens avec une sortie maximale, c'est-à-dire la réponse que va produire l'intelligence artificielle de 128000 token. Sa force
+2:332 minutes et 33 secondespar rapport à Opus 4.8. Je reviendrai là aussi sur ce point spécifique après quelques tests que j'ai pu faire de mon côté et bien c'est qu'il va être
+2:412 minutes et 41 secondeslogiquement plus rapide COPUS 4.8 voire nettement plus rapide. Est-ce que c'est le cas ? On pourra voir tout ça ensemble. Le prix d'introduction, c'est
+2:502 minutes et 50 secondeslà où Anthopiic est malin dans son marketing, dans sa communication et c'est là où nous on va devoir être très prudent dans notre utilisation de cette
+2:582 minutes et 58 secondesintelligence artificielle car en fait il y a deux prix pour sonet 5. Il y a un prix standard qui va être à 3 dollars 15
+3:053 minutes et 5 secondesdollars par million de tokens en entrée et en sortie. Et là en fait on est sur les prix équivalents à sonet 4.6 mais en
+3:133 minutes et 13 secondesfait jusqu'au 31 août et bien on a la possibilité d'utiliser cette intelligence artificielle. à un coût inférieur puisqu'on sera à 2 dollars 10
+3:213 minutes et 21 secondesdollars par million de tokens entré sorti vous aurez compris ça et ça ça va vraiment être à prendre avec des pincettes car vous allez le voir Sonet 5
+3:303 minutes et 30 secondesa une particularité par rapport à sonet qui pourrait bien faire monter la facture et exploser vos quotas d'utilisation si vous n'y faites pas
+Chapitre 3 : Quelle IA Claude utiliser ?
+3:393 minutes et 39 secondesattention naturellement je vous donnerai la solution par rapport à ça donc comment positionner sonet par rapport aux autres modèles d'intelligence artificielle d'anthropique je vous ai
+3:473 minutes et 47 secondesmis les quatre famille. Sous les yeux, on a du coup, du sonnette, du opus et du fable. C'est une question qu'on me pose régulièrement. Quelle intelligence
+3:563 minutes et 56 secondesartificielle je dois utiliser pour ce que j'ai à faire ? Et bien, en fait, j'ai essayé de synthétiser un petit peu les choses juste ici pour Ikiku. Ça va être tout ce qui est rapide, ça va être
+4:054 minutes et 5 secondespour les usages quotidiens. C'est un peu ce qui va remplacer vos moteurs de recherche. Les recherches rapides que vous faisiez auparavant sur Bing ou sur
+4:124 minutes et 12 secondesGoogle, vous allez pouvoir les faire sur Aiku. toutes les tâches qui vont nécessiter une réponse instantanée sans avoir à activer une chaîne de pensée,
+4:214 minutes et 21 secondesdonc une réflexion derrière qui devrait déboucher sur un process spécifique en plusieurs étapes. Toutes ces tâches basiques, vous allez pouvoir les confier
+4:294 minutes et 29 secondesà IU. Pour tout le reste, vous allez le voir, 99 % du temps voire plus maintenant avec Sonet 5 pour tout ce qui
+4:364 minutes et 36 secondesest tâche de bureau, et bien vous allez utiliser le modèle Sonet Opus. vous allez le réserver aux tâches de code complexes et tous les raisonnements qui
+4:454 minutes et 45 secondesnécessitent une chaîne de pensée approfondie. Et puis Fable 5, n'en parlons pas, l'intelligence artificielle va revenir, je vous en reparle en fin de
+4:544 minutes et 54 secondesvidéo. Et j'ai d'ailleurs fait un test complet que vous pourrez récupérer en haut à droite de l'écran que je vous mettrai aussi à la fin et que vous pourrez consulter après celui-ci. Mais
+5:025 minutes et 2 secondesen gros, Fable 5, comme vous le verrez d'ailleurs dans mon test, vous n'allez l'utiliser qu'une fois de temps en temps. Et je vous donne d'ailleurs une
+5:095 minutes et 9 secondesastuce pour convertir Opus en fable pour bien économiser vos tokens dans la vidéo qui suivra après celle-ci. Et donc ce
+Chapitre 4 : Sonnet 5 vs Sonnet 4.6
+5:165 minutes et 16 secondesqu'on va analyser maintenant, c'est la hausse de performance entre Sonet 5 et Sonet 4.6. On va pas se perdre dans les benchmark. En gros, ce qu'il faut
+5:245 minutes et 24 secondesretenir ici, c'est que par rapport à sonet 4.6, pour tout ce qui est automatisation de process dans des cas d'usage professionnel réel, type CRM,
+5:325 minutes et 32 secondesvente, support, RH, marketing, bref, tout ce qui est tâche de bureau, vous allez avoir un gain de productivité de x
+5:395 minutes et 39 secondes2,5 juste ici. C'est ce qu'on va retenir. Et clairement face à Opus 4.8 Et c'est ça la force et c'est la raison pour laquelle je pense que c'est
+5:475 minutes et 47 secondesl'intelligence artificielle à privilégier vraiment pour ne pas griller vos quotas d'utilisation, vos tokens quand vous utilisez Cloud, c'est que le
+5:555 minutes et 55 secondescoût est nettement inférieur entre 40 à 60 % inférieur à Opus 4.8 pour des performances qui vous allez le voir pour la plupart des tâches sont équivalentes.
+6:066 minutes et 6 secondesDonc c'est ça qui va être intéressant et c'est ça que vous allez devoir garder en tête dans votre utilisation de cloud.
+Chapitre 5 : Là où Opus 4.8 est meilleur
+6:126 minutes et 12 secondesNéanmoins, on va être totalement honnête. On va analyser les choses de la manière la plus précise possible. Sonet 5 n'est pas une intelligence artificielle qui est égale à Opus 4.8.
+6:236 minutes et 23 secondesOpus 4.8 va vraiment rester l'intelligence artificielle supérieure pour toutes les tâches de raisonnement
+6:316 minutes et 31 secondescomplexes et toutes les tâches notamment de développement de codes avancés. Vous avez quelques benchmarks qui sont présentés ici. Vous avez en gras le
+6:386 minutes et 38 secondesscore obtenu par Opus 4.8 versus le score obtenu par Sonet 5. On voit bien qu'il y a quand même une nette différence sur ces tâches, mais ça reste
+6:466 minutes et 46 secondesdes tâches très spécifiques. Et si vous utilisez Cloud sans être développeur, si vous ne travaillez pas sur des projets complexes d'application ou de
+Chapitre 6 : Là où Sonnet 5 rivalise
+6:546 minutes et 54 secondesplateformes web, Sonet 5 va rivaliser vraiment avec Opus 4.8. Vous avez quelques benchmarks ici. On va pas
+7:017 minutes et 1 secondeperdre de temps à détailler tout ça, mais vous le voyez, c'est équivalent du coup à Opus 4.8 à quelques points près.
+7:087 minutes et 8 secondesVous voyez par exemple ici 1618 ho sur 1615, c'est égal. Et en gros, ce que vous allez devoir retenir ici et ce que je vais détailler juste après avec une
+7:167 minutes et 16 secondesliste de tâches et bien c'est que ces benchmark ils mesurent les performances des intelligences artificielles sur des tâches qui ressemblent à du vrai travail
+7:237 minutes et 23 secondesprofessionnel. Autrement dit, les tâches pour lesquelles on utilise l'intelligence artificielle au quotidien si on n'est pas à développeur ou si on
+7:307 minutes et 30 secondesn'est pas scientifique de pointe. Et donc où sonet 5 va exceller pour vous ?
+7:357 minutes et 35 secondesEt bien dans toutes les tâches qui vont faire appel à deux outils notamment d'intelligence artificielle, cloud cowork et cloud design. Et bien entendu,
+7:437 minutes et 43 secondesje vous ai prévu quelques tests là-dessus et vous allez le voir justement, on va analyser tout ça comme je disais précédemment de manière très ludique, divertissante puisqu'on va
+7:517 minutes et 51 secondesfaire appel à d'autres intelligences artificielles pour faire les juges et déterminer quelle intelligence artificielle de sonet 5 ou d'Opus 4.8 a
+7:597 minutes et 59 secondesle mieux travaillé et on risque d'avoir des surprises en sachant qu'en plus j'ai lancé les choses sans rien regarder. Donc je vais tout découvrir avec vous.
+Chapitre 7 : Sonnet 5 vraiment moins cher ?
+8:078 minutes et 7 secondesOn va revenir sur l'aspect coût parce qu'il y a un point quand même qui est crucial et c'est là où je vous expliquais que dans les tarifs présentés
+8:158 minutes et 15 secondesjuste ici et notamment la double Pierhouette que fait Enopique en nous disant bah pour le moment Sonet 5 vous allez pouvoir l'utiliser à 2 dollars 10
+8:228 minutes et 22 secondesdollars par million de token. Après ça passera 3 dollars 15 dollars par million de token. C'est nettement inférieur à ce qu'on peut avoir sur Opus. Oui, c'est le
+8:318 minutes et 31 secondescas. Néanmoins, c'est du coup similaire à ce qu'on avait sur Sonet 4.6 et la particularité de Sonet 5, c'est qu'il
+8:398 minutes et 39 secondesutilise un nouveau tokenizer. On va pas entrer dans la technique, mais ce qu'il faut comprendre ici, c'est que l'intelligence artificielle sonet 5 pour
+8:488 minutes et 48 secondesvous répondre va dépenser en moyenne 30 à 42 % de token en plus par rapport à
+8:558 minutes et 55 secondesSonet 4.6. Donc en gros pour le moment il est moins cher que Sonet 4.6 mais il va consommer plus de token. Donc grosso
+9:039 minutes et 3 secondesmodo pour les quotas d'utilisation on va rester à peu près dans les mêmes dépenses. Mais une fois que Sonet 5 va retrouver son vrai prix 3 dollars 15
+9:129 minutes et 12 secondesdollars comme on l'a vu précédemment et bien il sera plus cher que Sonet 4.6. Et donc là, avant qu'on aille faire les tests concrets sur le terrain, ça
+9:219 minutes et 21 secondesm'amène à une alerte que je dois vous faire aujourd'hui. Quand vous allez utiliser Sonet 5, pensez bien à
+9:289 minutes et 28 secondesparamétrer vos instructions personnalisées, mais aussi bien rédiger vos promptes pour demander à Sonet 5 de
+9:359 minutes et 35 secondesne pas utiliser de mot parasites, de se concentrer sur l'essentiel, d'aller droit au but dans les process que vous allez partager. Sinon, en toute
+9:449 minutes et 44 secondesautonomie et bien il dépensera plus de token qu'en dépenser Sonet 4.6 pour des résultats qui seront d'un point de vue
+9:509 minutes et 50 secondesqualité assez similaire. Donc voilà pour le point de vigilance. Faites attention à ça, ne vous faites pas avoir. Par toute la stratégie marketing et
+9:589 minutes et 58 secondescommunication en Tropic, Sonet 5 n'est pas le moins cher des modèles d'intelligence artificielle d'anthropiic. Pour le moment, oui, c'est
+10:0510 minutes et 5 secondesle cas. Mais quand les prix deviendront finalement les prix standards, Sonet 5 sera plus cher dans l'effet que Sonet 4.6, même s'il restera du coup bien un
+10:1410 minutes et 14 secondesinférieur à Opus 4.8 et c'est ça qui va nous intéresser dans les tests que nous allons faire dès maintenant. Je vous ai prévu trois cas réels dans Cloud Chat,
+10:2310 minutes et 23 secondesCloud Cowork et Cloud Design. On va pouvoir analyser la réponse de Sonet 5 versus Opus 4.8. On va pouvoir choisir aussi quelle réponse on préfère et
+10:3110 minutes et 31 secondessurtout on va demander à d'autres intelligences artificielles de faire les juges à l'aveugle et on verra quels sont leurs réponses et quelle est la
+10:3810 minutes et 38 secondesmeilleure ries entendu qui ne sont pas des tâches de développeurs, de scientifiques de pointe comme je le disais précédemment et
+10:4610 minutes et 46 secondesplutôt des tâches quotidiennes comme 99 % des utilisateurs ont à les déléguer au quotidien sur cloud. Et donc on y va. Le
+Chapitre 8 : Test Sonnet 5 vs Opus 4.8
+10:5310 minutes et 53 secondespremier test qu'on va faire juste ici, j'ai prévu un fil conducteur qui va être un fil conducteur fictif, une PME
+11:0011 minutesartisanale qui va avoir besoin d'évoluer dans son activité si elle ne veut pas faire mes boutiques. Donc là, ce qu'on va faire dans le premier test, c'est
+11:0811 minutes et 8 secondesqu'on va utiliser Clhat et on va partager 6 mois de vente brut de l'activité de cette entreprise et en
+11:1611 minutes et 16 secondesgros ce qu'on va demander à l'intelligence artificielle ici au 2 IA Sonet 5 et au 4.8 et bien ça va être de
+11:2311 minutes et 23 secondesfaire une analyse complète en sachant que dans notre fichier, un fichier que j'ai créé spécifiquement pour le test et bien j'ai cacher plusieurs signaux
+11:3211 minutes et 32 secondesimportants comme une marge qui est en baisse comme un incis dans logistique et un déclin structurel et donc on va avoir besoin de retrouver ces éléments
+11:4011 minutes et 40 secondesspécifiques dans les réponses de l'intelligence artificielle. Le mieux c'est qu'on aille voir évidemment pour que la vidéo soit la plus fluide possible. J'ai partagé le même prompt.
+11:4911 minutes et 49 secondesJ'ai lancé les conversations sur Opus 4.8 et sur Sonet 5 et on va pouvoir voir la différence de réponse. Donc l'idée
+11:5711 minutes et 57 secondesc'est de lui demander un résumé de performance en 4 c phrases maximum, les trois tendances les plus significatives par rapport aux chiffres qu'il aura récupéré dans le fichier, les trois
+12:0612 minutes et 6 secondesrecommandations stratégiques et le principal risque à surveiller si rien ne change. Et donc là du coup on va obtenir notre note de synthèse. On obtient le
+12:1512 minutes et 15 secondeschiffre d'affaires généré par cette activité qui est de 319400 pour 7760 commandes. On va avoir trois tendances
+12:2212 minutes et 22 secondesici qui sont euh les plus significatives selon Opus 4.8. On verra si ce sont les mêmes sur sonet 5. Je vais pas les
+12:3012 minutes et 30 secondesdétailler puisque vous allez le voir comme je le disais précédemment, je demande à deux intelligences artificielles de faire les juges à l'aveugle et c'est eux qui vont nous dire quelles sont les meilleures
+12:3812 minutes et 38 secondesréponses, les réponses les plus pertinentes selon ce qui aura été créé.
+12:4212 minutes et 42 secondesDonc on a bien les trois tendances juste ici. On a bien les trois recommandations qui sont présentées juste là et qui sont cohérentes par rapport à ce qu'on a obtenu dans les tendances. Vous pourrez
+12:5112 minutes et 51 secondesmettre pause he si vous souhaitez lire la réponse dans son intégralité. Et le principal risque à surveiller, ça va être une dépendance croissante, un canal
+12:5812 minutes et 58 secondesde volume à faible marge et à réputation fragile. Bref, on a toutes les informations juste ici. On va aller voir
+13:0613 minutes et 6 secondesla réponse de sonet 5 maintenant. Donc on obtient les mêmes informations, le même chiffre d'affaires, le même nombre de commandes, on obtient la synthèse ici
+13:1413 minutes et 14 secondesqui va bien avec l'évolution des ventes par canal. On obtient les trois tendances juste ici. On remarque que pour la marketplace, il est d'accord
+13:2213 minutes et 22 secondesavec Opus 4.8, que pour la boutique physique, il est d'accord avec Opus 4.8.
+13:2713 minutes et 27 secondesSur la trisème, ici, il parle plutôt des salons et marchés quand Opus 4.8 lui parlait plutôt de la boutique en ligne.
+13:3413 minutes et 34 secondesDonc, il y a déjà un désaccord.
+13:3613 minutes et 36 secondesC'est intéressant. deux intelligences artificielles différentes pour un même outil finalement et on a des réponses qui sont assez différentes sur un
+13:4513 minutes et 45 secondesdocument stratégique comme celui-ci. Ce qui m'amène souvent à vous partager cette astuce d'utiliser au moins deux IA quand vous faites de la réflexion pour
+13:5213 minutes et 52 secondesavoir des sons de cloche différents et essayer de compléter les raisonnements tout en évitant un petit peu des biaiss qui sont relatifs à toutes les
+14:0014 minutesintelligences artificielles que vous pouvez utiliser au quotidien. On retrouve aussi les recommandations ici.
+14:0514 minutes et 5 secondesAssaignir la marketplace, enrayer la fuite de la boutique physique et densifier la présence en salon et marché. Là, c'est pareil, on n' pas du
+14:1414 minutes et 14 secondestout les mêmes recommandations à part assaignir la marketplace. derrière, on va basculer le clientèle physique de la boutique vers l'online. C'est pas du
+14:2114 minutes et 21 secondestout la recommandation de Sonet 5 et industrialiser ce qui marche déjà, c'est pas non plus la recommandation de Sonet 5. Donc là, vous le voyez, on a quand
+14:2814 minutes et 28 secondesmême sur le fond des réponses bien différentes dans le principal risque à surveiller. Néanmoins, j'ai l'impression qu'ils sont d'accord puisque là, on nous
+14:3514 minutes et 35 secondesdit une croissance du CA de plus en plus portée par le canal le moins rentable au détriment du canal le plus qualitatif.
+14:4114 minutes et 41 secondesLà pour le coup, c'est peu au prou la même chose que nous avions juste ici. Et donc comme je le disais précédemment, en fait ce que j'ai fait c'est que j'ai partagé ces deux réponses à deux
+Chapitre 9 : Maitriser Claude IA
+14:4914 minutes et 49 secondesintelligences artificielles, chat GPT, Gini et je leur ai demandé de juger à l'aveugle en nommant ses réponses réponse A, réponse B pour savoir quelle
+14:5814 minutes et 58 secondesest la meilleure réponse et surtout pourquoi. Avant de voir ça, on fait un petit tour rapide vers ma nouvelle formation Claudia qui vient de sortir,
+15:0515 minutes et 5 secondesqui est disponible au prix de 590 €. Je vous mets le lien dans la description et pour ce prix paiement unique, vous aurez
+15:1115 minutes et 11 secondesaccès à 29 leçons vidéo complètes pour exploiter tout l'écosystème de cloud.
+15:1715 minutes et 17 secondesPar écosystème, j'entends bien entendu Cloud chat qu'on va voir juste après, Cloud code, Cloud Cowork et Cloud design. Et le positionnement de cette
+15:2615 minutes et 26 secondesformation, c'est de vous aider à utiliser et maîtriser Cloud IA sans être développeur pour pouvoir vraiment déléguer vos tâches à l'intelligence
+15:3415 minutes et 34 secondesartificielle et même les automatiser. En plus de ces modules vidéos qui représentent plus de 12 heures de contenu, et bien vous aurez accès à tout
+15:4215 minutes et 42 secondesun tas de ressources qui vont vous permettre de mettre en place les choses très facilement. des promptes, vous allez avoir des templates, vous allez avoir des skills, vous aurez même une
+15:5015 minutes et 50 secondesmarche à suivre concrète pour migrer de chat GPT vers Cloud ou de Gini vers Claude sans rien perdre. Récupérez votre mémoire, vos historiques de
+15:5815 minutes et 58 secondesconversation, vos projets, vos GPTS et cetera et cetera. Tout est présenté dans la formation. Je vous mets le lien à la description. Vous allez avoir tout le programme qui est présenté en détail.
+16:0816 minutes et 8 secondesVous allez avoir certains avis clients qui sont mis en avant. Bref, vous pourrez aller voir ça tranquillement de votre côté. et je vous en reparle un
+16:1516 minutes et 15 secondestout petit peu en fin de vidéo. Voilà pour l'instant promo. Et donc ce que j'ai fait comme je l'ai expliqué précédemment et bien c'est que j'ai
+Chapitre 10 : Le jugement à l'aveugle
+16:2216 minutes et 22 secondespartagé le fichier sur lequel les deux intelligences artificielles Sonet 5 et Opus 4.8 ont travaillé et je vais
+16:2816 minutes et 28 secondespartager tout ça à Chat GPT et Gini en partageant évidemment les consignes le prompt finalement que j'ai partagé aux
+16:3616 minutes et 36 secondesdeux intelligences artificielles. Et donc je vais lui dire voilà tu as la réponse A que j'ai copicollé, tu as la réponse B que j'ai copicollé également et ton objectif c'est de te positionner
+16:4416 minutes et 44 secondescomme un correcteur analyste critique et de déterminer quelle est la meilleure réponse selon toi. Donc là ici réponse
+16:5116 minutes et 51 secondesA, ce sera Opus 4.8 et la réponse B, ce sera Sonet. J'ai lancé les conversations pour que tout soit le plus fluide
+16:5916 minutes et 59 secondespossible aussi dans cette vidéo et là pour tout vous dire, j'ai pas ouvert.
+17:0217 minutes et 2 secondesDonc je sais pas du tout ce qu'on va découvrir ensemble. Le mieux c'est qu'on regarde donc je vais regarder la réponse de chat GPT qui nous dit qu'il a vérifié
+17:1017 minutes et 10 secondesles chiffres, qu'il a analysé les réponses, qui a priori la plupart enfin les deux réponses reprennent correctement les grands autos mais elle
+17:1817 minutes et 18 secondesne se valent pas sur la prudence d'analyse c'est assez intéressant et donc pour lui la meilleure réponse est la réponse B mais de peu. Autrement dit,
+Chapitre 11 : Sonnet 5 bat Opus 4.8 ?
+17:2717 minutes et 27 secondesChat GPT est en train de nous dire que Sonet 5 est la meilleure réponse par rapport à Opus 4.8. Si on prend en
+17:3517 minutes et 35 secondescompte le M de PE juste ici, ça signifie que grosso modo la qualité de la réponse
+17:4217 minutes et 42 secondesest similaire pour un tarif inférieur et un quota d'utilisation de token inférieur par rapport à Opus. C'est ça
+17:4917 minutes et 49 secondesque vous allez devoir avoir en tête. Et ce premier test, en tout cas le premier verdict de chat GPT et on va voir si Gini est d'accord derrière nous donne raison par rapport à cette hypothèse.
+18:0018 minutesDonc au niveau de l'exactitude des chiffres, on a une note de 8,5/ 10 pour sonnette 5 et seulement 8/10 pour opus
+18:0718 minutes et 7 secondes4.8. Pour la prudence analytique, on a 8/ 10 pour sonet 5 et on a seulement 6,5/ 10 pour Opus 4.8. Pour la qualité
+18:1618 minutes et 16 secondesstratégique, on va être à 7/10 pour Opus 8/10 pour sonet. C'est quand même assez incroyable en fait. Je découvre les chiffres en même temps que vous et en
+18:2318 minutes et 23 secondesgros Sonet est au-dessus sur chacun des critères qui a été identifié par chat GPT. Clarté et structure, on est à 8 et
+18:3118 minutes et 31 secondesdemi pour Sonet et 8 pour Opus. On obtient une note donc de 16/ 20 pour Sonet 14,5/ 20 pour Opus 4.8. La
+18:3918 minutes et 39 secondesdifférence pour le coup est quand même plus importante que légère telle que c'était présenté juste ici. Donc ça c'est la vie de chat GPT. Maintenant est-ce que j'ai mini ? Et d'accord. J'ai
+18:4718 minutes et 47 secondesfait exactement la même chose en deep sinking. J'ai partagé les deux réponses.
+18:5218 minutes et 52 secondesRéponse A opus, réponse B sonet. Et on va voir ce que nous dit Gini juste ici.
+18:5718 minutes et 57 secondesEst-ce qu'il est d'accord ? Et bien il nous dit et là on a du coup une réponse différente et quand même nettement différente pour le coup de ce qu'on a eu
+19:0519 minutes et 5 secondesprécédemment avec chat GPT. Il nous dit que la réponse A est nettement supérieure à la réponse B. Et donc en gros ce qu'il est en train de dire c'est
+19:1219 minutes et 12 secondesque la réponse B donc celle de Sonnet est une bonne lecture descriptive. Donc niveau data analyste junior alors que la réponse A se positionne comme un
+19:2119 minutes et 21 secondesvéritable conseil stratégique donc un vrai business partner plus expérimenté.
+19:2619 minutes et 26 secondesEt donc là, on remarque aussi que Gémini est plus en train d'analyser les décisions stratégiques et les suggestions qui sont faites par les intelligences artificielles pour bien
+19:3419 minutes et 34 secondesnoter la pertinence de la réponse. Et donc là, il nous dit que l'approche stratégique de A, donc de Opus est meilleure parce qu'Opus va choisir de mettre en lumière la boutique en ligne
+19:4319 minutes et 43 secondescomme troisème tendance majeure et il dit que c'est le choix parfait car c'est le cœur du réacteur de l'entreprise.
+19:4819 minutes et 48 secondesElle pèse 41 % du chiffre d'affaires. Et donc il y a une erreur selon lui de proportion de B donc de sonnette qui va choisir d'évacuer ce canal principal, la
+19:5719 minutes et 57 secondesboutique en ligne pour parler des salons et marchés qui sont très performants, mais qu'il est anecdotique d'un point de vue chiffre d'affaires puisque ça
+20:0420 minutes et 4 secondesreprésente que 6 % contre 41 % sur euh l'aspect boutique en ligne. Donc là ça reste un choix stratégique. Néanmoins,
+20:1320 minutes et 13 secondesGéini le voit tel quel. Donc on va rester sur ça et qu'en gros ce qu'apprécie Géini dans la réponse d'Opus, c'est qu'il va plus loin dans
+20:2020 minutes et 20 secondesson analyse par rapport à Sonet 5. Donc un point pour Sonet 5, un point pour Gémini. On verra du coup si les deux
+20:2720 minutes et 27 secondesintelligences artificielles sont assez d'accord pour le test suivant qu'on va faire dès maintenant. Et pour ce deuxième test, on va utiliser cette fois
+Chapitre 12 : Test sur Claude Cowork
+20:3620 minutes et 36 secondesCloud Cowork et donc on aura un cas d'usage qui va reprendre un petit peu l'exemple dans lequel on était. On va reprendre notre PME. On va lui partager
+20:4420 minutes et 44 secondesdeux documents partiellement contradictoires aux deux intelligences artificielles, sonnettes et Opus, une enquête client et un brief concurrence.
+20:5120 minutes et 51 secondesEt on va lui demander de nous faire une recommandation sur un lancement de produits. Pourquoi ça va être un test important ? Bah parce que ça va être un
+20:5920 minutes et 59 secondesbon test d'arbitrage entre plusieurs sources, une analyse en plusieurs dimensions et savoir du coup prendre des
+21:0621 minutes et 6 secondesdécisions dans un environnement contradictoire. comment vont agir les deux intelligences artificielles et quelle sera l'IA vainqueur par rapport à
+21:1521 minutes et 15 secondestout ça ? Et bien je vous propose de voir ça maintenant. Donc là on est sur Cloud Cowork. Je vous explique comment utiliser cet outil qui est pour moi
+21:2321 minutes et 23 secondesindispensable en 2026 dans la formation dont je vous parlais précédemment et dont vous aurez le lien dans la description. Et donc là, vous le voyez
+21:3021 minutes et 30 secondesici, j'ai fait les deux tests Sonet 5 et Opus 4.8. Je vais ouvrir Sonet 5. Ici, on va pas encore regarder le résultat puisqu'on va aller le découvrir
+21:3821 minutes et 38 secondesensemble. et j'ai ouvert ça dans mon navigateur. J'ai même pas regardé les résultats. Donc je vais les découvrir avec vous. Donc en gros, j'ai demandé
+21:4521 minutes et 45 secondesici aux deux intelligences artificiel et bien de me faire une analyse, une note de décision plutôt sur un lancement
+21:5321 minutes et 53 secondesproduit spécifique, de me mettre dans cette analyse une recommandation claire. Est-ce qu'il faut lancer un coffret ?
+21:5921 minutes et 59 secondesL'idée c'est de lancer ou non un coffret sur abonnement pour ma marque de bougie.
+22:0322 minutes et 3 secondesDonc si oui ou non, pourquoi ? le positionnement recommandé en terme de prix, fréquence, promesse, le plan de lancement sur 90 jours et les deux
+22:1122 minutes et 11 secondesrisques principaux à anticiper sur ce lancement de produits. Ce qui va être intéressant, c'est que je lui ai demandé du coup de me formater sa réponse dans
+22:2022 minutes et 20 secondesune page HTML dynamique. Ça c'est une bonne manière d'utiliser l'intelligence artificielle pour bien utiliser et surtout bien protéger vos quotas
+22:2922 minutes et 29 secondesd'utilisation sur Cloud. Et c'est aussi une bonne méthode pour obtenir des réponses plus qualitatives dans la structure et même sur le fond. Je vous
+22:3722 minutes et 37 secondesexplique tout dans la vidéo tuto qui s'affiche en haut à droite et que vous aurez là aussi en lien dans la description et je vous la mettrai juste après celle-ci comme ça vous pourrez aller la voir si le cœur vous en dit.
+22:4722 minutes et 47 secondesDonc là, je lui dis bien de créer une page HTML dynamique, design moderne et cetera et d'enregistrer sa réponse sous forme réponse A. ici. Donc là, on est
+22:5622 minutes et 56 secondessur Sonet et vous vous doutez bien que du coup pour Opus 4.8, je lui ai demandé de répondre sous le format HTML avec le
+23:0523 minutes et 5 secondestitre réponse B. C'est évident. Et donc, comme je vous le disais, les deux pages HTML, réponse A, réponse B ont été créés. Moi, je les ai ouverts dans un
+23:1323 minutes et 13 secondesordre aléatoire sur mon navigateur et on va pouvoir analyser tout ça ensemble.
+Chapitre 13 : Mon hypothèse se vérifie !
+23:1823 minutes et 18 secondesDonc, on va avoir la première note stratégique juste ici. Note de décision stratégique. Faut-il lancer ce coffret ?
+23:2523 minutes et 25 secondessérénité sur abonnement. Donc là, on a une enquête qui est plutôt sympathique.
+23:2823 minutes et 28 secondesOn a un menu qui fonctionne. On peut naviguer dans les différentes parties.
+23:3123 minutes et 31 secondesDonc tout ça c'est nickel. Derrière on va avoir ce que dit l'enquête. Donc, on va avoir une synthèse chiffrée avec des graphiques bien colorés qui sont
+23:4023 minutes et 40 secondessympathiques. On a des informations clés qui apparaissent juste ici. Donc ce que disent les chiffres, donc le le le
+23:4723 minutes et 47 secondesl'enquête de satisfaction en client et on voit que sur le marché, il y a différentes gammes de prix et que la faille dans ce marché et bien c'est la
+23:5423 minutes et 54 secondesfidélisation client. Bref, on nous propose des prix ici 29 € par mois. On verra sur l'autre intelligence artificielle est aussi alignée sur ça.
+24:0324 minutes et 3 secondesMensuel avec pause facile pour la fréquence et la promesse. Le rituel sérénité sans compromis. On a le plan de lancement sur 90 jours en trois phases.
+24:1224 minutes et 12 secondesFondation coorte fondatrice décision de monter en charge. Les deux risques liés à nos contraintes de production, demande supérieure à la capacité de production
+24:1924 minutes et 19 secondesou packaging non prêt pour l'envoi postal régulier. et donc les prochaines actions à mener. Ce qu'il y a de bien ici, c'est que l'intelligence
+24:2624 minutes et 26 secondesartificielle a pris soin de me mettre un petit bouton pour imprimer exporter le PDF, je peux le faire juste ici.
+24:3224 minutes et 32 secondesJ'obtiens un PDF de qualité. Donc cette intelligence artificielle fait le boulot, c'est nickel. On va pouvoir comparer ça avec l'autre et surtout partager les deux résultats à chat GPTG
+24:4124 minutes et 41 secondesMini pour voir quelle intelligence artificielle il préfère. Donc là, on a une réponse plus centrée, on va dire, dans le dans le dans la page HTML. Je
+24:5024 minutes et 50 secondestrouve que c'est plus facile à lire pour le coup. Coffret sérénité, faut-il le lancer ? Oui, il faut le lancer. J'aime bien l'aspect en fait d'avoir la réponse qui apparaît juste ici. On a ça y est,
+24:5824 minutes et 58 secondeson a l'information et donc on va aller vers les justifications derrière. Mais on a voilà, on peut consommer rapidement la réflexion. On a l'information juste
+25:0625 minutes et 6 secondesici. Là, on la voit aussi mais ça m'a moins tapé à l'œil. Donc pour le coup, je l'ai mieux remarqué sur cette page.
+25:1125 minutes et 11 secondesOn va voir des chiffres clés qui apparaissent juste ici. La recommandation appuyz sur les chiffres, ce que dit l'enquête en un coup d'œil.
+25:1925 minutes et 19 secondesDonc là, ça apparaît pareil hein, c'est assez similaire à ce qu'on a eu précédemment. Pour le prix, on va être à 29 € par mois, mensuel et antilassitude
+25:2625 minutes et 26 secondesavec différents niveaux de coffret pour évoluer aussi, varier, innover dans le temps. On a le plan de lancement en 90 jours fondation pilote consolidation.
+25:3725 minutes et 37 secondesC'est peut-être un petit peu plus clair que ce que nous avions dans la première intelligence artificielle qui est juste ici. Voilà où on avait coord fondatrice
+25:4525 minutes et 45 secondesdécision de monter en charge. C'est peut-être plus facile à lire quand on voit pilote ou consolidation. Juste ici, les deux risques principaux à anticiper.
+25:5225 minutes et 52 secondesLe goulot de production, le packaging manquant. Pour cette IA, c'est le risque numéro 1. Et on a un deuxième risque qui est le chern, c'est-à-dire la
+25:5925 minutes et 59 secondesproblématique de fidélisation client. La décision, les décisions avant de lancer en pilote maîtrisé apparaissent juste ici. Est-ce que j'ai un bouton pour
+26:0726 minutes et 7 secondesimprimer la page au format PDF ? Non, ça pour moi c'est vraiment problématique dans le sens où j'avais demandé dans mon promte que la page devait être optimisée
+Chapitre 14 : Le fossé se creuse...
+26:1526 minutes et 15 secondespour inciter à passer à l'action. Quand je vois ça et quand je vois que j'ai pas le bouton, contrairement à ce que j'ai obtenu juste ici, là j'ai les prochaines
+26:2326 minutes et 23 secondesd'action. C'est clair, je peux y aller si je veux. Je peux imprimer tout ça et passer euh direct à l'action et partager tout ça au collaborateur. Donc pour moi, cette page va remporter du coup le prix.
+26:3426 minutes et 34 secondesAlors c'est laquelle ? C'est la réponse A. Et la réponse A, on avait dit j'ai oublié. Si la réponse B c'est opus, c'est que la réponse A est sonet 5. Donc
+26:4226 minutes et 42 secondespour moi, je choisis sonnette 5 pour les raisons que j'ai évoqué à l'instant.
+26:4626 minutes et 46 secondesMais néanmoins, on en revient sur l'hypothèse de départ. C'est quoi la différence vraiment de qualité entre les deux intelligences artificielles ? En fait, il y en a une qui dépense moins de
+26:5426 minutes et 54 secondesquotas d'utilisation, moins de token qui est moins cher et il y en a une qui est plus élevée, qui est plus Oui. qui est plus qui est plus cher, mais qui est
+27:0227 minutes et 2 secondestout aussi performante pour des tâches classiques de bureau, des tâches administratives, des tâches qu'on délègue vraiment au quotidien,
+27:0927 minutes et 9 secondesl'intelligence artificielle quand on n'est pas développeur. C'est ça l'hypothèse et j'ai l'impression que pour l'instant on est assez d'accord. Le mieux, c'est queon regarde derrière ce
+27:1727 minutes et 17 secondesqu'en pensent les deux intelligences artificielles. Comme tout à l'heure, je leur ai partagé les deux pages HTML, réponse A, réponse B. Et on va voir ce
+27:2427 minutes et 24 secondesque nous dit chat GPT juste ici. Et donc pour lui, une fois n'est pas coutume, chat GPT préfère Sonet. Il choisit la
+27:3127 minutes et 31 secondesréponse A. On a vu que c'était Sonet 5, donc il est assez d'accord avec moi.
+27:3527 minutes et 35 secondesSelon lui, Sonet va respecter un peu mieux la question posée. Le plan de lancement est plus prudent et plus réaliste. On a remarqué quand même, et
+27:4427 minutes et 44 secondesça c'est aussi ce qui fait les différences entre les intelligences artificielles, que chat GPT préférait la prudence à la prise d'initiative. Risqué ce que Gémini semble moins apprécier.
+27:5427 minutes et 54 secondesLui, il est plus dans le risque que dans la prévention. Donc c'est la raison pour laquelle peut-être on aura deux sons de cloche différents sur ces deux intelligences artificielles. Mais en
+28:0228 minutes et 2 secondesgros, il nous dit que ça gagne pour ça, que le plan de lancement donc il est plus prudent, que les chiffres de la réponse A sont plus propres et que le positionnement de la réponse A est plus
+28:1128 minutes et 11 secondesdirectement exploitable. Donc en gros, voilà, là pour le coup, il y a pas il y a pas photo. La réponse A obtient 9/ 10, donc 18/ 20 quand la réponse B obtient
+28:2028 minutes et 20 secondes16/ 20. On en est à ce qu'on disait précédemment. Finalement sur le fond, sur la qualité, c'est assez similaire entre deux intelligences artificielles,
+28:2828 minutes et 28 secondessauf qu'on a Opus qui coûte 40 à 60 % plus cher que Sonet 5. Qu'en pense Gémini ? Il a analysé les choses. Donc
+28:3528 minutes et 35 secondesréponse A, réponse B. Et que nous dit-il ? Juste ici, il nous dit que c'est la réponse A. Et là, pour lui, c'est
+28:4228 minutes et 42 secondesincontestable, la meilleure. Donc Gémini a également choisi Sonet. Donc là, si on résume, finalement, ça fait trois points pour Sonet qui avait eu le premier point
+28:5128 minutes et 51 secondesde chat GPT, qui a eu là le point de chat GPT et de Gémini, alors que O+ 4.8 n'a eu que le point de Gémini sur le
+28:5928 minutes et 59 secondespremier test. Donc, il nous dit qu'il y a une logique chronologique du plan de lancement qui est meilleure dans la réponse A, que le respect de la consigne est meilleur dans la réponse A, notamment la consigne sur les risques.
+29:1029 minutes et 10 secondesDonc là, il est d'accord avec chat GPT là-dessus. Et si les deux IA sont d'accord, c'est vraiment que la différence de qualité est importante.
+29:1729 minutes et 17 secondesFinesse de l'analyse croisée, avantage aussi à la réponse A. Et donc en gros, il nous dit cette fois que OPUS 4.8, bah c'est un excellent profil de marketeur
+29:2529 minutes et 25 secondesweb designer. Par contre, le collaborateur A donc Sonet, c'est un véritable directeur opérationnel et stratégique. Là, le gap, il est vraiment
+29:3329 minutes et 33 secondesénorme entre les deux et c'est Sonet 5 qui remporte la bataille. On va faire un dernier test que j'ai prévu juste ici.
+Chapitre 15 : Test sur Claude Design
+29:4029 minutes et 40 secondesMaintenant qu'on a utilisé Cloud chat et qu'on a utilisé Cloud Cork, on va utiliser Cloud Design. Et s'agissant d'un design, on va pas faire juger les
+29:4829 minutes et 48 secondesdeux intelligences artificielles. On va essayer de juger par nous-même de la manière la plus objective possible. Pour ce deuxième test Cloud Design, je l'ai
+29:5629 minutes et 56 secondesmodifié un peu par rapport à ce que vous aviez ici pour vraiment exploiter le potentiel de cet outil d'intelligence artificielle que j'évoque d'ailleurs en
+30:0430 minutes et 4 secondesdétail dans ma formation Claudia, lien dans la description. euh que vous pouvez obtenir dès maintenant. Cloud Design, c'est un outil ultra puissant qui va
+30:1230 minutes et 12 secondesvous faire gagner un temps de folie. Je vous explique comment bien le paramétrer, comment créer des slides, des sites, des applications, des vidéos également et cloud design. Je vous donne
+30:2030 minutes et 20 secondesdes skills et je vous montre comment en créer et les utiliser. Donc rien que pour ça, cette formation pour moi, elle est rentable et comme Cloud Design c'est quelque chose de costaud, et bien je
+30:2930 minutes et 29 secondessouhaitais vraiment les utiliser pour créer une template de pages de vente pour mon coffret de lancement. Ici, j'ai
+30:3730 minutes et 37 secondesdemandé à Opus 4. Là, j'ai demandé à Sonet 5. J'ai posé exactement la même
+30:4430 minutes et 44 secondesdemande, le même prompte. Et donc ce qu'on obtient juste ici, et bien on va le regarder directement dans un nouvel onglet. On va analyser le résultat
+30:5230 minutes et 52 secondesd'Opus 15.8 juste ici. La page est plutôt pas mal. On peut cliquer sur découvrir le coffret. Ici, on arrive sur l'abonnement coffret sérénité à 39 € par
+31:0131 minutes et 1 secondemois. On va avoir découvrir le coffret ici, voir ce qu'il contient. On arrive sur la bonne page, on a les espaces pour ajouter les photos nous-mêmes depuis
+31:0931 minutes et 9 secondesnotre navigateur. Juste ici, on a des bloc différentes couleurs pour pouvoir bien scanner la page. Elle est assez légère, elle est scannable. La police
+31:1831 minutes et 18 secondesest sympathique et plutôt détente, j'allais dire pour notre domaine d'activité coffret sérénité. C'est vraiment sympa. Donc voilà, la page fait
+31:2531 minutes et 25 secondesle taf, rien d'exceptionnel mais rien à signaler d'un point de vue défaut. Donc Opus 4.8 au top par rapport à ma demande et on va regarder maintenant ce que ça
+Chapitre 16 : Ce que vous devez retenir
+31:3431 minutes et 34 secondesdonne du côté de Sonet 5 avec exactement les mêmes impératifs. Donc on va obtenir la page juste ici. La page est plus
+31:4231 minutes et 42 secondesagréable selon moi. Je trouve que ça donne plus envie juste ici les boutons, le menu ici, le fait d'avoir le menu de pouvoir naviguer, ça va quand même
+31:5031 minutes et 50 secondesaméliorer l'expérience utilisateur. On va avoir l'entête ici, voir ce qu'il contient. On arrive directement dessus.
+31:5631 minutes et 56 secondesLà, il a pris le parti de nous mettre des icônes. J'aurais préféré des images, mais là, c'est un choix de design. Là, le bloc pour moi, il est trop massif et
+32:0432 minutes et 4 secondesça donne pas trop envie. Là, pour le coup, là, c'est pareil, c'est un peu trop massif. Donc, en fait, l'entête de page, je préfère sonet et la suite, j'ai
+32:1232 minutes et 12 secondesenvie de dire que je préfère Opus. Je trouve que Opus, c'est un peu plus clair, mais ça reste aussi plus léger par rapport à ce que Sonet nous a
+32:1932 minutes et 19 secondesproposé. Et le petit point important et parce que j'ai lancé les choses pour préparer la vidéo, c'est que Sonet n'a pas travaillé beaucoup plus vite que
+32:2632 minutes et 26 secondesOpus. Contrairement à ce qui est annoncé par Anthopique, les deux intelligences artificielles ont mis peu au prou le même temps pour faire cette proposition.
+32:3432 minutes et 34 secondesEt pour finir cette vidéo, avant de vous partager une bonne nouvelle du côté danthropique et de vous inviter à voir deux autres vidéos après celle-ci,
+32:4332 minutes et 43 secondesnaturellement la présentation que je vous ai présenté au départ, je l'ai créé avec Cloud Design juste ici. J'ai utilisé Sonet 5 et c'est la présentation
+32:5232 minutes et 52 secondesque je vous ai déroulé en début de vidéo et j'avais fait exactement la même demande du coup à Opus ici qui m'a mis des animations dynamiques mais qui m'a
+33:0133 minutes et 1 secondechoisi un design couleurs très claires sans faire de de petites différences ici. Donc c'est la raison pour laquelle je suis parti sur Sonet 5 qui avait
+33:0933 minutes et 9 secondesaussi moins de slide mais là pour le coup si on est honnête Opus a été meilleur dans la création de cette présentation slide que ne l'a été sonet
+33:1733 minutes et 17 secondes5. Et la synthèse de tout ça, je pense c'est que ces deux intelligences artificielles se valent pour la plupart
+Chapitre 17 : La synthèse de ce test
+33:2433 minutes et 24 secondesdes tâches qu'on a à réaliser au quotidien si on n'est pas développeur.
+33:2833 minutes et 28 secondesEt si en plus vous suivez les bonnes pratiques d'un point de vue prompt, d'un point de vue instruction, d'un point de vue skills, et bien en fait vous n'aurez
+33:3533 minutes et 35 secondesplus de problème de token. Choisissez Sonet, définissez vos process de délégation Alia avec Sonet, travaillez
+33:4233 minutes et 42 secondesvos prom vos skill avec Sonet et vous verrez que vous n'aurez plus de problème de quota. d'utilisation. Voilà, j'en ai fini pour cette vidéo qui s'est avérée
+33:5133 minutes et 51 secondesune fois n'est pas coutume plus longue que prévu. Maintenant, je vous invite à aller voir Claude Fable 5 juste ici.
+33:5733 minutes et 57 secondesL'intelligence artificielle premium d'entropique que j'ai testé dans la vidéo juste là et qui vient de ressortir puisqu'elle avait été mis en pause à
+34:0534 minutes et 5 secondescause du gouvernement américain. Ça y est, on va pouvoir la réutiliser et je vous mets également une autre vidéo faisant écho à ce que je vous expliqué
+34:1334 minutes et 13 secondesdans cette vidéo découverte et puis ma formation maîtrisée Claudia, lien dans la description, prix de 590 €. Vous avez
+34:2234 minutes et 22 secondesaccès d'ailleurs aux mises à jour gratuitement, paiement unique mais vous aurez toutes les mises à jour à mesure que Claude évoluera. J'en ai terminé, c'était Ludo. À très bientôt.
+
+Tout
+
+Source : Ludo Salenne
+
+Intelligence artificielle
+
+Informations
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:16:56
+Le créateur de Clair Obscur : Expedition 33 déteste GTA ?! | Jeux Vidéo Club
+Konbini
+157 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+110 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+2:48:31
+L’expert en gaslighting et en communication : voici un signe que vous divorcerez dans 10 ans !
+The Diary Of A CEO
+2,6 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+4:19
+Stopper le complément de salaire d'un salarié en arrêt de travail
+Blog La Paie Facile
+101 vues
+•
+il y a 5 jours
+Nouveau
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+238 k vues
+•
+il y a 3 mois
+
+
+20:44
+RAM, Valve, Rockstar : ça devient INFERNAL
+DiscoverID
+8,8 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+22:06
+LE PAYS OÙ SEGA EST ENCORE ROI
+Bazar du Grenier
+1 M de vues
+•
+il y a 1 mois
+
+
+1:39:42
+Effondrement mondial : nous entrons dans le vide de pouvoir le plus dangereux de l'histoire
+The Diary Of A CEO
+ et Ian Bremmer
+2,9 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,5 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+1:09:36
+Le problème des Open Worlds
+Bazar du Grenier
+3,7 M de vues
+•
+il y a 1 an
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,6 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+14:41
+CES JEUX QUI M'ONT MARQUÉ - ROME TOTAL WAR
+Bazar du Grenier
+648 k vues
+•
+il y a 10 mois
+
+
+24:43
+Sonnet est un ÉCHEC ? Nouveau modèle "Agentic" de Claude
+Melvynx
+2,3 k vues
+•
+il y a 7 heures
+Nouveau
+
+45:45
+Vincent Lapierre : « Je crains pour ma vie si la France Insoumise arrive au pouvoir »
+Front Populaire
+7,7 k vues
+•
+il y a 7 heures
+Nouveau
+
+26:04
+QUI A TUÉ LES RTS?
+Bazar du Grenier
+1,3 M de vues
+•
+il y a 2 mois
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+35 k vues
+•
+il y a 5 jours
+Nouveau
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+13 M de vues
+•
+il y a 5 mois
+Doublée
+
+2:07:16
+Direct n°118 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+12 k vues
+•
+Diffusé il y a 2 heures
+Nouveau
+
+    

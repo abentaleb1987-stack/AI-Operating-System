@@ -1,0 +1,1396 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+Ludo Salenne
+264 k abonnés
+
+
+504
+
+
+Partager
+
+Posez une question
+
+Télécharger
+
+15 150 vues  24 juin 2026  #ClaudeAI #Claude #Tutoriel
+Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel complet je vous explique tout et vous montre concrètement comment débuter sur Claude en tout simplicité. À la fin de cette formation, vous saurez comment utiliser les meilleures fonctionnalités et surtout, vous repartirez avec des cas d'utilisation concrets. C'est parti !
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+🧡 Ma Formation Claude IA : https://www.ludosln.net/formation-cla... 🧡
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Au sommaire du tutoriel Claude IA :
+
+0:00 - Tout l'écosystème Claude
+0:36 - Claude la meilleure IA ?
+3:09 - La grosse force de Claude IA
+5:45 - Claude Code vs Cowork vs Design
+7:35 - En fait, c'est très simple !
+9:51 - Opus vs Sonnet vs Haïku vs Fable
+14:09 - Rédiger un bon prompt Claude
+17:42 - Ça c'est crucial !
+18:55 - La méthode Claude Projets
+20:57 - Maitriser tout Claude IA
+23:47 - Gain de temps validé !
+24:57 - Débuter sur Claude Design
+28:13 - Créer des templates Claude Design
+30:06 - Synchroniser Claude Design et Claude Code
+31:03 - L'application Claude IA
+31:43 - Débuter sur Claude Code
+34:05 - Débuter sur Claude Cowork
+35:26 - Bien utiliser les Skills Claude
+38:00 - Automatiser avec Claude Cowork
+40:00 - Quel abonnement Claude choisir ?
+41:22 - Bien gérer les Tokens Claude
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+👉 Ce qu'il faut retenir de ce tutoriel Claude pour débuter maintenant :
+
+Avec Claude, Anthropic a crée un écosystème complet et ultra performant.
+
+Claude Chat, Claude Code, Claude Cowork et Claude Design... Ces 4 outils IA vont vous permettre de confier toutes vos tâches à l'intelligence artificielle.
+
+Mais pour ça, il est important de savoir 2 choses : quel outil Claude utiliser et comment bien l'utiliser.
+
+Dans ce guide débutant, je détaille tout et les idées clés sont :
+
+Claude Chat sert à réfléchir. Claude Design sert à montrer. Claude Code sert à construire. Claude Cowork sert à automatiser. C'est ça le bon point de départ.
+
+Pour débuter sans se perdre, il faut segmenter vos usages Claude. Vous pouvez faire les mêmes tâches sur les 4 outils mais les résultats varient et surtout, vous risquez de construire une usine à gaz.
+
+Utilisez les bonnes IA sur Claude, pour bien gérer vos tokens et quotas d'utilisation. Claude Opus, c'est pour les tâches complexes. Claude Haïku, pour les questions simples. Le reste du temps, Claude Sonnet est l'IA à choisir.
+
+Pensez process : contrairement à ChatGPT, l'IA Claude est une IA de production. Vous utilisez Claude et ses outils pour déléguer durablement des tâches à l'intelligence artificielle. Plus vos process sont précis, meilleurs sont les résultats.
+
+🧡 Et pour aller plus loin, ma formation complète → https://www.ludosln.net/formation-cla...
+
+#ClaudeAI #Claude #Tutoriel
+Ludo Salenne explore l'écosystème complet de l'intelligence artificielle Claude, structuré autour de quatre piliers : Chat, Code, Cowork et Design. Ce guide pratique détaille la méthode de prompting POSER pour optimiser les résultats et démontre comment automatiser des processus complexes au quotidien pour gagner en productivité.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Ludo Salenne
+264 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+
+Instagram
+
+TikTok
+
+Twitter
+24 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @LudovicSalenne
+@LudovicSalenne
+il y a 7 jours
+👉 Claude Chat, Claude Code, Claude Design, Claude Cowork... L'écosystème IA Claude est incroyable mais quand on débute, on peut s'y perdre : avec ce tutoriel, je vous partage toutes mes méthodes et vous montre comment bien utiliser tout Claude en toute simplicité 😀
+
+🧡 Pour aller plus loin : ma formation Claude IA complète → https://ludosln.net/formation-claude-ia/ 🧡
+
+7
+
+
+Répondre
+
+
+@rampack1503
+il y a 6 jours (modifié)
+👍 Merci Ludo pour cette masterclass ! En tant que membre de la skool sur le QG de l'IA, je confirme que la classroom est une pure mine d'or pour passer en mode production !!
+Avis aux followers : arrêtez de vider vos quotas à l'arrache et rejoignez d'urgence le QG pour gagner un temps de malade ! 🚀🔥
+
+3
+
+
+Répondre
+
+
+@patricelodi
+il y a 7 jours
+Voilà longtemps que je n'ai pas vu une vidéo cohérente, claire ; 
+avec un rythme soutenu, mais pas infernal.  Ça fait plaisir !
+
+1
+
+
+Répondre
+
+
+@flymetothemoun
+il y a 6 jours
+Petit témoignage : je suis client de Ludo dans le QG de l'IA et comment dire...La qualité de ce qui est proposé et la générosité de l'IA sont incroyables. Je pense que Ludo a une communauté qui lui ressemble, ce qui fait que j'ai trouvé beaucoup de bienveillance entre les membres. Bref, je ne peux QUE recommander de devenir client du QG de l'IA (Je recommande d'ailleurs régulièrement à mes clients le travail de Ludo, sachant que j'accompagne des entrepreneurs qui travaillent en ligne comme en présentiel). Merci à toi Ludo pour tout ce que tu apportes ! Et bien sûr, n'oublie pas de prendre soin de toi, car le rythme que suis a l'air assez soutenu. Comme on dit en bon français : TAKE CARE !!! ;-)
+
+1
+
+
+Répondre
+
+
+@marival1498
+il y a 1 jour
+Bonjour, j'ai raté l offre de lancement dommage ....en tout cas merci pour la vidéo elle est trés clair
+
+
+
+
+Répondre
+
+
+@devSphereChannel
+il y a 7 jours
+Merci pour cette vidéo !
+
+
+
+Répondre
+
+
+@yohanncattiau2410
+il y a 1 jour
+merci
+
+
+
+Répondre
+
+
+@EN-pc9vk
+il y a 7 jours
+Allo Ludo! Merci pour ta formation! J'ai une question sur l'écosysteme : Pense , montre, construit, execute : sont -ils mutuellement exclusif ou l;inverse ? (signification des fleches ?:je me serai attendu : pense, execute, construit, montre.)
+
+
+
+Répondre
+
+
+@RaphiStone
+il y a 7 jours
+salut ludl, je truve que tu as été dur avec chat gpt il peut faire comme cluade avec codexqui depuis sa dernière mis à jour en fait autant depuis qu'il a les sous-agent qui sont plutôt géniaux
+
+1
+
+
+Répondre
+
+
+@SynthétiseurDuturfu
+il y a 2 jours
+Pour la rédaction de texte de copywriting et avoir le meilleure vous pensez que le max doit être utilisé ?
+
+
+
+Répondre
+
+
+@VigenèreDnCPU
+il y a 2 jours
+Je viens de voir ta video c'est trop tard pour la promo de ta formation ?
+
+
+
+Répondre
+
+
+@jmdm4627
+il y a 9 heures (modifié)
+Comment/Où places tu Gemini ? A la demande, Production ou un mix des 2 ? Après perso à choisir je préfère prendre Claude et Gemini que ChatGPT.
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@benphil-s2h
+il y a 3 jours
+Bonjour, j'ai acheté la formation Claude jeudi et je n'ai toujours rien reçu... Pouvez-vous me dire quand j'aurai le mail avec les accès à la formation ?
+
+
+
+Répondre
+
+
+@lescénique
+il y a 4 jours
+Chat GPT est plus pour les créatifs et Claude pour les gestionnaires si on veut résumer.
+
+
+
+Répondre
+
+
+@Soph1008
+il y a 6 jours
+Salut
+Les offres formations faut les faire en début de mois et pas en fin de mois 
+Est ce que tes prompts et skill sont inclus dans ton offre ?
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@_fpna
+il y a 6 jours
+25:05 accès en version payante j'imagine (car je ne les vois pas dans mon menu de gauche) donc impossible de tester pour voir ce que ça vaut en version free. Dommage
+
+
+
+Répondre
+
+
+1 réponse
+
+@musique8322
+il y a 1 jour
+Claude pour tout personnellement à l'exception de la génération d'images. Et en plus, il n'est pas woke 
+
+
+
+Répondre
+
+
+@TradingShiba
+il y a 7 jours
+Merci pour la vidéo. Que penses tu entre Claude vs Manus.ia ? 
+Merci pour ton retour.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Tout l'écosystème Claude
+0:00
+Alors Claude, c'est l'intelligence artificielle dont tout le monde parle, mais comment bien l'utiliser et surtout
+0:05
+comment réussir à tirer profit de toutes ses fonctionnalités et de son écosystème complet puisqu'on a Cloud chat juste
+0:12
+ici, mais on a aussi Cloud Code, Cloud Cowork, Cloud Design. Et bien vous allez le voir dans ce tutoriel complet, c'est
+0:18
+très simple, je vais vous partager toutes mes astuces et mes méthodes afin que vous puissiez utiliser Claude de la
+0:24
+bonne manière et surtout que vous puissiez en générer les meilleurs résultats possibles. Moi, l'intelligence artificielle Claude, je l'utilise depuis
+0:30
+plus de 3 ans maintenant. Donc, je vais essayer de vous partager du mieux possible toute mon expérience. Je vous
+Claude la meilleure IA ?
+0:36
+propose d'entrer dans le vif du sujet car on a pas mal de choses à voir ensemble. Et on va commencer par cette
+0:41
+première question que vous êtes très nombreux à me poser régulièrement. Qui de chat GPT ou Claude est la meilleure
+0:48
+intelligence artificielle ? Et ça et bien en fait c'est pas la bonne question. Pourquoi ? Parce qu'il y a pas
+0:53
+une intelligence artificielle de Claude ou chat GPT qui écrase l'autre. Ce sont deux IA différentes avec leurs
+1:00
+spécificités qui sont faites chacune pour leur propre usage et le plus simple pour vous expliquer tout ça, les
+1:06
+spécificités aussi de ces deux intelligences artificielles, et bien j'ai préparé une présentation slide ou plutôt j'ai demandé à Cloud Design de le
+1:13
+faire pour moi et naturellement dans ce tutoriel un tout petit peu plus tard je vous montrerai comment utiliser cette
+1:19
+fonctionnalité de Claude pour créer tout type de documents très simplement pour l'instant je vais lancer la présentation
+1:25
+et donc chat GPT ou Claude et Et bien, comme je le disais à l'instant, ce sont deux excellentes intelligences artificielles mais en fait elles ne
+1:32
+servent pas à la même chose et je vais essayer de simplifier au mieux la réflexion pour que vous puissiez vous
+1:38
+prendre la décision la plus facile possible. Et en gros, je vais vous partager ici mon expérience car comme je
+1:44
+le disais précédemment, j'utilise l'intelligence artificielle clos depuis plus de 3 ans et j'utilise Chat GPT
+1:49
+depuis le départ donc fin 2022. J'ai pu comparer les deux et je pense que j'ai réussi à segmenter vraiment les cas
+1:56
+d'utilisation selon les spécificités de ces deux intelligence artificielle. Et pour moi, en gros, si on simplifie, on
+2:03
+pourrait dire que chat GPT, c'est une intelligence artificielle à la demande et que Claude, c'est une intelligence
+2:09
+artificielle de production. Donc là, vous me dites Ludo, tu es bien sympa. Il y a à la demande où il y a de production. C'est quoi la différence ?
+2:15
+Naturellement dans cette présentation slide, je vais tout pouvoir vous détailler. Quand je dis que chat GPT est
+2:20
+une intelligence artificielle à la demande, et bien je dis ça parce qu'en fait c'est la meilleure IA qui existe
+2:27
+pour travailler vite dans plein de situations différentes. Mais pour travailler sur des tâches qui sont
+2:33
+simples et qui sont des tâches uniques, vous allez comprendre. Vous avez par exemple un email à envoyer dans une
+2:39
+situation particulière et bien vous allez pouvoir utiliser chat GPT. ce sera la meilleure IA et il vous rédigera la
+2:46
+réponse parfaite. Vous avez besoin d'un post pour vos réseaux sociaux sur un objectif précis, vous allez pouvoir
+2:52
+utiliser Chat GPT. Le résultat sera génial. Vous avez besoin d'une image. Là, ça va être très simple puisque
+2:58
+Claude ne fait pas pour le moment cette fonctionnalité. Donc, vous allez nécessairement passer par chat GPT. Mais en gros ici, je mettrai toutes les
+3:05
+tâches que vous pourriez très bien confier à un prestataire externe. Et là où ça va changer du du côté de Claude,
+La grosse force de Claude IA
+3:11
+et c'est la raison pour laquelle je vais dire que c'est une NIA de production, elle va prendre tout son sens quand vous
+3:17
+allez construire des processes bien plus complexes et surtout les
+3:24
+confier de manière durable. Donc en gros ici, on va être plutôt sur des tâches, j'allais dire jetable. Vous avez un
+3:30
+besoin unique, vous voulez une réponse précise, vous allez passer par chat GPT. À l'inverse, vous avez une tâche qui
+3:36
+vous prend du temps dans votre quotidien. Vous suivez un process précis pour mener à bien cette tâche. Et bien,
+3:42
+en fait, vous allez pouvoir utiliser les quatre outils, les quatre sphères de l'écosystème Cloud pour digitaliser,
+3:49
+j'allais dire, ce process, le mettre dans l'intelligence artificielle pour que Claude travaille pour vous. mais
+3:55
+sans vous et qu'il le fasse systématiquement à chaque fois que vous avez un besoin. Je vais vous prendre quelques exemples. Vous allez voir,
+4:01
+c'est très très simple. Vous faites des réunions, vous prenez des notes et à chaque fin de réunion, vous avez besoin
+4:08
+de faire un compte-rendu spécifique, le mettre dans un format spécifique avec des rubriques spécifiques et une manière
+4:14
+de rédiger là aussi spécifique. Ensuite, vous envoyez ce compte-rendu à tous vos
+4:19
+collaborateurs et bien ce genre de tâche, vous allez pouvoir les déléguer à l'environnement Claude et Claude va
+4:25
+pouvoir le faire à votre place. vous allez lui partager vos notes et systématiquement il rédigera exactement
+4:32
+comme vous le feriez votre compte-rendu et il pourra même l'envoyer à vos collaborateurs. Donc là, on est sur une
+4:37
+tâche processée qui revient régulièrement. Idem, si vous faites souvent des présentations slide, vous
+4:43
+avez généralement la même charte graphique, vous construisez peut-être les slides de la même manière avec le
+4:49
+même fil conducteur. Et bien tout ça c'est processé chez vous. Vous allez pouvoir partager ça à l'intelligence
+4:54
+artificielle et Claude va créer pour vous systématiquement vos présentations
+5:00
+slide. Et puis Claude, là où il va être intéressant, c'est qu'il va vous permettre de créer des sites internet,
+5:05
+des applications et même des outils surmesure pour vous faire gagner en productivité. Là, j'aurai plein
+5:12
+d'exemples à vous partager tout au long de cette formation, mais vraiment c'est ça qu'il faut essayer d'avoir en tête.
+5:18
+Vous devez voir cette intelligence artificielle comme un collaborateur que vous allez intégrer à votre activité.
+5:23
+Alors que chat GPT, ça va être plutôt un prestataire externe, un sous-traitant à qui vous allez déléguer des tâches très
+5:31
+simples pour un besoin rapide. Dans tous les cas, comme je le disais précédemment, je vous donnerai des exemples et vous verrez au fil du
+5:37
+tutoriel dans quoi Cloud Excel, quels sont les cas d'usage pour vous au quotidien et surtout comment bien
+5:44
+l'utiliser. Avant de voir ça, évidemment on doit parler de l'écosystème Cloud parce que ça peut être un frein. C'est
+Claude Code vs Cowork vs Design
+5:50
+vrai que quand on connaît pas cette intelligence artificielle, contrairement à chat GPT, on se retrouve avec Clude Chat. Après, on a Cloud Design, on a
+5:57
+Claude Code, on a Cloud Cork, on a parfois des noms qui font peur comme Claude Code et on peut se dire bah Clou
+6:03
+c'est une intelligence artificielle réservée au développeur alors que pas du tout. Et vous commencez à le comprendre
+6:08
+j'imagine dans ce tutoriel. Et ce qui va être un petit peu gênant dans l'écosystème Cloud et je pense que c'est
+6:14
+un petit peu le seul point négatif de l'expérience utilisateur et vous allez voir du coup qu'il est très léger, c'est
+6:19
+qu'en fait il y a beaucoup de fonctionnalités qui sont sur Cloud chat mais que vous allez aussi retrouver sur cloud design, Cloud code et Cloud Cowork
+6:26
+et du coup vous pouvez vous perdre en fait dans les cas d'usage et ne plus savoir quel outil utiliser en fonction
+6:33
+de votre besoin. C'est la raison pour laquelle moi je vais vous présenter les choses très simplement. Je vais vous
+6:38
+faire part de mon retour d'expérience et je vais segmenter les cas d'utilisation selon les quatre outils. Vous pourrez me
+6:45
+dire en commentairire que certaines actions que je vais déléguer à Cloud chat, on pourrait très bien le faire dans Cloud Code ou Cloud Cork. Oui, sans
+6:52
+doute, mais c'est pas le sujet. Là, l'idée puisqu'on a quatre sphères dans l'écosystème cloud, c'est vraiment de
+6:58
+cadrer ces quatre sphères pour savoir laquelle utiliser en fonction de nos besoins précis et de faire le plus
+7:04
+simple possible. Car dans l'intelligence artificielle, si vous souhaitez obtenir des retours sur investissement et mettre
+7:10
+en place les choses de manière efficace et confortable, il faut rester dans la simplicité. Et donc on va décortiquer
+7:18
+maintenant l'écosystème de cloud. Donc comme je le disais précédemment, on va avoir du clat juste ici. On va avoir cl
+7:26
+code, clork, clign, trois piliers qu'on ira voir un tout petit peu plus tard dans la formation et donc quel pilier
+7:33
+choisir en fonction de vos besoins ? Et bien là aussi pour l'illustrer, j'ai prévu une animation vidéo que j'ai là
+En fait, c'est très simple !
+7:40
+aussi créé avec Cloud Design et je vais m'en servir comme support en lançant la
+7:45
+présentation dès maintenant. Donc je vais revenir au début de la vidéo qui est juste là et je vais la lancer et la
+7:52
+commenter en live comme ça vous verrez déjà le niveau de qualité de cette présentation dans Cloud Design et puis
+7:58
+ça vous permettra aussi de voir visuellement les choses. Donc comme je le disais à l'instant, l'écosystème cloud c'est bien quatre outils pour un
+8:05
+seul flux de travail. Et donc j'ai essayé de vraiment vulgariser le truc, de le simplifier et on va dire que Clud
+8:10
+c'est vraiment l'outil que vous allez utiliser pour pouvoir penser réfléchir.
+8:16
+Vous avez une question, une problématique, vous souhaitez résoudre une problématique ou définir une stratégie, vous allez utiliser Cloud
+8:23
+Chat. Si vous avez besoin de montrer une information ou de partager une information, et bien vous allez utiliser
+8:29
+Cloud Design. Si vous avez plutôt besoin de construire quelque chose de costaud, un site internet, une application ou un
+8:35
+outil, vous allez passer par cloud code. À l'inverse, si vous avez besoin d'exécuter une tâche précise et même
+8:41
+l'automatiser, vous allez plutôt prendre Cloud Cowork. Donc en gros, on pourrait dire que Cloud Chat pense, que Cloud
+8:47
+Design montre, que Cloud Code construit et que Cloud Cowork exécute. Gardez bien
+8:52
+ce graphique en tête. J'ai mis pause exprès pour que vous puissiez bien le graver dans votre mémoire. C'est
+8:58
+vraiment comme ça qu'il faut voir les choses. J'ai besoin de penser, réfléchir, je vais sur Clhat. J'ai besoin de montrer ou de partager une
+9:04
+information de manière visuel ou bien formaté. Je vais utiliser Cloud Design. J'ai besoin de construire quelque chose
+9:10
+de costaud. Site internet, application, automatisation ou encore outil pour gagner en productivité. dans mon
+9:17
+quotidien et bien on va utiliser Cloud Code qui construit et enfin Cloud Cower qui exécute. On va plutôt l'utiliser
+9:23
+pour lui déléguer des tâche de bureau ou pas d'ailleurs, mais des tâches systématiques qu'on souhaite même
+9:30
+automatiser et vous allez voir comment dans ce tutoriel. Donc j'espère maintenant que les différences entre les
+9:36
+quatre sphères de cloud sont claires pour vous. Dans tous les cas, comme je le disais précédemment, on va aller sur
+9:42
+chacun de ces outils, on verra leur spécificité et je vous donnerai les cas d'usage. En tout cas, comment moi
+9:48
+j'utilise ces quatre sphères au quotidien. Pour le moment, on va passer sur Clud. C'est sans doute là qu'on va
+Opus vs Sonnet vs Haïku vs Fable
+9:54
+passer le moins de temps puisque l'interface est très facile, mais vous allez le voir, les intelligences artificielles de Claude d'Antropic ont
+10:01
+des spécificité qui font qu'en fait vous ne pouvez pas les utiliser et surtout les interroger comme vous le feriez sur
+10:08
+chat GPT, Gémini ou n'importe quelle autre intelligence artificielle. Donc si vous vous intéressez à Lia, vous avez
+10:14
+déjà dû entendre ce terme pour poser une question, pour demander quelque chose à une intelligence artificielle, vous
+10:20
+allez devoir rédiger ce qu'on appelle un prompt. Vous savez aussi du coup que plus votre prompte sera détaillé et plus
+10:27
+efficace il sera. Et donc si vous savez ça, bah vous avez peut-être utiliser une autre intelligence artificielle dans
+10:33
+votre quotidien notamment chat GPT ou G mini. Et vous avez développé des
+10:38
+méthodes, des mécaniques, des types de rédaction de prompt que vous n'allez pas pouvoir transposer tel quel dans Cloud.
+10:46
+Si vous faites ça, les résultats que vous obtiendrez sont vraiment moyens. Ça c'est une question qu'on me pose
+10:51
+souvent. J'étais sur chat, GPT, j'ai testé Claude. Bah, je suis un peu frustré par les résultats alors que tout
+10:56
+le monde dit que Claude, c'est une super intelligence artificielle. L'erreur c'est toujours la même, c'est qu'on a pris des promptes qui marchaient très
+11:02
+bien sur chat GPT, qu'on les a copiercollé dans Claude et ben non, ça va pas marcher comme ça parce que Claude a ses spécificités et je vais tout vous
+11:10
+expliquer. Avant de voir comment rédiger un bon promte sur l'intelligence artificielle cloud et la structure que
+11:15
+vous allez pouvoir réutiliser dans toutes les sphères de l'écosystème Cloud, on va s'attarder quelques
+11:21
+secondes sur les différentes intelligences artificielles de Cloud. Il y a quatre niveaux. Il y a Iiku, Sonet,
+11:27
+Opus et Fable qui pour le moment est indisponible mais ça devrait revenir très très prochainement. Et en fait,
+11:33
+plus vous allez monter dans cette liste et plus l'intelligence artificielle sera lourde, lente, ce qui est assez logique
+11:40
+mais ultra performante. Et donc à Iikou, vous allez utiliser ça pour des tâches vraiment basiques. Vous avez une
+11:46
+question, vous avez besoin de faire une recherche rapide sur internet, c'est le modèle d'intelligence artificielle que vous allez utiliser. Vous avez besoin de
+11:53
+l'intelligence artificielle pour travailler sur des tâches complexes comme analyser pas mal de documents,
+11:58
+comme travailler sur une réflexion en plusieurs dimensions ou travailler sur des problèmes assez stratégiques et
+12:05
+costaud, vous allez plutôt passer par opus. Si vous n'êtes pas dans ces deux cas-là, et bien en gros, vous serez
+12:12
+quasiment la plupart du temps sur sonet 4.6. C'est ma vision. Je vous parle pas de fable qui généralement va être une
+12:19
+intelligence artificielle qui est très costaud, très performante mais qui va être vraiment réservé à des cas très
+12:26
+très spécifiques, des cas très complexes. Généralement, vous ne serez pas confronté à ces cas au quotidien. Et
+12:33
+pourquoi j'insiste un petit peu sur la bonne répartition des intelligences artificielles, c'est que vous avez peut-être entendu ça et heureusement,
+12:38
+j'aurai une solution pour vous juste après. Il y a pas mal d'utilisateurs qui débarquent dans l'environnement cloud, qui prennent un abonnement et qui sont
+12:44
+frustrés parce qu'en fait ils ont dépensé tout leur quotas d'utilisation sans faire ce qu'ils pouvaient faire. Et
+12:49
+bien généralement, l'erreur là aussi, elle est toujours la même, c'est qu'ils sont sur opus ici en mode par défaut,
+12:57
+donc une intelligence artificielle lourde et complexe et la plupart du temps pas nécessaire pour une tâche que
+13:02
+vous avez à déléguer à Claud. Et en plus, ils se mettent dans effort ici en mode extra voire max en fonction des
+13:08
+abonnements ou même en tout cas élevés. Et du coup ça ça va dépenser des ressources, des quotas d'utilisation des
+13:14
+intelligences artificielles cloud qui ne sont pas nécessaires puisque le sonnet en mode moyen aurait déjà fait le
+13:22
+boulot. En gros, vous jetez vos quotas d'utilisation par les fenêtres. Gardez bien ça en tête. Commencez si vous
+13:27
+débutez sur Claude avec Son 4. Et vous allez voir que les performances sont déjà excellentes, notamment si vous
+13:34
+utilisez les bonnes techniques de prompt. Car oui, comme je le disais précédemment, si c'est une erreur parce que les utilisateurs optalement par
+13:40
+défaut pour le modèle le plus fort finalement, c'est qu'ils se disent bah je vais obtenir les meilleurs résultats,
+13:45
+la meilleure qualité, ce qui n'est pas toujours le cas. Clairement, si vous utilisez Opus pour une tâche qui est
+13:51
+très simple, et bien en fait, vous allez avoir des résultats qui seraient vraiment meilleurs sur son 4. Mais
+13:56
+généralement, ils vont utiliser le meilleur modèle d'intelligence artificielle pour combler des lacunes dans leur utilisation. Alors qu'en fait,
+14:02
+si vous utilisez les bonnes techniques de prompt, bah vous aurez de meilleurs résultats avec Sonet 4.6 que quelqu'un qui prompte à l'arrache avec Opus 4.8.
+Rédiger un bon prompt Claude
+14:10
+Alors, puisqu'on parle de prompt, comment rédiger des bons prompts sur Clou ? Bah, vous allez le voir, la méthode, elle est très simple et en plus
+14:16
+vous allez pouvoir l'automatiser avec une fonctionnalité proposée sur Cloud Chat. Je vous ai prévu cette petite
+14:23
+infographie pour vous présenter les cinq éléments que vous allez pouvoir intégrer
+14:28
+dans votre demande. Chacun de ces éléments ont leur importance. Je vais essayer de vous expliquer ça rapidement.
+14:33
+Déjà, la première chose, quand vous faites une demande à l'intelligence artificielle, vous allez devoir lui demander d'agir comme un expert dans le
+14:40
+domaine d'activité cohérent par rapport à ce que vous avez à demander. Par exemple, vous lui demandez un post pour
+14:46
+le réseau social LinkedIn, vous allez lui demander d'agir comme un expert en
+14:51
+communication digitale, en community management avec une spécialité dans le réseau social LinkedIn. Pourquoi ça ça
+14:58
+va être important ? pas parce que vous allez demander à l'intelligence artificielle de prendre son petit
+15:04
+costume de spécialiste en communication digitale et qui a un petit robot communiquant digital qui va se pointer
+15:10
+derrière l'ordinateur et travailler de la meilleure manière possible. C'est pas du tout ça le sujet. Le sujet avec le
+15:17
+personnat prompting, c'est comme ça que on appelle cette bonne pratique, c'est qu'en fait en agissant de la sorte, vous
+15:24
+allez bien guider l'intelligence artificielle pour qu'elle aille vraiment puisé dans les bons mots, le bon
+15:31
+vocabulaire pour vous répondre de la manière la plus optimale possible. Quand
+15:36
+je dis puis dans un volume de mots, ça vous le savez peut-être aussi si vous vous intéressez à l'intelligence
+15:41
+artificielle, mais toutes les intelligences artificielles du marché chat GPT, Claude Gémini sont des modèles
+15:48
+DI qui sont prédictifs. En gros, quand vous allez lui poser une question juste ici, l'intelligence artificielle ne va
+15:55
+pas se mettre à réfléchir derrière. Il y a pas un petit cerveau euh robotique qui va s'activer et qui va vous pondre la
+16:02
+meilleure réponse. Non, ce qui va se passer, ça va être en fait des calculs de probabilité et en fonction des mots
+16:08
+que vous vous aurez utilisé, et bien l'intelligence artificielle va définir les mots les plus probables à vous
+16:13
+répondre en fonction des mots que vous vous lui avez transmis. Et donc c'est la
+16:18
+raison pour laquelle c'est important d'utiliser cette technique du person prompting. Vous allez l'orienter vers le
+16:23
+bon sac de mots dans lequel piocher. Ensuite une fois que vous aurez fait vous allez décrire votre tâche, votre
+16:29
+objectif. Qu'est-ce que vous souhaitez faire ? Ou plutôt que souhaitez-vous que l'intelligence artificielle fasse pour
+16:35
+vous et quel est ou quels sont les objectifs derrière cette tâche ? Plus vous allez être précis ici, meilleur
+16:41
+sera le résultat. Vous vous en doutez derrière puisque je suis parti sur un acronyme pour essayer de faire en sorte
+16:47
+qu'il reste dans votre tête cet acronyme posé. On a vu le P pour personnap prompting, on a vu le O pour objectif.
+16:54
+On va maintenant passer au S, le S de situation. Vous allez devoir partager à
+16:59
+Claude le maximum d'informations essentielles dans votre contexte, des données aussi essentielles ALIA pour
+17:06
+qu'elles puissent vous apporter la meilleure réponse possible. Là, c'est très simple. Puis il y a pas mal d'utilisateurs qui se plaignent qui
+17:11
+disent "Bah l'intelligence artificielle et notamment Claude, c'est pas terrible parce que quand je demande quelque chose, bah j'ai une réponse qui est
+17:17
+vague ou qui est trop bateau et qu'on pourrait vraiment retrouver dans n'importe quelle entreprise, sur n'importe quel site internet." Oui, si
+17:25
+vous n'avez pas partagé d'éléments sur votre contexte, si vous n'avez pas partagé des données vous concernant,
+17:30
+comment voulez-vous que l'intelligence artificielle puisse vous pondre une réponse qui soit personnalisée,
+17:36
+contextualisée ? Elle a pas de contexte, elle ne peut pas contextualiser sa réponse. Ça c'est hyper important. Et
+Ça c'est crucial !
+17:42
+puis on va finir cet acronyme posé avec deux éléments que vous allez devoir intégrer dans votre prompte qui sont
+17:47
+vraiment essentiels pour les intelligences artificielles cloud. Le E de posé, c'est pour exclusion. Cette IA,
+17:55
+l'IA d'entropique fonctionne très bien quand vous lui dites ce que vous ne voulez surtout pas. Et donc ce que vous
+18:02
+allez faire quand vous lui ferez une demande, c'est que vous allez devoir cadrer les choses et définir tout ce que
+18:09
+vous ne souhaitez pas avoir dans sa réponse. Quelles sont les mauvaises pratiques que vous souhaitez éviter par
+18:15
+exemple. Donc ça ça va être un point essentiel. Et le R pour finir poser, ça va être le R de référence pour exemple.
+18:22
+En fait, l'intelligence artificielle cloud fonctionne très très bien pour reproduire des méthodes et c'est la
+18:27
+raison aussi pour laquelle c'est une intelligence artificiel de production, de construction comme je le disais
+18:33
+précédemment puisqu'elle va être très très forte pour reproduire des choses que vous faites au quotidien et les
+18:38
+reproduire exactement comme vous vous le feriez. Mais pour faire ça et bien il va falloir lui partager de quoi apprendre,
+18:44
+de quoi analyser et donc si vous pouvez fournir 2 3 4 aller jusqu'à 5 exemple
+18:50
+par demande et bien l'intelligence artificielle vous partagera les meilleurs résultats possibles.
+La méthode Claude Projets
+18:55
+Maintenant je vous vois aussi venir, vous me dites "OK Ludo, c'est sympa. L'intelligence artificielle par contre
+19:00
+c'est censé nous faire gagner du temps." Donc avant je l'utilisais à l'arrache, posais mes questions, j'avais des réponses qui étaient certes moyens mais
+19:07
+je les avais très rapidement. Et donc là, si je me mets à travailler des promptes posées comme tu le montres à
+19:13
+l'écran, bah je vais y passer beaucoup de temps et finalement je passerai moins de temps à faire la tâche moi-même. Vous
+19:19
+avez peut-être raison et évidemment j'ai une solution pour ça. Si vous débutez
+19:24
+notamment dans l'environnement cloud, la chose que vous allez devoir faire dès maintenant, c'est d'aller dans votre
+19:30
+menu juste ici et vous allez aller dans la rubrique projet qui est là. Ici, vous allez pouvoir créer un projet pour
+19:37
+déléguer des tâches répétitives à l'intelligence artificielle. Et donc là, vous me voyez venir. Ce que vous allez
+19:43
+faire, c'est que vous allez créer un projet que vous pourrez par exemple nommer Cloud Prompt Machine et dans ce
+19:48
+projet, vous allez donner pour instruction à Claude de rédiger pour vous les prompts selon cette méthode
+19:56
+posée qui est juste là. Le mieux, c'est que je vous montre comment ça fonctionne car moi évidemment je fonctionne aussi
+20:01
+de cette manière. Cloud prompt Machine. J'ai donné des instructions ici à Cloud pour qu'il puisse rédiger des promptes
+20:08
+de qualité selon cette méthode posé. Et du coup, à chaque fois que j'ai un besoin et bien il va me rédiger le
+20:15
+promte parfait selon cette méthode. Naturellement vous pouvez reprendre tous les éléments de cette structure posée et
+20:22
+simplement les partager avec votre projet Claude pour qu'il puisse travailler de cette manière. En tout
+20:27
+cas, moi c'est ce que j'ai fait juste ici. Et pour vous montrer comment ça fonctionne et vous montrer le gain de temps que vous aurez là-dessus, je vais
+20:34
+lui demander un prompt pour créer une présentation slide format Carousel LinkedIn donc que je pourrais partager
+20:40
+pour un maximum d'engagement et de résultats sur le réseau social LinkedIn qui fasse la promotion de ma nouvelle
+20:46
+formation qui est juste ici. Et donc là, vous le voyez, je suis sur Sonet 4.6 moyen. Ça sera largement suffisant pour
+20:52
+ce que j'ai à faire et comme ça, je préserve bien mes quotas d'utilisation. Je vais lancer ma demande et pendant
+Maitriser tout Claude IA
+20:58
+qu'il fait ça, puisqu'on parle de ma nouvelle formation, on va aller directement sur cette page puisque oui,
+21:04
+je viens de sortir une nouvelle formation sur l'écosystème Cloud qui est
+21:09
+disponible jusqu'à dimanche seulement. Donc ça va aller très vite. Vous n'avez sans doute plus que quelques heures au
+21:15
+moment où vous regardez cette vidéo pour profiter de cette offre de lancement. vous allez pouvoir obtenir cette
+21:20
+formation Claudia à 149 € au lieu de 590 €. Soit 75 % de remise pour le
+21:27
+lancement. Évidemment, ça ne pouvait pas durer et dans cette formation 29 modules
+21:33
+vidéo complets pour exploiter toutes les fonctionnalités et tout l'écosystème de cloud qui représente plus de 12 heures
+21:39
+de contenu exclusif. sans compter les mises à jour puisque dans votre achat aujourd'hui avec l'offre de lancement,
+21:46
+vous bénéficiez des mises à jour à vie. À chaque fois que Claude évoluera et bien je ferai de nouveaux modules où je
+21:52
+mettrai à jour les anciens et je vous enverrai les tout nouveaux par email sans vous demander un centime
+21:58
+supplémentaire. En plus des modules vidéos et des mises à jour, vous allez avoir dans cette formation des promptes
+22:04
+que vous allez pouvoir copiercoller, des skills qui seront prêts à l'emploi. On va reparler des skills juste après.
+22:10
+C'est une fonctionnalité phare de l'écosystème cloud et évidemment je vous ai prévu des choses à ce sujet. Je vous
+22:15
+montrerai comment les créer et comment moi je les utilise. Et vous allez avoir aussi tout un tas de guides PDF, des
+22:22
+templates pour que vous puissiez mettre en place les choses de manière confortable. Donc là, je vais vous mettre le lien de la formation dans la
+22:28
+description. Vous avez jusqu'à dimanche du coup pour en profiter à 149 € au lieu de 590 €. Et en cliquant sur le lien
+22:35
+dans la description, vous allez arriver sur cette page avec toutes les informations notamment ce que vous allez pouvoir apprendre et faire avec cette
+22:42
+formation. Et si vous utilisez chat GPT, il y a un module complet et même avec Gémini, ça fonctionne aussi pour pouvoir
+22:48
+migrer de l'un vers Claude, vraiment pour pouvoir récupérer toute votre mémoire, vos historiques de
+22:54
+conversation. vos projets, vos extensions GPTs ou GM si vous êtes sur Géini. Bref, pour migrer de la meilleure
+23:01
+des manières et ne pas repartir de zéro sur Claude, vous avez quatre parties dans cette formation. Donc 29 modules
+23:06
+vidéos comme je disais précédemment et une partie par grosse fonctionnalité de l'écosystème cloud. Donc Cloud chat, on
+23:13
+va voir ça juste ici. Cloud code, comment bien l'utiliser, cloud cowork et enfin cloud design. Vous n'avez besoin
+23:20
+d'aucune compétence en développement, en code ou en design pour utiliser ces fonctionnalités. C'est vraiment la force
+23:26
+de l'écosystème IA à de Cloud. Bref, je vous mets le lien dans la description. Je vous en reparlerai peut-être en fin
+23:31
+de vidéo très rapidement pour vous y faire penser. Vous allez avoir des témoignages, vous allez avoir les
+23:37
+bénéfices, vous allez avoir toutes les informations. Vous allez pouvoir cliquer dessus pour rejoindre à 149 €. Et une
+23:43
+fois que vous aurez validé votre paiement, vous recevrez tout directement dans votre boîte mail. Voilà, j'ai terminé. Et évidemment Claude a
+Gain de temps validé !
+23:49
+travaillé bien plus vite que je vous ai présenté cette formation Claudia. Et donc là, il me présente un prompte
+23:55
+optimisé selon la méthode posée. Donc vous le voyez heat objectif, on va avoir vraiment tous les points importants. On
+24:02
+va avoir le S de situation juste ici, le E de exclusion et enfin le R de référence que je n'ai pas vu passer.
+24:09
+Voilà, il est avec le E2 exemple ici. Et donc là, j'ai un prompt parfait que je peux copiercoller par exemple dans Cloud
+24:15
+Design pour obtenir ma présentation slide. Donc voilà comment fonctionne
+24:20
+Cloud Chat. Voilà comment fonctionnent plutôt les intelligences artificielles de Cloud car cette méthode posée, vous
+24:25
+allez pouvoir l'utiliser sur Cloud Code, Cloud Cork et même Cloud Design. On le verra d'ailleurs tout au long de ce
+24:32
+tutoriel. Clud chat comme je le disais en introduction et bien vous allez plutôt l'utiliser pour tout ce qui est
+24:38
+réflexion, pour tout ce qui est stratégie, pour tout ce qui est organisation ou alors pour les tâches
+24:43
+les plus basiques que vous avez à déléguer à l'intelligence artificielle. Ici on va faire du rapide. Pour le
+24:50
+reste, pour les tâches plus complexes, on ira notamment sur Cloud Code et Cloud Cowork. Mais avant de voir ces deux
+24:56
+morceaux, on va s'intéresser à Cloud Design ici parce qu'il y a déjà beaucoup de personnes qui ne savent même pas que
+Débuter sur Claude Design
+25:01
+ça existe et en plus le potentiel est vraiment énorme. Et je pense que vous avez commencé à le voir d'ailleurs avec les slides et l'animation vidéo que j'ai
+25:08
+pu vous présenter. Donc là, je vous propose d'aller voir justement ce que c'est design. Vous allez aller dans votre menu de gauche, vous allez cliquer
+25:14
+sur design et vous ouvrirez la fenêtre qui est juste ici. Et avec Cloud Design,
+25:19
+en gros, vous allez pouvoir créer des documents, des slides, des sites
+25:25
+internet, des applications, des animations vidéos dans des formats ultra
+25:30
+qualitatifs en suivant notamment votre charte graphique. Ça va être un point
+25:35
+vraiment crucial. Donc en gros en utilisant Cloud Design, vous aurez toujours les documents avec votre logo,
+25:42
+avec vos codes couleur, avec vos polices et ce sera pareil pour votre site internet, ce sera pareil pour vos visuels réseaux sociaux, pour des vidéos
+25:48
+et cetera. Pour faire ça, la chose que vous aurez à faire inévitablement dans
+25:54
+un cloud design, c'est de créer ce qu'on appelle le design system. Donc vous allez aller dans design system, vous allez cliquer sur create juste ici. Vous
+26:01
+allez pouvoir cliquer sur create ear là vous allez donner des information à l'intelligence artificielle pour qu'elle
+26:07
+vous crée votre charte graphique IA qu'elle pourra réutiliser constamment. Donc vous allez pouvoir la décrire juste
+26:13
+ici. Vous allez pouvoir partager votre site internet si vous l'avez. L'URL vous la mettez dans la description. Il ira
+26:20
+voir votre site internet pour bien tout analyser. Si vous avez des logos, si vous avez déjà une charte graphique, si
+26:25
+vous avez des éléments sur votre police, vous allez pouvoir les mettre ici. Et si vous n'avez pas ça, pas de panique, vous
+26:30
+allez pouvoir créer votre charte graphique de zéro en lui mettant des notes. C'est lui qui va réfléchir pour vous. Et d'ailleurs dans ma formation
+26:37
+Cloudia, j'ai tout un volé sur cloud design et pour paramétrer d'ailleurs votre euh design système et je vous
+26:44
+donne notamment des promptes pour créer une charte graphique IA complète optimisée en quelques secondes, allez
+26:51
+quelques minutes à peine. Bref, vous pourrez profiter de ça. Une fois que vous aurez paramétré votre design
+26:57
+système et bien en fait ce sera toujours la base de votre travail. Donc quand vous allez lui demander de travailler
+27:02
+des slides, je vais vous montrer juste rapidement à quoi ça ressemble un design système. Juste ici, vous voyez mes codes
+27:08
+couleurs ici qui sont vraiment stockés dans cloud. La manière dont je construis mes boutons, la manière dont je rédige
+27:14
+aussi du texte. Il y a les polices, il y a la manière de rédiger des badges. Bref, je vais pas tout vous montrer juste ici, mais en gros tout est
+27:20
+vraiment consolidé dans cet espace. Et donc à chaque fois que j'aurai un besoin et bien l'intelligence artificielle va
+27:25
+se baser sur ce design système si je le sélectionne bien entendu pour créer les choses. Et le mieux c'est que je vous
+27:31
+montre un petit peu ce qui est possible de faire puisque je l'utilise vraiment très régulièrement. Et donc par exemple
+27:38
+ici, c'est ce que je montre d'ailleurs dans la formation Claudia. J'ai utilisé Cloud Chat rappelez-vous pour penser réfléchir afin de me définir justement
+27:45
+ma charte graphique avec un promte que vous pourrez récupérer dans la formation. Et donc là, vous le voyez sur la droite, j'obtiens une charte
+27:50
+graphique complète, hein, avec toutes les informations. Je suis passé rapidement mais il y a les informations de couleur et cetera, les informations
+27:55
+de police, les réseaux sociaux, ce que je dois faire, ce que je dois pas faire pour ma marque. Et donc du coup, tout ça, je peux le télécharger en PDF ou en
+28:02
+format Markdown. Je vous recommande plutôt d'utiliser le Markdown et du coup ce fichier, vous allez le partager à
+28:07
+Cloud Design dans votre design système et il pourra créer les choses de manière très simple pour vous. Et donc ce que
+Créer des templates Claude Design
+28:13
+vous allez pouvoir faire derrière, bah c'est tout simplement déjà demander à Cloud Design de vous faire des templates pour les formats de livrable que vous
+28:20
+voulez créer régulièrement. Vous avez besoin d'une page de vente régulièrement. Bah vous allez faire comme moi ici. Vous allez demander à
+28:26
+Cloud Design de vous faire une template que vous allez pouvoir réutiliser constamment. Donc à chaque fois que
+28:31
+j'aurai un besoin de création de page, je vais prendre ma template, je vais la partager à Cloud Code. On va voir ça
+28:38
+juste ici dans Share. Vous allez aller dans S to et vous allez cliquer sur Cloud Code juste ici. Et donc en
+28:43
+envoyant ça à Cloud Code, Cloud Code va me créer la page de vente comme elle est présentée juste ici mais en remplissant
+28:50
+les textes, en modifiant les icônes et cetera et cetera et je pourrais la mettre directement en ligne. Vous pouvez
+28:55
+faire bien entendu la même chose, des templates pour vos présentations slide, des templates pour j'en sais rien, des
+29:00
+devis, des appels d'offre ou que sais-je. Bref, vous allez avoir vraiment tout un tas de choses ici. Et ce qu'il y
+29:06
+a de bien avec Cloud Design, bah c'est que vous allez pouvoir aussi mettre en page les documents que vous allez soit
+29:11
+créer à la mano ou que vous allez pouvoir créer avec Cloud Chat. Je vous montre un petit peu le potentiel de
+29:16
+cette possibilité. Juste ici, j'ai fait créer par LIA un guide de 15 pages qui
+29:22
+explique comment bien débuter aux échecs. Donc là, vous le voyez, le guide, il est ultra complet. Par contre,
+29:28
+en terme de mise en page, on va pas se mentir, je vais pas le vendre. Je vais même pas l'utiliser pour générer des
+29:33
+contacts sur un site internet. personne ne veut lire ce genre de document. Et bien, en utilisant Cloud Design, j'ai
+29:39
+créé un design système spécifique au monde des échecs avec une marque euh d'échec juste ici, Coachess. Et donc
+29:46
+regardez la mise en page du document qui est juste ici. Là clairement, j'ai envie de lire et là j'ai juste à télécharger,
+29:52
+aller dans export et je peux télécharger le document en PDF. Et ça oui, je vais pouvoir l'utiliser de manière efficace.
+29:58
+Ça m'a pris combien de temps ? Quelques secondes à peine avec un prompte basique parce que mon design système est bien paramétré. Donc voilà, Cloud Design,
+30:05
+vous allez pouvoir l'utiliser pour tout ça et comme je le disais précédemment, ce qu'il y a de bien avec Cloud design,
+Synchroniser Claude Design et Claude Code
+30:10
+c'est que vous allez avoir une passerelle avec clude code puisque cloud design, comme son nom l'indique, il ne
+30:16
+fait que montrer, il ne fait que les design. Donc pour une présentation slide, pas de problème. Pour un
+30:21
+document, pas de problème. Pour un visuel réseaux sociaux, vous avez compris, pas de problème. Par contre, pour un site internet ou pour une
+30:27
+application, bah vous allez avoir le design mais vous n'aurez pas le code. Et donc, comme je le disais précédemment, en cliquant sur share, vous allez aller
+30:33
+dans Sent, vous allez cliquer sur Cloud Code et vous allez demander tout simplement à Cloud Code de créer l'application, l'outil ou le site
+30:40
+internet pour vous et il le fera sans que vous n'ayez à intervenir. Et puisqu'on parle de Cloud Code, et bien
+30:46
+on va aborder maintenant les deux autres fonctionnalités de l'écosystème. On va parler de Cloud Code et on enchaînera
+30:52
+avec Cloud Cowork. Et pour utiliser ces deux fonctionnalités avancées, ce que je
+30:58
+vous recommande de faire si vous débutez avec l'écosystème Cloud, c'est de pas vous prendre la tête. vous allez télécharger une application,
+L'application Claude IA
+31:04
+l'application Cloud pour votre ordinateur. Et dans votre application Cloud et bien vous arriverez sur l'écran
+31:10
+qui est juste ici et vous allez pouvoir exploiter toutes les fonctionnalités de Cloud directement sur votre ordinateur.
+31:17
+Vous allez pouvoir utiliser Cloud Chat. Très honnêtement, pour moi, il y a pas d'intérêt. Clcha, je vais toujours l'utiliser dans le navigateur. Pourquoi
+31:22
+? Ne serait-ce que pour scinder les utilisations et pas me perdre dans mes habitudes et dans mes process. Donc le
+31:28
+chat, je vais très rarement l'utiliser dans l'application. J'irai dans le navigateur vraiment pour structurer, baliser les choses. Et dans cette
+31:35
+application, vous allez pouvoir utiliser Cloud Cowork qu'on verra un petit peu après. Et on va s'intéresser maintenant
+31:40
+à Cloud Code juste ici. Et Cloud Code, bah vous allez le voir, c'est très très simple. Il va vous permettre tout
+Débuter sur Claude Code
+31:46
+simplement de créer [grognement] des outils, des applications, des
+31:51
+tableaux de bord dynamiques et des sites internet sans que vous n'ayez à coder. Donc vous allez cliquer sur nouvelle
+31:56
+session juste ici en bas de l'écran. Vous allez décrire ce que vous souhaitez avoir et à partir de là l'intelligence
+32:02
+artificielle va s'exécuter. Le mieux c'est que je vous montre quelques exemples. Par exemple ici, j'ai demandé
+32:07
+à Opus de me créer un diagnostic IA Express, un outil que je pourrais mettre en ligne sur mon site internet pour
+32:13
+générer des prospects potentiels pour mes activités de formation. Je vais cliquer dessus pour vous montrer à quoi
+32:19
+ça ressemble. Et donc ici, j'ai un outil que je pourrais publier. On clique sur commencer le diagnostic, on répond à
+32:24
+quelques questions et on obtient des préconisations pour implémenter l'intelligence artificielle de manière simple dans son quotidien. Donc ça c'est
+32:31
+le genre de chose que vous allez pouvoir faire. Vous pouvez créer des jeux, c'est pas ce que je vais vous montrer. On est dans le cadre d'une utilisation
+32:37
+professionnelle, même si on pourrait voir le potentiel de l'intelligence artificielle. Ensuite, comme vous le voyez à l'écran, vous pouvez même créer
+32:43
+des sites internet ou des pages de vente. D'ailleurs, la page pour ma formation Claudia que je vous ai présenté précédemment, je l'ai créé avec
+32:51
+Claude Code. Donc vous la reconnaissez he sans doute juste ici. Ça c'est des choses que vous pouvez faire. Vous pouvez aussi, comme je le disais
+32:56
+précédemment, vous créer des outils qui vont vous permettre de gagner du temps dans votre quotidien. Un outil très
+33:02
+simple qui va sans doute vous servir, c'est la possibilité de créer des tableaux de bord dynamiques pour suivre vos performances marketing commercial
+33:08
+par exemple. Et regardez ce que j'obtiens juste ici. J'obtiens un tableau de bord complet pour suivre
+33:13
+toutes les performances commerciales d'une activité. Donc ça c'est plutôt sympa et je l'ai fait en quelques
+33:19
+secondes, à peine quelques minutes avec l'intelligence artificielle cloud. Donc voilà ce que vous pouvez faire avec
+33:25
+Cloud Code. Donc la manière elle est très facile. Vous avez un champ personnalisé ici qui va vous permettre
+33:30
+de créer notamment des skills. Je vais vous en reparler juste après puisque c'est la même mécanique sur Cloud
+33:36
+Cowork. Donc on en parlera à ce moment précis. Vous allez aussi pouvoir connecter des outils à votre cloud code
+33:42
+pour qu'il puisse intervenir directement dans vos outils là séparé. C'est la même chose dans Cloud Cork. Donc on aura
+33:47
+l'occasion d'en reparler et vous allez aussi pouvoir créer ou ajouter des plugins juste ici pour améliorer les
+33:55
+performances et les spécificités de Cloud Code en fonction des tâches que vous avez à mener. Donc Cloud Code,
+34:00
+rappelez-vous, c'est l'outil à utiliser pour construire dans l'écosystème cloud.
+Débuter sur Claude Cowork
+34:05
+Et donc maintenant ce qu'on va faire, c'est qu'on va aller dans Cloud Cowork. Pour moi, c'est l'outil révélation de
+34:10
+ces derniers mois dans le monde de l'intelligence artificielle. Moi, clairement, je ne peux plus m'en passer. J'ai une utilisation très simple de
+34:17
+Cloud Cowork mais elle me fait gagner un temps de malade chaque semaine. Et donc le mieux c'est que je vous présente
+34:23
+justement la manière simple d'exploiter Cloud Cowork parce que je pense que vous allez pouvoir le répliquer juste après
+34:30
+cette vidéo. Donc comme on l'a vu en tout début de tutoriel, Cloud Cowork c'est vraiment l'outil à utiliser pour
+34:36
+exécuter des tâches et même pour les automatiser. Comment je travaille avec Cloud Cowork ? C'est très très simple.
+34:43
+On est sur une interface ici qui ressemble à Cloud chat ou à cloud code ou même à cloud design qu'on a vu précédemment. Le fonctionnement, ça sera
+34:49
+toujours le même. Vous allez demander ce dont vous avez besoin à l'intelligence artificielle. Juste ici, vous allez
+34:55
+pouvoir choisir la bonne intelligence artificielle en fonction de ce que vous avez à faire. La petite différence avec
+35:00
+Cloud Cowork, c'est que vous allez travailler dans des projets directement sur votre ordinateur puisque Claude
+35:05
+Cowork va pouvoir vous créer des documents et vous les enregistrer. Il va pouvoir créer vraiment tout un tas de
+35:10
+choses et tout enregistrer sur votre ordinateur. Il va même pouvoir aller, si vous lui demandez et que vous lui donnez
+35:16
+l'autorisation, aller dans des fichiers pour les modifier, les nettoyer, les optimiser à votre place. Donc la
+35:23
+puissance, elle est vraiment très importante juste ici. Et donc comment je l'utilise ? Et bien généralement, je
+Bien utiliser les Skills Claude
+35:29
+vais même pas me servir de la partie prompte. En fait, je vais pas rédiger des promptes selon la méthode posée telle que je vous ai présenté
+35:35
+précédemment alors que poser, je vais l'utiliser dans Cloud Design ou Cloud Code. Par contre, ici, je vais beaucoup
+35:41
+utiliser les skills dont je parlais précédemment. Donc vous allez aller dans personnaliser, juste ici vous allez
+35:46
+aller dans compéten et ici vous allez pouvoir ajouter des skills. Donc soit en parcourant les compétences juste ici,
+35:52
+vous allez le voir met à votre disposition tout un tas de skills ici que vous allez pouvoir réutiliser,
+35:58
+notamment le skill creator. Vous allez voir ça à son importance juste après. Il est installé par défaut sur votre cloud,
+36:04
+donc vous allez pouvoir l'utiliser. Et donc soit vous téléchargez des skills justement ici, mais vous allez voir
+36:09
+c'est très limité. L'intérêt de l'écosystème Cloud, c'est que vous pouvez directement créer vos propres
+36:14
+compétences juste ici. Donc vous allez cliquer sur créer une compétence, soit vous allez demander à Claude de la créer pour vous. Et c'est là que le skill
+36:21
+créateur qu'on a vu précédemment va jouer son jeu puisque vous allez l'activer, vous allez faire comme ça. Vous allez lui dire skill creator ici et
+36:28
+vous allez lui dire créez-moi une skill pour réaliser la tâche X de la manière
+36:34
+Y. et du coup il va s'exécuter. Donc vous pouvez faire de cette manière ou alors vous allez pouvoir créer
+36:39
+directement votre skill à la mano en la rédigeant vous-même. Je vous explique tout dans ma formation cloud IA. Quoi
+36:46
+qu'il en soit, ici je vais plutôt vous montrer ce que vous pouvez faire sous forme de skill et comment moi je l'utilise. Je pense que ça va vous
+36:52
+donner pas mal d'idées pour bien débuter avec Cloud Cowork. Et donc je vais vous
+36:58
+montrer par exemple un process systématique que je vais répéter chaque semaine ici. Brief tuto astucia. En
+37:04
+fait, j'ai créé une skill pour que Claude puisse me créer un script de vidéo YouTube sur une astuce
+37:10
+intelligence artificielle pour que j'en fasse une vidéo tous les mercredis. Donc là, il a tout mon programme, il a tout
+37:16
+mon process, il a toutes mes attentes. Évidemment, j'ai tout spécifié de la manière la plus précise possible. Et
+37:21
+maintenant que j'ai créé cette skill, et bien à chaque fois que j'auraiis besoin d'un script de vidéo, je vais taper brief. Je vais sélectionner la skill.
+37:28
+J'ai juste à cliquer sur entrée et il va s'exécuter. Je peux préciser le sujet par exemple si je l'ai en tête mais si je l'ai même pas, c'est lui qui va
+37:34
+trouver le sujet à ma place. Donc là, évidemment, plutôt que de rédiger un prompt, je vais gagner pas mal de temps.
+37:39
+Je vous montre un autre exemple en ce qui concerne mes skills. J'ai une skill qui s'appelle Conta Ludo et en gros, à
+37:46
+chaque fois que je vais la lancer et bien Claude va récupérer toutes les données comptables, les pièces
+37:51
+comptables du mois en cours sur mon ordinateur, va les centraliser, va les mettre en ordre, les renommer et
+37:58
+l'envoyer directement à mon comptable. Donc ça c'est bien mais je peux encore gagner plus de temps avec l'autre cowork
+Automatiser avec Claude Cowork
+38:04
+car là mine de rien j'ai besoin d'être derrière mon écran et de taper la skill à la main systématiquement ce que vous
+38:09
+allez pouvoir faire une fois que vous allez avoir vos skills, c'est cliquer sur programmer juste ici et vous allez tout simplement pouvoir planifier des
+38:16
+tâches que Claude va mener pour vous à des fréquences que vous aurez vous-même définies. Vous allez cliquer sur
+38:22
+nouvelle tâche. Vous pouvez toujours créer avec Cloud, c'est très rapide ou configurer manuellement. Forcément, ce
+38:27
+sera beaucoup plus précis. Et par exemple ici, si je lui dis comptat du mois, par exemple, c'est le nom que je vais donner à la tâche planifiée. Ici,
+38:34
+je vais lui dire exécute mas skill contaludo pour travailler mes pièces comptables tous les mardis. Comme ça, je
+38:39
+vais éviter de prendre du retard. Je vais aller dans fréquence juste ici. Je vais choisir hebdomadaire et je vais lui
+38:45
+dire que ça va être le mardi et je peux faire par exemple ça à 9h du matin. Petit point spécifique, si vous
+38:51
+travaillez, vous demandez à Claude de faire des choses concrètes sur votre ordinateur, vous allez avoir besoin naturellement que votre ordinateur soit
+38:57
+allumé et que Cloud Cowork soit allumé pour exécuter la tâche. Sinon, il faudra attendre que vous vous connectiez et la
+39:04
+prochaine échéance pour qu'il la réalise. Et une fois que vous avez fait ça, vous allez sélectionner le dossier dans lequel l'intelligence artificielle
+39:10
+va travailler. Donc moi, j'ai un dossier compta que je pourrais sélectionner juste ici. J'enregistre et ça y est, ma
+39:16
+tâche serait planifiée. Je vous mets un autre exemple de tâche juste ici. En gros, ici, j'ai une tâche que j'ai créé
+39:22
+et qui me permet de recevoir chaque jour à 8h30, juste ici, les 10 meilleures
+39:27
+actualités de la veille dans le monde de l'intelligence artificielle. Je reçois un email, c'est réglé. Et pour ça, il va
+39:33
+utiliser des skills que j'ai créé pour bien paramétrer ma revue d'actualité IA et qu'il puisse bien me formater
+39:40
+l'information selon moi, ce que je souhaite en faire. Donc c'est comme ça que j'utilise cork. J'utilise cowork
+39:45
+quand j'ai un process que je fais à la main que je souhaite déléguer à l'intelligence artificielle de manière
+39:51
+durable, répétitive dans le temps. Et donc pour ça, je vais construire quelque chose de solide. Je vais créer ma skill
+39:57
+et je vais l'automatiser avec les tâches planifiées. Donc voilà tout ce que vous pouvez faire avec l'écosystème Cloud.
+Quel abonnement Claude choisir ?
+40:04
+J'ai essayer de vous présenter les choses les plus simplement possibles. Le dernier point que je vais évoquer avec vous, c'est le prix parce qu'il y a pas
+40:10
+mal de questions à ce sujet et il y a pas mal de gens qui sont comme je le disais précédemment un peu frustrés des
+40:16
+quotas d'utilisation. D'ailleurs, je vais revenir sur ce point juste après. Et donc, vous vous doutez bien que plus
+40:21
+vous allez prendre un abonnement cher, plus vous pourrez faire de choses avec Cloud. Mais vous pouvez déjà tester une
+40:27
+partie, voire quasiment tout ce qu'on a vu ensemble avec le cloud gratuit et si ça vous convain vous pourrez passer sur
+40:33
+le Cloud Pro. Généralement, l'abonnement Cloud Pro, si vous avez un usage hebdomadaire dans l'intelligence artificielle, ça va suffire si vous
+40:40
+l'utilisez quelques fois par semaine et cetera pour des tâches spécifiques et que vous utilisez les bonnes techniques
+40:45
+de prompt notamment tout en configurant la bonne intelligence artificielle pour ne pas utiliser une intelligence
+40:51
+artificielle trop performante en fonction de ce que vous avez à faire et bien ce sera largement suffisant et
+40:56
+sinon vous pourrez partir sur un abonnement en cloud max. Donc là ça commence à 100 dollars par mois. Il y a un abonnement à 200 dollars mais là très
+41:03
+honnêtement pour partir exploiter Cloud Cloud Pro ce sera largement suffisant. Et derrière vous avez aussi des
+41:09
+abonnements qui sont des abonnements collaboratifs d'équipe. Donc si vous avez plusieurs collaborateurs, vous avez
+41:14
+Cloud Team, vous avez Cloud Enterprise juste ici. Donc allez voir la page he dans tous les cas des tarifs et vous
+41:20
+pourrez faire votre choix. Et donc comme je vous parlais des quotas d'utilisation, évidemment il y a des
+Bien gérer les Tokens Claude
+41:25
+bonnes pratiques à respecter pour notamment éviter que l'intelligence artificielle travaille sur des tâches
+41:31
+qu'elle n'a pas besoin de réaliser pour combler vos mauvaises pratiques. On en a pas parlé parce que sinon la vidéo
+41:37
+durerait une plombe et dans tous les cas je vous présente tout dans ma formation Cloud IA. Mais les outils de
+41:43
+l'écosystème Cloud ont des spécificités, des caractéristiques, des modes de fonctionnement qu'il faut bien prendre
+41:49
+en compte pour optimiser ces quotas d'utilisation. Si vous ne prenez pas en compte la manière dont travaille
+41:55
+l'intelligence artificielle, et bien vous allez la contraindre parfois à dépenser plus de token que ce qu'il
+42:01
+faudrait pour vous apporter le meilleur résultat possible. Et évidemment ces
+42:06
+astuces, je vous les partage tout au long de ma formation Claudia. Donc, j'ai presque envie de dire que rien que pour
+42:11
+ça, vous pourriez rentabiliser le prix de la formation avec l'économie de quota d'utilisation que vous ferez sur les IA
+42:18
+à cloud. Et donc comme je le disais un peu plus tôt dans ce tutoriel, si vous souhaitez aller plus loin maintenant que
+42:23
+vous avez les bases de l'écosystème Cloud, cette formation va vous permettre vraiment d'exploiter tout le potentiel
+42:30
+de l'intelligence artificielle et vous allez avoir du concret, des cas d'usage, des skills comme je disais précédemment
+42:36
+que vous allez pouvoir installer directement des promptes à copiercoller, tout un tas de choses concrètes pour
+42:43
+mettre en place Cloud dans votre activité de manière durable comme je l'ai souvent dit dans ce tutoriel et de
+42:49
+manière rentable et confortable. Bref, je vous ai mis le lien à la description. Vous n'avez plus que quelques heures pour en profiter à ce prix de lancement
+42:56
+de 149 € au lieu de 590 €. le programme, les bénéfices que vous avez dans la
+43:01
+formation et cetera et cetera et même les avis clients sont disponibles. Donc cliquez sur le lien, réfléchissez mais
+43:07
+pas trop longtemps, cliquez sur rejoindre la formation et je vous envoie tout le contenu de la formation
+43:13
+directement par email dans la foulée. Voilà, c'était Ludo. J'espère que cette vidéo vous aura plu. J'espère qu'elle
+43:18
+vous aura aidé, qu'elle vous permet maintenant d'y voir clair sur l'environnement cloud, sur ses spécificités et sur comment bien
+43:26
+l'utiliser et pourquoi aussi l'utiliser. Si c'est le cas, vous me le dites en commentaire. Si vous avez des questions,
+43:31
+vous pouvez aussi les poser en commentaire. La communauté essaiera de vous répondre et moi, j'essaierai de vous répondre du mieux possible
+43:38
+également. Et puis bah quoi qu'il en soit, je vous retrouve très bientôt pour une nouvelle vidéo dans laquelle je vous partagerai des astuces, des démos, des
+43:44
+actu, des outils, des outils, non, ça va être des outils, bref, tout ce que je peux découvrir et connaître de
+43:50
+l'intelligence artificielle avec toujours le même but, celui de vous donner toutes les clés pour que vous
+43:56
+puissiez profiter des opportunités qu'il y a. génère. C'était Ludo. À très bientôt.
+
+Tout
+
+Source : Ludo Salenne
+
+Intelligence artificielle
+
+Informations
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+22:52
+HARD CORNER ft BOB LENNON - L'autre film Street Fighter !
+benzaieTV
+ et Bob Lennon
+111 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+7:14
+JEUX EN VRAC - PRISONER OF WAR
+Bazar du Grenier
+2,2 M de vues
+•
+il y a 3 ans
+
+
+7:03
+Anthropic Claude Fable 5 Is Coming Back!
+AI Automation Station
+217 vues
+•
+il y a 15 heures
+Nouveau
+
+
+36:21
+J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé
+Eliott Meunier
+11 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:13:05
+L’expert en investissement et crypto : « Il ne nous reste que 6 ans avant que tout change ! »
+The Diary Of A CEO
+ et Raoul Pal The Journey Man
+5,7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 2 mois
+
+
+49:07
+Comment bien utiliser Claude IA : guide complet
+Dr. Firas
+7,9 k vues
+•
+il y a 1 mois
+
+
+10:20
+JEUX EN VRAC - THE HOBBIT
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 3 ans
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+35 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,5 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+238 k vues
+•
+il y a 3 mois
+
+
+30:53
+Les Musiques de Jeux Vidéo - Comment ça fonctionne ?
+Bazar du Grenier
+1,8 M de vues
+•
+il y a 2 ans
+
+
+45:45
+Vincent Lapierre : « Je crains pour ma vie si la France Insoumise arrive au pouvoir »
+Front Populaire
+8 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,6 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+20:44
+RAM, Valve, Rockstar : ça devient INFERNAL
+DiscoverID
+8,8 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+11:24
+JEUX EN VRAC - MINECRAFT
+Bazar du Grenier
+3,8 M de vues
+•
+il y a 3 ans
+
+
+14:49
+JEUX EN VRAC - Parappa The Rapper!
+Bazar du Grenier
+1,1 M de vues
+•
+il y a 1 an
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+1:39:42
+Effondrement mondial : nous entrons dans le vide de pouvoir le plus dangereux de l'histoire
+The Diary Of A CEO
+ et Ian Bremmer
+2,9 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+2:07:16
+Direct n°118 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+12 k vues
+•
+Diffusé il y a 2 heures
+Nouveau
+
+    

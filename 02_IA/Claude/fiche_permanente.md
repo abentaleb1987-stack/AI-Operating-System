@@ -5,7 +5,7 @@
 - Nom : Claude
 - Type : Famille de modeles IA a evaluer pour conversation, code et workflows agentiques
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-01
+- Derniere mise a jour : 2026-07-02
 
 ## 2. Role principal
 
@@ -36,6 +36,7 @@ Elements observes dans la video Parlons IA du 2026-05-29, a confirmer :
 - Sensibilite aux longues sequences de contexte si les sources et objectifs ne sont pas controles.
 - Risque de cout eleve si les workflows longs, appels d'outils ou fonctions avancees sont lances sans garde-fous.
 - Le cout reel en usage agentique doit etre mesure par tache terminee, car retries, corrections et tours supplementaires peuvent annuler un prix nominal attractif.
+- La verbosite, les changements de tokenizer et l'usage d'un modele surdimensionne peuvent augmenter le cout sans ameliorer le livrable.
 
 ## 6. Cas d'usage valides
 
@@ -58,6 +59,15 @@ Workflow agentique prudent :
 5. Journaliser les actions importantes.
 6. Verifier les resultats avant usage operationnel.
 
+Workflow de segmentation d'usage :
+
+1. Utiliser Claude pour clarifier le probleme et produire une decision lorsque la tache est principalement analytique.
+2. Utiliser une interface de production visuelle uniquement lorsque le livrable attendu doit etre directement presentable.
+3. Utiliser une interface de construction technique lorsque le resultat attendu est un outil, une application ou un script.
+4. Transformer les taches recurrentes en procedures ou skills audites.
+5. Selectionner le modele le moins couteux qui satisfait les criteres de qualite.
+6. Reserver les modeles premium aux taches ou le gain marginal est mesure et reproductible.
+
 ## 9. Prompts & methodes
 
 Pour Claude, privilegier des instructions structurees contenant :
@@ -77,6 +87,8 @@ Pour les usages agentiques avec outils :
 - limiter les executions longues sans suivi de workflow ;
 - eviter les roles generiques lorsqu'ils n'apportent pas de contexte operationnel ;
 - utiliser des sections delimitees pour separer contexte, input, instructions, documents et scripts.
+- demander des sorties concises, actionnables et limitees au besoin reel lorsque le cout ou les quotas sont critiques.
+- preciser les dossiers, permissions, effets attendus et criteres de validation avant toute action locale ou tache planifiee.
 
 ## 10. Integration dans mon ecosysteme
 
@@ -87,6 +99,7 @@ Claude est a tester pour :
 - sous-agents specialises ;
 - synthese de sources sous validation ;
 - workflows documentaires ou operationnels avec logs.
+- transformation de taches recurrentes en procedures ou skills audites.
 
 ## 11. Orchestration IA
 
@@ -104,13 +117,18 @@ Points a surveiller :
 - precision et cout des tres longs contextes ;
 - valeur effective des consoles de suivi de workflow pour l'audit.
 - impact des changements de tokenizer, pricing et limites d'usage sur le cout complet d'un workflow agentique.
+- disponibilite officielle, restrictions et cout total des modeles premium cites par des sources non officielles.
+- impact de la verbosite et des instructions de concision sur le cout complet d'une tache AOS.
 
 ## 13. Decisions strategiques
 
 Ne pas traiter une demonstration video comme validation suffisante d'un cas d'usage Claude. Les usages operationnels doivent etre recoupes par documentation officielle, test interne ou retour reproductible.
+
+Ne pas adopter un modele premium pour AOS sans benchmark interne mesurant le gain marginal, le cout total, la robustesse et la reproductibilite par rapport a un modele moins couteux.
 
 ## Historique des mises a jour
 
 - 2026-07-01 - Ajout - Sections 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 - Source YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 5, 9, 12 - Source YouTube Parlons IA Opus 4.8, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 5, 12 - Source YouTube Melvynx Sonnet 5, batch AOS GO partiel
+- 2026-07-02 - Mise a jour - Sections 5, 8, 9, 10, 12, 13 - Sources YouTube Ludo Salenne Claude Sonnet / ecosysteme / Fable, batch AOS GO partiel
