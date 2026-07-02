@@ -1,0 +1,37 @@
+name: ChatGPT Project Sources Audit
+
+on:
+  push:
+    paths:
+      - "02_IA/**"
+      - "99_ChatGPT_Project_Sources/**"
+      - "00_System/scripts/build_chatgpt_project_sources.py"
+      - "00_System/scripts/audit_chatgpt_project_sources.py"
+      - ".github/workflows/chatgpt-project-sources-audit.yml"
+  pull_request:
+    paths:
+      - "02_IA/**"
+      - "99_ChatGPT_Project_Sources/**"
+      - "00_System/scripts/build_chatgpt_project_sources.py"
+      - "00_System/scripts/audit_chatgpt_project_sources.py"
+      - ".github/workflows/chatgpt-project-sources-audit.yml"
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate Project Sources
+        run: python 00_System/scripts/build_chatgpt_project_sources.py
+
+      - name: Audit Project Sources
+        run: python 00_System/scripts/audit_chatgpt_project_sources.py
