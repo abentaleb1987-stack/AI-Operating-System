@@ -33,6 +33,40 @@ Aion audite periodiquement le repository GitHub afin de controler :
 - les informations marketing integrees par erreur ;
 - l'efficacite du protocole Codex.
 
+## Raccourci GO RAPPORT
+
+`GO RAPPORT` est un raccourci conversationnel Codex distinct de `GO AOS`.
+
+Il sert uniquement a lire le dernier rapport d'audit journalier AOS deja present dans :
+
+```text
+00_System/audits/daily/
+```
+
+Comportement obligatoire :
+
+1. Executer `git pull origin main`.
+2. Identifier le dernier rapport Markdown dans `00_System/audits/daily/`.
+3. Lire le dernier rapport d'audit journalier.
+4. Resumer la decision d'audit, le niveau de risque maximal, le commit audite, les alertes prioritaires Aion, les alertes totales, les recommandations et l'action attendue.
+5. Executer `git status --short` final.
+
+Contraintes :
+
+- lecture seule stricte apres `git pull origin main` ;
+- aucun fichier modifie ;
+- aucun commit ;
+- aucun push ;
+- aucune source traitee ;
+- aucune fiche permanente modifiee ;
+- aucune fiche de veille modifiee ;
+- aucun nouveau rapport genere.
+
+Conclusion obligatoire :
+
+- Si le rapport indique `GO`, Codex conclut : `Aucune action Aion requise.`
+- Si le rapport indique `GO partiel`, `Audit Aion recommande`, un risque moyen ou un risque eleve, Codex conclut : `Partager ce rapport avec Aion pour arbitrage.`
+
 ## Workflow obligatoire
 
 Le processus obligatoire est :

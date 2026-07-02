@@ -32,6 +32,53 @@ Ne demande pas d'intervention intermediaire sauf blocage critique.
 Termine par le rapport final complet.
 ```
 
+## Raccourci conversationnel GO RAPPORT
+
+Commande utilisateur :
+
+```text
+GO RAPPORT
+```
+
+Variantes acceptees :
+
+- `GO RAPPORT`
+- `Go rapport`
+- `go rapport`
+
+Quand l'utilisateur ecrit `GO RAPPORT`, Codex doit lire le dernier rapport d'audit journalier AOS en mode lecture seule stricte.
+
+Workflow obligatoire :
+
+1. Executer `git pull origin main`.
+2. Identifier le dernier rapport Markdown dans `00_System/audits/daily/`.
+3. Lire le dernier rapport d'audit journalier.
+4. Resumer :
+   - decision d'audit ;
+   - niveau de risque maximal ;
+   - commit audite ;
+   - alertes prioritaires Aion ;
+   - alertes totales ;
+   - recommandations ;
+   - action attendue.
+5. Executer `git status --short` final.
+
+Contraintes obligatoires :
+
+- Ne modifier aucun fichier.
+- Ne creer aucun commit.
+- Ne faire aucun push.
+- Ne traiter aucune source.
+- Ne modifier aucune fiche permanente.
+- Ne modifier aucune fiche de veille.
+- Ne generer aucun nouveau rapport.
+- Appliquer une lecture seule stricte apres `git pull origin main`.
+
+Regle de conclusion :
+
+- Si le rapport indique `GO`, conclure exactement : `Aucune action Aion requise.`
+- Si le rapport indique `GO partiel`, `Audit Aion recommande`, un risque moyen ou un risque eleve, conclure exactement : `Partager ce rapport avec Aion pour arbitrage.`
+
 ## Regles pour Codex
 
 - Executer jusqu'au push GitHub si le traitement produit des modifications utiles.
