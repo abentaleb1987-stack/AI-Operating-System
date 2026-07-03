@@ -48,6 +48,12 @@ Variantes acceptees :
 
 Quand l'utilisateur ecrit `GO RAPPORT`, Codex doit lire le dernier rapport d'audit journalier AOS en mode lecture seule stricte.
 
+Regle centrale :
+
+- `GO RAPPORT` est une commande de lecture seule stricte.
+- Toute generation de rapport est interdite dans `GO RAPPORT`.
+- `GO RAPPORT` ne doit jamais executer `00_System/scripts/aos_daily_audit.py`.
+
 Workflow obligatoire :
 
 1. Executer `git pull origin main`.
@@ -72,12 +78,38 @@ Contraintes obligatoires :
 - Ne modifier aucune fiche permanente.
 - Ne modifier aucune fiche de veille.
 - Ne generer aucun nouveau rapport.
+- Ne jamais executer `00_System/scripts/aos_daily_audit.py`.
 - Appliquer une lecture seule stricte apres `git pull origin main`.
 
 Regle de conclusion :
 
 - Si le rapport indique `GO`, conclure exactement : `Aucune action Aion requise.`
 - Si le rapport indique `GO partiel`, `Audit Aion recommande`, un risque moyen ou un risque eleve, conclure exactement : `Partager ce rapport avec Aion pour arbitrage.`
+
+## Raccourci conversationnel GO AUDIT LOCAL
+
+Commande utilisateur :
+
+```text
+GO AUDIT LOCAL
+```
+
+Quand l'utilisateur ecrit explicitement `GO AUDIT LOCAL`, Codex peut generer manuellement un rapport d'audit local.
+
+Workflow autorise :
+
+1. Executer `00_System/scripts/aos_daily_audit.py --print-path`.
+2. Lire le rapport genere.
+3. Resumer son contenu.
+4. Executer `git status --short` final.
+
+Contraintes :
+
+- Cette commande est distincte de `GO RAPPORT`.
+- La generation locale de rapport est autorisee uniquement avec `GO AUDIT LOCAL`.
+- Ne pas creer de commit sauf demande explicite separee.
+- Ne pas faire de push sauf demande explicite separee.
+- Ne traiter aucune source.
 
 ## Regles pour Codex
 

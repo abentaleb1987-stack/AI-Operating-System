@@ -43,6 +43,12 @@ Il sert uniquement a lire le dernier rapport d'audit journalier AOS deja present
 00_System/audits/daily/
 ```
 
+Regle centrale :
+
+- `GO RAPPORT` est une commande de lecture seule stricte.
+- Toute generation de rapport est interdite dans `GO RAPPORT`.
+- `GO RAPPORT` ne doit jamais executer `00_System/scripts/aos_daily_audit.py`.
+
 Comportement obligatoire :
 
 1. Executer `git pull origin main`.
@@ -61,11 +67,34 @@ Contraintes :
 - aucune fiche permanente modifiee ;
 - aucune fiche de veille modifiee ;
 - aucun nouveau rapport genere.
+- aucune execution de `00_System/scripts/aos_daily_audit.py`.
 
 Conclusion obligatoire :
 
 - Si le rapport indique `GO`, Codex conclut : `Aucune action Aion requise.`
 - Si le rapport indique `GO partiel`, `Audit Aion recommande`, un risque moyen ou un risque eleve, Codex conclut : `Partager ce rapport avec Aion pour arbitrage.`
+
+## Raccourci GO AUDIT LOCAL
+
+`GO AUDIT LOCAL` est un raccourci conversationnel Codex distinct de `GO RAPPORT`.
+
+Il sert uniquement a generer manuellement un rapport d'audit local lorsque l'utilisateur le demande explicitement.
+
+Comportement autorise :
+
+1. Executer `00_System/scripts/aos_daily_audit.py --print-path`.
+2. Lire le rapport genere.
+3. Resumer la decision d'audit, le niveau de risque maximal, le commit audite, les alertes prioritaires Aion, les alertes totales, les recommandations et l'action attendue.
+4. Executer `git status --short` final.
+
+Contraintes :
+
+- la generation locale de rapport est autorisee uniquement avec `GO AUDIT LOCAL` ;
+- aucun commit sauf demande explicite separee ;
+- aucun push sauf demande explicite separee ;
+- aucune source traitee ;
+- aucune fiche permanente modifiee ;
+- aucune fiche de veille modifiee.
 
 ## Workflow obligatoire
 
