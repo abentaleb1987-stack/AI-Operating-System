@@ -1,0 +1,1732 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Comment exécuter Hermes GRATUITEMENT (sans jetons API)
+Dr. Firas
+Dr. Firas
+38,2 k abonnés
+
+Rejoindre
+
+
+54
+
+
+Partager
+
+Posez une question
+
+1 398 vues  2 juil. 2026  #HermesAgent
+Ressources que j’utilise (liens affiliés — merci pour votre soutien ! 🙌)
+🔗 Hermes WebUI (coupon : GOHERMES) : https://www.hostg.xyz/SHJTs
+🔗 Documentation : https://n8n.dr-firas.vip
+🔗 Accès à mes 34 formations (coupon : YT20) : https://dr-firas.vip
+
+Dans cette vidéo, je vous montre comment utiliser Hermes sans API grâce à une méthode 100% gratuite basée sur Ollama et des modèles LLM comme Kimi 2.7. Si vous voulez lancer Hermes WebUI sur un VPS, tester des modèles IA sans clé API, éviter les tokens payants et créer votre propre environnement IA, ce tutoriel est fait pour vous.
+
+Nous allons voir étape par étape comment installer Hermes WebUI sur un VPS, configurer Ollama, connecter des modèles LLM cloud et tester Kimi 2.7 directement dans Hermes. L’objectif est simple : utiliser Hermes gratuitement, sans abonnement API, sans token Claude ou OpenAI, et avec une configuration pratique pour vos projets IA.
+
+⏱ SOMMAIRE :
+00:00 - Introduction : Installer Hermes avec Ollama et Kimi 2.7
+03:20 - Installer Hermes WebUI sur un VPS étape par étape
+05:54 - Utiliser Ollama avec des modèles LLM cloud
+09:01 - Installer Ollama sur un VPS pour lancer vos modèles IA
+15:20 - Tester Kimi 2.7 directement dans Hermes
+23:15 - Mon cadeau pour accéder à toutes mes formations
+
+#HermesAgent
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Dr. Firas
+38,2 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+Hermes WebUI Docker VPS
+Hermes WebUI Docker VPS
+Interface de chat IA
+14 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@marcorabe7954
+il y a 23 heures
+Beaucoup de détails sur cette vidéo, très bien structuré ! Bravo
+Dis moi, sur Ollama j'ai vu qu'avec l'abonnement Pro on peut "Run 3 cloud models at a time"
+Est ce que sur ces trois models là, avons nous le choix ? ou est ce que tu as la liste de ces trois models qu'on peut faire tourner en même temps ? 
+Genre par exemple GLM 5.2 tu peux l'utiliser avec cette version pro ?
+
+
+
+Répondre
+
+
+@Doud341
+il y a 23 heures
+Et en plus de 20euros au lieu de 0euro c'est pas illimité car il y a des limite par jour reset toutes les 3 heures et une limite sur la semaine reset le lundi
+A moins que de passer par l'installation de Ollama en local contourne ces limitations mais il faudrait le préciser et le démontrer car pour moi passer par l'API cloud Ollama ou par une install en local décompte la consomation de token de la même façon
+
+1
+
+
+Répondre
+
+
+4 réponses
+
+@anisse9
+il y a 1 jour
+C est pas 0euros.. Ollama pro c est 20e par mois..
+
+
+
+Répondre
+
+
+2 réponses
+
+@MrGericozz
+il y a 7 heures
+Encore la même vidéo de Hermes soit disant gratuit qui enfait demande de payer ...
+
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Introduction : Installer Hermes avec Ollama et Kimi 2.7
+0:00
+Bonjour à tous. Alors dans cette vidéo
+0:02
+là, je vais vous montrer comment
+0:04
+travailler avec Herms avec un modèle un
+0:06
+LLM puissant sans que je réappille en
+0:09
+fait les tokens. Et ça c'est vraiment ce
+0:12
+qu'on a besoin parce queà un certain
+0:13
+moment lorsqu'on utilise beaucoup Hermes
+0:15
+et on crée des agents, on va se trouver
+0:17
+que on paye [raclement de gorge]
+0:18
+énormément les modèles d'intelligence
+0:20
+artificielle. Alors je vous montre étape
+0:22
+par étape comment faire. Aujourd'hui
+0:24
+Hermes agent bien sûr il a dépassé les
+0:26
+200000 donc étoiles sur GitHub. C'est
+0:29
+énorme. Il a lancé aussi donc sa
+0:31
+nouvelle version donc avec plein plein
+0:33
+en fait de fonctionnalités
+0:34
+intéressantes. Mais ce qui est très
+0:36
+important aujourd'hui dès qu'on installe
+0:38
+Hermes, vous allez voir là lorsque je
+0:39
+passe dans la partie de provider et bien
+0:42
+sûr là j'utilise le Hermes avec
+0:44
+l'interface web que je vais vous montrer
+0:46
+comment l'installer aussi. Là dans le
+0:48
+système je vois qu'il me propose fait le
+0:51
+Holama. Donc ce système- làà qui va me
+0:53
+donner en fait des modèles qui sont très
+0:56
+puissantes et surtout que je peux
+0:58
+l'utiliser d'une manière illimité. C'est
+1:00
+pas comme Cloud qui je suis limité à au
+1:03
+token et aussi à mon abonnement. Alors
+1:06
+l'idée c'est simple. Ici, dans cette
+1:08
+vidéà, je vais vous montrer en fait
+1:09
+comment passer du modèle donc cloud ou
+1:12
+bien d'utiliser le LLM Cloud qui coûte
+1:15
+vers un modèle qui à main celui-là qui
+1:17
+va me proposer plusieurs modèles
+1:19
+d'intelligence artificielle d'une
+1:21
+manière illimitée. Alors, c'est simple.
+1:24
+L'objectif c'est d'avoir en fait ce
+1:25
+genre d'installation là, de d'installer
+1:27
+par exemple le le Kimy qui vient d'être
+1:29
+envoyé par Olama. Et c'est vraiment un
+1:32
+système qui vient de tout simplement
+1:35
+d'ouvrir énormément de portes avec
+1:37
+Hermes et qui me permet d'exploiter
+1:39
+Hermes d'une manière très optimale, très
+1:42
+rapide et Hermes va devenir encore plus
+1:45
+puissant et surtout j'ai pas appuyé en
+1:47
+fait les tokens de consommation. Alors
+1:49
+l'idée c'est simple, je vais éviter en
+1:51
+fait voilà de faire des paiements sur
+1:53
+donc cloud console donc j'aurais pas
+1:55
+donc à utiliser les tokens et avec haut
+1:57
+lama. Vous allez voir lorsque je clique
+1:59
+ici pour voir les modèles, je trouve
+2:01
+qu'il y a plusieurs modèles à tester qui
+2:03
+sont ultra puissants. Pour moi, mon
+2:05
+préféré c'est celui-là qui vient d'être
+2:07
+lancé il y a 2 semaines. Donc ça c'est
+2:09
+un modèle qui s'appelle donc Kimi 2.7.
+2:13
+Euh lorsque je regarde ce modèle-là, il
+2:15
+est très bien adapté à être fonctionnel
+2:17
+sur Hermes et surtout attention, il ont
+2:19
+fait le benchmark, ils l'ont comparer
+2:21
+euh avec donc le GPT5 et euh Cloud Opus
+2:25
+4.8 et il a montré que vraiment il est
+2:28
+de niveau, il est très très proche de
+2:30
+résultat et surtout que je peux utiliser
+2:32
+d'une manière illimitée. Alors c'est
+2:34
+parti, on installera le Hermes agent
+2:36
+attention version web. Donc c'est
+2:38
+l'inversion avec l'interface et euh bien
+2:41
+évidemment on installera aussi
+2:43
+gratuitement ici Olama.
+2:45
+On va le mettre sur le même serveur de
+2:48
+Hermes pour qu'il puisse tout simplement
+2:50
+être connecté comme vous le voyez là
+2:51
+ici. Donc je le connecte automatiquement
+2:53
+à mon Hermes et ça va me donner le Kimi
+2:56
+et je vais vous donner bien évidemment
+2:58
+gratuitement toute ma documentation
+3:01
+détaillé de à Z avec tous les printes,
+3:04
+tous les codes que je vais mettre dans
+3:06
+cette formation là gratuitement. Vous
+3:08
+allez la trouver dans la description le
+3:09
+lien vers cette documentation. Merci et
+3:12
+on se dit à tout de suite. On commence à
+3:14
+lancer Hermes et on fait une bonne
+3:16
+installation avec un LLM optimal sans
+Installer Hermes WebUI sur un VPS étape par étape
+3:20
+limite. Très bien. Donc là, je vais vous
+3:22
+montrer comment installer Hermes
+3:24
+interface. Attention, il fallait être
+3:26
+sur cette page là, là où c'est écrit
+3:27
+Hermes web UI et aussi le logo de Hermes
+3:31
+ici. Un conseil que je vous donne, il
+3:33
+faut jamais installer Hermes sur votre
+3:35
+machine locale. Pourquoi ? Parce que
+3:37
+Remes en fait c'est un agent très
+3:38
+intelligent et aussi très dangereux
+3:40
+parce qu'il peut avoir accès à vos
+3:41
+photos, vos vidéos et même à vos mot de
+3:43
+passe. Donc si jamais il y a une attaque
+3:45
+qu'on appelle le prjection, ce qui va
+3:48
+arriver, il peut partager ces données là
+3:50
+avec d'autres personnes. Donc on
+3:52
+l'installe jamais sur un ordinateur, on
+3:54
+le met tout simplement sur un VPS
+3:56
+externe. Ici donc je vous montre donc je
+3:59
+peux prendre un serveur sur Hostinger.
+4:01
+Donc aujourd'hui, c'est le moins cher du
+4:03
+marché et surtout qui me donne donc 30
+4:05
+jours donc de test pour être satisfait
+4:08
+ou remboursé. Donc moi je recommande
+4:10
+Hostingle. Ce jeu descend ici un petit
+4:12
+peu. Donc il y a plusieurs packs. Alors
+4:14
+celui que je prends moi généralement
+4:16
+c'est ce pack là le KVM M2. Il me donne
+4:19
+deux processeurs avec 8 Go de RAM. Je
+4:22
+pense que c'est largement suffisant pour
+4:24
+bien faire tourner Hermes et que Hermes
+4:27
+peut faire la production en arrière-plan
+4:29
+24/ 24 sans avoir des difficultés dans
+4:32
+les ressources. Alors, je clique ici, je
+4:34
+prends tout simplement donc Hermes.
+4:36
+Donc, il me donne à cette interface là
+4:38
+pour passer la commande. Et là, je vous
+4:40
+donne un petite astuce très simple. Il y
+4:42
+a un coupon tout simplement qui
+4:43
+s'appelle Go Hermes donc qui a été mis
+4:45
+sur le blog officiel de Rustingle. Donc
+4:48
+je mets goesses comme ça. Go Hermes. Et
+4:52
+celui-là, il va me donner en fait une
+4:53
+réduction de 10 %. Mais avant de cliquer
+4:56
+sur appliquer, pensez à se désactiver de
+4:59
+votre compte sur hostingle. Parce que si
+5:01
+tu as un compte sur Hostingle, il va pas
+5:03
+vous faire activer ce coupon là.
+5:05
+Pourquoi ? Parce que c'est un coupon
+5:06
+fait uniquement pour les premières
+5:08
+personnes en fait qui s'inscrivent ou
+5:11
+bien qui achètent un serveur chez
+5:12
+Hostinger. Bon, c'est un astuce que je
+5:14
+partage entre nous. Vous allez vous
+5:16
+déconnecter ici. Une fois déconnecter,
+5:18
+si vous cliquez maintenant sur
+5:19
+appliquer, vous allez voir qu'il va
+5:20
+prendre ça en considération. Et verdict,
+5:24
+on a donc notre réduction. Alors sinon,
+5:27
+on aura pas besoin en fait de prendre
+5:29
+d'autres options. Celui-là, il est
+5:31
+suffisant. Je peux à la limite prendre
+5:33
+un serveur en France. Voilà, j'ai choisi
+5:34
+en fait P France. Et par la suite, je
+5:38
+vais laisser 24 mois parce que 24 mois,
+5:40
+c'est le moins cher, hein. Donc si je
+5:42
+veux prendre ce serveurlà, n'oublie pas
+5:44
+qu'on a toujours donc 30 jours
+5:46
+satisfaits ou remboursés. Maintenant, je
+5:48
+clique sur continuer pour confirmer donc
+5:50
+cette commande là et je vous montre tout
+5:52
+de suite l'interface de Hermes. Donc, ça
+Utiliser Ollama avec des modèles LLM cloud
+5:55
+c'est le site. D'ailleurs, je peux
+5:57
+accéder à site Olama et même créer un
+5:59
+compte gratuit. Il y a quelques modèles
+6:01
+en fait que je peux les installer
+6:02
+gratuitement mais moi je le conseille
+6:04
+pas parce que ils sont très très
+6:05
+gourmands côté ressources. Ça veut dire
+6:07
+ils demanderont des machines ultra ultra
+6:10
+puissantes qui coûteront trop cher. Donc
+6:12
+c'est pas intéressant. Ce qui est
+6:13
+intéressant en fait sur Olama, vous
+6:15
+allez voir lorsque je fais un compte
+6:16
+juste à 20 dollars par mois, il va me
+6:19
+permettre à accéder à plusieurs modèles.
+6:21
+Vous allez voir qu'il y a pas mal de
+6:23
+modèles avec la notion cloud. Ça veut
+6:25
+dire ce sont des modèles qui sont
+6:26
+exécutés chez eux dans leur serveur à
+6:28
+eux mais il me donnent en fait un
+6:29
+rendement très intéressant et quelque
+6:31
+part on est en illimité. Si je prends
+6:33
+celui-là, le Kimi en fait K 2.7 qui est
+6:37
+récent hein, ça fait que de semaines
+6:38
+qu'il vient d'être lancé. Voilà donc il
+6:40
+y a de de de de de week en fait 2
+6:43
+semaines qui a été lancé et déjà 42000
+6:46
+personnes qui ont téléchargé ou bien
+6:47
+installé qui est très intéressant. Alors
+6:49
+celui-là, il est très très proche de
+6:51
+Cloud, surtout il est bien installé avec
+6:53
+Hermes, il fonctionne très bien. Et si
+6:54
+je vois le benchmark, vous allez voir
+6:57
+que cette nouvelle en fait version qui
+6:59
+celle-là en fait, elle est très proche
+7:01
+dans les statistiques de Cloud Opus 4.3.
+7:05
+Euh donc euh et surtout moi je la
+7:07
+préfère hein vu que quelque part parfois
+7:09
+hein, elle peut même dépasser en fait
+7:11
+Cloud et pour moi je trouve qu'elle est
+7:13
+intéressante parce que voilà quelque
+7:15
+part elle est illimitée donc je peux
+7:17
+l'utiliser quand je veux juste il faut
+7:19
+avoir donc l'abonnement donc pro avec
+7:21
+donc au lama et moi je la recommande
+7:24
+bien évidemment il y a quelques
+7:25
+opérations techniques he qu'on aura
+7:27
+besoin donc l'appliquer pour pouvoir
+7:28
+bien sûr réussir à appliquer donc ce
+7:32
+système là donc si je reviens ici petite
+7:34
+recap avant de lancer les installations.
+7:37
+Allez, première étape, je mets Cloud ou
+7:39
+bien openi avec une simple API ici et
+7:42
+commencer à travailler tout de suite. Il
+7:44
+n'y a pas de paramétrage à faire.
+7:46
+Deuxième méthode, c'est que je mettrai
+7:48
+entre picci en fait je lancerai en fait
+7:52
+donc tout simplement l'installation de
+7:54
+picque avec donc mon abonnement.
+7:56
+Troisème méthode installer Olar
+7:58
+carrément dans le serveur et le faire
+8:00
+tourner. Alors peu n'importe la méthode
+8:03
+hein que que tu vas utiliser dans à part
+8:06
+la suite hein, tu peux changer. Alors le
+8:08
+conseil n'y a pas réellement une
+8:09
+recommandation mais le conseil si tu es
+8:11
+débutant et tu veux tout simplement pas
+8:13
+aller trop dans la technique, prenez
+8:15
+entre pic app ici et voilà on s'arrête
+8:17
+là. Tu commences tout de suite donc le
+8:19
+travail. Si tu as un abonnement et ça
+8:21
+sera très intéressant de suivre ma
+8:23
+méthode pour donc installer donc
+8:25
+l'inscription de Entreopique avec
+8:27
+Hermes. Et si tu as un compte au lama et
+8:30
+tu sais que tu vas faire énormément
+8:32
+d'opérations en fait avec Hermes, tu
+8:34
+veux automatiser, tu veux créer des
+8:35
+agents, tu veux vraiment investir et euh
+8:38
+transformer donc Hermes un agent ultra
+8:39
+puissant dans votre boîte, tu peux bien
+8:41
+évidemment aller tout simplement y me
+8:44
+suivre pour l'installation de HAMA. Et
+8:46
+euh peu n'importe le choix que par la
+8:49
+suite tu peux changer, tu peux basculer,
+8:50
+tu peux revenir vers la bille, tu peux
+8:52
+aller en fait à un lama, c'est un choix
+8:54
+à faire. Tout dépendra en fait de voilà
+8:56
+votre attente et votre patience bien sûr
+8:59
+pour installer tous ces modèles. Bien
+Installer Ollama sur un VPS pour lancer vos modèles IA
+9:03
+donc là on va essayer d'installer avec
+9:06
+Hermes, donc notre outilama qui va nous
+9:08
+donner en fait accès à ce LLM là qui est
+9:11
+Kimy K2.7. Bien évidemment, il y a la
+9:14
+possibilité he d'utiliser plusieurs
+9:15
+autres modèles. Il y a des modèles qui
+9:17
+sont très intéressants, qui sont très
+9:18
+puissants aussi hein que je peux
+9:20
+utiliser grâce à donc un accès sur
+9:22
+Hollama. Je rappelle que Hama, on peut
+9:25
+avoir juste en fait une version pro à 20
+9:28
+dollars par mois qui va me permettre
+9:29
+d'utiliser plusieurs modèles d'une
+9:31
+manière illimitée. Alors, si je reviens
+9:34
+sur Kimi 2.7, euh d'abord, il est très
+9:38
+compatible avec Hermes et aussi pourquoi
+9:41
+ça m'intéresse énormément. Vous allez
+9:42
+voir que dans le benchmark ici, il est
+9:45
+très très proche de Cloud et le GPT 5.5
+9:49
+mais Cloud il est coûteux GPT 5.5 aussi.
+9:53
+Mais donc le CI elle donne le même
+9:56
+rendement et aussi en fait voilà, elle
+9:58
+est très efficace, il est illimité. Je
+10:00
+peux faire tout ce que je veux avec
+10:02
+Hermes grâce à ce modèle et ce LLM et
+10:05
+même parfois il y en a par rapport à
+10:06
+quelques benchmark, il dépasse donc
+10:09
+cloud. Donc du coup, moi je mise sur le
+10:12
+Kimi 2.7 que je trouve très intéressant
+10:15
+comme outil, comme modèle que je peux
+10:16
+l'utiliser. N'oublie pas, c'est une
+10:18
+vraiment une nouvelle mise à jour et il
+10:21
+y a plus que 40000 personnes en fait qui
+10:22
+ont téléchargé donc Kimi pour le tester.
+10:25
+C'est ce qu'on va faire ensemble. Donc
+10:27
+du coup là sur mon serveur Hostinger,
+10:29
+moi j'ai donc l'installation
+10:32
+ici de Hermes. Donc je vais cliquer ici
+10:34
+sur nouveau projet et vous allez voir
+10:36
+que là je vais taper tout simplement au
+10:38
+la main. Donc c'est gratuit, je peux
+10:40
+l'installer au lama ici. Donc je clique
+10:42
+ici sur sélectionner, je clique sur
+10:45
+déployer. Alors ce qui va se passer tout
+10:47
+simplement, il va m'installer au lama.
+10:50
+Et l'objectif de cette partie donc de
+10:52
+formation, on va tout simplement donner
+10:55
+une connexion entre ces deux conturs. Ça
+10:58
+veut dire Hermes va faire appel à Olama
+11:01
+que Olama, il va déployer des modèles en
+11:03
+mode cloud. Ça veut dire qu'ils vont
+11:05
+être exécutés dans le serveur de Holma
+11:07
+qui vont être très rapides pour que
+11:09
+Hermes va tourner sans que je réhappille
+11:12
+en fait des tokens par consommation
+11:14
+comme sur Cloud ou bien JBT qui sont
+11:17
+très chers. Alors l'idée bien évidemment
+11:21
+tout ce que je vais vous montrer comme
+11:23
+démarche elle est documentée. Ça veut
+11:25
+dire dans la documentation
+11:28
+tous les étapes, tous les commandes que
+11:30
+moi je vais taper dans cette vidé. Le
+11:32
+conseil que je donne et je rappelle sur
+11:35
+ça, prenez tout simplement cette
+11:37
+documentation là, sélectionnez tout le
+11:39
+texte que vous voyez, ouvrez par exemple
+11:41
+chat GPT ou bien cloud ou n'importe quel
+11:43
+LLM que vous préférez et demande-lui de
+11:46
+te guider en s'appuyant sur cette
+11:48
+documentation là pour vous donner
+11:50
+directement donc les commandes à mettre
+11:52
+en place pour faire l'installation. Donc
+11:54
+du coup, ça va vous éviter à venir sur
+11:56
+la documentation et à lire et parfois
+11:59
+pour les débutants, ils peuvent se
+12:00
+perdre. Mais donner ça à l'alem et lui
+12:03
+demander en fait de vous guider sur ce
+12:05
+support du cour là, ça va aller très
+12:07
+très vite. Bon, c'est un astuce que moi
+12:09
+j'utilise souvent. Très bien. Donc là,
+12:12
+olama comme vous le voyez, il est bien
+12:14
+installé ici. Alors, l'objectif là, on
+12:17
+va commencer à déployer en fait OAMA sur
+12:19
+le conteneur, à se connecter à mon
+12:22
+compte Olama Pro et bien sûr à installer
+12:24
+et récupérer Kimia. Donc, c'est facile à
+12:26
+faire. Je vais tout simplement d'abord
+12:29
+cliquer sur ce bouton-là qui va me
+12:31
+ramener vers le terminal. Donc le
+12:33
+terminal, c'est là où je vais taper des
+12:35
+lignes de code qui vont voilà tout
+12:37
+simplement en fait me permettre de faire
+12:40
+les connexions. Donc là première
+12:42
+commande à mettre, vous pouvez tout
+12:43
+simplement checker si vous êtes bien sur
+12:45
+le bon serveur. Donc là c'est le nom en
+12:47
+fait de mon serveur. Je suis connecté en
+12:49
+mode route. Tout va bien. Alors
+12:51
+maintenant je récupère donc Olama comme
+12:54
+vous le voyez là ici. Donc là ici c'est
+12:57
+le nom de conteneur de Hama qu'on a
+12:58
+installé sur Stinger. Donc c'est
+13:00
+celui-là en fait qui va donc être
+13:03
+installé et connecté à mon compte. Par
+13:05
+la suite, je mettrai cette commande là
+13:07
+qui va permettre de connecter donc à mon
+13:11
+compte Olama parce que j'ai un compte
+13:12
+pro. Je rappelle que sur Olama, tu peux
+13:15
+avoir un compte gratuit qui te donne des
+13:17
+modèles, mais sont pas des modèles très
+13:18
+puissants. Il fallait vraiment avoir un
+13:20
+compte pro à 20 dollars pour pouvoir
+13:22
+accès à plusieurs modèles puissants et
+13:24
+ça restera toujours plus accessible
+13:26
+parce que un compte à 20 dollars, c'est
+13:29
+beaucoup moins cher que d'utiliser par
+13:31
+consommation de token comme on le voit
+13:34
+sur cloud ou autre. Donc là, je lui dis
+13:36
+oui, je me connecte et c'est fait.
+13:39
+Là, il y a une connexion en fait entre
+13:42
+mon serveur Hostinger et mon compte.
+13:43
+Donc Olama. Maintenant, c'est simple, on
+13:46
+va récupérer donc le Kemi 2.7. Donc, je
+13:49
+mets cette commande là comme vous le
+13:51
+voyez, il fait pou donc pour que il
+13:53
+intègre dans mon compte. Voilà, c'est
+13:55
+succès le donc le comi. Donc, je peux le
+13:58
+vérifier hein, je peux demander
+13:59
+donne-moi la liste donc des modèles
+14:01
+installés sur Olama. Ici sur ce serveur,
+14:03
+il me dit voilà en mode cloud. Le mode
+14:05
+cloud, ça veut dire qu'il se qu'il
+14:07
+tourne en fait dans les serveurs de
+14:08
+Olama mais non pas dans ma machine. Et
+14:10
+ça c'est bien parce que il va pas
+14:12
+consommer en fait donc du
+14:15
+de token et rien du tout. Alors
+14:16
+peut-être que à notre jour il va y avoir
+14:19
+le Kimy 2.8 ou autre. vous pouvez bien
+14:21
+sûr l'installer. Euh toujours, c'est le
+14:24
+même concept hein. Et même sur Olama, si
+14:27
+je reviens ici, il y a pas mal d'autres
+14:28
+modèles que je vous invite à tester si
+14:29
+vous voulez. Toujours prenez celui qui
+14:31
+est en mode de cloud parce que avec
+14:32
+votre version Pro, tu peux l'utiliser.
+14:34
+Et ce sont en fait des modèles comme
+14:36
+vous le voyez qui sont ultra puissants
+14:38
+qui vous permet voilà donc de vraiment
+14:40
+bien tester comme celui-là par exemple.
+14:42
+Là, c'est un modèle donc qui a fait ses
+14:45
+preuves. Donc au niveau de benchmark, ça
+14:48
+a été donc testé, ça a été approuvé.
+14:50
+Donc c'est un modèle à tester qui peut
+14:53
+être très intéressant. Voilà le le
+14:54
+symbole c'est Z. Donc vous allez voir
+14:57
+que he donc il est proche et parfois
+14:59
+même en fait il donne des très très
+15:01
+bonnes donc performances comparons ça
+15:03
+avec notre modèle. Alors on revient ici,
+15:07
+on a fait l'installation, on a le
+15:09
+containur, on a tout ce qu'il faut. Donc
+15:10
+du coup là, on aura tout simplement
+15:13
+besoin de passer à l'étape pour dire à
+15:16
+Hermes, voilà, tu dois te connecter à
+15:18
+Oama pour pouvoir en fait se connecter
+Tester Kimi 2.7 directement dans Hermes
+15:20
+correctement.
+15:22
+Donc là, ce que je vais faire, je vais
+15:23
+tout simplement partir sur le terminal
+15:26
+pour créer donc un réseau de partage.
+15:29
+Donc du coup là, on va juste
+15:30
+copiercoller en fait une commande de
+15:32
+Docker qui va donc créer un réseau. Donc
+15:35
+là, je fais entrer, on a bien sûr donné
+15:38
+un nom à ce réseau de partage et il
+15:40
+fallait que j'aille à Holama pour
+15:42
+définir en fait mettre les informations
+15:44
+par rapport à ce réseau là. Donc ici, on
+15:47
+va juste aller changer quelques
+15:48
+informations sur le fichier Yam. On va
+15:50
+ajouter des informations. Donc ici sur
+15:53
+la partie toujours ici, on va la placer
+15:56
+donc ce code là qui va donc juste dire
+16:00
+que on a un nouveau network. Donc du
+16:02
+coup là, on placera ce code-là. Ici bien
+16:06
+sûr, il fallait qu'elle soit dans la
+16:07
+même ligne de hama et de label ici comme
+16:10
+ça. Et à la fin donc dans la partie
+16:14
+volume, on ajoutera en fait juste ce
+16:16
+code là à la fin pour définir le
+16:20
+network. Donc du coup là, voilà, on va
+16:22
+définir sur network là et qu'il soit tr.
+16:25
+Donc du coup, on a ajouté deux blocs. Ça
+16:28
+c'est donc le bloc en bas et ça c'est le
+16:31
+bloc aussi donc qui est juste ici. On va
+16:34
+tout simplement enregistrer, hein, et
+16:36
+voir si le système en fait donc il va
+16:39
+tout simplement fonctionner ou pas. Donc
+16:41
+du coup, je monte en haut, je clique sur
+16:44
+déployer pour voilà donc faire déployer
+16:46
+donc le projet. Généralement, ça prend
+16:48
+juste quelques secondes pour que ça soit
+16:50
+en fait. Et on va vérifier, hein, si le
+16:53
+système en fait, voilà, il se connecte
+16:55
+correctement ou pas. Donc euh c'est pour
+16:57
+cela je vais donc revenir sur la partie
+17:00
+terminale ici. Donc on a ici un nouveau
+17:03
+terminal. Donc là je je relance en fait
+17:06
+voilà le conteneur Holama pour que donc
+17:09
+je mets le nom donc dans cette variable
+17:11
+là qui s'appelle qui est celle-là. Et là
+17:15
+pour tester donc on va lancer en fait
+17:17
+tout simplement cette commande là et
+17:19
+voir en fait si il répond pas. Donc je
+17:21
+vois que il donne une réponse correcte.
+17:23
+Il est bien connecté en fait avec ce
+17:25
+conteneur là. Et du coup
+17:28
+là on va passer donc bien évidemment à
+17:30
+l'étape suivante pour donc mettre en
+17:32
+place le test. Là, je reviens ici. La
+17:36
+même chose en fait, on va le faire au
+17:37
+niveau donc du containur de Hermes. Donc
+17:40
+là, je vais aller tout simplement donc à
+17:42
+modifier en fait ce fichier là. Et donc
+17:44
+là, ici, on aura besoin en fait de
+17:47
+mentionner qu'on a tout simplement mis
+17:50
+en place le network. Donc c'est très
+17:51
+très important en fait de mettre le
+17:53
+network. Donc dans l'environnement, on
+17:55
+vient rien toucher mais ici en fait à
+17:57
+partir de volume, c'est dans cette
+18:00
+partie-là qu'il fallait qu'on ajoute en
+18:01
+fait aussi les informations de network.
+18:04
+Donc là ici donc je viens ici je mettrai
+18:08
+les informations du network ça c'est
+18:10
+important. Et ensuite là en bas on va
+18:13
+ajouter la même chose ici. Donc toutes
+18:16
+ces commandes là ils sont dans la
+18:18
+documentation ici. Hop hop hop. Voilà.
+18:20
+Donc, j'ai ajouté en fait les
+18:22
+informations qui sont, on va dire
+18:24
+importantes. Et tout ce qu'il faut faire
+18:26
+maintenant, c'est monter ici et cliquer
+18:28
+sur déployé pour que ces modifications
+18:31
+là bien évidemment vont être voilà pris
+18:33
+en charge et que le système en fait, il
+18:36
+va tout simplement en fait les déployer.
+18:38
+Donc là, on va les laisser quelques
+18:39
+instants pour que il termine ça. Et là,
+18:42
+je veux vérifier aussi hein si les deux
+18:45
+containers voilà, ils sont donc bien
+18:48
+connectés. Et effectivement donc les
+18:50
+deux ils sont connectés sur le même
+18:52
+réseau. Donc ça veut dire quoi ? Ça veut
+18:54
+dire que ici en fait ce Hermes là et ce
+18:56
+lama ils sont en train de parler sur le
+18:59
+même réseau. Ça veut dire ça c'est bien,
+19:00
+ça veut dire que ils sont ensemble. Donc
+19:02
+là du coup j'ai tout simplement besoin
+19:04
+en fait de tester hein donc la lisant.
+19:07
+Donc du coup je vais revenir sur la
+19:10
+document plutôt sur donc le le le
+19:13
+terminal lancer cette commande là.
+19:17
+Et donc ça en fait ça va dire lorsqu'il
+19:20
+renvoie en fait la version, ça veut dire
+19:22
+que là ici que la liaison elle est OK,
+19:25
+elle est permanente. Ça veut dire même
+19:26
+si je redémarre tout fonctionne en fait
+19:29
+très très bien. Alors il faut savoir que
+19:30
+si j'ouvre en fait Hermes, vous allez
+19:32
+voir que Kimi en fait il va pas
+19:34
+apparaître. Ça veut dire que là ici
+19:36
+regardez fait normal hein. Donc là j'ai
+19:38
+que l'entreopique hein. Et même ici si
+19:41
+je vais aller dans provider donc
+19:43
+j'aurais pas en fait voir donc Kimi qui
+19:46
+va s'afficher. Pas encore. Pourquoi ?
+19:48
+parce queici dans cette configuration
+19:49
+là, j'ai pas la main à ajouter
+19:52
+manuellement ici Kimi. Donc du coup, on
+19:54
+va le faire avec le code et du coup tout
+19:56
+simplement dans la configuration
+19:58
+principale de Kimi, on va forcer que
+20:00
+plutôt de Hermes, on va forcer que Kimi,
+20:03
+voilà, c'est un système qui doit être
+20:05
+opérationnel. Alors du coup, je reviens
+20:07
+tout simplement ici. On va nettoyer ça.
+20:11
+Et là, je vais placer tout simplement
+20:14
+voilà cette commande. Alors, cette
+20:15
+commande consiste à dire quoi ? Tout
+20:17
+simplement, je vais mettre à jour des
+20:19
+informations sur ce fichier là qui qui
+20:21
+s'appelle config et je vais ajouter là
+20:25
+un provider personnalisé. Vous voyez ?
+20:27
+Donc voilà, je lui donner le nom et je
+20:29
+lui donner en fait l'URL de ha avec
+20:31
+laquelle qu'il va tourner. Et donc du
+20:33
+coup, on va essayer de faire entrer.
+20:35
+Donc là, il vient donc d'ajouter ces
+20:37
+informations là. D'ailleurs, je peux
+20:39
+ouvrir hein le fichier. On peut voir le
+20:41
+fichier à l'intérieur et je vois dans le
+20:43
+fichier, j'ai en tropic, ça c'est bien.
+20:46
+Et j'ai donc Kimy qui vient d'être
+20:47
+ajouté aussi. Donc jusqu'à maintenant
+20:49
+tout va très bien. Alors dernière chose,
+20:53
+ça sera très intéressant de
+20:56
+redémarrer, hein. Soit je redémarre,
+20:58
+soit je fais un déploiement, un nouveau
+21:01
+déploiement. Mais on va tout simplement
+21:03
+juste redémarrer Hermes. Pas besoin de
+21:05
+redémarrer au lama. Juste là, je suis en
+21:07
+train de redémarrer donc Hermes et par
+21:10
+la suite, je peux checker si en fait
+21:13
+Hermes donc si Kimi, il est exposé et on
+21:16
+va aller par la suite à l'interface pour
+21:18
+voir si ça s'affiche ou pas. Donc le nom
+21:21
+Kimi, donc là le projet vient d'être
+21:23
+donc redémarré. D'ailleurs,
+21:26
+ici je vais essayer de voir en fait si
+21:29
+le statut en fait il est correcte pas.
+21:32
+Si si Hermes en fait ne crache pas, ça
+21:34
+c'est important en fait. Voilà, donc
+21:35
+elle est en mode running, donc tout
+21:37
+fonctionne très bien. Ça c'est bien. Je
+21:39
+vais vérifier en fait si Kimi aussi elle
+21:41
+est exposée sur RMS ou pas. Donc là, il
+21:45
+me dit que voilà, c'est créé. Donc je
+21:49
+vois le modèle, il est là. Donc du coup,
+21:51
+parmi la liste, tout va bien. Et c'est
+21:53
+terminé. Allez, on va venir ici et on va
+21:57
+voir si Kimi va apparaître ou pas. Donc
+22:00
+là ici je ne vois pas ici mais je vais
+22:02
+aller dans la configuration. Alors
+22:04
+peut-être que là on va fermer ça et on
+22:06
+va ouvrir une deuxième fois comme ça il
+22:08
+va recharger. Donc on clique et voilà
+22:12
+Kim il est là il fonctionne. Là je vais
+22:15
+lui dire tout simplement
+22:18
+une simple question que j'envoie. Je
+22:20
+voir en fait s'il va répondre ou pas. Et
+22:22
+par la suite je peux lui demander en
+22:23
+fait c'est quoi le LLM.
+22:27
+Là, je vais lui demander
+22:30
+c'est quoi votre LLM et on va prendre la
+22:33
+réponse. Normalement, il devrait me dire
+22:34
+que c'est Kimi. Effectivement, c'est
+22:37
+Kimi qui fonctionne, qui tourne
+22:38
+maintenant. Et du coup, dans le setting
+22:40
+ici, dans le provider, je dois trouver
+22:42
+Kimy aussi qui va être affiché. Et le
+22:44
+voilà. Donc du coup là, je viens de
+22:46
+réussir la connexion de Holma avec mon
+22:49
+compte Pro avec Hermes. Et donc du coup,
+22:51
+j'utilise ce modèle-là d'une manière
+22:53
+illimité sans avoir à consommer ni
+22:55
+d'abonnement plutôt d'abonnement comme
+22:57
+celle de Cloud hein qui coûte cher ni de
+23:00
+token. Donc un simple donc accès sur
+23:03
+Holama Pro m'a permis en fait
+23:05
+d'exploiter ce modèle là et je peux bien
+23:07
+évidemment exploiter énormément d'autres
+23:09
+modèles qui sont puissants qui me
+23:10
+permettent voilà donc de demander à
+23:12
+Armes de tourner de fonctionner
+23:14
+correctement.
+Mon cadeau pour accéder à toutes mes formations
+23:16
+Et voilà vous êtes arrivé jusqu'à la
+23:18
+fin. Ça veut dire que tu aimes mon
+23:19
+contenu et tu as aimé ma vidéo. Et c'est
+23:22
+pour cela je voulais vous donner un
+23:23
+petit cadeau pour te remercier. Alors il
+23:26
+suffit juste d'accéder à mon site
+23:27
+internet docteur-firas.vp.
+23:30
+Je le mettrai aussi dans la description.
+23:32
+Et là, en fait, je vais te proposer deux
+23:34
+packages et je vais te donner un coupon
+23:36
+spécial. Le premier package que je
+23:38
+propose, c'est un petit peu mes 34
+23:41
+formations N8N et automatisation. Tu vas
+23:44
+trouver un petit peu de tout. Il y en a
+23:45
+aussi le Hermes, le cloud, il y en a
+23:47
+aussi Open et Cloud. J'ai mis ici tout
+23:50
+ce qui est outil et agent qui permet de
+23:52
+faire l'automatisation.
+23:54
+très demandé par les entreprises, par
+23:57
+les frelanceurs qui veulent faire
+23:59
+l'automatisation. Ce sont des formations
+24:01
+en fait avec des ateliers pratiques, des
+24:03
+workflow à télécharger. Là, ici, je
+24:05
+prends mon temps à expliquer et montrer
+24:08
+comment je fais la création de
+24:10
+l'automatisation de A à Z. Donc, ce sont
+24:13
+des ateliers. Alors, c'est vrai que
+24:15
+c'est écrit 34, mais il se peut que
+24:17
+moment que tu regardes la vidéo, ils
+24:19
+sont passés à 35 ou 36 parce que moi, je
+24:22
+mis à jour en fait cette euh ce package
+24:25
+là pratiquement tous les mois, j'ajoute
+24:28
+de nouveaux contenus avec des mises à
+24:29
+jour. Il y a aussi en fait un pack qui
+24:32
+contient 100 cours. Ça c'est un petit
+24:33
+peu tous mes bests seller sur le site de
+24:36
+Udimi dans le marketing, business,
+24:38
+intelligence artificielle. Alors pour
+24:40
+comment accéder en fait à tout ce
+24:41
+contenu là avec un accès à vie ? Alors
+24:43
+moi, je propose de packag de suite le
+24:46
+coup. Alors celui-là, le premier, vous
+24:48
+mettez tout simplement ici. Vous cliquez
+24:51
+là, vous mettez YT20.
+24:55
+YT20, vous faites appliquer et vous
+24:58
+allez voir que vous avez en fait une
+25:00
+réduction de 20 %. Alors bien
+25:03
+évidemment, vous avez une garantie de 14
+25:05
+jours satisfait ou remboursé parce que
+25:08
+je sais si tu vas commencer à faire le
+25:09
+premier atelier, tu vas adorer. Tu vas
+25:11
+essayer de continuer tout le reste du ce
+25:14
+contenu là. Et il y a aussi un deuxième
+25:16
+package que je propose qui est celui-là,
+25:18
+c'est sans cours. Et j'ai fait un petit
+25:20
+cadeau. Celui qui prend celui-là, il a
+25:23
+automatiquement les 34 cours. Ils sont
+25:25
+inclus ici. Donc ça c'est une offre
+25:28
+attention limitée. Je vais bientôt en
+25:30
+fait la retérer de là. Mais pour vous
+25:33
+encourager à faire les formations et à
+25:35
+prendre donc vous pouvez avoir en total
+25:38
+ici 134
+25:40
+cours. L'accès et les avis. Tu peux
+25:42
+commencer quand tu veux. tu as toujours
+25:43
+en fait satisfait ou remboursé 14 jours.
+25:46
+Et là la même chose, tu as le coup YT20,
+25:49
+tu l'appliques ici et tu vas avoir en
+25:53
+fait voilà donc la réduction. Il y a un
+25:55
+petit euh aussi euh ce pour ceux qui
+25:58
+veulent avoir en fait l'accès à vie à
+26:00
+tous mes futurs cours dans toutes les
+26:02
+discipline, ça c'est une œuvre qu'on le
+26:04
+propose uniquement. Ici si tu la coches
+26:07
+celle-là, tu vas avoir immédiatement 56
+26:10
+cours que je l'ai mis hein dans FNQ ici
+26:13
+juste en bas. En fait, toute la liste,
+26:15
+tu vas l'avoir ici avec toutes les
+26:16
+formations que tu vas les recevoir.
+26:18
+Alors, je te recommande aussi de voir
+26:20
+cette première vidéo là. C'est une vidéo
+26:22
+de je pense de 5 minutes. Là où j'ai
+26:24
+tout expliqué, j'ai montré même
+26:26
+l'interface et l'exemple en fait des
+26:28
+ateliers que je propose à l'intérieur.
+26:30
+Sur ce, je vous dis merci beaucoup.
+26:32
+Merci pour votre confiance. N'oubliez
+26:34
+pas en fait de faire s'abonner à ma
+26:36
+chaîne pour recevoir toutes les semaines
+26:40
+des nouvelles tutos gratuites.
+
+Tout
+
+Source : Dr. Firas
+
+Interface de programmation
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,6 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+16:02
+Mon IA fait payer des clients sur LinkedIn (et ça marche)
+Mo Alani
+103 vues
+•
+il y a 20 heures
+Nouveau
+
+
+23:58
+On vient de perdre le contrôle de l'IA (tout bascule)
+Vision IA
+31 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+22:34
+LES EMISSIONS DE JEUX VIDÉO
+Bazar du Grenier
+1,9 M de vues
+•
+il y a 2 ans
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+652 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:05:09
+Comment MONTER son PC GAMER en 2026
+FrenchHardware
+195 k vues
+•
+il y a 3 mois
+
+
+1:16:56
+Guillaume Broche : le nouveau GOAT du jeu vidéo est français | Jeux Vidéo Club
+Konbini
+205 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+30:53
+Les Musiques de Jeux Vidéo - Comment ça fonctionne ?
+Bazar du Grenier
+1,8 M de vues
+•
+il y a 2 ans
+
+
+2:32:30
+Anciens espions de la CIA (NOUVEAU) : Quittez les USA avant 2030 ! La CIA a voulu bloquer !
+The Diary Of A CEO
+6,5 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+38 k vues
+•
+il y a 7 jours
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 2 mois
+
+
+20:11
+[SPECIALE] MINIKEUMS
+Bazar du Grenier
+2 M de vues
+•
+il y a 3 ans
+
+
+1:09:36
+Le problème des Open Worlds
+Bazar du Grenier
+3,7 M de vues
+•
+il y a 1 an
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+835 k vues
+•
+il y a 2 mois
+Doublée
+
+19:58
+La 3ème Guerre Mondiale... (dans les jeux vidéo)
+Bazar du Grenier
+2,4 M de vues
+•
+il y a 2 ans
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,2 M de vues
+•
+il y a 1 mois
+Doublée
+
+22:06
+LE PAYS OÙ SEGA EST ENCORE ROI
+Bazar du Grenier
+1 M de vues
+•
+il y a 1 mois
+
+14:21
+Votre portefeuille est-il prêt pour la stagflation ?
+Xavier Delmas
+81 k vues
+•
+il y a 1 mois
+
+43:54
+SPECIALE BLIZZARD: PARTIE FINALE
+Bazar du Grenier
+1,2 M de vues
+•
+il y a 5 mois
+
+    

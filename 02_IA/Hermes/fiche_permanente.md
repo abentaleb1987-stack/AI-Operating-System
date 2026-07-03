@@ -5,7 +5,7 @@
 - Nom : Hermes
 - Type : Agent IA / couche agentique a evaluer
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-01
+- Derniere mise a jour : 2026-07-03
 
 ## 2. Role principal
 
@@ -23,6 +23,7 @@ Architecture consolidee a confirmer par documentation officielle ou experimentat
 - Les composants structurants a verifier sont : prompt systeme ou soul, memoire, sessions, skills, crons, logs, plugins, hooks et gateway/API.
 - Hermes peut potentiellement se connecter a des outils externes via MCP, API ou OAuth ; ces connexions doivent etre testees une par une.
 - Hermes semble pouvoir utiliser plusieurs providers, y compris providers externes ou locaux ; le choix doit tenir compte du cout, de la confidentialite, des capacites et de la criticite.
+- Hermes WebUI peut etre teste avec un provider alternatif comme Ollama via une configuration controlee ; les modeles, limites, couts, donnees envoyees et conditions d'usage doivent etre verifies avant integration operationnelle.
 - Les workflows avances peuvent impliquer orchestrateur, agents specialises, agents de controle et agents paralleles ; cette architecture reste a valider experimentalement.
 - L'exposition reseau et les canaux de controle doivent etre limites et audites, notamment pour VPS, Tailscale, Telegram, Open WebUI, dashboard, tokens et ports.
 
@@ -60,11 +61,12 @@ Workflow d'experimentation VPS securisee :
 1. Preparer un VPS dedie et un utilisateur non root lorsque c'est possible.
 2. Installer Hermes avec le mode choisi.
 3. Configurer le backend LLM et verifier le cout d'usage.
-4. Configurer un canal de controle, par exemple Telegram, avec restriction des utilisateurs autorises.
-5. Ajouter une interface optionnelle, par exemple Open WebUI, uniquement en environnement de test.
-6. Restreindre l'acces reseau, par exemple via Tailscale ou solution equivalente.
-7. Tester TUI, canal de communication, interface, logs, crons et dashboard.
-8. Documenter les risques, tokens, ports exposes et procedures de mise a jour.
+4. Pour un provider alternatif, verifier les limites reelles, la confidentialite, les logs, les donnees envoyees et le comportement de facturation avant tout usage recurrent.
+5. Configurer un canal de controle, par exemple Telegram, avec restriction des utilisateurs autorises.
+6. Ajouter une interface optionnelle, par exemple Open WebUI, uniquement en environnement de test.
+7. Restreindre l'acces reseau, par exemple via Tailscale ou solution equivalente.
+8. Tester TUI, canal de communication, interface, logs, crons et dashboard.
+9. Documenter les risques, tokens, ports exposes et procedures de mise a jour.
 
 Workflow d'experimentation agentique :
 
@@ -191,6 +193,7 @@ Points a surveiller :
 - fiabilite des agents de controle independants ;
 - risques juridiques, fiscaux, administratifs et financiers des workflows sensibles ;
 - criteres de choix des providers par criticite, cout, confidentialite et capacites ;
+- Ollama comme provider potentiel pour Hermes WebUI, y compris modeles cloud, limites Pro, cout reel, confidentialite, reseau Docker partage et configuration provider personnalise ;
 - securite VPS, Telegram, tokens et acces utilisateurs ;
 - confidentialite des donnees ;
 - fiabilite reelle sur les taches de veille et de prospection.
@@ -204,3 +207,4 @@ Points a surveiller :
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA, workflow AOS GO partiel
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA business automation, workflow AOS GO partiel
 - 2026-07-01 - Consolidation - Sections 3, 11, 12 - Synthese permanente Hermes apres audit Aion
+- 2026-07-03 - Mise a jour - Sections 3, 8, 12 - Source YouTube Dr. Firas Hermes WebUI Ollama Kimi VPS, workflow AOS GO partiel
