@@ -63,6 +63,8 @@ Workflow d'orchestration :
 6. Collecter les logs et sorties.
 7. Verifier et consolider.
 8. Decider : continuer, corriger, demander validation ou arreter.
+9. Demander des criteres mesurables ou une validation humaine lorsque la verification objective manque.
+10. Arreter ou reorienter une boucle si le diagnostic ne rapproche pas du critere de succes.
 
 Workflow de retrieval :
 
@@ -126,6 +128,7 @@ Points a surveiller :
 - controle du spawn automatique de sous-agents ;
 - securite des skills navigateur et hooks ;
 - integration d'outils documentaires externes uniquement sous contraintes de confidentialite et de tracabilite.
+- usage de bifurcations vers l'utilisateur lorsque l'orchestrateur ne peut pas verifier objectivement un resultat.
 
 ## 13. Decisions strategiques
 
@@ -135,3 +138,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 8, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
+- 2026-07-04 - Mise a jour - Sections 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel

@@ -43,6 +43,15 @@ Pour un agent specialise, documenter aussi :
 - memoire persistante ;
 - criteres de retour vers l'orchestrateur.
 
+Une boucle de travail agentique doit documenter :
+
+- objectif de la boucle ;
+- outils autorises ;
+- test ou critere de verification ;
+- diagnostic en cas d'echec ;
+- preuve de succes attendue ;
+- limite de cycles ou condition d'arret.
+
 ## 4. Forces
 
 - Peut automatiser des workflows repetables lorsque les entrees, outils et criteres sont controles.
@@ -67,6 +76,7 @@ Aucun cas d'usage n'est encore valide par experimentation interne AOS.
 - Usage d'outils externes sans permissions, limites et logs.
 - Skill ou hook non audite capable de piloter navigateur, fichiers, commandes ou variables d'environnement.
 - Workflow long ou couteux lance sans limite de cycles, console de suivi ou criteres d'arret.
+- Boucle recursive lancee sans preuve de succes mesurable ni comportement defini en cas d'incertitude.
 
 ## 8. Workflows recommandes
 
@@ -80,6 +90,7 @@ Workflow de conception :
 6. Prevoir logs et erreurs.
 7. Tester en sequence.
 8. Paralleliser uniquement les etapes independantes.
+9. Demander une precision utilisateur lorsque les criteres de verification ne sont pas objectivables.
 
 Workflow documentaire :
 
@@ -131,6 +142,7 @@ Points a surveiller :
 - chargement progressif des skills par rapport aux memories chargees en continu ;
 - hooks deterministes pour bloquer les actions sensibles ;
 - suivi de workflow des agents longs.
+- reutilisation d'assets, scripts et procedures audites pour transformer les apprentissages en blocs operationnels plutot qu'en memoire implicite.
 
 ## 13. Decisions strategiques
 
@@ -140,3 +152,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 7, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
+- 2026-07-04 - Mise a jour - Sections 3, 7, 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel

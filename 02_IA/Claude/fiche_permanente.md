@@ -35,6 +35,7 @@ Elements observes dans la video Parlons IA du 2026-05-29, a confirmer :
 - Risque de produire des resultats non fiables si la demande reste vague ou uniquement conversationnelle.
 - Sensibilite aux longues sequences de contexte si les sources et objectifs ne sont pas controles.
 - Risque de cout eleve si les workflows longs, appels d'outils ou fonctions avancees sont lances sans garde-fous.
+- Risque de boucle couteuse si les criteres de verification, les limites d'iteration et les conditions d'arret ne sont pas definis avant execution.
 - Le cout reel en usage agentique doit etre mesure par tache terminee, car retries, corrections et tours supplementaires peuvent annuler un prix nominal attractif.
 - La verbosite, les changements de tokenizer et l'usage d'un modele surdimensionne peuvent augmenter le cout sans ameliorer le livrable.
 
@@ -89,6 +90,7 @@ Pour les usages agentiques avec outils :
 - utiliser des sections delimitees pour separer contexte, input, instructions, documents et scripts.
 - demander des sorties concises, actionnables et limitees au besoin reel lorsque le cout ou les quotas sont critiques.
 - preciser les dossiers, permissions, effets attendus et criteres de validation avant toute action locale ou tache planifiee.
+- definir les preuves de succes, les tests disponibles, les limites de cycle et le comportement attendu si aucun critere objectif ne permet de verifier le resultat.
 
 ## 10. Integration dans mon ecosysteme
 
@@ -119,6 +121,7 @@ Points a surveiller :
 - impact des changements de tokenizer, pricing et limites d'usage sur le cout complet d'un workflow agentique.
 - disponibilite officielle, restrictions et cout total des modeles premium cites par des sources non officielles.
 - impact de la verbosite et des instructions de concision sur le cout complet d'une tache AOS.
+- capacite a interrompre ou reorienter les boucles longues lorsque les criteres objectifs de validation manquent.
 
 ## 13. Decisions strategiques
 
@@ -132,3 +135,4 @@ Ne pas adopter un modele premium pour AOS sans benchmark interne mesurant le gai
 - 2026-07-01 - Ajout - Sections 3, 5, 9, 12 - Source YouTube Parlons IA Opus 4.8, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 5, 12 - Source YouTube Melvynx Sonnet 5, batch AOS GO partiel
 - 2026-07-02 - Mise a jour - Sections 5, 8, 9, 10, 12, 13 - Sources YouTube Ludo Salenne Claude Sonnet / ecosysteme / Fable, batch AOS GO partiel
+- 2026-07-04 - Mise a jour - Sections 5, 9, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
