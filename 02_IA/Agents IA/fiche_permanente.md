@@ -5,7 +5,7 @@
 - Nom : Agents IA
 - Type : Systeme logiciel combinant modele IA, instructions, outils, memoire, workflow et controles
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-07-01
+- Derniere mise a jour : 2026-07-04
 
 ## 2. Role principal
 
