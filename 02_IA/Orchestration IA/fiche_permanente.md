@@ -5,7 +5,7 @@
 - Nom : Orchestration IA
 - Type : Discipline de coordination d'agents, outils, workflows, memoires et validations
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-07-01
+- Derniere mise a jour : 2026-07-04
 
 ## 2. Role principal
 
