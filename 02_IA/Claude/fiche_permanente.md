@@ -5,7 +5,7 @@
 - Nom : Claude
 - Type : Famille de modeles IA a evaluer pour conversation, code et workflows agentiques
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-02
+- Derniere mise a jour : 2026-07-04
 
 ## 2. Role principal
 
