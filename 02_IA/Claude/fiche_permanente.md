@@ -5,7 +5,7 @@
 - Nom : Claude
 - Type : Famille de modeles IA a evaluer pour conversation, code et workflows agentiques
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-04
+- Derniere mise a jour : 2026-07-06
 
 ## 2. Role principal
 
@@ -102,6 +102,7 @@ Claude est a tester pour :
 - synthese de sources sous validation ;
 - workflows documentaires ou operationnels avec logs.
 - transformation de taches recurrentes en procedures ou skills audites.
+- prototypes visuels, slides, pages de presentation ou design systems uniquement apres verification officielle ou test interne de Claude Design.
 
 ## 11. Orchestration IA
 
@@ -122,6 +123,11 @@ Points a surveiller :
 - disponibilite officielle, restrictions et cout total des modeles premium cites par des sources non officielles.
 - impact de la verbosite et des instructions de concision sur le cout complet d'une tache AOS.
 - capacite a interrompre ou reorienter les boucles longues lorsque les criteres objectifs de validation manquent.
+- disponibilite officielle, limites, prix et quotas de Claude Design ;
+- fonctionnement reel des connecteurs MCP dans Claude Design et donnees envoyees aux outils externes ;
+- valeur pratique de `/design-sync` depuis Claude Code pour creer un design system a partir d'un projet existant ;
+- qualite des exports Claude Design vers PDF, video, PowerPoint, HTML ou outils tiers ;
+- pertinence de Claude Design pour prototypes visuels par rapport a Figma, Canva, Cursor ou workflows code.
 
 ## 13. Decisions strategiques
 
@@ -136,3 +142,4 @@ Ne pas adopter un modele premium pour AOS sans benchmark interne mesurant le gai
 - 2026-07-01 - Ajout - Sections 5, 12 - Source YouTube Melvynx Sonnet 5, batch AOS GO partiel
 - 2026-07-02 - Mise a jour - Sections 5, 8, 9, 10, 12, 13 - Sources YouTube Ludo Salenne Claude Sonnet / ecosysteme / Fable, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 5, 9, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
+- 2026-07-06 - Mise a jour - Sections 10, 12 - Source YouTube Tony Lotis Claude Design 2.0, batch AOS A surveiller

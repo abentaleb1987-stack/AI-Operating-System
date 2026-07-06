@@ -1,0 +1,547 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Hermes Agent : 10 VRAIS usages quotidiens que je fais avec mon Agent IA
+Melvynx
+Melvynx
+61,8 k abonnés
+
+Rejoindre
+
+
+126
+
+
+Partager
+
+Enregistrer
+
+6 012 vues  30 avr. 2026  #cursor #ia #claude
+Ma formation IA : https://mlv.sh/VhIkhCW
+
+▶ TIMECODES
+0:00 - Introduction
+1:00 - Définition des agents autonomes
+1:15 - Automatisation des emails et remboursements
+2:00 - Intégration d'outils et gestion API
+3:15 - Création de skills personnalisés
+4:30 - Délégation de tâches et organisation
+5:30 - Création de contenu et réseaux sociaux
+6:30 - Gestion des sponsors YouTube
+7:30 - Support client et gestion d'accès
+8:30 - Suivi de santé et base de données personnelle
+10:00 - Analyse de données et Business Insights
+11:15 - Interface et modèles GPT
+12:45 - Automatisation des tâches récurrentes
+15:15 - Gestion des compétences de l'agent
+16:00 - Conclusion et formation AI
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+Masterclass sur les SaaS : https://mlv.sh/nowts-masterclass
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,8 k abonnés
+Vidéos
+À propos
+18 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@sylvainconsult969
+il y a 2 mois
+Super, mais pour de vrai, le niveau de sécurité de Hermes est encore trop discutable pour lui laisser les droit Open Bar comme tu sembles le faire.
+En tout cas de mon point de vue.
+
+4
+
+
+Répondre
+
+
+@heliosauguste3079
+il y a 2 mois
+thanks again. for me hermes my only agent for the moment because openclaw has become unused. Openclaw pour moi openclaw cetais juste un project de Antropic pour comprend plus le besoin des uses et apres quil a eu qu'il voulait bug total the end of openclaw so merci pour tout tes video bro keep it up.
+
+1
+
+
+Répondre
+
+
+@raphaelpicard8981
+il y a 2 mois
+Top juste question ca te coute environ combien ? Car tu passe pars api avec hermes ? Tu utilise l'api claude ?
+
+2
+
+
+Répondre
+
+
+@mikachiche
+il y a 2 mois
+Salut merci pour ta vidéo.
+
+de mon côté Hermès refuse de se connecter à mon email pour des raisons de sécurité il ne rentre pas dans les comptes personnels comment as-tu trouvé la solution?
+
+1
+
+
+Répondre
+
+
+@DocteurErasistrate
+il y a 2 mois
+"Tu te fous de ma gueule !" 
+
+
+
+Répondre
+
+
+@athman3_video
+il y a 2 mois
+Perso, je serai terrorisé à l'idée de donner tous ses accès 
+
+
+
+Répondre
+
+
+@FlorianGuiseppi
+il y a 2 mois
+Super vidéo, merci pour le partage.
+Concernant les usecases que tu montres reposent-ils principalement sur les skills que tu as codés toi-même et sur ton écosystème perso (type Codelynx, etc.) ? ou est-ce que quelqu’un sans ta stack / sans dev spécifique peut arriver à des résultats similaires avec OpenClaw/Hermes “out of the box”  ?
+Merci !
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@Vin5G
+il y a 2 mois
+Comment tu as fait pour la colonne a gauche qui categorise tes agents ou sub agents ?
+
+
+
+Répondre
+
+
+1 réponse
+
+@Avoidstorm
+il y a 2 mois
+Quel sont les sécurités contre des attaquants de type prompt injection ? Imaginons il va lire à un mail qui essaye de lui fair ex filtrer de la data ou de changer son comportement ?
+
+
+
+Répondre
+
+
+1 réponse
+
+@ziglounet
+il y a 2 mois (modifié)
+Je suis suisse comme toi, mais tu parles de Hermes dans le titre et tu mentionne Open Claw dans la video, du coup le mieux c’est le quel selon toi ?
+
+Merci.
+
+
+
+Répondre
+
+
+@david3042
+il y a 1 mois
+Fallait écrire openclaw dans le titre pour faire plus de vue 
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@nv4905
+il y a 1 mois
+Toujours aussi useless
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00euh tout ce qui est open et cetera, il y a beaucoup de gens qui ne comprennent pas à quoi ça peut vraiment te servir.
+0:066 secondesDans cette vidéo, j'ai envie de te montrer 10 white usage simples, efficacil vraiment open clow ou ce qu'on pourrait aussi appeler airm.
+0:1717 secondesAlors, je vais te montrer, on va commencer par ce qui est un peu basique. Alors, évidemment l'écran marche pas.
+0:2222 secondesDonc on va pas bullshiter avec des des mini trucs, on va parler de vrais vrais cas d'usage, donc gérer les emails. Il y a par exemple un paiement. Donc pour
+0:3030 secondesgérer mes emails, j'ai directement un channel notification. Donc je vais pas vous montrer le vrai Telegram parce qu'il y a maintenant beaucoup trop de données personnelles sur ce Telegram. En
+0:3838 secondesfait ça devient littéralement presque l'endroit où j'ai le plus de données personnelles. C'est c'est dans c'est dans ce channel Telegram et avec Open Clow. Alors en fait quand je parle ici
+0:4646 secondesd'abord on va définir quand je parle d'open clow ou d'hermes et cetera, c'est ce qu'on appelle plutôt des AI agent autonome dans lesquels on a en fait on
+0:5555 secondespourrait l'appeler des sortes de computer adjun qui sont connectés via Telegram donc via une interface de chat. Tu pourrais le faire avec un humain. OK.
+Chapitre 2 : Définition des agents autonomes
+1:021 minute et 2 secondesPourquoi computer agent ? Parce que un agent autonome comme OpenClow ou Hermes a l'intégralité d'un ordinateur accessible. OK. Moi personnellement, je
+1:121 minute et 12 secondesvais utiliser, j'utilise maintenant Herm. OK, ça fonctionne très bien, mais tout ce qui s'applique ici fonctionne avec tout. Donc là, je reçois un email.
+Chapitre 3 : Automatisation des emails et remboursements
+1:191 minute et 19 secondesVoilà, j'ai bien de payer 190 dollars pour un abonnement que je voulais pas.
+1:231 minute et 23 secondesJe lui ai dit voilà, il y a eu un paiement pour Frontière Tower aujourd'hui, contacter immédiatement pour demander un remboursement car je suis plus à son à San Francisco trouve
+1:301 minute et 30 secondesle mail de support. Blap, il lance différentes petites commandes et là il fait ses faits. Voilà, j'ai trouvé l'email, j'ai ça le facture, je leur ai
+1:381 minute et 38 secondesenvoyé depuis ton email. Demande d'annulation immédiate, demande de remboursement, précision que tu ne vis plus et que tu n'utilises plus Frontière Tower. Le mail est bien parti dans le strade du reçu et il a envoyé le mail.
+1:491 minute et 49 secondesJ'ai vérifié dans mes emails et il avait bien envoyé. Alors de base, je vérifie même pas mais pour la vidéo, j'ai vérifié. Deuxième truc, intégration d'outil.
+1:571 minute et 57 secondesAlors là, c'est incroyable. J'ai codelinx.dev en fait j'ai un site codelinx.dev B, c'est mon c'est mon c'est mon blog mais en fait c'est aussi
+Chapitre 4 : Intégration d'outils et gestion API
+2:052 minutes et 5 secondesun site que j'utilise pour gérer plusieurs choses. Donc par exemple des liens, je gère bah gestion de fichiers, cré plein de petits sites un petit peu utilitaires là-dessus. Le problème c'est
+2:142 minutes et 14 secondesque tous ces sites utilitaires étaient cool. Ça me permet de générer en fait toutes mes invoices sont centralisés là-bas. Euh plein de trucs sont
+2:222 minutes et 22 secondescentralisés là-bas. Et j'ai demandé à Cloud Code OK, j'ai envie que Lia puisse contrôler mon code max. Et donc là, j'ai
+2:292 minutes et 29 secondesdit voilà, j'ai ça. Tu vas pouvoir récupérer les tools avec ça. Et le domaine c'est ça. Hop, il a téléchargé APICI, il a tout téléchargé, code Lynx
+2:382 minutes et 38 secondesmachin choses, il a lu le fichier du Rippo directement. Et voilà. Ensuite, je lui ai dit une fois qu'il a fait ça, dans mon CRM, quelqu'un m'a demandé une
+2:462 minutes et 46 secondesinvoice pour subfast. Est-ce que tu peux checker et générer l'invoice ? Là, on peut voir qu'il a appelé énormément de commandes. En fait, nous, on s'en fout combien de temps il prend, mais il l'a
+2:542 minutes et 54 secondesfait. C'est envoyé dans Front. Donc Kevin Dumonds Fast, il a envoyé et j'ai vérifié, il a vraiment envoyé l'invoice
+3:023 minutes et 2 secondesavec les bonnes valeurs et cetera, sans lui préciser d'autres informations que valir l'email. Pourquoi est-ce qu'il a pourquoi est-ce qu'il est capable de faire ça ? Parce que mon open euh ou mon
+3:113 minutes et 11 secondesHermes ou mon I agent, on va l'appeler ça comme ça, ça va être plus simple, il a accès à Stripe Cli. Il a littéralement
+Chapitre 5 : Création de skills personnalisés
+3:193 minutes et 19 secondestous les accès à mon Stripe. OK, il peut lire toutes les invoices. Il a accès à front app. Donc tous les emails maintenant il a accès à code là donc il
+3:273 minutes et 27 secondespeut générer les factures. Il a aussi accès donc qu'est-ce qu'il utilise ici ?
+3:333 minutes et 33 secondesil utilise Front, Code Link CLA et je pense qu'il utilise aussi Stripe mais il a accès aux emails, il a tout accès.
+3:393 minutes et 39 secondesDonc en fait, vu qu'il a tous les accèss, le but de ces agents et de ce qu'on appelle un harness, c'est de venir dérouler l'accès pour venir trouver
+3:473 minutes et 47 secondescomment réaliser une tâche. Ce qui est magique avec Hermes, c'est que si on regarde un petit peu ce qu'il a fait juste ici, on peut voir ici que après
+3:543 minutes et 54 secondesavoir créé l'invoice juste ici, il a créé l'invoice, il me l'a envoyé dans le chat. Moi, j'ai vérifié que c'était bien et je lui ai dit "Send it now". Ensuite, il a fait ça. Mais regarde ce qu'il a
+4:024 minutes et 2 secondesfait là, c'est skill subfonce front manual invoice workflow. Il est capable maintenant grâce à cette petite ligne de
+4:104 minutes et 10 secondesvenir créer des invoices. Et il a créé un skill qui lui permet de faire ça. Et donc ça c'est un des avantages d'Hermes, c'est que chaque fois qu'il va faire des tâches qui lui prennent du temps, il a
+4:184 minutes et 18 secondesréussi à de manière autonome créer un skill, pouvoir le refaire plus tard.
+4:234 minutes et 23 secondesTroisème point, organisation. J'ai un pote qui me propose de faire d'aller au Portugal pendant quelques jours avec les dates que j'ai dit juste ici. Je lu dis
+Chapitre 6 : Délégation de tâches et organisation
+4:314 minutes et 31 secondesOK OK, je vais check. Non non non, j'ai pas de check. J'ai envoyé littéralement toute la conversation WhatsApp à mon agent et je lui ai dit cherche les
+4:384 minutes et 38 secondesavions pour moi. Il est allé sur Google Fly, il a cliqué et en fait là l'avantage c'est que ça tu le fais en background. Donc là le mec il discute
+4:454 minutes et 45 secondesavec moi sur WhatsApp. Moi je suis en voiture je sais pas où je suis. Et euh et je me dis "Oh merde, il faut que je fasse x ou y chose. Booum ! Je fais deux
+4:554 minutes et 55 secondestrois clics, j'envoie lui il s'occupe de tout pour moi. OK ? Donc en fait c'est que tu viens déléguer la tâche. Tu viens
+5:025 minutes et 2 secondesde déléguer la tâche à ton agent, lui il fait les recherches et ensuite il t'envoie juste les résultats. Et toi aussi tu lui parle ou par exemple ici je lui ai fait un invoice de 2 minutes pour
+5:105 minutes et 10 secondeslui demander de me faire tout un plan de voyage pour des vacances avec ma mère et il vient faire et moi je peux faire autre chose. Donc lui il va travailler pendant 10 20 30 40 50 minutes.
+5:205 minutes et 20 secondesTypiquement pour l'autre tâche il avait fait un travail de de 30 minutes.
+5:245 minutes et 24 secondesEnsuite ici création. Donc par exemple ici, je lui ai passé différentes vidéos et je lui ai dit voilà j'ai envie de que tu prennes une storm 10 boss ID que tu ailles chercher mon style et cetera. Il a il a travaillé pendant 25 30 minutes.
+Chapitre 7 : Création de contenu et réseaux sociaux
+5:355 minutes et 35 secondesIl a récupéré toutes les URL télécharger la vidéo Twitter de chacune des vidéos.
+5:405 minutes et 40 secondesIl est venu télécharger le transcript, faire d'analysis, récupérer mon contenu, mes vidéos pour réussir à trouver les trucs qui correspondent à mon contenu.
+5:475 minutes et 47 secondesIl m'a fait 10 posts, 10 idées de post LinkedIn que j'ai pu ensuite faire. Donc là, voilà, j'ai téléchargé les trois vidéos, je les ai transcrit et j'ai tout
+5:565 minutes et 56 secondesfait tes styles. Donc là, voilà, il y a tous les fichiers qui sont là. Donc là, j'ai tout ça qui peut faire ça et il y a tous ces histoires que tu vas pouvoir faire. Et donc là, il m'a fait tous les
+6:046 minutes et 4 secondesemails automatiquement. La même chose avec YouTube. Je lui envoie une YouTube.
+6:086 minutes et 8 secondesLà, je lui envoyé ma propre vidéo et je lui dis "Tu peux me dire les mêmes les main ID ?" Hop, il a téléchargé mon skill YouTube content YouTube transcript
+6:166 minutes et 16 secondesIOCLI. Ça c'est moi qui l'ai créé. Boou, il utilise mon YouTube content pour fetch les données. Donc là, apparemment, il a il essaie de faire plein de trucs.
+6:266 minutes et 26 secondesL'avantage, c'est qu'il est autonome.
+6:276 minutes et 27 secondesDonc boum, s'il a cherché la vidéo, à la fin, il a réussi. Moi, je m'en fous de comment il fait, même s'il 25 trucs qui réussit pas. Moi, j'ai le temps. Quand je demande un truc à Open Clow, c'est que j'ai le temps. Sinon, je vais
+Chapitre 8 : Gestion des sponsors YouTube
+6:356 minutes et 35 secondesdirectement le faire moi-même. Sponsor YouTube. Bah voilà, mon Open Clow gère tous les sponsors, il répond au sponsors, il donne le pring qui négocie.
+6:426 minutes et 42 secondesEt moi, au lieu de discuter avec les sponsors, il m'envoie en fait des daily digest avec toute la liste de sponsors et la liste de choses que je dois faire
+6:496 minutes et 49 secondeset je dois check et moi je regarde, je clique et je fais un audio. OK, en fait eux tu les dégages, eux tu les dégages pas, eux tu les gardes et cetera et
+6:586 minutes et 58 secondescetera. Et lui il va ensuite répondre à tous les trucs de manière autonome. Ça marche parfaitement bien. C'est quasiment incroyable quand je montre ça
+7:067 minutes et 6 secondesà des potes, ils me disent "Tu te fous de ma gueule ?" Parce que quand je leur montre les résultats que j'ai en faisant ça, ils se disent "Tu te fous de ma
+7:157 minutes et 15 secondesgueule. L'agent a fait ça de manière parfaite tout le temps et ça marche vraiment. Pas du bullshit pour dire
+7:237 minutes et 23 secondesvoilà maintenant je suis capable de créer des factures comme je t'ai montré avant." Non, c'est un agent qui est en train de négocier pour moi de manière autonome. Si ça c'est pas fou, qu'est-ce qui est fou ? Enfin c'est fantastique.
+Chapitre 9 : Support client et gestion d'accès
+7:347 minutes et 34 secondesOK. La même chose gestion du SAV. mon Open Clow est capable de débug les emails. Donc si tu reçois pas un email, il va te l'envoyer, il va tout gérer
+7:437 minutes et 43 secondeshein. Si vous vous inscrivez à mes cours, à mes formations et que vous les recevez pas, vous répondez. Il vous répond instantanément dans les 10 minutes plus précisément en vous aidant.
+7:517 minutes et 51 secondesIl va pouvoir gérer les remboursements.
+7:537 minutes et 53 secondesDonc il peut process les remboursements et gérer tous les tous les accès. Il peut même gérer les accès euh c'est-à-dire si vous s'il y a des
+8:018 minutes et 1 secondeproblèmes d'accès, s'il y a des problèmes de compte, s' a des problèmes d'autres, il est capable d'accéder à toutes ces infos. directement dans un chaîn Telegram et il m'envoie des
+8:098 minutes et 9 secondesmessages en mode attention j'ai besoin de toi, est-ce que je dois faire ça ?
+8:138 minutes et 13 secondesEst-ce que je dois faire ça ? Et même en fait mon open quand il est pas sûr de ce qu'il veut faire, enfin mon agent autonome, il va venir envoyer un message
+8:208 minutes et 20 secondesà mon assistant pour lui demander ce qu'il doit faire. C'est du génie. Et encore une fois, il apprend de ces trucs parce que chaque fois qu'il face à une nouveauté et ben je viens lui dire "OK,
+8:298 minutes et 29 secondesrésout ça comme ça." Ensuite il l'apprend et une fois qu'il a appris, il est capable de le refaire plus tard.
+Chapitre 10 : Suivi de santé et base de données personnelle
+8:348 minutes et 34 secondesdocteur. Donc ça c'est un vrai truc hein. Il y a Sad doct et là on peut voir qu'il a toutes les informations du mois.
+8:408 minutes et 40 secondesDonc là je vous ai caché mais tu as 23 ans, tu es allergique à ça. Chez toi combo est lié. Quand ça s'enflamme ça voyage ensemble. Ton oreille gauche est
+8:488 minutes et 48 secondesle point faible. Ton système digestif est fragile. Tu as une tendance de 10 sous stress immunitaire. J'ai beaucoup de choses. Mon agent c'est tout ce que j'ai eu parce qu'il a des fichiers.
+8:578 minutes et 57 secondesChaque fois que j'ai un problème médical, en fait, je viens créer un fichier et lui, il a comme instruction en fait de venir garder fichier très précis de tout ce qui m'arrive avec les
+9:059 minutes et 5 secondesdates, quel médicament j'ai pris, qu'est-ce que j'ai fait, quand est-ce que j'ai arrêté, quand est-ce que j'ai commencé et cetera et ce qui fait que c'est le docteur le plus qualifié pour
+9:139 minutes et 13 secondesm'aider au monde parce qu'il a toutes les infos sur moi. Alors, évidemment, il a pas le physique, il a pas mon mon corps comme un vrai docteur qui peut
+9:219 minutes et 21 secondesvoir physiquement ce que j'ai ou pas. En fait, il a assez pour pouvoir faire la majorité des choses. Donc c'est suffisant. Évidemment, le code Hermes est vraiment très très puissant pour
+9:309 minutes et 30 secondescoder. Et vous pouvez lui dire voilà, il y a ça qui manque, il y a ça qu'il faut faire, va sur ce ripo, va changer ça, va changer ça. Il va directement le faire.
+9:379 minutes et 37 secondesOn peut voir qu'ici il est capable de créer des pool request, de créer tout ce que vous voulez. Faut savoir que Hermes, c'est un harness super puissant pour conner. il est capable de venir tester
+9:459 minutes et 45 secondesl'application, la lancer, cliquer sur des boutons, vérifier que ça marche.
+9:499 minutes et 49 secondesPresque chaque fois qu'il y a un problème vraiment persistant et que je lance Hermes sur le bug, il arrive à le corriger dans 99 % des cas, s'il a les
+9:579 minutes et 57 secondesenvironnements variables, s'il a les données qui manquent et cetera. Donc ça c'est vraiment très puissant. Euh business insight, ça aussi c'est génial.
+Chapitre 11 : Analyse de données et Business Insights
+10:0310 minutes et 3 secondesDonc typiquement, moi je lui ai donné les accès à ma prodvexe. Donc il peut faire des queries sur la prod convexe, il peut faire des queries sur mes
+10:1010 minutes et 10 secondespostges qel, il a accès à mes API YouTube, il a accès aux API Typefully Fully pour avoir mes données sur Twitter, il a accès à mes ventes, il a accès aux emails, il a accès à tout ça.
+10:2010 minutes et 20 secondesEt en fait, tu viens de créer un agent qui a accès à tout cercle de data. Donc quand tu lui demandes maintenant faut que tu analyses X ou Y data, il est
+10:2810 minutes et 28 secondescapable de venir pull toutes les datas de tous les endroits et vous faire des analyses super pertinente. Donc là, typiquement, c'est moi qui lui donnait l'accès à ma prodvexe pour voir que mon
+10:3710 minutes et 37 secondesoutil a quand même eu 3198 messages visiteurs donc de donc de donc d'humain qui envoyé des messages sur
+10:4510 minutes et 45 secondesChao qui est le petit widget que tu peux mettre sur ton site et il est capable de venir deep dive sur toutes les données que je veux. J'ai qu'à lui dire voilà va regarder ça, va regarder ça, va regarder ça. Et lui il le fait tout simplement.
+10:5610 minutes et 56 secondesDonc ça c'est un autre exemple de ce que je peux faire avec mon agent IA. En général aussi, j'utilise voilà pour poser des questions et cetera. Alors,
+11:0511 minutes et 5 secondesdepuis que Claude ne supporte plus, moi je préfère quand même parler à Claude et sur l'iPhone. Maintenant, j'ai mis chat GPT directement euh directement euh sur
+11:1311 minutes et 13 secondesmes trucs et vu que j'ai le truc, ça va quand même un peu plus vite pour des petites questions. Mais sinon, pour tout ce qui est réflexion et cetera, je préfère largement faire des audios à mon
+Chapitre 12 : Interface et modèles GPT
+11:2111 minutes et 21 secondesagent parce que la mémoire, moi je déteste la mémoire sur chat GPT parce que c'est pas une mémoire que tu contrôles, c'est une mémoire un peu random. des fois il est en mode "Oh,
+11:2911 minutes et 29 secondesvas-y, je vais sauvegarder cette info." Pourquoi tu sauvegardes cette Je veux pas que tu vives avec Open Clow où un agent il a qui a des fichiers Markdown,
+11:3711 minutes et 37 secondesqui a ses fichiers de mémoire, alors il sauvegarde aussi des trucs un petit peu random des fois, mais il a beaucoup plus de fichiers de mémoire, beaucoup plus de manœuvre pour créer un un un workspace
+11:4611 minutes et 46 secondeset un environnement qui est excitant. OK ? et je trouve ça fantastique. En plus donc dans tout ce que vous pouvez faire,
+11:5411 minutes et 54 secondeson a ici Hermes donc ça c'est une des interfaces qu'on a. Alors faudrait que je la mette à jour où là on a toutes les petites données que je peux avoir juste
+12:0212 minutes et 2 secondesici avec les Mémoré. On a aussi les costs. Alors les costroyable 1200 euh 12526
+12:1012 minutes et 10 secondesapparemment je pense que c'est un peu bullshit. Là on voit tous les modèles que j'utilise. Donc vous voyez que j'utilise tout simplement uniquement GPT
+12:1712 minutes et 17 secondes5.4. GPT5.4, vous pouvez le mettre avec 1 million de tokens de window et moi personnellement, ça me va très bien. Moi
+12:2412 minutes et 24 secondesje je ne crois pas vraiment dans tout ce que beaucoup de gens qui disent souvent que le fait d'avoir 1 million de token égale moins bon résultat. En fait,
+12:3212 minutes et 32 secondespeut-être 5 % moins bien, mais 5 % moins bien que très bien et ben ça fait que très très bien. Ça devient très bien. Et
+12:4112 minutes et 41 secondesmoi très bien, écoutez en fait dans mon expérience, je me suis rendu compte que c'était suffisant. La même chose avec Claude. Moi, je travaille avec les 1 million de contextes tout le temps. Ce
+Chapitre 13 : Automatisation des tâches récurrentes
+12:4912 minutes et 49 secondesqui est intéressant, c'est que aussi tous les projets. Donc, on peut voir en fait qu'il a accès ici à des projets. On peut voir les states, on peut voir tous
+12:5712 minutes et 57 secondesles projets et il est capable de venir créer énormément de de sites et énormément de projets dans son dossier projet. C'est très cool et j'aime
+13:0413 minutes et 4 secondesbeaucoup comment c'est fait. On a aussi le Hermes dashboard. Donc ici avec euh les différentes versions, donc ça c'est le dashboard officiel avec ici les
+13:1213 minutes et 12 secondesanalytics. Donc vous voyez 767000 tokens peu moins les derniers jours parce que j'étais un petit peu en vacances. On peut voir par modèle. Donc j'utilise
+13:2013 minutes et 20 secondesprincipalement comme je t'ai dit tous les cron job. Ça aussi c'est vrai que j'en parle pas assez mais justement donc tous les trucs que je fais daily LinkedIn schedule check donc ça vient me
+13:2913 minutes et 29 secondesdire si j'ai bien schedule un tweet pour la journée. Daily calendar digest ça vient regarder ce que j'ai fait et
+13:3613 minutes et 36 secondesvérifier ceci. D'ailleurs, faudrait que je change cette description, elle est vraiment nulle. Donc là typiquement si j'en faire un truc, je vais aller dans un channel. Donc ici je vais aller dans
+13:4313 minutes et 43 secondesgénéral et je vais dire je vois que beaucoup de jobs ont cette description.
+13:4913 minutes et 49 secondess'il te plaît, mets les à jour avec une description vraiment utile que je puisse voir ce qui se passe. Donc voilà. Euh
+13:5713 minutes et 57 secondesweekly review. Euh donc là ça va être tous les Sunday evening, il va regarder l'argent que j'ai gagné, l'argent que j'ai perdu, les ventes et cetera. Daily
+14:0514 minutes et 5 secondescompétitor vidéo ID. Tous les jours, il va aller regarder une liste de youtubeurs que j'ai fait. Il va regarder leur dernière vidéo et il va me dire les vidéos que je pourrais faire. Weekly
+14:1314 minutes et 13 secondesMercury Digest, il vient me dire combien d'argent j'ai gagné ou pas ou perdu dans la semaine. Viens backup mon workspace deux fois par jour. Donc ici, on peut
+14:2114 minutes et 21 secondesvoir à 6h et à 21h. Donc avec la time zone de Paris, c'est 8h 23h. Il y a 2
+14:2814 minutes et 28 secondesheures de différence. Weekly CTA Link Performance Report, il vient regarder les links qui ont fait le plus de vues.
+14:3314 minutes et 33 secondesWeekly YouTube Stite update, il vient mettre à jour les informations concernant le nombre d'abonnés que j'ai.
+14:3914 minutes et 39 secondesDonc sponso daily cheeka, c'est ça n'existe plus. va le dégager. Daily Gmail 3 tous les jours à 9 am, il vient supprimer tous les emails, notifications
+14:4814 minutes et 48 secondeset cetera. Il vient les sais, il vient les les mettre à la trash donc je peux toujours les avoir. Dream Memory Consolidation, ça c'est très très cool, qui vient consolider ses mémoires tous
+14:5614 minutes et 56 secondesles jours. C'est très intéressant comme truc. Daily life admin Extraction memory. Ça c'est intéressant.
+15:0415 minutes et 4 secondesIl vient en fait regarder tous mes chats. Il vient regarder s'il y a des informations utiles pour le futur et il vient les garder en mémoire aussi. Daily
+15:1115 minutes et 11 secondesMercury email check. Alors ça c'est un truc très précis, c'est que j'attends de l'argent et je lui ai dit tous les jours, tu dois regarder si je gagne cet argent et tu dois venir m'envoyer un
+Chapitre 14 : Gestion des compétences de l'agent
+15:2015 minutes et 20 secondesmessage pour savoir si j'ai reçu cet argent ou non. Ensuite, on peut aussi voir tous les skills qui créent. Donc on peut voir que ici vient créer beaucoup
+15:2815 minutes et 28 secondesde skills. Codline refund codline lumil attribution tool API desbug convex direct prod convex versel des floy de
+15:3615 minutes et 36 secondesbrowser emirates skywarts munchmier ça par exemple c'est de la merde. Des fois il vous crée des trucs des des skills
+15:4415 minutes et 44 secondespour rien mais c'est mieux qu'il crée plus de skill que nécessaire qu'il n'en crée pas assez. OK, donc c'est pour ça que ça me dérange pas trop, mais on peut
+15:5215 minutes et 52 secondesvoir qu'il a beaucoup de skills juste ici. Ensuite, on a évidemment la config.
+15:5615 minutes et 56 secondesEt alors là, je vois qu'en fait on a des thèmes. Alors, je savais pas, ça c'était bien plus joli que l'autre. Et ici, on peut passer en chino. Ne me demandez pas
+Chapitre 15 : Conclusion et formation AI
+16:0416 minutes et 4 secondespourquoi c'est comme ça. Bref, voici un petit peu tout ce que vous pouvez faire.
+16:0816 minutes et 8 secondesIl y a beaucoup de chance que je parle d'Hermes très prochainement. Donc je vous invite à aller sur le premier lien sur cette vidéo pour avoir ses contenus sur RMS. En fait, j'ai envie de refaire
+16:1716 minutes et 17 secondesplutôt, je vais mettre à jour tout simplement la formation Open Clow que j'avais fait pour plus parler de I agent en général, d'automatisation adjantique,
+16:2516 minutes et 25 secondesquand c'est l'IG, comment réfléchir l'IG pour réaliser des choses incroyables.
+16:2916 minutes et 29 secondesDonc inscris-toi sur cette vidéo, on se retrouve là-bas et on se dit à bientôt. Ciao. Ciao.
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+40 k vues
+•
+il y a 8 jours
+
+
+1:39:47
+Créateur de l’IA : Plus que 2 ans avant le changement ! Ces emplois disparaîtront !
+The Diary Of A CEO
+2,2 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+14:25
+Est-ce le bon moment pour investir en SCPI ?
+Sud Radio
+20 vues
+•
+il y a 39 minutes
+Nouveau
+
+
+2:38:50
+Agent secret : Facilement offensé ? Facilement manipulé ! Astuce pour détecter un mensonge.
+The Diary Of A CEO
+ et Evy Poumpouras
+4,5 M de vues
+•
+il y a 1 an
+Doublée
+
+
+2:58:49
+Expert anti-âge : Manquer cette vitamine est comme fumer ! La vérité sur la créatine !
+The Diary Of A CEO
+ et FoundMyFitness
+5,4 M de vues
+•
+il y a 11 mois
+Doublée
+
+
+22:28
+Économie mondiale : tout est en train de changer
+Xavier Delmas
+116 k vues
+•
+il y a 2 semaines
+
+
+14:39
+CES JEUX QUI M'ONT MARQUÉ : STRONGHOLD
+Bazar du Grenier
+826 k vues
+•
+il y a 1 an
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,7 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+240 k vues
+•
+il y a 3 mois
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,9 M de vues
+•
+il y a 1 an
+Doublée
+
+
+30:53
+Les Musiques de Jeux Vidéo - Comment ça fonctionne ?
+Bazar du Grenier
+1,8 M de vues
+•
+il y a 2 ans
+
+
+13:09
+Ces jeux qui m'ont marqué : Batman Arkham Asylum
+Bazar du Grenier
+1 M de vues
+•
+il y a 4 ans
+
+
+2:21:31
+Méthode SIMPLE pour gagner 100 000$ de zéro | Experts en argent
+The Diary Of A CEO
+ et BigDeal by Codie Sanchez 
+2,3 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+1:46:22
+Casey Neistat : pourquoi j'ai arrêté YouTube et ce que je fais maintenant !
+The Diary Of A CEO
+1,5 M de vues
+•
+il y a 2 ans
+Doublée
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,6 M de vues
+•
+il y a 5 mois
+Doublée
+
+24:08
+Hermes Agent : le meilleur remplaçant à OpenClaw (c'est beaucoup mieux)
+Melvynx
+21 k vues
+•
+il y a 2 mois
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 8 mois
+
+2:43:51
+Docteur Insuline et Glucose : Ceci fera fondre votre graisse très vite !
+The Diary Of A CEO
+6,9 M de vues
+•
+il y a 1 an
+Doublée
+
+16:27
+Le grand tri des entreprises par l’IA a commencé
+Xavier Delmas
+55 k vues
+•
+il y a 1 mois
+
+9:29
+OpenClaw vs Hermes Agent (Ne Choisissez Pas MAL!)
+Metics Media
+91 k vues
+•
+il y a 2 semaines
+Doublée
+
+    

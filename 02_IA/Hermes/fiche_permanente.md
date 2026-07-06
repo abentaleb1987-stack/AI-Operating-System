@@ -5,7 +5,7 @@
 - Nom : Hermes
 - Type : Agent IA / couche agentique a evaluer
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-03
+- Derniere mise a jour : 2026-07-06
 
 ## 2. Role principal
 
@@ -44,6 +44,7 @@ Aucun cas d'usage n'est encore valide par experimentation interne, documentation
 - exposition publique directe de Hermes, Open WebUI, dashboard, ports API, tokens ou acces Telegram sans audit securite ;
 - automatisation d'emails, CRM, OAuth, MCP ou donnees metier sans validation humaine, journalisation et limites d'action ;
 - taches fiscales, juridiques, administratives ou financieres sans validation humaine finale, sources officielles et audit de conformite.
+- agent persistant avec acces larges a emails, donnees clients, bases de production, comptes financiers, informations medicales ou fichiers personnels sans cloisonnement, scopes minimaux, logs et validation humaine.
 
 ## 8. Workflows recommandes
 
@@ -78,6 +79,16 @@ Workflow d'experimentation agentique :
 6. Ajouter une skill uniquement si la procedure devient recurrente.
 7. Planifier via cron seulement apres validation manuelle.
 8. Prevoir une condition d'arret et une intervention humaine pour les actions sensibles.
+
+Workflow d'automatisation supervisee :
+
+1. Choisir une tache recurrente non critique et reversible.
+2. Donner uniquement les acces minimaux necessaires a l'agent.
+3. Executer la procedure manuellement une premiere fois avec journalisation.
+4. Transformer la procedure en skill seulement si elle est stable et relue.
+5. Ajouter une validation humaine avant tout email, paiement, remboursement, modification client ou ecriture en base.
+6. Activer un cron seulement apres plusieurs executions controlees.
+7. Revoir regulierement les skills, permissions, logs, couts et erreurs.
 
 Workflow de conception multi-agents :
 
@@ -171,6 +182,7 @@ Cas d'usage observes a tester :
 - usage de provider local pour scenarios sensibles ou tests de confidentialite ;
 - workflow multi-agents avec orchestrateur, agents specialises et agents de controle ;
 - automatisation email, CRM, administrative ou financiere uniquement sur donnees de test ou en mode supervise.
+- assistant persistant pour digests, suivis recurrents, support interne, preparation de contenus, recherche d'informations et analyse de donnees uniquement avec acces limites et validation humaine.
 
 Points a surveiller :
 
@@ -197,6 +209,11 @@ Points a surveiller :
 - securite VPS, Telegram, tokens et acces utilisateurs ;
 - confidentialite des donnees ;
 - fiabilite reelle sur les taches de veille et de prospection.
+- securite face aux prompt injections issues d'emails, pages web, commentaires ou documents lus par l'agent ;
+- proliferation de skills auto-creees, skills inutiles ou skills non auditees ;
+- controle des crons, digests et taches recurrentes qui agissent sans supervision continue ;
+- gestion des scopes API/OAuth et des droits sur emails, CRM, paiement, bases de donnees, fichiers personnels et donnees sensibles ;
+- cout complet des taches longues incluant recherches, retries, erreurs et generation de skills.
 
 ## 13. Decisions strategiques
 
@@ -208,3 +225,4 @@ Points a surveiller :
 - 2026-07-01 - Mise a jour - Sections 3, 7, 8, 9, 10, 11, 12 - Source YouTube Parlons IA business automation, workflow AOS GO partiel
 - 2026-07-01 - Consolidation - Sections 3, 11, 12 - Synthese permanente Hermes apres audit Aion
 - 2026-07-03 - Mise a jour - Sections 3, 8, 12 - Source YouTube Dr. Firas Hermes WebUI Ollama Kimi VPS, workflow AOS GO partiel
+- 2026-07-06 - Mise a jour - Sections 7, 8, 12 - Source YouTube Melvynx Hermes usages quotidiens, batch AOS GO partiel

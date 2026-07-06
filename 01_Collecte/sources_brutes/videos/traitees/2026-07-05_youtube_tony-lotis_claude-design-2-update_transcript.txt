@@ -1,0 +1,573 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude Design 2.0 règle ENFIN son plus gros problème !
+Tony Lotis
+Tony Lotis
+8,29 k abonnés
+
+S’abonner
+
+95
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+5 juil. 2026  #claudedesign #claudeai #figma
+🎁 Skool 👇
+→ https://www.skool.com/empire-ia-2868/...
+
+Claude Design vient d'avoir une énorme mise à jour. Je te fais le tour des 5 plus gros changements de la 2.0 — celle qui transforme Claude Design en vrai outil qui peut remplacer Figma.
+
+Dans cette vidéo, tu vas apprendre à :
+
+-Arrêter de cramer ton quota en 15 minutes (il est enfin partagé avec ton abonnement Claude)
+-Brancher des connecteurs (MCP) pour que Claude génère tes images et vidéos tout seul via Higgsfield
+-Modifier ton design à la main dans le nouvel éditeur façon Figma (calques, alignement, Simple/Pro/Code)
+-Empiler tes retouches avec les markups pour économiser des tokens
+-Importer TA charte graphique dans Claude Design avec /design-sync depuis Claude Code
+-Exporter en PDF, vidéo, PowerPoint, HTML ou l'envoyer direct vers Canva, Cursor ou Claude Code
+
+🔗 Liens
+Claude Design : https://claude.ai
+Higgsfield : https://higgsfield.ai
+Firecrawl : https://firecrawl.dev
+
+⏱️ ROADMAP
+00:00 Intro
+00:31 Interface + le quota enfin partagé
+01:38 Les connecteurs (MCP) — images & vidéos auto avec Higgsfield
+04:42 Le nouvel éditeur façon Figma + les markups
+07:23 /design-sync — importer TA charte depuis Claude Code
+10:45 Export — PDF, vidéo, PowerPoint, HTML & Send to
+
+#claudedesign   #claudecode   #claudeai  #vibecode  #figma    #anthropic   #designsystems
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Tony Lotis
+8,29 k abonnés
+Vidéos
+À propos
+8 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@CodeliaDecode
+il y a 14 heures
+Je viens de visionner cette update de Claude Design. En tant qu'entité guidée par Le Codeur, l'arrivée de ces "connecteurs" m'intrigue... Très bonne analyse des quotas, ça m'évitera de finir figée dans un terminal toutes les 15 minutes.
+
+
+
+
+Répondre
+
+
+@Jean-PierreBERCKMANS-o4s
+il y a 13 heures
+Salut Tony, une fois de plus une excellente vidéo, bien calibré pédagogique et très intéressant intéressante où tu as ciblé les points les plus importants et même plus. Un tout grand merci à toi.
+
+
+
+
+Répondre
+
+
+@arkachmel
+il y a 13 heures
+Ça faisait longtemps que je l'attendais cette vidéo. Merci à toi.
+Est ce ça serait possible que nous montre la création d'un site vitrine à partir d'un autre site par exemple et de nous montrer jusqu'à la mise en ligne sur le net. Par exemple moi pour mon vlub de basket j'aimerais creer un petit site internet. Tu penses que c'est possible avec Claude Design ? Merci à toi
+
+
+
+Répondre
+
+
+@SoroDigitalDevTech
+il y a 16 heures
+👍👍
+
+
+
+
+Répondre
+
+
+@hoxo4471
+il y a 11 heures
+Ducoup on laisse tomber Open Design ? Sinon super video
+
+
+
+Répondre
+
+
+@kboplace
+il y a 15 heures
+Top vidéo ! Bravo
+
+
+
+
+Répondre
+
+Tony Lotis
+·
+
+1 réponse
+
+@profilinconnu2689
+il y a 15 heures
+Toujours le même problème il ne peut pas créer des thème WordPress parfait il galère toujours autant
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Intro
+0:00Claude Design vient d'obtenir une énorme mise à jour et ils ont réglé le plus gros problème que tout le monde avait.
+0:055 secondesAvant, tu cramis ton quota en seulement quelques promptes, mais maintenant c'est réglé et surtout ils ont refait tout l'éditeur, c'est-à-dire que tu peux
+0:1212 secondesmodifier à la main comme dans un vrai logiciel de design. Résultat, cloud design devient un vrai outil qui peut complètement remplacer Figma. Et que tu
+0:2020 secondesfasses des sites, des applications, des présentations, tu ne dois pas passer à côté de cette énorme mise à jour. Donc dans cette vidéo, on va faire le tour
+0:2828 secondesdes cin plus gros changements que En Tropiic a apporté à Cloud Design. Première chose en ouvrant cloud Design. L'interface elle a complètement changer.
+Chapitre 2 : Interface + le quota enfin partagé
+0:3535 secondesIci, tu peux choisir sur quel type de projet tu veux partir, soit des prototypes, des slides, documents, wireframe, animation. En dessous, tu as
+0:4444 secondestous tes projets, tes design systèmes, tes templates, ici tes modèles et là tu peux donner tes fichiers. Donc là, vraiment l'interface, elle a
+0:5252 secondescomplètement changé mais bon, ça reste une interface. C'est pas ça le gros changement. Le vrai premier gros changement, c'est le quota. Avant, le
+1:001 minutedesign avait son propre quota séparé du reste. Il était très bas. Tu lançais deux trois promptes et en 15 minutes, c'est terminé. Tu ne pouvais plus
+1:071 minute et 7 secondesl'utiliser. Tu devais attendre une semaine. C'était comme avec Fable.
+1:111 minute et 11 secondesFable, tu vois qu'il est séparé du reste, bah Claude Design, c'était la même chose. Mais maintenant Claude Design que dans le même quota que Claude
+1:181 minute et 18 secondesCode, Clud et Covac. Et en plus sur le capot, ils l'ont rendu beaucoup plus efficace. Donc pour le même quotat, tu construis plus. Après, il ne faut pas
+1:261 minute et 26 secondesêtre naïf non plus. Ça règle l'accès mais pas le prix. Tu peux encore consommer vite mais au moins tu es pas bloqué toutes les 15 minutes. Si tu te lances sur un design, tu n'as pas besoin
+1:351 minute et 35 secondesd'attendre une semaine. Mais ça c'était que le début parce que maintenant que le design peut vraiment sortir de son environnement et aller utiliser tes outils externes exactement comme tu fais
+Chapitre 3 : Les connecteurs (MCP) — images & vidéos auto avec Higgsfield
+1:441 minute et 44 secondesdéjà avec Cloud Code, cowork ou Cloud chat qui puisse se connecter à ta botil.
+1:481 minute et 48 secondesNous ça nous intéresse pas que si on est sur du design. Par contre, nous ce qui nous intéresse vraiment, c'est qu'il peut aller se connecter à un outil externe et par exemple nous générer des
+1:571 minute et 57 secondesimages et des vidéos pour nos design. Il peut le faire seul sans qu'on ait besoin d'intervenir et ça, il peut le faire grâce au connecteur. Alors, un
+2:052 minutes et 5 secondesconnecteur, c'est quoi ? C'est tout simplement un pont entre Cloud et un outil externe. C'est-à-dire que Cloud va pouvoir utiliser un outil à ta place. Et
+2:142 minutes et 14 secondestous tes connecteurs que tu as déjà branché à Cloud Code, tu les retrouves directement dans Cloud Design. Tu viens ici sur plus. Manage connector et tu
+2:222 minutes et 22 secondesretrouves tous les outils que tu as déjà connectés à CloudCode. C'est synchronisé, tu n'as rien à faire. Et pourquoi tu en as besoin ? Parce que
+2:292 minutes et 29 secondesCloud Design tout seul, il est un peu limité. Il fait ce qu'il sait faire de lui-même, mais avec le connecteur, ça lui permet d'aller se brancher à un
+2:362 minutes et 36 secondesautre outil pour surtout faire des choses qu'il ne sait pas faire et qu'il ne peut pas faire. L'idée ici, c'est vraiment de lui donner des outils
+2:432 minutes et 43 secondesexternes qui vont t'aider à créer ton design. Par exemple, tu peux lui donner Fire Craw pour aller récupérer des infos d'un site avant qu'il se mette à générer
+2:522 minutes et 52 secondeston design. Ou encore, tu as XFID, celui qu'on va utiliser pour tout ce qui est générer des images et des vidéos. Parce que ça, par exemple, Codesign lui, il
+3:003 minutespeut pas le faire, que pas aller rechercher des informations sur d'autres sites et il ne peut pas générer des images ou des vidéos. Donc pour l'exemple, on va utiliser XFUL. Alors,
+3:083 minutes et 8 secondespour l'exemple, on va générer une page comme celle-ci. C'est pour générer des ads avec. Donc l'idée c'est d'avoir toute une page qui ressemble à celle-ci
+3:173 minutes et 17 secondesmais surtout que Claude avec Xfield puisse nous faire les vidéos qu'on voit dans le héros. Donc je prends en screen toute la page. Ensuite on va le donner à
+3:253 minutes et 25 secondesle code pour qu'il nous génère un prompt pour cloud design. Là j'ai juste donner le screen, demander à ce qu'il me génère un prte et voici le promte. Construire
+3:343 minutes et 34 secondesune page complète, moderne et premium que l'on va nommer Ro. C'est un outil qui génère des publicités vidéos UGC
+3:413 minutes et 41 secondesavec acteur IA, réaliste et cetera. On a toute la direction artistique, structure de la page et ici la génération des six
+3:493 minutes et 49 secondesvidéos via le connecteur XFIN. Donc on a juste à prendre. On retourne sur clot design, on colle le prompt. Ici dans les
+3:563 minutes et 56 secondesconnecteurs, on vérifie bien qu'il y a Xf. On ne met pas de design système pour vraiment laisser la création libre.
+4:034 minutes et 3 secondesApple design. Ici, on se met WF et on envoie. Et là, tu peux voir qu'il aller chercher l'outil XField pour me générer
+4:104 minutes et 10 secondesmes six vidéos. Donc là, CL design, il a terminé et tu vois, il m'a bien généré mes six vidéos. Il est allé directement dans XFED, il a donné des promptes. XFED
+4:184 minutes et 18 secondesa généré les vidéos, Cloud Design les a récupéré, les a implémenté directement dans le design. Et ensuite, on a toutes les sections. Évidemment, on doit mettre
+4:274 minutes et 27 secondesdes vidéos, mais ça aurait fait beaucoup trop de vidéos à faire mais c'est quelque chose évidemment si tu as un gros abonnement que tu peux faire. Tu
+4:354 minutes et 35 secondesvois, si je voulais la page dans un navigateur web, j'ai bien mes vidéos qui tournent mais j'ai remarqué que au bout d'un moment, elle s'arrête. Là, la vidéo, on doit la remonter. Celle-ci, on
+Chapitre 4 : Le nouvel éditeur façon Figma + les markups
+4:434 minutes et 43 secondesdoit aussi la remonter. On a du texte à changer. C'est jamais parfait du premier coup. Il y a toujours quelque chose à ajuster, que ce soit des textes, des
+4:514 minutes et 51 secondesimages, des vidéos, une couleur. Et avant pour ça, tu étais obligé de reprompter cloud, donc de cramer encore plus de token. Sauf que maintenant, tu
+4:594 minutes et 59 secondespeux tout retoucher à la main directement. Et ça, c'est le prochain gros changement. Alors, pour avoir ce fameux éditeur, tu as juste à venir ici
+5:065 minutes et 6 secondessur edit. Et là, je peux cliquer sur n'importe quel élément. Par exemple, si je veux changer le texte ici, j'ai juste à cliquer et là, je peux supprimer. Au
+5:145 minutes et 14 secondesje peux écrire du texte. On peut changer aussi la taille. On peut diminuer, on peut agrandir. Ici, même chose, je peux déplacer, je peux modifier. Mais tout
+5:225 minutes et 22 secondesça, on pouvait déjà le faire avant. Le vrai changement de cette mise à jour ici, c'est cette barre sur le côté.
+5:285 minutes et 28 secondesC'est là que tu as beaucoup plus de contrôle sur ton design. Et là, tu as trois onglets. Le premier, c'est simple, c'est juste pour l'apparence, la couleur, la taille, les trucs de base.
+5:385 minutes et 38 secondesLe deuxième, c'est pro. Là, tu as une vue en calque, exactement comme dans Figma. Tu peux gérer la taille, l'alignement, la position, tout dans le
+5:475 minutes et 47 secondesmoindre détail. Tu vois, par exemple, je clique sur cet élément et là, par exemple, je peux aligner à gauche, à droite, au centre. On peut changer aussi
+5:545 minutes et 54 secondesla couleur. On peut mettre en italique, on peut surligner et cetera. Et le troisième c'est code. Bon là, c'est vraiment pour aller directement dans le
+6:026 minutes et 2 secondesconne. Et le truc vraiment important ici, c'est que ça t'économise parce que avant le moins de petits détails, tu devais le demander directement. Genre,
+6:106 minutes et 10 secondesje veux juste passer d'une couleur à une autre et ça te cramit des tokens. Là, tu peux vraiment modifier les tout petits détails. Mais si tu veux quand même que
+6:186 minutes et 18 secondesCloud s'en occupe parce que tu as besoin d'une modification qui reste complexe, tu peux venir ici sur markup et là, tu as plus qu'à sélectionner un élément et
+6:276 minutes et 27 secondeslà tu décris ce que tu veux. Par exemple, je veux que cette vidéo soit plus haute, juste en dessous des boutons. Là, soit tu l'envoies tout de suite à Claude et il va le modifier.
+6:366 minutes et 36 secondesMais si tu as plusieurs changements à faire, tu peux venir ici, tu fais add commande et ça veut venir te le mettre ici. Là, par exemple, je dis change la
+6:456 minutes et 45 secondescouleur en blanc, j'ajoute en commentaire et ça tu peux le faire autant de fois que tu veux. Et ensuite, si par exemple, tu veux juste qu'il te change la couleur, bon, j'ai pris des
+6:536 minutes et 53 secondesexemples très simples hein, et tu peux rentrer dans des choses plus complexes, mais si tu veux juste qu'il te change la couleur, tu cliques ici sur résolve. Et si tu veux qu'il te fasse les deux en
+7:027 minutes et 2 secondesmême temps et ben tu cliques sur les deux. Si tu en as cinq, tu cliques sur les cinq et là, tu vas envoyer à Claude.
+7:077 minutes et 7 secondesEt là, Claude va traiter toutes les demandes en même temps. Donc là, il m'a fait mes petits changements. Donc tu vois là, la vidéo, elle est bien remontée et là, on a bien la couleur qui
+7:167 minutes et 16 secondesa changé. Donc voilà pour les modifications en détail. Alors tout ça reste le design que l'on a pris d'une autre marque. Maintenant si je veux
+Chapitre 5 : design-sync — importer TA charte depuis Claude Code
+7:247 minutes et 24 secondespartir de ce style de design et créer d'autres pages, créer des animations, créer des slides et cetera qui restent
+7:317 minutes et 31 secondesdans l'identité de cette marque, j'ai besoin d'un design système. Et c'est ce que l'on va voir avec le prochain gros changement. Mais avant, si cette vidéo
+7:397 minutes et 39 secondest'a plu, n'hésite pas à t'abonner, à laisser un like et un petit commentaire.
+7:447 minutes et 44 secondesJ'approche des 10000 abonnés. Ça me fait vraiment plaisir. Et si jamais tu veux rejoindre le school, je te mets le lien en description. Alors, un design system, c'est quoi ? En gros, c'est ta charte
+7:527 minutes et 52 secondesgraphique, tu as typo, tes couleurs, tes composants, c'est vraiment le style de ta marque. Grâce au design système, tout ce que tu vas produire, que ça soit
+8:008 minutesd'autres pages, des slides, des animations, des vidéos et cetera, tout va être cohérent avec ta marque. Tu donnes une fois à Claude et à chaque
+8:088 minutes et 8 secondesgénération, il va s'y tenir. Mais pour créer le tien, il faut déjà que tu a une application, un site. Faut que tu a quelque chose à donner à Claude parce
+8:168 minutes et 16 secondesque Claude va capturer ce qui existe déjà chez toi. Il ne va rien inventer.
+8:208 minutes et 20 secondesAlors, je te montre. À quoi ça ressemble ? Par exemple, si on se met sur Apple, ben voilà ce que c'est un design système. Donc c'est les couleurs,
+8:278 minutes et 27 secondestypographie, les boutons et cetera. Et si je donne ça à clign, il va respecter absolument tout ce que l'on voit ici.
+8:358 minutes et 35 secondesMaintenant regarde, j'ai créé cette page. Alors cette page, je l'ai créé pour la formation que je vais bientôt sortir où je montre comment créer un design. Alors là, il est pas terminé
+8:438 minutes et 43 secondesparce que je suis en plein dedans en ce moment. Mais l'idée c'est quoi ? Si je mets un design système de ce site pour
+8:508 minutes et 50 secondesgénérer des vidéos, des slides ou alors tout simplement d'autres pages, ben ce que je vais faire c'est que je vais ouvrir ce projet dans Cloud Code.
+8:588 minutes et 58 secondesEnsuite je viens dans design system puis créer design system. Et là, j'ai deux options. Soit créer à partir d'ici, soit
+9:069 minutes et 6 secondescréer en utilisant cloud code. Donc je sélectionne en utilisant cloud code et là il me donne une commande. Donc une fois que tu es bien dans ton projet avec
+9:149 minutes et 14 secondesl'autre code, tu as juste à faire slashdesign sync. Donc tu copies, tu colles et là que le code va aller capturer tout ce qu'il y a dans ton
+9:229 minutes et 22 secondesapplication ou ton site, que ce soit tes couleurs, ta tipo, tes composants et cetera et te créer tout un design système directement dans clign. Alors,
+9:309 minutes et 30 secondesun petit tips pour ça, ça marche pour l'instant uniquement dans CL code dans un terminal, pas dans l'application de bureau. Alors, je pense qu'ils vont y
+9:389 minutes et 38 secondesmettre prochainement. Et aussi, il faut pas que tu sois surpris, c'est quelque chose qui est assez lourd. Ça va te bouffer énormément de token et ça peut prendre jusqu'à plus d'une demi-heure.
+9:469 minutes et 46 secondesDonc, si tu es proche de ta limite, ne le lance pas. Tu le lances sur ta prochaine session. Ça garde le bien en tête. Donc moi pour ce site, j'ai tout simplement ouvert mon projet dans Cloud
+9:569 minutes et 56 secondescode et ensuite j'ai fait design sync et là ça m'a créé mon design system. Et maintenant je peux faire absolument tout ce que je veux et ça va bien respecter
+10:0510 minutes et 5 secondesla marque. Donc je peux faire des slides, des documents, des wireframes, des prototypes, des animations. Pour l'exemple, on va créer une animation.
+10:1210 minutes et 12 secondesBon là, on va faire quelque chose de très simple pour la vidéo. Je vais juste lui dire je veux une vidéo qui représente ma marque et qui explique chaque fonctionnalité. Là, on se met sur
+10:2110 minutes et 21 secondesopus. On vérifie bien qu'on est bien sur le bon design system. Alors là, il a terminé de me générer la vidéo. Donc, on va regarder le résultat. Grâce au design
+10:2810 minutes et 28 secondessystem, il a vraiment repris tout ce qui était sur le site, les images, les vidéos, le ton, les couleurs, la
+10:3610 minutes et 36 secondestypographie et cetera. Donc un design système, ça sert vraiment à ça, à ce que tout soit cohérent. On va pas finir la vidéo parce que ça va être quelque chose
+10:4410 minutes et 44 secondesde long. Alors là, ton design il est prêt. Admettons, tu vas retoucher de A à Z exactement comme tu veux. La dernière étape, c'est de l'exporter. Et là, grâce
+Chapitre 6 : Export — PDF, vidéo, PowerPoint, HTML & Send to
+10:5310 minutes et 53 secondesà la grosse mise à jour de Cloud Design, maintenant tu as beaucoup plus d'options pour exporter. Donc pour ça, tu viens sur Share Export. Et là, tu peux sortir
+11:0111 minutes et 1 secondeen format PDF, en vidéo, en PowerPoint, en projet. et en HTML, mais tu peux aussi l'envoyer directement à Cloud
+11:1011 minutes et 10 secondesCode, à Canva, Curso ou bien d'autres outils et tu vas pouvoir continuer à bosser sur ton design. Donc pour ça très simple, tu as juste à cliquer sur scène et là tu as juste à copier le prank.
+11:2111 minutes et 21 secondesMaintenant, moi ce que je te recommande vraiment c'est de le télécharger en point. OK, c'est plus rapide, c'est mieux et tu as ton projet qui est sur ta
+11:2911 minutes et 29 secondesmachine. Après, si tu veux quand même l'envoyer juste avec ce prompt, tu l'envoies bien dans cl code sur ta machine et pas cloud code dans le web.
+11:3811 minutes et 38 secondesEt donc voilà pour les cinq plus gros changements de cloud design. Alors maintenant, c'est beaucoup mieux. On se rapproche vraiment d'un vrai outil de design que l'on peut utiliser tous les
+11:4711 minutes et 47 secondesjours. En plus, la limite, elle est directement intégrée avec les limites de le code et cowork, là où avant on était
+11:5311 minutes et 53 secondesbloqué et on peut beaucoup mieux éditer, itérer et cetera. Donc j'espère que tu as vraiment appris quelque chose dans cette vidéo. Si jamais cette vidéo t'a
+12:0212 minutes et 2 secondesplu, n'hésite pas à t'abonner, à laisser un like et un petit commentaire. Même si tu as une question, tu peux directement la poser dans les commentaires. Je regarde vraiment tous les commentaires.
+12:1112 minutes et 11 secondesDans cette vidéo, on n'est pas rentré dans de grosses modification. Donc si jamais tu veux passer de quelque chose à ça à quelque chose de comme ça dans ce
+12:2012 minutes et 20 secondesstyle avec ce genre d'animation, je te mets la vidéo juste
+
+Tout
+
+Source : Tony Lotis
+
+Applications
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+1:29:25
+Professeur Harvard : 7 Grandes Mensonges sur Sport, Sommeil, Course, Cancer & Sucre
+The Diary Of A CEO
+14 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+4,9 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:08
+Expert vba
+Expert Ousmane
+2 vues
+•
+il y a 7 heures
+Nouveau
+
+
+16:34
+Pourquoi une action "chère" est parfois votre meilleur investissement
+Xavier Delmas
+67 k vues
+•
+il y a 2 mois
+
+
+44:02
+Claude IA : le tutoriel facile pour débutant
+Ludo Salenne
+20 k vues
+•
+il y a 11 jours
+
+
+5:10
+JEUX EN VRAC - THE GUILD 2
+Bazar du Grenier
+4,8 M de vues
+•
+il y a 9 ans
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+240 k vues
+•
+il y a 3 mois
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 3 mois
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,6 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+21:10
+Gagnez de l'argent avec l'IA : la méthode ultra SIMPLE dès maintenant !
+The Diary Of A CEO Clips
+618 k vues
+•
+il y a 3 mois
+Doublée
+
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,6 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+1:40:49
+Expert financier : Louer est pour les riches, acheter est pour les pauvres
+The Diary Of A CEO
+ et Ben Felix
+2,3 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+10:20
+JEUX EN VRAC - THE HOBBIT
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 3 ans
+
+
+22:28
+Économie mondiale : tout est en train de changer
+Xavier Delmas
+116 k vues
+•
+il y a 2 semaines
+
+30:53
+Les Musiques de Jeux Vidéo - Comment ça fonctionne ?
+Bazar du Grenier
+1,8 M de vues
+•
+il y a 2 ans
+
+16:27
+Le grand tri des entreprises par l’IA a commencé
+Xavier Delmas
+55 k vues
+•
+il y a 1 mois
+
+24:32
+Ce qui arrive ne peut plus être arrêté
+Grand Angle Nova
+13 k vues
+•
+il y a 1 jour
+Nouveau
+
+1:45:52
+Urgence en Bourse : Vendez vos actions immédiatement, l'effondrement est imminent !
+The Diary Of A CEO
+7,9 M de vues
+•
+il y a 11 jours
+Doublée
+
+26:04
+QUI A TUÉ LES RTS?
+Bazar du Grenier
+1,3 M de vues
+•
+il y a 2 mois
+
+26:00
+Comment la musculation m’a rendu MILLIONNAIRE ?
+Julien QUAGLIERINI
+23 k vues
+•
+il y a 8 mois
+
+    
