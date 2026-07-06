@@ -76,6 +76,15 @@ STRONG_SECTION_TERMS = (
     "decisions strategiques",
     "décisions stratégiques",
 )
+METADATA_UPDATE_RE = re.compile(r"^(?:[-*]\s*)?derni[eè]re mise [aà] jour\s*:", re.IGNORECASE)
+UNCERTAINTY_ALLOWED_SECTION_TERMS = (
+    "evolutions",
+    "Ã©volutions",
+    "évolutions",
+    "points a surveiller",
+    "points Ã  surveiller",
+    "points à surveiller",
+)
 
 RISK_ORDER = {
     "faible": 1,
@@ -202,7 +211,49 @@ def dedupe_changed_files(files: list[ChangedFile]) -> list[ChangedFile]:
     return list(by_key.values())
 
 
-def classify_commit(subject: str, files: list[ChangedFile]) -> str:
+def diff_changed_content_lines(commit: str, path: str) -> list[str]:
+    raw = run_git(["show", "--format=", "--unified=0", commit, "--", path], check=False)
+    lines: list[str] = []
+    for line in raw.splitlines():
+        if not line.startswith(("+", "-")):
+            continue
+        if line.startswith(("+++", "---")):
+            continue
+        lines.append(line[1:].strip())
+    return lines
+
+
+def is_metadata_update_line(line: str) -> bool:
+    return bool(METADATA_UPDATE_RE.match(line.strip()))
+
+
+def metadata_only_change(commit: str, path: str) -> bool:
+    changed_lines = [line for line in diff_changed_content_lines(commit, path) if line]
+    return bool(changed_lines) and all(is_metadata_update_line(line) for line in changed_lines)
+
+
+def metadata_only_across_commits(commits: list[str], path: str) -> bool:
+    touched = False
+    for commit in commits:
+        changed_lines = [line for line in diff_changed_content_lines(commit, path) if line]
+        if not changed_lines:
+            continue
+        touched = True
+        if not all(is_metadata_update_line(line) for line in changed_lines):
+            return False
+    return touched
+
+
+def commit_is_metadata_maintenance(commit: str, files: list[ChangedFile]) -> bool:
+    changed = [item for item in files if item.status.startswith("M")]
+    if not changed:
+        return False
+    if not all(PERMANENT_RE.match(item.path) for item in changed):
+        return False
+    return all(metadata_only_change(commit, item.path) for item in changed)
+
+
+def classify_commit(subject: str, files: list[ChangedFile], commit: str | None = None) -> str:
     subject_lower = subject.lower()
     paths = [item.path for item in files]
     all_paths = paths + [item.old_path for item in files if item.old_path]
@@ -229,6 +280,8 @@ def classify_commit(subject: str, files: list[ChangedFile]) -> str:
 
     if touches_audit or "audit" in subject_lower:
         return COMMIT_CLASSES["audit"]
+    if commit and commit_is_metadata_maintenance(commit, files):
+        return COMMIT_CLASSES["maintenance"]
     if not touches_permanent and (
         "rename processed" in subject_lower
         or "move processed" in subject_lower
@@ -256,7 +309,7 @@ def commit_infos(commit_lines: list[str]) -> list[CommitInfo]:
                 short_hash=short_hash,
                 date=date,
                 subject=subject,
-                classification=classify_commit(subject, files),
+                classification=classify_commit(subject, files, full_hash),
                 files=files,
             )
         )
@@ -348,6 +401,18 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
         )
 
     for item in classes["permanent_modified"]:
+        is_metadata_only = metadata_only_across_commits(commits, item.path)
+        if is_metadata_only:
+            alerts.append(
+                Alert(
+                    level="faible",
+                    category="maintenance metadata",
+                    path=item.path,
+                    observation="Modification limitee a la ligne de derniere mise a jour.",
+                    recommendation="Aucune action Aion prioritaire requise.",
+                )
+            )
+            continue
         text = read_text(item.path).lower()
         added = max((added_line_count(commit, item.path) for commit in commits), default=0)
         if item.path.startswith(MAJOR_PREFIXES) and added >= 50:
@@ -370,7 +435,7 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
                     recommendation="Verifier que les ajouts restent synthetiques et consolides.",
                 )
             )
-        if any(term in text for term in SPECULATION_TERMS):
+        if speculation_terms_outside_allowed_sections(item.path):
             alerts.append(
                 Alert(
                     level="moyen",
@@ -392,6 +457,8 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
             )
 
     for item in classes["transversal_modified"]:
+        if metadata_only_across_commits(commits, item.path):
+            continue
         alerts.append(
             Alert(
                 level="eleve",
@@ -569,6 +636,20 @@ def text_in_strong_section(path: str, terms: tuple[str, ...]) -> bool:
         if in_strong_section and any(term in stripped for term in terms):
             return True
     return False
+
+
+def speculation_terms_outside_allowed_sections(path: str) -> bool:
+    lines = read_text(path).splitlines()
+    in_allowed_section = False
+    found_outside = False
+    for line in lines:
+        stripped = line.strip().lower()
+        if stripped.startswith("#"):
+            in_allowed_section = any(section in stripped for section in UNCERTAINTY_ALLOWED_SECTION_TERMS)
+            continue
+        if any(term in stripped for term in SPECULATION_TERMS) and not in_allowed_section:
+            found_outside = True
+    return found_outside
 
 
 def is_priority_candidate(alert: Alert) -> bool:
