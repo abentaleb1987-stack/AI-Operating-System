@@ -5,7 +5,7 @@
 - Nom : Hermes
 - Type : Agent IA / couche agentique a evaluer
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-06
+- Derniere mise a jour : 2026-07-08
 
 ## 2. Role principal
 
@@ -69,6 +69,19 @@ Workflow d'experimentation VPS securisee :
 7. Restreindre l'acces reseau, par exemple via Tailscale ou solution equivalente.
 8. Tester TUI, canal de communication, interface, logs, crons et dashboard.
 9. Documenter les risques, tokens, ports exposes et procedures de mise a jour.
+
+Workflow de durcissement VPS avant Hermes :
+
+1. Creer le serveur avec une cle SSH et un firewall minimal avant l'installation applicative.
+2. Se connecter une premiere fois en root uniquement pour creer un utilisateur dedie.
+3. Copier la cle SSH vers l'utilisateur dedie puis verifier la connexion sans mot de passe.
+4. Configurer UFW et limiter les ports ouverts au strict necessaire.
+5. Modifier le port SSH seulement apres avoir garde une session de secours ouverte.
+6. Desactiver l'acces root et l'authentification par mot de passe apres verification.
+7. Installer Fail2ban ou mecanisme equivalent de limitation des tentatives.
+8. Mettre a jour le systeme avant d'installer Hermes.
+9. Verifier `hermes doctor`, `hermes status`, le provider LLM, les tokens et les canaux de controle.
+10. Programmer un audit recurrent de securite VPS uniquement en lecture et avec rapport clair.
 
 Workflow d'experimentation agentique :
 
@@ -222,6 +235,7 @@ Points a surveiller :
 - criteres de choix des providers par criticite, cout, confidentialite et capacites ;
 - Ollama comme provider potentiel pour Hermes WebUI, y compris modeles cloud, limites Pro, cout reel, confidentialite, reseau Docker partage et configuration provider personnalise ;
 - securite VPS, Telegram, tokens et acces utilisateurs ;
+- ordre de durcissement VPS avant installation Hermes : utilisateur dedie, cle SSH, firewall, UFW, port SSH, Fail2ban, mises a jour et verification de rollback ;
 - confidentialite des donnees ;
 - fiabilite reelle sur les taches de veille et de prospection.
 - securite face aux prompt injections issues d'emails, pages web, commentaires ou documents lus par l'agent ;
@@ -242,3 +256,4 @@ Points a surveiller :
 - 2026-07-03 - Mise a jour - Sections 3, 8, 12 - Source YouTube Dr. Firas Hermes WebUI Ollama Kimi VPS, workflow AOS GO partiel
 - 2026-07-06 - Mise a jour - Sections 7, 8, 12 - Source YouTube Melvynx Hermes usages quotidiens, batch AOS GO partiel
 - 2026-07-07 - Mise a jour - Sections 3, 8, 12 - Source YouTube Parlons IA Hermes LM Studio modeles Fable locaux, batch AOS GO partiel
+- 2026-07-08 - Mise a jour - Sections 8, 12 - Source YouTube Kavyro Hermes VPS Hetzner, batch AOS GO partiel

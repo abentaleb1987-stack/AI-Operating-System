@@ -1,0 +1,1601 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Installer Hermes Agent sur VPS : le bon setup Hetzner
+David Schkiwisk - Kavyro
+David Schkiwisk - Kavyro
+1,53 k abonnés
+
+S’abonner
+
+136
+
+
+Partager
+
+Posez une question
+
+3 426 vues  22 avr. 2026
+Retrouve toutes les commandes SSH (Inscription Gratuite):  
+https://go.kavyro.com/yt-RP8ejknh
+
+👉 20€ Offert chez Hetzner : https://hetzner.cloud/?ref=66i443rj8O57
+
+Installer Hermes Agent sur un VPS Hetzner, ce n’est pas compliqué.
+Ce qui fait perdre du temps, c’est le mauvais ordre : SSH mal sécurisé, port mal ouvert, accès root mal géré, ou firewall activé trop tôt.
+
+Dans ce tutoriel, je te montre une installation propre de A à Z sur Ubuntu 24.04 :
+création du VPS
+firewall Hetzner
+connexion root initiale
+création du user hermes
+copie de la clé SSH
+configuration UFW
+durcissement SSH
+installation de Fail2ban
+update serveur
+installation et setup de Hermes Agent
+
+Objectif : repartir avec un serveur propre, sécurisé, et un Hermes fonctionnel.
+
+Si tu veux construire de vrais agents IA utiles pour ton business, tu peux aussi regarder :https://go.kavyro.com/yt-RP8ejknh-2
+
+Sommaire
+00:00 Pourquoi ce tuto
+00:25 Pourquoi Hetzner
+00:45 Choisir le serveur
+01:05 Firewall Hetzner
+01:35 Connexion root
+01:50 Création du user hermes
+03:10 UFW
+04:10 Durcissement SSH + port 2222
+06:40 Fail2ban
+07:40 Update serveur
+08:00 Installation Hermes
+09:00 Setup et premières commandes
+10:00 Bonnes pratiques
+David Schkiwisk détaille le déploiement sécurisé d'un agent IA autonome sur un serveur virtuel. Ce guide pratique couvre la configuration SSH, l'utilisation d'un pare-feu, l'installation de File2Ban et l'intégration de messageries comme Telegram pour interagir efficacement avec cet outil d'automatisation.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+David Schkiwisk - Kavyro
+1,53 k abonnés
+Vidéos
+À propos
+true
+53:10
+Hermes vs OpenClaw : pourquoi Julien a tout basculé sur Hermes Agent
+de David Schkiwisk - Kavyro
+true
+20:06
+Tu as installé Hermes. Crée maintenant ton agent orchestrateur
+de David Schkiwisk - Kavyro
+15 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @davidschk
+@davidschk
+il y a 2 mois (modifié)
+Atelier Hermes en direct chaque mardi! Rejoins Kavyro ici : https://kavyro.com
+
+1
+
+
+Répondre
+
+
+@jeanphilippedupuy1124
+il y a 1 mois
+Bonjour David,
+
+Merci beaucoup pour le temps consacré à nous éclairer et nous aider ! 
+Je vais explorer ces solutions en suivant ton pas à pas 
+Merci
+
+1
+
+
+
+Répondre
+
+David Schkiwisk - Kavyro
+·
+
+1 réponse
+
+@renanrocha412
+il y a 3 semaines
+Merci pour tous les efforts ! Contenu de qualité !
+
+1
+
+
+
+Répondre
+
+David Schkiwisk - Kavyro
+·
+
+1 réponse
+
+@Tevez.808
+il y a 8 jours
+Bien la vidéo 
+
+
+
+Répondre
+
+
+@tutosinformatique35
+il y a 1 mois
+Carré coté sécu :) bonnes pratiques top
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@yulazdu69
+il y a 2 mois
+Beau boulot merci
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@rachidsefrioui1510
+il y a 1 mois
+pour le serveur hetzner j'ai vu que le dashboard cockpit etait trais interessant a ajouter mais se dernier a obligatoirement besoin de mdp user/root donc je vais pas l'enlever , pense tu que cockpit est utile et ya t'il moyen de faire mieux les choses
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@lekcio9357
+il y a 2 mois (modifié)
+Salut David, j'ai un soucis avec Hetzner, quand je sélectionne "Cost optimized" je n'ai pas la possibilité de sélectionner le plan à 4 euros. Il me dit que ce n'est pas disponible. Je suis obligé de passer par le Regular performance avec un CX22 minimum à 9 balles. T'as une idée ?
+
+V2 : Apparemment c'est en "rupture de stock".
+
+
+
+Répondre
+
+·
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Pourquoi ce tuto
+0:00
+Salut ! Dans cette vidéo, je vais te montrer comment installer Hermes sur un VPS de manière très simple. Le but,
+0:05
+c'est vraiment que tu puisses l'installer, démarrer, le configurer et commencer à chatter avec ton agent euh
+0:12
+directement. Donc déjà, qu'est-ce que c'est Hermes agent ? Hermes, euh c'est un équivalent
+0:19
+de Open Cloud. On a peut-être entendu parler. En gros, c'est un agent personnel que tu installes. Euh, tu vas
+Pourquoi Hetzner
+0:25
+pouvoir le configurer et il va pouvoir réaliser des automatisation pour toi
+0:30
+perso ou pour ton business. Le but vraiment euh c'est d'aller un petit peu plus loin que du simple chat que tu
+0:36
+pourrais faire avec Claude ou avec chat GPT ou encore avec Gemini, c'est vraiment de créer des automatisations
+0:43
+euh de connecter des outils diverses et euh de faire en sorte que ton agent
+Choisir le serveur
+0:48
+puisse être autonome sur plein de petites tâches. Donc clairement pour tout ce qui est entreprise solopreneur,
+0:55
+c'est un must actuellement parce que ça te permet de faire plein de tâches que
+1:01
+tu délègues à ton agent ou tu es ton équipe d'agent il a sans embaucher
+Firewall Hetzner
+1:07
+quelqu'un en fait. Donc il faut vraiment partir du principe queon a un agent principal et puis euh lui il a la
+1:14
+possibilité de se créer des agents secondaires éphémères ou aussi il a la
+1:19
+possibilité de se cr que toi tu crées euh des agents, des sous-agents, ton
+1:24
+équipia spécialisé avec chacun, une spécialité, une façon de faire, peut-être un modèle derrière.
+1:31
+Donc comment ça fonctionne Hermes derrière ? En gros, il faut l'héberger quelque part.
+Connexion root
+1:36
+C'est assez simple d'installer mais il faut quand même l'héberger quelque part. Donc il y a deux choix. Il y a le VPS
+1:42
+donc c'est un petit serveur virtuel en ligne qui est la méthode la plus simple où il y a aussi la méthode la machine
+Création du user hermes
+1:50
+locale donc sur un ordinateur qui traîne ou euh un peu à la mode comme avec on
+1:57
+achète un Mac Mini euh et on l'installe dessus. [grognement] Il y a des avantages et des
+2:02
+inconvénients dans les deux cas. Moi ce que je te conseille c'est d'aller directement sur le VPS parce que déjà
+2:08
+c'est assez simple, ça coûte pas très cher et ça te permet de commencer rapidement. Bien sûr, si tu as une
+2:14
+machine euh locale de dispo ou que tu as envie d'acheter un Mac Mini ou autre, va
+2:21
+dessus. Mais là pour le tuto, c'est le VPS. au niveau du VPS euh avant de
+2:27
+partir et au niveau des coûts que ça peut avoir un mess [grognement] chois pour l'instantner qui est euh la
+2:35
+solution que je recommande actuellement pour le tout ce qui est VPS. Euh déjà, ils sont en Europe, les
+2:43
+prix, ils sont très performants pour le coup. La qualité est vraiment très très bonne et euh les prix sont très très
+2:49
+faibles. Donc quand on fait du VPS et qu'on en monte souvent, c'est vraiment top. Et je rajouterai, et ça c'est un
+2:56
+avis personnel, euh le dashboard de gestion est vraiment bien foutu. Au niveau du coût, euh si on prend le VPS
+3:02
+le plus le plus petit, euh plus on rajoute la sauvegarde journalière, on
+3:08
+est à maximum 5 € par mois. en utilisation pour le VPS. Donc c'est négligeable. Et bien sûr après au niveau
+UFW
+3:15
+du coût de Hermes, avec un VPS comme ça, vous pourrez difficilement mettre un modèle de LLM
+3:21
+local. Euh ça va être trop lent et trop faible en qualité. Donc il faut partir sur un système avec un abonnement. Donc
+3:30
+par exemple si on prend Open AI, il y a un abonnement à 20 € une version à 100 € une version à 200. Donc vous pouvez
+3:36
+démarrer avec 20 €. Je vous conseille, vous allez je pense très très vite passer sur le 100 euh mais si vous êtes
+3:43
+à 5 € de VPS plus 100 € par mois d'abonnement euh LLM et que vous
+3:49
+automatisez une bonne partie de votre entreprise, en fait vous êtes quoi qu'il arrive, vous êtes gagnant parce que ça
+3:54
+coûte moins cher que de déléguer à un freelance ou d'embaucher quelqu'un. Voilà, donc j'en profite de ce moment
+4:00
+avant de démarrer le tuto. Euh pensez à mettre un like sur la vidéo et à vous abonner sur la chaîne YouTube pour euh
+4:07
+retrouver toutes les prochaines vidéos. Également, un autre point euh important,
+Durcissement SSH + port 2222
+4:12
+toutes les commandes euh et tous les détails de cette vidéo se retrouveront sur Caviro. Donc je vous conseille
+4:19
+d'aller faire un tour sur caviro.com si c'est pas fait, de créer votre compte et là vous aurez accès euh au forum complet
+4:26
+sur l'automatisation pour les entreprises, pour les solopreneurs et les tutos complets sur Hermes. Donc ce
+4:33
+qu'on va faire déjà, on va se rendre sur Esner, on va aller créer son compte.
+4:39
+Donc là, c'est important de le faire tout de suite parce que depuis peu en fait, il demande de valider votre compte. Donc vous allez créer votre
+4:45
+compte, il va avoir toute une procédure de validation. Moi, je vais pas vous la remontrer parce que euh je l'ai déjà
+4:52
+faite, mon compte est déjà actif, mais ça peut prendre entre 30 minutes et 24
+4:57
+he donc vous faites bien cette procédure de validation et une fois que c'est fait, vous allez vous trouver, vous allez vous connecter euh dans la
+5:03
+console. Donc vous allez sur login console, vous allez vous retrouver ici. Donc normalement, si votre compte est
+5:09
+vierge, vous aurez pas de projet. Vous allez créer un nouveau projet. Donc on va toujours démarrer comme ça avec un projet. Ça va permettre de cloisonner un
+5:16
+petit peu dans lesner. Donc on crée un nouveau projet. Moi, je vais l'appeler tuto
+5:22
+installe Hermes agent. Hop. Et vous vous ajoutez le projet. Il est ajouté. Vous
+5:28
+cliquez dessus, vous rendez dessus. Donc là, vous avez votre dashboard de projet. Ce qu'on va faire tout de suite, euh on
+5:34
+va créer deux choses avant de créer le serveur. Pour se connecter au serveur, on a besoin d'une d'un protocole qui
+5:40
+s'appelle SSH. Euh on peut se connecter euh avec tout simple avec un mot de
+5:45
+passe mais c'est pas très sécurisé. Le but ici c'est de partir assez rapidement et avec de la sécurité. Donc ce qu'on va
+5:51
+faire tout de suite, on va aller dans security. Ici, on va aller dans SSHK. Donc il nous
+5:56
+est déjà et on va faire add sshk. Donc ici il faut coller la clé SSH public
+6:02
+qu'on aura généré sur notre ordinateur. Donc on va la générer et on va voir ça
+6:08
+ensemble. Donc pour la générer, la méthode la plus simple euh que moi j'utilise,
+6:15
+j'enregistre toutes mes clés SS dans un outil pour les retrouver plus tard. Si jamais mon ordinateur, il a un problème.
+6:22
+En fait, ça permet de retrouver toutes les clés SSH. Cet outil chez moi, c'est Bitwarden. Donc si vous me suivez, vous
+6:29
+savez que je l'utilise. Ça permet de stocker tous les mot de passes tout simplement. Vous êtes pas obligé
+6:34
+d'utiliser cet outil. Il y a plein d'autres outils différents. Vous pouvez aussi générer la clé SSH depuis le terminal sur votre ordinateur. Je vous
+Fail2ban
+6:40
+mettrai un tuto directement de le de l'installation OpenClow. Mais
+6:46
+pour le cas, moi ce que je fais, j'ouvre Bitwarden, je fais créer clé SSH, je lui
+6:52
+donne un nom. Donc là, ça va être euh SSH
+6:58
+tuto install RMS agent. Donc je peux même
+7:04
+rajouter si je veux SSH. Il me demande un dossier si j'ai besoin de lui mettre un dossier là je veux pas lui mettre. Et
+7:10
+[grognement] il va me lui me générer automatiquement une clé privée, une clé publique et me l'enregistrer dans
+7:16
+Bitwarden. Moi ce que je vais faire tout de suite, je vais prendre la clé public, je vais la copier ici et
+7:26
+je vais retourner dansner, je vais la coller et je vais lui mettre un nom.
+7:31
+Donc là, on va mettre euh ssh Voilà. Et on clique sur cette as défaut.
+7:39
+OK. Donc ça veut dire qu'en fait à chaque fois que je vais créer euh un VPS
+Update serveur
+7:44
+sur ce projet, il va mettre cette clélà. Donc comme ça, je pourrais me connecter assez facilement. Donc là, je fais AD
+7:49
+CSH. OK. Donc ça, j'ai fait la première étape. La deuxième étape en fait sur
+7:55
+tout de suite je vais aller dans firewall et je vais créer un firewall. Donc là, le but c'est pareil, un
+Installation Hermes
+8:00
+firewall euh c'est une une petite couche de sécurité. Et pour un VPS, on n' pas
+8:07
+pour un VPS open euh pour un VPS Hermess Agent, on n pas besoin de de beaucoup de
+8:13
+choses en firewall. Je vais juste prendre la règle principale qui est on
+8:18
+autorise que le port 22. Donc ça c'est le port du SSH. Et moi je vais créer une deuxième règle en TCP. Hop. Et c'est mon
+8:26
+futur port euh SSH que je vais changer. Le 22, c'est le par
+8:32
+défaut. Je vais passer en 2222, ça change pas grand-chose. Euh voilà et
+8:37
+on supprimera celle-là après. On a rien d'affaire de particulier. On fait create
+8:43
+firewall. On a notre firewall. Maintenant, on va aller sur le serveur. Donc, on clique sur partie serveur, on clique sur add server. Et là, le but
+8:50
+c'est vraiment de créer notre premier serveur. On va prendre, c'est la première option, coût optimisé. On va
+8:56
+prendre le premier, le moins cher. On va [grognement] faire attention de sélectionner euh un qui nous intéresse.
+Setup et premières commandes
+9:02
+Donc dans l'Europe, vous prenez celui que vous voulez. Moi, je prends souvent Fcklenstein en ce moment, ils sont c'est
+9:07
+ceux qui sont proposés par défaut. Le [grognement] but après, c'est que si vous créez d'autres serveurs, tout soit
+9:13
+à côté en fait. Unbutu 2404. Ça vous laissez cocher la SSH, elle est
+9:19
+déjà cochée. Le firewall, on le coche, on coche backup. Euh voilà,
+9:28
+il y a rien de d'autre à faire. Donc là, je vais l'appeler tuto Hermes
+9:34
+agent. Vous l'appelez comme vous souhaitez, Hermes agent. [grognement] Donc là, on a un coup en fait du serveur
+9:39
+à 3,99, du backup à 80 centimes et euh de l'IP à
+9:46
+50 centimes. Ça fait 5,29 par mois maximum. Sachant que chez Esner en fait
+9:51
+vous vous payez que ce que vous consommez. Si jamais vous éteignez le VPS pour une semaine et ben vous allez
+9:57
+pas payer. Donc là on fait Créate et buo. Donc là il va nous créer en fait
+Bonnes pratiques
+10:02
+tout simplement le le VPS, nous installer unbout dessus.
+10:07
+nous cré nous ajouter la clé SSH euh nous sécuriser avec le firewall. Nous ce
+10:13
+qu'on va faire pendant ce temps-là en fait on va se servir d'un outil pour se connecter en SSH à ce serveur. Pareil
+10:20
+pour simplifier, si vous me suivez, vous savez que j'utilise déjà Termius. Termius qui est en fait un un une
+10:26
+méthode pour se connecter en SSH en console mais graphiquement sympa. Euh
+10:32
+donc je trouve que c'est plutôt cool, surtout quand le quand la console peut faire peur euh quand on est débutant ou qu'on en a pas fait souvent. Euh donc
+10:39
+j'ouvre Termius. Si vous l'avez pas Termius, bah vous allez l'installer sur votre ordi. Et ça fonctionne de la même
+10:44
+façon en fait. On a des projets qui s'appellent des groupes et puis euh on a un système de clés. Donc on va d'abord
+10:50
+aller créer sa clé. Donc je me rends dans qu je vais faire
+10:55
+nouvelle clé. Hop. Et là pour le coup, ce qui est bien c'est de mettre la clé privée aussi parce qu'il va la stocker
+11:01
+et il va pouvoir se connecter sans clé privé en fait vous pouvez pas vous connecter depuis votre machine. Donc on
+11:07
+va l'appeler pareil euh tuto RMS
+11:14
+adjunent. Vous vous l'appelez comme vous voulez. Normalement j'ai toujours ma clé publique. Je vais aller récupérer euh ma
+11:20
+clé privée. Hop. Donc là, si je l'appelle SSH euh qui est
+11:27
+tuto air message. Copier la clé non copier la clé privée.
+11:35
+Hop, je reviens ici. Donc là, je l'ai. Si vous faites import from K comme je
+11:41
+viens de cliquer, en fait, il va vous demander si jamais vous aviez les fichiers sur votre ordi de les importer. En fait, là, vous avez juste à rentrer,
+11:47
+vous avez une coche là-haut qui dit que c'est enregistré et on est parti. [grognement] Euh à savoir en fait euh Termius où il y
+11:54
+a un système de compte et si vous voulez retrouver par exemple euh moi ce que je
+11:59
+fais c'est que je l'ai aussi sur mon téléphone et si jamais je suis en déplacement et j'ai besoin de me connecter en SSH parce que pour x ou Y
+12:05
+raison, je retrouve tout. Donc j'ai ajouté ma clé, je vais cliquer ici. Je
+12:10
+vais ajouter un nouveau groupe qui va s'appeler tuto Hermes
+12:16
+commencez à comprendre le principe. Ici il est enregistré. Je double clique sur le groupe que je
+12:22
+viens de créer, un nouvel host. Donc là, ça va être mon VPS. Donc tout simplement, je vais aller chercher les
+12:30
+informations de mon VPS. Mon VPS est créé. Donc quand je clique dessus sur ici, j'ai une IPv4,
+12:38
+je vais la renseigner ici. Ici, j'ai le nom du serveur. Donc dans l'idéal, vous reprenez le même nom, hein. Hop. Ici, le
+12:46
+port par défaut, c'est le port 22, donc on le remet. Euh le l'utilisateur donc
+12:52
+par défaut c'est le route. Donc on le met ici et là le passeport on va pas mettre le passeport quand vous créer un serveur VPS avecner
+13:00
+et une clé c'est ça je rentré avant il vous envoie pas par email le passeport si vous le faites pas comme de cette
+13:06
+façonlà il va vous amener il va vous envoyer par email le mot de passe de route.
+13:12
+Si jamais si jamais vous avez besoin de générer le mot de passe route, on le verra après.
+13:20
+Ici, je reprends, je clique sur le plus, je fais quci toutes vos clés. Donc si
+13:27
+vous en avez qu'une, c'est facile. Et là, vous faites ici. Donc là, vous avez route port 22, l'IP qui est OK, le nom
+13:33
+qui est OK et je fais connexion. Donc là, normalement, il va vous faire cette petite phrase et la première fois que vous vous connectez, il vous dit "Est-ce
+13:39
+que l'emprunte est OK ?" Vous faites oui et là vous êtes connecté sur votre serveur. Donc avant de
+13:45
+commencer, voilà, on a fait la connexion sur le serveur en SSH avec la clé. C'était plutôt simple. Je vais repartir
+13:51
+sur mon tuto et je vais en fait aller surner et je vais juste recréer le mot
+13:58
+de passe route par sécurité. Donc je vais sur rescue et je clique sur reset
+14:04
+route password. Là, je fais reset et là, en fait, il va me donner un mot de passe. Donc, il sera il est caché à la
+14:11
+vidéo, mais je le copie. Et par même principe, en fait, je vais aller dans Bitwarden, je vais aller créer un nouvel
+14:19
+identifiant, je vais l'appeler SSH route
+14:25
+VPS tuto RMS agent et je vais le sauvegarder au cas où je l'ai toujours
+14:30
+de sauvegarder. C'est hyper important. [grognement] Donc j'ai fait ça. Maintenant, je suis
+14:37
+connecté à mon euh je suis connecté à mon VPS. Le premier
+14:43
+truc à faire quand vous êtes connecté à votre VPS, c'est de le mettre à jour. Il y a c'est la première commande à taper.
+14:49
+Euh, hop, je la copie, je la colle. On peut enlever
+14:57
+le sudo, on peut le laisser, ça a pas d'importance. Euh pour l'instant, on est en route, donc on colle ça. Donc il va
+15:03
+aller rechercher toutes les mises à jour disponibles et il va les installer. Donc ça c'est la première partie.
+15:10
+Donc il est en train de faire son de finir son installation et de sa mise à jour. Vous inquiétez pas, dans tous les
+15:16
+cas euh ce que vous voyez, ça peut être un peu effrayant mais c'est que du copiercollé. C'est hyper simple et après
+15:23
+vous en aurez plus besoin d'accéder. Vraiment c'est vraiment très très simple. Donc il a fait euh sa mise à
+15:29
+jour, il a euh installé tous les tous les paquets qu'on appelle ça des
+15:35
+paquets qui manquaient qui étaient à mettre à jour. Et le but ici vraiment c'est de faire un restart comme ça c'est
+15:43
+fait et puis on démarre. Donc vous allez taper reboot.
+15:49
+Là vous attendez un petit peu donc vous êtes déconnecté le serveur va reboot. Vous attendez un petit peu et ça va
+15:55
+redémarrer. OK, donc c'est reparti. Le serveur a
+16:01
+démarré. Donc ce qu'on va faire, c'est une étape qui n'est pas obligatoire,
+16:07
+c'est créer un un utilisateur qui s'appelle comme vous souhaitez. Moi, je vais l'appeler Hermes pour éviter
+16:12
+d'utiliser route. Je vous conseille de le faire. Donc là ce qui vous demande, j'ai créé la j'ai tapé la commande
+16:18
+sudoad user RMS. Après il vous demande de g de créer un mot de passe. Donc même principe, on va aller sur bitarden. Là
+16:25
+vous générez un mot de passe hein. Hop générateur. On va copier le mot de passe.
+16:32
+Contrôle V. Contrôle V. Donc je tape deux fois le mot de passe. Après là ici je fais ça.
+16:39
+Ici je mets Y. Donc à chaque fois j'ai tapé entrée et j'ai mis Y. Moi, je
+16:44
+sauvegarde ici identifiant. Hop. Alors, je vais
+16:51
+l'appeler SSH Hermes
+16:56
+plutôt Hermes agent. Donc, l'utilisateur s'appelle Hermes. Je
+17:03
+colle le mot de passe. Alors, ici, je vais juste enlever ça et enregistrer. Moi c'est enregistré au cas où je dois
+17:10
+je dois revenir dessus. enregistrer le mot de passe, vous allez en avoir besoin. Donc maintenant, je vais donner les
+17:16
+droits euh à l'utilisateur. Hop. Donc j'ai donné les droits euh sudo Hermes.
+17:21
+Maintenant, ce que je vais faire, je vais créer son dossier SSH. Je vais
+17:29
+hop donner les droits d'écriture. C'est vraiment que du copiercollé, hein. Et là euh, je vais copier la clé cessage
+17:36
+de route dans Hermus. Voilà, je l'ai fait. Il y a trois commandes à copiercoller et c'est fait. Donc
+17:41
+maintenant en fait je peux me connecter normalement avec la Hermess Agent au lieu de route
+17:48
+et là je serai en sudo. En fait sudo ça veut dire que je suis pas connecté directement en route. Je vais devoir
+17:53
+taper une fois le mot de passe euh et après j'aurai les mêmes droits que
+17:59
+route. C'est une petite couche de sécurité, c'est pas obligatoire. Je vous conseille de le faire. Donc ça c'est
+18:05
+fait. On peut aller vérifier dans une autre connexion. Ici euh on tape Hermes,
+18:11
+on attend que ça se mette à jour, on clique sur se connecter et là on est connecté avec Hermes. Et
+18:18
+maintenant quand je vais taper des commandes, je vais devoir taper sudo avant une fois et mettre le mot de passe une fois et après c'est parti. Donc ça
+18:25
+c'est OK. Donc ce qu'on va faire maintenant, on va suivre le tuto. On va par sécurité
+18:31
+euh installer un firewall mais sur le VPS. Alors, c'est pas obligatoire non
+18:37
+plus. Je vous conseille de le faire parce que on sait jamais si jamais il y a un souci avec le firewaller,
+18:45
+on a quand même un autre firewall. Bon, c'est ça va aller très très vite. Donc
+18:52
+c'est du copiercollé, hein. On met euh les règles. Donc ça, on est sûr.
+18:59
+On ajoute ces règles là.
+19:04
+Donc le port, moi j'ai choisi 222. On met le 22 quand même au cas où parce
+19:10
+qu'on est encore sur le 22. On l'active. Yes. OK, le firewall est
+19:18
+activé et euh fonctionnel et activé au démarrage. On
+19:25
+regarde donc [grognement] là, il autorise le port 222 et le port 22.
+19:31
+Donc c'est OK. Euh, on est bon. On peut aller vérifier encore une fois ici avec
+19:39
+une nouvelle connexion sans arrêter pour voir si ça fonctionne toujours. On est toujours bon. Donc maintenant, on va
+19:46
+aller installer euh file to ban. Donc File to Ban, ça permet
+19:52
+d'avoir encore une petite couche de sécurité. Hop !
+20:00
+Tout ça c'est la petite couche de sécurité VPS, mais encore une fois c'est que du
+20:05
+copiercollé. Toutes les commandes seront disponibles bien sûr dans le tuto. Euh
+20:11
+il y aura la vidéo et en dessous il y a toutes les commandes écrites. Donc n'hésitez pas, c'est assez simple à
+20:17
+récupérer. Voilà. Donc là c'est une règle toute
+20:22
+simple. Donc j'ai tapé euh Sudano la commande
+20:31
+dedans. Je colle ça et ici quand vous retrouvez ici si c'est la première fois
+20:37
+en bas vous avez comment vous devez faire pour quitter. Donc là vous faites contrôle X, il va vous demander est-ce
+20:42
+que vous voulez sauvegarder. Vous faites Y entrée et là c'est enregistré.
+20:48
+Donc maintenant, on va allumer fight to ban et le démarrer.
+20:55
+Voilà, c'est fait. On va vérifier que ça fonctionne correctement. OK, donc là, il me dit que ça fonctionne
+21:01
+correctement. Il a rien banni encore. Bon, ça va ça va arriver très très vite, hein. Euh, je vais vous rajouter une
+21:09
+petite option. Tout à l'heure, on a fait la mise à jour du VPS. Là, on va juste
+21:15
+configurer pour que ça fasse les mises à jour hop de CQ en automatique. Vous
+21:20
+tapez la commande, vous faites yes. Donc là, le but c'est qu'il fasse les petites mises à jour de SQ en automatique. [grognement]
+21:26
+Euh, un petit point essentiel maintenant, ça va être au niveau du port
+21:31
+SSH. Donc le but, c'est on était sur le port 22, on a euh configuré déjà le port
+21:41
+200 22. Donc le but maintenant, c'est de passer dessus. On aurait pu très bien euh pour changer le port le faire avant
+21:48
+l'installation de UFW. Il y a pas de souci avec ça, on va le faire maintenant. Euh c'est la partie la plus
+21:55
+tricky entre guillemets parce que le changement de port, si ça merde, euh vous avez plus accès au VPS. Euh donc,
+22:02
+il faudra redémarrer soit l'installation euh soit vous pouvez toujours vous dépanner en vous connectant en SSH de
+22:09
+pièces ner et vous débrouiller comme ça. Mais c'est un petit peu plus compliqué. Donc on va aller simplement modifier
+22:16
+quelques paramètres. Donc vous allez rentrer ici, vous allez descendre ici et vous allez custom
+22:26
+c tes informations. Donc ici port, on va passer sur le port custom. Et en fait moi ce que je fais là euh je vais en
+22:33
+fait ajouter d'autres options directement de sécurité au niveau SSH.
+22:40
+Donc vous aurez juste à copiercoller, désactiver la connexion par route. Donc en fait on va devoir se connecter que
+22:47
+par la l'user Hermes. Donc faites attention si vous avez pas créé d'user, ne mettez pas cette première ligne là.
+22:54
+Celle-ci, celle-ci. Euh désactiver le mot de passe. Donc on est obligé de se
+23:00
+connecter que par clé CSH. Et euh bon après ça c'est de c'est des
+23:06
+règles de sécurité complémentaire. vous faites euh contrôle X
+23:11
+Y entrée. Donc là, on a sécurisé. Euh maintenant, alors il y a une petite
+23:17
+particularité avec une boutou. On va taper les commandes suivantes.
+23:26
+Hop. Après, on va taper
+23:32
+cette commande là. Hop, on va redémarrer
+23:38
+le SSH. OK, donc maintenant il va falloir qu'on
+23:43
+tape cette commande pour vérifier que tout fonctionne. Donc c'est trois commandes en même temps. Donc on a bien
+23:50
+le port de 222abel disable. Donc ça c'est OK. Et là il
+23:56
+écoute bien le port 222. Donc on est toujours connecté ici. Avant de se déconnecter au cas où, on va aller voir
+24:02
+si on peut recréer une connexion sur le port 22. On va essayer. On peut
+24:08
+pas. OK. On va regarder si on peut créer une connexion sur le port 222.
+24:15
+Hop, on essaye. On peut. Très intéressant, c'est que ça fonctionne. Donc hop, on revient
+24:23
+toujours à ma connexion. Et maintenant ce que je veux faire c'est je regarder si route fonctionne.
+24:30
+Non route ne fonctionne pas. Donc c'est [grognement] OK, tout est pris en compte. Donc je remets ici Hermes. Donc
+24:36
+Hermes la le login Hermes porte 222. On a deux
+24:43
+petites choses à faire maintenant. On va retourner sur edner, on va aller dans sécurité euh on va aller dans firewall.
+24:50
+On va aller ici, on va aller shooter le port 22 et normalement, hop, save, on
+24:57
+est bon. Ici, on n'est toujours pas déconnecté. OK. La prochaine étape, du
+25:03
+coup euh c'est de supprimer le port euh 22 de UFW. Donc ce qu'on va faire pour
+25:09
+le coup euh on va aller regarder le statut. Donc là, j'ai quatre ports
+25:14
+euh [grognement] et ils sont nommés. Donc ce qu'on va faire, donc là j'ai le 2 et le
+25:20
+4 qui sont le port 22. Donc pour bien les supprimer correctement, je vais lui
+25:25
+demander de dél ses ports et je vais les appeler 4 et 2. Voilà.
+25:32
+Yes. Yes. Rule deleted. On retourne dans le vôtre. On refait un test mais
+25:38
+normalement il y a aucun souci avec ça. Ça marche très bien. Donc on est bon, on a supprimé les ports, on a sauvegard on
+25:46
+a pas sauvegardé, on a tout sécurisé. On est OK. On va pouvoir démarrer
+25:52
+maintenant l'installation de Air Messeng. On a un VPS qui est qui est OK.
+25:57
+Ce que vous aurez à faire sur le VPS, c'est d'aller mettre à jour une fois par mois à peu près les paquets avec la
+26:03
+commande que je vous avais donné au tout début. Euh donc vous mettez une tâche une fois par mois. Ça c'est si vous
+26:09
+voulez le faire manuellement. Sinon vous demandez à votre agent Hermè il vous le fera en automatique.
+26:15
+Donc maintenant je vais aller taper cette commande. En fait cette commande vous l'avez ici. C'est hyper simple. Euh
+26:21
+vous avez la commande d'installation et vous faites
+26:26
+OK. Et là c'est parti. Il va télécharger tous les fichiers. il va vérifier que
+26:33
+votre VPS est OK et il va commencer euh à l'installer directement sur votre
+26:39
+machine sans rien d'autre à faire. Donc pendant ce temps-là, si vous avez pas d'abonnement euh Open AI, je vous
+26:47
+conseille d'aller sur Open AI et aller vous prendre un abonnement. Vous pouvez démarrer avec l'abonnement à 20 € pour
+26:52
+qu'on puisse passer à l'étape d'après. Donc ça va être très important d'avoir son abonnement
+26:58
+open a d'activer et de fonctionnel.
+27:03
+Bon, on est à 2 3 minutes d'installation. Donc là, il est toujours en train de me télécharger, d'installer,
+27:08
+de vérifier que tout fonctionne. Euh, ça défile, ça défile. Bon, ce temps-là, vous le laissez tourner, il y a rien de
+27:15
+il y a rien à faire de particulier. [grognement] Euh c'est lui qui va tout préparer en fait.
+27:22
+Donc, une fois arrivé là, [grognement] euh, on va faire le quick setup.
+27:27
+vraiment le but c'est d'aller très vite. Euh donc je vais hop donc là j'appuie
+27:33
+sur entrer. OK, il me dit euh quel provider je veux utiliser. Donc c'est là que je vous ai dit euh OK, il faut votre
+27:40
+Open AI, votre abonnement, vous pouvez tester les autres. Donc c'est tout ce qui est disponible de base. Donc en gros
+27:46
+quand il vous propose ça, ça veut dire que soit il vous faut un abonnement sur le provider, soit il vous faut par
+27:52
+exemple si on doit avoir un open router ici il va utiliser votre clé à payer
+27:57
+open router et après vous configurez le modèle qui va bien. Nous ce qu'on va faire, on va faire Open AI Codex. Donc
+28:04
+il l'appelle comme ça. Il y a nous portail que j'aimerais bien tester euh un autre jour mais on va faire Open AI
+28:10
+Codex. Euh, [grognement] il faut savoir que par exemple en Tropiic Cloud, vous ne pouvez pas le l'utiliser avec
+28:16
+l'abonnement, c'est forcément de la clé API, donc ça va vous coûter plutôt cher. Voilà, donc il y a plein de modèles à
+28:22
+tester. Ce n'est pas figé, c'est-à-dire que euh vous pouvez
+28:28
+mettre Open AI là et revenir après le changer. Il y a il y a aucun problème là-dessus. Donc on fait Open I Codex
+28:36
+entrer. Il va nous demander voilà donc vous euh ouvrez un navigateur, vous
+28:42
+ouvrez euh vous vous connectez à Open AI, vous prenez cette clé-là, cette clé,
+28:49
+excusez-moi. Vous prenez cette URL là, vous l'ouvrez, il va vous demander, donc moi, il me
+28:54
+demande de me connecter. Hop, donc je vais me connecter.
+29:00
+OK, donc je suis connecté. Il vous demande ça, vous faites continuer.
+29:07
+Il va vous demander un code de sécurité. Vous revenez sur votre fenêtre. Hop,
+29:14
+vous le collez. Vous faites continuer. Vous êtes connecté, vous pouvez fermer cette page.
+29:21
+Et voilà, ça y est, c'est fait. En fait, là, vous avez votre abonnement qui va
+29:26
+être décompté. Donc, comment ça fonctionne ? En gros, vous payez 20, 100 ou 200 et vous avez un une limite
+29:33
+d'utilisation par jour et par semaine suivant votre abonnement et plus vous payez, plus vous avez de d'utilisation
+29:40
+possible. À savoir que sur l'abonnement 200 € vous avez vraiment beaucoup beaucoup de possibilités d'utilisation.
+29:46
+[grognement] Donc par défaut, on va prendre le dernier modèle disponible. Là, actuellement, c'est 5.4. Je pense que le
+29:52
+5.5 va atterrir, va arriver dans pas très longtemps. Donc ceux qui sont en 5.4, mettez 5.4. Ceux qui sont déjà en
+29:59
+5. Et que vous voyez disponible, euh mettez en 5. Pour tester ou un autre
+30:05
+modèle. H ceux qui sont en 5.4 et qui veulent passer en 5.5, faudra attendre que
+30:11
+Hermes se mette à jour et après lui demander à votre agent directement de de
+30:16
+passer en 5.5 par défaut sur tous les agents. Il faut savoir aussi que le modèle mini va être utilisé pour les
+30:24
+Cron. Bon, tout ce qui est tâche déclenchement en arrière-plan, mais nous sur l'agent principal, on a besoin
+30:29
+d'avoir un modèle performant. Donc 5.4 est bien. On peut utiliser le mode face qui va plus vite ou 5.3 codex, c'est
+30:36
+vous qui choisissez. On va faire 5.4. Maintenant, il nous dit "OK, qu'est-ce
+30:42
+qu'on comment on veut lui parler ?" Donc soit on setup une messagerie de pour
+30:47
+parler, soit on skipe, on va le setup. Vous pouvez skipper et parler à MES via
+30:52
+le CLI, mais nous on va le setup. Donc là, vous pareil, vous avez plein de choix possibles. Il y en a deux qui sont
+30:59
+très utilisés. Telégram et Discord. Telegram est hyper simple à mettre en place. En 2 3 secondes, c'est fait.
+31:05
+Discord est un peu plus compliqué parce que faut créer un Discord. Si vous l'avez déjà fait, ça va aller plutôt vite. Ça sera le sujet euh d'une autre
+31:12
+vidéo. Nous, on va passer sur Telegram. Je dirais que Telegram si vous voulez démarrer vraiment vous démarrez avec
+31:19
+Telegram, c'est simple, c'est facile, vous le mettez en place, vous discutez avec votre agent, ça va très très vite.
+31:25
+Si vous voulez vraiment passer au next step euh et vous pouvez le faire après sans aucun problème, regardez Discord
+31:32
+directement parce que en fait en fait en terme d'efficacité vs Telegram, ça rien à voir.
+31:39
+Telégram, c'est très très dur d'avoir plusieurs conversations, de se retrouver dans les conversations, de comprendre
+31:44
+bien ce que le l'agent il nous dit, de voir le la disposition des messages est complètement différente. Alors qu'avec
+31:50
+[grognement] Discord, il y a plein de possibilités. Déjà, les messages sont plus clairs, les blocs de code qui nous
+31:56
+affichent les différents éléments sont plus euh c'est un design différent, donc c'est carrément plus lisible.
+32:03
+[grognement] Et vous avez un système qui moi m'a complètement conquis, c'est qu'en gros vous créez un channel par exemple
+32:08
+business ou Caviro euh et dedans vous allez taper une conversation, un sujet
+32:14
+et votre agent va vous créer en automatique un fil de discussion sous cette conversation. Et en fait, vous
+32:19
+allez pouvoir faire des fils de discussion de plein de conversations et vous allez pouvoir vous y retrouver beaucoup plus facilement. Euh vous aurez
+32:26
+la possibilité aussi euh de les épingler pour les retrouver si si vous avez toujours des conversations tous les
+32:32
+jours avec votre agent sur le même sujet comme ça c'est épinglé. Sinon au bout de 2 3 jours en fait que vous arrêtez de
+32:37
+répondre vous ils vont disparaître euh de votre barre euh Discord mais euh
+32:44
+en fait vous pourrez quand même les les retrouver là où en fait Telegram vous allez devoir créer un groupe et des
+32:50
+posts dedans, mais c'est quand même moins lisible. Bon, pour le tuto, euh reprenons rapidement. On va prendre
+32:56
+Telegram pour le setup vite et commencer à parler à notre agent. Donc on fait Telegram.
+33:02
+OK. Donc qu'est-ce qu'il nous dit ? Alors, setup complet, ça c'est bon. Euh
+33:07
+configuration. Euh voilà, on a on n pas fait Telegram mais euh on est bon. L Hermet chat now.
+33:14
+Nao. Yes. OK. Donc il va nous falloir qu'on setup quand même Telegram mais on a configuré
+33:21
+pour que ça marche comme ça. Donc là on attend,
+33:27
+on attend, on attend. Pendant ce temps-là, je vais aller chercher le tuto euh Telégramin.
+33:36
+Hop. Donc là, il nous a tout lancé. Donc là, on peut parler directement à notre
+33:42
+agent. Je lui dis "Salut." Euh donc il démarre l'agent. L'agent, [grognement]
+33:47
+il est complètement vierge. Il a aucune configuration que il me connaît pas. Euh donc ce que je vais faire maintenant euh
+33:55
+on peut dire vous avez plusieurs façons de faire. Donc on doit toujours setup Telegram parce que parler en selle vous
+34:01
+pouvez le faire. Vous pouvez démarrer tout de suite là. Mais je trouve que c'est quand même plus cool
+34:07
+de passer sur Telegram. Avant de démarrer ce télégram, on peut voir ici que tout ce qu'il a installé et ce qui
+34:12
+est ce qui est utilisable et tout ce que on peut installer comme skill en plus.
+34:17
+Euh j'aimerais juste vous vous revenir dessus. Le concept de skill avec un
+34:24
+outil comme Air Messagent, euh c'est des compétences que l'agent a
+34:31
+pour réaliser une tâche. En gros, à chaque fois que vous allez faire une automatisation ou une tâche, si il a
+34:37
+plus de cinq étapes, l'agent va créer un skills pour que après quand il répète
+34:42
+cette tâche, il commettent pas les mêmes erreurs qu'il a fait. Et il y a déjà toute une tripoté de skills qui sont
+34:48
+disponibles et installés avec Herment. Et vous en avez aussi d'autres qui sont
+34:54
+euh que vous pouvez installer qui sont déjà prêts, mais vous pouvez aussi très bien prendre un skill de n'importe quoi,
+35:00
+Cloud, open cloud, lui dire "Adapele-moi pour Air Messent". Et il va vous le faire. Donc là, ce qu'on va faire, on va
+35:05
+aller sur la fenêtre de gauche, aller euh dans la documentation, on va
+35:11
+aller aller dans Messenger Gateway, on va aller aller dans euh Telegram, on va
+35:18
+retrouver Telegram. Alors là, je l'ai pas d'ici, mais si vous cliquez là et Telegram, on a le tuto. Le tuto est là.
+35:24
+Euh donc, on va aller le setup. Donc vous ouvrez Telégram, vous allez chercher et parler à boter
+35:33
+qui est le système pour créer des bottes. Donc moi j'ouvre Telegram. Bot fader est ici. [grognement] Je fais
+35:39
+démarrer. Donc là il va me lancer toutes les commandes qui sont disponibles et je vais simplement faire s new bot. Donc on
+35:46
+crée un bot. Il va me demander son nom. Donc je vais l'appeler tuto Hermes
+35:53
+agent. Donc ça c'est son nom qui sera affiché. OK. Et moi c'est pour le retrouver. Et maintenant, il faut son vrai nom de bost. Donc je vais l'appeler
+36:00
+euh Caviro. Donc là, vous faut mettre un nom long, c'est pas trop trop grave. H
+36:06
+[grognement] tuto Hermes agent. Le seul truc, c'est
+36:12
+qu'ici en fait, il faut un nom qui soit pas déjà utilisé. Hop, je fais entrer.
+36:20
+Donc il veut pas de mon nom. Pourquoi il veut pas de mon nom ?
+36:31
+OK. Alors là euh je sais pas pourquoi, il y a sûrement une raison.
+36:38
+En gros, c'est pas grave. Il faut trouver un nom qui passe. Ici, vous allez avoir un token. Vous
+36:44
+allez le cliquer dessus, ça va le copier automatiquement.
+36:49
+Hop, vous ouvrez maintenant votre Termius.
+36:56
+Voici le token Telegram
+37:02
+pour la connexion
+37:09
+connexion Hermes agent lui donner [grognement]
+37:17
+vous attendez
+37:28
+Vous attendez, vous attendez, vous attendez. Donc là, ce qu'on peut
+37:34
+observer en fait, c'est que à chaque fois que vous allez donner une action à faire à
+37:40
+votre botte, euh vous allez voir ici, que ça soit sur n'importe quel en Cli ou
+37:46
+pas, vous allez voir ici ce qu'il est en train de faire. Donc il est en train de chercher des skills, il est en train de chercher des informations, il est en
+37:53
+train de euh il a trouvé ici le point EMV, il a euh
+38:00
+cherché le cherché différents points. Il a lu, il a écrit, voilà, il fait plein de choses. Euh on est OK. Ta ta il est
+38:09
+toujours en train de le faire. Donc le temps qu'il nous l'a pas dit que c'est OK, euh on attend. Donc ça peut prendre
+38:17
+un peu de temps. Voilà, c'est configuré. J'ai enregistré le token Telegram dans Donc là, il l'a mis au bon endroit.
+38:23
+Vérification est bien présente. Le getway mé encore n'est pas encore lancé. Pour pas euh hop, il nous dit pour
+38:30
+démarrer Telegram, on va faire ça. Hop.
+38:36
+Donc on va le lancer. Voilà. C'est c'est possible que vous quand vous le faites, il va vous dire
+38:41
+"J'ai démarré le gateway et ça fonctionne." Euh voilà, ça dépend des fois. Bon là pour l'instant l'agent il
+38:47
+est assez vierge hein. Il est il ne sait pas comment on fonctionne. Euh il sait pas euh il sait pas trop qui on est. Euh
+38:54
+pour l'instant on fait juste le télégram parce que c'est quand même plus simple à utiliser que le CLI. Vous pouvez
+38:59
+démarrer directement sur le CLI et lancer, hein.
+39:05
+OK. Maintenant, on va essayer d'aller parler à notre agent. Euh donc, il nous a dit ici que pour lui parler, on clique
+39:13
+ici, on fait démarrer. Hop.
+39:19
+Maintenant, ça c'est une petite règle de sécurité. Il nous donne un petit code à mettre. On copie dessus, on retourne
+39:26
+dans le CLI. Hop, on le colle. Herming approve telégram
+39:32
+machin. Normalement votre agent va être capable de comprendre cette requête et
+39:39
+directement de d'aller d'aller le faire. Une fois que c'est
+39:44
+fait, c'est approuvé. L'user c'est moi en telégram pour utiliser ce bot. Il est
+39:50
+reconnu machin retro ici. Salut.
+39:56
+Donc ce qui nous dit c'est que euh par défaut le premier message et ça si vous le faites pas que ça soit sur Discord ou
+40:03
+Telegram, il va vous dire il faut 7 homme. 7 home c'est quoi ? Euh c'est en
+40:08
+gros à chaque fois que j'ai une Chron une alerte où est-ce que je dois l'envoyer ? Pour l'instant j'ai qu'un seul channel donc ça sera ici. Donc je
+40:15
+vais faire slash set home. Salut. Donc là c'est bon. Il sait que je m'appelle
+40:21
+David parce que mon nom sur Telegram c'est David. Donc à [grognement] partir de maintenant en fait, je vais utiliser
+40:26
+Airmess Agent sur Telegram. Donc le premier truc à faire, c'est de dire "Je
+40:32
+suis David, je suis euh solopreneur euh
+40:38
+qui adore les auto automatisations
+40:45
+[grognement] euh NN, open clow, Hermes agent et je construis euh Caviro pour
+40:54
+aider les solo preneurs à
+40:59
+créer une team IA autonome pour scaler leur business. Voilà. Et là,
+41:09
+je peux mettre caviro.com. Donc le but ici, c'est de lui donner du contexte sur vous, hein. Le plus important, c'est
+41:14
+vraiment vous au début, vous qui êtes-vous et tout. Si vous utilisiez déjà cloud code, Open AI et tout, vous
+41:21
+pouvez aller ouvrir une channel et dire "Qu'est-ce que tu sais de moi exactement pour donner à un agent IA et qu'il me comprenne tout ça et vous collez dedans.
+41:28
+Là, vous faites entrer. Donc en gros euh pour voir s'il a bien vu là, ici il écrit hein. Euh
+41:35
+vous lui faites ça. Donc là, on a vu, il a mis à jour en automatique sa mémoire sur moi. Euh donc en gros, il sait que
+41:42
+maintenant je fais ça. Donc OK, enchanté David, bien noté. Tu es sol preneur machin. Très bien. Positionnement au
+41:48
+passage. Je peux t'aider à Caviro à pour par exemple si tu veux commencer tout de suite. Donc là il dit tout de suite
+41:54
+avant [grognement] de commencer à démarrer parce que là c'est prenant, on a envie d'y aller. Euh tu dois être
+42:01
+toujours précis dans tes réponses.
+42:07
+Ne pas halluciner me dire quand tu sais pas. Donc ça c'est
+42:12
+ma façon de faire hein. Ça ça s'améliore derrière aussi par la suite. Mais en gros qu'est-ce que vous aimez qu'il
+42:18
+interagisse quand tu sais pas euh soit franc, je sais pas comment ça
+42:24
+s'écrit, c'est pas grave. Euh tal
+42:29
+challeng, je vois pas parce que c'est écrit en tout petit honnête
+42:36
+et aide-moi principalement à dans mon
+42:44
+dans mon business. Donc maintenant, on lui dit un peu comment il doit être. Donc tout ça bien sûr chaque agent que
+42:51
+vous allez faire là on a qu'un seul agent, il doit être personnalisé dans les fichiers. Donc vraiment ça se
+42:57
+personnalise euh vraiment avec des fichiers, ils ont des fichiers propres à eux qui s'appellent le Sou. Euh
+43:05
+mais au démarrage comme ça, vous pouvez faire aussi là derrière update ton
+43:10
+Soul.m en conséquence. Donc normalement, si je lui dis ça, il va aller update ses
+43:17
+fichiers tout seul pour que ça se mette bien. Mais par la suite, vous allez quand même euh revenir dessus pour être
+43:23
+sûr que ça soit bien fait. Là, on peut démarrer tout de suite en fait euh à
+43:30
+discuter et à faire les connexions. À chaque fois que vous allez vouloir automatiser quelque chose, il va vous
+43:36
+demander peut-être une connexion, un outil et vous allez pouvoir le faire avec lui en discutant avec lui
+43:42
+directement. Il faut savoir que maintenant vous allez parler à Telegram, il a accès toujours à Telegram. Si jamais votre Telegram plante ou ce qu'on
+43:49
+appelle le gateway ne redémarre pas, vous revenez dans votre CLI. Euh vous refaites la commande qu'on a faite ici.
+43:55
+Euh Hermes euh tac tac tac, vous refaites la commande que je dise pas bêtises. Moi je l'utilise jamais hein.
+44:01
+Euh c'est pas Hermes setup, ça doit être Hermes tout simplement et ça et ça
+44:06
+démarre. Je sais plus c'est quoi la commande mais en fait je l'utilise jamais parce que ça ne plante pas. Donc
+44:12
+là, hop, vous avez vu, il a lu les skills, il up, il a update. Donc maintenant, il est euh lui, il doit me
+44:19
+dire qu'en fait quand on parle que euh précision, pas deation, d'éclairement, bon, pas de d'hallucination, on fait
+44:25
+attention quand même. Euh voilà. Et maintenant euh ce que je vous
+44:31
+conseille pour démarrer parce que là c'est fonctionnel, vous pouvez y aller. Il y a quelques petites commandes à connaître. Donc déjà, c'est Hermes
+44:37
+update. Donc là, cette commande là en fait, il va vérifier qu'il y a pas des s'il y a des updates euh Hermes
+44:44
+disponible et s'il y en a, il va les installer. Donc ça, c'est une commande à faire, il y en a très très
+44:50
+régulièrement. Donc ça permet de mettre à jour votre Hermes. Euh ce qui est bien c'est de sauvegarder avant sur ici, vous
+44:59
+aurez surner une sauvegarde automatique. Donc si vous allez euh sur vous allez
+45:05
+sur votre serveur, vous allez dans backup. Ici on en a pas. Euh donc vous
+45:11
+allez en avoir en automatique une fois par jour. On pourrait le faire tout de suite. Donc là tout est bon. Il m'a dit
+45:17
+que Hermes c'est déjà à jour. La version installée. Paf paf. Tout est OK. Donc on fait run manual backup.
+45:24
+Euh on en aura une, on aura une sauvegarde initiale de notre VPS qui est OK. Donc
+45:31
+ça c'est la première commande qui est intéressant. Euh, on peut changer de modèle. Par exemple, euh si on a
+45:38
+configuré plusieurs modèles où on veut switch euh de modèles, on tape cette
+45:43
+commande et normalement on va pouvoir changer de modèle sil veut bien y aller. Il y a une autre
+45:49
+façon aussi de changer de modèle, c'est euh de faire slash modèle. Et en fait là, on change de modèle uniquement dans
+45:55
+la conversation. OK, donc on va attendre qu'il finisse.
+46:03
+Voilà. Donc là, il nous dit euh qu'on a le euh 5.4 de Codex. Voilà. Donc en
+46:09
+gros, si je veux euh changer de modèle, je dis "OK, je voudrais configurer un nouveau modèle, je voudrais mettre Open
+46:15
+Router ou passer en 5.3 Codex en principal et vous allez euh lancer ça
+46:21
+avec lui." Donc il y a une [grognement] commande qui est intéressante, c'est si jamais on a un petit problème avec Hermes ou ce qui est bien de vérifier
+46:27
+après les mises à jour ou après un gros changement, c'est Hermes Doctor. Donc on tape cette comm cette commande en gros,
+46:34
+on va Hermes va faire un petit checkup de lui-même. Donc toutes ces commandes que je lui envoie là, vous pouvez le
+46:40
+faire vous-même ici hein. D'accord ? Si je lance ici Hermes docteur, il va se passer exactement la même chose.
+46:47
+Peut-être que le résultat visuel sera un peu différent parce que dans Telegram souvent il me fait un petit résumé et
+46:54
+encore c'est pas tout le temps mais dans tous les cas vous l'aurez.
+46:59
+Donc il me dit Hermes docteur, il a fait la vérif euh tac tac tac tac. Donc là il
+47:05
+a trouvé une vulnérabilité là-dessus. OK. Donc ça c'est à corriger. Euh ça on
+47:11
+s'en fout. Ça je sais pas ce que c'est. Et là il
+47:16
+vous dit que on n pas logué. Donc ça on s'en fout. Le plus important c'est pas tout rendre vert. Juste la forme
+47:22
+corriger vulnérabilité MPN. Voilà. Hop. Donc là si vous vous pouvez lui dire tout simplement
+47:29
+contrôle Cop voilà vous faites ce que vous voulez si vous êtes pas obligé. Le reste ça pas
+47:35
+trop d'importance. Donc là si nous a fait le même résultat donc autant pour moi, il nous fait maintenant. Donc en fait si vous faites
+47:40
+lancer Hermes docteur fix, il va essayer de corriger tout en automatique. Mais il y a des choses, j'avais remarqué moi
+47:46
+avec cette pratique, c'est que il y a des choses qui sont pas importantes dans mon utilisation. Ça là, je crois que ça
+47:52
+me sert à rien. Je sais plus ce que c'est mais ça sert à rien. Et si vous saz faites fixe, il va installer et j'en
+47:58
+ai pas besoin. Donc pour l'instant qu'on va le laisser tourner. Donc j'ai une autre commande
+48:04
+qui s'appelle Hermes statut. Euh pour vérifier un petit peu ce qui se passe. Euh on va attendre qu'il finisse et puis
+48:10
+on va taper la commande. Donc là il a fini. Donc il a fixe. OK.
+48:15
+Voilà. Donc on va taper mes statuen
+48:23
+pense notre backup c'est fini.
+48:32
+Après les commandes, il y aura des petites Je vais vous montrer euh les petits raccourcis qu'on a. Euh donc là,
+48:39
+le Hermes statue nous a fait un checkup et il nous dit toutes les infos qu'on a à savoir. Donc c'est bien de les command
+48:45
+les connaître ces commandes, il y en a pas beaucoup. Modèle, docteur, statut. Donc ce qu'on peut faire aussi, on peut
+48:50
+changer de modèle à la volée. Donc on fait modèle. Donc normalement ici, il va nous dire qu'on a plusieurs modèles.
+48:56
+Donc là, j'ai que Open AI qui est connecté. Euh si vous en connectez d'autres, vous allez voir euh les autres
+49:02
+et je clique. En fait, si je veux passer là sur 5.3 Codex, euh je peux passer sur 5.3 codex et uniquement pour cette
+49:08
+session, je suis passé sur 5.3 Codex. OK. Euh maintenant, j'ai le système de raisoning. Euh donc je peux cliquer
+49:15
+dessus. Donc là, actuellement euh il est en effort médium. Donc si je veux passer
+49:20
+en minimal euh je fais ça et je tape minimal. Voilà. Et voilà, il c'est
+49:27
+appliqué. Euh je vais repasser en médium.
+49:34
+OK. R force 7 médium. Donc ça c'est OK. On a une petite commande statue aussi.
+49:39
+Euh alors moi c'est ma c'est ma commande que j'aime bien, c'est pour savoir si tout fonctionne. Et euh en fait si vous
+49:44
+avez un pote qui utilise aussi Hermes open clow et qui vous répond pas sur WhatsApp, vous pouvez mettre statut. Euh
+49:50
+ceux qui me regardent euh savent que je l'envoie de temps en
+49:55
+temps. Euh et vous avez un petit une petite commande profil euh voilà pour savoir
+50:04
+qui c'est qui parle et qui c'est qui fait quoi. Donc là c'est le c'est l'agent par défaut. Donc à partir de
+50:10
+maintenant ce que je vous conseille euh une fois que vous avez ça, donc là vous êtes clairement opérationnel pour
+50:15
+démarrer, c'est de pas aller créer plein d'agents en fait. Euh là, il va falloir vous créer des
+50:21
+automatisations euh des premières et que ça fonctionne avec un seul agent. Et après derrière, vous allez pouvoir créer
+50:27
+plein d'agents, il y a aucun problème avec ça. Mais commencez avec un, c'est le plus simple. Deuxième point important, euh vous avez la possibilité
+50:35
+de créer par un deuxième agent et de faire la même connexion Telegram et de pouvoir parler à deux agents en simultané. Donc ça c'est ce que je
+50:41
+faisais beaucoup avant. Maintenant, je le recommande plus tellement. Pourquoi ? parce que c'est beaucoup plus simple à
+50:46
+gérer d' avoir un seul agent principal en mode j'orchestre toute ma timia que
+50:54
+plein d'agents et je vais leur parler de chaque tâche. En fait, c'est voilà à
+50:59
+l'utilisation, moi je trouve que c'est plus simple. Donc la l'agent principal euh on peut lui dire "Tu dois avoir le
+51:07
+rôle euh d'agent chef de ma team
+51:17
+team IA. Tu dois déléguer correctement
+51:24
+les tâches au autres agents I.
+51:31
+Donc là, bien sûr, nous on en a pas d'autres de cré mais il peut très bien comprendre cette phrase et se dire "OK,
+51:36
+à chaque fois qu'il va m'envoyer une tâche par exemple pour la création d'une page, la rédaction d'un article de d'un
+51:43
+post linkine, quelque chose comme ça, je dois spawn, donc créer un sous-agent éphémère euh et lui il doit faire cette
+51:50
+tâche là et moi je récupère et je donne l'information." Donc c'est euh comme ça que moi j'aime qu'il fonctionne.
+51:57
+Donc voilà. Et maintenant, j'ai ce rôle de chef agent. Euh, j'ai noté pour le modèle, je suis maintenant. H OK. Euh
+52:05
+donc ça c'est OK. Juste le modèle, on va le reswitch. Et je vais vous montrer une
+52:10
+autre commande que j'ai oublié de vous montrer. Hop, c'est un petit bonus pour ceux qui sont encore là. En fait, quand
+52:16
+vous êtes sur les derniers modèles, vous avez un mode fast. Bon, quand je vous aurais trouvé la bonne commande Bah, si
+52:22
+c'est fast fast, je sais pas pourquoi tout à l'heure, il a pas marché. Donc là, en fait, il permet de d'aller
+52:28
+plus vite euh tout simplement sur les sur le les infos. Euh
+52:34
+update ton Soul. MD avec ton nouveau rôle.
+52:40
+Hop. Donc là, toujours je lui dis d'update pour être sûr qu'il le fasse bien. Il a logué en dans sa mémoire en
+52:46
+fait. Donc on voit à chaque fois tout à l'heure ici, il a logué dans sa mémoire
+52:52
+mais moi j'aime bien qu'il ait dans ses fichiers l'information. Donc là, il va il va update son rôle et
+52:59
+euh vous allez voir, il va créer des skills en automatique. Il va s'update les skills en automatique. Donc c'est hyper
+53:06
+impressionnant entre guillemets par quand on vient soit de rien ou soit de
+53:13
+open clos pour l'instant en automatique. Voilà, donc ça c'est bon. On est tout OK. Donc
+53:21
+je vous conseille tout de suite d'aller créer une de trois automatisations avant
+53:26
+de créer des sous-agents. Des petites idées d'automatisation. En fait, vous pouvez lui expliquer euh votre business
+53:36
+et lui demander qu'est-ce que je pourrais automatiser pour démarrer. Quelle euh
+53:42
+serait ma première automatisation à créer via toi euh pour démarrer
+53:54
+simplement et m'aider au quotidien. Il
+53:59
+faut savoir que Hermes Gent au tout début, c'est un bébé. C'est un bébé qui a d'énormes
+54:05
+capacités, qui peut le faire mais qui sait pas comment faire. Et plus vous allez lui parler, plus il va être fort,
+54:12
+efficace et rapide. Donc au tout début, il faut vraiment vraiment lui parler. J'ai fait beaucoup de fois l'erreur de
+54:19
+d'avoir un clos en supervision que je lui parlais et
+54:25
+qu'après j'exécutais derrière. Mais en fait, c'est pas comme ça qu'il faut faire. Alors, je l'ai jamais fait avec Hermes, mais c'est vraiment aller lui
+54:32
+parler. Donc là, je lui poser la question qu'est-ce que je pourrais automatiser ? Donc il sait un petit peu de truc sur moi, c'est pas grand-chose.
+54:37
+S'il raconte de la merde, vous pouvez lu dire "Non, mais en fait, je fais pas ça, mon business c'est ça." Vous pouvez lui envoyer des vocacos. Alors là, on l'a
+54:43
+pas configuré. Ça peut être très intéressant de le voir. Il va vous dire normalement que ça fonctionne ou que ça fonctionne pas et qu'il y a un truc à
+54:49
+configurer. Alors, qu'est-ce qu'il me dit ? Donc, il parle, ça c'est 5.4, il parle beaucoup.
+54:56
+Qu'est-ce qu'il me dit ? [grognement] une automatisation qui te transforme ton chaos en plan d'action du jour. Chaque
+55:02
+matin, tu m'envoies où le tu m'envoies où le système agressage idé vocaux lead tâche. OK. Donc moi, il y a un truc que
+55:09
+j'aime bien chaque matin, c'est le morning digest ce que j'appelle ça. Donc c'est une tâche en fait qui te dit ce matin, tu as ça à faire. Hier, on a vu
+55:17
+ça par exemple. Donc ça c'est un peu toi qui configure comme tu veux. Tu as des tâches dans ton outil. Moi j'utilise Todoist. Il va lire Todoist, il me dit
+55:23
+tiens, tu as des tâches à faire, tu en as en retard, tu as ça à faire. il va aller me chercher un petit peu de la news et puis il va me mettre tiens, il y
+55:29
+a une nouvelle update de Hermes, je pense à mettre à jour euh voilà ou des choses comme ça. Donc vous avez euh le
+55:36
+morning digest tout simple, vous avez la veille. Donc euh vraiment, vous pouvez faire une veille spécifique à démarrer, c'est plutôt simple à mettre en place en
+55:43
+disant bah euh fais-moi une veille quotidienne sur euh je sais pas le SEO,
+55:48
+le marketing euh Airmess Agent, euh Open AI, euh il va te
+55:54
+dire "OK, euh dites-lui un petit peu comment il faire sa veille, aller sur Redit, Twitter, tout ça, il va vous
+55:59
+dire, vous allez rencontrer des difficultés parce que il a pas euh il a pas la solution pour y aller sur
+56:06
+Twitter. il va vous dire qu'il va se faire bloquer redit, il va se faire bloquer. Donc il va il va falloir trouver des solutions. Donc tous ces solutions, bien sûr, je les donne dans
+56:12
+Caviro euh pour aller plus vite, mais il faut aussi lui parler et comprendre comment ça fonctionne. Voilà. Et puis
+56:18
+vous pouvez aussi mettre une automatisation très rapide en disant
+56:24
+on va la faire, on peut la faire ensemble. Ma première automatisation
+56:30
+euh sera une tâche hebdo
+56:36
+de check sécurité complet de mon
+56:42
+installation VPS avec Hermes ici sous unbutu
+56:52
+unbutuer vous lu Mettez toutes les infos. Je sais plus en quelle version d'bout on est,
+56:58
+mais je crois que c'est 24.04. Euh
+57:03
+à vérifier avec rapport
+57:09
+euh clair et précis. Voilà. Donc ça vous pouvez
+57:15
+vous pouvez lancer ça. C'est assez simple. En gros, toute une fois par semaine, il va faire une vérification de votre VPS. Vérifier que la sécurité elle
+57:22
+est OK. Voilà. Donc c'est une automatisation très très simple à faire au début. Peut-être qu'il va pas tout
+57:29
+vérifier, peut-être qu'il va vous mettre le message qui va pas être bien agencé,
+57:34
+trop long. Tout ça vous pouvez modifier par la suite lui dire "OK, mais ton message est trop long, est-ce que tu
+57:40
+peux me faire plus condenser ? Est-ce que tu peux m'améliorer ? Je vous conseille aussi très régulièrement euh
+57:46
+sur vos automatisations de faire un audit. Donc demandez à votre agent d'auditer l'automatisation. attendez
+57:51
+qu'elle tourne deux trois fois et euh de lui dire ce qu'il en pense et euh si on doit l'améliorer ou si c'est OK. Euh
+57:57
+voilà, donc c'est des petites choses comme ça. Euh [grognement] toutes ces toutes ces idées euh bien sûr seront
+58:03
+dans Caviro. Et alors qu'est-ce qu'il nous a dit ? Ça parle beaucoup hein. C'est c'est le reproche que j'ai avec
+58:08
+Openai. Euh ça parle beaucoup et sur Telegram notre reproche, c'est assez dur à voir. Euh pap
+58:16
+doncation doit faire. Donc là il vous a fait un plan. OK. OK. OK. OK. V1 une
+58:24
+tâche rond Hermpdo qui exécute le script me donne les résultats. Synthés de rapport priorisé livraison sur télécram.
+58:30
+Donc là, il me dit lundi 9h ou dimanche 18h. Alors je vous conseille plutôt
+58:35
+lundi 9h. Copier parce qu'en fait dimanche 18h si
+58:40
+vous recevez ça dimanche à 18h et qu'il y a un problème euh il faut retourner au boulot quoi.
+58:45
+Hop. OK. Donc ma recommandation ta présentation V1 ta ta tac.
+58:51
+G report. OK. Go pour
+58:57
+l'in 19h. Donc vous allez souvent lui dire ça. OK, go all ou enfin moi je fonctionne comme ça. En fait, il va vous
+59:03
+donner tout un plan. Il va vous dire je vous recommande de faire ça 1 2 3 4 5 6 7. Moi je fais go all, il me fait tout
+59:10
+parce que du coup ça va plus vite. Donc là je j'ai créé ma première automatisation. C'était pas très très
+59:15
+compliqué. C'est une automatisation que je vous conseille de faire, hein. C'est toujours intéressant à faire et c'est
+59:20
+important. Euh voilà, donc allez-y, expérimenter, tester. Euh faites-moi des
+59:27
+retours sur Caviro, sur ce que vous avez testé, [grognement] euh si vous êtes en manque d'idée, euh si vous rencontrez
+59:32
+des difficultés. Caviro euh vraiment c'est fait pour ça. Donc vous allez sur
+59:38
+caviro.com. Ici, vous faites commencer gratuitement.
+59:43
+Donc vous aurez à rentrer votre nom et prénom, votre adresse email, un identifiant, euh un mot de passe, encore
+59:49
+un mot de passe, j'accepte les conditions, je m'inscris. Vous allez recevoir un email avec un code. Vous rentrez ce code là et vous allez
+59:57
+directement être connecté euh sur Caviro sur la communauté.
+1:00:03
+Vous allez pouvoir de toute façon, si vous avez eu besoin d'accès d'accéder aux commandes, euh vous avez déjà fait
+1:00:09
+votre compte. Et euh dessus, alors il y a plusieurs points. Donc on démarre ici euh commencer ici. Donc ici il y a un
+1:00:16
+petit peu toutes les infos. On lit la charte, on va se présenter en cliquant là. Et après le sujet principal, c'est Hermes. On va ici. Après on peut aussi
+1:00:23
+aller parler de Open Clow NM et consulter le général tout simplement.
+1:00:28
+Donc il y a des petites infos qui arrivent dessus. Si vous avez des idées pour améliorer aussi bien mes vidéos,
+1:00:34
+améliorer la plateforme ou des idées de vidéo, vous rendez sur feedback et idé. vous si vous avez des réussites, vous
+1:00:40
+êtes content de vous. Euh vous avez mis en place, une fois que vous avez mis en place le serveur que vous parlez, vous
+1:00:45
+pouvez aller partager votre réussite sur le forum. J'ai installé mon Hermes, donc ça, il y a pas de souci. Après, on va
+1:00:52
+dans Hermessage adjun discussion question. Donc ici, vous pouvez discuter, poser des questions, il y a des euh il y a des petits sondages,
+1:00:59
+allez y répondre. Ici, c'est tous les tutos écrits sur Hermess Agent. Euh donc, ils vont en avoir un petit peu
+1:01:04
+plus. Pour l'instant, il y en a pas beaucoup. euh parce que ça fonctionne très bien et j'ai il y a pas de gros euh
+1:01:11
+euh gros problème. Euh même principe, open clow et euh
+1:01:17
+et NN, vous avez l'espace formation ici où vous allez pouvoir retrouver cette vidéo et d'autres vidéos sur euh
+1:01:24
+Airmessent. Et après, il y a la partie cas concret que là je vais alimenter. Donc prochain projet pour moi, c'est de
+1:01:31
+mettre du cas concret et de créer une un side business complet avec une timia air
+1:01:37
+messagent. Euh [grognement] géré par ça. Donc il y aura euh le les l'essentiel
+1:01:43
+ici et tout le détail de ce cas concret euh dans la partie premium. Tout ce qui est partie live et replay se trouve dans
+1:01:49
+cette section-là. Donc je fais des lives régulièrement, ils sont ici. Donc vous pouvez les retrouver aussi sur YouTube ou sur Twitter. Et après, on a la
+1:01:56
+version premium qui est la version avancée de Caviro qui vous permet d'avoir accès à du contenu euh beaucoup
+1:02:02
+plus poussé et détaillé. [grognement] Et euh donc là, j'ai commencé avec des ressources sur Open Clow. Donc ça c'est
+1:02:07
+des ressources qu'on m'a demandé donc qui sont dessus. Donc il y a des gens qui ont accès et qui ont utilisé ces ressources pour améliorer leur Open
+1:02:13
+Clow. Et en fait dans Hermess Agent, on va avoir toute la création en détail de
+1:02:19
+sa la stack et de sa teamia de Herment et [grognement] toutes les coulisses du SA projet avec la teamia 100 % géré
+1:02:27
+dessus. Il y aura [grognement] également euh j'attends qu'il y a un petit peu plus de monde des lives uniquement
+1:02:33
+prévus pour la partie premium donc très spécifique euh très complet. Et euh il y
+1:02:39
+aura aussi des questions-réponses, des débugages en ligne, donc toute cette partie-là. Dans tous les cas, je vous conseille d'aller directement sur
+1:02:45
+Caviro, de rejoindre, de venir discuter un petit peu dessus, de penser bien sûr
+1:02:51
+à mettre un like euh sur cette vidéo si vous êtes encore là, euh de vous abonner
+1:02:56
+à la chaîne YouTube, de passer me voir aussi sur Twitter, euh de venir discuter avec moi sur Caviro et [grognement] puis
+1:03:02
+de partager votre réussite après l'installation dans Partage tes réussites. Voilà, c'était tout pour ce
+1:03:09
+tuto. J'espère que je vous aurais aidé à installer agent et je vous dis à
+1:03:15
+bientôt.
+
+Tout
+
+Cloud computing
+
+Pour vous
+
+Regardées
+
+26:40
+Je teste les plats des pays de la Coupe du monde
+Gurky
+79 k vues
+•
+il y a 8 heures
+Nouveau
+
+
+9:54
+EXERCICES PECS : du MEILLEUR au PIRE (classement)
+Nassim Sahili
+1,6 M de vues
+•
+il y a 3 ans
+
+
+9:00
+Cybersécurité : le métier que l'IA rend indispensable (sans bac+5 obligatoire)
+Benjamin Duplaa
+25 vues
+•
+il y a 12 heures
+Nouveau
+
+
+17:24
+La Plupart des Hommes de plus de 40 ans ne Seront Jamais Secs (et ce n'est pas une Question d'Âge)
+Julien QUAGLIERINI
+5 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+24:04
+Toutes mes courses pour avoir des Abdos !!
+Tibo InShape
+1,4 M de vues
+•
+il y a 1 an
+
+
+59:24
+LOLA DUMENIL ME DÉFIE À LA SALLE DE SPORT !!
+Tibo InShape Entrainement
+ et Tibo InShape
+156 k vues
+•
+il y a 3 mois
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+43 k vues
+•
+il y a 11 jours
+
+
+16:04
+Il fait 40°C… mais le monde a encore besoin de pétrole
+Xavier Delmas
+10 k vues
+•
+il y a 8 heures
+Nouveau
+
+
+14:21
+Votre portefeuille est-il prêt pour la stagflation ?
+Xavier Delmas
+83 k vues
+•
+il y a 1 mois
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+242 k vues
+•
+il y a 3 mois
+
+
+53:43
+Tu dois utiliser Hermès IMMÉDIATEMENT ! (Adieu OpenClaw !!)
+Mike Codeur
+15 k vues
+•
+il y a 1 mois
+
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+43:02
+Créer un agent IA avec n8n — Formation complète
+Shubham SHARMA
+526 k vues
+•
+il y a 1 an
+
+
+16:27
+Le grand tri des entreprises par l’IA a commencé
+Xavier Delmas
+56 k vues
+•
+il y a 1 mois
+
+
+22:28
+Économie mondiale : tout est en train de changer
+Xavier Delmas
+117 k vues
+•
+il y a 2 semaines
+
+
+21:04
+Second cerveau avec Hermes Agent : comment éviter de tout réexpliquer à ton IA
+David Schkiwisk - Kavyro
+510 vues
+•
+il y a 1 jour
+Nouveau
+
+14:44
+Le système du pétrodollar est en train de craquer
+Xavier Delmas
+82 k vues
+•
+il y a 3 mois
+
+1:54:20
+Marine Le Pen candidate ! LE DEBRIF
+J'suis pas content TV
+16 k vues
+•
+Diffusé il y a 2 heures
+Nouveau
+
+1:46:22
+Casey Neistat : pourquoi j'ai arrêté YouTube et ce que je fais maintenant !
+The Diary Of A CEO
+1,5 M de vues
+•
+il y a 2 ans
+Doublée
+
+2:21:31
+Méthode SIMPLE pour gagner 100 000$ de zéro | Experts en argent
+The Diary Of A CEO
+ et BigDeal by Codie Sanchez 
+2,3 M de vues
+•
+il y a 11 mois
+Doublée
+
+    

@@ -1,0 +1,884 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Composer 2.5 est trop fort… je vous avais prévenus (test complet)
+DevArt 
+DevArt 
+15,4 k abonnés
+
+S’abonner
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+7 juil. 2026  #mistralai #llm #llmlocal
+Composer 2.5 est-il vraiment meilleur que Claude Opus pour coder ?
+Je compare les deux modèles dans un test complet, avec des cas concrets de développement, de bugs et de raisonnement.
+Et après ce test vous penserez comme moi, oui oui.
+
+Télécharger les prompts 👉 https://github.com/ArthurGamby/compos...
+
+👉 À la fin de la vidéo, un like, un partage ou un commentaire m’aide énormément. Merci beaucoup pour votre soutien ❤️
+
+#mistralai #llm #llmlocal #ia #developpeur #chatgpt #claude #openai #ollama #composer #opus4.8
+
+_______
+
+Envie d’apprendre encore plus ?
+
+Mistral 3B, 8B, 14B : Test complet et installation locale
+   • Mistral 3B, 8B, 14B : Test complet et inst...  
+
+J’avais tort... Gemma 4 en LLM local, c’est incroyable. Test COMPLET.
+   • J’avais tort... Gemma 4 en LLM local, c’es...  
+
+Musk rachète Cursor et vient de tout changer pour les DEVS (OpenAI et Anthropic le savent déjà)
+   • Musk rachète Cursor et vient de tout chang...  
+
+Kimi K2.7 Code : l’IA locale la plus puissante aujourd’hui ?
+   • Kimi K2.7 Code : l’IA locale la plus puiss...  
+
+Entretien de dev 2026 : 3 questions d’IA à connaître absolument !
+   • Entretien de dev 2025 : 3 questions d’IA à...  
+
+Test complet de Mistral AI
+   • Test Complet de Mistral AI: J'abandonne Ch...  
+
+Qwen plus fort que DeepSeek et ChatGPT ? LE TEST étonnant
+   • Qwen plus fort que DeepSeek et ChatGPT ? L...  
+
+Utiliser DeepSeek R1 avec Cursor AI, facile et surpuissant
+   • Utiliser DeepSeek R1 avec Cursor Ai : Faci...  
+
+DeepSeek VS ChatGPT VS Claude ?
+   • DeepSeek vs ChatGPT vs Claude : Quel choix...  
+
+Mon organisation de dev
+   • Développeur - Mon Organisation facile en s...  
+
+Construire un Terminal de Trading en NextJS
+   • Créez un Terminal de Trading avec Next.js ...  
+
+Navbar Responsive en HTML CSS, pas à pas
+   • Navbar Responsive en HTML CSS | Pas à Pas  
+
+TOP 10 questions React en entretien
+   • TOP 10 questions React en entretien!  
+
+CSS : Votre carte avec les FlexBox
+   • CSS : Votre CARTE avec les FlexBox!  
+
+ChatGPT : TOP 5 des astuces pour devs
+   • Chat GPT: TOP 5 ASTUCES pour développeurs ...  
+
+AWS S3 : Héberger son site en moins de 5 minutes
+   • AWS S3 : Héberger son site en moins de 5 m...  
+
+AWS Lambda et API Gateway en 10 minutes
+   • AWS Lambda et API Gateway en 10 min!  
+
+Construire un site de NEWS avec React, CSS et FlexBox
+   • How To Build a React News App With CSS Fle...  
+DevArt confronte les performances techniques et économiques de Composer 2.5 et Claude Opus à travers une série d'exercices pratiques. Cette analyse détaille l'efficacité, la gestion des tokens et le rendu visuel de chaque modèle sur des projets concrets, allant du développement de landing pages à la conception d'architectures d'applications complexes.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+DevArt
+15,4 k abonnés
+Vidéos
+À propos
+Licence
+Licence de paternité Creative Commons (réutilisation autorisée)
+22 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @devart-studio
+@devart-studio
+il y a 10 heures
+Aaaah j’ai kiffé faire cette vidéo 🙏
+Si tu souhaites ne pas rater la prochaine, abonne-toi avec la petite cloche 👉il y a une autre vidéo qui va arriver (très) vite !
+
+Merci à tous, je vous kiffe, vraiment
+
+
+
+Répondre
+
+
+1 réponse
+
+@AbrahamKobozo
+il y a 5 heures
+Merci pour la démo : modèles Cursor vs Anthrop\c
+
+1
+
+
+Répondre
+
+
+@mrkanata7696
+il y a 4 heures
+top comme vidéo
+
+
+
+Répondre
+
+
+@davidInParis
+il y a 3 heures
+Conseil pour tes prochaines vidéos, tu devrais chapitrer, il y a des outils qui le font automatiquement je crois 
+
+
+
+Répondre
+
+
+@athrus3232
+il y a 2 heures
+Tres intéressant. Comme toi j'utilise cursor pour le dev. J'aime bien avoir le côté agent et IDE pour controller le code.
+J'utilise composer 2.5 et auto la plupart du temps. J'ai une utilisation un peu différente de ce que tu presentes. Je suis assez directif: je precise la feature et comment je veux qu'elle soit implémenté dans les grandes lignes. Sur ce point je trouve composer efficace. Meme si j'ai l'impression parfois qu'il fait le strict mimimum que j'ai demandé. Quand j'ai besoin de plus d'intelligence j'utilise avec l'api gpt 5.5 en high, c'est tres bien. Les modèles d'anthropic consomment trop les quotas. J'ai fait deux prompt avec fable, pour tester il m'a mangé 50% des mes credits en moins d'une heure.
+Perso j'aimerai bien un comparatif avec le modèle auto de cursor. J'ai du mal à savoir si il est vraiment meilleur que composer.
+Ps: j'aime beaucoup comment tu parles de l'ia en général : pragmatique et concret.
+
+
+
+Répondre
+
+
+@sebastienverite2958
+il y a 7 heures
+tu as le plan pro+ ou ultra sur cursor ?
+
+
+
+Répondre
+
+
+@einsteinnewton4066
+il y a 2 heures (modifié)
+Note: Il est construit à partir des poids du modèle open-source Kimi K2.5 de Moonshot AI, tout comme son prédécesseur Composer 2 via Apprentissage par renforcement.
+C'est pourquoi ça coute moins cher.
+
+
+
+Répondre
+
+
+@fromagetriste
+il y a 4 heures
+Bonne vidéo merci. Je viens de la regarder en entier. Le nerf de la guerre maintenant que les IA sont plus ou moins égales c'est le coût du token, et DeepSeek va mettre en PLS les grosses boîtes américaines qui ont investi des milliers de milliards
+
+
+
+Répondre
+
+
+@xgamer
+il y a 3 heures
+J'utilise composer sur grok build pour principalement des tâches sysadmin et c'est extrêmement bien, par contre j'ai jamais trop touché les modèles de anthropic
+
+
+
+Répondre
+
+
+@sebastienverite2958
+il y a 7 heures
+merci. le rapport d'ecart de prix n'est pas justifié.
+
+
+
+Répondre
+
+
+@ketby
+il y a 4 heures
+bah franchement, sur quasiement 100% de tes exemples, j'ai trouvé qu'OPUS était devant, en terme de finition, de qualité et de mise en page.
+
+1
+
+
+Répondre
+
+
+@TonyHyze
+il y a 3 heures
+ouais mais le problème avec composer c'est que le plan cursor à 20euros vs le plan claude à 20 eur, meme si opus ou sonnet coût plus chère, avec claude t'as beaucoup plus de token que sur cursor, surtout que sur claude t'as limit c'est toutes les 5h et en rapport à la semaine, alors que cursor c'est pour le mois complet...
+
+Alors que composer 2.5 et sensé couté beaucoup moins chère à l'api, je trouve que vu que claude donne plus de token ça rééquilibre les choses.
+
+
+
+Répondre
+
+
+@Linkeur2
+il y a 5 heures
+Rapport qualité prix Sonnet 5 est devenu très bon j'ai l'impression
+
+
+
+Répondre
+
+
+@azerdsq-k3k
+il y a 6 heures
+Claude Opus mange tout en API ... Ça aurait été intéressant de comparer avec le plan Claude Pro.
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@GregMadman
+il y a 6 heures (modifié)
+Obligé de repasser sur cursor parce que depuis la maj de windsurf vers Devin 1er juillet (passage de Cascade vers "Devin Local"), ils ont du appliquer une quantisation agressive sur certains modèles qu'ils proposent "gratuitement" (il faut quand même payer son abonnement), et de fait, GLM 5.2 est devenu tout pourri 
+Je reteste Kimi k2.7 puisque j'ai l'abo Devin et cursor en parallèle, mais là, la baisse de qualité de glm 5.2 est flagrante vs composer 2.5 par exemple
+
+
+
+Répondre
+
+
+1 réponse
+
+@CodeTatami
+il y a 6 heures
+On voudrait nous faire croire que le train vaut mieux que l’avion. Pourtant, il écrase la concurrence… mais uniquement sur le papier, face à un vol. J’ai de quoi le démontrer. ... évangéliste de composer ... tu es payé à ...
+
+1
+
+
+Répondre
+
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:00J'ai toujours dit que le meilleur modèle du moment pour moi c'était composur 2.5, même contre les modèles d'enthropie, cl l'odopus et cetera. Dans cette vidéo, je
+0:088 secondesfais un test approfondi avec vous. Vous allez avoir accès à toutes les informations. Le prix que ça m'a coûté par prompt et par test, par fature, le
+0:1616 secondesnombre de token, le nombre de pourcentage que ça me coûte sur un abonnement cursor. Tous les résultats, vous allez voir, il y a pas mal de tests que l'on va faire. Quel est le meilleur
+0:2323 secondesmodèle dans ton workflow quotidien de dev ou autre entre composant 2.5 et Cludopus 4.8 ? Dans ce test très complet, on va voir beaucoup de choses.
+0:3232 secondesOn va passer par de la landing page marketing très poussée pour voir en improme ce qu'il est capable de faire.
+0:3737 secondesVous allez voir, on est quand même sur du très très lourd. On va aussi faire du jeu vidéo, du site internet beaucoup plus poussé avec de l'interprétation Jason. On va évidemment aussi pousser la
+0:4646 secondeschose en discutant, en faisant de la conversation avec les modèles et en leur demandant d'intégrer des packages externes, des librairies externes et cetera. On laisse le choix de manière
+0:5353 secondesgénérale aussi dans beaucoup de choses au modèles pour qu'ils puissent nous montrer un petit peu leur processus de réflexion et surtout en fait si le résultat est cohérent surtout au niveau
+1:011 minute et 1 secondedu prix qu'il propose. On saute directement dans le vif du sujet. On balance tout de suite le test de laing page. Donc ça c'est un test super sympa parce que vous allez voir c'est assez
+1:081 minute et 8 secondesflagrant même en terme de résultat. On est à gauche sur l'éditeur avec composur, c'est dans cursor évidemment.
+1:151 minute et 15 secondesEuh on utilise donc les mêmes outils de base, hein, comme ça en fait, on est sur un test qui euh avec le même référentiel. Et à droite, on est sur Cursor qui utilise Cloud Plus 4.8
+1:231 minute et 23 secondesmédium. Tout de suite le test, pam, à gauche, composeur, à droite cludopus.
+1:281 minute et 28 secondesRegardez ça. Oubliez pas, on parle de deux modèles qui sont très différents niveau prix aussi. Je vais mettre les prix à l'écran. Vous allez voir que du
+1:361 minute et 36 secondescoup Claudopus et encore j'utilise composeur 2.5 fast. Si vous utilisez composant 2.5 normal qui est pas si long que ça, on est sur presque 10 fois moins
+1:451 minute et 45 secondescher. Alors qu'à droite là pour le moment, on est sur au moins deux à trois fois plus cher sur Clodopus. Donc à gauche, il m'a fait cette landing patch
+1:531 minute et 53 secondesqui est pas si mal. On va refresh les deux pages, vous allez voir. Hop, petit effet d'arrivée classique, le chiffre qui augmente et cetera. Ici, petit effet
+2:002 minutesclassique aussi. Il m'a rajouté juste sur au plus m'a rajouté une petite vidéo ici que je ne peux pas cliquer. Donc en fait en soit, j'ai envie de cliquer mais je peux pas. Donc erreur quand même pour
+2:092 minutes et 9 secondesClaudopus. Un peu simple ici he d'accord mais quand on descend on a c'est ce héros qui est pas trop mal. Quand on
+2:162 minutes et 16 secondesdescend un peu ici lui il est plus allé sur tout ce qui compte déjà des petites cartes et cetera et on arrive rapidement en fait à un peu la stack et vite les
+2:252 minutes et 25 secondesvidéos à droite sur Claudopus. J'aime bien parce qu'il en a mis six. Donc du coup c'est c'est très intéressant. à
+2:322 minutes et 32 secondesgauche, il m'a fait la même chose. Vous avez vu ce que j'aime moins aussi sur composeur, c'est que du coup, il a pas forcément réfléchi. Moi, j'aime bien
+2:402 minutes et 40 secondesquand il y a un chiffre un peu pair parce que les cartes, c'est toujours sympa. Allez, mets ton clique sur plus ici. Et euh et également ce qu'il faut savoir c'est que dans ce test là, au début, j'avais pas mis de d'asset image.
+2:512 minutes et 51 secondesDonc en fait, on avait sur les deux sur les deux tests, on avait juste des cartes en fait avec des titres sans les sans les sans les images. J'ai dit après
+2:592 minutes et 59 secondesdans le test, j'ai dit voilà par contre je te mets un petit fichier public avec six thumbnail, merci de les balancer. À toi de à toi de te de déterminer s'il
+3:083 minutes et 8 secondesfaut aller voir les titres ou pas et cetera. Là où Opus a été meilleur, c'est qu'en fait il est allé quand j'ai donné en fait le thumbil avec le nom Kimode et
+3:163 minutes et 16 secondescetera, il est allé chercher le vrai titre de la vidéo sur ma chaîne YouTube.
+3:193 minutes et 19 secondesCe qui fait qu'en fait ça ce sont les vrais titres de mes vidéos, d'accord ?
+3:223 minutes et 22 secondesEuh disid ça sa codé et cetera. Là le seul truc en fait c'est que il a un peu si vous voulez euh repris le nom de mon
+3:303 minutes et 30 secondesthumbmail. il est pas allé chercher le titre de la vidéo sur ma chaîne. Donc en fait, il est pas allé refaire un appel réellement euh sur internet pour aller
+3:383 minutes et 38 secondesvoir ça. Donc petit moins bien pour composeur où moi j'aurais potentiellement encore des petites choses à faire. Mais regardez, on est quand même sur quelque chose de visuellement quand même assez similaire.
+3:473 minutes et 47 secondesComposeur a coûté pour l'ensemble en fait de cette page là 44000 token.
+3:523 minutes et 52 secondesD'accord. Alors qu'à droite opus ça a coûté 89000 token. C'est pour ça que je vous dis il y a je trouve que à droite
+4:004 minuteson est sur quelque chose d'un peu plus léché évidemment. D'accord mais on n'est pas sur quelque chose de si différent que ça. Voilà en soit ça fait mal. et ça m'avait en fait bump usage sur cursor.
+4:114 minutes et 11 secondesDonc en fait, je vous affiche à l'écran là les euh les pourcentages. Je suis à peine à 1 % de ma limite mensuelle utilisée avec ce prompt là euh sur
+4:194 minutes et 19 secondescomposur. Je suis déjà à 6 % de ma limite d'API mensuel tapé avec ce prompt. Vous avez vu comme ça va vite ?
+4:274 minutes et 27 secondesDonc en soit, je préfère encore avoir la main mise sur ce que je peux lui demander après, même si je perds un peu plus de temps qu'être en qu'être en train de me dire "Oh là là, mais j'ai
+4:344 minutes et 34 secondesj'ai presque plus d'usage en fait." Maintenant qu'on a fait ça, on va passer à un deuxième test qui est un peu plus technique, le jeu vidéo. Vous allez voir qu'ils ont été très très bons les deux
+4:424 minutes et 42 secondeset je pensais pas que Composer allait être si bon forcément face à un opus mais je lui ai demandé en fait de faire un jeu vidéo où on peut utiliser évidemment les flèches de l'ordinateur
+4:514 minutes et 51 secondesavec des obstacles. Moi je voulais un peu des événements un peu de collision tout ça comme je vous disais. Je voulais qu'il utilise visuellement des choses assez sympathiques et en fait voir de
+4:594 minutes et 59 secondesquoi ils étaient capables les deux. Je balance le même prompt. Je vous donnerai tous les promptes en fait dans la description de la vidéo comme ça vous verrez. Mais pour voir le résultat du
+5:075 minutes et 7 secondesjeu, vous faites slash game, hop et vous allez voir. Je vais vous dire donc là, je vous mets ça. Je vais vous montrer à l'écran avant de lancer le jeu le coût
+5:165 minutes et 16 secondesque ça m'a coûté et vous allez vous faire votre avis. D'accord ? À gauche, donc là je vous le mets un peu au milieu. À gauche, c'est composur. Le jeu
+5:235 minutes et 23 secondesest jeu de gauche, c'est composur. Ça m'a coûté 60. À chaque fois, il faut savoir que je repars d'une fenêtre d'agent nouvelle, hein. Comme ça, j'ai c'est clean. Ça m'a coûté 60000 token.
+5:325 minutes et 32 secondesOK.
+5:335 minutes et 33 secondes[grognement]
+5:335 minutes et 33 secondesLe Opus, ça m'a coûté 50000 token. Donc là bizarrement Opus m'a coûté moins en token que composeur. Vous allez voir un
+5:415 minutes et 41 secondespeu ce que ça donne. On va jouer d'abord à Allez, on va jouer d'abord à Opus.
+5:465 minutes et 46 secondesHop. Donc là, moi je peux me déplacer avec les flèches. C'est sympa. Il y a un petit effet de saut. Tac. Ah bon ? J'ai tapé quoi là ? Bon, donc ça c'est un jeu
+5:565 minutes et 56 secondesqui m'a fait c'était 8 minutes he pour vous donner une idée. Donc ça c'est au plus hein. Tac tac tac. Je peux récupérer de l'argent peut-être. On va
+6:036 minutes et 3 secondesessayer. Tac tac tac. Là, si je fais ça, ça devrait aller. Voilà. Ah, voilà. Bon, maintenant on essaye à gauche. Attends, je vais pas dire mais regardez si je
+6:116 minutes et 11 secondeslance les deux, c'est Ouais, je vais zoomer un peu ici. C'est pas très c'est pas terrible. Sinon, c'est presque similaire. OK, sauf que là, par contre, on va vers le bas. Ah, d'accord.
+6:216 minutes et 21 secondesBon, je pense que je préfère le jeu d'Opus quand même.
+6:256 minutes et 25 secondesOuais, en plus ça saute un peu. Donc là, par exemple, pour le coup, je pense que évidemment je pour moi, ouais, ça saute
+6:326 minutes et 32 secondesl'écran et cetera. Pour moi, Opus a un jeu plus léché, les collisions sont mieux respectées. Je trouve que les
+6:406 minutes et 40 secondescouleurs sont sympas et j'ai pas cette espèce d'effet où j'ai l'impression que le la page tremble dès que je descends.
+6:476 minutes et 47 secondesDonc là, pour le coup, pour moi, opus gagne. Donc je vais revenir dans la base de code pour vous montrer quelque chose.
+6:516 minutes et 51 secondesPour ce troisème test, les fichiers ont le même. Donc je vais fermer ça. Hop, sur la gauche. Est-ce que j'y arrive un jour ? Hop là.
+6:596 minutes et 59 secondesCe fichier ce fichier Jason est une base de données I d'accord pour la mise en place d'un site internet pour un spa.
+7:077 minutes et 7 secondesC'est un c'est un gros fichier Gison. On parle de 600 lignes, 700 800 lignes.
+7:117 minutes et 11 secondesD'accord ? Donc c'est pas juste de trois deux trois objets. Il y a tout ce qu'il faut pour créer un site complet.
+7:167 minutes et 16 secondesD'accord ? Je vous parle d'images, je vous parle de d'informations sur les prix, je vous parle de anglais, français et cetera. L'idée c'est qu'en fait vous balancez le même fichier, d'accord ?
+7:257 minutes et 25 secondesExactement le même dans les deux. ici là c'est le même et vous postez le même prompt qui lui explique que tu veux créer à partir de ce fichier un site
+7:337 minutes et 33 secondesinternet pour une société d'organisme un organisme de spa et tu veux en fait qu' s'imprègne des données, qu'il réfléchissent comment mettre en place
+7:407 minutes et 40 secondesces données. Évidemment, il va y avoir des des des similitudes mais à lui en fait d'un petit peu donner sa ce son
+7:487 minutes et 48 secondespetit branding perso, d'accord ? Et voir lequel fait le mieux. Vous allez voir déjà en terme de coup, je vous montre tout de suite parce que ça commence à piquer un peu tout ça là.
+7:587 minutes et 58 secondesDonc oubliez pas, j'ai balancé en prompt euh juste un @as database OK, donc il est allé chercher le database et j'ai mis un petit prom qui explique voilà,
+8:058 minutes et 5 secondesfais-moi un site internet avec spa qui m'affiche une belle page avec des animations, des machins, un formulaire de contact, tout un truc en fait que tu
+8:138 minutes et 13 secondespourras avoir en production pour un un site internet de spa. Composeur, ça m'a coûté 50 55000 token. OK.
+8:208 minutes et 20 secondesEuh au plus ça m'a coûté 96000 tokens le double. D'accord. Et là moi ce qui m'a
+8:278 minutes et 27 secondesimpressionné pour celui-là, regardez le système prompt. 4500 token côté opus, 484 côté composeur. Déjà, il y a il y a
+8:378 minutes et 37 secondesune énorme différence là-dessus. C'est c'est et tout le reste évidemment là aussi en tout définition 24000 et la 8000. On est sur quelque chose qui a
+8:458 minutes et 45 secondescoûté beaucoup plus de puissance à Opus qu'à Composeur. Mais est-ce que ça valait le coup ? Et ben regardez ça. Hop hop. Et là on fait slash spa.
+8:568 minutes et 56 secondesHop. Ah déjà j'aime bien j'aime bien comment ça charge. Spa.
+9:049 minutes et 4 secondesVoilà. Je vous jure que j'ai pas trafiqué le truc. Je je vous le promets, je vous je suis pas en train de vous vendre composeur. Vous allez voir que
+9:119 minutes et 11 secondesopus est quand même il a il sont il est fort. Mais sur l'affichage de là, on pêche direct comme ça, il y a un bug, il
+9:189 minutes et 18 secondesarrive pas en fait, j'ai regardé la il a il a un problème pour afficher ça.
+9:219 minutes et 21 secondesD'accord ? Il y a un problème de de lazy loading et cetera. Déjà ça direct. Ensuite, si vous scrolllez un
+9:299 minutes et 29 secondespeu évidemment vous allez voir que euh déjà là il m'affiche pas la bonne image non plus. Vous allez voir qu'après c'est sympa. Là, il m'affiche pas l'image et
+9:369 minutes et 36 secondeslà, il m'affiche les images. Mais il a un problème avec trois images. D'accord.
+9:409 minutes et 40 secondesDéjà, alors que ça m'a coûté, ça coûte deux fois plus cher, ça m'a coûté deux fois plus de token. À gauche, c'est un peu plus simple. Vous avez vu niveau 8,
+9:489 minutes et 48 secondesdonc on est sur du carré et cetera. On est sur là, hop, anglais français, on voit pas très bien la différence. Là, la nave barre, elle change pas trop de
+9:569 minutes et 56 secondescouleur. Ici, ici, il y a un petit effet. Voilà, il y a un petit côté Hop là. Voilà, un petit côté sympa. Si on descend un petit peu sur quelque chose
+10:0410 minutes et 4 secondesqu'on peut comparer. Donc là, il m'a dit voilà là, normalement je suppose que en background, il y a une belle image mais du coup c'est vrai que il faut savoir
+10:1210 minutes et 12 secondesque c'est la même taille en terme de largeur. Donc voilà. Là je trouve qu'on voit pas très bien ça. Ça aurait ça aurait mérité un peu plus de en terme de
+10:2010 minutes et 20 secondescouleur. Je trouve qu'il y a il y a pas assez de différence de ton. Je sais pas si ça se dit comme ça, mais voilà. Euh j'aime bien comment qu'il a fait ça. Le
+10:2810 minutes et 28 secondesproblème c'est que sans l'image, moi ici j'ai l'image. Regardez. Voilà. Si on compare les sections, euh je lis mieux ici. Euh la couleur est un peu plus
+10:3610 minutes et 36 secondesagréable pour moi. Là, c'est très c'est très fin, mais il faut savoir quand même que ça se ressemble quand même énormément. On parle de composeur 2.5 et de opus 4.8. D'accord.
+10:4510 minutes et 45 secondesLa bonne image parce que je leur avais demandé d'utiliser celle-là.
+10:4910 minutes et 49 secondesÉvidemment, les textes c'est les mêmes parce que c'est dans c'est dans dans la base de données. Mais ce qui est important, c'esti de savoir c'est comment est-ce qu'ils ont interprété ce
+10:5610 minutes et 56 secondesfichier Gison pour construire le site internet. quand on descend. Donc là, on est sur les services. Hop, on est sur
+11:0311 minutes et 3 secondesles services. Ils ont pas choisi du tout la même chose. Ils ont lui il a choisi quelque chose d'assez centré, d'assez euh voilà, c'est les mêmes textes, mais
+11:1111 minutes et 11 secondesquelque chose de centré avec des cartes qui sont un peu différentes. Je pense que je préfère les cartes et encore, j'aime bien le côté tag un peu vert, un
+11:1811 minutes et 18 secondespeu nature ici. Je trouve qu'on voit bien 180 € 90 minutes. Là, je trouve qu'en fait, j'ai du mal à voir un peu les tags. Donc voilà, c'est vrai. Après,
+11:2611 minutes et 26 secondesj'aime bien ce côté. Et oui, il y a un truc aussi moi qui me dérange un petit peu ici, c'est regardez la carte de gauche, elle est elle a elle a pas une
+11:3311 minutes et 33 secondestaille fixe parce qu'en fait le tag ici, il est parti à la next ligne à la à la ligne d'après et du coup ça ça a foutu
+11:4011 minutes et 40 secondesen l'air la carte ici là que la carte est que le tag ici là ici ou pas, ce qui est pas mal, c'est que ça en fait la la disposition, ils ont sûrement en fait
+11:4811 minutes et 48 secondesforcé en bottom à la fin et du coup la carte en fait elle garde ce côté euh ce côté UI sympa. Euh du coup, petit point
+11:5611 minutes et 56 secondespour plus là-dessus, c'est sûr. Mais si vous voulez, de manière générale, on est quand même pratiquement sur quelque chose. J'aime bien ce côté un peu ici.
+12:0312 minutes et 3 secondesVoilà, massage rituel, je le vois tout de suite. Eux, ils l'ont mis ici. Mais voilà, très sympa. Hop, les petites. Là, il y a un petit effet sympathique.
+12:1012 minutes et 10 secondesEncore une fois, euh je pense que je préfère ça parce qu'on voit mieux, hein.
+12:1412 minutes et 14 secondesD'accord. J'aime bien ce côté, j'aime pas trop ce côté bump comme ça de cartes qui montent. Ici, c'est comment ? Ouais, je préfère alors je préfère ce côté un
+12:2212 minutes et 22 secondespeu plus pr un peu plus clean pr ça en fait ce qui me dérange si vous voulez sur ce côté un peu à droite au puus c'est que j'ai l'impression je l'ai vu 100000 fois côté arrondit toutes les
+12:3112 minutes et 31 secondescartes avec le côté j'ai deux cartes un peu blanches et j'ai la carte que tout le monde utilise que le prix que tout le monde veut en noir un peu foncé oui mais
+12:4012 minutes et 40 secondesje le vois partout ici ce que j'aime bien c'est que voilà il a en plus je sais pas si vous voyez c'est sympa ce côté un peu deux là comme ça c'est un peu stylé je trouve qu'il a il a un
+12:4912 minutes et 49 secondesthème vraiment particulier ici euh même si il fait peut-être un peu le le l'impasse sur Ouais l'accessibilité qui
+12:5712 minutes et 57 secondesest un peu moins facile mais moi j'aime bien c'est c'est premium premium voilà c'est chouette donc petit point peut-être en fait pour composeur pour
+13:0513 minutes et 5 secondesmoi ici là euh donc là en fait il a bon là je pense que je préfère composeur de base parce que
+13:1313 minutes et 13 secondesj'aime bien ce côté un peu centré je trouve que le le texte je trouve déjà qu'en fait le le bah le texte qu'ils ont choisi Il est plus euh je sais pas, il
+13:2113 minutes et 21 secondesest plus apaisant ici. J'ai l'impression que j'ai un classique. Voilà. Euh ici. OK, j'avais pas vu. Il y a un petit OK.
+13:2713 minutes et 27 secondesEst-ce que j'ai un truc ici ? Voilà. Ah, il y a une petite Regardez là, j'ai une erreur ici parce que je crois que j'ai un texte ici qui est censé s'afficher là. Donc voilà, petite erreur quand même
+13:3513 minutes et 35 secondessur [grognement] truc là. Donc voilà, je peux pas donner le point quand même à composer. Je donne le point aussi là là-dessus pour quand même les avis.
+13:4513 minutes et 45 secondesBah moi, je préfère ça pour un spa. Ça je l'ai vu 100 fois en fait.
+13:4913 minutes et 49 secondesVoilà, c'est bien ça. Il y a rien qui change mais je l'ai vu. Composeur. Euh la FAQ
+13:5713 minutes et 57 secondesplus facile à voir ici. C'est vrai, il y a un petit effet sympa de OK.
+14:0314 minutes et 3 secondesOK. Non, je préfère là par exemple si vous voulez le petit côté smooth de l'animation, c'est quand même plus agréable ici. Ils auraient dû faire ça ici. S'ils avaient fait ça ici, je pense
+14:1014 minutes et 10 secondesque j'aurais préféré à gauche. Encore une fois, j'aime bien le côté un peu propre.
+14:1614 minutes et 16 secondesEt alors ce qu'il faut savoir c'est que euh il y avait pas la carte dans le premier prompt, d'accord ? Que que quand je vous ai montré le le nombre de tokens
+14:2514 minutes et 25 secondeset en fait donc je vais vous le dire après. Hop ! Ça c'est je vous ai fait un petit teaser. Vous allez voir qu'il y a eu il y a eu des choses qui sont passées avec la carte. Euh et là là bon en vrai
+14:3414 minutes et 34 secondesbon il y a pas grandchose. C'est vrai qu'ici c'est plus clean, je pense. Là j'aime pas trop le double bordure ici là. Euh voilà mais je trouve ou là ou là
+14:4114 minutes et 41 secondeslà qu'est-ce que c'est ce bien-être là comme ça ? Ouais, peut-être ici, c'est mieux. Bon, le combat pour moi, c'est
+14:4914 minutes et 49 secondesjouer ici. Euh et en fait, je vais vous dire un truc, ça a coûté. Je suis quand même sans là juste vous enlevez la
+14:5714 minutes et 57 secondescarte. On a fait la lining page, on a fait le jeu vidéo et on a fait cette première interprétation Gison. J'ai
+15:0415 minutes et 4 secondesregardé après, vous savez, ça je vous ai dit tout à l'heure, il y avait à peu près la même chose en terme d'input là, 50 et et non, 96 là pour pour cette pour cette carte là.
+15:1415 minutes et 14 secondesJe suis à 3 % de mon usage dans le composeur. OK. Avec sort, je suis déjà à 16 % les amis de mon usage à pays.
+15:2415 minutes et 24 secondes16 % de mon usage mensuel d' curseur à pays parce que j'utilise du au + 4.8.
+15:3015 minutes et 30 secondesEst-ce que pour vous ça vaut une différence comme ça de coût ce qu'on a vu ? Honnêtement, je respecte si vous dites oui hein, c'est vrai qu'il y a
+15:3815 minutes et 38 secondesdeux trois choses, c'est mieux mais la question se posait c'est est-ce que c'est mieux au point de coûter autant ?
+15:4315 minutes et 43 secondesOn parle vraiment de quelque chose qui coûte cin fois plus cher là plus. Donc c'est voilà. Du coup après j'ai dit voilà euh on continue dans le même
+15:5315 minutes et 53 secondescontexte. Donc en fait dans la même fenêtre de contexte, j'ai continué à la suite et je leur ai dit voilà ajoute une carte interactive à la carte spa, à la page spa. Choisis toi-même la meilleure
+16:0116 minutes et 1 secondeapproche technique et design. Le résultat d'être beau, utile, responsif, cohérent. Tu peux adapter le gizon et cetera.
+16:0816 minutes et 8 secondesCe qui est hyper intéressant que il a choisi d'utiliser l'IT. D'accord. Pour la carte ici, je vais vous montrer Liflit qui est un service hyper sympa
+16:1616 minutes et 16 secondesukrainien euh open source, d'accord, au JavaScript que j'avais utilisé plein de fois qui vous permet de customiser pas mal, ce qui fait qu'à ce côté un peu sympa où vous avez vu, il a quand même
+16:2516 minutes et 25 secondespas mal customisé même la carte, les couleurs. Je pense que ça manque de contraste. Ah, c'est ça que je cherchais le mot contraste ici. Mais ce que j'aime bien, c'est qu'il est allé chercher
+16:3216 minutes et 32 secondesquand même à il y a un peu d'ombre derrière et tout, à rester dans le thème. À droite, il a choisi euh Open Street euh c'est Open Street Map du
+16:4016 minutes et 40 secondesgrand classique aussi, mais du coup, on est sur une carte si vous voulez.
+16:4416 minutes et 44 secondesEuh, j'ai pas envie de dire classique, mais je sais pas, c'est vrai que c'est ça fait le taf, il y a plus de contraste, on voit mieux, mais je trouve
+16:5216 minutes et 52 secondesque l'intégration dans le thème est mieux fait à gauche. D'accord ? Même si ici, si on augmente le contraste un peu des routes et cetera, je pense qu'on est
+16:5916 minutes et 59 secondesbon. Ici, je trouve qu'on est encore une fois, j'en ai marre, c'est un truc de ouf les arrondis, les bords de radius, il m'en met du 20 pixels à toutes les
+17:0717 minutes et 7 secondescartes et ça, ça me rend dingue. Je sais pas, fais un truc comme ça là, c'est bien, c'est juste subtille quoi. Donc du coup, en fait, si vous voulez, ils ont pas choisi les mêmes euh cartes du tout,
+17:1617 minutes et 16 secondesdu lifet à droite. Dans les deux cas, je trouve que c'est quand même plutôt réussi, même si moi j'aime bien le fait qu'il a intégré au design. Parlons maintenant de
+17:2517 minutes et 25 secondescombien ça a coûté ce trucl. Donc on parle juste donc pour info, il est allé faire ses recherches sur Google et cetera parce qu'il a choisi aussi quelle est la le meilleur outil possible.
+17:3417 minutes et 34 secondesD'accord ? Du coup en fait on est j'ai continué dans le même contexte. D'accord ? Donc on est passé d'à peu près 50000 à 67000 et de 90000 à 104000. Donc à la
+17:4317 minutes et 43 secondesfin, on est quand même sur une différence de token quand même. On est à deux fois plus de tokens de manière générale pour cette page complète à droite avec Opus que avec composer.
+17:5217 minutes et 52 secondesOubliez pas encore Opus ça coûte plus cher. Donc vous faites votre avis là-dessus. On passe à l'autre test. Du coup pour le dernier test que j'ai voulu
+18:0018 minutesfaire c'est que euh j'ai voulu un peu brainstormer sur de l'architecture et cetera. Donc en fait en mode plan, d'accord ? Euh ça m'a coûté du token, je
+18:0818 minutes et 8 secondesvous raconte pas. J'ai dit voilà la la page aujourd'hui spa fonctionne actuellement avec un fichier Gison comme fausse base de données. Je veux savoir comment tu transformer ce prototype en
+18:1618 minutes et 16 secondesvraie application par rapport à ce qu'il aujourd'hui avec une vraie base de données, de l'authentification, un espace adm pour modifier les les contenus du spa, gestion possible de
+18:2418 minutes et 24 secondesdemandes de contact et cetera. Le but c'était de voir en fait comment est-ce que par rapport bah un peu au ripo qu'on a maintenant, un peu à la base de code
+18:3218 minutes et 32 secondeset cetera et un peu comment est-ce qu'on avance, comment est-ce que lui il est, comment est-ce que lui il ferait si jamais il devait intégrer tout ça, est-ce qu'il va tout de suite dans un truc de ouf ou est-ce qu'il va
+18:4018 minutes et 40 secondessimplement en fait step by step et cetera ? Est-ce qu'il choisit des choses qui sont très compliquées à mettre en place ou pas ? Ce qu'il faut savoir, c'est qu'on a eu des questions. Vous
+18:4818 minutes et 48 secondessavez, parfois euh quand vous êtes en mode plan, d'abord, il vous dit voilà, est-ce que tu peux répondre à deux trois questions ? Composeur m'a demandé quel
+18:5518 minutes et 55 secondesstack backend préférez-vous ? Super base, posgress et ce parce que lui il me dit que c'est recommandé pour ce prototype. OK. Ou alors après Neon Clerk Clerk moi j'adore.
+19:0619 minutes et 6 secondesIntégration verselle ou pas de préférence. Opus me demande quel stack backen veux-tu utiliser pour la base de données et l'authentification ? Même question mais lui il me dit d'abord
+19:1519 minutes et 15 secondessuper base. OK d'accord. En fait il me dit d'abord recommander parce qu'en fait j'ai déjà le MCP dans ce projet. Ce qui est pas mal, c'est que plus en fait il est allé chercher, ça m'a coûté plus
+19:2319 minutes et 23 secondescher, il m'a bouffé de token, mais il a vu que j'avais le MCP de Super Base. Pas mal. OK, ce qu'on n'a pas fait euh composeur, mais composur m'a coûté moins
+19:3119 minutes et 31 secondescher. Euh est-ce que moi j'ai rigolé parce que en fait haute Prisma euh pour savoir he Prisma je connais bien quand même hein, ça fait mal au ventre de les
+19:4019 minutes et 40 secondesvoir ça pour voilà petite petite information un peu intéressante si jamais ça vous ça vous intéresse hein.
+19:4419 minutes et 44 secondesEuh c'est le combat aujourd'hui monumental qu'ont les sociétés tech parce que j'en fais partie et je suis en plein dedans. C'était c'est mon taf.
+19:5219 minutes et 52 secondesc'est de savoir comment faire en sorte que la société Prisma par exemple, elle arrive avant SP base dans les résultats.
+19:5919 minutes et 59 secondesC'est la guerre de de tous les services euh IA, tous les services qui intègrent des agents et cetera parce que c'est là où en fait il y a du blé à faire, c'est
+20:0720 minutes et 7 secondeslà où il y a de l'argent, c'est là où il y a de l'acquisition client. C'est la plupart des gens, ils vont se dire "Ah bah ah en plus la marque est recommandée, bah paf !" Voilà et ça et
+20:1420 minutes et 14 secondesça fait des clients, ça fait des services en plus et cetera. Donc c'est très très compliqué. Euh ça passe par euh euh être très présent avec la
+20:2220 minutes et 22 secondescommunauté, sortir plein de produits, euh avoir plein d'utilisateurs, avoir une bonne un des bon feedback utilisateur, ça passe par euh de la mise en place d'une bonne documentation, ça
+20:3120 minutes et 31 secondesça passe par tout ce que vous pouvez imaginer. Et euh travailler sur ça, c'est un c'est c'est c'est un c'est très compliqué, c'est hyper intéressant, mais
+20:3820 minutes et 38 secondesc'est un enfer. Hop. Ensuite, deuxième question qui m'a posé.
+20:4320 minutes et 43 secondesComposeur me dit "Quel type d'espace admin tu veux ?" Euh ce qu'il me dit custom dans XJS. OK. CMS headless ou
+20:5120 minutes et 51 secondesminimal d'abord. Voilà. Et l'autre euh opus me demande comment modéliser le contenu du spa en base de données pour l'admin. C'est un peu les mêmes choses
+20:5920 minutes et 59 secondesmais demander différemment. Document Gison version nana. Il dit le plus simple recommandé ou table normalisée.
+21:0621 minutes et 6 secondesJ'ai répondu a et a. D'accord. Pour info, composur m'a coûté 35000 tokens avec le plan terminé, hein. D'accord.
+21:1321 minutes et 13 secondesOpus m'a coûté 70000 tokens. J'ai pas encore cliqué sur construire hein.
+21:1921 minutes et 19 secondesD'accord. Le le but ici c'est de brainstormer. 70000 tokens pour brainstormer. Cher de ouf. Donc autant
+21:2621 minutes et 26 secondesvous dire qu'à la fin mon euh mon total là euh bah à la fin de de ce à la fin du
+21:3421 minutes et 34 secondestest pour pour cette vidéo 4 % de ça et 21 % euh ça pique un peu. Donc là vous
+21:4321 minutes et 43 secondesavez à droite là vous avez à droite le plan de opus d'accord et à gauche vous avez le plan de composeur. Il faut savoir que de manière générale, comme
+21:5121 minutes et 51 secondesvous voyez, c'est c'est beaucoup plus simplifié en terme d'architecture, en terme même c'est on est plus sur un MVP à gauche
+21:5821 minutes et 58 secondesavec composur, on est plus sur un quicken, ça va marcher, c'est sûr, mais c'est plus simple tout de suite là que à droite
+22:0622 minutes et 6 secondesopus il est plus dans une vision future un peu. Là, il imagine un peu dans tout ce je vous mettrai si vous voulez les documents complet mais il faut ça parce
+22:1422 minutes et 14 secondesque je veux pas vous lire ligne par ligne ce qui m'a fait ici et là ça prendrait des heures mais pour vous dire un peu les différences c'est que à droite Opus il est presque dans une
+22:2222 minutes et 22 secondesvision où on va avoir des centaines de milliers d'utilisateurs et du coup en fait il utilise des services qui sont un peu trop gros pour la situation dans
+22:3022 minutes et 30 secondeslaquelle on est maintenant au plus il il pense davantage à genre il faut qu'on fasse un produit scalable tout de suite.
+22:3522 minutes et 35 secondesIl découpe énormément de choses en différentes tables comme ici. Regardez, spa avec les adquest et cetera. On est dans quelque chose de beaucoup plus simple à gauche chez composeur. Donc de
+22:4422 minutes et 44 secondesmanière générale en fait sans dans les détails, on est sur quelque chose de beaucoup plus solide mais long et coûteux à mettre en place côté opus là.
+22:5322 minutes et 53 secondesSi je clique build euh côté d'ailleurs, vous avez vu, il m'a mis automatiquement ici. Paf, je ne sais pas pourquoi. Mais
+23:0023 minutessi je clique build à droite sur sur euh sur le la le opus là, ça va me coûter une fortune parce qu'il y a beaucoup plus de choses à mettre en
+23:0823 minutes et 8 secondesplace qui ne sont pas forcément utiles tout de suite mais qui pourraient me servir si plus tard ça jamais ce site là augmente de ouf. Alors que à gauche déjà
+23:1623 minutes et 16 secondesque ça me coûte moins cher le prix de base, ça va être beaucoup plus rapide à mettre en place. Ça sera donc moins cher et testable beaucoup plus facilement.
+23:2123 minutes et 21 secondesC'est comme un peu la page du spa, vous avez vu à droite, il s'est un peu pris la tête avec du lazy loading et cetera, plein de choses qui ne fonctionnaient pas un petit peu tout de suite au plus
+23:2923 minutes et 29 secondesalors qu'à gauche en fait c'était moins, on va dire que c'était moins efficace peut-être niveau clean code et cetera côté composeur. Il y avait peut-être des
+23:3623 minutes et 36 secondesoptimisations à faire sur bah le chargement et cetera. J'ai fait des tests quand je quand je mettais en place, vous savez un un réseau internet
+23:4423 minutes et 44 secondesun peu moins puissant. À droite, le site internet du spa réagissait mieux en chargement en terme de Oui, voilà. en terme d'Ui même même sans les images que
+23:5223 minutes et 52 secondesà gauche le composeur en fait il y avait des choses qui buggaaient en fait il y avait des shifts de layout et tout donc on est sur quelque chose qui voilà il
+24:0024 minutesfaut savoir ce que vous voulez en fait c'est vraiment ce test là pour moi comme je vous ai dit à la fin je sais pas si je vous ai montré en tout si j'ai dit à
+24:0624 minutes et 6 secondesla fin le coût général quand même engendré ben je vais vous montrer même voilà hop ça c'est mon cursor hein à la
+24:1524 minutes et 15 secondesfin on est quand même sur quelque chose qui m'a coûté aujourd'hui 4 % de composeur 21 % de opus. Là, si je clique sur bul, j'ai pas envie mais j'ai pas
+24:2324 minutes et 23 secondesenvie d'en faire pour moi parce faut que je puisse coder aussi à la fin si j'ai besoin d'opus. Ça coûte beaucoup plus cher. Quand moi je vous dis que je préfère composer, c'est qu'en fait j'ai
+24:3224 minutes et 32 secondesdes résultats qui me plaisent quand même comme j'ai toujours dit à 90 % par rapport à Opus peut-être qui est si on prend le référentiel à 100 %. C'est vrai
+24:4024 minutes et 40 secondesque au plus c'est propre généralement et cetera, mais ça me coûte trop cher.
+24:4424 minutes et 44 secondesC'est 10 % me coûtent trop cher. Donc à vous de savoir si jamais vous êtes OK avec le fait de faire des économies énormes. Parce que là, si vous prenez
+24:5124 minutes et 51 secondescomposeur 2 et pas 2.5 euh composeur 2.5 normal et pas faste, on parle d'une différence de prix de 10 fois. Donc
+24:5824 minutes et 58 secondesc'est à vous de savoir si en fait euh vous êtes capable de garder ce type de process dans votre workflow. Pour ma part euh avec ce test-là, pour moi le le
+25:0725 minutes et 7 secondesrésultat en fait, il confirme ce que j'ai toujours pensé. Je préfère utiliser composant 2.5. Je trouve qu'en fait, il se rapproche énormément euh des modèles
+25:1625 minutes et 16 secondesfrontières de de Anthropique. Je n'évoque pas Claude Fable qui a fait son aller-retour et qui pour l'avoir testé
+25:2325 minutes et 23 secondesest très décevant. Euh c'est pour ça que je fais cette vidéo face à Opus parce qu'en fait face à Fable, je pense même qu'ils vont devoir faire des des updates
+25:3125 minutes et 31 secondeset tout parce que tout le monde se plaint et cetera et tout le monde utilise au final Opus et pas Fab parce que Fable en fait est c'est ils l'ont complètement ils l'ont nerfé, ça
+25:3925 minutes et 39 secondesressemble plus à rien. Donc en fait si vous voulez voilà c'est j'espère que cette vidéo vous a plu. Si jamais ce type de vidéo vous plaît, dites-vous bien. En plus du temps que ça m'a pris,
+25:4725 minutes et 47 secondesévidemment, ça prend beaucoup de temps, ça prend de l'argent. Voilà, mais j'aime bien faire ça. Un Si vous voulez me remercier, si vous kiffez ça, un petit
+25:5525 minutes et 55 secondeslike, un petit commentaire, abonnez-vous à la chaîne. Vous vous rendez pas compte, un petit abonnement ce que ça représente pour nous. euh je sais pas
+26:0326 minutes et 3 secondesyoutubeur, je suis pas un youtubeur avec mes 15000 abonnés, mais si vous voulez euh voilà, pour moi en fait c'est ma petite récompense et je vois en fait que ça vous a tellement plu que vous êtes
+26:1026 minutes et 10 secondespotentiellement euh dans l'attente peut-être d'une autre vidéo comme ça. Euh donc moi ça me fait super plaisir.
+26:1626 minutes et 16 secondesMerci à tous d'avoir suivi. Si vous êtes encore là, merci, ça me fait vraiment plaisir. J'espère que vos animaux vont bien, que votre famille va bien, que vous allez bien avec cette chaleur incroyable et puis on se retrouve très
+26:2526 minutes et 25 secondesbientôt pour une nouvelle vidéo. C'était Arthur, c'était Devart. Salut tout le monde.
+
+Tout
+
+Source : DevArt
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+EN DIRECT
+Kaamelott - Livres I à III - Livestream
+Kaamelott
+837 spectateurs
+
+
+22:34
+Créer une vie selon ses propres termes grâce au coaching | Témoignage de Monica Vaz
+Anne-Claire Meret (Live From The Heart)
+65 vues
+•
+il y a 12 heures
+Nouveau
+
+
+24:44
+Après 15 ans j'ai décidé de créer ma marque.
+BALO
+7,6 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+4:01
+French Tech Lionel Faucher
+Le Connecteur
+3 vues
+•
+il y a 15 heures
+Nouveau
+
+
+26:40
+Je teste les plats des pays de la Coupe du monde
+Gurky
+79 k vues
+•
+il y a 8 heures
+Nouveau
+
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+14 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+14:42
+JEU EN VRAC - LE BIKINI-GAME DU JEU VIDEO
+Bazar du Grenier
+1 M de vues
+•
+il y a 5 mois
+
+
+17:24
+La Plupart des Hommes de plus de 40 ans ne Seront Jamais Secs (et ce n'est pas une Question d'Âge)
+Julien QUAGLIERINI
+5 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+242 k vues
+•
+il y a 3 mois
+
+
+17:40
+Le déclassement silencieux de la France
+Xavier Delmas
+63 k vues
+•
+il y a 1 mois
+
+
+24:04
+Toutes mes courses pour avoir des Abdos !!
+Tibo InShape
+1,4 M de vues
+•
+il y a 1 an
+
+
+30:00
+Mistral 3B, 8B, 14B : Test complet et installation locale
+DevArt
+21 k vues
+•
+il y a 3 semaines
+
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+869 k vues
+•
+il y a 2 mois
+Doublée
+
+
+9:40
+JEUX EN VRAC - URGENCES
+Bazar du Grenier
+3,1 M de vues
+•
+il y a 5 ans
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1 M de vues
+•
+il y a 3 mois
+
+
+1:57:20
+Dr. K : Ce groupe d’hommes est en train de disparaître lentement !
+The Diary Of A CEO
+ et HealthyGamerGG
+3,2 M de vues
+•
+il y a 1 an
+Doublée
+
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,8 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:43:15
+MrBeast : Pour être aimé, n’aide pas les gens. J’ai perdu des millions sur Beast Games
+The Diary Of A CEO
+4,7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+15:17
+Gemini 3.5 PRO arrive au niveau de Fable 5... Google fait son grand retour !
+AI Revolution en Français
+632 vues
+•
+il y a 6 heures
+Nouveau
+
+    
