@@ -1,0 +1,601 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Claude Fable c'est FINI ! | Comment créer ton propre modèle IA Fable dans Hermes IA
+Parlons IA
+Parlons IA
+14,7 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+7 juil. 2026  #fable #loopengineering #mythos5
+Découvrez comment créer votre propre modèle IA avec la technologie de pointe de Claude Fable, maintenant remplacé par de nouvelles avancées dans le domaine de l'intelligence artificielle. Dans cette vidéo, nous allons explorer les capacités de Claude AI et comment vous pouvez l'utiliser pour améliorer vos processus métier grâce à l'automatisation et à l'intégration d'agents IA. Nous discuterons également de la comparaison entre Claude et Gemini, deux des principaux acteurs du marché de l'IA, et comment choisir le meilleur pour vos besoins. Vous apprendrez également comment utiliser des outils tels que Loop Engineering et Hermes AI pour développer vos compétences en matière de création de modèles IA et d'agents autonomes. Que vous soyez un professionnel de l'entreprise ou un développeur passionné par l'IA, cette vidéo vous fournira les connaissances nécessaires pour créer votre propre modèle IA et améliorer votre productivité. Nous aborderons également les dernières avancées en matière d'IA, notamment les technologies de nouvelle génération telles que Agentic AI etAnthropic, et comment elles peuvent être intégrées dans vos projets. Rejoignez-nous pour découvrir les possibilités infinies de l'IA et comment vous pouvez les exploiter pour atteindre vos objectifs.
+
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+🧠 Ce que je propose
+Formations IA pour automatiser ton business
+Création et mise en place d’agents IA pour ton activité
+Accompagnement pour utiliser ChatGPT, Gemini & co sur tes vrais dossiers
+
+🌐 Site & contenus
+Site & formations : https://parlonsia.teachizy.fr
+
+
+
+Découvrez comment créer votre propre modèle IA avec la technologie de pointe de Claude Fable, maintenant terminée. Dans cette vidéo, nous allons explorer les possibilités offertes par les agents IA, notamment ceux basés sur la technologie Agentic AI et Anthropic, et comment ils peuvent être intégrés dans votre entreprise pour améliorer l'automatisation et l'efficacité. Vous apprendrez comment utiliser des outils tels que Claude AI, Gemini 3.5 et Hermes AI pour développer des modèles IA personnalisés qui répondent à vos besoins spécifiques. Nous discuterons également de l'importance de la mise en œuvre de la technologie IA dans les entreprises et comment les agents IA peuvent être utilisés pour améliorer les processus et augmenter la productivité. Avec des tutoriels pratiques sur l'utilisation de Claude AI, Hermes AI et d'autres outils, vous serez en mesure de créer vos propres modèles IA et de les intégrer dans vos applications métier. Rejoignez-nous pour découvrir les dernières avancées en matière de technologie IA et comment vous pouvez les utiliser pour améliorer vos opérations et rester en tête de la concurrence.
+
+Découvrez comment créer votre propre modèle IA avec la fin de Claude Fable. Dans cette vidéo, nous allons explorer les possibilités offertes par les agents IA, notamment avec Agentic AI et les technologies telles que Claude AI, Gemini 3.5 et Hermes AI. Vous apprendrez comment utiliser ces outils pour créer vos propres modèles IA personnalisés et découvrir les dernières avancées en matière d'intelligence artificielle, notamment avec Claude 5 et Fable 5. Nous aborderons également les sujets de l'automatisation AI, de l'entreprise AI et de la façon dont les agents IA peuvent être utilisés pour améliorer vos processus métier. Rejoignez-nous pour découvrir les secrets de la création de modèles IA avec Claude AI tutorial, Hermes agent tutorial et Loop Engineering. Apprenez comment installer et utiliser des applications telles que Hermes desktop app pour booster votre productivité et votre efficacité avec les dernières technologies AI, notamment Next Gen AI et LLM.
+#fable #loopengineering #mythos5 #fable5
+Parlons IA explique comment distiller les capacités de raisonnement de Claude Fable dans des modèles open source plus légers. Découvrez comment configurer localement ces modèles via LM Studio et les intégrer à Hermes Agent pour maintenir une autonomie technologique tout en optimisant vos flux de travail sans dépendre des abonnements aux modèles propriétaires.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+14,7 k abonnés
+Vidéos
+À propos
+true
+32:25
+Comment Transformer Claude Fable 5 en Superintelligence, je t'explique !
+de Parlons IA
+J'ai testé Hermès 2.0 avec Claude Code : Le résultat est fou !
+de Parlons IA
+J'ai automatisé mon business avec Hermes Agent, les résultats m'ont choqué !
+de Parlons IA
+Claude Fable 5 : Le gouvernement veut le bloquer ! Comment y Accéder!
+de Parlons IA
+Claude Sonnet 5 – en 10 Min – La vérité sur ses performances réelles !
+de Parlons IA
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+@Parlons.IA.2
+il y a 6 heures
+Mes cours   👉 https://parlonsia.teachizy.fr  📩 Email : formation.ai87@gmail.com
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:00Dans cette vidéo, je vais vous montrer qu’il est  possible d’extraire une partie des connaissances   de Claude Fable, du comportement du modèle, et de  le distiller dans un modèle plus petit. Ce qu’on  
+0:099 secondesva chercher à faire dans cette vidéo, c’est  répondre à un problème majeur. Dans quelques   heures, Anthropic a décidé de retirer Claude Fable  et Mythos. Ils ne seront donc plus inclus dans  
+0:1919 secondesl’abonnement. Ce qui veut dire que chacun d’entre  nous va devoir payer, en plus de son forfait,  
+0:2525 secondesune consommation facturée au token. L’idée est  très claire. La position de ces entreprises, c’est   de faire de l’argent. Elles ont donc aujourd’hui  intérêt à créer des modèles premium qu’on va  
+0:3636 secondesdevoir payer au prix fort. Et le problème devient  vraiment brutal. Si tu construis ton travail sur   Claude Fable et que tu ne contrôles plus rien,  ils retirent le modèle, ils le rendent plus cher,  
+0:4545 secondesils modifient les paramètres. On s’est tous rendu  compte que Claude Fable, tel qu’on l’a maintenant,   n’est pas le même que celui qu’on utilisait il y a  à peine quelques semaines. C’est là qu’un certain  
+0:5454 secondesnombre de développeurs se sont organisés et ont  réussi à extraire une partie du fonctionnement de  
+1:011 minute et 1 secondeClaude Fable, puis à le quantiser. C’est-à-dire  qu’on a récupéré la manière de travailler de  
+1:061 minute et 6 secondesClaude Fable, sa capacité à travailler, à  raisonner, à analyser, à découper les tâches,   à utiliser les outils, sa manière de corriger et  d’avancer. Et cette logique, on peut l’entraîner  
+1:171 minute et 17 secondessur d’autres modèles. C’est exactement ce qu’on  va voir dans cette vidéo : comment l’utiliser dans   d’autres modèles et surtout comment l’utiliser à  la fin de cette vidéo complètement gratuitement,  
+1:271 minute et 27 secondesen utilisant des modèles quantisés qu’on va  déployer à l’intérieur de Hermes Agent. Je  
+1:331 minute et 33 secondesvais vous montrer étape par étape comment faire.  C’est maintenant dans la vidéo. Voici le plan.   Pour pouvoir effectuer une distillation, il faut  obtenir de la part de Claude Fable des traces.  
+1:441 minute et 44 secondesUne seule trace, ce n’est pas grand-chose, mais  des milliers de traces, ça devient un dataset. Et  
+1:491 minute et 49 secondesc’est exactement ce qui est apparu sur Hugging  Face. Un dataset, c’est un ensemble de traces  
+1:551 minute et 55 secondesde Fable qui définissent des traces d’agent, des  sessions de codage, des actions et des journaux,  
+2:012 minutes et 1 secondeavec des milliers de séquences capturées pendant  que le modèle était encore sans bridage de la part  
+2:062 minutes et 6 secondesdes États-Unis. La communauté de Hugging Face  a mis à disposition des datasets d’entraînement  
+2:122 minutes et 12 secondesde modèles, c’est-à-dire un ensemble de corpus de  questions pour le domaine de la cybersécurité, du  
+2:172 minutes et 17 secondescodage et du développement. On va donc utiliser ce  que la communauté Hugging Face a mis à disposition  
+2:242 minutes et 24 secondespour pouvoir entraîner les modèles. Et on ne  parle pas de conversation classique, on parle   de travail, de vraies tâches, d’outils, de vraies  actions, de chemins de résolution. Et c’est ça qui  
+2:322 minutes et 32 secondeschange tout, parce qu’un dataset de conversation  apprend juste à parler. Un dataset de traces, lui,  
+2:382 minutes et 38 secondesapprend à travailler. Et dans ce système, on  a récolté 2,3 millions d’exemples de datasets,  
+2:452 minutes et 45 secondeset c’est là qu’on a pu entraîner les modèles.  Toutes ces données sont disponibles et je vais   te montrer à la fin de la vidéo comment les  récupérer. Ce n’est pas un monstre, ce n’est  
+2:542 minutes et 54 secondespas Fable 5 complet, c’est un petit modèle open  source qui peut aller de 4 milliards de paramètres  
+3:013 minutes et 1 secondejusqu’à 30 milliards de paramètres. Et ça suffit  largement. Quelques milliards de paramètres,  
+3:073 minutes et 7 secondesc’est assez petit pour tourner sur une carte  graphique classique, assez léger pour être   quantifié et assez ouvert pour être modifié  par chacun d’entre nous. Tu prends le modèle,  
+3:163 minutes et 16 secondestu l’entraînes sur les traces de Fable 5, et tu  obtiens une version réduite : un modèle avec un  
+3:233 minutes et 23 secondescorpus plus petit, mais entraîné sur des méthodes  de travail beaucoup plus avancées, celles qui sont   utilisées par Anthropic et que certains appellent  déjà des mini-Fable. Et c’est très clair : ce  
+3:333 minutes et 33 secondesn’est pas Claude Fable dans ton ordinateur. C’est  un modèle étudiant qui n’a pas le cerveau complet  
+3:383 minutes et 38 secondesdu professeur Claude Fable, mais qui a observé  ses gestes, ses choix, ses réflexes et sa manière  
+3:443 minutes et 44 secondesd’avancer. Je vais te démontrer dans cette vidéo  que tout ce qu’on t’a expliqué sur l’intelligence   artificielle et la manière d’interagir avec  elle n’était pas la bonne approche. Claude Fable  
+3:533 minutes et 53 secondesutilise des architectures d’agents récursifs.  Il va sélectionner du contexte, comprendre des  
+3:593 minutes et 59 secondestâches, définir des objectifs, des conditions, des  outils et des diagnostics de succès. C’est-à-dire   qu’il ne fait pas que compiler du texte, il  met en place une architecture de résultat.  
+4:094 minutes et 9 secondesEt c’est la raison pour laquelle il consomme  autant de tokens. Si tu continues à utiliser   l’intelligence artificielle comme tu le faisais  avec les anciens modèles, maintenant le game  
+4:174 minutes et 17 secondesplan a changé. Et c’est exactement ce qui est  en train de se passer dans le monde de l’IA.   GPT 5.5 et Fable sont les premiers modèles à  utiliser cette nouvelle architecture. Maintenant,  
+4:284 minutes et 28 secondessi tu veux optimiser ton interaction, comme je  te l’ai expliqué dans la précédente vidéo, il   faut que tu utilises cette même méthode. Et c’est  comme ça qu’on va entraîner les nouveaux modèles.  
+4:384 minutes et 38 secondesPour cette étape, on va installer LM Studio. Tu  vas pouvoir cliquer sur le bouton Download. LM  
+4:434 minutes et 43 secondesStudio est gratuit et tu vas pouvoir choisir ton  système d’exploitation : macOS, Windows ou Linux.  
+4:504 minutes et 50 secondesJe te conseille d’installer la dernière version  sur ton ordinateur. Une fois que c’est fait,   tu vas lancer LM Studio, et voici à quoi ça  ressemble. LM Studio, c’est une interface qui va  
+4:584 minutes et 58 secondespermettre de lancer des modèles, soit à distance,  soit en local à partir de ton ordinateur et de ta  
+5:055 minutes et 5 secondescarte graphique. Au sein de la formation niveau 2,  Maîtriser le meilleur de l’IA, ne vous inquiétez   pas, vous avez un module complètement dédié à  l’optimisation de LM Studio. Dans cette partie,  
+5:145 minutes et 14 secondesje vais vous montrer comment récupérer des modèles  qui sont déjà quantisés et optimisés avec Claude  
+5:205 minutes et 20 secondesFable, et comment vous allez pouvoir les choisir  pour les utiliser sur votre machine. Sur le menu   latéral, on a un onglet qui va regrouper  les modèles LLM que vous allez déployer,  
+5:315 minutes et 31 secondesles paramétrages de votre modèle et les  modèles disponibles. C’est la dernière   icône en bas à gauche. Dans la section des LLM,  vous allez sélectionner LLM et taper le mot-clé  
+5:415 minutes et 41 secondesFable. C’est ici que vous avez l’ensemble  des modèles actuellement disponibles, qui   ont déjà été quantisés et optimisés avec Claude  Fable. Je vais vous expliquer comment les choisir  
+5:525 minutes et 52 secondeset comment les sélectionner par rapport  à votre environnement, votre ordinateur,   la puissance de votre carte graphique et votre  configuration. Quand vous installez LM Studio,  
+6:016 minutes et 1 secondeil est déjà en mesure de vous indiquer  avec une icône si vous pouvez complètement  
+6:076 minutes et 7 secondesinstaller le modèle sur votre ordinateur ou si ce  sera trop juste. Si vous avez l’icône « chargement  
+6:126 minutes et 12 secondescomplet sur GPU possible », c’est que le modèle  que vous avez sélectionné peut être intégralement   installé. Le premier modèle qui m’apparaît en haut  à gauche, c’est actuellement le modèle le plus  
+6:226 minutes et 22 secondestéléchargé. C’est une version de Gemma 4 qui a été  distillée avec Fable 5. Il faut savoir qu’il y a  
+6:296 minutes et 29 secondesdifférentes versions de ce modèle, et je vais vous  expliquer les principales différences. Vous avez  
+6:336 minutes et 33 secondesde la quantisation Q2, Q3, Q4, Q6, Q8. Chaque  fois que vous avez ces valeurs, il s’agit de  
+6:416 minutes et 41 secondesméthodes de calcul qui ont pour but d’alléger la  puissance nécessaire pour faire tourner un modèle  
+6:486 minutes et 48 secondessur de plus petites machines, avec de plus petites  cartes graphiques. Donc plus un modèle est petit,   moins il prend de ressources, mais plus il peut  faire d’erreurs statistiques et probabilistes.  
+6:596 minutes et 59 secondesEn fait, le choix des mots d’un modèle, c’est  uniquement de la probabilité contextuelle. C’est  
+7:057 minutes et 5 secondesce que j’essaie de vous expliquer depuis deux  ans : beaucoup d’influenceurs ont abusé de votre   crédulité en vous expliquant de demander à Claude  Fable, à Claude ou à ChatGPT de vous trouver des  
+7:167 minutes et 16 secondesclients ou de meilleures stratégies pour votre  entreprise. Cette manière d’utiliser l’IA,   comme si vous aviez une machine qui vous  répondait réellement, c’est une manière de  
+7:237 minutes et 23 secondesvous leurrer. En fait, on n’a pas une machine  qui comprend, on a une machine qui définit   des probabilités en se basant sur ses données  d’entraînement. Et la capacité d’une machine  
+7:327 minutes et 32 secondesà être plus ou moins précise sur les virgules  flottantes, de l’ordre du million ou du milliard,   fait qu’elle va être plus ou moins précise dans  le choix des tokens de réponse. C’est exactement  
+7:437 minutes et 43 secondesce que vous avez ici : des versions plus ou moins  précises que vous allez pouvoir utiliser. Alors,   comment choisir les modèles ? Pour vous donner  une idée, si vous avez une carte graphique de  
+7:537 minutes et 53 secondesl’ordre de 12 Go, vous pouvez installer jusqu’à un  modèle 12B. Je trouve que l’équilibre est correct.  
+7:597 minutes et 59 secondesSi vous avez une carte graphique de 6 Go, dans  ce cas-là, allez plutôt chercher des modèles 4B.  
+8:078 minutes et 7 secondesEn scrollant un petit peu, vous allez trouver  des modèles 9B et des modèles 4B disponibles.   Donc toutes les configurations pourront trouver  un modèle à utiliser. Après, une fois que vous  
+8:168 minutes et 16 secondesavez trouvé un modèle, on peut jouer sur les  paramètres d’optimisation des calculs. Quand  
+8:218 minutes et 21 secondeson prend un modèle non compressé, c’est ce qu’on  appelle du F16. C’est le modèle qui permet le plus  
+8:278 minutes et 27 secondesde précision, mais qui demande aussi le plus de  capacité mémoire. Donc si on prend un modèle Q8,  
+8:348 minutes et 34 secondesc’est-à-dire une quantisation en 8 bits, le modèle  est plus gros et nécessitera plus de puissance de  
+8:398 minutes et 39 secondescalcul, donc plus de RAM. En choisissant un modèle  4 bits, on va réduire la taille, mais inversement  
+8:468 minutes et 46 secondeson peut avoir moins de précision. Il faut toujours  tester cet équilibre entre les deux. Le Q8 est en  
+8:528 minutes et 52 secondesgénéral un bon compromis par rapport au F16, mais  le Q4 et le Q2 amèneront plus d’erreurs. Les bons  
+8:598 minutes et 59 secondesmodèles commencent à partir de 12 ou 13B, et à  partir de 27B, on est déjà sur quelque chose de  
+9:059 minutes et 5 secondestrès fiable. Là, ça vous permet donc déjà de  choisir le modèle. Si on choisit un modèle,   l’étape suivante, c’est de le sélectionner.  On sélectionne par exemple un modèle 4B et on  
+9:159 minutes et 15 secondesclique sur le bouton Download. On va laisser le  temps au modèle de se charger sur le disque dur,  
+9:209 minutes et 20 secondeset on va bénéficier de Gemma 4 12B Code entraîné  à partir de Fable 5. Pendant le téléchargement,  
+9:279 minutes et 27 secondesje vais vous expliquer où se trouve le dataset  pour pouvoir entraîner les modèles. Si le contenu   te plaît et que tu veux soutenir la chaîne,  lorsque tu mets un like, tu as la possibilité  
+9:369 minutes et 36 secondesde mettre un boost, ce qui permet de soutenir  les petits créateurs comme moi. Et surtout,  
+9:419 minutes et 41 secondespense à t’abonner. Le dataset se trouve dans la  section Qwen 3.6 27B Fable 5 LoRA. C’est ici que  
+9:499 minutes et 49 secondesvous avez le dataset d’entraînement utilisé. Vous  avez donc des milliers de questions. Pour vous  
+9:549 minutes et 54 secondesdonner une idée, il faut avoir une carte graphique  RTX 4090 et, pour un petit modèle de type 4B,  
+10:0210 minutes et 2 secondescela prend environ 5 h d’entraînement. Vous avez  donc accès directement à tout le dataset que vous   pouvez télécharger si vous voulez entraîner votre  propre modèle pour votre entreprise. Une fois que  
+10:1210 minutes et 12 secondesle téléchargement est achevé, on va se retrouver  dans l’interface, dans la section développeur. Je  
+10:1710 minutes et 17 secondesvais maintenant vous montrer comment charger  le modèle. Là, je vais éjecter mon modèle et  
+10:2310 minutes et 23 secondescharger le nouveau modèle. En haut à droite,  vous avez « Charger le modèle ». Vous allez   avoir plusieurs modèles que vous avez téléchargés.  Je vais charger le modèle que je viens de prendre.  
+10:3310 minutes et 33 secondesIci, il m’indique la quantité de mémoire qu’il va  occuper sur la VRAM de mon processeur graphique,  
+10:4110 minutes et 41 secondesle nom du modèle, et vous avez ce qu’on appelle la  longueur de contexte. Si j’augmente la longueur de  
+10:4610 minutes et 46 secondescontexte, j’augmente la quantité de RAM nécessaire  sur mon GPU. Si je dépasse la quantité de mémoire  
+10:5310 minutes et 53 secondesdisponible sur mon GPU, une partie de la VRAM  va basculer sur la DDR. Il faut donc avoir  
+11:0011 minutessuffisamment de RAM, au minimum 64 Go en DDR5. 128  Go, c’est mieux. Et si vous avez de la DDR en dual  
+11:0811 minutes et 8 secondeschannel, ce sera d’autant plus rapide pour  augmenter la taille du contexte. Cela veut   dire qu’il faut toujours trouver l’équilibre  entre la quantité de mémoire dont vous disposez  
+11:1711 minutes et 17 secondespour travailler et la taille de contexte que  vous souhaitez utiliser. On a la possibilité   de décharger une partie d’un modèle. Admettons que  je me rende compte que le modèle que j’ai choisi,  
+11:2711 minutes et 27 secondesdu fait que j’ai lancé la caméra et la vidéo,  consomme énormément de RAM, on peut activer  
+11:3311 minutes et 33 secondesici la quantisation du cache KV. Là, on va  réduire en passant de F16 à une quantisation 8.  
+11:4111 minutes et 41 secondesC’est une simulation de calcul mathématique pour  simplifier les calculs. On va donc intégrer une   baisse de précision au niveau des calculs des  matrices. Attention, cela peut induire des  
+11:5111 minutes et 51 secondeserreurs et des hallucinations du modèle. Il vaut  donc mieux trouver en général un équilibre en Q8,   sans trop de compromis, parce qu’à un moment, trop  baisser la précision du modèle pose problème. Et  
+12:0112 minutes et 1 secondelà, cela vous fait encore prendre conscience  d’une chose : on est sur des machines entraînées   à donner les bonnes probabilités dans un contexte.  Tu vas découvrir les caches KV, les optimisations,  
+12:1212 minutes et 12 secondesles quantifications, les quantisations. Et  c’est là que tu vas comprendre que ce que   produit un LLM, c’est de la probabilité, ce  sont des mathématiques. D’où ce que je vous  
+12:2012 minutes et 20 secondesdis : l’injection de contexte ultra précis et  pertinent dans les séquences, c’est ce qui fait   toute la précision et la capacité d’un modèle  aujourd’hui. Donc quand vous utilisez encore le  
+12:3012 minutes et 30 secondesmodèle en disant : « Tu es un expert, donne-moi la  meilleure stratégie pour ma boîte », là, il faut   arrêter. Si vous venez de comprendre ce que je  viens d’expliquer, vous voyez que vous êtes sur  
+12:3812 minutes et 38 secondesdes modèles de probabilité guidée. Votre prompt  ne doit donc pas être conçu de cette manière. Une   fois qu’on a fait ce paramétrage, on charge le  modèle dans l’interface. En chargeant le modèle,  
+12:4712 minutes et 47 secondesil va se charger à l’intérieur de la VRAM de  la carte graphique. Ce que vous avez comme   possibilité, dans un premier temps, c’est d’aller  le tester. Quand vous allez dans la section Chat,  
+12:5712 minutes et 57 secondesvous pouvez simplement lui poser une question : «  Quelle version de LLM es-tu ? » Certains modèles  
+13:0113 minutes et 1 secondeont comme information qu’ils sont entraînés à  partir de Claude Fable. Tous les modèles n’ont  
+13:0813 minutes et 8 secondespas cette information, mais celui-ci, vous l’avez  vu, je suis en train de filmer et on est quand   même sur un 27B, donc 27 milliards de paramètres,  et je trouve que la réponse est assez fluide. Où  
+13:1813 minutes et 18 secondesretrouver ce tutoriel à l’intérieur du niveau  2 Maîtriser le meilleur de l’IA ? La formation   certainement la plus avancée aujourd’hui dans le  domaine de la francophonie. Je vais te montrer,  
+13:2813 minutes et 28 secondespour le prix d’un café pendant deux mois, comment  tu vas piloter ton équipe d’agents IA, coder tes  
+13:3313 minutes et 33 secondespropres systèmes d’agents IA en partant de zéro.  Je t’apporte à l’intérieur de cet écosystème toute   la structure et toutes les compétences pour  faire un level-up en 15 jours, afin d’avoir  
+13:4313 minutes et 43 secondesun vrai effet de levier sur ta productivité  et ton entreprise. Aujourd’hui, soyons très   clairs : selon BFM Business, source VivaTech, les  entreprises mettent sept mois pour recruter des  
+13:5413 minutes et 54 secondesprofils qui savent utiliser l’intelligence  artificielle. Alors, soyons très clairs :   quelqu’un qui sait aujourd’hui utiliser l’IA comme  je te le montre dans ce tutoriel, c’est quelqu’un  
+14:0314 minutes et 3 secondesqui négocie sur le marché 50 % de plus sur son  salaire. Ce n’est pas moi qui le dis, ce sont les   entreprises à VivaTech. Une personne capable de  configurer des agents, d’optimiser des systèmes,  
+14:1314 minutes et 13 secondesbref, de faire le travail de cinq collaborateurs,  c’est celle qu’on va garder dans une entreprise,   c’est celle qui va rester. Si tu veux savoir quoi  faire, tu as toutes les infos en description.  
+14:2114 minutes et 21 secondesEt pour ceux qui veulent voir toute la partie code  pour l’optimisation des systèmes agentiques, je te   montre où cela se situe dans le niveau 3, Prompt  Engineering Elite, destiné aux professionnels,  
+14:3214 minutes et 32 secondesconsultants, développeurs, ingénieurs de l’IA  et du machine learning. Dans les cours avancés,   je te donne les stratégies, le code, les sections,  ainsi que la méthode pour installer, déployer  
+14:4114 minutes et 41 secondeset intégrer chacune des sections. À l’intérieur  des cours, tu retrouveras tous les points clés à   retenir, les schémas pour comprendre comment bien  utiliser l’intelligence artificielle, les prompts,  
+14:5114 minutes et 51 secondesles méthodes et la pédagogie. Tout est fait pour  que tu réussisses et que tu sois numéro 1 dans  
+14:5714 minutes et 57 secondeston domaine en moins de 15 jours. Toutes les infos  sont juste en dessous, en description. N’attends   plus. On a une fenêtre de temps très courte  pour agir sur ce marché. Ce qui est en train  
+15:0515 minutes et 5 secondesde se préparer, c’est la plus grosse récession  sur le marché du travail. Et si tu n’es pas prêt   quand la vague va impacter ton secteur, ce sera  certainement trop tard pour réagir. Quand le LLM  
+15:1615 minutes et 16 secondesvous répond, vous avez donc la partie des tokens  de raisonnement qui apparaît dans la fenêtre, puis   la réponse finale du modèle. Dans l’interface,  vous avez ici la possibilité d’ajouter un fichier  
+15:2515 minutes et 25 secondesde travail, par exemple un PDF, ou encore  d’analyser une image. Ce qui veut dire que   vous pouvez lui demander de décrire une image, de  l’analyser, et vous avez donc un modèle purement  
+15:3515 minutes et 35 secondesmultimodal, complètement local, que vous contrôlez  de A à Z. Maintenant, sur cette interface,   ce qu’on va vouloir faire, c’est l’intégrer à  l’intérieur de Hermes Agent. On va donc utiliser  
+15:4415 minutes et 44 secondesl’interface que nous avons maintenant comme point  d’accès à Hermes. Votre ordinateur et votre carte   graphique vont devenir le serveur qui va permettre  de faire tourner le LLM. Pendant ce temps, on a un  
+15:5415 minutes et 54 secondestravail vraiment remarquable sur le modèle 27B. Je  vous rappelle qu’il y a 27 milliards de paramètres   qui sont en train de tourner, et en plus, je suis  en train d’enregistrer la vidéo. Le modèle décrit  
+16:0316 minutes et 3 secondesparfaitement l’image, toute la structure de la  partie code et texte, et me l’intègre au niveau   de la réponse. Maintenant, comment l’intégrer à  Hermes ? Rendez-vous dans la section latérale où  
+16:1216 minutes et 12 secondesvous avez la section développeur. Dans la section  développeur, on va premièrement éjecter le modèle,   on va le sortir. Sinon, vous allez avoir un  conflit de gestion de mémoire. Quand Hermes  
+16:2116 minutes et 21 secondesva faire des requêtes, vous aurez déjà un  autre modèle chargé dans votre mémoire et   vous risquez de la saturer. Deuxièmement, on va  aller sur ce qu’on appelle les Server Settings.  
+16:2916 minutes et 29 secondesDans les Server Settings, vous allez activer pour  le moment l’authentification, la fonction CORS et   l’accès sur le réseau local. Vous allez avoir une  adresse de type HTTP qui va apparaître ici. Elle  
+16:3816 minutes et 38 secondesva nous permettre d’utiliser le modèle quantisé à  partir de Claude Fable et de lancer, sur le point  
+16:4516 minutes et 45 secondesde terminaison exact, le modèle qu’on va appeler  en faisant une requête API vers la carte graphique   pour récupérer le modèle. Maintenant, l’étape  suivante, c’est d’installer Hermes en local.  
+16:5516 minutes et 55 secondesVoici comment faire. Dans l’interface de Hermes  Agent, vous allez cliquer sur la partie Installer   et choisir tout simplement le modèle correspondant  à votre configuration : macOS, Windows ou Linux.  
+17:0717 minutes et 7 secondesAu lieu d’installer des VPS payants à l’année,  vous avez la possibilité de l’installer en local   et d’apprendre déjà à l’utiliser en local.  Quand vous serez bon et en mesure de créer  
+17:1617 minutes et 16 secondesvos automatisations et votre travail, vous pourrez  éventuellement réfléchir à la question suivante :   est-ce que cela vaut le coup de mettre  mon Hermes en ligne ? Pour le moment,  
+17:2417 minutes et 24 secondeson va donc apprendre à utiliser votre modèle  en local, parce que si vous le mettez en ligne,   on ne pourra pas utiliser votre carte graphique  à partir de votre point de terminaison, ce qui  
+17:3317 minutes et 33 secondessera plus compliqué. Une fois que Hermes Agent est  installé, rendez-vous dans l’interface de Hermes.  
+17:3817 minutes et 38 secondesIl faut laisser tourner LM Studio en arrière-plan,  avec notre modèle quantisé à partir de Claude   Fable. Je vais maintenant vous montrer les  paramétrages. Dans cette section, vous allez avoir  
+17:4817 minutes et 48 secondesdes settings. Dans ces settings, vous allez avoir  une section qui s’appelle Provider. Les providers,   ce sont ceux qui fournissent l’accès. Notre  provider, c’est donc LM Studio et votre adresse  
+17:5917 minutes et 59 secondesIP. Je vais mettre côte à côte Hermes Agent et  l’interface de LM Studio pour vous montrer la  
+18:0518 minutes et 5 secondesconfiguration. Dans les providers, vous allez sur  Hermes Agent et vous cliquez sur API. Vous allez   descendre dans la section LLM. Dans LM Studio,  vous avez deux informations à renseigner. Je vais  
+18:1418 minutes et 14 secondesvous montrer une connexion sécurisée. Si vous ne  faites pas de connexion sécurisée, n’importe qui   sur le réseau peut utiliser votre carte graphique,  la récupérer et éventuellement interférer avec ce  
+18:2418 minutes et 24 secondesque vous faites. On va donc cliquer ici dans les  sections serveur, puis cliquer sur « Générer une  
+18:3018 minutes et 30 secondesclé ». Vous allez créer cette clé, la récupérer  et la coller dans la section du haut. Collez la  
+18:3618 minutes et 36 secondesclé LM Studio et cliquez sur Enregistrer. Juste en  dessous, vous avez le point de contact. Le point  
+18:4218 minutes et 42 secondesde contact, c’est votre adresse, qui doit être  verte et en HTTP. On va copier cette adresse et  
+18:4818 minutes et 48 secondesla coller juste à cet endroit, puis cliquer sur  Sauvegarder. Maintenant qu’on a fait cette étape,   on va pouvoir retourner dans la section Settings  et aller dans les modèles. Dans les modèles,  
+18:5918 minutes et 59 secondesvous allez sélectionner LM Studio par défaut.  Maintenant, les modèles que vous avez installés   vont apparaître automatiquement dans l’interface.  Si je choisis maintenant un modèle de type Gemma 4  
+19:0819 minutes et 8 secondesquantisé à partir de Fable 5, que j’applique la  modification et que je reviens dans ma session,  
+19:1619 minutes et 16 secondesj’ai automatiquement la fonction dans Hermes  Agent qui va me présenter LM Studio avec Gemma,   avec la possibilité d’activer le système de  raisonnement ou de le désactiver. Et dès que vous  
+19:2619 minutes et 26 secondesallez envoyer une requête, par exemple une analyse  d’image, votre carte graphique va se mettre en  
+19:3219 minutes et 32 secondesfonctionnement. Vous avez les tokens de génération  de la réponse qui se mettent en route au niveau de   la carte. Vous voyez donc que le modèle est en  train de créer les tokens. J’ai mis un modèle  
+19:4019 minutes et 40 secondesGemma 4 qui n’a pas de tokens de raisonnement  visibles, c’est-à-dire qu’ils n’apparaissent pas   au niveau de la réponse du modèle, mais le modèle  produit quand même un système de raisonnement en  
+19:4819 minutes et 48 secondesarrière-plan. Pour les faire apparaître, je vais  vous montrer ensuite comment faire. La description   de la réponse du modèle se met en place. On est  donc en train de faire tourner un modèle quantisé  
+19:5619 minutes et 56 secondesavec Fable 5, qui a un comportement beaucoup plus  avancé et qui permet maintenant de travailler   complètement en local. Et honnêtement, pour tout  ce qui est analyse d’image, courrier ou PDF,  
+20:0520 minutes et 5 secondesc’est très largement suffisant. À partir de 12B,  c’est déjà intéressant, et dans la zone des 27B,   c’est déjà un très bon modèle pour travailler.  Pour activer la partie raisonnement des modèles,  
+20:1520 minutes et 15 secondesvous allez maintenant basculer sur le  système et sélectionner le modèle de   type Thinking. Vous sélectionnez de préférence  les modèles de type raisonnement. Vous recliquez  
+20:2420 minutes et 24 secondessur la section Gemma : « Effectue une analyse  approfondie de chaque bloc, décris les blocs,   leurs relations et effectue un cours formaté en  Markdown. » On va donc lui demander de faire un  
+20:3320 minutes et 33 secondestravail complet en trois étapes. À partir  du contexte, on va envoyer cette demande.   On devrait normalement avoir cette fois-ci la  partie raisonnement qui se met en route dans la  
+20:4120 minutes et 41 secondesconfiguration. C’est actif et c’est envoyé. Voilà,  on est à 100 %. La génération de tokens se met en   place. Vous avez toute la partie raisonnement qui  se met en route et un comportement beaucoup plus  
+20:5020 minutes et 50 secondesstructuré qui commence à apparaître. Premièrement,  il démarre par une phase d’analyse, comprend les   éléments des agents récursifs, décompose les trois  blocs et commence ensuite la rédaction du plan  
+21:0021 minutesdu cours. Sur les plus petits modèles, il faudra  bien entendu être moins gourmand que ce qu’on peut   faire avec les gros modèles. Et voilà, maintenant  il se met en place, il a le plan, il applique.  
+21:0821 minutes et 8 secondesC’est une pure distribution de probabilité. C’est  ce que je vous ai expliqué. C’est-à-dire que,   du moment que vous avez donné dans chaque section  les blocs de tokens qu’il doit aller rechercher,  
+21:1821 minutes et 18 secondesle modèle est tout à fait capable de  comprendre ce qu’il a à faire. Maintenant,   combien de blocs peut-on mettre en simultané ?  Moi, je dirais de ne pas dépasser six variables.  
+21:2621 minutes et 26 secondesLà, déjà, on est à la limite, et on va donc  reprendre la section. Il va comprendre que,   dans le contexte, il a la section C/D.  Il reprend, il réinjecte cette section  
+21:3421 minutes et 34 secondesprécisément en termes de probabilité de tokens.  Il récupère, cela produit les tokens génératifs,   et vous avez la distribution de probabilité qui  se met en place. Voilà, là, vous êtes en train de  
+21:4221 minutes et 42 secondestravailler avec des modèles qui ont été scorés et  qui sont déjà très bons, que ce soit du Qwen 3.6,  
+21:4821 minutes et 48 secondesqui est le tout dernier modèle, ou encore du Gemma  4, qui est un très bon modèle sur lequel, en plus,   ils ont eu un apprentissage par renforcement,  par étapes logiques et par utilisation d’outils  
+21:5721 minutes et 57 secondesavec Fable 5. Vous commencez donc à toucher  du doigt ce que vous pourriez faire de manière   complètement autonome. Déjà, cela vous permettra  d’économiser de l’argent et de sortir du système  
+22:0722 minutes et 7 secondescomplètement drivé par les modèles frontières.  On n’a pas besoin des modèles frontières tout le   temps. Et vous comprenez aussi une chose : ce que  l’on fait au niveau de la formation, c’est que je  
+22:1522 minutes et 15 secondesvous montre pourquoi il ne faut pas prompter de la  même manière avec des petits modèles et des gros   modèles. Maintenant, vous le comprenez beaucoup  mieux, parce qu’on n’a pas les mêmes puissances,  
+22:2122 minutes et 21 secondeson n’a pas les mêmes blocs d’attention, on n’a  pas la même longueur de contexte, et donc on   n’a pas les mêmes stratégies de travail. Mais  en les adaptant, on peut quand même arriver à  
+22:3022 minutes et 30 secondesproduire quelque chose. Avec tous ces éléments,  vous avez tout le nécessaire pour utiliser en   local des modèles optimisés et distillés à partir  de Claude Fable. Je vous donne rendez-vous dans   les prochaines vidéos. Je vous dis à bientôt.  Abonnez-vous si ce n’est pas encore fait.
+
+Tout
+
+Source : Parlons IA
+
+Pour vous
+
+Regardées
+
+1:29:25
+Professeur Harvard : 7 Grandes Mensonges sur Sport, Sommeil, Course, Cancer & Sucre
+The Diary Of A CEO
+14 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+10:58
+Claude Sonnet 5 – en 10 Min – La vérité sur ses performances réelles !
+Parlons IA
+4,8 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+1:45:56
+Lanceur d’alerte CIA : Ils voient vos messages. La CIA utilise vos appareils.
+The Diary Of A CEO
+14 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+7:30
+Plus de série = plus de muscle ? | L'énigme musculaire.
+Actu_Psci
+13 vues
+•
+il y a 16 heures
+Nouveau
+
+
+25:20
+Best Second Brain IA Gratuit: Obsidian + OpenWebUi + Nvidia
+Parlons IA
+4,7 k vues
+•
+il y a 1 mois
+
+
+9:40
+JEUX EN VRAC - URGENCES
+Bazar du Grenier
+3,1 M de vues
+•
+il y a 5 ans
+
+
+16:19
+7 conseils qui m’ont aidé à avoir un GROS DOS
+Nassim Sahili
+241 k vues
+•
+il y a 3 mois
+
+
+1:09:45
+Hermes Agent est encore plus DINGUE : tu DOIS le tester
+Renaud Dékode
+16 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,3 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+18:42
+1.000 Milliards de dette IA cachée : Les Milliardaires fuient les marchés!
+MoneyRadar
+93 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+42 k vues
+•
+il y a 10 jours
+
+
+1:46:22
+Casey Neistat : pourquoi j'ai arrêté YouTube et ce que je fais maintenant !
+The Diary Of A CEO
+1,5 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+17:24
+La Plupart des Hommes de plus de 40 ans ne Seront Jamais Secs (et ce n'est pas une Question d'Âge)
+Julien QUAGLIERINI
+4 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+22:40
+λ3?
+Bazar du Grenier
+979 k vues
+•
+il y a 7 mois
+
+
+22:28
+Économie mondiale : tout est en train de changer
+Xavier Delmas
+117 k vues
+•
+il y a 2 semaines
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+919 k vues
+•
+il y a 6 jours
+Nouveau
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,7 M de vues
+•
+il y a 5 mois
+Doublée
+
+10:17
+CES JEUX QUI M'ONT MARQUÉ - HALF-LIFE (PC)
+Bazar du Grenier
+1 M de vues
+•
+il y a 3 ans
+
+1:45:52
+Urgence en Bourse : Vendez vos actions immédiatement, l'effondrement est imminent !
+The Diary Of A CEO
+8 M de vues
+•
+il y a 12 jours
+Doublée
+
+22:42
+Le classement: Du pire au meilleur pour ta santé
+Bodytime
+9,7 k vues
+•
+il y a 1 jour
+Nouveau
+
+    

@@ -23,6 +23,7 @@ Architecture consolidee a confirmer par documentation officielle ou experimentat
 - Les composants structurants a verifier sont : prompt systeme ou soul, memoire, sessions, skills, crons, logs, plugins, hooks et gateway/API.
 - Hermes peut potentiellement se connecter a des outils externes via MCP, API ou OAuth ; ces connexions doivent etre testees une par une.
 - Hermes semble pouvoir utiliser plusieurs providers, y compris providers externes ou locaux ; le choix doit tenir compte du cout, de la confidentialite, des capacites et de la criticite.
+- LM Studio peut etre teste comme provider local potentiel pour Hermes via un endpoint HTTP et une cle API, avec verification stricte de l'acces reseau, de CORS, des logs, de la confidentialite et de la charge memoire.
 - Hermes WebUI peut etre teste avec un provider alternatif comme Ollama via une configuration controlee ; les modeles, limites, couts, donnees envoyees et conditions d'usage doivent etre verifies avant integration operationnelle.
 - Les workflows avances peuvent impliquer orchestrateur, agents specialises, agents de controle et agents paralleles ; cette architecture reste a valider experimentalement.
 - L'exposition reseau et les canaux de controle doivent etre limites et audites, notamment pour VPS, Tailscale, Telegram, Open WebUI, dashboard, tokens et ports.
@@ -79,6 +80,17 @@ Workflow d'experimentation agentique :
 6. Ajouter une skill uniquement si la procedure devient recurrente.
 7. Planifier via cron seulement apres validation manuelle.
 8. Prevoir une condition d'arret et une intervention humaine pour les actions sensibles.
+
+Workflow de test provider local LM Studio :
+
+1. Installer LM Studio et charger un modele local adapte a la VRAM disponible.
+2. Activer le serveur local uniquement dans un environnement controle.
+3. Generer une cle API et limiter l'acces reseau au strict necessaire.
+4. Configurer Hermes avec le provider LM Studio, l'endpoint HTTP et le modele detecte.
+5. Tester une tache simple et non sensible avec journalisation.
+6. Verifier latence, qualite, erreurs, saturation memoire, logs et donnees exposees.
+7. Comparer le resultat a un provider distant avant tout usage operationnel.
+8. Desactiver l'exposition reseau si elle n'est pas indispensable.
 
 Workflow d'automatisation supervisee :
 
@@ -199,6 +211,9 @@ Points a surveiller :
 - capacites reelles de Claude Code lance depuis Hermes ;
 - fonctionnement des agents paralleles ou sous-agents ;
 - compatibilite et limites de LM Studio comme provider local ;
+- securite de LM Studio utilise comme endpoint local pour Hermes, notamment cle API, CORS, acces LAN, logs et saturation memoire ;
+- qualite reelle des modeles locaux quantises et des modeles de raisonnement locaux dans Hermes ;
+- statut et fiabilite des modeles annonces comme distilles ou optimises a partir de Claude Fable ;
 - risques lies a l'envoi automatique d'emails ou a l'ecriture dans des bases externes ;
 - couts, confidentialite et conditions d'usage des providers tiers ;
 - robustesse du spawning et de l'orchestration multi-agents ;
@@ -226,3 +241,4 @@ Points a surveiller :
 - 2026-07-01 - Consolidation - Sections 3, 11, 12 - Synthese permanente Hermes apres audit Aion
 - 2026-07-03 - Mise a jour - Sections 3, 8, 12 - Source YouTube Dr. Firas Hermes WebUI Ollama Kimi VPS, workflow AOS GO partiel
 - 2026-07-06 - Mise a jour - Sections 7, 8, 12 - Source YouTube Melvynx Hermes usages quotidiens, batch AOS GO partiel
+- 2026-07-07 - Mise a jour - Sections 3, 8, 12 - Source YouTube Parlons IA Hermes LM Studio modeles Fable locaux, batch AOS GO partiel
