@@ -2,8 +2,10 @@ name: AOS Daily Audit
 
 on:
   schedule:
-    # 00:17 UTC = 01:17 heure Algerie.
+    # 00:17 UTC = 01:17 heure Algerie, audit principal.
     - cron: "17 0 * * *"
+    # 07:47 UTC = 08:47 heure Algerie, audit de secours.
+    - cron: "47 7 * * *"
   workflow_dispatch:
 
 permissions:
