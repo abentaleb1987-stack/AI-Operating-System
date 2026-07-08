@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO partiel
 - Niveau de risque maximal : moyen
-- Commit audite : ad8d382
+- Commit audite : 9f49cbc
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-08 09:54:53
+- Rapport genere le : 2026-07-08 09:32:51
 - Alertes prioritaires Aion : 1
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 4
@@ -25,6 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `9f49cbc` - 2026-07-08 10:20:01 +0200 - Knowledge batch - docs(aos): process Aywen Codex agentic game source
+- `85ffe38` - 2026-07-08 10:15:34 +0200 - Audit - ci(aos): add backup schedule for daily audit
+- `62d458c` - 2026-07-08 09:57:56 +0200 - Audit - docs(aos): add Aion decision for daily audit 2026-07-08
 - `ad8d382` - 2026-07-08 01:46:30 +0200 - Knowledge batch - docs(aos): integrate Hermes and Cursor video sources
 - `f804ec9` - 2026-07-07 11:25:57 +0000 - Audit - docs(aos): add daily audit report
 
@@ -32,6 +35,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Knowledge batch
 
+- `9f49cbc` - 2026-07-08 10:20:01 +0200 - docs(aos): process Aywen Codex agentic game source
 - `ad8d382` - 2026-07-08 01:46:30 +0200 - docs(aos): integrate Hermes and Cursor video sources
 
 ### Protocol / system
@@ -44,15 +48,19 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `85ffe38` - 2026-07-08 10:15:34 +0200 - ci(aos): add backup schedule for daily audit
+- `62d458c` - 2026-07-08 09:57:56 +0200 - docs(aos): add Aion decision for daily audit 2026-07-08
 - `f804ec9` - 2026-07-07 11:25:57 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `85ffe38` - 2026-07-08 10:15:34 +0200 - Audit - ci(aos): add backup schedule for daily audit
+- `62d458c` - 2026-07-08 09:57:56 +0200 - Audit - docs(aos): add Aion decision for daily audit 2026-07-08
 - `f804ec9` - 2026-07-07 11:25:57 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 5
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -60,13 +68,18 @@ Dernieres 24h ou fallback 10 commits recents
 ## Fichiers crees
 
 - A 00_System/audits/daily/2026-07-07_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-07-08_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-07-08_decision-aion-audit.md
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_david-schkiwisk-kavyro_hermes-agent-vps-hetzner-hardening_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_devart_composer-2-5-vs-claude-opus-coding-workflow_transcript.txt
+- A 02_IA/Codex/veille/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation.md
 - A 02_IA/Cursor/veille/2026-07-08_youtube_devart_composer-2-5-vs-claude-opus-coding-workflow.md
 - A 02_IA/Hermes/veille/2026-07-08_youtube_kavyro_hermes-agent-vps-hetzner-hardening.md
 
 ## Fichiers modifies
 
+- M .github/workflows/aos-daily-audit.yml
 - M 02_IA/Cursor/fiche_permanente.md
 - M 02_IA/Hermes/fiche_permanente.md
 
@@ -85,11 +98,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
+- A 02_IA/Codex/veille/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation.md
 - A 02_IA/Cursor/veille/2026-07-08_youtube_devart_composer-2-5-vs-claude-opus-coding-workflow.md
 - A 02_IA/Hermes/veille/2026-07-08_youtube_kavyro_hermes-agent-vps-hetzner-hardening.md
 
 ## Sources traitees
 
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_david-schkiwisk-kavyro_hermes-agent-vps-hetzner-hardening_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_devart_composer-2-5-vs-claude-opus-coding-workflow_transcript.txt
 
