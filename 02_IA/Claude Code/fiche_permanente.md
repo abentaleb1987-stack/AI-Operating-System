@@ -51,6 +51,7 @@ Aucun cas d'usage n'est encore valide par experimentation interne AOS.
 - Considerer Obsidian comme un RAG complet sans architecture de retrieval.
 - Charger un `Claude.md` trop long qui melange toutes les instructions du projet.
 - Installer des hooks ou skills non audites qui peuvent agir sur fichiers, commandes ou environnement.
+- Installer globalement ou activer des skills communautaires sans audit de leurs instructions, permissions, dependances et effets attendus.
 
 ## 8. Workflows recommandes
 
@@ -82,6 +83,14 @@ Workflow de contexte Claude Code :
 5. Utiliser `/clear` si la conversation derive ou hallucine.
 6. Mettre les controles critiques dans des hooks audites.
 
+Workflow avec skills ou sous-agents :
+
+1. Clarifier le besoin, les contraintes et les criteres d'acceptation avant implementation.
+2. Activer uniquement les skills utiles au contexte de la tache.
+3. Exiger des preuves de validation adaptees au livrable : tests, captures, logs ou comparaison visuelle.
+4. Separer autant que possible la production initiale et la revue qualite pour limiter l'auto-validation.
+5. Documenter les skills utilises et les conclusions de validation dans le rapport de fin de tache.
+
 ## 9. Prompts & methodes
 
 Pour Claude Code, expliciter :
@@ -102,6 +111,7 @@ Pour les agents Claude Code, documenter :
 - schema d'entree/sortie ;
 - memoire persistante utilisee ;
 - criteres de retour a l'orchestrateur.
+- preuves attendues pour valider le resultat, notamment tests, screenshots, logs ou checklist de qualite.
 
 ## 10. Integration dans mon ecosysteme
 
@@ -128,6 +138,7 @@ Points a surveiller :
 - comportement exact de `/clear`, `/compact`, memory, skills et hooks selon les versions ;
 - securite des hooks et scripts dans `settings.json` ;
 - efficacite du chargement progressif des skills sur projets AOS.
+- maintenance, permissions et valeur reelle des skills communautaires avant installation globale.
 
 ## 13. Decisions strategiques
 
@@ -137,3 +148,5 @@ Prioriser les architectures de recherche selectives plutot que l'injection massi
 
 - 2026-07-01 - Ajout - Sections 1 a 13 - Source YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 7, 8, 9, 12 - Source YouTube Parlons IA Claude Code 101, batch AOS GO partiel
+- 2026-07-10 - Mise a jour - Sections 7, 8, 9, 12 - Source YouTube Melvynx skills Claude Code Codex, batch AOS GO partiel
+

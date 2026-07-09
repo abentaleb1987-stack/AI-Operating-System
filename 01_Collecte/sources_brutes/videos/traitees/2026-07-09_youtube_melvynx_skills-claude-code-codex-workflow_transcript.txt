@@ -1,0 +1,614 @@
+
+
+Découvrez la communauté des collectionneurs de maillots de foot
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Mes 5 MEILLEURES skills pour Claude Code et Codex (c'est cheaté)
+Melvynx
+Melvynx
+61,9 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Enregistrer
+
+Télécharger
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+9 juil. 2026  #claudecode #claude #ai
+Ma formation Claude Code : https://mlv.sh/iC2tvkD
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Plugin Impeccable pour design IA
+3:00 - Utilisation du plugin Impeccable
+4:30 - Développement mobile avec IA
+6:15 - Plugin Grilling pour clarifier besoins
+8:00 - Plugin Apex pour automatisation IA
+9:30 - Analyse automatique et screenshots
+11:00 - Plugin Interface pour meilleurs détails
+12:30 - Plugin pour qualité du code
+14:00 - Installation globale des plugins IA
+15:30 - Workflow agentique et sécurité
+16:45 - Conclusion
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+Masterclass sur les SaaS : https://mlv.sh/nowts-masterclass
+
+#claudecode #claude #ai #ia #coding #vscode #anthropic #aitutorial #programming #developper
+Melvynx présente cinq extensions indispensables pour optimiser le développement avec Claude Code et Codex. Ces outils communautaires permettent d'automatiser le design, d'améliorer la qualité du code et d'affiner les interactions avec l'IA. Cette approche structure le flux de travail pour garantir des résultats plus précis et professionnels dès la première itération.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,9 k abonnés
+Vidéos
+À propos
+3 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@rychtwins97
+il y a 2 heures
+Merci pour le partage
+
+
+
+Répondre
+
+
+@jeremie7504
+il y a 3 heures
+Merci pour la vidéo
+
+
+
+Répondre
+
+
+@stephtropcool
+il y a 11 minutes
+merci 🚀
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+
+EVE Online
+Rejoignez des milliers de joueurs
+Sponsorisé
+eveonline.com
+
+
+Téléchargez EVE Online
+Installez EVE Online maintenant
+Disponible sur Windows et Mac
+Parrainez vos amis
+Grâce à EVE Buddy, gagnez du temps
+de jeu ou des PLEX pour chaque ami
+Achetez des PLEX
+Echangez contre des ISK ou
+un statut OMEGA
+Jouez gratuitement
+EVE Online est désormais gratuit
+Joignez ce MMORPG aujourd'hui !
+Lire
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00Les skills que tu utilises vont tout changer dans ta manière de coder avec Lia. Et il y a cinq skills de la communauté que j'ai pas forcément créé.
+0:099 secondesIl y en a qu'un seul que j'ai créé, mais quatre autres skills de la communauté pour showcase les skills des contributeurs des du coding agents que
+0:1818 secondesj'adore particulièrement et qui vont vraiment changer ta manière de coder. Et donc dans cette vidéo, je vais te présenter ces cinq skills. On commence
+0:2727 secondestout de suite. Le premier skill, c'est impeccable. Et ce skill, au début, j'y croyais moyennement et au fur et à
+0:3535 secondesmesure du temps, je me suis rendu compte qu'il apportait vraiment quelque chose.
+0:3838 secondesDonc tout le monde connaît le skill front end design. Front-end design qui a été créé, c'est presque le premier skill, hein. C'est presque le skill du
+0:4747 secondesskill parce qu'il a été créé par Anthopique il y a pas mal de temps et il a défini énormément, mais il est très low et en fait maintenant, je trouve
+0:5555 secondesqu'il crée aussi du slop. Et en fait finalement en essayant de ne pas créer du slop, on se retrouve à quand même créer du slop. Qu'est-ce que va faire ce
+1:031 minute et 3 secondesskill ? Il va faire que ça utilise des fontes what the fuck généralement que ça va vouloir voilà en fait c'est le
+1:101 minute et 10 secondesnouveau slop. Le slop change et donc il faut des skills qui évoluent constamment et c'est ce que Impeccable fait ici.
+1:151 minute et 15 secondesImpeccable juste ici de missing des vocabulary for agent. Clairement qu'est-ce que ça va faire si je te montre un de mes projets ? Donc ici, je
+1:241 minute et 24 secondesregardais un petit peu mes skills, mais si je te montre par exemple Nostack mobile, en fait, il va y avoir un
+Chapitre 2 : Plugin Impeccable pour design IA
+1:311 minute et 31 secondesdocument impeccable avec ici un fichier design. Ce fichier design va définir un peu comment fonctionne le design et va
+1:391 minute et 39 secondesaider l'agent à savoir qu'est-ce qu'il doit faire, qu'est-ce qu'il doit pas faire et cetera. Ce fichier a été créé en fonction de mon application. OK, je
+1:481 minute et 48 secondesl'ai généré et il a rajouté ici qu'est-ce qu'il doit faire, quels sont les rules ? Quels sont les blab blabla.
+1:561 minute et 56 secondesDonc ça c'est lui qui le crée. Comment il le crée ? Tu es en train de te dire et ben c'est simple, tu lances slash impeccable comme ceci. Init fin du sujet
+2:052 minutes et 5 secondeshein. Il y a pas de il y a pas d'autres étapes à faire. C'est la seule étape. OK impeccable. Init. Ça lance l'histoire.
+2:112 minutes et 11 secondesUne fois que tu as l'histoire qui est lancée, tu as le design et tu as live avec ici config. Donc là, Web app. Donc
+2:182 minutes et 18 secondeslà, c'est les fichiers, je sais pas pourquoi il y a qu'un seul fichier.
+2:222 minutes et 22 secondesComponent syntax, CSS, blab blabla. Ça crée ça. Et ensuite, on va avoir ce qu'on appelle la déslopification.
+2:292 minutes et 29 secondesImpeccable va venir gérer tous les défauts pour que ce soit stylé.
+2:342 minutes et 34 secondesTypography, le contraste, spatial design, responsive interaction motion, UI design. Alors, j'ai pas l'application
+2:412 minutes et 41 secondesque j'ai fait hier ici, relache. Je vais demander de la relancer. Je te montrerai un exemple. Mais voilà, de language, qu'est-ce qui se passe ? En fait, ce
+2:492 minutes et 49 secondesskill contient 23 skills qui vont définir plein de choses. Par exemple, clarify qui permet de clarifier. Là, tu
+2:572 minutes et 57 secondesvois, ça ressemble à du slop. Là, c'est clean. On a Harden qui va venir ici rendre les choses plus solides. Il va y
+Chapitre 3 : Utilisation du plugin Impeccable
+3:073 minutes et 7 secondesavoir optimize et cetera. Moi personnellement, j'utilise pas ces skills qui sont ici parce qu'en fait c'est c'est trop chiant de savoir qu'est-ce que quel skill tu dois
+3:153 minutes et 15 secondesutiliser quand tu veux faire ton histoire. Moi en fait, je vais directement utiliser le skill principal qui s'appelle impeccable. Donc si ici
+3:243 minutes et 24 secondesj'affiche le menu qui est juste là pour aller voir Agent, il y a un skill qui s'appelle impeccable.
+3:313 minutes et 31 secondesImpeccable. Hop. Et tu peux voir que dans H est impeccable, en fait, il y a directement tous les skills. Et toi, tout ce que tu fais, c'est lancer
+3:383 minutes et 38 secondesimpeccable. Et tu vas lancer ça comme ceci. Donc là, si je vais euh dans un chat, hop, nouveau Claude, pourquoi pas
+3:463 minutes et 46 secondes? On va changer. Mais Claude est super lent, c'est insupportable, ça me rend fou chaque fois. Et donc là, tu vas lancer impeccable audit et cetera. Moi
+3:553 minutes et 55 secondesce que je fais généralement, c'est juste use/impecable.
+3:583 minutes et 58 secondesvu que c'est une sorte de routing skill, il va venir pi les bons éléments de ton skill afin de s'assurer que ça respecte
+4:054 minutes et 5 secondesles règles qu'on a juste ici. Donc voilà, travelasdesign.md impeccable documents créer un fichier au
+4:134 minutes et 13 secondesformat stitch format. Hop, turn any adjunent dans son live building comme ceci. Et ça marche bien. Ça marche bien.
+4:234 minutes et 23 secondesOn peut voir qu'ici il a aussi un CLI.
+4:254 minutes et 25 secondesDonc là NP NPX impeccable. Détect je sais pas trop quoi. J'ai jamais testé.
+Chapitre 4 : Développement mobile avec IA
+4:314 minutes et 31 secondesDétect source. Ouais, j'ai évidemment même pas de source juste ici. Mais donc le machin est complet quoi. C'est vraiment une sorte de de framework.
+4:394 minutes et 39 secondesÉvidemment, j'ai pas de dossier source, j'ai un dossier mobile app. Si on va faire comme ceci euh il va venir
+4:464 minutes et 46 secondesévidemment scanner les fichiers pour regarder voilà s'il y a des antipatern ou quoi. Franchement ça marche bien. Je l'ai testé et l'application que j'ai
+4:554 minutes et 55 secondesfait voilà pour ma formation ici c'est vraiment du fun et et les et les photos de démo sont très drôles. Vous allez
+5:035 minutes et 3 secondespouvoir le voir. Donc vous voyez tout ça, l'UI avec les verifies, les gros boutons, le respect des styles et cetera, ça a été fait évidemment aussi
+5:115 minutes et 11 secondespar moi parce que je bosse quand même, je suis quand même là derrière mon ordi à check. Mais on va dire que ça a été one shot avec Lia, principalement grâce
+5:195 minutes et 19 secondesà ce impeccable. Alors si je trouve l'OTP code et donc là tu peux voir qu'on a le design juste ici. On peut choisir des silhouettes, on peut choisir des
+5:275 minutes et 27 secondesgens. Donc ça c'est la formation qu'on crée dans High Builder qui est le projet que je suis en train de faire. C'est pour ça que je me suis un peu éclaté,
+5:355 minutes et 35 secondesmais tout ce design qu'on voit ici, iOS a été fait 100 % avec cette agent. Donc si ça t'intéresse d'ailleurs d'avoir
+5:435 minutes et 43 secondesaccès à une mini formation pour apprendre à faire ça, tu peux aller sur mlv.sh/fm pour avoir skill gratuit pour
+5:515 minutes et 51 secondesautomatiser tes applications mobiles avec Lia. Donc pas mal de choses, la stack technique que j'utilise dans cette application mobile et cetera que tu peux
+5:585 minutes et 58 secondesretrouver ici. Et évidemment dans toute cette logique impeccable participe beaucoup au développement de tout ça.
+6:066 minutes et 6 secondesDonc il y a beaucoup de choses dans ce skill designing, documentation, slop mais moi je peux vous dire que ça marche. Je vous invite à le tester et à
+6:146 minutes et 14 secondesregarder si ça marche. Si ça marche pour vous, peut-être que ça va être cool.
+Chapitre 5 : Plugin Grilling pour clarifier besoins
+6:176 minutes et 17 secondesDeuxième skill qui est assez cool, c'est Mat Pocock. Il a fait pas mal de vidéos là-dessus. Euh et je lui ai volé quelques skills et le seul en fait, je
+6:246 minutes et 24 secondeslui ai volé tous ces skills, mais voilà, moi je vous invite à télécharger plein de skills et à regarder ensuite lequel vous utilisez. Infin, j'en ai utilisé
+6:326 minutes et 32 secondesaucun sauf Grill me. Donc ici, productivity grilling. Et en fait ça description interview de user relentlessly about plant or design.
+6:436 minutes et 43 secondesUtilise-le quand l'utilisateur veut tester un plan avant de le faire et faire une phase de griller griller la
+6:506 minutes et 50 secondeschose donc c'est-à-dire la phase avant que ce soit prêt. Et donc là, il va te poser plein de questions, beaucoup de questions sur pas mal de sujets. Et par
+6:586 minutes et 58 secondesexemple, quand j'ai créé cette application, si j'ai réussi à la one shot, alors là elle crache parce que j'ai Claude qui travaille à fond dessus là en ce moment. Si elle a réussi à
+7:077 minutes et 7 secondesfonctionner aussi vite, c'est parce que je me suis grillé pendant pas mal de temps. Donc vous pourrez retrouver ce skill juste ici dans un bloc post que je
+7:167 minutes et 16 secondesvais faire avec cette vidéo. Je vais d'ailleurs donner les infos ici. Mais c'est très très cool. Et qu'est-ce que ça va faire hein ? Qu'on soit clair et que je te partage un peu l'expérience.
+7:277 minutes et 27 secondesTu vas lancer la commande, maintenant elle s'appelle Grilling. Avant elle s'appelait Grill Mi. Voyez, je sais pas pourquoi, c'est vraiment un problème tout ce qui est update. Voyez, avant
+7:357 minutes et 35 secondesc'était Grill Mi et maintenant quand tu lances Grill Me, ça lance Grilling. Mais moi sur mon Mac, je pense que j'ai téléchargé avant qu'il change. Et donc
+7:437 minutes et 43 secondesGrillmi à l'ancien prompt. Mais donc ce Grillmi, il va venir te poser des questions et c'est super cool parce que quand tu as une idée d'AP, tu vas ensuite poser des questions, poser des
+7:527 minutes et 52 secondesquestions, poser des questions, répondre aux questions, répondre aux questions, répondre aux questions et ça va clarifier le besoin pour que l'agent one shot. On veut toujours que l'agent one
+7:597 minutes et 59 secondesshot et c'est comme ça qu'on va pouvoir le faire grâce à ce skill. Troisème skill évidemment, c'est Apex. Je vous en
+Chapitre 6 : Plugin Apex pour automatisation IA
+8:068 minutes et 6 secondesai parlé. Il a un nom euh il a un nom simple en quatre lettres qui se dit avec un acronyme. Moi, je le trouve formidable et je lance pas une seule
+8:148 minutes et 14 secondestâche sans le lancer. Pourquoi ? Parce que ça va tout simplement euh effectuer ta tâche comme ceci en répondant à la
+8:238 minutes et 23 secondesquestion et ensuite dès que tu lances ce apex, donc là j'avais réfléchi à à tout l'onboarding et je lui ai dit "Non mais moi tu comprends pas, je veux que tu
+8:318 minutes et 31 secondeslances avec Apex." sans que j'ai lancé avec Apex, il a fait n'importe quoi.
+8:358 minutes et 35 secondesEnsuite, quand j'ai lancé avec Apex, il m'a fait des screenshots d'exemples afin de savoir, il a travaillé afin de vérifier que ça fonctionne. Et ça, ça
+8:438 minutes et 43 secondeschange tout. c'est dès que vous utilisez Apex, vous avez en fait le fait que l'agent vaille tester vos fatures
+8:508 minutes et 50 secondeslui-même et analyse un maximum de temps toutes les tâches qu'il doit réaliser.
+8:568 minutes et 56 secondesEt moi, je trouve ça euh de de toute évidence incroyable parce que on va y avoir on va avoir toutes les étapes.
+9:029 minutes et 2 secondesDonc les étapes principales, c'est initialisation. Il va analyser avec des parallèles agents, il va planifier mais la planification est très intéressante
+9:109 minutes et 10 secondesparce qu'il va faire des critères d'acceptation et cetera. Il va exécuter, il va le valider avec les type check, il va rajouter des tests si tu lui as
+9:189 minutes et 18 secondesdemandé de le faire, il va examiner le code avec plusieurs code agents et plusieurs agents qui ont été définis avant. Il va résoudre tous les problèmes
+9:269 minutes et 26 secondeset ensuite il va resolve et verérify. Et ça c'est très intéressant, c'est que à chaque fature que tu lui demandes, il
+Chapitre 7 : Analyse automatique et screenshots
+9:349 minutes et 34 secondesdoit vérifier que ça fonctionne. Ici par exemple, tu peux voir que il m'envoie des screenshots. À quoi ça ressemble ?
+9:429 minutes et 42 secondescomme ça, au lieu que j'ai besoin de lancer l'application et de tester manuellement, lui il a lancé l'application, il il m'affiche
+9:499 minutes et 49 secondesl'interface et là je lui dis "Non mais c'est n'importe quoi, pourquoi il y a pas ça ?" Donc vous voyez que je lui parle un peu mal mais quand ensuite il a corrigé, il me fait un nouveau
+9:589 minutes et 58 secondesscreenshot qui me prouve que ça a fonctionné. Ça change tout dans votre développement. Il y a, je trouve d'avoir ces screenshots. J'en ai fait une vidéo dédiée, mais je vous en reparle ici.
+10:0610 minutes et 6 secondesDonc Apex, c'est dans mlv.sh/fcation SH/FC formation Claude juste ici formation euh agent IA. Bref, 4e skill,
+10:1510 minutes et 15 secondesmake interface feel better, un agent, un skill qui va être focus pour faire en sorte que les détails de ton application
+10:2310 minutes et 23 secondessoient meilleurs. Alors, ça ressemble à impeccable mais c'est dans des détails.
+10:2710 minutes et 27 secondesDonc là, tu vois que ça va être dans le balance plus pretty qui va offrir une petite amélioration. Il va y avoir les
+10:3510 minutes et 35 secondesborders qui vont être parfaites. Il va y avoir les animations. Au lieu d'avoir les nombres qui change ici, il va faire
+10:4210 minutes et 42 secondesles bons nombres et plein de petits trucs comme ça. C'est simple, c'est efficace mais en fait c'est ça qui
+10:4910 minutes et 49 secondeschange euh une application qui est magnifique à une application qui est moins jolie. Et donc make interface feel
+10:5910 minutes et 59 secondesbetter. fait une seule chose, c'est définir design that make an interfal fix better. Et ça va juste rendre ton
+Chapitre 8 : Plugin Interface pour meilleurs détails
+11:0711 minutes et 7 secondesapplication meilleure. Non pas qu'elle va respecter les règles ultimes de la mort, ça va juste être plus beau et mieux rendu. Et j'adore ce skill et
+11:1511 minutes et 15 secondesj'adore cette lensing page, ça donne envie de l'utiliser. C'est des détails, donc moi je les vois pas forcément.
+11:2011 minutes et 20 secondesC'est pas comme impeccable qui transforme une page dégueulasse en une page potable, mais moi c'est des détails qui me plaisent et qui me font très
+11:2711 minutes et 27 secondesplaisir. 4è 5e skill juste ici. Le dernier skill, il est juste ici, c'est thermuclé code quality review. C'est un des skills proposé par la team Cursor.
+11:3811 minutes et 38 secondesAlors, vous allez voir que sur ce ripo, vous allez trouver d'autres skills qui sont d'ailleurs très intéressants eux aussi. Donc juste ici dans cursor type
+11:4611 minutes et 46 secondesgit/skill, vous avez par exemple des slops mais nous on a impeccable qui fait qui résout déjà ça. Fixi, fix conflit et
+11:5511 minutes et 55 secondescetera. Alors je sais pas à quel point loop on cul celui-là il est sympa. Review and ship il est il est cool aussi mais
+12:0312 minutes et 3 secondesthermonucléire code quality review il est cool. Use this skill for usually strict review focus on implementation
+12:1012 minutes et 10 secondesquality maintainability abstraction and code by health. le le le skill est très complet avec ici perform une quality
+12:1912 minutes et 19 secondesreview. Ça va ici vérifier que tout a été corrigé. Ça résout le spaghetti
+12:2612 minutes et 26 secondescode, ça résout euh tout tout t tous les reviews avec beaucoup de règles. C'est assez bon. Et moi ce que j'aime bien faire en fait, c'est que dans mon
+Chapitre 9 : Plugin pour qualité du code
+12:3412 minutes et 34 secondesworkflow Apex, si je te montre euh ça donc dans agent juste ici, tu vas voir que Apex qui est tout en haut, on a ici
+12:4312 minutes et 43 secondesles steps, on a la step examine et tu peux voir que ici euh il vient lancer la thermonuclaire maintenability checklist
+12:5212 minutes et 52 secondesen lançant évidemment ce skill de thermonuclé agents parce que il y a
+12:5912 minutes et 59 secondesaussi une version agentique de ce truc thermonucléaire code quality review.
+13:0413 minutes et 4 secondesDonc vous pouvez pas vous pouvez soit le lancer avec le skill, soit le lancer en fait dans un agent directement. Et donc ici ça va venir démonter votre code pour
+13:1313 minutes et 13 secondess'assurer que ça fonctionne bien. Donc d'ailleurs je pense qu'ils ont mis à jour tout ça et donc là on pourrait changer. Je sais pas s'ils ont des sub
+13:2213 minutes et 22 secondesagents. Du coup ça c'est un skill mais c'est aussi peut-être un agent. Voilà.
+13:2813 minutes et 28 secondesOK. Il y a aussi la Gen juste ici. Donc là, donc là, vous voyez qu'en fait ce qu'ils ont fait depuis la dernière mise
+13:3413 minutes et 34 secondesà jour, c'est que ici le skill euh dit qu'il faut utiliser le thermonucléaire code quality review et ensuite ici on a
+13:4213 minutes et 42 secondesle skill. Au moins ça ça fait un ça fait un double down. Alors, comment l'installer ? He d'ailleurs si vous posez des questions, vous pouvez venir
+13:5013 minutes et 50 secondeslancer ça juste ici, venir coller, copier ceci et faire NPX skill ad. Et je
+13:5813 minutes et 58 secondespense que ici, il doit y avoir des infos. Voilà. Euh, on peut venir choisir euh NPX skill ad curplugin. Ici, vous avez tous les skills qui sont ici.
+Chapitre 10 : Installation globale des plugins IA
+14:1014 minutes et 10 secondesAlors, évidemment leur CLI de mort, il bug comme jamais, mais ici, vous pouvez rajouter thermuclé code quality review.
+14:1914 minutes et 19 secondesCelui-ci avec espace. Évidemment, on peut pas chercher ou alors si là, il est vraiment mal foutu, je suis désolé mais
+14:2514 minutes et 25 secondesici, hop, enter bom bom bom. Et là, évidemment, faut pas le faire en projet hein, mais faut le faire en en global.
+14:3314 minutes et 33 secondesCe que vous pouvez faire normalement, c'est juste appeler skill et mettre le nom du skill puis faire-
+14:4114 minutes et 41 secondeset ti et ici ça va tout simplement installer le skill globalement sur votre ordi. Donc moi, donc moi je l'avais déjà, il était juste ici. Et votre agent
+14:5014 minutes et 50 secondesva pouvoir utiliser ce skill. Très cool pour review votre code. Et donc si vous avez un workflow comme moi, moi Apex en fait ça vient lancer plusieurs workflow.
+14:5814 minutes et 58 secondesAlors si j'arrive à vous trouver le petit schéma. Alors après réflexion, il est pas si petit le schéma mais il est quand même là. Et donc vous allez voir qu'ici dans la phase examine, ça va
+15:0715 minutes et 7 secondeslancer des agents. Si ça fail, ça vient repasser là. Et ce qu'il faudrait afficher ici c'est qu'en fait la page
+15:1415 minutes et 14 secondesexamine vient faire un code quality, il vient faire un thermuclé. Donc là c'est vraiment pour tout voir.
+15:2115 minutes et 21 secondesEt ce que j'aime bien aussi, c'est un security check. Donc est-ce que l'authentification a bien été fait et cetera. Donc ça c'est ce qu'on appelle
+15:2915 minutes et 29 secondesdes baby agents qui vont être lancés par la phase examine et qui vont permettre en fait d'éviter de un polluer le
+Chapitre 11 : Workflow agentique et sécurité
+15:3715 minutes et 37 secondescontexte de votre main agents avec plein de bullshits qui lui servent à rien de éviter que votre agent se complète dans
+15:4515 minutes et 45 secondesses erreurs parce que en fait si le main agent fait des erreurs et que vous lui demandez de review son propre code, il
+15:5215 minutes et 52 secondesva pas se rendre compte des erreurs qu'il a fait. Il va dire "Mais les gars, moi moi ça me paraît ça me paraît bien ce que j'ai fait parce que je l'ai fait." C'est comme c'est comme toi quand
+16:0116 minutes et 1 secondetu crées un site, un design pour la première fois, tu te dis que c'est beau et tu reviens de mois après et tu as l'impression d'avoir fait le pire site de la terre. Et ben c'est la même chose avec Lia. Sauf qu'au lieu d'attendre 2
+16:1016 minutes et 10 secondesmois ici, tu peux venir lui créer une nouvelle mémoire juste ici avec les trois subadget. Et donc moi, Thermonuclé, c'est un des skills que j'ai volé et que je leur utilise du coup
+16:1816 minutes et 18 secondesà chaque fature que je réalise qui est assez assez satisfaisant et assez intéressant. En tout cas, c'est ce que
+16:2616 minutes et 26 secondesje pense et c'est ce que je vous présente. C'est ce que je vous présente aujourd'hui. Donc si vous voulez avoir tous mes skills et mes configurations, en général, vous pouvez aller sur mlv.sh/fc.
+16:3616 minutes et 36 secondesVous allez avoir accès au skill, à ma philosophie et cetera. Donc il y a beaucoup de de valeurs à aller récupérer juste ici. Et sinon, vous pouvez aller
+Chapitre 12 : Conclusion
+16:4516 minutes et 45 secondessur l'article de bloc que j'ai fait, donc sur codlinks.de dev, j'ai partagé voilà un petit mes cinq skills indispensables pour code qui vidéo mais
+16:5216 minutes et 52 secondescomme ça tu peux tout copier et aller un peu plus vite. Voilà pour tout et on se retrouve très bientôt pour une prochaine vidéo. C.
+
+Tout
+
+Source : Melvynx
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+
+33:41
+Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.
+Ludo Salenne
+192 vues
+•
+il y a 12 minutes
+Nouveau
+
+
+20:31
+Le RETOUR DE MON PERE CORÉEN dans la culture française…
+LeMondeDeChoi
+1,3 k vues
+•
+il y a 42 minutes
+Nouveau
+
+
+26:05
+Inside the Arms Race to Stop AI Deepfakes From Beating Identity Checks
+Stabledash
+2 vues
+•
+il y a 22 heures
+Nouveau
+
+
+16:30
+CES JEUX QUI M'ONT MARQUÉ - Baldur's Gate 3
+Bazar du Grenier
+1,8 M de vues
+•
+il y a 2 ans
+
+
+1:57:34
+L'expert en bonheur qui a rendu 51 millions de gens plus heureux : Mo Gawdat | E101
+The Diary Of A CEO
+ et Mo Gawdat
+3,3 M de vues
+•
+il y a 4 ans
+Doublée
+
+
+15:16
+Fable 5 est de retour (c'est vraiment le meilleur modèle ok...)
+Melvynx
+4,8 k vues
+•
+il y a 7 jours
+
+
+2:17:39
+#168 Tengo - Strongman : des hommes à part
+Biomécanique
+119 k vues
+•
+il y a 3 ans
+
+
+1:46:22
+Casey Neistat : pourquoi j'ai arrêté YouTube et ce que je fais maintenant !
+The Diary Of A CEO
+1,5 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+43:54
+SPECIALE BLIZZARD: PARTIE FINALE
+Bazar du Grenier
+1,2 M de vues
+•
+il y a 5 mois
+
+
+1:34:00
+SÉBASTIEN CHABAL: “JE ME SOUVIENS D’AUCUN MATCH” (AMNÉSIE, RENCONTRE VIRULENTE AVEC SON BEAU FILS)
+LEGEND
+1,4 M de vues
+•
+il y a 1 an
+
+
+21:55
+La façon SIMPLE d’inverser les cheveux gris (soutenue par la science)
+The Diary Of A CEO Clips
+300 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+28:58
+🥩REPAS DE SEIGNEUR #3 Feat PAPACITO Part 1/2
+BAPTISTENTX
+2,1 M de vues
+•
+il y a 5 ans
+
+34:56
+SPÉCIALE BLIZZARD
+Bazar du Grenier
+2,1 M de vues
+•
+il y a 9 mois
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+300 k vues
+•
+il y a 2 mois
+
+2:43:51
+Docteur Insuline et Glucose : Ceci fera fondre votre graisse très vite !
+The Diary Of A CEO
+7 M de vues
+•
+il y a 1 an
+Doublée
+
+2:38:38
+Expert Anti-Âge : Ceci Inverse les Cheveux Gris & Ce Mythe Vous Coûte Votre Santé !
+The Diary Of A CEO
+ et The Science and Experience of Energy
+2,6 M de vues
+•
+il y a 7 jours
+Doublée
+
+22:06
+LE PAYS OÙ SEGA EST ENCORE ROI
+Bazar du Grenier
+1 M de vues
+•
+il y a 1 mois
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 10 mois
+Doublée
+
+10:00
+Oussama A Accepté Le Débat
+Olivier Roland
+13 k vues
+•
+il y a 1 jour
+Nouveau
+
+1:59:58
+Expert en sexualité : l’addiction au smartphone tue votre vie sexuelle plus que le porno !
+The Diary Of A CEO
+ et Rena Malik, M.D.
+2,5 M de vues
+•
+il y a 2 mois
+Doublée
+
+    
