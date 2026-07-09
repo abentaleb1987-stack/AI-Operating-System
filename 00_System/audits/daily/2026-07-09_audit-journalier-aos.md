@@ -1,21 +1,21 @@
-﻿# Audit journalier AOS - 2026-07-09
+# Audit journalier AOS - 2026-07-09
 
 ## Resume executif
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 9f49cbc
+- Commit audite : 5db8178
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-09 08:28:17
+- Rapport genere le : 2026-07-09 11:39:55
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
 
-## Ã€ traiter par Aion
+## À traiter par Aion
 
 - Aucune alerte prioritaire.
 
-## Alertes traitÃ©es ou dÃ©jÃ  attÃ©nuÃ©es
+## Alertes traitées ou déjà atténuées
 
 - Aucune alerte traitee ou attenuee detectee.
 
@@ -25,15 +25,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `9f49cbc` - 2026-07-08 10:20:01 +0200 - Knowledge batch - docs(aos): process Aywen Codex agentic game source
-- `85ffe38` - 2026-07-08 10:15:34 +0200 - Audit - ci(aos): add backup schedule for daily audit
-- `62d458c` - 2026-07-08 09:57:56 +0200 - Audit - docs(aos): add Aion decision for daily audit 2026-07-08
+- `5db8178` - 2026-07-09 08:56:48 +0200 - Audit - docs(aos): add daily audit report 2026-07-09
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- `9f49cbc` - 2026-07-08 10:20:01 +0200 - docs(aos): process Aywen Codex agentic game source
+- Aucun commit.
 
 ### Protocol / system
 
@@ -45,31 +43,26 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `85ffe38` - 2026-07-08 10:15:34 +0200 - ci(aos): add backup schedule for daily audit
-- `62d458c` - 2026-07-08 09:57:56 +0200 - docs(aos): add Aion decision for daily audit 2026-07-08
+- `5db8178` - 2026-07-09 08:56:48 +0200 - docs(aos): add daily audit report 2026-07-09
 
-## Commits ignorÃ©s pour audit connaissance
+## Commits ignorés pour audit connaissance
 
-- `85ffe38` - 2026-07-08 10:15:34 +0200 - Audit - ci(aos): add backup schedule for daily audit
-- `62d458c` - 2026-07-08 09:57:56 +0200 - Audit - docs(aos): add Aion decision for daily audit 2026-07-08
+- `5db8178` - 2026-07-09 08:56:48 +0200 - Audit - docs(aos): add daily audit report 2026-07-09
 
-## MÃ©thode dâ€™analyse Git
+## Méthode d’analyse Git
 
-- Nombre de commits analyses : 3
+- Nombre de commits analyses : 1
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-08_audit-journalier-aos.md
-- A 00_System/audits/daily/2026-07-08_decision-aion-audit.md
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation_transcript.txt
-- A 02_IA/Codex/veille/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation.md
+- A 00_System/audits/daily/2026-07-09_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M .github/workflows/aos-daily-audit.yml
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
@@ -85,13 +78,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- A 02_IA/Codex/veille/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation.md
+- Aucun element detecte.
 
 ## Sources traitees
 
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-08_youtube_aywen_claude-codex-agentic-game-generation_transcript.txt
+- Aucun element detecte.
 
-## Toutes les alertes dÃ©tectÃ©es
+## Toutes les alertes détectées
 
 ### AUDIT-20260709-001 - hygiene
 
@@ -126,7 +119,7 @@ Dernieres 24h ou fallback 10 commits recents
 ## Etat Git final
 
 ```text
-?? 00_System/audits/daily/2026-07-09_audit-journalier-aos.md
+(propre)
 ```
 
 ## Limites de l'audit
@@ -135,4 +128,3 @@ Dernieres 24h ou fallback 10 commits recents
 - Ne verifie pas la veracite externe des informations.
 - Ne remplace pas la decision qualitative d'Aion.
 - Ne corrige aucun contenu automatiquement.
-
