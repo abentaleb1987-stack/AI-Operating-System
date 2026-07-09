@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 5db8178
+- Commit audite : 5490f2f
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-09 11:39:55
+- Rapport genere le : 2026-07-09 17:04:51
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `5490f2f` - 2026-07-09 11:39:55 +0000 - Audit - docs(aos): add daily audit report
 - `5db8178` - 2026-07-09 08:56:48 +0200 - Audit - docs(aos): add daily audit report 2026-07-09
 
 ## Classification des commits
@@ -43,15 +44,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `5490f2f` - 2026-07-09 11:39:55 +0000 - docs(aos): add daily audit report
 - `5db8178` - 2026-07-09 08:56:48 +0200 - docs(aos): add daily audit report 2026-07-09
 
 ## Commits ignorés pour audit connaissance
 
+- `5490f2f` - 2026-07-09 11:39:55 +0000 - Audit - docs(aos): add daily audit report
 - `5db8178` - 2026-07-09 08:56:48 +0200 - Audit - docs(aos): add daily audit report 2026-07-09
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -62,7 +65,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- Aucun element detecte.
+- M 00_System/audits/daily/2026-07-09_audit-journalier-aos.md
 
 ## Fiches permanentes impactees
 
