@@ -20,6 +20,9 @@ Source brute -> Detection IA / outil / framework -> Routage -> Fiche de veille -
 
 Si plusieurs fichiers sont presents, traite tout le batch automatiquement, source par source, sans intervention intermediaire.
 
+GO AOS vaut autorisation prealable pour toutes les operations standards du workflow AOS.
+Ne demande pas confirmation entre les etapes standards du workflow GO AOS.
+
 Respecte :
 - 00_System/automation/AOS_PROCESS.md
 - 00_System/automation/AOS_ROUTING_RULES.md
@@ -113,10 +116,15 @@ Contraintes :
 
 ## Regles pour Codex
 
+- `GO AOS` vaut autorisation prealable pour toutes les operations standards du workflow AOS.
 - Executer jusqu'au push GitHub si le traitement produit des modifications utiles.
 - Scanner tous les fichiers presents dans les dossiers `a_traiter/`.
 - Traiter les sources une par une.
 - Ne pas demander d'intervention intermediaire sauf blocage critique.
+- Ne pas demander confirmation entre les etapes standards du workflow `GO AOS`.
+- Operations standards autorisees sans redemande : lire les sources dans `a_traiter/`, analyser les sources, detecter le sujet reel, creer une fiche de veille, mettre a jour une fiche permanente si justifie, creer une fiche permanente si le sujet est clairement principal et durable, deplacer les sources traitees vers `traitees/`, renommer les sources selon la convention AOS, ignorer les doublons deja capitalises, creer un rapport final, executer `git add` sur les fichiers modifies par le workflow, executer `git commit`, executer `git push origin main`, verifier le `git status --short` final.
+- Demander confirmation uniquement pour : suppression definitive de fichier hors deplacement normal vers `traitees/`, rollback Git, `git reset --hard`, force push, modification du workflow GitHub Actions, modification des scripts systeme critiques, modification massive ou restructuration complete d'une fiche permanente majeure, source ambigue avec risque fort de mauvais routage, conflit Git non trivial, erreur bloquante ou risque de perte de donnees.
+- Si une autorisation technique est imposee par l'environnement, demander l'autorisation une seule fois, preciser qu'elle couvre tout le `GO AOS` en cours, puis continuer sans redemander pour chaque etape standard.
 - Ne pas inventer d'information.
 - En cas d'incertitude, creer la fiche de veille et conserver les informations en `A surveiller`.
 - Ne pas enrichir une fiche permanente avec des informations faibles.

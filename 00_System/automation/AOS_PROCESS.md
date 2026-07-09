@@ -114,6 +114,44 @@ Source brute
 -> Rapport final
 ```
 
+## Autorisation prealable GO AOS
+
+`GO AOS` vaut autorisation prealable pour toutes les operations standards du workflow AOS.
+
+Codex ne doit pas demander confirmation entre les etapes standards du workflow `GO AOS`, tant que les actions restent dans le perimetre AOS prevu.
+
+Operations standards autorisees sans redemande :
+
+- lire les sources dans `a_traiter/` ;
+- analyser les sources ;
+- detecter le sujet reel ;
+- creer une fiche de veille ;
+- mettre a jour une fiche permanente si l'information est justifiee ;
+- creer une fiche permanente si le sujet est clairement principal et durable ;
+- deplacer les sources traitees vers `traitees/` ;
+- renommer les sources selon la convention AOS ;
+- ignorer les doublons deja capitalises ;
+- creer un rapport final ;
+- executer `git add` sur les fichiers modifies par le workflow ;
+- executer `git commit` ;
+- executer `git push origin main` ;
+- verifier le `git status --short` final.
+
+Exceptions necessitant encore une confirmation explicite :
+
+- suppression definitive de fichier hors deplacement normal vers `traitees/` ;
+- rollback Git ;
+- `git reset --hard` ;
+- force push ;
+- modification du workflow GitHub Actions ;
+- modification des scripts systeme critiques ;
+- modification massive ou restructuration complete d'une fiche permanente majeure ;
+- source ambigue avec risque fort de mauvais routage ;
+- conflit Git non trivial ;
+- erreur bloquante ou risque de perte de donnees.
+
+Si Codex rencontre une demande d'autorisation technique imposee par l'environnement, il doit demander l'autorisation une seule fois, preciser que cette autorisation couvre tout le `GO AOS` en cours, puis continuer sans redemander pour chaque etape standard.
+
 ## Regle fondamentale
 
 La fiche permanente est la source de verite durable.

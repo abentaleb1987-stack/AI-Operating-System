@@ -16,6 +16,10 @@ git push origin main
 git status --short
 ```
 
+Dans un `GO AOS`, ce cycle Git fait partie des operations standards preautorisees.
+
+Codex ne doit pas redemander confirmation pour `git status --short`, `git add`, `git commit` ou `git push origin main` lorsque ces commandes correspondent aux fichiers modifies par le workflow AOS en cours.
+
 ## Message de commit
 
 Le message de commit doit etre court, explicite et adapte au sujet detecte.
@@ -78,3 +82,11 @@ Si une erreur critique apparait pendant le batch, Codex doit arreter le traiteme
 Codex ne doit pas utiliser de commande destructive.
 
 Codex ne doit pas revert des modifications utilisateur sans demande explicite.
+
+Les operations Git suivantes restent hors perimetre standard et necessitent une confirmation explicite :
+
+- rollback Git ;
+- `git reset --hard` ;
+- force push ;
+- resolution d'un conflit Git non trivial ;
+- revert de modifications utilisateur.
