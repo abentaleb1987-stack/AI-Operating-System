@@ -142,6 +142,46 @@ Contraintes :
 - A la fin du batch, executer `git status --short`, `git add .`, un seul commit global, `git push origin main`, puis `git status --short`.
 - Produire un rapport final consolide clair.
 
+## Limite importante — autorisations techniques Codex
+
+`GO AOS` vaut autorisation metier et autorisation de workflow pour toutes les operations standards AOS. Cette preautorisation interdit les demandes de validation conversationnelle entre les etapes standards.
+
+Cependant, si Codex est lance dans un mode local qui impose des confirmations techniques par commande ou famille de commandes, AOS ne peut pas supprimer ces confirmations. L'utilisateur doit alors soit lancer Codex dans un mode trusted ou autonome adapte au depot AOS, soit choisir les options `Yes, and don't ask again...` pour les familles de commandes standards, soit accepter qu'un `GO AOS` reste partiellement manuel.
+
+Si l'interface Codex impose une validation technique, la premiere demande doit etre formulee ainsi :
+
+> Cette autorisation technique couvre le GO AOS en cours. Pour eviter les validations repetees, utilisez l'option don't ask again lorsque Codex la propose pour les commandes standards du workflow.
+
+Familles de commandes standards que l'utilisateur peut autoriser sans redemande dans ce depot :
+
+- `Get-Content` ;
+- `Get-ChildItem` ;
+- `Select-String` ;
+- `New-Item` ;
+- `Set-Content` ;
+- `Move-Item` ;
+- `git status` ;
+- `git diff` ;
+- `git add` ;
+- `git commit` ;
+- `git push` ;
+- `git log` ;
+- `git rev-parse`.
+
+Pour reduire les confirmations techniques, Codex doit regrouper l'execution en une lecture initiale des regles et templates, une analyse groupee des sources, une phase unique d'ecriture et une phase unique de `git add` / `git commit` / `git push`. Il doit eviter les series repetitives de `Get-Content`, `Select-String` et `Get-ChildItem` lorsqu'une seule commande groupee suffit.
+
+Meme en mode automatise, Codex doit encore demander confirmation pour :
+
+- `git reset --hard` ;
+- `git clean` ;
+- force push ;
+- suppression definitive hors deplacement standard vers `traitees/` ;
+- modification des workflows GitHub Actions ;
+- modification des scripts systeme critiques ;
+- restructuration massive d'une fiche permanente majeure ;
+- conflit Git non trivial ;
+- risque de perte de donnees.
+
 ## Rapport consolide obligatoire
 
 Le rapport final d'un batch doit contenir :

@@ -152,6 +152,58 @@ Exceptions necessitant encore une confirmation explicite :
 
 Si Codex rencontre une demande d'autorisation technique imposee par l'environnement, il doit demander l'autorisation une seule fois, preciser que cette autorisation couvre tout le `GO AOS` en cours, puis continuer sans redemander pour chaque etape standard.
 
+## Limite importante — autorisations techniques Codex
+
+`GO AOS` vaut autorisation metier et autorisation de workflow pour toutes les operations standards AOS.
+
+Cependant, si Codex est lance dans un mode local qui impose des confirmations techniques par commande ou famille de commandes, AOS ne peut pas supprimer ces confirmations.
+
+Dans ce cas, l'utilisateur doit soit :
+
+- lancer Codex dans un mode trusted ou autonome adapte au depot AOS ;
+- choisir les options `Yes, and don't ask again...` proposees par Codex pour les familles de commandes standards ;
+- accepter qu'un `GO AOS` reste partiellement manuel.
+
+Codex ne doit pas demander une validation conversationnelle entre les etapes standards. Si l'interface Codex impose une validation technique, Codex doit formuler la premiere demande ainsi :
+
+> Cette autorisation technique couvre le GO AOS en cours. Pour eviter les validations repetees, utilisez l'option don't ask again lorsque Codex la propose pour les commandes standards du workflow.
+
+Familles de commandes standards `GO AOS` que l'utilisateur peut autoriser sans redemande dans ce depot :
+
+- `Get-Content` ;
+- `Get-ChildItem` ;
+- `Select-String` ;
+- `New-Item` ;
+- `Set-Content` ;
+- `Move-Item` ;
+- `git status` ;
+- `git diff` ;
+- `git add` ;
+- `git commit` ;
+- `git push` ;
+- `git log` ;
+- `git rev-parse`.
+
+Pour un `GO AOS`, Codex doit reduire les appels shell disperses. Il doit privilegier :
+
+- une lecture initiale groupee des regles et templates ;
+- une analyse groupee des sources ;
+- une phase unique d'ecriture ;
+- une phase unique de `git add` / `git commit` / `git push` ;
+- l'evitement des series repetitives de `Get-Content`, `Select-String` et `Get-ChildItem` lorsqu'une seule commande groupee suffit.
+
+Meme en mode automatise, une confirmation explicite reste obligatoire pour :
+
+- `git reset --hard` ;
+- `git clean` ;
+- force push ;
+- suppression definitive hors deplacement standard vers `traitees/` ;
+- modification des workflows GitHub Actions ;
+- modification des scripts systeme critiques ;
+- restructuration massive d'une fiche permanente majeure ;
+- conflit Git non trivial ;
+- risque de perte de donnees.
+
 ## Regle fondamentale
 
 La fiche permanente est la source de verite durable.

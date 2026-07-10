@@ -20,6 +20,10 @@ Dans un `GO AOS`, ce cycle Git fait partie des operations standards preautorisee
 
 Codex ne doit pas redemander confirmation pour `git status --short`, `git add`, `git commit` ou `git push origin main` lorsque ces commandes correspondent aux fichiers modifies par le workflow AOS en cours.
 
+Cette preautorisation est une autorisation metier AOS. Elle ne peut pas supprimer une confirmation technique imposee par le mode d'execution local de Codex. Lorsque l'interface le permet, l'utilisateur peut autoriser sans redemande les familles `git status`, `git diff`, `git add`, `git commit`, `git push`, `git log` et `git rev-parse` pour ce depot.
+
+Codex doit regrouper les operations Git standards dans une seule phase de fin de workflow et eviter de disperser plusieurs cycles `git add` / `git commit` / `git push`.
+
 ## Message de commit
 
 Le message de commit doit etre court, explicite et adapte au sujet detecte.
@@ -87,6 +91,8 @@ Les operations Git suivantes restent hors perimetre standard et necessitent une 
 
 - rollback Git ;
 - `git reset --hard` ;
+- `git clean` ;
 - force push ;
 - resolution d'un conflit Git non trivial ;
-- revert de modifications utilisateur.
+- revert de modifications utilisateur ;
+- toute operation presentant un risque de perte de donnees.
