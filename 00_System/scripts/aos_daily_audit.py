@@ -11,6 +11,7 @@ import argparse
 import datetime as dt
 import re
 import subprocess
+import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -82,6 +83,8 @@ UNCERTAINTY_ALLOWED_SECTION_TERMS = (
     "Ã©volutions",
     "évolutions",
     "points a surveiller",
+    "limites",
+    "faiblesses",
     "points Ã  surveiller",
     "points à surveiller",
 )
@@ -133,6 +136,14 @@ class Alert:
     path: str
     observation: str
     recommendation: str
+
+
+@dataclass(frozen=True)
+class LexicalMatch:
+    term: str
+    line_number: int
+    passage: str
+    section: str
 
 
 def run_git(args: list[str], check: bool = True) -> str:
@@ -323,6 +334,57 @@ def read_text(path: str) -> str:
     return file_path.read_text(encoding="utf-8", errors="replace")
 
 
+def normalize_for_matching(text: str) -> str:
+    """Normalize case and accents without losing word or line boundaries."""
+    decomposed = unicodedata.normalize("NFKD", text)
+    return "".join(char for char in decomposed if not unicodedata.combining(char)).lower()
+
+
+def whole_term_pattern(term: str) -> re.Pattern[str]:
+    parts = [re.escape(part) for part in normalize_for_matching(term).strip().split()]
+    expression = r"\s+".join(parts)
+    return re.compile(rf"(?<!\w){expression}(?!\w)", re.IGNORECASE)
+
+
+def lexical_matches(
+    path: str, terms: tuple[str, ...], *, section_mode: str = "all"
+) -> list[LexicalMatch]:
+    """Find complete terms and retain the triggering section and passage."""
+    patterns = [(term, whole_term_pattern(term)) for term in terms]
+    matches: list[LexicalMatch] = []
+    section = "Hors section"
+    normalized_section = ""
+    allowed_sections = tuple(normalize_for_matching(term) for term in UNCERTAINTY_ALLOWED_SECTION_TERMS)
+    strong_sections = tuple(normalize_for_matching(term) for term in STRONG_SECTION_TERMS)
+
+    for line_number, line in enumerate(read_text(path).splitlines(), start=1):
+        stripped = line.strip()
+        normalized_line = normalize_for_matching(stripped)
+        if stripped.startswith("#"):
+            section = stripped.lstrip("#").strip() or "Hors section"
+            normalized_section = normalize_for_matching(section)
+            continue
+
+        in_allowed = any(term in normalized_section for term in allowed_sections)
+        in_strong = any(term in normalized_section for term in strong_sections)
+        if section_mode == "outside_allowed" and in_allowed:
+            continue
+        if section_mode == "strong" and not in_strong:
+            continue
+        for term, pattern in patterns:
+            if pattern.search(normalized_line):
+                matches.append(LexicalMatch(term, line_number, stripped, section))
+    return matches
+
+
+def lexical_observation(prefix: str, match: LexicalMatch) -> str:
+    passage = match.passage if len(match.passage) <= 180 else f"{match.passage[:177]}..."
+    return (
+        f'{prefix} Terme : "{match.term}" ; section : "{match.section}" ; '
+        f'ligne {match.line_number} : "{passage}".'
+    )
+
+
 def added_line_count(commit: str, path: str) -> int:
     raw = run_git(["show", "--numstat", "--format=", commit, "--", path], check=False)
     total = 0
@@ -413,7 +475,6 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
                 )
             )
             continue
-        text = read_text(item.path).lower()
         added = max((added_line_count(commit, item.path) for commit in commits), default=0)
         if item.path.startswith(MAJOR_PREFIXES) and added >= 50:
             alerts.append(
@@ -435,23 +496,31 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
                     recommendation="Verifier que les ajouts restent synthetiques et consolides.",
                 )
             )
-        if speculation_terms_outside_allowed_sections(item.path):
+        speculation_matches = speculation_matches_requiring_review(item.path)
+        if speculation_matches:
+            match = speculation_matches[0]
             alerts.append(
                 Alert(
                     level="moyen",
                     category="speculation",
                     path=item.path,
-                    observation="Termes d'incertitude detectes dans une fiche permanente.",
+                    observation=lexical_observation(
+                        "Formulation speculative detectee dans une section forte.", match
+                    ),
                     recommendation="Verifier que ces elements restent en points a surveiller et ne sont pas presentes comme faits valides.",
                 )
             )
-        if any(term in text for term in MARKETING_TERMS):
+        marketing_matches = lexical_matches(item.path, MARKETING_TERMS)
+        if marketing_matches:
+            match = marketing_matches[0]
             alerts.append(
                 Alert(
                     level="moyen",
                     category="marketing integre",
                     path=item.path,
-                    observation="Termes marketing ou sponsorises detectes dans une fiche permanente.",
+                    observation=lexical_observation(
+                        "Terme marketing ou sponsorise detecte dans une fiche permanente.", match
+                    ),
                     recommendation="Verifier que le marketing est exclu des connaissances durables.",
                 )
             )
@@ -626,30 +695,16 @@ def alert_treated_or_attenuated(alert: Alert, infos: list[CommitInfo]) -> bool:
 
 
 def text_in_strong_section(path: str, terms: tuple[str, ...]) -> bool:
-    lines = read_text(path).splitlines()
-    in_strong_section = False
-    for line in lines:
-        stripped = line.strip().lower()
-        if stripped.startswith("#"):
-            in_strong_section = any(section in stripped for section in STRONG_SECTION_TERMS)
-            continue
-        if in_strong_section and any(term in stripped for term in terms):
-            return True
-    return False
+    return bool(lexical_matches(path, terms, section_mode="strong"))
 
 
 def speculation_terms_outside_allowed_sections(path: str) -> bool:
-    lines = read_text(path).splitlines()
-    in_allowed_section = False
-    found_outside = False
-    for line in lines:
-        stripped = line.strip().lower()
-        if stripped.startswith("#"):
-            in_allowed_section = any(section in stripped for section in UNCERTAINTY_ALLOWED_SECTION_TERMS)
-            continue
-        if any(term in stripped for term in SPECULATION_TERMS) and not in_allowed_section:
-            found_outside = True
-    return found_outside
+    return bool(lexical_matches(path, SPECULATION_TERMS, section_mode="outside_allowed"))
+
+
+def speculation_matches_requiring_review(path: str) -> list[LexicalMatch]:
+    """Weak/monitoring sections are contextual; strong knowledge sections are reviewable."""
+    return lexical_matches(path, SPECULATION_TERMS, section_mode="strong")
 
 
 def is_priority_candidate(alert: Alert) -> bool:
@@ -769,7 +824,7 @@ def render_report(since_hours: int, fallback_count: int) -> str:
     classes = classify_files(files)
     alerts = detect_alerts(knowledge_files, knowledge_commits)
     aion_priority_alerts, treated_alerts = split_aion_alerts(alerts, infos)
-    risk = priority_risk(aion_priority_alerts)
+    risk = highest_risk(alerts)
     decision = audit_decision(aion_priority_alerts)
     status = run_git(["status", "--short"], check=False)
     head = run_git(["rev-parse", "--short", "HEAD"], check=False)
