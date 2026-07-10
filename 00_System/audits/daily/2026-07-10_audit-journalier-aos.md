@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : defb374
+- Commit audite : e96a1e5
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-10 11:29:16
+- Rapport genere le : 2026-07-10 16:34:50
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 3
@@ -25,17 +25,19 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `e96a1e5` - 2026-07-10 14:59:54 +0200 - Knowledge batch - docs(aos): archive duplicate video source
+- `25d008d` - 2026-07-10 11:29:16 +0000 - Audit - docs(aos): add daily audit report
 - `defb374` - 2026-07-10 12:14:18 +0200 - Protocol / system - docs(aos): clarify Codex technical approvals for GO AOS
 - `8ad1a9c` - 2026-07-10 11:51:08 +0200 - Knowledge batch - docs(aos): process video source batch
 - `a886e4a` - 2026-07-10 00:25:42 +0200 - Protocol / system - docs(aos): clarify GO AOS pre-authorized workflow
 - `658b71e` - 2026-07-10 00:12:14 +0200 - Knowledge batch - docs(aos): process video source batch
 - `e07f6ba` - 2026-07-09 17:04:51 +0000 - Audit - docs(aos): add daily audit report
-- `5490f2f` - 2026-07-09 11:39:55 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
+- `e96a1e5` - 2026-07-10 14:59:54 +0200 - docs(aos): archive duplicate video source
 - `8ad1a9c` - 2026-07-10 11:51:08 +0200 - docs(aos): process video source batch
 - `658b71e` - 2026-07-10 00:12:14 +0200 - docs(aos): process video source batch
 
@@ -50,27 +52,29 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `25d008d` - 2026-07-10 11:29:16 +0000 - docs(aos): add daily audit report
 - `e07f6ba` - 2026-07-09 17:04:51 +0000 - docs(aos): add daily audit report
-- `5490f2f` - 2026-07-09 11:39:55 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `25d008d` - 2026-07-10 11:29:16 +0000 - Audit - docs(aos): add daily audit report
 - `defb374` - 2026-07-10 12:14:18 +0200 - Protocol / system - docs(aos): clarify Codex technical approvals for GO AOS
 - `a886e4a` - 2026-07-10 00:25:42 +0200 - Protocol / system - docs(aos): clarify GO AOS pre-authorized workflow
 - `e07f6ba` - 2026-07-09 17:04:51 +0000 - Audit - docs(aos): add daily audit report
-- `5490f2f` - 2026-07-09 11:39:55 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 6
+- Nombre de commits analyses : 7
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-07-10_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-09_youtube_aywen_claude-codex-agentic-game-generation_01_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-09_youtube_melvynx_skills-claude-code-codex-workflow_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_codex_workflow_aos_01.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_melvynx_gpt-5-6-codex-comparatif-coding_transcript.txt
 - A 02_IA/ChatGPT/veille/2026-07-10_youtube_melvynx_gpt-5-6-codex-comparatif-coding.md
 - A 02_IA/Claude Code/veille/2026-07-09_youtube_melvynx_skills-claude-code-codex-workflow.md
@@ -106,6 +110,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-09_youtube_aywen_claude-codex-agentic-game-generation_01_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-09_youtube_melvynx_skills-claude-code-codex-workflow_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_codex_workflow_aos_01.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_melvynx_gpt-5-6-codex-comparatif-coding_transcript.txt
 
 ## Toutes les alertes détectées
