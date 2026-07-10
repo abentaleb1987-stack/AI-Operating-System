@@ -1,0 +1,742 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+GPT 5.6 DÉTRUIT Fable (sans avoir besoin de mentir sur leur marketing)
+Melvynx
+Melvynx
+61,9 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Enregistrer
+
+Télécharger
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+10 juil. 2026  #ia #ai #intelligenceartificielle
+Ma formation IA : https://mlv.sh/Nuj1A3n
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Comparaison benchmark Claude et GPT
+3:00 - Analyse des nouveaux modèles GPT
+4:30 - Intelligence et coût des modèles
+6:00 - Intégration GPT dans le workflow
+7:30 - Comparaison interface Timezone
+9:00 - Analyse du code généré
+10:30 - Test de performance GPT Ultra
+12:15 - Simulation CarCrash physique
+13:45 - Comparaison avec Claude
+15:15 - Test animation Rocket Launch
+17:00 - Test du Drawing Editor
+18:30 - Correction des erreurs de code
+20:15 - Comparaison des éditeurs graphiques
+21:45 - Analyse des limites des modèles
+23:15 - Test simulation écosystème
+24:45 - Analyse des performances et vitesse
+26:15 - Conclusion et avis final
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+AI Builder Mobile : https://mlv.sh/fm
+NowStack SaaS : https://mlv.sh/fn
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx analyse les performances du nouveau modèle GPT 5.6 en le comparant directement à Claude Fable sur plusieurs cas d'usage techniques. À travers différents tests pratiques, Melvynx examine l'efficacité du codage, la gestion des ressources et la qualité des interfaces générées par ces outils d'intelligence artificielle pour les développeurs.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+61,9 k abonnés
+Vidéos
+À propos
+7 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@AmixDigital
+il y a 1 heure
+C'est dommage que l'on ait pas encore GPT 5.6 Sol Pro sur le benchmark DeepSWE.
+
+
+
+Répondre
+
+
+@rychtwins97
+il y a 1 heure (modifié)
+GTP 5.6 Sol a peter mes tokens de la semaine hier en un seul Audit alors que j'ai un abonnement Pro mais il m'a resolu les problemes que Fable n'a pas pu detecter
+
+
+
+Répondre
+
+
+@arthurhackerman4693
+il y a 1 heure
+les nouveaux écrase toujours les anciens
+
+2
+
+
+Répondre
+
+
+@officier_ia
+
+il y a 1 heure
+First
+
+2
+
+
+Répondre
+
+
+@rychtwins97
+il y a 59 minutes
+Bizzarement la ou Mythos est bloque en usage public, GPT 5.6 Sol n'est pas le cas
+
+
+
+Répondre
+
+
+@antoinegeneration9649
+il y a 25 minutes (modifié)
+La différence est que Fable est à presque 2 génération que GPT 5.6 
+Ce qui veut dire que Mythos peut à tout moment sortir leur prochaine version. Donc ...
+Et puis sur ce modèle le benchmark qui n’a pas accès au vrai mythos utilise un modèle bridé, après on peut se dire ça ne sert à rien d'évoquer Mythos si personne ne peut l'utiliser, on compare à Fable qui lui est sur le marché, et c’est vrai
+
+
+Le car crash tu as menti, la version de GPT est médiocre, regarde le design de Fable de la voire, briques rien à voir
+
+Même le jeu de la vie là, tu dis réellement que la version de GPT est meilleure que celle d’opus?
+T’es vraiment jamais honnête en fait
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00Attends, attends, attends. Tu peux taper maintenant sur ton browser mlv.sh/formationai et tu vas pouvoir rejoindre les plus de
+0:088 secondes14000 personnes qui ont ici rejoint ma mini formation cloud codex cursor avec
+0:1616 secondesma configuration gratuite de skill et d'outils que j'utilise au quotidien ainsi qu'une des petits tutoriels qui vont t'apprendre à devenir un ai
+0:2525 secondesenginer. Alors ici, tu peux juste savoir et cliquer sur je sais coder ou "Je sais pas coder" et ensuite tu peux rentrer
+0:3232 secondeston email, ton prénom et tu vas pouvoir recevoir ça gratuitement. Donc tu peux t'arrêter tout de suite, aller sur le lien qui est juste en dessous de cette
+0:3939 secondesvidéo ou taper mlv.sh/fa SH/FA pour t'inscrire immédiatement à cette masterclass gratuite. Les amis, la
+0:4646 secondesdomination du modèle Cloud Fable sur 10W qui est maintenant le benchmark que tout le monde s'accorde à dire qui est
+0:5353 secondesvraiment super et qui permet toujours d'avoir une vraie vibe sur les modèles.
+0:5959 secondesS'est fait battre de quelques points ici avec GPT 5.6 sol.
+1:061 minute et 6 secondesAlors, je sais c'est toujours dur à comprendre ces benchmarks et cetera, hein. On a on a deux axes principals juste ici. Le premier axe ici, c'est
+1:131 minute et 13 secondesl'intelligence. Donc à quel point le modèle est doué. On peut voir que juste ici, en terme d'intelligence, on se retrouve avec un GPT 5.6 qui est le top
+1:231 minute et 23 secondestiers, mais le plus important, c'est le prix. Combien va te coûter chacune des tâches ? Et là, on peut voir qu'un fable
+Chapitre 2 : Comparaison benchmark Claude et GPT
+1:301 minute et 30 secondesqui euh est ici, on va dire, à son meilleur par rapport à son prix. score à 70 % pour environ 13 dollars quand un
+1:391 minute et 39 secondesGPT 5.6 col sol ici score à 73 % donc 3 % plus pour presque deux fois moins cher
+1:481 minute et 48 secondesun peu moins pour 8 dollars contre ici 13 dollars assez intéressant donc ici on peut voir qu'on a GPT 5.6 sol qui a
+1:571 minute et 57 secondesatomisé les les autres modèles avec un 73 % juste ici. Et on peut voir que le prix ici est indécent. Donc ici, quand
+2:052 minutes et 5 secondeson prend le max et le max, on se retrouve à 8 dollars contre 21 dollars.
+2:102 minutes et 10 secondesC'est indécent. Euh ensuite, on a le nouveau modèle qui s'appelle GPT 5.6 Terra qui ici score à 70 %, aussi bon
+2:202 minutes et 20 secondesque Fable, ce qui est quand même assez fou pour deux fois moins cher que ici Sol, ce qui est un super modèle. Et on a
+2:292 minutes et 29 secondesGPT 5.6 Luna. Donc ça c'est le plus petit modèle. Et donc là, ça devient étrange entre nous euh ce ce graphique
+2:372 minutes et 37 secondesparce que GPT 5.6 Luna score à 67 %, mieux que Opus et Sony tout en coûtant
+2:452 minutes et 45 secondes3llars 3. Est-ce que c'est bon pour vous ? Alors dans cette vidéo euh en terme de test, on ne va pas tester le Terra ni le
+2:532 minutes et 53 secondesLuna parce que j'ai eu la flemme de d'exécuter des dizaines de projets. Ici, on veut tester le meilleur modèle. Donc, on va tester le modèle seul. Mais avant
+Chapitre 3 : Analyse des nouveaux modèles GPT
+3:023 minutes et 2 secondesça, on va regarder quand même Artificial Intelligence qui montre toujours énormément de de graphiques intéressants. Donc lui en terme
+3:113 minutes et 11 secondesd'intelligence, il garde Fable comme le plus intelligent à un point de différence. On peut donc se dire que les deux modèles sont un peu près aussi
+3:193 minutes et 19 secondesintelligents. En terme de coding index, cette fois c'est un point de différence pour GPT 5.6 qui serait meilleur que
+3:293 minutes et 29 secondesFable 5 avec Fallback. Donc évidemment, il y a le il y a le il y a le problème de de safety issue et en agency cardex GPT 5.6 ici qui a 1,4 points en plus.
+3:413 minutes et 41 secondesEncore une fois, ce qui est le plus intellig intéressant, c'est le prix par tâche. Et là, on peut voir que malgré
+3:483 minutes et 48 secondesque GPT 5.6 Sol Max est plus intelligent sur le code et sur la joystick, il coûte
+3:563 minutes et 56 secondesprès de 1,70 moins cher que Claude Fable 5. OK, c'est
+4:044 minutes et 4 secondesimmense. Et si on regarde intelligence versus cost et qu'on s'amuse à récupérer juste les meilleurs modèles. Donc ici, on va choisir Fable, on va choisir 5.
+4:154 minutes et 15 secondesTerra 5 A. On peut se retrouver ici avec certes une intelligence qui est au top de sa forme ici avec Claude Fable mais
+4:244 minutes et 24 secondesavec un prix exorbitant. OK, donc ici on est à 3 dollars contre les trois modèles
+Chapitre 4 : Intelligence et coût des modèles
+4:304 minutes et 30 secondesde GPT ici qui reste une intelligence très bonne. Donc ici on est à 59, ici on est à 60 et pourtant on se retrouve avec
+4:394 minutes et 39 secondesun prix beaucoup plus bas, ce qui est évidemment super intéressant pour nous les développeurs. Alors, je me suis un
+4:464 minutes et 46 secondespeu amusé évidemment. un chac. J'ai lancé chat GPT avec un max de tâches. On peut voir qu'ils sont toujours en train de travailler. Donc je commence la vidéo
+4:544 minutes et 54 secondesmais on va pouvoir regarder. Et la première petite tâche que j'avais envie de faire, c'est comparer extra high et
+5:015 minutes et 1 secondeultra ici avec cette histoire de time zone. Alors je sais pas s'il a gardé mon serveur allumé ou s'il a décidé d'arrêter de bosser. Voilà, il a décidé
+5:105 minutes et 10 secondesd'arrêter de bosser. Donc là relaunch et je vais lui demander à lui aussi relaunch. Alors, par la même occasion, pendant que je suis ici et qu'on attend
+5:185 minutes et 18 secondesque les modèles se chargent, euh une énorme nouveauté, c'est aussi le fait que on va se retrouver ici avec un avec
+5:265 minutes et 26 secondesun modèle avec un une application GPT5.6 qui est maintenant dans chat GPT. OK ?
+5:325 minutes et 32 secondesDonc là, on peut voir que c'est plus écrit codex mais que c'est écrit chat GPT et qu'on se retrouve ici avec codex et work qui se situe ici. Alors, à voir
+5:415 minutes et 41 secondesce que c'est ce work. Évidemment, ce work c'est une sorte de pâle copie ou tentative de copie évidemment de cork.
+5:515 minutes et 51 secondesMais le plus intéressant, c'est qu'ici on se trouve avec les sélecteurs. Donc là, on peut voir que dans le modèle Time Zone GPT 5.6 Sol ultra, j'ai bien choisi
+5:595 minutes et 59 secondesSol ultra et que ici on a extra high. Et tu vois que le picker est différent parce que quand on clique, on a maintenant ce slider qui permet ici de
+Chapitre 5 : Intégration GPT dans le workflow
+6:076 minutes et 7 secondesslider les éléments comme ceci. On va aussi avoir ici le modèle qu'on va pouvoir changer ici 5.5.6 Terra Luna.
+6:156 minutes et 15 secondesAlors, tu peux voir que là quand on passe à Terra et Luna, on peut se retrouver aussi avec toujours euh le top
+6:226 minutes et 22 secondesdu top ou pas. Donc là, hop là, normalement, vous pouvez aller là là.
+6:276 minutes et 27 secondesEnsuite, ici, vous allez sur Luna et dans Luna, on peut mettre effort extra high. Mais lui, il a pas le magnifique sélecteurin. Luna, je pense pas que
+6:366 minutes et 36 secondesc'est un modèle à avoir besoin d'utiliser à part si vous avez un petit abonnement sur Codex. Sinon, de toute façon, il y a pas trop d'hésitation à
+6:436 minutes et 43 secondesfaire, hein. Hop, là, sol en euh en chic.
+6:496 minutes et 49 secondesAh, c'est marrant ça. Faster, faster, faster et consume usage limit. Voilà, choisissez votre modèle maximum ou pas
+6:576 minutes et 57 secondeset on va voir un peu la différence. Donc pour les gens qui se rappellent du Time Zone Picker que je vais venir ouvrir, on va d'abord ouvrir celui de Fable. Comme
+7:067 minutes et 6 secondesça, on a toujours un petit peu la base pour avoir le point de comparaison. Non, pardon, on va comparer d'abord extra high et ultra. Donc ici, extra high, il
+7:157 minutes et 15 secondesa été lancé juste ici. Alors, en même temps, j'ai d'autres agents qui bossent.
+7:197 minutes et 19 secondesFaut toujours faire bosser des agents pendant que vous parlez. Donc ici, on se retrouve avec GPT 5.6 qui a cette UI ici pour faire time zone checker. Alors ce
+7:277 minutes et 27 secondesqui est toujours très intéressant juste ici. Alors je sais pas pourquoi ici s'écrit new. Ah ok, ils ont copié Cloude. Donc au cas où si vous avez
+Chapitre 6 : Comparaison interface Timezone
+7:367 minutes et 36 secondesl'extension chat GPT, vous allez voir que vous allez maintenant pouvoir avoir la tâche et Claude qui se lance et chat GPT qui se lance directement ici. Bref,
+7:447 minutes et 44 secondesici on a GPT 5.6 qui a fait une UI qui reste meilleure que GPT 5.5. Donc là, si je vous ouvre GPT 5.5, on se retrouve
+7:537 minutes et 53 secondesavec cette interface un petit peu infimme avec ce border, ce background.
+7:587 minutes et 58 secondesAlors là, on peut voir qu'on a quand même les sortes de lignes qui rappellent peut-être les time zones. Euh et ici, on a un éditeur qui se passe juste ici.
+8:068 minutes et 6 secondesDonc avec base, meeting, euh meeting, slip. Et donc là ici, on peut venir faire nos petits settings avec les
+8:138 minutes et 13 secondesdifférentes villes. Et là si on veut, je peux se comparer par exemple San Francisco et Geneva pour me dire voilà quand est-ce que je peux faire des
+8:218 minutes et 21 secondesmeetings ? On peut voir qu'il y a que ces heures-là qui passent. Donc c'est toujours assez intéressant parce que ce prompt que vous pouvez retrouver juste ici hein sur code.melvinx.dev
+8:308 minutes et 30 secondesrajouter des contraintes assez fortes au modèle. Donc évidemment, je sais jamais comment je peux ouvrir le terminal parce
+8:398 minutes et 39 secondesqu'en fait, on lui laisse la liberté de la stack. Et donc ici, GPT 5.6 extra High a créé un code qui est quand même
+8:478 minutes et 47 secondesassez clean. Il a utilisé vite, il a pas utilisé Tailwind, ce qui est intéressant, enfin ce qui est pas super hein, parce que du coup là, on se retrouve avec plein de trucs parce que
+8:558 minutes et 55 secondesdans son prompt, il a le choix. Donc, il a décidé de faire un fichier style.ccss un CSS de 12000 lignes euh hook data et
+Chapitre 7 : Analyse du code généré
+9:039 minutes et 3 secondescomponents. On peut voir qu'il a bien tout séparé et que maintenant ils ont quand même une sorte de clean code par défaut. En tout cas, ils sont entraînés à faire du code plus ou moins clean. Ce
+9:119 minutes et 11 secondesqui m'intéresse maintenant, c'est vraiment la comparaison avec GPT 5.6 Ultra. Donc Ultra qui consomme les limites plus rapidement mais qui est le
+9:199 minutes et 19 secondesmodèle qui est vraiment plus intelligent. Et on peut voir ici une ui qui me plaît grandement euh plus que ici
+9:289 minutes et 28 secondes5.5 et que 5.6. On a ici GPT 5.6 Ultra qui a vraiment une une cool ici icône
+9:379 minutes et 37 secondesici on a les time zone avec ici les heures qui affichent comme ceci des petites couleurs un petit peu late
+9:449 minutes et 44 secondesafternoon machin assez intelligent une réflexion un peu plus avancée et là
+9:509 minutes et 50 secondesquand on fait base on peut voir qu'on a les heures qui s'affichent ici. Donc availability wizure base. On a ici 10
+9:599 minutes et 59 secondesPM, 7 am. 1 PM. On peut voir ici qu'en plus on a le petit + 1. C'est un des seuls modèles qui m'a affiché ce + 1.
+10:0710 minutes et 7 secondesQuand ici je refresh bah évidemment, j'ai pas le j'ai pas le j'ai pas d'empassard. Hop là, on ajoute
+10:1510 minutes et 15 secondesdempassar. Et quand fait en mode base, vous voyez qu'ici il y a pas le + 1. En plus, j'ai l'impression que les datas sont un peu différentes. On peut voir ici, c'est quand même beaucoup moins
+10:2310 minutes et 23 secondesbien. GPT 5.5 c'était infamme, même si ici on retrouve voilà, on retrouve la même interface mais ici on a pas le + 1.
+Chapitre 8 : Test de performance GPT Ultra
+10:3110 minutes et 31 secondesEt donc quand je compare ici GPT 5.5 et GPT 5.6, on se retrouve quand même avec une interface qui est beaucoup plus
+10:3710 minutes et 37 secondesplaisante ici sur ce GPT 5.6. Je pense qu'on peut se l'accorder un peu près
+10:4510 minutes et 45 secondesassez facilement. Donc ce ultra apporte vraiment quelque chose. Si on s'intéresse au code, ça ça c'est vraiment une très grosse curiosité de ma
+10:5310 minutes et 53 secondespart. Donc on va venir ici ouvrir le terminal, ouvrir ça dans Z et là dans seul ultra on se retrouve avec un code
+11:0211 minutes et 2 secondescomponents. Alors il y a plus ici de composants. On se retrouve toujours avec du CSS. Donc si par défaut, malgré qu'il
+11:1011 minutes et 10 secondesavait le choix de venir taper sur du Tailwind, il a pas utilisé tailwind, ce qui est dommage. Ici data city qu'il a
+11:1811 minutes et 18 secondeshard codé normal time zone, il a rajouté des tests. Time zone test. Ah ouais, il est bon. Non non, franchement c'est
+11:2611 minutes et 26 secondesc'est très très très très bon. Si on compare avec le style de opus parce que j'arrive pas à lancer fable, vous voyez ici que il crache comme je sais pas
+11:3411 minutes et 34 secondesquoi. Ça fait 6 minutes qu'il réfléchit au début. Donc voilà. Il faut faut avoir la patience. Mais ici, on peut voir qu'avec la même interface, si je passe
+11:4211 minutes et 42 secondesen base, on se retrouve ici avec ce style qu'on a juste ici. On peut voir qu'ici la différence, c'est qu'on a la sélection de San Francisco, mais on se
+11:5111 minutes et 51 secondesretrouve quand même avec GPT 5.6 qui a créé une application tout à fait utilisable, qui affiche un peu près les
+11:5811 minutes et 58 secondesmêmes données et qui est de très bonne qualité. Franchement, moi je trouve ça impressionnant et je suis super satisfait de ce qu'a fait GPT 5.6 Ultra.
+12:0912 minutes et 9 secondesOr, je suis plutôt moyen satisfait de ce qu'a fait GPT 5.6. Euh pas ultra, hein.
+Chapitre 9 : Simulation CarCrash physique
+12:1512 minutes et 15 secondesLe pas ultra, celui-ci, celui-ci il pue le il pue l'A. Il pue il pue vraiment fort. Celui-ci il pue moins. Il pue un
+12:2312 minutes et 23 secondespetit peu. Il est pas non plus à à l'odeur à l'odeur du rêve que j'aurais pu imaginer, mais c'est pas très grave.
+12:3112 minutes et 31 secondesBref, voici pour ce premier test qui était assez cool. Euh 2è test qui euh a
+12:3812 minutes et 38 secondesété exécuté juste ici, Carrash. Le Car crash est très très fun. Euh je trouve que ça montre vraiment un petit peu comment euh réfléchit le modèle. Donc
+12:4712 minutes et 47 secondesjuste ici, si on va sur K crash et qu'on tape les différents modèles, donc ici
+12:5412 minutes et 54 secondesj'ai 5.6 sol ultra. Donc là encore une fois, on teste le ultra mode et donc le but ici c'est de faire un K crash. Alors on a le pr qui est juste ici.
+13:0613 minutes et 6 secondesJ'ai bien aimé parce que ça a réfléchi à la physique. Build realistic today crash experiments avec side view blab bla bla bla bla bla. Et là, on se retrouve ici
+13:1513 minutes et 15 secondesavec ce car crash. On a le speed et je peux tester. Et là, vous voyez qu'il y a un petit zoom et ensuite un petit dézoom et la physique est assez respectée. La
+13:2313 minutes et 23 secondesvoiture est sympa, ça fonctionne plutôt bien. Si on s'amuse à [ __ ] la car speed à 40, pam, ça explose le truc.
+13:3313 minutes et 33 secondesSi on rajoute un wall volume de fou furieux, ça c'estant.
+13:4213 minutes et 42 secondesAlors, je sais pas si ça se passerait comme ça dans ma vra vie. Là, ça lag et là je rajoute un dep slayer de 5 et là ça va faire complètement buggé.
+Chapitre 10 : Comparaison avec Claude
+13:5113 minutes et 51 secondesEt là, vous voyez qu'elle s'arrête au milieu. C'est la hitbox de la voiture qui est pas super mais sinon ça fonctionne très très bien. Si on compare
+13:5813 minutes et 58 secondesça à Fable F medium, je sais pas pourquoi ici je l'ai appelé médium. Pam ! Ouais, c'est pas aussi fou hein. On
+14:0714 minutes et 7 secondesn'est pas on n'est pas sur la même excitation. Alors, je vais quand même vérifier tout de suite avec toi que ce car crash s'est pas fait fullback avec
+14:1514 minutes et 15 secondesOpus. Ce qui est possible hein, vous savez que une des raisons qui m'énerve vraiment avec Fable et je trouve ce modèle chiant, c'est que des fois ils te
+14:2314 minutes et 23 secondesfbaus pour tout et rien. Leur histoire de security, elle est elle est chiante à mourir littéralement. Enfin, je suis je
+14:3314 minutes et 33 secondessuis estomaqué chaque fois par ça. Mais donc si ici je regarde le chat qu'on avait on avait même utilisé Higai. Donc
+14:4114 minutes et 41 secondesici, j'ai bien menti. Mais mais on peut voir que si s'est pas fait fall. Si s'est fait fallback, ça affiche une erreur. Donc ici, on avait utilisé Xi et vous voyez qu'ici c'est bien moins bon.
+14:5114 minutes et 51 secondesAlors on a quand même un slow motion ici. C'est assez cool. Pam ! Là, les effets sont dégueulasses. L'effet est dégueulasse. Ça rend pas bien. C'est pas
+15:0015 minutesjoli. Ces histoires ici sont vraiment étranges. On va faire ça plus vite. Pam ! Ça fait plus slop que la version de
+15:1015 minutes et 10 secondesGPT 5.5. Je suis désolé, c'est mon avis personnel. Vous me dites ce que vous en pensez, mais vous voyez qu'ici déjà juste sur l'interface, c'est intelligent. Ici, pourquoi on a les
+Chapitre 11 : Test animation Rocket Launch
+15:1815 minutes et 18 secondesbriques qui sont sous le [ __ ] d'éditeur juste ici ? Alors, peut-être qu'il a pensé que j'avais un ordi géant.
+15:2415 minutes et 24 secondesEt oui, alors si j'ai un ordi géant parce que dans mes vidéos je zoome euh ça marche bien, c'est sympa. Mais écoute, faut penser au gars qui a un
+15:3115 minutes et 31 secondespetit ordi. Et lui, en l'occurrence, il a bien pensé parce que hop, ça zoome, ça vient avec la voiture et ça nous permet ici de voir l'intégralité de la vue avec une logique qui est assez intéressante.
+15:4215 minutes et 42 secondesPam ! Moi, je trouve ça ! OK, on a wouh ! Wou wou ! Wou ! Wou ! Waouh ! et ça vient rajouter tous les toutes les datas
+15:4915 minutes et 49 secondesqui sont juste ici. Bref, ça c'est pour le car crash. Le car crash qui est quand même assez intéressant à voir qui permet de voir encore une fois j'ai pét 5.6 sol
+15:5715 minutes et 57 secondesqui est un modèle incroyable. Pour rester sur les trucs un peu fun, normalement j'ai rocket launch. Donc
+16:0416 minutes et 4 secondesRocket Lun juste ici. J'ai encore une fois fait Fib extra High. Donc là, on va pouvoir voir ça ressemble à ça. On a un
+16:1316 minutes et 13 secondespetit drapeau encore une fois, une sorte de drapeau.
+16:1616 minutes et 16 secondesEuh d'ailleurs, si je me trompe pas, juste ici. Ouais, je on va pas dire on va rien dire mais franchement ça rend bien. C'est très joli. Euh Fable, il
+16:2516 minutes et 25 secondesfait vraiment des des bons canevas comme ça quand il faut avec les petites euh avec les petites étoiles au-dessus. Si on va voir GPT 5.6 Sol Ultra.
+16:3416 minutes et 34 secondesOn se retrouve avec les mêmes styles un petit peu que les autres modèles. Regardez la fusée qui change de taille.
+16:3916 minutes et 39 secondesDonc là, on est clairement sur un un modèle qui a fait un truc beaucoup moins bien que faible sans aucune hésitation
+16:4716 minutes et 47 secondespour celui-ci. Ça même pas besoin de réfléchir, même pas besoin de débattre, c'est moins bien de loin. Maintenant,
+16:5516 minutes et 55 secondesles deux tests qui m'intéressent le plus. Donc ici, on a deux drawings qui sont en train de se faire. Alors, je vais faire un test. Mais donc là sur
+Chapitre 12 : Test du Drawing Editor
+17:0417 minutes et 4 secondescette tâche là, drawing surface GPT 5.6, on peut voir qu'il est en train de bosser juste ici. Alors, je suis très intéressant de de voir à quoi ça va
+17:1217 minutes et 12 secondesressembler. Donc, juste ici, on peut voir que un truc qui fait par défaut de manière assez logique, c'est que ici, il
+17:1917 minutes et 19 secondesa automatiquement lancé plusieurs agents. En tout cas, il en a lancé deux.
+17:2317 minutes et 23 secondesEt j'ai remarqué que presque dans toutes les tâches que j'ai faites, GPT 5.6 sol ultra ou extra high va lancer des agents
+17:3017 minutes et 30 secondescomme ceci qui va lui permettre de se décharger du travail. Alors ici, j'arrive pas forcément à voir quel modèle il a utilisé mais c'est très intéressant. Ensuite ici, il a
+17:3917 minutes et 39 secondesimplémenté ici implementation review interaction is review. OK blab blabla.
+17:4717 minutes et 47 secondesMais ici, on peut voir le travail qui est plutôt plutôt intéressant avec des agents. Alors, il a pas terminé et extra high aussi. On peut voir qu'ici, il a
+17:5417 minutes et 54 secondeslancé trois agents puis deux agents puis que ici vient review les images. OK, donc là très intéressant. Et si on va
+18:0218 minutes et 2 secondesvoir sur Fable que j'avais déjà lancé là-dessus. OK, on peut voir que pour cette tâche ici sur ce subface, donc le but c'est d'ajouter un drawing editor.
+18:1118 minutes et 11 secondesDonc c'est ce qu'on voit juste ici hein, c'est de venir pouvoir ajouter ici des dessins. On peut voir que GPT extra high
+18:1818 minutes et 18 secondesest plus lent parce qu'il est à 1h20 et toujours en train de travailler alors que lui il a fait ça en 58 minutes et il m'a affiché ici l'éditeur. Alors pour
+18:2618 minutes et 26 secondesl'instant je trouve ça formidable pour un one shot par GPT, c'est incroyable.
+Chapitre 13 : Correction des erreurs de code
+18:3218 minutes et 32 secondesOK, je vais ici essayer de lancer le serveur si j'arrive parce qu'évidemment là il est un peu énervé. Attends, attends, attends. Tu peux taper
+18:4018 minutes et 40 secondesmaintenant sur ton browser mlv.sh/formation M/formation AI et tu vas pouvoir rejoindre les plus
+18:4718 minutes et 47 secondesde 14000 personnes qui ont ici rejoint ma mini formation cloud code C code codex cursor avec ma configuration
+18:5618 minutes et 56 secondesgratuite de skill et d'outils que j'utilise au quotidien ainsi qu'une des petits tutoriels qui vont t'apprendre à
+19:0319 minutes et 3 secondesdevenir un AI enginer. Alors ici, tu peux juste savoir et cliquer sur "Je sais coder ou "Je sais pas coder" et
+19:1019 minutes et 10 secondesensuite tu peux rentrer ton email, ton prénom et tu vas pouvoir recevoir ça gratuitement. Donc tu peux t'arrêter tout de suite, aller sur le lien qui est
+19:1719 minutes et 17 secondesjuste en dessous de cette vidéo ou taper mlv.sh/fa SH/FA pour t'inscrire immédiatement à cette masterclass gratuite. Donc ça c'est la version de
+19:2619 minutes et 26 secondesGPT 5.6 extra High. On peut voir ici qu'on a une erreur fixit euh qui se passe sur Localos 3000 ici avec cette
+19:3419 minutes et 34 secondeserreur qu'on arrive tout de suite. Donc on va lui demander de corriger. On va voir si on arrive à avoir quelque chose qui fonctionne. OK, c'était rapide. On va venir ici choisir une thumbnail. Et
+19:4219 minutes et 42 secondesmaintenant dans les styles références normalement on peut ajouter un dessin mais évidemment on le voit pas juste ici. Où est-ce qu'il y a le dessin ?
+19:4919 minutes et 49 secondesQu'est-ce qui se passe ? Euh, add style reference. Donc évidemment, on clique là et là, il devrait y avoir un bouton drawing. Donc ici, je le vois pas. Où
+19:5919 minutes et 59 secondesest le bouton drawing ? OK, sorry, c'est dans le new inspiration. OK, donc là hop, new inspiration, draw inspiration.
+20:0720 minutes et 7 secondesEt donc là, c'est l'éditeur que GPT 5.6 a one shot. Alors déjà, on peut voir qu'on peut rajouter des subjects, donc
+Chapitre 14 : Comparaison des éditeurs graphiques
+20:1520 minutes et 15 secondesici des personnes. On a un éditeur qui permet de resiser ici qui est pas mal du tout. On a ici des squars avec là les
+20:2220 minutes et 22 secondessettings. Alors les settings sont un peu en dessous mais on a quand même Ouais, ça c'est moins bien. C'est un peu moins style excalidro comme j'ai demandé. Ici
+20:3020 minutes et 30 secondeson peut faire des dessins et ça fonctionne quand même beaucoup mais genre par rapport j'ai un peu la flemme de t'ouvrir l'application et que j'ai pété 5.6 mais c'est le jour et la nuit.
+20:4020 minutes et 40 secondesEt si ici on remplace avec des exemples bol sujet reaction versus donc voilà un
+20:4720 minutes et 47 secondespeu ce qu'on peut faire avec l'éditeur et évidemment hop là on va faire tutoriel. Donc là ça marche pas très bien. On va refresh c'est pas grave.
+20:5720 minutes et 57 secondesTutorial. OK. Hop. Donc ici on a tous ces exemples. Alors la flèche me semble assez pétée. En tout cas celle-ci juste là je sais pas si j'arriverai à la corriger. Ouais. La flèche est pétée.
+21:0821 minutes et 8 secondesAlors, en terme de qualité, si je compare à ce que j'ai fait avec Fable, alors la différence c'est ce que j'ai fait avec Fable. On l'a pas fait en une
+21:1621 minutes et 16 secondesseule itération, mais on l'a fait en fait en plein d'itération. Mais ici, quand je viens dans le drawing, ici
+21:2321 minutes et 23 secondesFable a quand même un truc beaucoup plus cool. Les flèches fonctionnent bien et cet éditeur de stroke ici, je le trouve
+21:3121 minutes et 31 secondesbien mieux. Alors, d'ailleurs, je sais pas pourquoi cet éditeur de stroke, il se situe pas en dessous. Ce serait beaucoup mieux, hein. Mais en tout cas,
+21:3921 minutes et 39 secondeson a ça ici. Ça ressemble beaucoup plus à ce que j'ai demandé. Donc même si Fable ici, il a pas one shot cet
+Chapitre 15 : Analyse des limites des modèles
+21:4521 minutes et 45 secondeséditeur, il est beaucoup plus clean, on va dire. Et de toute façon, j'arrive pas à lancer le l'éditeur un peu one shot
+21:5421 minutes et 54 secondesici par Fab parce qu'il a décidé de me faire chier à ne pas vouloir se connecter, ce qui est pas très très
+22:0122 minutes et 1 secondegrave, mais voilà, on a quand même quelque chose de bien pour ici ce modèle. Alors, je vais couper le ultra
+22:0922 minutes et 9 secondesparce que le ultra de toute façon euh ici, il avait pas il avait pas fait la bonne chose alors que le XA ici, il
+22:1622 minutes et 16 secondesavait fait un truc pas mal. Mais franchement par rapport à GPT 5.5, ici on est sur une upgrade de toute évidence
+22:2422 minutes et 24 secondesstratosphérique, hein. On est ici. On est on est passé sur un autre niveau et on est clairement sur un modèle bien meilleur qui est vraiment top. Hop là,
+22:3322 minutes et 33 secondessi je fais save inspiration, donc là il y a le double uploading preview, save inspiration. Il y a 25 boutons qui se
+22:4022 minutes et 40 secondescliquent en même temps. Mais voilà, en tout cas, c'est super intéressant ce modèle. Moi, de toute façon, pour être
+22:4722 minutes et 47 secondeshonnête avec toi, j'ai utilisé Fable et j'ai farmé Fable parce que c'était le modèle le plus intelligent et que ça me
+22:5422 minutes et 54 secondespermettait de le tester et que ça m'amuse fondamentalement de faire tout ça. Mais un modèle comme GPT 5.6 sol,
+23:0223 minutes et 2 secondespersonnellement, est beaucoup plus intéressant. Il y a pas ces limites qui te bloquent toutes les 5 secondes. Donc typiquement ça c'est une simulation que
+23:1023 minutes et 10 secondesj'ai faite. J'ai essayé de la lancer 25 fois avec Fable et il y a pas une seule fois où j'ai réussi à le lancer parce que chaque fois ça vient lancer avec
+Chapitre 16 : Test simulation écosystème
+23:1823 minutes et 18 secondesOpus. Alors que tout ce que je lui demande c'est faire une simulation du jeu de la vie. Donc un truc pas super dur. Donc ici simulation life. Si je
+23:2723 minutes et 27 secondesviens voir 5.6 sol ultra et que j'ouvre index.hthtml HTML. On a ici euh voilà ce petit jeu de la vie. Alors Pocket
+23:3623 minutes et 36 secondesGarden, ça permet ici de simuler un un voilà des prédateurs qui sont en rouge, qui viennent manger des bleus. Et là,
+23:4423 minutes et 44 secondesvous voyez l'application, elle est fantastique, elle est magnifique, elle est one shot via un prompt. Alors, c'est un nouveau prompt que vous pouvez retrouver sur code.melvinx.dev. Ici,
+23:5323 minutes et 53 secondesj'ai vraiment essayé de chercher un truc compliqué à faire entre guillemets. Donc juste ici, c'est un petit peu écosystème Evolution Simulator. Et il y a Fable, il
+24:0224 minutes et 2 secondesne veut pas réaliser cette tâche. Chaque fois, il bloque et il utilise Opus 4.8.
+24:0824 minutes et 8 secondesAlors que ici, il y a quand même pas grand-chose de hard. En tout cas, cette application ici fait par ultra, elle est géniale. Alors, est-ce que je peux speed up ? Donc ici, voilà un quatre fois.
+24:1924 minutes et 19 secondesIci, en fait, on peut voir comment réagit le garden euh à la vue des prédateurs. Tu peux voir que les
+24:2524 minutes et 25 secondesprédateurs viennent courir après les éléments et quand il tuent quand il tue une cellule bleue euh et ben ils
+24:3324 minutes et 33 secondesviennent ils viennent s'augmenter, tu vois. Et du coup ici, tu as le le truc.
+24:3724 minutes et 37 secondesAlors, le problème c'est que là un blob inspector. Wouh, c'est tellement bien. Me garde l'application, elle est
+24:4424 minutes et 44 secondesfolle, elle est folle. Donc ici, on a plein de settings. Alors juste, il nous manque ajoute x 20 x 5 x 20 x 100 speed
+Chapitre 17 : Analyse des performances et vitesse
+24:5524 minutes et 55 secondesup. Et donc ici, ça permet un peu de voir l'évolution. Qu'est-ce que on a pu faire ici avec Opus ? Si ici je vois Fable 5 et extra.
+25:0525 minutes et 5 secondesIci en l'occurrence on a pas de Fable 5 parce que ça n'a pas fonctionné. Mais voici la version d'Opus. Voilà, entre nous, ça rend un peu moins bien. Alors,
+25:1225 minutes et 12 secondessi on va en speed 4 juste ici, voilà, c'est quand même pas mauvais hein. C'est quand même assez cool. On a d'ailleurs ce graphique, j'aime bien Blue vs Red
+25:2025 minutes et 20 secondesjuste ici où on peut voir le ratio qui augmente. Et donc, en fait, ce qui est marrant ici, c'est de venir par exemple venir
+25:2925 minutes et 29 secondeseuh rajouter de la force au rouge. Et dès qu'on ajoute de la force et que on vient réduire leur énergie, à ce
+25:3725 minutes et 37 secondesmoment-là, en fait, on vient leur donner leur super pouvoir et ça va les permettre de venir raquetter tous les bleus et devenir Et c'est trop drôle
+25:4525 minutes et 45 secondesparce qu'en fait on a un smile, on on a des smiley qui changent. Mais oui, là c'est vraiment pas cool. Et là si je viens augmenter leur énergie use de fou,
+25:5425 minutes et 54 secondesen fait ça va faire que ils vont souffrir beaucoup plus vite. Et donc là vous voyez que les deux ont commencé à mourir mais que là maintenant que je
+26:0226 minutes et 2 secondesviens de rendre ce qu'on va faire moving speed. Là on les rend super rapides et là vous allez voir que les les bleus
+26:0926 minutes et 9 secondesvont exploser et que les rouges vont tous mourir parce que du coup ils arrivent pas à courir après les bleus.
+Chapitre 18 : Conclusion et avis final
+26:1526 minutes et 15 secondesBref, c'est c'est très drôle. C'est très très drôle de venir target tout ça et de venir créer ces simulations. En tout
+26:2326 minutes et 23 secondescas, ici, j'ai pété à faire un truc très cool. Bref, moi je suis un fan de Codex, je vous le dis. Tous les jours où je dois utiliser Cloud, j'ai envie
+26:3126 minutes et 31 secondesd'utiliser Codex et ce modèle est fantastique. Surtout si comme moi, vous avez pas mal de limites. Vous voyez que là, pour tous mes tests, j'ai utilisé
+26:3826 minutes et 38 secondesque 60 % de mes limites euh week euh de mes 5 hour et 10 % de mon weekly. Et en plus de ça, j'ai trois resets. Donc
+26:4626 minutes et 46 secondesentre guillemets, c'est assez fou parce que je peux tabasser opus ici. Non, j'ai pété sol à l'infini.
+26:5426 minutes et 54 secondesEn tout cas, je trouve ça super intéressant et ça fait très plaisir qu'il y ait ici de la concurrence concrète avec ce modèle. Moi, en tout
+27:0227 minutes et 2 secondescas, je vous invite vraiment à payer 100 dollars pour Codex et laisser sa chance.
+27:0827 minutes et 8 secondesIl y a pas mal de gens dans les commentaires, disent "Oui, j'ai testé en fait, c'est moins bien." Non, OK, teste plus. teste plus. Pas juste un jour,
+27:1527 minutes et 15 secondesc'est différent mais c'est un modèle qui est vraiment incroyable et toutes mes dernières fatures que j'ai démonter une liste de tâches de fou furieux grâce à
+27:2327 minutes et 23 secondescode, c'est assez fantastique. Voilà, dites-moi ce que vous en pensez. On se dit à très bientôt. Ciao ciao.
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+
+9:25
+Best AI Tools to Find Winning Dropshipping Products
+Easync
+2,9 k vues
+Sponsorisé
+
+
+33:41
+Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.
+Ludo Salenne
+10 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+2:28:58
+Maître Shaolin alerte: Une épidémie cachée se propage et tue des millions!
+The Diary Of A CEO
+4,3 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:51:28
+Webinaire MLC: Comment reconnaître une startup qui a le potentiel de devenir une grande entreprise ?
+VICTOR ESSOMBE Business TV
+388 vues
+•
+il y a 1 jour
+Nouveau
+
+
+19:01
+Deepseek vient de faire EXPLOSER l'industrie de l'IA (encore)
+Vision IA
+8,4 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+1:57:34
+L'expert en bonheur qui a rendu 51 millions de gens plus heureux : Mo Gawdat | E101
+The Diary Of A CEO
+ et Mo Gawdat
+3,3 M de vues
+•
+il y a 4 ans
+Doublée
+
+
+8:08
+Je retrouve ma forme à 60 ans après 6 mois d'enfer ! ( Mes 7 Règles )
+JamCore
+2,9 k vues
+•
+il y a 17 heures
+Nouveau
+
+
+2:38:38
+Expert Anti-Âge : Ceci Inverse les Cheveux Gris & Ce Mythe Vous Coûte Votre Santé !
+The Diary Of A CEO
+ et The Science and Experience of Energy
+2,7 M de vues
+•
+il y a 8 jours
+Doublée
+
+
+20:13
+LA CANICULE révèle le PIRE de la FRANCE
+Daniil le Russe
+183 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,4 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+2:43:51
+Docteur Insuline et Glucose : Ceci fera fondre votre graisse très vite !
+The Diary Of A CEO
+7 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+19 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+26:40
+Je teste les plats des pays de la Coupe du monde
+Gurky
+234 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+41:19
+Une Journée dans la Vie du Seul TRILLIONNAIRE au Monde 😨
+La Vie de Luxe
+55 k vues
+•
+il y a 2 semaines
+
+
+2:24:14
+Expert du sommeil : Ne pas uriner la nuit et pourquoi le sexe nocturne est mauvais
+The Diary Of A CEO
+ et Sleep Doctor
+10 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+18:42
+Assassin’s Creed Black Flag Resynced TEST 🏴‍☠️ Remake de haute volée ou Simple Lifting ?
+Julien Chièze
+44 k vues
+•
+il y a 1 jour
+Nouveau
+
+1:48:50
+Les lanceurs d'alerte font changer d'avis Neil deGrasse Tyson sur les extraterrestres !
+The Diary Of A CEO
+702 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+24:44
+Après 15 ans j'ai décidé de créer ma marque.
+BALO
+49 k vues
+•
+il y a 2 jours
+Nouveau
+
+23:53
+CORÉE DU SUD LE PAYS SANS AVENIR
+Daniil le Russe
+520 k vues
+•
+il y a 8 mois
+
+2:17:39
+#168 Tengo - Strongman : des hommes à part
+Biomécanique
+119 k vues
+•
+il y a 3 ans
+
+13:05
+Ce qui arrive à cette influenceuse à Dubai est une folie.
+Naj B Fit
+248 k vues
+•
+il y a 17 heures
+Nouveau
+
+    
