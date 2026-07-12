@@ -56,5 +56,58 @@ class RiskSummaryTests(unittest.TestCase):
         self.assertEqual(audit.highest_risk([self.alert("faible")]), "faible")
 
 
+class ProcessedSourceDuplicateTests(unittest.TestCase):
+    SOURCE = "01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_codex_workflow_aos_01.txt"
+    WATCH = "02_IA/ChatGPT/veille/2026-07-10_youtube_melvynx_gpt-5-6-codex-comparatif-coding.md"
+    ORIGINAL = (
+        "01_Collecte/sources_brutes/videos/traitees/"
+        "2026-07-10_youtube_melvynx_gpt-5-6-codex-comparatif-coding_transcript.txt"
+    )
+
+    def processed_source(self):
+        return [audit.ChangedFile("A", self.SOURCE)]
+
+    def blocking_alerts(self, files):
+        return [
+            alert
+            for alert in audit.detect_alerts(files, ["archive-commit"])
+            if alert.category == "source traitee sans veille" and alert.level == "bloquant"
+        ]
+
+    @patch.object(audit, "recognized_exact_duplicates", return_value={})
+    def test_new_processed_source_without_watch_blocks(self, _duplicates):
+        self.assertEqual(len(self.blocking_alerts(self.processed_source())), 1)
+
+    @patch.object(audit, "recognized_exact_duplicates")
+    def test_exact_duplicate_with_identifiable_existing_watch_does_not_block(self, duplicates):
+        evidence = audit.ExactDuplicateEvidence(self.ORIGINAL, self.WATCH)
+        duplicates.return_value = {self.SOURCE: evidence}
+        self.assertEqual(self.blocking_alerts(self.processed_source()), [])
+        trace = audit.format_exact_duplicates({self.SOURCE: evidence})
+        self.assertIn("doublon exact accepte", trace)
+        self.assertIn(self.WATCH, trace)
+
+    @patch.object(audit, "recognized_exact_duplicates", return_value={})
+    def test_declared_duplicate_without_existing_watch_proof_still_blocks(self, _duplicates):
+        self.assertEqual(len(self.blocking_alerts(self.processed_source())), 1)
+
+    @patch.object(audit, "recognized_exact_duplicates", return_value={})
+    def test_similar_topic_is_not_an_exact_duplicate(self, _duplicates):
+        similar = [
+            audit.ChangedFile(
+                "A",
+                "01_Collecte/sources_brutes/videos/traitees/2026-07-10_youtube_melvynx_gpt-5-6-codex-similaire.txt",
+            )
+        ]
+        self.assertEqual(len(self.blocking_alerts(similar)), 1)
+
+    @patch.object(audit, "recognized_exact_duplicates")
+    def test_reported_2026_07_10_duplicate_is_accepted(self, duplicates):
+        duplicates.return_value = {
+            self.SOURCE: audit.ExactDuplicateEvidence(self.ORIGINAL, self.WATCH)
+        }
+        self.assertEqual(self.blocking_alerts(self.processed_source()), [])
+
+
 if __name__ == "__main__":
     unittest.main()

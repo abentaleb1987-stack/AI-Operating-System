@@ -139,6 +139,12 @@ class Alert:
 
 
 @dataclass(frozen=True)
+class ExactDuplicateEvidence:
+    original_source_path: str
+    existing_watch_path: str
+
+
+@dataclass(frozen=True)
 class LexicalMatch:
     term: str
     line_number: int
@@ -440,6 +446,70 @@ def commits_for_knowledge_audit(infos: list[CommitInfo]) -> list[str]:
     return commits
 
 
+def commit_message(commit: str) -> str:
+    return run_git(["show", "-s", "--format=%s%n%b", commit], check=False)
+
+
+def commit_declares_duplicate(commit: str) -> bool:
+    """Require an explicit duplicate trace; topic similarity is never evidence."""
+    message = normalize_for_matching(commit_message(commit))
+    return "doublon" in message or "duplicate" in message
+
+
+def source_blob_at_commit(commit: str, path: str) -> str:
+    return run_git(["rev-parse", f"{commit}:{path}"], check=False)
+
+
+def exact_duplicate_evidence(commit: str, path: str) -> ExactDuplicateEvidence | None:
+    """Return provenance only for a declared, byte-identical, already-watched source.
+
+    A matching Git blob is the exact-duplicate proof.  A prior processed source and
+    a watch note created in that same earlier treatment identify the capitalisation
+    that is being reused.  No lexical or topical comparison is used.
+    """
+    if not commit_declares_duplicate(commit):
+        return None
+    blob = source_blob_at_commit(commit, path)
+    if not blob:
+        return None
+
+    # Search only the history preceding the archiving commit: the current source
+    # cannot validate itself.
+    previous_commits = run_git(
+        ["log", f"{commit}^", "--find-object", blob, "--format=%H"], check=False
+    ).splitlines()
+    for previous_commit in previous_commits:
+        previous_files = changed_files_for_commit(previous_commit)
+        previous_sources = [
+            item.path
+            for item in previous_files
+            if "/traitees/" in item.path
+            and item.path.startswith("01_Collecte/sources_brutes/")
+            and source_blob_at_commit(previous_commit, item.path) == blob
+        ]
+        existing_watches = [
+            item.path for item in previous_files if item.status.startswith("A") and WATCH_RE.match(item.path)
+        ]
+        if previous_sources and existing_watches:
+            return ExactDuplicateEvidence(previous_sources[0], existing_watches[0])
+    return None
+
+
+def recognized_exact_duplicates(
+    files: list[ChangedFile], commits: list[str]
+) -> dict[str, ExactDuplicateEvidence]:
+    recognized: dict[str, ExactDuplicateEvidence] = {}
+    for item in classify_files(files)["processed_sources"]:
+        for commit in commits:
+            if not any(changed.path == item.path for changed in changed_files_for_commit(commit)):
+                continue
+            evidence = exact_duplicate_evidence(commit, item.path)
+            if evidence:
+                recognized[item.path] = evidence
+                break
+    return recognized
+
+
 def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
     classes = classify_files(files)
     alerts: list[Alert] = []
@@ -538,10 +608,11 @@ def detect_alerts(files: list[ChangedFile], commits: list[str]) -> list[Alert]:
             )
         )
 
+    exact_duplicates = recognized_exact_duplicates(files, commits)
     for item in classes["processed_sources"]:
         source_topic = Path(item.path).stem.replace("_transcript", "")
         has_watch = any(WATCH_RE.match(f.path) for f in files)
-        if not has_watch:
+        if not has_watch and item.path not in exact_duplicates:
             alerts.append(
                 Alert(
                     level="bloquant",
@@ -663,6 +734,17 @@ def format_alerts(alerts: list[Alert]) -> str:
             ]
         )
     return "\n".join(lines).strip()
+
+
+def format_exact_duplicates(duplicates: dict[str, ExactDuplicateEvidence]) -> str:
+    if not duplicates:
+        return "- Aucun doublon exact accepte detecte."
+    return "\n".join(
+        f"- Source : `{source}` - Statut : doublon exact accepte - "
+        f"Source deja capitalisee : `{evidence.original_source_path}` - "
+        f"Fiche de veille existante : `{evidence.existing_watch_path}`."
+        for source, evidence in sorted(duplicates.items())
+    )
 
 
 def subject_tokens(path: str) -> set[str]:
@@ -821,6 +903,7 @@ def render_report(since_hours: int, fallback_count: int) -> str:
     files = changed_files_for_commits(commits)
     knowledge_files = files_for_knowledge_audit(infos)
     knowledge_commits = commits_for_knowledge_audit(infos)
+    exact_duplicates = recognized_exact_duplicates(knowledge_files, knowledge_commits)
     classes = classify_files(files)
     alerts = detect_alerts(knowledge_files, knowledge_commits)
     aion_priority_alerts, treated_alerts = split_aion_alerts(alerts, infos)
@@ -872,6 +955,8 @@ def render_report(since_hours: int, fallback_count: int) -> str:
         report = report.replace(placeholder, value)
     method_section = f"\n## Méthode d’analyse Git\n\n{format_git_analysis_method(infos)}\n"
     report = report.replace("\n## Fichiers crees\n", f"{method_section}\n## Fichiers crees\n")
+    duplicate_section = f"\n## Doublons exacts acceptes\n\n{format_exact_duplicates(exact_duplicates)}\n"
+    report = report.replace("\n## Fichiers crees\n", f"{duplicate_section}\n## Fichiers crees\n")
     return report
 
 
