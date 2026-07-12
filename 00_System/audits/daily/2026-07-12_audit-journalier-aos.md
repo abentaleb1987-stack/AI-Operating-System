@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 9f909f6
+- Commit audite : ea51d80
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-12 07:51:45
+- Rapport genere le : 2026-07-12 11:43:21
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,8 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `ea51d80` - 2026-07-12 10:22:26 +0200 - Protocol / system - fix(aos): allow exact duplicate sources without new watch note
+- `5f9529b` - 2026-07-12 07:51:45 +0000 - Audit - docs(aos): add daily audit report
 - `9f909f6` - 2026-07-11 13:55:53 +0200 - Knowledge batch - docs(aos): integrate Codex workflow watch note
-- `e8d0330` - 2026-07-11 11:29:55 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -36,7 +37,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Protocol / system
 
-- Aucun commit.
+- `ea51d80` - 2026-07-12 10:22:26 +0200 - fix(aos): allow exact duplicate sources without new watch note
 
 ### Maintenance
 
@@ -44,27 +45,34 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `e8d0330` - 2026-07-11 11:29:55 +0000 - docs(aos): add daily audit report
+- `5f9529b` - 2026-07-12 07:51:45 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `e8d0330` - 2026-07-11 11:29:55 +0000 - Audit - docs(aos): add daily audit report
+- `ea51d80` - 2026-07-12 10:22:26 +0200 - Protocol / system - fix(aos): allow exact duplicate sources without new watch note
+- `5f9529b` - 2026-07-12 07:51:45 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
 
+## Doublons exacts acceptes
+
+- Aucun doublon exact accepte detecte.
+
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-07-12_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-11_youtube_parlons-ia_codex-loop-engineering-mcp-workflows_transcript.txt
 - A 02_IA/Codex/veille/2026-07-11_youtube_parlons-ia_codex-loop-engineering-mcp-workflows.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-07-11_audit-journalier-aos.md
+- M 00_System/scripts/aos_daily_audit.py
+- M 00_System/scripts/tests/test_aos_daily_audit.py
 
 ## Fiches permanentes impactees
 
