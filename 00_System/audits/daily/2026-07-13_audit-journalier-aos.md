@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 0ae630c
+- Commit audite : a8b745c
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-13 11:44:40
+- Rapport genere le : 2026-07-13 16:44:28
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `a8b745c` - 2026-07-13 11:44:40 +0000 - Audit - docs(aos): add daily audit report
 - `0ae630c` - 2026-07-13 09:04:58 +0200 - Knowledge batch - docs(aos): archive duplicate video source
 
 ## Classification des commits
@@ -43,15 +44,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- Aucun commit.
+- `a8b745c` - 2026-07-13 11:44:40 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- Aucun commit ignore pour audit connaissance.
+- `a8b745c` - 2026-07-13 11:44:40 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -62,6 +63,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-07-13_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-12_youtube_parlons-ia_codex-loop-engineering-mcp-workflows_transcript.txt
 
 ## Fichiers modifies
