@@ -1,0 +1,577 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+2
+
+Image d'avatar
+Quel est le meilleur modèle (prix VS qualité) de GPT-5.6 ?
+Melvynx
+Melvynx
+62 k abonnés
+
+Rejoindre
+
+
+67
+
+
+Partager
+
+Télécharger
+
+Enregistrer
+
+2 844 vues  13 juil. 2026  #cursor #claude #ia
+Ma formation IA : https://mlv.sh/rT8QiyK
+
+▶ TIMECODES
+0:00 - Introduction
+1:30 - Méthodologie des benchmarks IA
+3:00 - Analyse du test créatif Elysian
+4:30 - Comparaison avec Claude Sonnet
+6:00 - Tests du modèle GPT 5.6 Sol
+7:45 - Performances de GPT 5.6 Terra
+9:30 - Promotion de la formation IA
+11:00 - Analyse des données et métriques
+12:15 - Test de l'application tremblements de terre
+13:45 - Résultats de Claude Fable
+15:00 - Analyse de l'interface utilisateur
+16:30 - Comparaison des modèles sur Claude Code
+18:15 - Test de physique Car Crash
+19:45 - Conclusion et recommandations finales
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+AI Builder Mobile : https://mlv.sh/fm
+NowStack SaaS : https://mlv.sh/fn
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx présente un nouveau protocole de test automatisé via Codex pour comparer les performances créatives et techniques des modèles GPT 5.6. À travers des défis de design web et de simulation physique, cette analyse explore l'équilibre entre intelligence, coût et pertinence pour le développement d'applications réelles.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+62 k abonnés
+Vidéos
+À propos
+20 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@antoinegeneration9649
+il y a 23 heures
+Mel comment on expplique la différence de résultats de gpt dans claude code et codex, ce qu’il a fait dans claude code est exclent
+
+
+
+Répondre
+
+
+@joeguilian2829
+il y a 23 heures (modifié)
+Salut, as tu déjà essayé de lancer le même test sur la même ia pour voir si le résultat varie en therme de qualité ?
+
+1
+
+
+Répondre
+
+
+@Obscu-rium
+il y a 5 heures
+Quand tu dis Chatgpt 5.6 dans claude code, c'est dans la desktop app ou le CLI ? Comment tu fais pour avoir chatgpt dans claude code ?
+
+
+
+Répondre
+
+
+@Naussicaaa
+il y a 1 jour
+voilaaa Merci bg ;)
+
+
+
+Répondre
+
+Melvynx
+·
+
+1 réponse
+
+@jeanmenges3678
+il y a 22 heures
+T'as le plugin superpowers ou c'est stock ?
+
+
+
+Répondre
+
+
+@leseulv
+il y a 18 heures (modifié)
+Très bonne vidéo, mais je pense qu'une comparaison entre Sol Medium, Luna Ultra et Terra Ultra aurait été mieux, pour voir si on a vraiment un meilleur résultat pour moins chère, surtout que le premier graphique montre que le medium est largement au-dessus des autres en score aussi
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Antonin1423
+il y a 1 jour
+Et comment se compare 5.6 sol contre opus 4.8 ?
+
+2
+
+
+Répondre
+
+
+4 réponses
+
+@mgams4830
+il y a 1 jour
+"préssiz" - Melvynx 
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Madum_tv
+il y a 1 jour
+J'ai toujours du mal avec le mot intelligence quand on parle de ceq technologie... Pour moi l'intelligence c'est toujours les humains qui l'utilise et la programmae... Le terme n'est pour moi pas bon
+
+
+
+Répondre
+
+·
+
+4 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:00Quand on regarde les benchmarks ici de Artificial Intelligence euh intelligence, on se rend compte qu'on a trois grands nouveaux modèles de GPT. On
+0:088 secondesa GPT 5.6 Sol, on a GPT 5.6 Terra et GPT 5.6 Luna. Et donc j'ai fait pas mal de
+0:1616 secondestests pour vous dire quel modèle utiliser. Et quand on regarde ce graphique qui compare ici l'intelligence
+0:2323 secondesà au prix, on peut se dire que on va pouvoir choisir des modèles du style ici
+0:3030 secondesGPT max et ultra pour les tâches qui demandent le plus d'intelligence. Et ensuite quand on compare Luna et Terra, ça devient un peu plus dur parce qu'on
+0:3939 secondesse rend compte que les deux en mode ultra ne sont séparé que de quelques points et pourtant ils sont séparés d'un prix d'une différence de prix massive.
+0:5050 secondesEt donc on peut se dire qu'on a un intérêt ici à utiliser des modèles comme Luna pour des petites tâches en règle générale. En sachant que moi le
+0:5959 secondesmodèle entre guillemets que je recommande qui me paraît être le plus intelligent et qui fait la majorité de mes tâches très très bien c'est ici GPT
+1:081 minute et 8 secondes5.6 sol. Mais on peut voir ici que GPT 5.6 Luna se retrouve beaucoup plus
+1:161 minute et 16 secondesintelligent que GPT 5.6 sol médium. ici dans un sens euh tout en ayant voilà des
+1:251 minute et 25 secondesrésultats très différents. Et donc je me suis dit je vais lancer plein de tests et j'ai complètement refaçonné ma façon de tester. Donc ici encore une fois full
+Chapitre 2 : Méthodologie des benchmarks IA
+1:331 minute et 33 secondescodex ici j'ai setup un dossier benchmark et je peux maintenant lancer des benchmarks directement en passant
+1:401 minute et 40 secondesune la liste des modèles et je peux tester l'intégralité des modèles. Par exemple, ici, j'ai comparé sur celui-ci
+1:491 minute et 49 secondesGPT 5.6 Médium versus GPT 5.6 Terra Hi versus GPT 5.6 Luna Hii. Ici pour une
+1:591 minute et 59 secondesépreuve de taste. OK. Et ça va être très intéressant de comparer tout ça. Alors, si je vais dans mon application juste ici, voilà un peu à quoi ça ressemble.
+2:072 minutes et 7 secondesJe pense qu'on va retrouver cette application plusieurs fois dans dans ces vidéos de test de modèle parce que en fait ici j'ai tous les tests que j'effectue qui sont automatiquement
+2:162 minutes et 16 secondesmonitorés par Codex et ici je peux tester le les tests tout simplement.
+2:212 minutes et 21 secondesDonc là par exemple on a ce EIA test et donc Elyia c'est pour tester la créativité. OK donc je vais tout de
+2:292 minutes et 29 secondessuite te montrer le prompt. Donc les prompts sont tous basés ici sur code.velvinx.dev.
+2:342 minutes et 34 secondesJe sais que ça vous intéresse tout le temps d'avoir les les les promes, donc vous les aurez tous ici. Donc create a nonforgettable landing page for a fictional premium brown called.
+2:462 minutes et 46 secondesUtilise ces quatre images pour générer ceci. Ici on a euh quatre images. Euh the experience should field imaginative editorial luxur slightly.
+2:572 minutes et 57 secondesÇa doit donner une impression forte et immédiatement révéler ta personnalité.
+Chapitre 3 : Analyse du test créatif Elysian
+3:023 minutes et 2 secondesCreative Freedom, tu dois être Creativity, faire des décisions unexpected. Tu as une liberté totale sur
+3:103 minutes et 10 secondesla copie, les transitions et cetera. Ne place pas les images de manière, prends-les comme un vrai matériel et
+3:173 minutes et 17 secondescetera. Déliver, tu dois créer l'application et cetera. Donc ici, on va tester et on va tester entre guillemets celui qui devrait être le meilleur,
+3:253 minutes et 25 secondesCloud Fable. Donc voici à quoi ressemble Cloud Fable. Donc euh ici les images que j'ai donné et donc là c'est très stylé.
+3:323 minutes et 32 secondesEuh parce que les images que j'ai donné, si je vous les affiche, c'est des images d'un d'un outil sympa qui s'appelle background.
+3:413 minutes et 41 secondesEt j'ai téléchargé leurs images ici gratuites et j'ai téléchargé un pack, tu vois, avec c'est avec ces quatre images juste ici. Hop, je vais te mettre
+3:493 minutes et 49 secondescelle-là. Voilà, ici un panthéon et euh celle-ci. Et je lui ai dit "Bah voilà, tu dois créer le site avec tout ça." Et
+3:563 minutes et 56 secondesdonc là, ici, on a ça. Claude Fable, on peut voir qu'on a le curseur l'igéan avec ici l'image qui est là. le
+4:024 minutes et 2 secondesbackground et là texte de collection là tuas waouh ces animations sont folle tu
+4:104 minutes et 10 secondest'imagines à l'époque ces sites quand on voit ces sites là oh j'ai des cheveux qui dépassent j'espère que vous aimez la nouvelle casquette quand on voit ces sites là on se dit waouh en
+4:194 minutes et 19 secondesfait ça paraît plus ou moins normal et cetera mais en fait c'est assez fou he donc là on peut voir toutes les datas ça a pris 20 minutes pour faire ça thinking
+4:274 minutes et 27 secondesmedium avec cloud cod et là j'ai un bouton pour voir le transcript alors Le transcript, je le trouve dégueulasse mais écoutez, on verra plus tard. Donc
+Chapitre 4 : Comparaison avec Claude Sonnet
+4:364 minutes et 36 secondeslà, on peut voir que quand over ça vient changer les images. On a ici l'image et on a de scolar. Look is not rarity is a thing that should exist existing anyway.
+4:474 minutes et 47 secondesHop. Waouh, regardez-moi cette animation sur Fable. Hop. Hop. Donc ça c'est la waouh franchement, il a fait une bonne
+4:554 minutes et 55 secondesutilisation des images. Il a vraiment bien bossé. C'est assez impressionnant.
+4:594 minutes et 59 secondesSi on compare juste pour le fun avec euh Sonet, donc juste ici, j'ai un bouton autoscroll qui permet un peu de de scroller les deux sites de manière
+5:075 minutes et 7 secondesautomatique. On peut voir que son a quand même un style où on retrouve pas mal de petites choses. OK hein, donc
+5:145 minutes et 14 secondesjuste ici avec les deux avec les deux applications, avec la collection. Donc là, on a un écran qui est un peu plus petit d'ailleurs. Poup, hop, là. Son qui
+5:225 minutes et 22 secondesfait aussi un très beau travail hein, des belles images d'un seul coup, ça donne un très beau travail et on peut voir qu'ils ont quand même bien compris la couleur et le thème des images parce
+5:305 minutes et 30 secondesque là les fontes ont été correctement respectées. Le site est original, on a ces images qui sont vraiment impressionnantes, qui créent beaucoup d'effets et ils ont vraiment utilisé
+5:385 minutes et 38 secondestout le pouvoir. Alors là, alors là le scroll est lent pop, on va rendre ça plus rapide. Et voici un petit peu les
+5:465 minutes et 46 secondesversions de sonnet. Maintenant, si on teste et on compare un petit peu les versions de sol, donc là on va d'abord comparer sol sur Codex. Donc ça c'est
+5:555 minutes et 55 secondesSol sur Codex. OK. Donc là, on a toujours la header de House of Elsware.
+Chapitre 5 : Tests du modèle GPT 5.6 Sol
+6:026 minutes et 2 secondesDonc apparemment Sol est devenu le top 1 des modèles. Donc là déjà si on compare juste euh le début, je sais pas trop
+6:116 minutes et 11 secondesquoi en dire. Si ici on zoome euh on a on a un joli site et là on a un joli site, je sais pas, je sais pas, mettez
+6:206 minutes et 20 secondesdans les commentaires celui que vous préférez hein. Vous tapez le site qui s'appelle, vous tapez Elisan et vous dites le modèle que vous préférez he si
+6:276 minutes et 27 secondesc'est Cloud ou GPT 5.6. Mais ici, on peut voir les effets de collection. Et là, voilà. We do not make object, we
+6:356 minutes et 35 secondesmake any vence in another world. Hunter what remember you. Ça c'est très joli cette image qu'il a fait avec ce bruit. Un petit peu d'originalité.
+6:446 minutes et 44 secondesThe current know your name. Night is ending. Et là, c'est là où ça slope un petit peu là. Là, j'ai pété 5.6 seul. Il
+6:516 minutes et 51 secondesa sloppé. Donc encore une fois en thinking medium, leave the war as you found it et request a key. Waouh ! OK,
+6:596 minutes et 59 secondesil a fait une invitation. Donc là, si on prend lui, ce qui est intéressant, c'est de comparer sol avec sol code. Et donc
+7:077 minutes et 7 secondeslà, c'est assez impressionnant la différence de style. C'est les deux les mêmes modèles, sauf que celui-ci a été effectué sur Cloud Code. Vous pouvez le lire juste ici avec en l'occurrence le
+7:167 minutes et 16 secondesthinking XI apparemment. Et apparemment on n' pas le temps qui a été record juste ici. Donc c'est peut-être Ah non, je crois que ça c'est une ancienne
+7:257 minutes et 25 secondesversion que j'ai fait. Oui oui oui s'il y a pas de time, c'est que c'était une ancienne version. OK, autant pour moi.
+7:307 minutes et 30 secondesJ'ai pas retesté sol euh sur euh sur Codex. J'ai pas l'impression d'avoir testé. Faut que je fasse des versions.
+7:397 minutes et 39 secondesMais bon. Encore un autre truc.
+7:417 minutes et 41 secondesMaintenant, si on compare sol avec Terra en thinking high, donc là vous voyez que ça n'a rien à voir. Sol Terra, si là je
+Chapitre 6 : Performances de GPT 5.6 Terra
+7:497 minutes et 49 secondeslance le auto scroll, on a quand même un style. Alors d'ailleurs, on retrouve ici le même style que Fable avec ici Terra,
+7:587 minutes et 58 secondesmais on a quand même un style qui est beaucoup plus premium, luxurius, même si Ken Terra nous a fait un truc pas trop mauvais ici, le temps est quand même
+8:068 minutes et 6 secondesdeux fois supérieur. On a 14 minutes contre 23 contre 8 minutes juste ici.
+8:138 minutes et 13 secondesDonc Terra qui a allé beaucoup plus vite mais qui a fait un peu plus de trucs.
+8:168 minutes et 16 secondesWhat the fuck ? Si on le zoome juste ici, ça c'est pas très très beau. Ça c'est joli. Ça c'est ça c'est une bonne utilisation de cette image. Et ça c'est
+8:258 minutes et 25 secondestrès moche. Voilà. Donc vous voyez déjà que sol et Terra en terme de taste malgré que lui alors j'ai perdu Terra
+8:328 minutes et 32 secondesmalgré que lui il est en high et lui il est en médium. Si on regarde l'image que j'avais partagé juste avant ou juste ici hein, quand on regarde, si j'enlève ici
+8:418 minutes et 41 secondesfable qu'on voyait un peu plus sol, j'ai pété 5.6 sol médium, il est là et j'ai pété 5.6 terra ici en Xi. Vous voyez
+8:518 minutes et 51 secondesqu'ils sont à peu près à la même intelligence mais en terme de créativité on a quand même un style qui n'a rien à
+8:588 minutes et 58 secondesvoir, un style bien meilleur. Si en plus ici j'ajoute Luna, alors si là on compare Terra et Luna et qu'on starte
+9:069 minutes et 6 secondesl'autocroll comme ceci, vous voyez que là Luna ça devient encore plus n'importe quoi. C'est c'est encore autre chose.
+9:149 minutes et 14 secondesDonc là d'un seul coup Terra, il semble plus joli. Donc vous voyez que malgré en fait que là d'ailleurs vous voyez que j'ai choisi j'ai pété 5.6 Terra et là,
+9:239 minutes et 23 secondesj'ai choisi Luna en Xi, donc en extra high thinking. Et pourtant, on se retrouve avec donc là vous voyez deux
+Chapitre 7 : Promotion de la formation IA
+9:309 minutes et 30 secondestrucs stupides. Vous voyez déjà que le style est pas est pas super mais vous voyez surtout Oups, attends attends attends, tu peux taper maintenant sur
+9:389 minutes et 38 secondeston browser mlv.sh/formationai et tu vas pouvoir rejoindre les plus de
+9:459 minutes et 45 secondes14000 personnes qui ont ici rejoint ma mini formation. Cloud codex cursor avec
+9:539 minutes et 53 secondesma configuration gratuite de skill et d'outils que j'utilise au quotidien ainsi qu'une des des petits tutoriels qui vont t'apprendre à devenir un AI
+10:0210 minutes et 2 secondesenginer. Alors ici, tu peux juste savoir et cliquer sur je sais coder ou je sais pas coder et ensuite tu peux rentrer ton
+10:0910 minutes et 9 secondesemail, ton prénom et tu vas pouvoir recevoir ça gratuitement. Donc tu peux t'arrêter tout de suite, aller sur le lien qui est juste en dessous de cette
+10:1610 minutes et 16 secondesvidéo ou taper mlv.sh/fa pour t'inscrire. immédiatement à cette masterclass gratuite. Ah lui lui il est déjà terminé. Ouais et beaucoup moins.
+10:2410 minutes et 24 secondesLe site il est super court. 24,18 minutes pour Luna de ce que j'ai vu du
+10:3210 minutes et 32 secondestranscript. Donc bon là j'avais quand même fait les chiffres, je vais essayer de les afficher dans l'interface. Mais ici, si je regarde les métadata sur le
+10:4110 minutes et 41 secondesbenchmark qui sont juste ici avec le transcript analysis, on peut voir ici que GPT 5.6 Luna, il a 46 % de contexte,
+10:5110 minutes et 51 secondes5 % de planning, 23 % d'implémentation et ici 24 % de vérification. Donc là, beaucoup plus de contexte. Je pense
+10:5910 minutes et 59 secondesqu'il faudrait aussi que j'affiche affiche non seulement le pourcentage mais aussi le temps estimé s'il te plaît en fonction du temps global du modèle.
+Chapitre 8 : Analyse des données et métriques
+11:1011 minutes et 10 secondesVous voyez que je suis vraiment en train de m'éclater avec ces tests. On est vraiment passé au-dessus. Euh run where back filled the de percentage. Voilà.
+11:1911 minutes et 19 secondesMais donc ici beaucoup plus de de d'analyse quand Sol a moins d'analyse, Terra a plus d'analyse et Sol a encore
+11:2611 minutes et 26 secondesune fois moins d'analyse encore moins sur cloud code. Donc CCX ici ça veut dire code connex [rires]
+11:3411 minutes et 34 secondesen gros. Mais donc ici on peut voir une sacrée différence et ce qui me fait dire que ce graphique là en fait finalement
+11:4011 minutes et 40 secondesce 5.6 Luna, il reste moins bien que le médium ici de GPT 5.6 sol. J'ai l'impression dans l'idée quand même.
+11:4911 minutes et 49 secondesDonc ça c'était pour ce test Elisia.
+11:5111 minutes et 51 secondesJ'ai fait un autre test cette fois qui va tester un petit peu non seulement la capacité de taste mais aussi voilà de tous ces points. Et donc là on va
+11:5911 minutes et 59 secondescomparer Headquarter Explorer. Alors on va s'amuser d'abord avec Fable pour voir un petit peu à quoi ça ressemble. Donc
+12:0612 minutes et 6 secondesici, c'est simple, il y a une API publique qui permet d'avoir tous les derniers tremblements de terre et je lui demande bah voilà depuis ce tremblement
+12:1412 minutes et 14 secondesde terre, depuis ces données de tremblement de terre, tu dois créer une interface. Donc encore une fois et pour objectif de tester euh la créativité,
+Chapitre 9 : Test de l'application tremblements de terre
+12:2112 minutes et 21 secondesdonc voilà, design, une application qui montre les activités des tremblements de terre autour autour de la terre. Tu dois utiliser des un vrai tu dois faire un
+12:3012 minutes et 30 secondesvrai produit, pas juste un truc pour un curious et cetera. Ça doit vraiment aider les gens et avoir une vraie
+12:3812 minutes et 38 secondesexpérience. Tu dois utiliser l'API blab blabla, pas besoin d'API key. Boom, voici toutes les URL dont tu as besoin.
+12:4512 minutes et 45 secondesPour les custom query, tu peux faire ça.
+12:4712 minutes et 47 secondesProduct intent, tu dois entre répondre à toutes ces questions. Create trustworthy col precise systémique observative, c'est pas mal.
+12:5812 minutes et 58 secondesAffiche une visual inspiration avec une map et cetera. create une interaction,
+13:0713 minutes et 7 secondesévite les boards génériques et reste sur un bon système. Donc core experience, global map, even stream, time blablabla.
+13:1613 minutes et 16 secondesDonc ça c'est tous les requirements. Tweet every state as part of the design.
+13:2013 minutes et 20 secondesBah il est peut-être un peu long ce prompt. J'aurais dû j'aurais dû le review mais bon on a quand même le résultat sur Cloud Fab. Donc là on peut voir afficher les 7 derniers jours. Les
+13:2913 minutes et 29 secondestremblements de terre. Est-ce qu'il y a des tremblements de terre en Cicile ?
+13:3213 minutes et 32 secondesNon. Wouh ! Il y a des sacrés tremblements de terre là-bas. C'est assez c'est assez intense. Là, Ici, on peut voir qu'on a l'activité systémique
+13:4013 minutes et 40 secondesdepuis une semaine où là on a depuis 24 heures avec tous les tremblements de terre. Ah ouais, c'est vrai qu'à San Francisco en Californie ici, ça envoie
+Chapitre 10 : Résultats de Claude Fable
+13:4913 minutes et 49 secondesles tremblements de terre de fou. Là, on peut cliquer sur les tremblements de terre et voir les détails. Donc, vous voyez que l'application est vraiment super super complexe, super belle.
+14:0014 minutesLe style est quand même super propre.
+14:0214 minutes et 2 secondesFranchement, c'est une application qui pourrait faire l'affaire même si maintenant on se rend compte que c'est Si on compare avec Clud Son5, vous voyez
+14:0914 minutes et 9 secondesici que c'est infamme, on peut même pas voir la map. Donc la map fonctionne pas ici en one shot. Par défaut, c'est en 7 jours.
+14:2014 minutes et 20 secondesOn a ce graphique là qui est pas au top.
+14:2214 minutes et 22 secondesJe peux quand même cliquer mais en terme d'expérience, c'est beaucoup moins bon.
+14:2614 minutes et 26 secondesEt pourtant, ils ont pris autant de temps. Donc vous voyez ici que son est vraiment un modèle à la ramasse. C'est c'est même pas c'est même pas comparable
+14:3314 minutes et 33 secondesau bout d'un moment. Maintenant, j'ai pété 5.6 sol en thinking médium sur euh sur cloud code ici. Donc sur cloud code.
+14:4414 minutes et 44 secondesDonc là, vous voyez le résultat. Faultline Global Systemic Observatory.
+14:4914 minutes et 49 secondesL'UI est cool aussi dans un sens. Je pense que je suis trop habitué aux Ui de Claude, mais cette UI là, elle elle on
+14:5714 minutes et 57 secondespeut être d'accord qu'elle ne rappelle pas les UI dégueulasse qu'on a l'habitude d'avoir généralement sur GPT.
+Chapitre 11 : Analyse de l'interface utilisateur
+15:0415 minutes et 4 secondesDonc on a déjà une énorme amélioration du design ici pour GPT 5.6 sol qui a fait quelque chose de bien meilleur.
+15:1115 minutes et 11 secondesEnsuite, on a tous les emojis. Alors le problème c'est qu'on a pas les couleurs ici malgré qu'il a fait les couleurs ici. Et si là on clique alors là je
+15:1915 minutes et 19 secondescrois que la page refresh parce qu'il est en train de coder ce con. Mais là, on a hop ! Et si là, je m'amuse à cliquer sur un au hasard, on a du coup
+15:2815 minutes et 28 secondesOK, on ne voit pas l'image. OK, donc c'est pas super responsif parce que là quand je clique, j'ai l'impression que je ne vois pas le détail. Oh, ici c'est
+15:3515 minutes et 35 secondesun peu plus responsif. On va mettre en full screen juste pour un peu voirin.
+15:3915 minutes et 39 secondesDonc là, hop, on a tous les détails juste ici. On peut Ah, ça c'est buggé par contre. Alors, je sais pas si c'est buggé à cause du fait que j'ai que j'ai
+15:4915 minutes et 49 secondesmis ça ici. On va tester si là c'est un peu moins buggé. Non, là ça c'est pas top. US là ici il a merdé mais on a
+15:5715 minutes et 57 secondesquand même quelque chose qui est qui est pas trop mal. Maintenant quand on compare au modèle Luna sol et cetera, tous sur Codex. Alors déjà GPT 5.6 sur
+16:0616 minutes et 6 secondesCodex. Là, vous voyez qu'on a un petit peu une sorte de choses étranges. Donc encore une fois, le modèle avait la liberté d'utiliser la map qu'il voulait,
+16:1516 minutes et 15 secondesmais là, il a décidé de nous dessiner une map un petit peu au pinceau mouillé.
+16:2016 minutes et 20 secondesAlors, on reconnaît un petit peu l'Europe qui est maintenant un rectangle.
+16:2416 minutes et 24 secondesIci, c'est le bordel. Donc là, c'est infame. Sur codex, vous voyez que en plus les points bug. Je peux pas cliquer sur les points. Cependant, je peux
+Chapitre 12 : Comparaison des modèles sur Claude Code
+16:3216 minutes et 32 secondescliquer ici, ça marche bien. Le style en règle générale de l'application fait un peu plus IA que ce qu'on avait sur Cloud juste ici. Mais on a un bon résultat. 14
+16:4116 minutes et 41 secondesminutes juste ici. Maintenant, si on compare avec Terra, vous voyez que Terra fait beaucoup plus IA. Terra me rappelle juste avec cette fonte là beaucoup plus
+16:4916 minutes et 49 secondesce que pouvait faire GPT 5.5 dans l'idée. Past 24 hour. Là, les continents sont encore moins bien faits. On peut pas cliquer. On a le graphique là qui
+16:5716 minutes et 57 secondesest un peu fait quand tu as la flemme, quoi. Ça sent un peu la flemme. Voilà, par rapport à et là Luna. Donc là Luna, on a un graphique qui est encore plus
+17:0617 minutes et 6 secondesaléatoire en terme du X. Quand on clique, en fait, je peux pas changer de clic. On peut voir qu'on a cet event là qui est cliqué ici mais je peux pas
+17:1417 minutes et 14 secondeschanger. Je dois cliquer ici. Je dois cliquer là mais je peux pas cliquer là.
+17:1917 minutes et 19 secondesLes couleurs sont quand même respectées ici, mais on peut voir qu'on a un design encore moins bien. Alors qu'ici, on est en Luna extra high et là on est en GPT 5
+17:2917 minutes et 29 secondesTER high. Donc on a toujours un thinking qui est différent. Juste ici, on peut voir les différences qui sont énormes.
+17:3517 minutes et 35 secondesDonc là, j'ai Cloud Code, Claude Sonet, Claude Fable et là, on peut voir quand même un clair gagnant qui est Claude Fable et sol mais sur Claude code. Et
+17:4417 minutes et 44 secondeslà, c'est intéressant, c'est qu'il y a eu pas mal de tweets de gens qui disaient euh GPT5. Sol est meilleur. On peut voir ici en design que sur Codex.
+17:5417 minutes et 54 secondesEt on peut voir que c'est vrai parce que là, on a une vraie map. On a Open Street Map qui a été utilisée contrairement à l'autre qui a utilisé un moins bon
+18:0118 minutes et 1 secondeoutil. C'est ce qu'on peut détecter juste ici. Mais le plus important ce qu'on peut voir c'est que les modèles sol et Terra ici sont bien moins bons.
+18:1118 minutes et 11 secondesJ'ai fait aussi l'expérience avec Car crash. Alors avant la mise à jour du temps, mais si on compare Sol Car crash, voilà euh Sol Car crash. Donc ici avec
+Chapitre 13 : Test de physique Car Crash
+18:2018 minutes et 20 secondesun thinking médium. Si je vous mets Luna Carrash à côté, vous voyez qu'ici, bon déjà, il y a pas le bouton test juste ici, mais vous voyez que dès le départ
+18:2918 minutes et 29 secondesdes briques, même si je mets la la voiture super lente, on a ici la physique qui n'est pas respectée. Donc
+18:3618 minutes et 36 secondesLuna, malgré un thinking en extra high, donne un très mauvais résultat de ce qu'on peut voir juste ici. GPT 5.6 euh
+18:4618 minutes et 46 secondesLuna ici en cloud code. Donc là, j'imagine que c'est une deuxième run que j'ai faite. Donc là, deuxième run de
+18:5218 minutes et 52 secondesLuna. Donc j'ai pété un OK, ça c'est Luna mais sur Cloud Code alors qu'avant c'était Luna sur Codex. Donc là sur Cloud Code ça marche tout aussi peu
+19:0119 minutes et 1 secondebien. C'est vraiment un modèle malgré qu'il soit en thinking extra high qui n'a pas un super résultat. Juste ici si on va voir Grock 4.3. Bon ça on a déjà
+19:1019 minutes et 10 secondesvu ici qu'est-ce qu'on a ? On a Sol Ultra. Et là vous voyez que Sol ultra d'un seul coup c'est c'est le top du top. Alors d'ailleurs quelqu'un qui m'a
+19:1719 minutes et 17 secondesdit que si c'était un Cyber Truck euh Ouais. C'est un cyber truck vite fait pour la personne qui m'a dit ça. Fable 5
+19:2519 minutes et 25 secondesmédium sonnet 5 son 5. C'était honteux, on se rappelle hein, ça n'a aucun sens.
+19:3319 minutes et 33 secondesBref, et ça c'était des anciens tests, hein. C'est plus la c'est plus la même date. Faudrait que je fasse un filtre des dates. Vous voyez que son 5 honte
+19:4019 minutes et 40 secondespas possible. Et donc voici un petit peu ce que j'ai découvert avec ces tests.
+Chapitre 14 : Conclusion et recommandations finales
+19:4519 minutes et 45 secondesAlors qu'est-ce que c'est mon conseil en règle générale ? Je pense que c'est d'éviter. J'ai pété 5. Luna et j'ai pété 5. Terra complètement.
+19:5519 minutes et 55 secondesAlors je sais pas, j'espère pas que vous entendez la musique, sinon je vais me tuer parce queapparemment j'ai de la musique ici. Hop. Et de ce focus sur
+20:0420 minutes et 4 secondesuniquement sol si vous l'avez [grognement] en médium 70 % du temps et en extra en max, pas en ultra. Ultra, ça
+20:1420 minutes et 14 secondessert à rien. L'intelligence différence entre ultra et max est minime. Donc extra high ou max uniquement. Donc ça 80
+20:2220 minutes et 22 secondes% du temps et 20 % du temps l'autre modèle qui est juste ici. En tout cas, mon avis et dites-moi ce que vous en pensez et ce que vous avez pensé de ces
+20:2920 minutes et 29 secondesbenchmark. Si vous avez envie d'essayer d'avoir cette application que je la mette en ligne, je peux essayer de la sur mon VPS Doc Ploy avec toutes
+20:3720 minutes et 37 secondesles run et je pourrais peut-être lancer les runs directement là-dessus. Ça fera un peu peut-être du bien à mon ordinateur d'éviter d'avoir tout dessus.
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+26:02
+Je teste les pires recettes protéinées d'internet
+Gurky
+35 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+16:00
+J'arrête Vercel : je migre pour un nouvelle outil qui me coûte 2x moins chère
+Melvynx
+502 vues
+•
+il y a 2 heures
+Nouveau
+
+
+1:39:52
+Le docteur Malbouffe : « Cet aliment est pire que le tabac ! » - Chris Van Tulleken
+The Diary Of A CEO
+2,3 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+11:34
+🎧 ⚠️ Podcast SecuriTalk Ep 307 : IA Rebelle — Quand l'algorithme refuse d'obéir à son créateur 🤖🚫
+SecuriTalk+
+2 vues
+•
+il y a 1 heure
+Nouveau
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+8,1 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+68 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+2:39:50
+Expert anti-âge : lâchez vos tickets de caisse ! L'astuce ultime pour brûler la graisse viscérale
+The Diary Of A CEO
+ et FoundMyFitness
+3 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+2:13:52
+Des nouvelles après 3 mois, Zone-Artisanale et Nouveaux formats (vidéo temporaire)
+Trouble Fait
+4 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+14:06
+Le NOUVEAU ChatGPT : Work, GPT 5.6, Codex... tout a changé, et c'est GÉNIAL !
+Labo Des Réseaux
+411 vues
+•
+il y a 2 heures
+Nouveau
+
+
+15:44
+Mes 5 Agents IA partagent enfin une seule Mémoire
+Mike Codeur
+2,2 k vues
+•
+il y a 12 heures
+Nouveau
+
+
+30:25
+Loi euthanasie : le peuple a-t-il encore son mot à dire ?
+François Asselineau
+262 vues
+•
+il y a 2 heures
+Nouveau
+
+
+16:38
+Dishonored 2 - CE JEU EST UN MONUMENT.
+Le Shesh
+187 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+19:01
+Deepseek vient de faire EXPLOSER l'industrie de l'IA (encore)
+Vision IA
+79 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:01:47
+Expert en insuline : L’insuline est plus dangereuse que le sucre ! Brûle les graisses
+The Diary Of A CEO
+3,8 M de vues
+•
+il y a 6 mois
+Doublée
+
+
+2:43:35
+Expert en langage corporel : arrêtez ça, cela fait que les gens ne vous aiment pas
+The Diary Of A CEO
+13 M de vues
+•
+il y a 1 an
+Doublée
+
+
+26:46
+Je teste les restaurants en CAMPAGNE au Japon (un seul a refusé)
+Louis
+165 k vues
+•
+il y a 3 jours
+Nouveau
+
+23:11
+Comment installer Hermes Skills (Guide complet pour débutants)
+Dr. Firas
+583 vues
+•
+il y a 1 jour
+Nouveau
+
+Engineer vip #58 #construction #workers #adamrose #funny #engineering
+3 M de vues
+
+She Moves Like an Angel 😳 Gabi Butler #documentary #netflix  #cheerleader
+1,1 M de vues
+
+la recette de #pancakes de mon fils #short
+2,6 M de vues
+
+KFC a payé 11 000$ pour nommer un bébé 😭
+805 k vues
+
+SECRET chez PEPE CHICKEN 😱
+1,4 M de vues
+
+소리를 확인하지 마세요 😂😂
+7,8 M de vues
+
+
+2:58:49
+Expert anti-âge : Manquer cette vitamine est comme fumer ! La vérité sur la créatine !
+The Diary Of A CEO
+ et FoundMyFitness
+5,5 M de vues
+•
+il y a 11 mois
+Doublée
+
+2:06:39
+TOUS LES SECRETS INCROYABLES DES CHIENS : ILS SENTENT LE CANCER ET VOIENT LES FANTÔMES ? ESPRIT DOG
+LEGEND
+421 k vues
+•
+il y a 2 jours
+Nouveau
+
+40:28
+Racisme envers un élu LFI ? On en parle ! [J'suis pas content ! #Hors-Série]
+J'suis pas content TV
+199 k vues
+•
+il y a 2 mois
+
+    
