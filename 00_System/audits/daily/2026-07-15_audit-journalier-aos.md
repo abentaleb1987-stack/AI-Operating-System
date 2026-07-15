@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : bab86c2
+- Commit audite : 552b638
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-15 07:31:13
+- Rapport genere le : 2026-07-15 09:33:43
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `552b638` - 2026-07-15 07:31:13 +0000 - Audit - docs(aos): add daily audit report
 - `bab86c2` - 2026-07-14 20:10:18 +0200 - Knowledge batch - docs(aos): process video source batch
 - `3fb41f8` - 2026-07-14 12:03:43 +0000 - Audit - docs(aos): add daily audit report
 
@@ -44,15 +45,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `552b638` - 2026-07-15 07:31:13 +0000 - docs(aos): add daily audit report
 - `3fb41f8` - 2026-07-14 12:03:43 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `552b638` - 2026-07-15 07:31:13 +0000 - Audit - docs(aos): add daily audit report
 - `3fb41f8` - 2026-07-14 12:03:43 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -63,6 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-07-15_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks_transcript.txt
 - A 02_IA/ChatGPT/veille/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks.md
 
