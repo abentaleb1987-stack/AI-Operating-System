@@ -1,12 +1,12 @@
-# Audit journalier AOS - 2026-07-15
+# Audit journalier AOS - 2026-07-16
 
 ## Resume executif
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 552b638
+- Commit audite : ea1a07a
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-15 09:33:43
+- Rapport genere le : 2026-07-16 09:49:40
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,15 +25,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `552b638` - 2026-07-15 07:31:13 +0000 - Audit - docs(aos): add daily audit report
-- `bab86c2` - 2026-07-14 20:10:18 +0200 - Knowledge batch - docs(aos): process video source batch
-- `3fb41f8` - 2026-07-14 12:03:43 +0000 - Audit - docs(aos): add daily audit report
+- `ea1a07a` - 2026-07-16 03:41:49 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- `bab86c2` - 2026-07-14 20:10:18 +0200 - docs(aos): process video source batch
+- Aucun commit.
 
 ### Protocol / system
 
@@ -45,17 +43,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `552b638` - 2026-07-15 07:31:13 +0000 - docs(aos): add daily audit report
-- `3fb41f8` - 2026-07-14 12:03:43 +0000 - docs(aos): add daily audit report
+- `ea1a07a` - 2026-07-16 03:41:49 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `552b638` - 2026-07-15 07:31:13 +0000 - Audit - docs(aos): add daily audit report
-- `3fb41f8` - 2026-07-14 12:03:43 +0000 - Audit - docs(aos): add daily audit report
+- `ea1a07a` - 2026-07-16 03:41:49 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 3
+- Nombre de commits analyses : 1
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -66,13 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-15_audit-journalier-aos.md
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks_transcript.txt
-- A 02_IA/ChatGPT/veille/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks.md
+- A 00_System/audits/daily/2026-07-16_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-07-14_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
@@ -88,15 +82,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- A 02_IA/ChatGPT/veille/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks.md
+- Aucun element detecte.
 
 ## Sources traitees
 
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-14_youtube_melvynx_gpt-5-6-modeles-codex-benchmarks_transcript.txt
+- Aucun element detecte.
 
 ## Toutes les alertes détectées
 
-### AUDIT-20260715-001 - hygiene
+### AUDIT-20260716-001 - hygiene
 
 - Risque : faible
 - Fichier concerne : `repository`
