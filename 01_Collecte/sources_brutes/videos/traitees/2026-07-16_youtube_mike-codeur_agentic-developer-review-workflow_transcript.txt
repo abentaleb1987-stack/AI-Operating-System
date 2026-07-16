@@ -1,0 +1,753 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Le métier de développeur n'existe plus (c'est le PDG de Mistral qui le dit)
+Mike Codeur
+Mike Codeur
+81,6 k abonnés
+
+
+160
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+16 juil. 2026  BALI
+🚀 The Agentic Dev — Newsletter IA & Dev
+https://mkc.sh/the-agentic-dev?utm_so...
+
+🖼️ YouThumb.ai — Génère des miniatures YouTube virales avec l'IA
+https://youthumb.ai?utm_source=youtube
+
+Dans cette vidéo :
+
+00:00 – Intro 
+00:44 - Le constat : le métier de dev a basculé
+02:39 - Le nouveau rôle, concrètement 
+03:38 - Research
+04:05 - Plan
+04:33 - Exécution
+05:01 - Review
+05:23 - Livraison
+05:56 - Le paradoxe 
+07:47 - Le tri qui décide
+07:55 - L'atrophie acceptable
+08:29 - L'atrophie dangereuse
+09:57 - La réponse lucide
+12:45 – Outro
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+
+#saas #ia #agentia #agenticdev #dev
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+81,6 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+🚀 Essaye YouThumb gratuitement
+🚀 Essaye YouThumb gratuitement
+Rejoindre
+32 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@feasytouch
+il y a 7 heures
+Sujet très important, j'ai remarqué moi même que je commençais à perdre une partie de mes compétences, et cela m'a servi de sonette d'alarme. Je vais essayer de me fixer un seuil minimal de code/analyse à la main pour éviter de perdre l'essentiel de mes compétences
+
+6
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@grogustrentz7753
+il y a 1 heure
+merci pour ce retour d’expérience
+
+
+
+Répondre
+
+
+@ink-man
+il y a 9 heures
+0:24 La dequalification c’est un vrai sujet, merci pour la vidéo
+
+1
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@mrdjangofreeman5560
+il y a 1 heure
+Merci Mike, analyse très pertinente 😊
+
+
+
+Répondre
+
+
+@bodhi6k
+il y a 4 heures
+Ca fait penser aux voitures autonomes. On est passé des boites manuelles au boites automatiques, et prochainement on va passer de la conduite manuelle au simple choix de la destination. 
+Et tout ça, se fera dans le plus grand des calmes comme toujours. Personne ne va revenir 200 ans en arrière et acheter un cheval. C'est une marche forcée en avant, on est juste des spectateurs.
+
+2
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@AbrahamKobozo
+il y a 6 heures
+Sois béni
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@spider279
+il y a 9 heures
+Excellent ! Merci pour la vidéo 
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ABouchez
+il y a 7 heures
+Oui, il y a soft et soft. Pour les librairies de base, le code artisanal "handwritten no-AI" a encore toute sa valeur.
+Et déjà certains "développeurs" n'étaient déjà parfois pas très compétents avant l'IA.
+Mais le plus gros problème, cela n'a jamais été d'écrire du code, mais de le maintenir. Et l'IA n'est pas (encore) bonne pour ça.
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@medjimedji9193
+il y a 7 heures
+Merci.
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@lexo8064
+il y a 3 heures
+J'en avais parlé ailleurs et visiblement je n'etais pas le seul à le ressentir comme ça, mais je n'ai plus aucun plaisir à exercer ce metier. Je trouve le dev IA tellement... plat, chiant à mourir. Je ressens rien, j'enchaine juste les instructions et les reviews, sans jamais avoir la moindre satisfaction dans mon travail. Fini le sentiment de satisfaction intense quand tu trouve une solution obscure à ton probleme après des heures de tryhard. Fini le sentiment d'avoir entrevu la matrice quand tu comprends les conditions d'apparition d'un bug mystique. Etant fan d'escape game, c'est comme se faire spoiler toutes les reponses aux enigmes de la salle et juste suivre mecaniquement le chemin jusqu'a la fin de la partie sans prendre le moindre plaisir. Je trouve ça franchement triste perso...
+
+4
+
+
+Répondre
+
+
+@UlrichBadinga
+il y a 3 heures
+Il y a des choses que l'ia ne peut pas faire. Ex: hier j'ai eu un bug avec LMDB (no space left) sur mac uniquement, l'erreur se produisait quand on ouvrait une base LMDB, mais c'était juste un problème de flags. 
+
+Je vibecodais et j'ai remarqué que sur plus 2h l'agent était bloqué sur ce bug, il m'a dit plusieurs fois que c'était réglé, mais non. 
+j'ai regardé, inspecter le code et réglé moi même car le bug était mineur. 
+
+Donc non on peut faire des choses simples(cracher du code) avec l'ia, mais pas d'optimisation, et même il y a beaucoup d'erreurs simples sont très compliqué à résoudre pour l'ia, mais bon on va changer de métier petit à petit (les développeurs de site Web, n'existent plus, ils sont devenus développeurs d'applications Web )
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@superresistant0
+il y a 1 heure
+ça fait un an que c'est fini
+
+
+
+Répondre
+
+
+@thirien59
+il y a 4 heures
+bien sur que si, c'est l'IA qui pique les jobs des juniors.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ld2037
+il y a 5 heures
+Merci pour cette vidéo je me reconnais la dedans, l abus d ia atrophie le cerveau clairement
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@dedelabinouze5110
+il y a 5 heures
+T'es en train de me dire que les PDG de boites IA vantent les mérites de l'IA ??
+Totalement incroyable comme situation 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@maxlamenace7084
+il y a 4 heures
+Si cette tendance ce confirme , le marché recrutera uniquement des sénoirs avec de solide compétance en gestion Agentique en IA !
+Et ça c'est dans les 5 prochain année . En plus , les junoir seront recruté uniqument en école d'ingénireur et les autres sur le marché du travail vont devoir être full IA agenti First !
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Intro
+0:00Alors, il y a quelques jours, je me suis surpris à faire quelque chose d'un petit peu bizarre. Je relis une pool request générée par Cloud Code. Je scroll, je vois que les tests passent, le linter
+0:088 secondesaussi. Je clique dessus, je merge 6 secondes. Le code, je l'ai pas vraiment lu, je l'ai à peine survolé. Du coup, dans l'après-midi, j'y pense et je me
+0:1616 secondespose une question qui fait pas plaisir à entendre. Ce code là, est-ce que je serais encore capable de l'écrire à la main ligne par ligne en 2026 ? Et bien,
+0:2424 secondesla réponse honnête c'était non. Alors, pas dans les détails, pas avec la même rigueur, pas en mode flow. Et j'ai compris que j'étais pas tout seul parce que c'est ça la vraie question que
+0:3333 secondespersonne ose se poser depuis que les agents sont arrivés. C'est de ça dont on va parler et c'est pas confortable. Le
+0:4040 secondesmétier de développeur a changé en profondeur. Alors commençons par poser le décor parce que sinon on va pas se comprendre. Alors le 12 mai dernier,
+Chapitre 2 : Le constat : le métier de dev a basculé
+0:4848 secondesArthur Men, tu connais probablement le patron de Mistral, est auditionné devant l'Assemblée nationale et il dit, je cite, "Les ingénieurs chez Mistral
+0:5656 secondesn'écrivent plus de ligne de code." Aujourd'hui, les ingénieurs chez Mistral ne n'écrivent plus de ligne de code.
+1:021 minute et 2 secondesIl dit pas moins, il dit pas 10 fois moins. Il dit absolument pas du tout. Et il enchaîne, "Vous n'êtes plus un
+1:091 minute et 9 secondesartisan, vous êtes un manager, vous demandez à des agents d'écrire le code pour vous." Et c'est pas un gourou sur LinkedIn qui dit ça, c'est le patron de
+1:161 minute et 16 secondesla seule licorne IA française qui parle à des députés. Carpati aussi en février, il abandonne le mot vibe coding et il
+1:241 minute et 24 secondespropose agentique engineering à la place sa définition. Tu n'écris plus du code, tu orchestres des agents qui le font et
+1:331 minute et 33 secondestu fais la surveillance. Sndar Pichet PDG de Google dit 75 % du nouveau code chez Google est généré par l'IA et
+1:411 minute et 41 secondesapprouvé par les ingénieurs. Pas écrit, il dit il dit approuvé. Chez Anthopiic pareil, le CPO l'a dit. Pour la plupart
+1:481 minute et 48 secondesde nos produits, c'est effectivement 100 % du code généré. Alors qu'on arrête de me dire "Oui, mais c'est normal, ce sont les gens qui produisent LIA qui nous
+1:571 minute et 57 secondesdisent ça, c'est que du marketing et cetera." Et bien, j'ai un autre exemple.
+2:012 minutes et 1 secondeAlors, Stripe par exemple a déployé un système qui s'appelle Minion. C'est des agents qui produisent 1300 pool request par semaine, zéro ligne écrite à la
+2:102 minutes et 10 secondesmain. Et le code là tourne sur les rails qui traitent plus de 1000 milliards de dollars de paiement par an. 1000 milliards. C'est pas un pox, c'est pas
+2:172 minutes et 17 secondesun proof of concept, c'est pas une démo de kynote, c'est de la prode à très grande échelle avec un risque financier réel. Donc voilà un petit peu le décor,
+2:262 minutes et 26 secondesle métier à basculer, pas pour tout le monde, pas partout, pas à la même vitesse, mais la trajectoire est claire.
+2:312 minutes et 31 secondesTu es plus celui qui écrit, tu es celui qui valide. Tu es un product manager d'agent que tu le veuilles ou non. Alors
+Chapitre 3 : Le nouveau rôle, concrètement
+2:392 minutes et 39 secondesconcrètement, qu'est-ce qu'un produ manager d'agent fait de ses journées dans les grandes lignes ? C'est plus ou moins ce que font les grandes méthodes actuelles comme BMAT, tu en as déjà peut-être entendu parler, ou SDD,
+2:482 minutes et 48 secondesSpécify, Super Power et Compagnie. Et bien tous ces modèles convergent systématiquement vers cinq étapes, on va dire. La première, c'est research, plan,
+2:562 minutes et 56 secondesexécute, review et enfin chip, c'est-à-dire la livraison. C'est plus ou moins le cycle d'un développeur classique. Sauf qu'à chaque étape et
+3:043 minutes et 4 secondesbien c'est plus toi qui fait, c'est toi qui orchestre. Alors je vais te donner un exemple he c'est qu' un exemple. ton workflow ressemblera peut-être pas
+3:113 minutes et 11 secondesexactement à ça. Ça va dépendre de ta stack, de ta boîte, de tes outils et cetera, mais l'idée est plus ou moins la même. Ta boîte te demande et bien il
+3:193 minutes et 19 secondesnous faut une fature X Y Z pour la fin du sprint. Et bien comment ça se passait avant 2024 ? Et bien tu aurais ouvert ton IDE VS code et cetera. Tu aurais
+3:273 minutes et 27 secondespeut-être réfléchi un petit peu. Parfois on on zappe un peu les l'étapes de réflexion et puis on va droit au but et on génère du code. Et bien aujourd'hui
+3:353 minutes et 35 secondesc'est différent. Voilà comment ça se passe. La première étape research. Qu'est-ce que tu fais dans cette étape ?
+Chapitre 4 : Research
+3:403 minutes et 40 secondesEt bien, tu lances plusieurs agents de Deep Search en parallèle, pas un mais plusieurs et chacun avec un angle un peu différent. Le but c'est quoi ? C'est
+3:493 minutes et 49 secondesqu'ils explorent le terrain qui te ramène les contraintes, les librairies existantes, les patterns du code, les risques et cetera. Et toi et bien en
+3:563 minutes et 56 secondesfait tu lis le résumé, tu compares, tu vois lequel a creusé en bon endroit et en gros en quelques minutes et bien tu as 20h de recherche compilé. Étape 2, le
+Chapitre 5 : Plan
+4:064 minutes et 6 secondesplan. Tu fais générer trois plans d'architecture en concurrence, chacun par un agent différent, tous brief avec les rouges de ton projet, les standards
+4:134 minutes et 13 secondesdu ripo, les patterns existants, les conventions internes, les contraints business. Et toi, qu'est-ce que tu fais ? Et bien, tu juges lequel respecte le
+4:204 minutes et 20 secondesmieux l'architecture, lequel anticipe les vrais edge case et lequel ne crée pas 5 points de couplage qu'on perra
+4:284 minutes et 28 secondespeut-être dans 6 mois. Tu valides un plan, c'est ta décision la plus importante de la semaine. Allez, la troisème étape, exécution. Qu'est-ce que
+Chapitre 6 : Exécution
+4:354 minutes et 35 secondestu fais ? Et bien, tu spawnes des agents spécialisés en parallèle. On peut dire un agent par exemple pour le bac, un agent pour le front, un agent QL qui
+4:434 minutes et 43 secondesécrit les test pendant que le code est généré et puis si ça touche la DB, tu peux en avoir un agent migration. Bref, tout le monde tourne ensemble et toi et
+4:514 minutes et 51 secondesbien tu fais autre chose. Qu'est-ce que tu fais ? Tu peux préparer la review, tu peux répondre à un slack, tu démarres la fature suivante et quand ils finissent
+4:584 minutes et 58 secondeset bien tu as une PR. Alors la 4rième étape, la revue. C'est là que ton vrai métier se joue. Des agents de revue automatique passent en premier.
+Chapitre 7 : Review
+5:065 minutes et 6 secondesConvention, lint, type security, audit et cetera. Il te ramène un rapport mais l'humain, toi, passe derrière sur les zones qui méritent tes yeux.
+5:145 minutes et 14 secondesAuthentification, paiement, données sensibles, architecture et cetera. Pas sur tout mais sur ce qui compte. Le reste, tu fais confiance à ton pipeline.
+5:225 minutes et 22 secondesAlors, la 5ème étape, la livraison, c'est-à-dire merge, déploy monitoring qui balance une alerte à un autre agent.
+Chapitre 8 : Livraison
+5:275 minutes et 27 secondesSi jamais tu as un problème de latence, tu chipes en 15 minutes ce qui prenait avant plus de 3 jours. Alors voilà, un workflow qui tourne et en fait tu passes
+5:355 minutes et 35 secondesta journée à valider, à comparer, à choisir, à juger. Tuécris plus de code et en fait tu écris des décisions. Et maintenant on va arriver justement à un
+5:435 minutes et 43 secondestruc qui dérange. Et bien dans ce nouveau workflow et bien certaines compétences tiennent toujours la lecture, le système, le test et cetera.
+5:515 minutes et 51 secondeset d'autres compétences et bien tu vas commencer à les perdre avant même que tu t'en aperçoives. Alors voilà le paradoxe que personne articule franchement et qui
+Chapitre 9 : Le paradoxe
+5:595 minutes et 59 secondesmérite qu'on s'y arrête. Je vais te l'énoncer simplement. Pour piloter l'IA, il faut comprendre ce qu'elle fait mais piloter une c'est précisément ce qui te
+6:076 minutes et 7 secondesfait perdre la compréhension. Donc plus tu pilotes, moins tu peux dire si tu pilotes bien. Ralentis un peu sur cette phrase. C'est pas un jeu de mot, c'est
+6:166 minutes et 16 secondesun rugur inversé. tu deviens incompétent sans pouvoir t'en rendre compte parce que ton seul outil d'évaluation et bien
+6:236 minutes et 23 secondesc'est précisément la compétence que tu es en train de perdre et c'est pas un fantasme. Entropique eux-mêmes ont publié une étude là-dessus fin janvier
+6:326 minutes et 32 secondes52 développeurs juniors qui apprennent une nouvelle librairie Python. La moitié avec l'IA, l'autre moitié sans IA. Et bien résultat ceux avec Lia finissent un
+6:416 minutes et 41 secondespeu plus vite mais quand on leur fait passer un test de compréhension, ils ont 17 % en moins. L'équivalent de deux notes en moins. Sur le débug c'est
+6:496 minutes et 49 secondesencore pire parce que tu confies les erreurs à et en fait tu zappes le cycle rencontre diagnostic résintition.
+6:576 minutes et 57 secondesUne étude MIT sur le GG va dans le même sens. Les AV user IA montrent une connectivité cérébrale plus basse. 83 %
+7:057 minutes et 5 secondesd'entre eux peuvent même pas redire les points clés d'un texte qu'ils viennent de produire avec Lia. Pas sans souvenir il y a 6 mois mais pas sans souvenir il
+7:147 minutes et 14 secondesy a 6 minutes. Et donc c'est ce qu'on appelle le cognitif off loading. C'est le nom, c'est-à-dire tu délègues et ton cerveau ne traverse plus. Donc c'est le
+7:237 minutes et 23 secondespiège réel et il est piégeux pour une simple raison. Tu as pas l'impression d'être incompétent, tu as l'impression d'être hyper productif. TPR merge, ta
+7:327 minutes et 32 secondesvélocité monte, ta démo elle passe, mais en dessous le socle qui te permettait de juger est en train de s'effriter. Et là,
+7:407 minutes et 40 secondesje veux pas qu'on tombe dans le piège inverse, celui de la panique morale Lia te rend compte parce que c'est pas vrai non plus. Alors, il faut faire un tri et
+Chapitre 10 : Le tri qui décide
+7:477 minutes et 47 secondesc'est ce tri là qui définit si tu vas durer ou pas. Je dirais qu'il y a deux types d'attrophie et il faut pas les confondre. Il y a une atrophie
+Chapitre 11 : L'atrophie acceptable
+7:567 minutes et 56 secondesacceptable. Par exemple, la syntaxe Pyon qu'on connaît plus par cœur, le Bower Plate Reac, les regex qu'on tape plus de
+8:038 minutes et 3 secondestête, ORM versus SQL, c'est exactement la même attrophie que celle qu'on a déjà accepté de perdre sans drame quand les
+8:108 minutes et 10 secondescompilateurs sont arrivés et on a oublié le code assembleur et cetera. Quand l'IDE ont eu l'auto complète, on a oublié les noms exacts des méthodes.
+8:188 minutes et 18 secondesQuand Stack Overflow est apparu, on a oublié des dizaines de patterns.
+8:228 minutes et 22 secondesPersonne pleure dessus. C'est de la production déléguée et c'est OK. Alors le deuxième type d'atrophie justement, c'est l'atrophie dangereuse. C'est quoi derrière ? C'est les fondamentaux.
+Chapitre 12 : L'atrophie dangereuse
+8:328 minutes et 32 secondesComprendre par exemple pourquoi un use effect peut la merde même si tu sais plus exactement comment écrire un use effect. C'est reconnaître une faille
+8:408 minutes et 40 secondesde sécurité quand tu la lis. C'est sentir qu'une requête va exploser en performance à 10000 utilisateurs. C'est
+8:478 minutes et 47 secondessavoir où mettre la complexité, où isoler les responsabilités, comment penser la concurrence, tout ce qui
+8:548 minutes et 54 secondespermet d'évaluer sans avoir besoin de produire. En fait, ce qu'il dit, faut penser à un chef d'orchestre. Il ne joue pas tous les instruments, il les entend.
+9:039 minutes et 3 secondesSa maestria comme on dit, c'est de reconnaître qu'un violon dans la deuxième moitié glisse d'un quart de ton. Sans cette oreille, fait plus de la
+9:119 minutes et 11 secondesmusique, il agite seulement des baguettes devant des musiciens qui jouent finalement ce qu'ils veulent.
+9:169 minutes et 16 secondesToi, c'est pareil. Tu es pas censé écrire chaque ligne. Tu es censé reconnaître le code qui détonne. Celui
+9:239 minutes et 23 secondesqui marche mais qui va casser, celui qui passe les tests mais qui ouvre une faille. celui qui est propre dans la forme mais aberrant dans l'architecture.
+9:329 minutes et 32 secondesSans cette oreille, sans ses fondamentaux, tu es plus un product manager d'agent. Tu es un type qui clique qui merche parce que les tests
+9:409 minutes et 40 secondessont passés au vert. En gros, tu es un simple codeer. Alors, le pire dans tout ça, c'est que tu auras pas d'alerte.
+9:479 minutes et 47 secondesPersonne va te taper sur l'épaule pour te dire bah tiens, tu as plus trop le niveau. Tu vas juste merger des trucs qui vont casser en prode 6 mois plus
+9:549 minutes et 54 secondestard avec une PR signée par toi. Bien, qu'est-ce qu'on fait avec tout ça ?
+Chapitre 13 : La réponse lucide
+9:589 minutes et 58 secondesParce que la réponse code seulement à la main, abandonne Lia et bien c'est une réponse de réactionnaire. On en a vu plein comme ça sur LinkedIn. Tu vas te
+10:0610 minutes et 6 secondesfaire dépasser par ceux qui orchestrent bien. Les chiffres parlent, je veux dire un AI ingénieur aux US, c'est 43 % de salaire par rapport à un DEF classique.
+10:1510 minutes et 15 secondesLes postes agentique AI en hausse de 280 %. Le marché ne se demande pas ce que tu penses du sujet. Le marché a déjà
+10:2210 minutes et 22 secondestranché. Donc la vraie réponse c'est pas résiste, c'est deviens un product manager d'agent qui sait encore lire la
+10:3010 minutes et 30 secondespartition. Donc concrètement moi dans mon cas. Premièrement, un socle de fondamentaux que je refuse de laisser
+10:3710 minutes et 37 secondespartir. C'est-à-dire que je relie encore du code à froid sans IA régulièrement.
+10:4210 minutes et 42 secondesJe résous des problèmes algorithmiques à la main de temps en temps, pas pour la performance, pas pour perdre la main. Je continue à lire les CVE, les
+10:5010 minutes et 50 secondespostmortems, les blogs de gens qui font tourner des choses en production. Je garde une oreille qui entend si le violon glisse. Un deuxième point des
+10:5810 minutes et 58 secondesSafety net qui assure que je peux merger un truc que j'aurais pas vu. Test automatisé évidemment, mais pas que.
+11:0511 minutes et 5 secondesCode revue humaine sur les zones critiques, monitoring qui balance une alerte si la latence dérive un petit peu, canarie déploy et 0 PR qui touche
+11:1411 minutes et 14 secondesau paiement, à l'authentification, à la sécurité sans une lecture ligne par ligne, pas par LIA mais par mois. Et
+11:2111 minutes et 21 secondesenfin 3è point, c'est pas le plus facile et bien je code encore à la main un peu, je veux pas dire pas à 100 %, pas à 50 %
+11:2911 minutes et 29 secondesmais au moins 10 20 % du temps. C'est ma discipline personnelle et on en reparlera bien sûr dans une autre vidéo.
+11:3711 minutes et 37 secondesC'est ce que j'essaie de mettre en place justement pour éviter la trophie. Et là, on arrive au truc qui me dérange le plus et bien c'est le sort des développeurs
+11:4511 minutes et 45 secondesjunior. J'en ai déjà parlé dans pas mal de vidéos. un développeur junior qui démarre en 2026 et qui coach 100 % avec une et bien il a un problème pas demain
+11:5311 minutes et 53 secondesdans 5 ans quand il sera censé devenir seior. Il aura jamais eu les milliers d'heures de combat avec son propre code
+12:0012 minutesqui font les fondations. Il sera un excellent prompteur mais il sera incapable d'auditer du code. Alors c'est pas sa faute, c'est ce que le marché lui
+12:0912 minutes et 9 secondespropose et c'est pour ça qu'on lit partout que les embauches de junior et bien se cassent un petit peu la gueule.
+12:1612 minutes et 16 secondes- 25 % sur l'entrée level dans le top 15 tech - 67 % sur certains segments. C'est
+12:2312 minutes et 23 secondesmême pas Lia qui pique les jobs. C'est qu'on a pas confiance dans les juniors formés alia.
+12:2912 minutes et 29 secondesC'est un vrai problème si c'est que c'est génial pour des seniors. Ouais mais quand tu démarres tu fais comment ? Comment tu apprends ?
+12:3312 minutes et 33 secondesEt donc toi si tu es seigneor et bien tu es un petit peu responsable de ces juniors là. Faut leur faire des trucs sans IA, même si c'est moins efficace à
+12:4112 minutes et 41 secondescourt terme, j'ai envie de dire et bien c'est leur survie à long terme. Alors voilà, j'ai envie de dire tu es plus un développeur aujourd'hui, tu es un
+Chapitre 14 : Outro
+12:4812 minutes et 48 secondesproduct manager d'agent. C'est acté, le métier a changé. Mais devenir product manager d'agent et bien c'est pas s'asseoir et regarder, c'est garder une
+12:5712 minutes et 57 secondesoreille capable d'entendre quand l'orchestre détonne. Sans cette oreille et bien tu es plus un chef, tu es un type qui agite une baguette devant des
+13:0513 minutes et 5 secondesagents qui font ce qu'ils veulent. Et pour garder cette oreille et bien il te faut un socle, il te faut des safety nets et il faut dans mon cas en tout cas
+13:1313 minutes et 13 secondescontinuer à coder un petit peu à la main, pas par nostalgie, j'ai envie de dire par discipline professionnelle.
+13:1913 minutes et 19 secondesAlors voilà, c'est tout pour cette vidéo. N'hésite pas à me dire en commentaire si toi aujourd'hui tu penses que le métier de développeur a complètement changé. Que penses-tu de ce
+13:2713 minutes et 27 secondesconcept de product manager d'agent ? Ou en gros, tu es le product manager et tu gères des agents. N'hésite pas à me dire tout ça en commentaire. N'hésite pas à
+13:3513 minutes et 35 secondest'abonner à la chaîne. Et si tu avais pas vu la vidéo dans laquelle je te montrais que le métier de développeur est terminé, et bien je te la remets
+13:4213 minutes et 42 secondesici. Ah. [musique]
+
+Tout
+
+Source : Mike Codeur
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+18:38
+The Most Difficult Steak Challenge In Scandinavia | The Dirty Ranch Steakhouse
+Katina Eats Kilos
+2,2 M de vues
+•
+il y a 1 an
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+10 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+16:33
+Mais personne n'utilise l'IA en fait ?!
+Mike Codeur
+3,8 k vues
+•
+il y a 1 mois
+
+
+39:31
+Tech Sama Show #361 : Fin des Disques? Zen 6 Arrive
+Tech_Sama
+9,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+736 k vues
+•
+il y a 2 mois
+
+
+15:44
+Mes 5 Agents IA partagent enfin une seule Mémoire
+Mike Codeur
+4,8 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:59:58
+Expert en sexualité : l’addiction au smartphone tue votre vie sexuelle plus que le porno !
+The Diary Of A CEO
+ et Rena Malik, M.D.
+2,6 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+2:15:30
+Direct n°120 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+45 k vues
+•
+Diffusé il y a 18 heures
+Nouveau
+
+
+13:23
+Une bonne niche n’est pas une niche de riches (ft Jérémy Kohlmann)
+SchoolMaker
+108 vues
+•
+il y a 1 heure
+Nouveau
+
+
+12:23
+À 31 ans, il meurt de sa passion pour le bodybuilding !
+Le Musclay
+66 k vues
+•
+il y a 9 mois
+
+
+16:21
+90 % des utilisateurs ignorent cette puissance de Claude + Notion
+Dr. Firas
+182 vues
+•
+il y a 20 heures
+Nouveau
+
+
+25:06
+J’ai testé les plats préférés des célébrités (et c'était douteux)
+Gurky
+546 k vues
+•
+il y a 1 mois
+
+
+11:03
+Le niveau en bodybuilding n'a jamais été aussi mauvais !
+Le Musclay
+148 k vues
+•
+il y a 8 mois
+
+
+28:43
+Les élites françaises sous influence - Michel Onfray
+Front Populaire
+42 k vues
+•
+il y a 1 mois
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,5 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+10:19
+Les produits dopants les plus dangereux !
+Le Musclay
+107 k vues
+•
+il y a 1 an
+
+
+15:15
+Les Agents IA ont définitivement tué le SaaS (Voici la suite)
+Mike Codeur
+11 k vues
+•
+il y a 9 jours
+
+
+20:59
+La téléportation de Star Trek vient de devenir réelle
+Vision IA
+17 k vues
+•
+il y a 9 heures
+Nouveau
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+794 k vues
+•
+il y a 1 mois
+
+40:39
+J'ai testé GPT 5.6 : Pourquoi il écrase déjà Claude AI !
+Parlons IA
+2,7 k vues
+•
+il y a 8 heures
+Nouveau
+
+    

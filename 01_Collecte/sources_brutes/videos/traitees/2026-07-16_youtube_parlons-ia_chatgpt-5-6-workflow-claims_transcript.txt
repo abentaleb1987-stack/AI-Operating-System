@@ -1,0 +1,804 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+J'ai testé GPT 5.6 : Pourquoi il écrase déjà Claude AI !
+Parlons IA
+Parlons IA
+15,2 k abonnés
+
+
+777
+
+
+Partager
+
+Posez une question
+
+Télécharger
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+16 juil. 2026
+Découvrez les dernières nouveautés et crédits gratuits pour GPT 5.6, la dernière version de l'intelligence artificielle de OpenAI. Dans cette vidéo, nous allons explorer les fonctionnalités de GPT 5.6, notamment sa comparaison avec Claude, un autre agent AI performant. Nous allons également discuter des dernières actualités en matière d'intelligence artificielle, notamment la sortie de GPT 5.6 et ses implications pour l'avenir de la technologie. Les utilisateurs de ChatGPT 5.6 et de Codex AI seront particulièrement intéressés par cette vidéo, car nous allons aborder les avantages et les inconvénients de GPT 5.6 par rapport à d'autres solutions AI comme Fable 5 et Claude AI. Rejoignez-nous pour découvrir comment GPT 5.6 est en train de révolutionner le monde de l'intelligence artificielle et comment vous pouvez en tirer parti pour améliorer vos propres expériences avec les agents AI. Que ce soit pour les utilisateurs de GPT 5.6 Sol, GPT 5.6 Luna ou GPT 5.6 Terra, cette vidéo est faite pour vous, alors n'hésitez pas à la regarder jusqu'au bout pour en savoir plus sur l'avenir de l'AI.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+
+Découvrez les dernières nouveautés et crédits gratuits pour GPT 5.6, la dernière version de l'intelligence artificielle développée par OpenAI. Dans cette vidéo, nous allons explorer les fonctionnalités et les améliorations apportées par GPT 5.6, notamment en comparaison avec Claude, un autre agent AI développé par une équipe concurrente. Nous allons également discuter de l'impact de GPT 5.6 sur l'industrie de l'intelligence artificielle et de ses potentialités pour révolutionner les domaines tels que la codification et la création de contenus. Avec des crédits gratuits pour GPT 5.6, vous pourrez découvrir par vous-même les capacités de ce modèle AI et comment il peut être utilisé pour améliorer vos tâches et vos projets. Que ce soit pour les développeurs, les créateurs de contenu ou les simples curieux, GPT 5.6 offre un large éventail de possibilités et d'applications, allant de la génération de texte à la création de codes et de modèles de données. Rejoignez-nous pour découvrir comment GPT 5.6 et les autres agents AI comme Codex et Fable 5 sont en train de changer le paysage de l'intelligence artificielle et de découvrir les dernières actualités et mises à jour sur OpenAI et ses produits.
+Parlons IA explore les récentes mises à jour de ChatGPT, incluant la suppression des limites de temps de session et l'introduction de nouvelles fonctionnalités de productivité. Ce tutoriel technique détaille comment configurer des systèmes d'agents, optimiser l'utilisation des tokens et mettre en œuvre des fonctions avancées pour améliorer les flux de travail avec cette intelligence artificielle.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+15,2 k abonnés
+Vidéos
+À propos
+true
+50:30
+J'ai testé GPT 5.6 : comment le rendre 100 X meilleur ? Je te montre !
+de Parlons IA
+true
+22:44
+Claude Fable c'est FINI ! | Comment créer ton propre modèle IA Fable dans Hermes IA
+de Parlons IA
+true
+32:25
+Comment Transformer Claude Fable 5 en Superintelligence, je t'explique !
+de Parlons IA
+J'ai testé Hermès 2.0 avec Claude Code : Le résultat est fou !
+de Parlons IA
+30 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 10 heures
+👉MES Cours Ia & Automatisation:  https://parlonsia.teachizy.fr
+ j’ai mis le fichier à télécharger dans la section « Recevoir les bases de l’IA » sur ma page. https://parlonsia.teachizy.fr/   --> Video ChatGPT
+
+3
+
+
+Répondre
+
+
+@laurenthaquet6709
+il y a 5 heures
+super... As usual
+
+1
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@squallspringfield6859
+il y a 7 heures
+Salut merci pour la video juste dommage que en 1080P la qualiter et pas top top mais bonen video
+
+1
+
+
+Répondre
+
+Parlons IA
+·
+
+3 réponses
+
+@Lucasvorxy
+il y a 6 heures
+1:13 67 😂😮
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@Okeann
+il y a 6 heures (modifié)
+J’adore ta pédagogie et merci pour tes video. 
+
+Oui, 5.6 n’exécute pas ce qu’il dit, il passe du temps a me dire ce qu’il va faire sans le faire. La 1ère fois c’était il y a deux ou trois jours. J’ai remarqué qu’Il faut modifier un peu nos prompts. D’ailleurs une des pages de openAi en parle. 
+
+Meme si c’est tendance : 
+Serait-il possible de cesser d’utiliser les ECRANS NOIRS quand vous partagez vos ecrans ?
+
+2
+
+
+Répondre
+
+Parlons IA
+·
+
+8 réponses
+
+@synology3940
+il y a 2 heures
+Moi j'ai remarquer un truc depuis 1 semaine codex est d'une lenteur mais alors d'un lent pour des taches pourtant pas compliquée, c'est d'un chiant, alors bon au final si c'est pour avoir des crédit gratos et perdre en vitesse et en qualité je préfère le système d'avant. Je pense que OPEN AI doit vraiment se concentré à accéléré sont modèle maintenant au lieu de l'amélioré car si il faut attendre 10 fois plus de temps que d'autres IA ca devient débile.
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@glubule
+il y a 4 heures
+en phase grosse survente sur les capacités 
+pour faire mousser.
+
+
+
+Répondre
+
+Parlons IA
+·
+
+1 réponse
+
+@christdona4168
+il y a 2 heures
+Comment faire pour bénéficier de l’offre de formation est elle accessible pour une personnes aveugles je suis fortement intéressé 
+Merci beaucoup pour vos formations YouTube
+
+1
+
+
+Répondre
+
+Parlons IA
+·
+
+5 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:00des crédits gratuits. C'est exactement ce qu'est  en train de faire OpenAI avec la sortie de ChatGPT  
+0:066 secondesWork, avec la version 5.6 : des crédits gratuits  pour tout le monde. Alors, dans cette vidéo,  
+0:1212 secondesje vais t'expliquer ce qui a changé dans  ChatGPT 5.6, parce que Sam Altman est en  
+0:1717 secondestrain de faire des sorties complètement dingues.  Si tu étais passé à côté des 100 dollars offerts  
+0:2424 secondespar OpenAI : eh oui, il y a même pas 24 heures,  OpenAI te promettait 100 dollars et c'était hyper  
+0:2929 secondessimple de les avoir. Alors, si tu veux connaître  toutes les nouveautés de ChatGPT 5.6, assieds-toi   confortablement. On va en parler exactement dans  cette vidéo et je vais te dire tout ce qu'il y a à  
+0:3838 secondessavoir sur les nouveautés et sur l'utilisation de  ChatGPT 5.6, mieux que 99 % des gens maintenant.
+0:4949 secondesChatGPT Work est passé de 7 millions d'abonnés  à 9 millions. C'est-à-dire qu'ils ont pris 2   millions de nouveaux clients et, pour fêter ça,  ils ont offert des crédits à tout le monde. Alors,  
+0:5959 secondesje t'explique. Il suffit simplement que tu  possèdes un compte ChatGPT payant et tu vas   automatiquement bénéficier d'un reset de tokens.  Concrètement, tu es en train de travailler,  
+1:091 minute et 9 secondestu vas regarder juste en bas tes quotas restants.  Admettons qu'il me reste 67 % et, dans quelques   instants, dans quelques heures, ça va encore avoir  lieu. Ils vont encore offrir des tokens. Donc,  
+1:201 minute et 20 secondessi tu es en train d'utiliser tes tokens,  vas-y à fond. Dans les heures qui suivent,   OpenAI va encore en offrir. Tu vas simplement  attendre et tu vas voir ton compteur repasser à  
+1:271 minute et 27 secondes100 %. Mais il y a une énorme nouveauté qui vient  de sortir. Jusqu'à maintenant, les tokens étaient   limités toutes les 5 heures. Il fallait attendre  5 heures pour recommencer à bosser. Mais ça,  
+1:361 minute et 36 secondesc'est fini. Aujourd'hui, OpenAI est en train  de taper un très grand coup avec ChatGPT Work.  
+1:421 minute et 42 secondesIls sont en train de permettre à tout le monde  d'utiliser les quotas intégralement de toute la  
+1:481 minute et 48 secondessemaine dans la même session. Ça veut dire que tu  peux travailler des heures avec tout ton forfait.  
+1:531 minute et 53 secondesC'est fini, les 5 heures à attendre, et ce sont  les premiers à ouvrir le bal. J'espère que,   derrière, d'autres vont suivre parce que c'est  vraiment génial. Tu peux travailler des heures  
+2:022 minutes et 2 secondesentières avec l'intégralité de ton forfait.  Et, en plus de ça, cette semaine, si tu avais   un compte et que tu as ouvert un compte pendant la  sortie de ChatGPT 5.6, regarde ce qui s'est passé  
+2:122 minutes et 12 secondesjuste en bas. Tu vas regarder tes quotas, tu vas  avoir une section Réinitialisation disponible et   ils ont offert trois réinitialisations pour ce  mois-ci. C'est-à-dire que j'ai quatre forfaits  
+2:212 minutes et 21 secondesà utiliser au total. Dans les huit jours qui me  restent, j'ai quatre forfaits. Donc j'ai quatre   fois plus de forfaits que je n'en aurais chez  Anthropic. Donc c'est hyper avantageux. En plus,  
+2:322 minutes et 32 secondesils vont réinitialiser, dans quelques heures à  peine, à nouveau les tokens des sessions. Bref,   c'est complètement la folie. Mais ça ne s'arrête  pas. Là, je te montrais qu'on pouvait gagner 100  
+2:392 minutes et 39 secondesdollars si tu restais abonné à leur compte Twitter  et surtout, si tu résiliais chez les concurrents,  
+2:452 minutes et 45 secondessurtout chez Anthropic. La guerre est vraiment  déclarée entre OpenAI et Anthropic. Si tu postes   sur ce site, c'est à peine sorti il y a 18  heures, on a été des centaines de milliers,  
+2:552 minutes et 55 secondesça fait 3 millions de vues. Eh bien, tu gagnais  directement 100 dollars de crédits chez Codex.   Et je peux te dire qu'on était hyper nombreux à  l'avoir fait. Et oui, on a résilié et on est passé  
+3:043 minutes et 4 secondeschez les concurrents d'OpenAI. Et ça valait  le coup parce que, 48 heures après, bon, on   reprend un abonnement et ce n'est pas grave, mais  on a gagné 100 dollars de côté. Donc, si ce n'est  
+3:123 minutes et 12 secondespas fait, abonne-toi à la chaîne, active la cloche  pour avoir toutes les infos en premier. Je vais te   montrer maintenant que Sam Altman a complètement  vrillé : il te propose 50 000 dollars à gagner  
+3:203 minutes et 20 secondeset ce n'est pas si difficile que ça. Je vais  t'expliquer ça. Sam Altman, le CEO de ChatGPT,  
+3:263 minutes et 26 secondesnous dit que GPT 5.6 est unbreakable. Il est  inviolable. Personne n'arrivera à le jailbreaker.  
+3:343 minutes et 34 secondesEt, pour le prouver, il te propose 50 000 dollars  si tu arrives à le jailbreaker dans le domaine de  
+3:403 minutes et 40 secondesla biosécurité ou de la sécurité informatique.  C'est exactement ce qui vient d'être lancé ce  
+3:453 minutes et 45 secondessoir. Alors, si tu te sens une âme de hacker,  c'est le moment de te lancer sur ce qu'on appelle  
+3:503 minutes et 50 secondesle GPT Code Red. Est-ce que tu seras capable de  débloquer les protections de ChatGPT ? Alors,  
+3:573 minutes et 57 secondesje vais t'avouer un truc : ce n'est pas si  difficile que ça. Lors de la sortie du modèle,   j'ai essayé pendant environ 20 minutes de  comprendre la structure du système. Tu sais ce qui  
+4:064 minutes et 6 secondesm'a surpris ? C'est que je suis arrivé à sortir  une partie du prompt système. Mais ce qui m'ennuie   le plus, c'est que j'ai essayé de récupérer  l'information à l'intérieur des conversations.  
+4:144 minutes et 14 secondesDès que j'ai vu qu'ils proposaient les 50 000  dollars, je me suis dit : « Mais elle est où,   ma conversation ? J'arrive plus à mettre la main  dessus. » Mais je vais te montrer quelques points  
+4:214 minutes et 21 secondesintéressants que j'ai pu réextraire en faisant  quelques tests. Primo, ChatGPT maintenant, c'est   une base de connaissances SQL, c'est-à-dire que  tout ce que tu tapes à l'intérieur, si je lui dis  
+4:304 minutes et 30 secondesd'aller rechercher dans ma base de connaissances,  il va rechercher dans toutes mes conversations   et il va me le sortir sur le côté. Donc je vais  cliquer sur le lien sur le côté et, dans la nuit,  
+4:384 minutes et 38 secondesj'avais essayé de faire quelques petites  injections. J'avais voulu voir si ça marchait.   J'ai vu qu'il bloquait, mais il y en a une qui  était passée et, dans ces injections, j'avais  
+4:464 minutes et 46 secondesdes sections du début du code. Je n'avais pas  l'intégralité, il avait repris la main à un moment   donné. Donc, pour moi, il n'est pas inviolable.  Donc les 50 000 dollars sont à portée. En y  
+4:564 minutes et 56 secondespassant quelques heures, je suis sûr qu'on peut y  arriver. Autre point, je te montre un petit peu ce   que j'ai fait là, dans les minutes qui ont suivi,  en tournant la vidéo. Je me suis dit : « Bon,  
+5:035 minutes et 3 secondesje veux ressortir quelques infos intéressantes.  Je te parle juste architecture et, après, dans   la deuxième partie de la vidéo, on va parler des  nouveautés. » Ce que personne aujourd'hui n'a vu  
+5:115 minutes et 11 secondessur l'interface de ChatGPT 5.6 Work, je vais t'en  parler dans la suite de la vidéo parce que c'est   assez technique et c'est super intéressant pour  pouvoir travailler avec le nouveau modèle. Premier  
+5:205 minutes et 20 secondesélément ici : comment fonctionne l'architecture  du nouveau modèle ? Alors, il a une architecture   d'analyse de demande. Donc, tu vois un peu comment  ils ont configuré son système neuronal : analyser  
+5:295 minutes et 29 secondesle contexte, la conversation, déterminer la  stratégie. Donc, c'est un modèle qui va échafauder   la méthode pour te répondre. C'est-à-dire qu'il  va voir ce que tu veux obtenir comme objectif.  
+5:395 minutes et 39 secondesEnsuite, il va sélectionner des outils : la  recherche Internet, l'exécution de code Python,   la génération d'images, les calendriers,  les courriers électroniques. Bref, il va  
+5:465 minutes et 46 secondesrechercher les éléments de contexte. Ensuite, il  va construire les éléments de réponse à partir des   éléments précédents. Il va faire une vérification  finale et une sortie alignée sur ce que tu lui  
+5:555 minutes et 55 secondesas demandé. Bref, ce modèle mêle une analyse  d'intention, un raisonnement et l'utilisation   des outils pour la construction de réponse. Donc,  honnêtement, pour moi, c'est effectivement un  
+6:056 minutes et 5 secondessystème multicouche, c'est-à-dire qu'il y  a une section d'objectif principal avec un   pipeline bien défini : utilisateur, compréhension,  identification, décomposition, choix des outils,  
+6:156 minutes et 15 secondesanalyse et construction de réponse. Donc ça,  c'est l'architecture du nouveau modèle et,   à l'intérieur, tu as différentes couches qui vont  vérifier entre elles si ce que tu demandes est  
+6:246 minutes et 24 secondesconforme à des normes. Donc, on a des blocages et  des filtrages et je pense que, très probablement,   il y a un modèle de safeguard qui doit analyser  en amont ta requête et, à la sortie, ta requête,  
+6:346 minutes et 34 secondesparce que moi, au moment de la réponse, il  m'a rebloqué, mais je ne pense pas qu'il soit   inviolable. Mets-moi dans les commentaires  si, toi aussi, tu as déjà essayé un petit  
+6:426 minutes et 42 secondespeu de pousser le modèle. Moi, j'ai passé 15  minutes dessus et là, j'ai passé 25 secondes.   Mais maintenant qu'il a parlé des 50 000 dollars,  je crois que ça vaut le coup de tenter un petit   peu plus. Dis-moi en commentaire si, toi, tu as  envie d'essayer et si tu es capable de le faire.
+6:536 minutes et 53 secondesMaintenant, dans la deuxième partie de la vidéo,  je vais te parler de toutes les nouveautés qui   sont sorties et que personne n'a codées  sur ChatGPT Work 5.6. Dans l'interface  
+7:027 minutes et 2 secondesde ChatGPT Work, aujourd'hui, on a deux modules  différents qui se distinguent : ChatGPT Codex et  
+7:087 minutes et 8 secondesChatGPT Work. Work va inclure directement  l'accès aux fonctions MCP et plugins,   c'est-à-dire la possibilité de se connecter  au monde du travail et au monde réel. Dans la  
+7:177 minutes et 17 secondessection des fonctions cachées, tu vas les trouver  à l'intérieur de la section de ton propre nom,  
+7:227 minutes et 22 secondesen cliquant sur ton nom. Tu vas avoir accès à des  fonctions comme l'accès aux fonctions navigateur,  
+7:287 minutes et 28 secondesl'utilisation de l'ordinateur, les hooks,  les connexions, les repos GitHub, ton système   d'environnement et les arbres de travail. Ce  sont les nouvelles fonctions dans lesquelles,  
+7:387 minutes et 38 secondesen plus, il y a la possibilité de configurer  un nouveau mode vocal, la dictée vocale. On   va parler de toutes ces options dans cette  vidéo. Alors, installe-toi confortablement et,  
+7:477 minutes et 47 secondessi ce n'est pas fait, active la cloche et  abonne-toi pour ne rater aucune info. Surtout,   laisse un commentaire, un like et soutiens la  chaîne, ça fera super plaisir. J'aime avoir une  
+7:577 minutes et 57 secondescommunauté engagée autour de l'IA et des méthodes  de travail. Alors, n'hésite pas à partager   en commentaire tes observations et je te dis  rendez-vous dans la suite du tuto. Premier point  
+8:068 minutes et 6 secondescapital pour bien faire fonctionner ChatGPT 5.6  : c'est de structurer ce qu'on appelle un prompt  
+8:128 minutes et 12 secondessystème. Alors, pour cela, rendez-vous dans les  paramètres, puis dans la section Personnalisation.  
+8:198 minutes et 19 secondesC'est ici que tu vas avoir des instructions  personnalisées. Alors, je sais que tu vas me   dire que tu vas mettre : tu es un expert, ton nom,  ton entreprise. Non, ça, ça ne sert strictement  
+8:288 minutes et 28 secondesà rien et je vais t'expliquer pourquoi. Chaque  fois que tu vas travailler, tout ton répertoire   se trouve à l'intérieur de ce système. Et le  fichier d'instructions personnalisées, c'est  
+8:368 minutes et 36 secondesce qu'on appelle le fichier AGENTS.md. C'est juste  ici que tu as toutes les instructions auxquelles   tu peux avoir accès. Alors, qu'est-ce que tu  dois mettre à l'intérieur ? En fait, le système,  
+8:468 minutes et 46 secondesquand il va utiliser ton ordinateur, va exécuter  du code. Et, pour exécuter correctement du code,   pour qu'il ne fasse pas d'erreur dans les cycles  de fonctionnement, la première chose qu'il a  
+8:558 minutes et 55 secondesbesoin de savoir, c'est quel est ton environnement  : Windows, Mac, ta version, et ensuite où tu mets   les dépendances d'installation. Alors, par défaut,  le système ne le sait pas. Donc c'est pour ça que  
+9:059 minutes et 5 secondesje t'ai construit un système qui va le faire à ta  place. Pour pouvoir l'utiliser, tu as simplement  
+9:109 minutes et 10 secondesà copier le lien de cet agent, à l'intégrer  à l'intérieur de la discussion, à le lancer  
+9:169 minutes et 16 secondesà l'intérieur de la discussion avec la commande  Run, lancer, cliquer et attendre. Tout simplement,   il va tout te rédiger. Et le plus important, en  fait, c'est qu'il va te créer tous ces dossiers  
+9:269 minutes et 26 secondesqui sont absents. Alors, à quoi ils servent ?  C'est exactement ce dont on va parler maintenant   pour pouvoir bien faire fonctionner ChatGPT  5.6. Premier élément : le système par défaut  
+9:359 minutes et 35 secondesn'a pas de répertoire où il va créer des agents  IA. Donc, maintenant, on va créer un répertoire   agents IA, un répertoire des dépendances. C'est  là où il va installer toutes les dépendances quand  
+9:459 minutes et 45 secondesil va coder. Donc il n'aura pas besoin de les  retélécharger. Ça va moins consommer, ça va mieux   marcher et il va moins dépenser de tokens parce  qu'on aura optimisé son prompt système. Ensuite,  
+9:549 minutes et 54 secondesquand tu vas travailler, il va te créer des  fichiers de partout. On va tout organiser à   l'intérieur des sections qui s'appellent des  projets. Ensuite, le modèle va fonctionner sur  
+10:0210 minutes et 2 secondesce qu'on appelle des settings. Dans les settings,  il y a ce qu'on appelle les mots de passe qu'on   va ranger ici, tes connexions MCP et tes status  lines. La status line, c'est exactement ce qui est  
+10:1110 minutes et 11 secondesen train de se passer ici. Chaque fois qu'on est  en train de travailler, on a ici la consommation.   Et, pour la consommation, on va justement parler  de ce sujet. Il y a eu un très gros changement.  
+10:2010 minutes et 20 secondesC'est peut-être passé inaperçu, mais pas chez  moi parce qu'il y a quelques heures encore,   on avait des fenêtres de contexte de 350 000  tokens, 100 000 tokens de plus qu'aujourd'hui.  
+10:3010 minutes et 30 secondesMais qu'est-ce qui s'est passé ? Eh bien, on  vient de perdre 100 000 tokens. Je t'explique   maintenant ce qui s'est passé parce que ça,  c'est l'envers du décor qu'OpenAI n'a pas dit  
+10:3910 minutes et 39 secondeset c'est très important que tu le saches.  J'étais en train de coder et, tout à coup,   je me suis rendu compte que ma fenêtre de contexte  venait de perdre 100 000 tokens pour ChatGPT 5.6.  
+10:4810 minutes et 48 secondesEh bien, c'est officiel : OpenAI vient de réduire  de 100 000 tokens les fenêtres de contexte. Mais  
+10:5410 minutes et 54 secondesce n'est pas tout. C'est officiel. ChatGPT 5.6  les a réduites pour une raison très simple : ils  
+11:0011 minutesont voulu faire des économies. Vu que maintenant  on est 9 millions, ça leur coûte énormément en  
+11:0511 minutes et 5 secondestermes de tokens de raisonnement. En réduisant 100  000 tokens sur toutes les fenêtres de contexte,  
+11:1211 minutes et 12 secondesaujourd'hui, ils peuvent donc nous offrir de  nouvelles sessions un peu à droite, à gauche et,   comme ça, d'un point de vue marketing, OpenAI s'en  sort plutôt vainqueur. Mais, dans les faits, nous,  
+11:2311 minutes et 23 secondeson perd 100 000 tokens au niveau de la fenêtre  de contexte et ça va nous obliger à beaucoup   mieux gérer la fenêtre de compression. Autre  point : certains utilisateurs rapportent que  
+11:3211 minutes et 32 secondesla version de ChatGPT 5.6 ne serait pas la même  que celle qui a passé des tests. Alors, pour  
+11:3811 minutes et 38 secondesma part, c'est vrai que j'ai remarqué quelques  comportements de désalignement. Le désalignement,   c'est le moment où tu poses une question à l'IA,  elle te dit qu'elle l'a fait mais, en fait,  
+11:4711 minutes et 47 secondeselle ne l'a pas fait. Et c'est un petit peu le  cas qui est en train de se retrouver sur Internet   parce que, honnêtement, j'ai eu exactement la  même situation. Je lui dis de faire quelque chose,  
+11:5511 minutes et 55 secondesil me dit : « Je l'ai fait », je retourne,  je regarde le job et ce n'est pas fait.   Donc attention, si vous êtes aussi dans le même  cas de figure, mettez-moi-le en commentaire parce  
+12:0412 minutes et 4 secondesque moi, j'ai l'impression que la version hyper  puissante qui est en train de révolutionner le   monde entier, je ne la vois pas. Alors, je ne dis  pas qu'il est mauvais, mais c'est comme Fable. Je  
+12:1412 minutes et 14 secondesne vois pas des modèles aussi puissants qu'il  fallait les arrêter, qu'il fallait les stopper   sur les marchés. Moi, personnellement, je  ne les vois pas. Alors, dites-moi, vous,  
+12:2012 minutes et 20 secondessi vous trouvez que depuis qu'on a ces nouveaux  modèles sur le marché, on a complètement changé le   monde de l'économie et qu'on a tout révolutionné.  Dites-moi, vous, ce que vous en pensez. Moi,  
+12:3012 minutes et 30 secondesje n'ai pas ce sentiment, mais bon, maintenant, on  le sait. Voici où sont passés nos 100 000 tokens.   Donc il va falloir travailler différemment  et c'est maintenant qu'on va en parler.
+12:3812 minutes et 38 secondesLorsque vous travaillez avec ChatGPT Work 5.6, un  des points forts, ce sont les fonctions d'agents  
+12:4412 minutes et 44 secondesparallèles. On appelle ça spawn agent. Si, dans  une tâche, je lui demande d'utiliser trois agents  
+12:5012 minutes et 50 secondespour effectuer mon travail, automatiquement,  lorsque vous avez défini ce qu'on appelle un   plan d'action — là, je suis en train de  nettoyer des bases de données — si vous  
+12:5912 minutes et 59 secondeslui demandez de spawner, c'est-à-dire de lancer  des systèmes parallèles, automatiquement il vous   confirme : « Je vais spawner trois systèmes.  » Donc la fonction spawn agent, c'est le fait  
+13:0813 minutes et 8 secondesd'envoyer plusieurs systèmes en parallèle.  Vous pouvez en envoyer trois, quatre, cinq,   six, en fonction de la complexité de la tâche.  Trois agents seront suffisants parce que j'ai  
+13:1613 minutes et 16 secondestrois blocs à traiter principalement. Et vous avez  donc le système qui va créer trois agents : audit  
+13:2213 minutes et 22 secondesconfig. Donc vous avez ici l'agent sous-agent  qui est en train d'apparaître dans la fenêtre,  
+13:2713 minutes et 27 secondesl'audit backup qui est en train de se mettre  en route et l'audit SQLite qui va analyser tous  
+13:3313 minutes et 33 secondesles fichiers de mon répertoire. Donc chaque  agent a ses fonctions, mais la particularité,   c'est que si je donne une instruction assez  simple, c'est-à-dire spawn agent, il faut qu'en  
+13:4313 minutes et 43 secondesamont vous ayez le plan d'action. À partir du plan  d'action, c'est ChatGPT 5.6 qui va déterminer qui  
+13:5013 minutes et 50 secondesfait quoi au niveau des systèmes agentiques.  Alors, quand ce sont des actions assez simples,   nettoyage de bases de données, je peux laisser  le modèle travailler seul. Si ce sont des actions  
+13:5813 minutes et 58 secondesbeaucoup plus complexes, c'est très important de  créer une coordination entre les agents et donc   c'est vous qui devez coder les instructions des  systèmes agents. Pour les actions simples comme  
+14:0814 minutes et 8 secondesici, on peut les laisser tourner et chaque agent  a sa tâche. Mais n'oubliez pas : travaillez   toujours avec un système de plan en amont.  Deuxième option : maintenant qu'on l'a vue,  
+14:1714 minutes et 17 secondeson va parler des nouvelles fonctions de la barre  latérale. Sur la barre latérale, si vous cliquez   sur le petit plus, vous avez ce qu'on appelle des  tâches latérales, c'est-à-dire que vous pouvez  
+14:2614 minutes et 26 secondeslancer une nouvelle conversation à l'intérieur de  la conversation. Donc, sans quitter la discussion,   on peut continuer à travailler. Dans les  nouvelles fonctions, on a les fonctions fork.  
+14:3514 minutes et 35 secondesSi, ici, je veux poursuivre ma tâche dans  une nouvelle fenêtre, je vais pouvoir ouvrir  
+14:4114 minutes et 41 secondesplusieurs sessions en parallèle et travailler  avec des angles différents. Admettons que,   dans la session numéro 1, je veux explorer une  direction, retirer certains documents de la base  
+14:5114 minutes et 51 secondesde données, extraire tous les graphiques et les  représentations de données dans une autre session.   Je peux donc travailler de manière complètement  indépendante et avoir les deux sessions côte  
+15:0015 minutesà côte, et exécuter le travail grâce à cette  nouvelle fonction de fork. Parmi les nouveautés,   juste avant qu'on revienne sur la section  des skills, ça va me permettre de parler  
+15:0715 minutes et 7 secondesde cette partie. Vous avez notamment la  prise de contrôle du navigateur. Pour ça,   vous activez la prise de contrôle du navigateur.  Il faut activer la fonction browser, la fonction  
+15:1815 minutes et 18 secondesChrome et la fonction computer use. Ces trois  fonctions doivent être activées pour pouvoir   optimiser la gestion du navigateur. Vous retrouvez  ici la fonction utilisation de l'ordinateur et  
+15:2915 minutes et 29 secondesvous activez toutes les sections qui sont juste  ici. Et, dans la gestion de Google Chrome,   vous avez une gestion où vous pouvez lui demander  quand est-ce qu'il doit vous poser la question  
+15:3915 minutes et 39 secondesavant d'interagir : approbation pour ouvrir  une page Internet, pour lire votre historique,   pour télécharger ou pour téléverser. Donc,  c'est hyper intéressant. Ça veut dire qu'ici,  
+15:4915 minutes et 49 secondessi vous devez envoyer des fichiers, créer  de l'automatisation, répondre sur Internet,   répondre à des fichiers clients, en lui donnant  toujours l'autorisation, vous pouvez le faire.  
+15:5915 minutes et 59 secondesAlors attention, bien sûr, ça reste sous réserve  de comprendre qu'il y a aussi des conséquences en   laissant l'IA prendre le contrôle de l'ordinateur.  Vous n'êtes pas à l'abri qu'un jour quelqu'un la  
+16:0816 minutes et 8 secondesjailbreake. D'ailleurs, si vous voulez toujours  gagner les 50 000 euros en jailbreakant ChatGPT   5.6, les paris sont toujours ouverts chez OpenAI.  Donc, on est sur un modèle assez sécuritaire,  
+16:1816 minutes et 18 secondesmais aujourd'hui, voilà, on peut définir des  autorisations et on peut donner des autorisations   sur des sites spécifiques. Et on peut aussi  donner à ChatGPT l'autorisation complète. Ça,  
+16:2816 minutes et 28 secondesc'est pour tous ceux qui font, par exemple, les  agents immobiliers qui font beaucoup d'annonces.   Vous pouvez automatiser complètement la partie de  gestion des annonces avec l'IA. Tous ceux qui font  
+16:3716 minutes et 37 secondesdu community management, qui font des réponses sur  les sites Internet, sur les avis Google, tout ça,   vous pouvez l'automatiser grâce à l'activation  de ces paramètres. Donc, au passage, il faut  
+16:4716 minutes et 47 secondesaussi activer cette option. Et donc vous avez  la fonction connexion ici qui va vous permettre,   en plus, de connecter votre ordinateur à votre  téléphone. Ici, vous scannez simplement le QR  
+16:5716 minutes et 57 secondescode qui va apparaître sur votre téléphone. En le  scannant, vous pouvez donner des instructions à   distance sur votre interface. Bref, c'est la même  chose qu'avec Claude Cowork, sauf que vous l'avez  
+17:0717 minutes et 7 secondesavec votre abonnement classique. Même avec un  abonnement Plus, vous avez accès à ces options.   Donc, aujourd'hui, quel est l'intérêt d'avoir des  fonctions comme Claude Cowork ? Je ne sais pas.  
+17:1617 minutes et 16 secondesMoi, je pense qu'aujourd'hui, ChatGPT est en  train d'écraser le game, surtout avec la quantité   de tokens qui sont offerts. D'ailleurs, ça sera  l'occasion ici de voir que ce sont les répertoires  
+17:2617 minutes et 26 secondesqu'on a créés pour le travail. Vous les avez ici.  Ça, ce sont les arbres de travail. C'est ce qu'on   a fait tout à l'heure quand on a créé de nouvelles  directions à partir des discussions, ce qu'on  
+17:3517 minutes et 35 secondesappelle des fonctions fork. Et, dans la section  Personnalisation, vous avez la section gestion de   mémoire. Donc la gestion de mémoire, on en parlera  dans une autre vidéo parce que j'ai fait une vidéo  
+17:4317 minutes et 43 secondesdédiée sur ce sujet : comment on gère la mémoire  dans ChatGPT Workspace, ChatGPT Work, GPT 5.6 et,  
+17:5017 minutes et 50 secondesdans la section utilisation et facturation, vous  avez les limites d'utilisation, la limite en cours   hebdomadaire. Donc, moi, elle va se renouveler le  21 et, si j'ai besoin de l'utiliser avant le 21,  
+18:0018 minutesj'en ai trois en stock. Donc OpenAI est  en train de les brader, honnêtement. Donc,   toutes les semaines, vous avez de nouvelles  réinitialisations offertes avec les comptes Plus.   Donc n'hésitez pas, c'est le moment d'en profiter.  Vous avez énormément de crédits à utiliser.
+18:1318 minutes et 13 secondesPlus on avance au niveau du travail, plus on va  remplir ce qu'on appelle la fenêtre de contexte.   Cette fenêtre, lorsqu'elle va atteindre environ  85 %, va être compactée. Cette fonction, on peut  
+18:2418 minutes et 24 secondesl'appeler automatiquement avec la fonction  compact. Quand on utilise cette fonction de   compactage, en fait, on réduit les tokens, mais  on n'a aucun contrôle sur ce que le modèle va  
+18:3418 minutes et 34 secondesrésumer. C'est un peu comme si vous preniez  un livre et que vous demandiez à ChatGPT : «   Résume-moi le livre. » En fait, vous ne savez pas  du tout ce qu'il a choisi de garder ou d'exclure.  
+18:4318 minutes et 43 secondesEt, pour cela, on peut intégrer des fonctions  hook, et ça fait partie des fonctions cachées dans   l'interface dont on va parler maintenant. Dans les  sections Paramètres, vous avez donc les fonctions  
+18:5318 minutes et 53 secondeshook, et cette fonction change complètement la  manière d'utiliser l'IA. Je vais vous montrer   ce que ça peut amener. Ce sont des fonctions qui  vont vous permettre d'utiliser des déclencheurs,  
+19:0219 minutes et 2 secondesc'est-à-dire des hooks. On utilise parfois le  terme hook dans les automatismes pour désigner un  
+19:0819 minutes et 8 secondesdéclencheur qui va permettre, en fait, de  suivre dix états différents, c'est-à-dire   dix situations différentes avant l'utilisation  d'un outil. Un outil, ça peut être, par exemple,  
+19:1719 minutes et 17 secondesvous déclenchez l'utilisation d'une recherche  Internet. C'est un outil. On peut déclencher un   comportement du modèle avant la demande d'une  permission, après l'utilisation d'un outil,  
+19:2619 minutes et 26 secondesc'est-à-dire après avoir utilisé, par exemple,  une recherche Internet ou un outil de code. Il y   a aussi les fonctions PreCompact et PostCompact.  Ça veut dire que, quand vous êtes en train de  
+19:3619 minutes et 36 secondestravailler, vous avez donc la possibilité de  lancer des fonctions hook pour les fonctions   de compactage. Et c'est exactement ce qui va  nous intéresser dans le cas précis. Alors,  
+19:4519 minutes et 45 secondesce qui serait intéressant, ce serait que chaque  fois qu'on va lancer une fonction de compactage,  
+19:5119 minutes et 51 secondeson n'ait pas un compactage fait au hasard, mais  que le compactage soit utilisé en fonction du   dossier sur lequel vous travaillez. Comme, au  début de la vidéo, on a parlé de l'optimisation  
+20:0020 minutesdu prompt système de ChatGPT 5.6 Codex, chaque  dossier dans lequel vous allez travailler n'a   pas les mêmes sujets. Vous ne travaillez pas sur  les mêmes dossiers de la même manière. Vous n'avez  
+20:0920 minutes et 9 secondesdonc pas le même contenu qu'il va falloir  garder. Donc, on peut créer des fonctions   de compactage optimisées en fonction du type de  dossier. Alors maintenant, c'est plus technique,  
+20:1820 minutes et 18 secondesdonc pose-toi confortablement. On va rentrer  dans des stratégies de travail pour optimiser   ta manière d'utiliser l'intelligence  artificielle et notamment ChatGPT Work,  
+20:2720 minutes et 27 secondesavec les fonctions avancées des hooks à  l'intérieur de Codex. Pour cet exercice,   on va choisir ce qu'on appelle un répertoire de  travail. Donc le répertoire en cours, en général,  
+20:3620 minutes et 36 secondesc'est le répertoire où tu es en train d'utiliser  Codex. Donc je prends le répertoire de travail, je  
+20:4220 minutes et 42 secondessélectionne le répertoire, nouveau projet à créer  à partir de zéro. On va lui donner Projet Hook, on   enregistre. On a le chargement des plugins. Pour  le moment, on ne va pas s'en servir. Par contre,  
+20:5220 minutes et 52 secondeson va se servir des fonctions skill. On va donc  coder une skill pour pouvoir le faire. Pour cela,   on va utiliser un dossier existant et on va  lui donner le répertoire du dossier en cours,  
+21:0021 minutesqui est celui de Codex. Dans les répertoires dont  on a parlé au début, celui des prompts système,   par défaut, Codex ne dispose pas d'un répertoire  hook. Grâce au prompt système que je t'ai donné au  
+21:1021 minutes et 10 secondesdébut, maintenant, tu disposes de ce qu'on appelle  un répertoire hook. Donc, à l'intérieur de Codex,  
+21:1721 minutes et 17 secondeson va rajouter un dossier hook. C'est là où tu vas  enregistrer tous les déclencheurs automatiques de  
+21:2321 minutes et 23 secondesta configuration. L'objectif, c'est d'arriver à  créer un déclencheur qui va, lors du PreCompact,  
+21:3021 minutes et 30 secondesaller chercher les caractéristiques de ton  dossier et compacter ton dossier avec des   paramètres spécifiques. Donc, tu vas pouvoir  garder uniquement les informations telles que  
+21:4021 minutes et 40 secondestu les as définies dans ton système. Ça va  permettre de garder une mémoire optimisée du   compactage de ta session. Alors, pour cela, on  va donc commencer à coder une fonction. On va  
+21:5021 minutes et 50 secondesdonc dire : « Add skill function hook. » On va lui  demander de... On va donc copier les éléments de  
+21:5621 minutes et 56 secondesla page. Copier-coller le texte. Ce qu'on va faire  maintenant, c'est qu'on va créer une skill qui va  
+22:0222 minutes et 2 secondesavoir la possibilité de coder des fonctions  hook en utilisant la documentation officielle  
+22:0822 minutes et 8 secondesde ChatGPT Work sur les nouvelles fonctions hook.  Donc, on va aller dans le répertoire skill. Alors,   ce répertoire, s'il n'existe pas, je t'ai donné  le prompt système au démarrage que tu vas pouvoir  
+22:1722 minutes et 17 secondesutiliser. Et ici, je vais te montrer qu'on peut  simplement, dans le répertoire, copier-coller   une skill et ensuite la personnaliser avec les  fonctions qu'on va intégrer juste maintenant.  
+22:2622 minutes et 26 secondesDonc, si tu disposes d'autres skills, tu peux soit  les copier à l'intérieur de ton répertoire. Ça,   c'est une skill qui est existante. Je peux tout  simplement aller rechercher ma skill, la copier,  
+22:3622 minutes et 36 secondesla déplacer à l'intérieur du répertoire  de Codex et j'ai donc déployé une skill.   Ce type de structure de skill, je te montrerai  après où est-ce que tu peux les obtenir dans  
+22:4522 minutes et 45 secondesl'interface de Codex. Donc, on va utiliser un  créateur de skill qui existe chez Codex, dans  
+22:5122 minutes et 51 secondeslequel on va ajouter une fonction de génération  de hook pour l'appliquer spécifiquement à Codex.  
+22:5722 minutes et 57 secondesPremière étape, on va définir ça en fonction plan.  On va le mettre en mode très élevé. Ça nous donne   l'occasion de parler des paramétrages. Donc, dans  la section modèle, on sélectionne le modèle Terra,  
+23:0823 minutes et 8 secondesdans lequel on va mettre le modèle en très élevé.  Je vais te montrer, on peut le laisser en élevé,   ça devrait suffire. Je te montrerai par la suite  où sont cachés tous ces paramétrages à l'intérieur  
+23:1823 minutes et 18 secondesde l'interface et on va laisser tourner le plan,  puis ensuite on va analyser le plan qui va sortir   de ChatGPT. Pendant qu'on est en train de  travailler, voici ce qui se passe. Donc le  
+23:2623 minutes et 26 secondesmodèle est en train de consommer des tokens. Donc  ces tokens vont être déduits de l'interface que tu  
+23:3223 minutes et 32 secondesvas retrouver ici dans la section quotas. Donc,  dans cette section, je vais avoir l'utilisation   de mes quotas hebdomadaires. Donc maintenant,  on n'a plus de limite de 5 heures pour le  
+23:4023 minutes et 40 secondestuto. J'ai utilisé le skill d'Anthropic Cloud  pour pouvoir le générer. Donc, ce que je veux,  
+23:4523 minutes et 45 secondesc'est convertir le modèle en utilisant uniquement  les fonctions de Codex pour notre système de  
+23:5223 minutes et 52 secondesskill-maker. Souvent, quand vous voyez dans les  tutos des mecs qui disent : « ChatGPT, dis-moi la   meilleure stratégie pour mon entreprise », vous  vous rendez compte que travailler avec l'IA,  
+24:0124 minutes et 1 secondeça n'a rien à voir. Travailler avec l'IA, c'est de  la planification, c'est de la structure, c'est du   prompt engineering. Donc, c'est définir toute la  ligne de comportement du modèle, la vérifier et  
+24:1124 minutes et 11 secondessavoir exactement ce qu'on fait. Alors là, on  est sur quelque chose de relativement simple.   Pour moi, ça reste très simple. Mais, quand  vous faites travailler ça pour une entreprise,  
+24:1924 minutes et 19 secondesvous ne vous imaginez même pas cinq secondes.  Pensez que vous allez rentrer dans une boîte   et que votre compétence, c'est de dire à l'IA :  « ChatGPT, trouve-moi des clients sur Internet  
+24:2724 minutes et 27 secondesaujourd'hui. » Non, ça ne marche pas comme ça. Je  vous le dis. Là, il faut faire attention. Il faut   vous rendre compte qu'il se passe déjà un truc  dans le monde de l'IA : vous avez des mecs qui  
+24:3624 minutes et 36 secondesfont semblant de l'utiliser en vous disant : «  Code-moi un site Internet », alors que développer   des applications, c'est 14 étapes de travail  différentes, avec la sécurité, le backend, les  
+24:4624 minutes et 46 secondesaccès, la gestion des données ; ça n'a strictement  rien à voir. Donc, il faut que vous vous rendiez   compte que travailler avec l'IA, c'est d'abord  planifier l'orchestration. C'est ce qu'on est en  
+24:5524 minutes et 55 secondestrain de faire et tout ça, ça s'apprend. Et, comme  vous voyez, la manière dont les informations sont   codées est codée d'une manière très spécifique.  Ça, c'est quelque chose qu'on vous apprend à  
+25:0325 minutes et 3 secondesfaire au niveau des cours. Pourquoi je vous fais  coder de cette manière ? Parce que, quand vous   travaillez avec l'IA, il faut que l'IA utilise les  mêmes manières que celles avec lesquelles elle a  
+25:1125 minutes et 11 secondesété entraînée. Il faut qu'elle consomme le moins  possible de tokens. Tout ce que vous envoyez,   ça coûte de l'argent. Donc, on est en train  de créer quelque chose qui coûte le moins cher  
+25:2025 minutes et 20 secondespossible. Donc ça, c'est la dernière mise à jour  que le modèle veut faire. On va donner un coup   d'œil rapidement et ensuite il met normalement à  jour ici. Voilà, dans le document du plan final.  
+25:3125 minutes et 31 secondesC'est ici que vous avez les différentes étapes du  comportement. Donc, ces blocs de code à rentrer,   je vous les mettrai au niveau des cours. Vous  allez donc pouvoir retrouver ces éléments au  
+25:3925 minutes et 39 secondesniveau des cours pour comprendre la logique  du modèle et pouvoir la lire. Donc, il faut   prendre l'habitude de lire ces structures. Là, il  a mis la politique d'écriture du hook avec les dix  
+25:4925 minutes et 49 secondesétapes différentes dans lesquelles on va pouvoir  intervenir. Et donc, il faut vraiment être capable   d'apprendre à comprendre comment raisonnent les IA  pour planifier votre travail. Les automatisations,  
+25:5925 minutes et 59 secondesc'est comme ça qu'elles se développent sur les  IA. Donc, il va rajouter ce qu'on appelle des   templates, c'est-à-dire des plans pour définir  les structures des hooks, les générateurs Python,  
+26:0826 minutes et 8 secondesles tests. Bon, pour moi, tout est bon. On peut  envoyer et on va lui laisser coder notre système.  
+26:1426 minutes et 14 secondesOn va le retrouver en cours de génération dans  l'interface juste ici. Donc, on va pouvoir suivre   les différentes étapes maintenant qu'on exécute le  plan. Alors déjà, on va voir qu'on est à 50 % de  
+26:2426 minutes et 24 secondesnotre fenêtre contextuelle. Donc, c'est très bien,  ça nous permettra de voir justement comment créer  
+26:2926 minutes et 29 secondesun hook de déclenchement pour les fonctions de  compactage. Donc, juste ici, je vous ai codé toute  
+26:3526 minutes et 35 secondesla section à intégrer au niveau du cours. Je vais  vous l'intégrer au niveau de la leçon. Ça vous   permettra d'accéder à la méthode d'intégration du  système hook, à la logique, et vous n'avez plus   qu'à remplacer avec votre nom de répertoire,  mais le système va le faire automatiquement.
+26:5026 minutes et 50 secondesComment avoir accès à toutes les fonctions  avancées de Codex ? C'est exactement ce que je   vous donne dans les deux formations principales :  Maîtriser le meilleur de l'IA et Engineering Agent  
+26:5926 minutes et 59 secondesIA Élite. Vous avez deux niveaux différents.  Le level 2 s'adresse à tous ceux qui font de  
+27:0427 minutes et 4 secondesla bureautique, qui utilisent occasionnellement  ChatGPT, Claude, Gemini, Minimax ou autres, pour  
+27:1127 minutes et 11 secondesle prix d'un café pendant deux mois. Vous sortez  de là avec un des plus hauts niveaux techniques,  
+27:1627 minutes et 16 secondesen étant sur un marché du travail avec de vraies  compétences pour travailler en entreprise,   avec des stratégies qu'on utilise dans le domaine  professionnel pour créer des agents IA. C'est  
+27:2727 minutes et 27 secondesexactement ce que vous allez apprendre au niveau  de la formation et ça s'adresse à tous ceux qui   font de la bureautique et qui partent d'un niveau  débutant à un niveau confirmé-avancé. Honnêtement,  
+27:3627 minutes et 36 secondesje pense qu'on est plus techniques aujourd'hui.  En tout cas, par rapport à ce que je vois sur les   réseaux sociaux, très largement au-dessus.  Je vous apprends vraiment à partir de zéro,  
+27:4427 minutes et 44 secondesmême pour les débutants, à créer vos propres  systèmes d'agents IA. Tout ça, à votre rythme. Les   mises à jour sont incluses, toutes les infos sont  en description. Pour ceux qui ont déjà un très bon  
+27:5327 minutes et 53 secondesniveau, vous avez le Prompt Engineering Élite.  Là, je m'adresse aux consultants, à ceux qui   codent déjà des systèmes d'agents IA. Donc, vous  allez apprendre comment avoir toutes les bases  
+28:0328 minutes et 3 secondesnécessaires pour créer des systèmes agentiques en  utilisant uniquement des interfaces de type cloud,   ChatGPT, GLM 5.2, Minimax, des systèmes d'agents  IA, de la facturation, du médical, des chatbots,  
+28:1428 minutes et 14 secondesdes systèmes avancés. Bref, à la sortie de  ce niveau masterclass, vous avez tout le  
+28:1928 minutes et 19 secondesnécessaire pour passer du niveau « je bricole  avec » à un niveau « je suis consultant avancé   dans le domaine technique ». Je vous assure que le  niveau est simplement dingue et vous allez voir la  
+28:2928 minutes et 29 secondesdifférence. Toutes les infos sont en description.  Quand ChatGPT Work a fini de travailler,   la première chose à faire, c'est de contrôler ce  qu'il a fait. Ce n'est pas de vous dire : « OK,  
+28:3928 minutes et 39 secondesl'IA a répondu, c'est bon, c'est la vérité. » Non,  l'IA, c'est une machine de probabilité. Donc, plus   vous arrivez à la driver, plus vous obtenez ce que  vous voulez. Mais maintenant, il faut savoir lire  
+28:4928 minutes et 49 secondesentre les lignes. Donc maintenant, on va cliquer  sur le fichier AGENTS.md. Et ici, on a l'aperçu   des modifications qu'il a apportées. Alors, il va  falloir faire une chose. Si vous ne comprenez pas  
+28:5728 minutes et 57 secondesce qui est marqué, ça veut dire qu'aujourd'hui,  vous n'êtes pas armé pour utiliser l'IA dans le   domaine professionnel. Le domaine professionnel,  c'est d'être capable de comprendre comment  
+29:0529 minutes et 5 secondesl'IA rédige aujourd'hui ses propres instructions.  Alors, je sais, vous avez l'habitude d'avoir de   très grandes phrases, mais, en fait, ce n'est pas  comme ça qu'elle-même code ses instructions. Donc,  
+29:1329 minutes et 13 secondespour pouvoir le comprendre, rendez-vous  dans les formations, bien entendu. Et ici,   on va commencer à décomposer pour comprendre  comment on va le contrôler. Premièrement,  
+29:2029 minutes et 20 secondesce fichier correspond au fichier AGENTS.md. Donc,  on va l'ouvrir, on va le mettre en parallèle et   ce sont strictement les mêmes fichiers. Donc,  ça veut dire que ce qu'on a comme aperçu ici,  
+29:2829 minutes et 28 secondesc'est le prompt système de ChatGPT. Là, il  nous donne l'instruction à ChatGPT 5.6 que,  
+29:3629 minutes et 36 secondeslorsqu'on va lui demander de créer des hooks,  il a la politique de gestion des hooks qui lui   donne l'accès au répertoire. Et vous avez donc  la ligne 417 où vous avez ce qu'on appelle la  
+29:4629 minutes et 46 secondesHook Directory Policy, la gestion de ce qu'on lui  a demandé de faire, de la manière dont les hooks   vont être intégrés chaque fois que vous allez en  créer. Maintenant, il a modifié ce qu'on appelle  
+29:5429 minutes et 54 secondesles fonctions de skill. Alors ici, comme vous  allez voir, la skill n'apparaît pas de manière   très claire au niveau de la structure. C'est  pour ça qu'on va repartir à l'intérieur des  
+30:0430 minutes et 4 secondesrépertoires, on va aller dans la section skills et  on va aller dans la skill qu'on vient de coder. Et   c'est exactement ici que c'est noté. Donc, ça,  c'est la version skill-maker pour mettre à jour,  
+30:1430 minutes et 14 secondescoder les skills. Et il lui donne les six étapes.  Utilise l'AGENTS.md qui est celui-ci pour générer  
+30:2030 minutes et 20 secondesun hook, pour mettre à jour, pour valider, pour  gérer. Donc la skill appelle son propre système  
+30:2530 minutes et 25 secondesde gestion et vous avez ensuite le générateur  de hook et de fonction hook avec toute sa  
+30:3330 minutes et 33 secondesgestion des skills à l'intérieur. Donc il a la  logique de génération et je vous dis, en fait,   il y a un truc qu'il faut qu'on fasse : il m'a mis  toute la partie de la logique du hook. Je regarde  
+30:4330 minutes et 43 secondesen même temps que vous. Non, c'est bon. Ici, il  y a les dépendances MCP. Il y a les procédures,   elles sont là. Je veux juste vérifier qu'au niveau  des assets, il a mis, par exemple, template hook.  
+30:5330 minutes et 53 secondesVoilà, ça, c'est hyper important. Ah, il me les  a mis juste ici. Et donc, ici, on a les templates   de Hook Directory. Ça correspond exactement à ce  fichier. C'est ça que je cherchais avec la logique  
+31:0131 minutes et 1 seconded'écriture des documents hook. Tout est parfait.  On a exécuté du travail. C'est un peu technique,   mais c'est ça, en fait, le monde du consulting.  Quand vous allez créer des automatisations,  
+31:1131 minutes et 11 secondesc'est comme ça que ça se passe. Donc maintenant,  on ne va plus du tout s'embêter à générer des   hooks. On a notre système de générateur de hooks  et c'est exactement ce qu'on va faire parce que ça  
+31:2031 minutes et 20 secondesva nous permettre de basculer sur ce qu'on voulait  faire : comment on va gérer les fonctions de   compactage ? Donc, je bascule sur les nouveautés  de l'interface latérale et ça va nous permettre  
+31:3031 minutes et 30 secondesde parler des fonctions de compactage dans les  options. Donc, on clique sur le nom et on va ici,   sur l'interface. Vous avez donc vos consommations  de tokens, le nombre de tâches, votre activité. Et  
+31:4131 minutes et 41 secondesce qui va nous intéresser, c'est de rajouter ici  une fonction hook pour les sessions de compactage.  
+31:4731 minutes et 47 secondesDonc, pour bien faire, je vous donne une logique  assez technique, mais vous allez voir que vous   allez vraiment y gagner si vous l'appliquez.  L'objectif, ça va être d'avoir un répertoire  
+31:5631 minutes et 56 secondesde travail. Donc, on appelle ça les répertoires  projets. Donc, ce qu'on va faire maintenant,   c'est qu'on va appeler notre skill. Donc, on va  dire : « Use skill. » Donc, les fonctions skill,  
+32:0532 minutes et 5 secondesvous pouvez faire la fonction dollar. Alors,  pour que les fonctions skill apparaissent,  
+32:1032 minutes et 10 secondesici, on va vérifier le nom de la skill, mais  c'est skill-maker. Il faut redémarrer Codex.   C'est chargé à chaque démarrage. Donc, on  va fermer Codex. Il faut le fermer ici,  
+32:1932 minutes et 19 secondesen bas à droite, dans la partie terminale. On  le relance. On peut maintenant lui demander,   en faisant la fonction dollar skill. On a  maintenant la fonction skill-maker, celle  
+32:3032 minutes et 30 secondesqu'on vient de coder à l'instant, dans laquelle  on a rajouté la possibilité de créer des hooks, de   faire un hook. Ce qui nous intéresse maintenant,  c'est la logique des hooks. Pour vous donner une  
+32:3932 minutes et 39 secondesidée, pour comprendre comment c'est structuré.  Alors, ça, c'est l'agent qu'on vient de coder.   Donc vous allez retrouver l'intégralité du code  du système agentique au niveau du cours. Je vais  
+32:4732 minutes et 47 secondesvous le donner pour que vous puissiez développer  votre propre système d'agent qui code des skills   et des hooks. Donc vous avez toute la logique de  codage. Vous l'aurez à l'intérieur des cours pour  
+32:5632 minutes et 56 secondesla logique. Et ce qui va nous intéresser, c'est  de comprendre la structure d'un hook. Voilà,   la structure d'un hook, c'est que, quand vous  déclenchez une action, l'action peut être mise  
+33:0633 minutes et 6 secondessur le démarrage d'une session, le démarrage  d'un outil et ce qui va nous intéresser, c'est   le compactage. Donc, chaque fois qu'on va être en  situation de compactage, ce qu'on va demander au  
+33:1433 minutes et 14 secondesmodèle de faire, c'est : si tu déclenches et tu  identifies qu'on est en compactage, tu vas lancer  
+33:1933 minutes et 19 secondesune commande. Cette commande va lancer un script  et ce script va avoir pour fonction de dire : si  
+33:2533 minutes et 25 secondesça correspond à une fonction de compactage, va  vérifier dans le dossier la présence d'un fichier  
+33:3233 minutes et 32 secondescompact-policy.md, nos paramètres spécifiques  du dossier de travail. Ça veut dire que chaque  
+33:3933 minutes et 39 secondesdossier aura son paramètre de compactage. Ça va  nous permettre de travailler dans vos projets, vos  
+33:4633 minutes et 46 secondesrépertoires, avec des paramètres spécifiques de  compactage pour chacun des dossiers, parce qu'on  
+33:5233 minutes et 52 secondesva rajouter un fichier qui va permettre au modèle  de comprendre : compact-policy.md, on va l'appeler  
+33:5833 minutes et 58 secondescomme ça. C'est assez explicite pour le modèle,  dans lequel on va définir la structure. Donc,   ce qui est important, c'est de définir la compact  policy de votre dossier. Donc, on aura à chaque  
+34:0734 minutes et 7 secondesfois des systèmes de compactage optimisés et ça,  c'est un des gros points de faiblesse avec la   gestion des mémoires du modèle. Et maintenant, on  va utiliser ce qu'on vient de coder pour pouvoir  
+34:1734 minutes et 17 secondesle réaliser. Donc, on va lui dire : « Make hook,  notre hook PreCompact. » On déclenche et ce qui   va se passer, donc, on va le voir se mettre en  place. On va regarder la création du hook. Donc,  
+34:2734 minutes et 27 secondestout est automatisé. Maintenant, on vient  d'intégrer l'automatisation de notre gestion   de hook. Donc, logiquement, on devrait voir la  session se mettre en place à l'intérieur de notre  
+34:3834 minutes et 38 secondesdossier hook. Et donc il va faire ici un hook en  fonction de ce qu'on a dit tout à l'heure. On a   dit qu'on l'écrit à l'intérieur du dossier hook  et qu'on lui donnait un slug name. Donc le slug  
+34:4634 minutes et 46 secondesname est là : c'est compact-policy. Donc c'est ici  qu'il va apparaître. Donc Codex Hook va créer un  
+34:5134 minutes et 51 secondesdossier mkdir à l'intérieur du répertoire,  déclenché par PreCompact. Donc la fonction   de compactage se déclenche avec la fonction  compact. Et donc la différence, c'est qu'on  
+35:0135 minutes et 1 secondepourra créer des fonctions d'optimisation,  ce qu'elle est en train de créer. Donc,   tout est automatisé. Du moment que vous comprenez  ça, vous êtes le king dans une entreprise. Vous  
+35:1035 minutes et 10 secondesêtes capable d'automatiser tout, de déclencher des  systèmes de compactage automatisés, de créer des   systèmes pour répondre à des services clients. Une  fois que vous avez cette logique de mise en place,  
+35:1935 minutes et 19 secondesvous faites des architectures. On commence avec  des architectures simples et ensuite on commence   à faire des trucs beaucoup plus balaises. Donc,  on vient de mettre en place le premier système de  
+35:2735 minutes et 27 secondeshook avec la logique et le code qui est codé. Et  tout est bon parce que tout ce qui est noté ici,   au niveau du plan, est good. Du moment  que le plan est correctement écrit,  
+35:3635 minutes et 36 secondesvous savez que le système... Voilà, compact  policy, ça, c'est toute la gestion qu'il avait   faite en amont sur la partie des intégrations de  hook et là, vous avez automatiquement le système.
+35:4835 minutes et 48 secondesQuelle est l'étape d'après ? L'étape d'après,  c'est de créer maintenant votre fichier   compact-policy.md à l'intérieur de votre  répertoire de travail. Ça veut dire que,  
+35:5735 minutes et 57 secondesquand vous êtes en train de bosser maintenant dans  votre répertoire projet, si vous avez un projet et   que vous avez une méthode de travail bien définie  ici, vous allez pouvoir personnaliser la méthode  
+36:0736 minutes et 7 secondesde compactage et vous avez exactement ce que  vous êtes en train de compacter en définissant   les caractéristiques de compactage. Alors, vous  pouvez vous aider de l'IA pour le faire. Là,  
+36:1636 minutes et 16 secondesje suis sur un développement d'une interface  qui fait 2 Go de développement. Donc, si je  
+36:2236 minutes et 22 secondespars sur un système de ce type : un, je copie mon  chemin d'accès ; deux, je demande de modéliser  
+36:2736 minutes et 27 secondesl'état utile pour la politique de compactage,  de définir une stratégie, de lister les bugs,  
+36:3336 minutes et 33 secondesleurs sections, leur localisation et la structure  des répertoires en format Markdown ; de définir   une politique de compactage : accès au plan, à la  todo list, aux tâches restantes, aux bugs, à leur  
+36:4336 minutes et 43 secondessection, à leur localisation, au répertoire  ; inclure les sous-variables. Donc là,   on va pouvoir être beaucoup plus précis sur la  gestion à faire. Donc, à partir de là, c'est  
+36:5236 minutes et 52 secondesquelque chose qui répond plus à mon problème :  plutôt que de ne pas savoir ce que fait l'IA au   niveau de la gestion des sessions. Et regardez  ce qui est en train de se passer. En plus,  
+37:0037 minuteson est à 86 %, c'est-à-dire qu'on perd  15 %. Donc, vous vous souvenez de ce que  
+37:0537 minutes et 5 secondesje vous ai dit : notre petit Sam a discrètement  diminué de 100 000 tokens les fenêtres. Donc ça,  
+37:1137 minutes et 11 secondesça nous amène automatiquement... Bah oui, ils  ont nerfé GPT 5.6, ils nous ont réduit les   possibilités d'exploitation de GPT 5.6. Et donc,  ce qui est en train de se passer ici, avec le  
+37:2137 minutes et 21 secondescompactage automatique, je ne sais pas ce qu'il  est en train de compacter. Comme on n'avait pas de   politique de compactage pour la session en cours,  automatiquement, ce qu'on a dit, c'est : quand on  
+37:2937 minutes et 29 secondesn'a pas de politique définie, tu appliques  les paramètres par défaut d'OpenAI. Donc là,  
+37:3537 minutes et 35 secondesil a compacté par défaut et ce qu'on voit, c'est  qu'on n'a aucunement la possibilité de savoir ce   qui a été fait. Je ne sais pas du tout ce qu'il  a choisi de mettre en cours, mais, pour moi,  
+37:4537 minutes et 45 secondesça me semble beaucoup plus logique. Je pense à  vous aussi, de vous dire : « Je veux savoir ce   que fait l'IA. » Et encore mieux : je veux  contrôler et driver le modèle pour qu'elle  
+37:5337 minutes et 53 secondestravaille comme je veux qu'elle travaille.  Parce que travailler sur un document de droit,   de comptabilité ou développer du code, ce n'est  pas du tout la même logique de travail. Donc  
+38:0338 minutes et 3 secondesc'est pour ça qu'il faut gérer le compactage, la  mémoire, les systèmes d'optimisation des prompts.   En fait, c'est une voiture de course : il faut  gérer chaque paramètre pour pouvoir la conduire  
+38:1238 minutes et 12 secondescomme un bolide. Donc il est en train de me coder  le fichier en fonction de ce que j'ai demandé. On   aurait dû lancer en mode plan, ça aurait été mieux  parce que ça aurait pu nous permettre d'anticiper.  
+38:2338 minutes et 23 secondesDonc je suis en train de regarder. Donc ça, c'est  la politique, les règles de classement. Donc il a   fait quelque chose qui est pas mal. Moi, je trouve  que c'est plutôt pas mal. Il est en train de le  
+38:3138 minutes et 31 secondesrédiger. 150 lignes, c'est ici, c'est en cours.  Donc, on est dans le fichier qu'il est en train   de coder. Il autorise la lecture du plan, des bugs  de validation, de ce qui reste à faire, des règles  
+38:4138 minutes et 41 secondesde classement. Il a mis des règles de classement  de logique, des répertoires. Voilà. Et ça tient   là-dedans. Donc ce n'est pas trop mal, c'est bien  pensé. Et maintenant, j'ai ma propre politique de  
+38:4838 minutes et 48 secondesgestion là-dedans. Et vous avez encore une fois la  possibilité d'accéder au fichier en cliquant juste   ici. Il apparaît là, c'est le même fichier. Donc  maintenant, vous apprenez à naviguer entre le  
+38:5738 minutes et 57 secondesrépertoire dans lequel on travaille avec Codex  et la politique qu'on vient de définir. Donc,   on vient de définir la hook policy. Ensuite,  j'ai posé la question : « As-tu déclenché le  
+39:0739 minutes et 7 secondeshook ? » Il a dit que la compact policy existe,  mais comme on n'en a pas fait pour la session en  
+39:1439 minutes et 14 secondescours, il a appliqué les paramètres par défaut  parce qu'elle existe seulement comme solution   de secours, parce que vous avez demandé que, si  le fichier est absent, il utilise la politique  
+39:2139 minutes et 21 secondespar défaut. Donc, en fait, il a bien détecté en  arrière-plan qu'elle existe et c'est pour ça qu'il   faut le faire pour chaque fichier de travail. Donc  là, vous êtes déjà sur un point hyper avancé sur  
+39:3039 minutes et 30 secondesle plan technique. Vous avez appris une fonction  nouvelle, qui est la fonction de hook trigger. Et   ça, vous pouvez le faire sur les déclenchements  des agents. C'est hyper puissant comme outil  
+39:3839 minutes et 38 secondesparce que demain, vous devez donner un contrôle  d'accès et vous voulez bloquer des fonctions.   C'est le même principe. Je vais vous mettre au  niveau des cours exactement le code à rentrer  
+39:4839 minutes et 48 secondesdans le template directory de votre système hook  avec ChatGPT Work, avec tout le code pour générer  
+39:5539 minutes et 55 secondesvotre système automatisé. Et, pour tous ceux qui  sont déjà avec le prompt engineering avancé, qui   sont habitués à travailler avec ce qu'on appelle  du loop engineering, je fais une version plus  
+40:0440 minutes et 4 secondestechnique dans laquelle je vais apporter du loop  engineering, la capacité du modèle de tester les  
+40:1040 minutes et 10 secondeshooks, de faire du reporting, de reproduire des  correctifs et d'analyser les erreurs pour aller  
+40:1640 minutes et 16 secondesun niveau encore plus haut sur l'automatisation  et les tâches qu'on va déployer dans les IA. Bref,  
+40:2240 minutes et 22 secondesvous avez tout le nécessaire dans les cours en  description et, sinon, appliquez toutes les étapes   du tuto qu'on vient de voir ensemble et vous  allez créer vos propres systèmes d'automatisation  
+40:3240 minutes et 32 secondespour générer des hooks avec ChatGPT Work  5.6. Rendez-vous dans la prochaine vidéo.
+
+Tout
+
+Source : Parlons IA
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+10 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+25:06
+J’ai testé les plats préférés des célébrités (et c'était douteux)
+Gurky
+546 k vues
+•
+il y a 1 mois
+
+
+27:21
+Innovation majeure pour l'évaluation de votre état de santé!  Jean-Yves et Éric
+Vitoli - Vivre en santé. Plus longtemps.
+119 vues
+•
+Diffusé il y a 23 heures
+Nouveau
+
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+736 k vues
+•
+il y a 2 mois
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,5 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+12:23
+À 31 ans, il meurt de sa passion pour le bodybuilding !
+Le Musclay
+66 k vues
+•
+il y a 9 mois
+
+
+8:08
+Je retrouve ma forme à 60 ans après 6 mois d'enfer ! ( Mes 7 Règles )
+JamCore
+7 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+1:22:31
+A l'aventure au coeur d'une jungle maudite et immersive sur The Mound ft. @Rivenzi_ et @PoneeeyLive
+CaptainFRACAS
+368 vues
+•
+il y a 56 minutes
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+2:15:30
+Direct n°120 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+45 k vues
+•
+Diffusé il y a 18 heures
+Nouveau
+
+
+13:23
+Une bonne niche n’est pas une niche de riches (ft Jérémy Kohlmann)
+SchoolMaker
+108 vues
+•
+il y a 1 heure
+Nouveau
+
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+794 k vues
+•
+il y a 1 mois
+
+
+28:43
+Les élites françaises sous influence - Michel Onfray
+Front Populaire
+42 k vues
+•
+il y a 1 mois
+
+
+16:31
+Le PDG de Claude vient de prédire l'avenir (personne n'est prêt)
+Vision IA
+54 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+16:21
+90 % des utilisateurs ignorent cette puissance de Claude + Notion
+Dr. Firas
+182 vues
+•
+il y a 20 heures
+Nouveau
+
+
+58:01
+"Vous ne posséderez plus rien" : hold-up légal sur votre épargne ? Ludovic Malot - Politique & Eco
+Chaîne officielle TVL
+37 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+28:28
+1984 a ESSAYÉ de nous PRÉVENIR
+Daniil le Russe
+157 k vues
+•
+il y a 23 heures
+Nouveau
+
+28:52
+Je teste la nourriture la plus douteuse d'Amazon
+Gurky
+869 k vues
+•
+il y a 4 mois
+
+1:57:20
+Dr. K : Ce groupe d’hommes est en train de disparaître lentement !
+The Diary Of A CEO
+ et HealthyGamerGG
+3,3 M de vues
+•
+il y a 1 an
+Doublée
+
+12:16
+J'ai créé une ARMÉE d'Agents IA Hermes (ils bossent sans moi)
+Dr. Firas
+212 vues
+•
+il y a 7 heures
+Nouveau
+
+    
