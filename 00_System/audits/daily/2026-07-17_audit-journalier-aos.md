@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : c383734
+- Commit audite : bfdc4b0
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-17 03:41:19
+- Rapport genere le : 2026-07-17 09:30:36
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,18 +25,24 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `bfdc4b0` - 2026-07-17 11:19:48 +0200 - Knowledge batch - docs(aos): process video source batch
+- `4fd20ac` - 2026-07-17 11:17:01 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
+- `e49d4b3` - 2026-07-17 03:41:19 +0000 - Audit - docs(aos): add daily audit report
+- `c8380c4` - 2026-07-16 18:28:52 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
+- `f5a4849` - 2026-07-16 17:35:02 +0200 - Knowledge batch - docs(aos): process video source batch
 - `c383734` - 2026-07-16 09:49:40 +0000 - Audit - docs(aos): add daily audit report
-- `ea1a07a` - 2026-07-16 03:41:49 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- Aucun commit.
+- `bfdc4b0` - 2026-07-17 11:19:48 +0200 - docs(aos): process video source batch
+- `f5a4849` - 2026-07-16 17:35:02 +0200 - docs(aos): process video source batch
 
 ### Protocol / system
 
-- Aucun commit.
+- `4fd20ac` - 2026-07-17 11:17:01 +0200 - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
+- `c8380c4` - 2026-07-16 18:28:52 +0200 - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
 
 ### Maintenance
 
@@ -44,17 +50,19 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `e49d4b3` - 2026-07-17 03:41:19 +0000 - docs(aos): add daily audit report
 - `c383734` - 2026-07-16 09:49:40 +0000 - docs(aos): add daily audit report
-- `ea1a07a` - 2026-07-16 03:41:49 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `4fd20ac` - 2026-07-17 11:17:01 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
+- `e49d4b3` - 2026-07-17 03:41:19 +0000 - Audit - docs(aos): add daily audit report
+- `c8380c4` - 2026-07-16 18:28:52 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
 - `c383734` - 2026-07-16 09:49:40 +0000 - Audit - docs(aos): add daily audit report
-- `ea1a07a` - 2026-07-16 03:41:49 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 6
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -65,7 +73,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-16_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-07-17_audit-journalier-aos.md
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_mike-codeur_agentic-developer-review-workflow_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_mike-codeur_revue-humaine-code-agentique_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_parlons-ia_chatgpt-5-6-workflow-claims_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_parlons-ia_chatgpt-work-codex-guardrails_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-17_youtube_alejavi-rivera_chatgpt-work-connecteurs-skills_transcript.txt
+- A 02_IA/Agents IA/veille/2026-07-16_youtube_mike-codeur_agentic-developer-review-workflow.md
+- A 02_IA/ChatGPT/veille/2026-07-16_youtube_parlons-ia_chatgpt-5-6-workflow-claims.md
+- A 02_IA/Codex/veille/2026-07-16_youtube_mike-codeur_revue-humaine-code-agentique.md
+- A 02_IA/Codex/veille/2026-07-16_youtube_parlons-ia_chatgpt-work-codex-guardrails.md
+- A 02_IA/Codex/veille/2026-07-17_youtube_alejavi-rivera_chatgpt-work-connecteurs-skills.md
 
 ## Fichiers modifies
 
@@ -85,11 +103,19 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- Aucun element detecte.
+- A 02_IA/Agents IA/veille/2026-07-16_youtube_mike-codeur_agentic-developer-review-workflow.md
+- A 02_IA/ChatGPT/veille/2026-07-16_youtube_parlons-ia_chatgpt-5-6-workflow-claims.md
+- A 02_IA/Codex/veille/2026-07-16_youtube_mike-codeur_revue-humaine-code-agentique.md
+- A 02_IA/Codex/veille/2026-07-16_youtube_parlons-ia_chatgpt-work-codex-guardrails.md
+- A 02_IA/Codex/veille/2026-07-17_youtube_alejavi-rivera_chatgpt-work-connecteurs-skills.md
 
 ## Sources traitees
 
-- Aucun element detecte.
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_mike-codeur_agentic-developer-review-workflow_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_mike-codeur_revue-humaine-code-agentique_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_parlons-ia_chatgpt-5-6-workflow-claims_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_parlons-ia_chatgpt-work-codex-guardrails_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-07-17_youtube_alejavi-rivera_chatgpt-work-connecteurs-skills_transcript.txt
 
 ## Toutes les alertes détectées
 
