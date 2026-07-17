@@ -1,0 +1,618 @@
+
+
+Découvrez la communauté des fans de parcs d’attractions
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Enfin un LLM pas cher qui envoie du LOURD
+DevArt 
+DevArt 
+15,6 k abonnés
+
+S’abonner
+
+32
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+17 juil. 2026  #mistralai #llm #llmlocal
+GLM 5.2 est sorti il y a quelques semaines… et il est toujours aussi MONSTRUEUX. J’ADORE.
+
+Liens utiles de la vidéo 👇
+
+Z.ai 👉 https://z.ai/chat 
+GLM 5.2 sur Ollama 👉 https://ollama.com/library/glm-5.2
+Les prix et comparaison 👉 https://openrouter.ai/compare/
+
+Un like, un partage ou un commentaire m’aide énormément. Merci beaucoup pour votre soutien ❤️
+
+#mistralai #llm #llmlocal #ia #developpeur #chatgpt #claude #openai #ollama #composer #opus4.8 #kimiK3 #Gemma4 #claudecode #GLM
+
+---- Je ne fais pas que des vidéos... Mais aussi DES SAVONS humouristiques 👉 https://www.bagarclub.fr/
+
+_______
+
+Chapitres 
+
+00:00 Intro
+01:35 Test 1 - Full Dev Blog 
+04:15 Combien ça coûte vraiment ? VS avec Kimi | Claude
+08:21 Test 2 - SaaS avec API etc
+18:15 Test 3 - Site complet UI UX
+22:22 Les templates avec GLM 
+23:35 Le prix de GLM-5.2 avec Ollama
+
+_______
+
+Envie d’apprendre encore plus ?
+
+Mistral 3B, 8B, 14B : Test complet et installation locale
+   • Mistral 3B, 8B, 14B : Test complet et inst...  
+
+J’avais tort... Gemma 4 en LLM local, c’est incroyable. Test COMPLET.
+   • J’avais tort... Gemma 4 en LLM local, c’es...  
+
+Musk rachète Cursor et vient de tout changer pour les DEVS (OpenAI et Anthropic le savent déjà)
+   • Musk rachète Cursor et vient de tout chang...  
+
+Kimi K2.7 Code : l’IA locale la plus puissante aujourd’hui ?
+   • Kimi K2.7 Code : l’IA locale la plus puiss...  
+
+Entretien de dev 2026 : 3 questions d’IA à connaître absolument !
+   • Entretien de dev 2025 : 3 questions d’IA à...  
+
+Test complet de Mistral AI
+   • Test Complet de Mistral AI: J'abandonne Ch...  
+
+Qwen plus fort que DeepSeek et ChatGPT ? LE TEST étonnant
+   • Qwen plus fort que DeepSeek et ChatGPT ? L...  
+
+Utiliser DeepSeek R1 avec Cursor AI, facile et surpuissant
+   • Utiliser DeepSeek R1 avec Cursor Ai : Faci...  
+
+DeepSeek VS ChatGPT VS Claude ?
+   • DeepSeek vs ChatGPT vs Claude : Quel choix...  
+
+Mon organisation de dev
+   • Développeur - Mon Organisation facile en s...  
+Arthur Gamby explore les capacités du modèle GLM 5.2 pour le développement web et la manipulation de bases de code importantes. À travers des exemples pratiques incluant la création d'un portfolio interactif et d'un tableau de bord de données YouTube, l'analyse examine les performances techniques, le coût d'utilisation et la gestion du contexte étendu.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+DevArt
+15,6 k abonnés
+Vidéos
+À propos
+Licence
+Licence de paternité Creative Commons (réutilisation autorisée)
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Dvlad-k6r6o
+il y a 45 minutes (modifié)
+moi je mixe avec minimax m3 il consome pas du tout et contexte a 500K ce qui est large
+
+
+
+Répondre
+
+
+@jeromecamus4660
+il y a 54 minutes
+Heu.... il faut un ordi surpuissant pour faire tourner ça avec une énorme quantité de VRAM.... donc réservé aux très riches?
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:00Donc il y a quelques semaines, GLM 5.2 a fait beaucoup de bruit. OK, tout le monde a dit c'est le nouveau modèle que tout le monde va utiliser. Ça va même être assez compétitif contre des modèles
+0:088 secondesprivés type Opus et cetera. Bah moi, j'ai testé tout ça. On a testé vraiment quelque chose qui va vous prouver bah que certaines choses qui ont été dites
+0:1616 secondessont vraies. Franchement, je suis hyper impressionné. Euh on est sur un modèle du coup qui se vente un peu si vous voulez si on remonte sur lama sur la définition un petit peu qui se vente
+0:2525 secondesd'avoir un contexte de presque 1 million d'accord de token. C'est énorme. Quand je dis ça, c'est énorme, c'est ça va être très utile si jamais vous voulez
+0:3232 secondesnaviguer dans une code base qui est assez conséquente. Ou alors surtout si vous avez tendance à comme moi de temps en temps commencer par un gros prompt
+0:4141 secondesbien détaillé et cetera, mais vous êtes pas content du résultat. Du coup, vous commencez à chatter chatter. Du coup, en fait, il y a vraiment du raisonnement euh nécessaire derrière. La fenêtre de
+0:4949 secondescontexte, elle gonfle et sur certains autres LM que vous testez qui sont plutôt bien, moi je pense à Kimi ou autres et cetera, on arrive vite à une à
+0:5757 secondesun contexte qui commence un peu à étouffer et on perd du coup en qualité.
+1:011 minute et 1 secondeLà, vous allez voir que je trouve que c'est vraiment c'est vraiment très fort.
+1:041 minute et 4 secondesEt du coup, nous on va utiliser Open code. Donc du coup, juste avec cette commande là, vous renez ça dans Open Code et ça se lance tout de suite. Moi, j'ai un petit compte au lama qui me permet de tester ça et c'est sur c'est
+1:131 minute et 13 secondesce modèle là que j'utilise à titre perso en ce moment avec un petit mix he comme je dis toujours de composeur pour mes tâches. Vous allez voir, c'est quelque
+1:201 minute et 20 secondeschose de super cool. Donc le ils aiment bien dire ce qui est nouveau. Voilà, 1 million. Oui, voilà. Ils ont balancé ça dans tous les sens et ils disent que c'est c'est très très fort pour ce qui
+1:291 minute et 29 secondesest euh pour tout ce qui est surtout très technique et dans tout ce qui est code base très course. OK, on va tout de suite passer au T. Vous allez voir, j'ai
+1:371 minute et 37 secondesenvoyé dans Open Code, je lui ai demandé en fait de me créer si vous voulez un blog de développeur mais j'ai vraiment
+1:441 minute et 44 secondesdemandé d'aller loin dans le design dans quelque chose de épuré. et je lui demandé de quelque chose qui va aller fetcher toutes mes datas sur LinkedIn, qui va aller chercher mes informations
+1:521 minute et 52 secondessur YouTube. On parle pas de landing page, on parle de vraiment de blog un petit peu interactif avec des animations. Et regardez ce qu'il m'a fait. Je vais vous donner aussi le
+1:591 minute et 59 secondescontexte que ça m'a coûté, mais regardez ça.
+2:032 minutes et 3 secondesHop. Voilà, je vous dis honnêtement c'est propre. Enfin honnêtement, c'est quelque chose de très propre quoi. Je descends, je scrollle les petites
+2:102 minutes et 10 secondesanimations en fait qui voilà c'est assez smooth. On voit bien, il a récupéré toutes mes informations. J'ai juste donné l'URL de ma chaîne euh LinkedIn et il est allé chercher les informations.
+2:212 minutes et 21 secondesOK, regardez ça. Hop, des petites cartes sympa avec un tout petit effet over. On a la stack et les tools. Et là, on a à chaque fois, vous avez vu, hop, ça
+2:292 minutes et 29 secondesapparaît tranquillement. On est très clairement, si vous voulez sur voilà, ça c'est assez propre. On est ici sur une petite carte qui euh parle de ma
+2:372 minutes et 37 secondesdernière vidéo YouTube et cetera. On est sur quelque chose que vous pouvez voir.
+2:412 minutes et 41 secondesC'est assez je sais pas d'ailleurs petite parenthèse, c'est assez fréquent ce type de portfolio un petit peu j'ai envie de dire de de CV en ligne qui sont
+2:492 minutes et 49 secondesassez épurés hein chez les développeurs, les ingénieurs, même chez les products aussi. On part sur on était passé il y a quelques années sur des choses qui avec
+2:572 minutes et 57 secondesde la couleur dans tous les sens et cetera, on voulait montrer nos 50000 projets sur quelque chose de très épuré.
+3:023 minutes et 2 secondesC'est souvent le cas quand vous avez travaillé sur beaucoup de choses, quand vous vous commencez à avoir un peu d'expérience et du coup en fait vous êtes plus sur euh montrer un petit peu les grandes lignes, parler peut-être des
+3:103 minutes et 10 secondesécrits que vous avez fait, des vidéos comme moi un peu que j'ai fait et cetera. Mais regardez comme c'est propre, franchement c'est c'est et et ça vraiment ça m'a coûté, je vais vous dire
+3:183 minutes et 18 secondesça en token. Le bloc m'a coûté 38000 token. Vous rendez compte ? 38000 token.
+3:253 minutes et 25 secondesEt là, je vais vous parler après, je vais vous montrer quelque chose. On a travaillé sur une application dashboard API monstrueuse qui a demander 200 300
+3:333 minutes et 33 secondes400000 token. Donc là, vous allez voir, hyper hyper lourd, hyper intéressant et vous allez voir que c'est costaud. Mais parlons tout de suite un petit peu combien ça coûte combien ça coûte du
+3:413 minutes et 41 secondescoup d'utiliser JLM parce que c'est bien beau tout ça d'avoir quelque chose qui bah qui est plutôt plutôt franchement en un en prompte avec peut-être je lui ai
+3:483 minutes et 48 secondesdit j'ai fait un promptte il m'a donné ça et à la fin je lu dis tiens rajoute-moi une petite carte dans le même thème le même format qui parle de ma dernière vidéo YouTube je lui ai copy
+3:573 minutes et 57 secondespaste le lien il m'a fait ça tout de suite. D'accord. On parle d'un C'est évidemment que c'est responsible, il y a pas grand-chose à mettre en place, mais
+4:064 minutes et 6 secondesj'ai vraiment le petit background derrière qui qui met bien, vous avez vu, un peu un peu subtile et tout. On est vraiment sur quelque chose de très tech.
+4:134 minutes et 13 secondesEuh pour les prix, donc on est allé, vous pouvez aller sur Open Router, c'est très très pratique les amis pour comparer les prix des différents LLM.
+4:224 minutes et 22 secondesLà, sur le côté, j'ai GLM 5.2. Je l'ai comparé un peu avec Kimi K3, il fait beaucoup de bruit en ce moment. euh très puissant. Je suis en train de faire une
+4:304 minutes et 30 secondesvidéo dessus. Donc si jamais vous voulez pas la rater, elle va sortir bientôt.
+4:334 minutes et 33 secondesAbonnez-vous et ça ça m'aide énormément sur la chaîne. Merci beaucoup pour vos likes, vos petits commentaires, ça me touche au fond du cœur. Vraiment merci beaucoup Kimi. Donc du coup, on a
+4:414 minutes et 41 secondescomparé et on va comparer pour faire un peu voilà, on est sur des modèles complètement privés, fermés avec Claud Fable et cetera et Claudopus, mais c'est
+4:484 minutes et 48 secondesun peu les les monstres un petit peu sur le dans le game. J'aurais pu ajouter Codex et tout mais voilà, c'est pour le principe. C'est pour vous montrer les prix que ça coûte. vous allez pouvoir le
+4:574 minutes et 57 secondescomparer au résultats que vous avez maintenant et c'est vraiment très très intéressant. Donc sur JLM et en plus en vert évidemment c'est là où ça win entre guillemets hein, on peut le retirer ici euh mais voilà c'est hyper intéressant.
+5:075 minutes et 7 secondesContexte, regardez ça, on est sur le même contexte du coup que le dernier Kimy mais que les Claude Fable et opus.
+5:135 minutes et 13 secondesDonc on est sur quelque chose de très intéressant. On a du raisonnement. On on n'est pas dans la mise en place par exemple de génération d'images. C'est pas réellement ce que l'on souhaite.
+5:215 minutes et 21 secondesD'accord ? Kimi peut le faire et évidemment les autres peuvent le faire aussi. On est sur un prix, écoutez-moi bien, en input, on est même pas à 1,
+5:295 minutes et 29 secondesd'accord ? Alors que les trois alors que Kimi 3, par exemple, c'est 3 dollars le million token. Évidemment, les fables et les euh opus, on va commencer à sortir
+5:365 minutes et 36 secondesle portefeuille, ça va piquer hein, on est sur 10 dollars par million token et 5 sur Cloud opus. Mais en output, les amis, en output, c'est le output est
+5:445 minutes et 44 secondestrès important parce que j'ai envie de dire même si vous avez plus ou moins la main mise sur ce que vous pouvez envoyer en input et vous devez faire très
+5:525 minutes et 52 secondesattention. Donc c'est un peu à vous de faire attention. output, c'est un peu là où c'est vous pouvez avoir des rules et cetera, des skis qui vous permettent un
+5:595 minutes et 59 secondespeu de formater ce que vous désirez en output, mais vous avez quand même pas la main à 100 % sur ce qui sort. D'accord ?
+6:056 minutes et 5 secondesDonc là, le prix, il va un peu vous taper dessus. Et ben, regardez, on est sur 3 dollars par million de tokens en output. On est sur 15 pour Kimika 3.
+6:146 minutes et 14 secondesEncore une fois, très impressionnant Kimika 3 aussi, on en reparlera plus tard. Mais regardez, évidemment, vous allez me dire "Oui, tu peux pas comparer par rapport à Fable 5, j'ai quand même
+6:216 minutes et 21 secondesenvie parce qu'en fait aujourd'hui dans les entreprises, dans beaucoup de boîtes et même pas mal de développeurs à perso et j'en faisais partie, on était à fond sur Anthopiic, sur Claude et cetera.
+6:306 minutes et 30 secondesMais moi quand je regarde aujourd'hui la politique de prix qui est mise en place et surtout en fait le les résultats qu'on peut avoir avec des LLM comme cela, je me dis bon en fait c'est c'est
+6:386 minutes et 38 secondesno brainer en fait, je vais pas je vais pas claquer 50 dollars par token. Encore une fois, Claude Fable, c'est une autre planète. Mais est-ce que réellement vous
+6:466 minutes et 46 secondesavez besoin d'un fable ? Regardez, moi si jamais je veux taper un truc comme ça, j'ai pas besoin d'un fable, un petit kim ou un petit un petit GLM, ça me suffit largement. Donc 50 25, on est sur
+6:556 minutes et 55 secondes3, on est sur très très clairement une une différence. J'ai été
+7:027 minutes et 2 secondesénormément impressionné les amis par la vitesse à laquelle les tokens sortent.
+7:067 minutes et 6 secondesD'accord ? J'ai testé beaucoup de LLM sur Olama. J'ai testé vraiment vous pouvez voir ma chaîne YouTube et de manière générale je souhaite faire
+7:147 minutes et 14 secondesbeaucoup de tests avant vous faire les vidéos pour vous donner quelque chose de très intéressant et pas vous faire attendre 25 minutes parfois parce que le token par seconde il est il est ridicule
+7:217 minutes et 21 secondeslà je vous jure c'est incroyable c'est rapide c'est vous pouvez réellement avoir un workflow de def qui fait plaisir et pas pas à attendre et cetera
+7:317 minutes et 31 secondesvoilà moi c'était c'est des choses qui m'embêtent un peu. Voilà donc ce genre de truc là après on a les les benchmark classiques. Moi je fais moins attention au benchmark. Je préfère tester moi-même
+7:387 minutes et 38 secondesparce qu'en fait ça représente pas exactement ce que je cherche. Allons voir les amis le test ultime que j'ai
+7:457 minutes et 45 secondesfait. Je lui ai demandé qu'il crée un dashboard YouTube complet, qu'il a tapé la pay YouTube. Donc il faut des clés à
+7:537 minutes et 53 secondespayer et cetera. On parle d'un truc vraiment où il faut qu'il mette en place. Il y a tout un contexte à mettre en place. Il y a tout un raisonnement.
+7:597 minutes et 59 secondesIl y a de lui de lui x. Il y a de la gestion un peu de latent si jamais ça marche pas. Il y a plein de choses. Je lui ai demandé un dashboard comme un
+8:068 minutes et 6 secondesYouTube studio qui me permet d'analyser la performance de mes vidéos, les concurrents, faire des graphiques dans tous les sens. On parle d'une application que vous pourriez avoir comme SAS, d'accord ? On parle pas d'une
+8:148 minutes et 14 secondeslanding page à de balles, on parle vraiment d'un truc beaucoup plus lourd.
+8:188 minutes et 18 secondesEt on est sur je l'ai appelé sur YouTube data. Donc voilà, regardez ça. OK, ça je vais vous dire ça m'a coûté donc pour
+8:268 minutes et 26 secondesvous donner une petite idée, j'ai envoyé un premier prompt qui expliquait que je souhaitais tout simplement en fait un dashboard monumental qui me permet
+8:348 minutes et 34 secondesd'analyser la performance de A à Z de mes vidéos, de mes chaînes YouTube, d'avoir des petits KPI, de pouvoir ajouter euh si vous voulez des amis ou
+8:428 minutes et 42 secondesdes collègues ou peu importe même des nouvelles chaînes YouTube pour voir comment est-ce que je fais par rapport à eux, d'avoir même des insights de des vidéos qui ont bien marché, d'autres qui ont pas marché. Donc il y a vraiment du
+8:498 minutes et 49 secondesraisonnement et de de d'avoir quelque je peux télécharger des choses, vous allez voir, c'est c'est vraiment cool. Et ça c'est GLM qui me l'a fait en franchement
+8:578 minutes et 57 secondessi je me rappelle, il me l'a fait en 12 minutes à peine et j'ai discuté deux trois fois avec lui. Donc le premier promp m'a coûté, j'ai planifié, ça m'a coûté dans les 38000 tokens en contexte,
+9:059 minutes et 5 secondesdonc rien rien du tout. Et il m'avait fait par contre une première version que j'avais pas aimé. Je vais vous la montrer tout de suite. J'ai pris un screenshot. Voilà, premier screenshot
+9:139 minutes et 13 secondesqui m'a fait, première application qui m'a fait, c'est quelque chose comme ça parce qu'en fait je suis je suis resté très large si vous voulez dans peut-être
+9:229 minutes et 22 secondesdans le thème. Moi, j'aime bien voir un petit peu ce qu'il peut me proposer.
+9:249 minutes et 24 secondesJ'avais demandé un thème un peu youtubish et cetera. Donc, il est parti dans des couleurs un peu euh un peu Disneyland et j'ai dit "Écoute, ça ça me plaît pas. Il y a pas mal de choses qui
+9:339 minutes et 33 secondesvont pas, j'ai du mal à lire les graphiques et tout. Ça fait trop Disneyland, fais-moi un truc pro." Et je lui ai dit "Voilà, fais-moi un truc un peu plus monochrome, pro comme si premium moderne." OK.
+9:429 minutes et 42 secondesEt bah et il m'a fait ceci. On est quand même sur autre chose et franchement ça fait plaisir. On a évidemment les euh on
+9:509 minutes et 50 secondespeut changer ici et cetera. Ça c'est relié. J'ai une clé API YouTube qui est gratuite. Vous pouvez aussi avoir cette clé API et aller fetcher des des datas
+9:579 minutes et 57 secondesqui sont publiques sur les chaînes YouTube évidemment. Euh et vous avez accès à tout ça. Donc on est surtout sur des accès de 30 jours de manière générale. Par exemple là, il me parle de
+10:0610 minutes et 6 secondesma dernière vidéo. J'aime bien le fait qu'il m'it mis un petit icône. Voilà. Ça veut dire quoi en fait ce ce truc là ?
+10:1210 minutes et 12 secondesDonc ça c'est ma dernière vidéo. Les les datas sont les datas sont bonnes si je me trompe pas. Euh là on est sur les breakout. Donc les breakouts c'est des
+10:2010 minutes et 20 secondesvidéos qui d'après lui ont plutôt bien marché. D'accord. Évidemment par rapport au à la taille de la chaîne par rapport aux dernières vidéos. Donc là par
+10:2810 minutes et 28 secondesexemple mon ami Vidv qui avait fait un super tuto sur CL code, il la montre.
+10:3310 minutes et 33 secondesEuh moi j'ai cette vidéo sur JMA 4 euh qui a pas trop mal marché, qui a fait 37000 vues. Et ce qui est sympa, regardez quand je clique sur la vidéo à droite, il m'a mis un drawer direct en
+10:4210 minutes et 42 secondesfait et j'ai plus de data. Donc ça c'est vraiment cool. Euh ici je peux voir ça, vous rendez pas compte mais ça par exemple ce sont des choses qu'on a nous dans YouTube Studio et ce sont des choses qui sont euh c'est hyper utile.
+10:5210 minutes et 52 secondesMoi je vois en fait si donc attendu ce que vous voyez en dessous attendu ici c'est de manière générale ce que fait ma chaîne. D'accord ? Cette vidéo là, elle a surperformé de manière importante.
+11:0211 minutes et 2 secondesDonc forcément en fait ça vous donne une petite indication super cool le taux d'engagement parce qu'en fait il a calculé j'avais une 300 lik des commentaires. Donc ça fait un petit 4 % par rapport au nombre de vues aussi.
+11:1211 minutes et 12 secondesJ'ai voilà la médiane de la chaîne, moi je suis plutôt à 4 5000 vues et encore je pense que c'est un peu gentil. Je pense plutôt à 3 4000 vues si on prend depuis que j'existe. Mais comme j'ai des
+11:2111 minutes et 21 secondesvidéos qui montent parfois à 30 ou 40000 vues, en fait ça flingue un peu si vous voulez la moyenne. Donc c'est pour ça que la médiane est importante.
+11:2811 minutes et 28 secondesEuh donc voilà, ça c'est cool. Là il me met d'autres sujets que c'est Ilia et cetera, la durée et tout et là évidemment je vais pas cliquer mais en gros ça l'ouvre sur YouTube. Voilà, ça
+11:3511 minutes et 35 secondesc'est du grand classique mais voilà le petit drôleur qui qui fait plaisir quoi.
+11:3911 minutes et 39 secondesÉvidemment je peux avoir d'autres informations. Ce qui est pas mal, c'est que ça c'est sur ma chaîne. Mais si je vais sur ça, en fait, j'ai aussi par rapport à cette personne-là, il a analysé les 30 dernières vidéos de cette
+11:4811 minutes et 48 secondespersonne et du coup en fait je vois aussi ou là il y a une bonne petite faute la risque lors engagement. C'est pas très grave. Il y a des petites il y a des petits i comme vous voyez.
+11:5611 minutes et 56 secondesÉvidemment, je vous dis, j'ai pas passé des heures à à corriger ça. Le but c'est que vous voyez ce qu'il est capable de sortir tout de suite. Regardez ce qu'il m'a fait aussi. Donc là, il m'a fait un
+12:0412 minutes et 4 secondesun espèce de schéma vu HD vidéo et en fait en bas, vous avez le nombre le par exemple, ça fait 30 jours, 60 jours 90 jours que les vidéos sont sorties et à
+12:1212 minutes et 12 secondesgauche c'est le nombre de vues. Et là ce qui ce qui est sympa et moi j'ai jamais réfléchi à ça, je vois là je le vois très bien et c'est grâce à si vous voulez il faut savoir que c'est GLM qui
+12:2012 minutes et 20 secondesa réfléchi comme ça, d'accord ? parce que pendant qu'il a planifié et c'est il a dit voilà on va peut-être faire un schéma comme ça, ça va te permettre d'avoir ce type de de rendu. Et moi je
+12:2912 minutes et 29 secondesvois qu'en fait je poste en presque tous les de tr jours des vidéos. Là je me suis un peu buté. Là j'ai eu un trou.
+12:3612 minutes et 36 secondesVoz hop une vidéo ici là. Voilà il y a 72 jours. Avant c'était il y a 90. Donc j'ai une petite trou de deux 3 semaines. Je poste souvent en fait mes vidéos.
+12:4512 minutes et 45 secondesVous avez vu là ce qui est pas mal c'est que je vois le bleu c'est moi en fait c'est ma chaîne. Je vois que je suis entre 3 et 10000 vues quoi. Mais je vois en fait que quand je poste je peux espérer entre 2 3 4000 vues. C'est pas
+12:5312 minutes et 53 secondestrès important mais et j'ai des petites vidéos qu'on qu'on buffé évidemment là faut faire attention l'échelle elle est un peu tronquée parce que là c'est de 10 à 30 he c'est pour qu'on voit un peu
+13:0213 minutes et 2 secondestout mais là par exemple cette vidéo 37000 là elle a fait 22000. Voilà. Et en fait, vous avez des petites scores à côté. Et ce qui est pas mal, c'est que je peux voir aussi que par exemple ça,
+13:1013 minutes et 10 secondesc'est Xavski pour ceux qui connaissent pas super chaîne. Vous pouvez apprendre plein de choses. Personne qui qui a rejoint Mistral dernièrement. Super chaîne, allez vous abonner, c'est top.
+13:1913 minutes et 19 secondesLà, je vois qu'il a par exemple, je vois une droite et je sais qu'en fait c'est le même jour, ça qui est hyper intéressant. Je vois qu'il a posté voilà en cible. Évidemment, c'est une c'est une suite de vidéo sur le même sujet
+13:2713 minutes et 27 secondesmais c'est hyper intéressant. On voit un peu quand est-ce que poste les gens. Là, je vois que par exemple euh Vide mon mon mon ami peut peut espérer quand il pose
+13:3713 minutes et 37 secondesdes vidéos de manière générale l'avoir entre 1000 et 3000 vues. Peut-être temps en temps une belle vidéo qui fait 8 9000 vues. Vraiment cool ça. J'ai ça je sais pas ce que c'est parce qu'en fait c'est
+13:4413 minutes et 44 secondesun peu ça par exemple c'est une petite erreur parce que je trouve que voilà les tendances pas très forts. Voilà c'est hyper cool. Il m'a fait une hit map.
+13:5013 minutes et 50 secondesJ'ai même pas demandé ça mais il m'a dit dans les dans dans ce qui m'a fait un peu le résumé après il m'a dit je vais te faire une hit map par sujet. Je bon vas-y fais-le. Et je vois qu'en fait en
+13:5913 minutes et 59 secondesle donc plus le score est élevé en fait plus euh si vous voulez il y a de l'interaction sur la chaîne et il y a de bons résultats. Par exemple Xavski quand
+14:0614 minutes et 6 secondesil parle d'IA euh c'est son plus gros score apparemment faudrait aller voir mais moi sur ma chaîne il y a un score de 2.1 et 1.3. Je parle souvent de
+14:1414 minutes et 14 secondescarrière et de tout ça. Pour ceux qui me connaissent pas, j'aime bien parler de types de carrière, de comment trouver du boulot, de quelques conseils, les choses
+14:2114 minutes et 21 secondesqu'il faut faire pas faire, les les stacks à connaître, les les sass à coder et cetera. Et puis après, je fais aussi de l'IA. Donc en fait, je vois que Lia,
+14:2814 minutes et 28 secondesc'est un sujet mais je trouve que c'est plutôt moyen sur ma chaîne. Il y a pas de grosse différence. Voilà. Euh après, il m'a dit voilà meilleur moment pour
+14:3614 minutes et 36 secondespublier. Euh ça c'est le nombre de vidéos que j'ai publié si vous voulez.
+14:4114 minutes et 41 secondesEuh par exemple le mardi, je publie beaucoup et le jeudi aussi. C'est vrai.
+14:4514 minutes et 45 secondesC'est vrai. Je m'en suis même pas rendu compte en fait. Et j'ai fait une vidéo une fois le dimanche et elle a bien marché. Voilà. Parce que chaud, c'est qu'en fait ça a bien marché.
+14:5514 minutes et 55 secondesOuais. Bah voilà, c'est un bon créneau.
+14:5714 minutes et 57 secondesD'accord. Et regardez ça, j'adore cette table. J'adore cette table parce qu'en fait encore une fois les amis, ça m'a coûté, je vais vous dire en contexte combien j'ai le j'ai le open code ici.
+15:0815 minutes et 8 secondes180000 token. J'ai discuté avec lui, hein. Je vous montre pas les son parce qu'en fait voilà, évidemment c'est pas utile si vous voulez, mais si vous
+15:1615 minutes et 16 secondesvoulez, j'ai discuté un petit peu avec lui comme vous pourriez discuter vraiment. J'ai pas j'ai pas il faut savoir que j'ai pas donné d'instruction de rules ou de skills particuliers. Je
+15:2515 minutes et 25 secondesl'ai laissé un peu me prouver ce qu'il savait faire. Imaginez si vous balancez des skills qui sont propres à votre workflow et cetera. Mais regardez ce qu'il est capable de faire en terme
+15:3315 minutes et 33 secondesd'UI. On est quand même sur quelque chose de méga propre. Je veux dire en haut j'ai je vois que hop, je peux l'enlever et cetera, c'est propre quand
+15:4015 minutes et 40 secondesmême. Donc du coup évidemment la recherche si je fais VLLM c'est c'est direct évidemment. Voilà, parce que c'est caché je pense mais toutes les
+15:4815 minutes et 48 secondeschaînes évidemment tous les sujets IA si on fait que IA, il va me il va me seulement les breakottes, on va enlever ça. Tat ta voilà et ce qui ce qui est pas mal, c'est qu'en fait du coup, j'ai
+15:5615 minutes et 56 secondesle nombre de vues, je peux voilà la vidéo la plus vue du coup c'était bah j'ai de la chance, c'est la mienne du coup et c'est 36000 vues. Euh les
+16:0416 minutes et 4 secondesmédianes, on peut voir que celle-là, elle fait 16 fois la médiane. Donc cette vidéo pour lui, elle est vraiment bien. C'est pour ça qu'elle a un score élevé.
+16:1016 minutes et 10 secondesC'est vraiment on peut analyser plein de choses, hein. C'est super cool. Et ce que j'aime bien aussi, c'est que quand je passe par-dessus, il me met thumbmail. C'est bête si vous voulez,
+16:1816 minutes et 18 secondesmais c'est hyper intéressant de voir par exemple une une pardon un score élevé. OK, c'est intéressant de voir peut-être le thumbnail parce que c'est des vidéos qui
+16:2516 minutes et 25 secondesont été cliquées. Et là, vous analysez un peu qu'est-ce qui qu'est-ce qui a peut-être changé dans le thumbnail ou autre, d'accord ? Ou dans le sujet. Euh
+16:3316 minutes et 33 secondesdonc voilà. Et là, je crois que je peux télécharger un un Hop, je vais cliquer dessus. Où est-ce que c'est ?
+16:4016 minutes et 40 secondesAlors oui, j'ai pas j'ai pas Excel sur mon ordinateur mais regardez, c'est en fait pareil, il m'a fait quelque chose qui fonctionne.
+16:4616 minutes et 46 secondesVoilà, c'est c'est bête et méchant ce que je suis en train de vous dire mais ça fait plaisir. Et là, j'avais même pas vu à surveiller
+16:5416 minutes et 54 secondesune vidéo à surveiller. On va voir ce que c'est. D'accord. Bon, pas quelque chose qui m'a retourné mais en gros ce que je voulais donc j'ai d'autres tests.
+17:0317 minutes et 3 secondesAttention, je vais vous montrer un truc aussi que j'ai fait après et cetera mais vraiment ça m'a impressionné. C'est propre, c'est rapide. Je vous dis franchement, j'ai pas eu grandchose.
+17:1217 minutes et 12 secondesJ'ai pas eu de bug franchement d'affichage. J'ai discuté un peu avec lui, je voilà, tu peux me changer un peu la couleur de ça. Je lu dit ici, tu peux me rajouter le score. Il l'a fait tout
+17:2017 minutes et 20 secondesseul. Il est allé chercher tout seul sur les chaînes compétiteur. Je vais juste donner en fait les ID des chaînes. C'est lui qui est allé fetcher cheer toutes
+17:2717 minutes et 27 secondesles datas qui avec la pay évidemment si vous voulez mais c'est lui qui s'est dit tiens, je vais faire des cartes, je vais faire des scores, je vais faire des machins et surtout c'est propre. C'est
+17:3417 minutes et 34 secondestrès très propre. C'est un un LM que vous pouvez utiliser pour coder, pour faire vos sas localement. Et si vous s'il vous plaît, on se rappelle du prix.
+17:4317 minutes et 43 secondesOn se rappelle du prix. On est sur 1 dollar à peine en input, en million de token et on est sur 3 dollars en output.
+17:5117 minutes et 51 secondesC'est une qualité moi qui m'a impressionné. D'accord. J'ai testé d'autres LM beaucoup plus cher qui qui je envie de parler de Mistral large.
+17:5817 minutes et 58 secondesJ'ai j'avais commencé à faire une vidéo, j'ai été tellement déçu que ça m'a déprimé, j'ai arrêté. Euh moi qui suis un fan de Mistral Mistral large ça m'a ça m'a déçu. J'ai même j'ai fait avec
+18:0718 minutes et 7 secondesMistral Vib et tout ça. C'est c'est c'est triste. Donc là vous avez la documentation et cetera. Je vais vous montrer ce qu'on a fait aussi. Alors hop
+18:1618 minutes et 16 secondesle local. J'avais fait euh ça. Ça, c'est une landing page toute pourrie que j'ai de base. C'était juste pour avoir un home. OK. Et après, j'avais demandé
+18:2518 minutes et 25 secondesjustement le fameux wall que vous connaissez et cetera. Donc vous embêtez pas avec ça. J'ai demandé euh je vais remettre le wall. J'ai donné un Jon, vous savez, j'aime bien faire ça, c'est
+18:3318 minutes et 33 secondesl'interprétation Jon. J'ai un Jon qui doit faire 400 500 lignes avec des données, du texte et cetera, des images
+18:4018 minutes et 40 secondeset tout. Et je lui je lui dis prends ce Jason là et réfléchis comment est-ce que tu peux me faire un site internet. J'ai fait le fameux site internet de Spa que
+18:4818 minutes et 48 secondesje fais souvent avec mes mes IA. Je lui ai demandé de le faire et bah il m'a vraiment impressionné et je vais vous dire pourquoi. Donc si on revient en arrière ici, c'est pas hop c'est là.
+18:5818 minutes et 58 secondesAlors et le seul truc ça ça m'embête de temps en temps mais ce qui m'a impressionné c'est que c'est l'un des seuls LM et Opus s'était planté les amis dans ma dernière vidéo dans composur
+19:0619 minutes et 6 secondesj'ai fait une vidéo sur composur 2.5 euh je sais plus si c'est sonet ou Opus il s'est planté sur ça et vous avez vu les
+19:1319 minutes et 13 secondesprix j'ai pas de problème d'affichage de photos d'accord toutes les photos
+19:2119 minutes et 21 secondesfonctionnent je dis ça ça peut vous paraître bizarre mais j'ai eu des problèmes avec les LM qui sont les meilleurs. D'accord. Donc c'est propre.
+19:3019 minutes et 30 secondesÉvidemment que je je le je le guide, je lui dis voilà, je veux quelque chose de soft, de pur, un peu un peu crème et tout. Mais c'est lui qui décide de
+19:3719 minutes et 37 secondescomment si vous voulez formater, aligner truc, je dis pas ça dans le Gison, d'accord ? C'est lui qui décide de faire des cartes de ce style là de Donc ça
+19:4419 minutes et 44 secondesc'est sympa. Il y a des petites erreurs, vous avez vu ici. Voilà, ça touche ici un peu mais c'est très ça fait ça me fait penser un peu à ce qu'a fait Composer à l'époque. C'est très clean,
+19:5219 minutes et 52 secondestrès sobre, on n'est pas dans le to much et ça fonctionne. D'accord. français, anglais, évidemment ça fonctionne aussi.
+19:5819 minutes et 58 secondesÇa ce que j'aime pas, un petit saut ici, ça c'est c'estime pas trop ça. Mais voilà, on a un petit zoom, un petit décalage euh la petite parenthèse pour
+20:0620 minutes et 6 secondesvous déconnecter. Ce que j'aime bien, c'est que les cartes sont propres. On on on est per sur quelque chose, on va chercher les infos. Ça je vous dis
+20:1220 minutes et 12 secondeshonnêtement cette section là où je demandais d'afficher cinq photos, je sais pas pourquoi ça déconnait. Je
+20:2020 minutes et 20 secondessais pourquoi parce qu'en fait certains LLM ne réfléchissaient pas avec le lazy loading, des choses comme ça en fait avec des soucis avec Next mais j'étais pas content. Et là en fait si vous
+20:2820 minutes et 28 secondesvoulez c'est propre et cetera. Il y a un petit souci ici. Bon voilà apparemment les questions on peut pas répondre.
+20:3320 minutes et 33 secondesVoilà c'est faut-il les réserver à l'avance ? Je sais pas le plus il marche pas. Il avait pas envie. OK, mais voilà, on est sur quelque chose de propre et
+20:4120 minutes et 41 secondescetera et c'est euh c'est quand même cool quoi. Mais il faut vraiment si vous voulez pour pour ce que je voulais vous dire en
+20:4820 minutes et 48 secondesfait, pour un workflow, on va dire à 90 % de ce que vous pouvez faire. Donc on parle de d'aller chercher des AP, utiliser des librairies et c donc moi
+20:5520 minutes et 55 secondesc'est il y avait du chatsen, il y avait du Richards, d'accord ? C'est important dans ce qu'il a fait si vous voulez ici là euh dans non c'est pas le wall c'est
+21:0321 minutes et 3 secondesici là il y a du rich ici il y a du chat cen évidemment il y a pas mal de choses il y a du telwin il y a du il y a plein de choses je lui ai jamais demandé ça je
+21:1221 minutes et 12 secondeslui dit d'aller chercher les il y a pour les icônes aussi c'est lui qui est allé chercher reacticône je crois euh c'est très bon ça réfléchit très vite c'est
+21:2021 minutes et 20 secondeshyper rapide tu as pas à attendre 2 heures quand tu planifies le truc et tu attends comme ça on a le token qui sort et tout alors que tu payes quand même tu vois mais c'est pas cher
+21:2821 minutes et 28 secondesEt franchement, si vous cherchez un LLM euh qui défie un peu la concurrence niveau prix, qui vous permet d'avoir une fenêtre de contexte de 1 million, ce qui
+21:3621 minutes et 36 secondesvous permet en fait, vous avez vu moi ce que j'ai fait avec 200000 token, j'aurais pu continuer avec le même contexte, d'accord ? Avec la dans la même fenêtre, la même session en lui
+21:4521 minutes et 45 secondesdemandant de changer quelques couleurs, de m'ajouter des tests, de de m'ajouter des pages et cetera. Je peux blinder le truc jusqu'à 600, 700000, 800000 tokens
+21:5221 minutes et 52 secondeset je pense que le résultat, il sera exactement le même. Donc on est sur quelque chose de très propre. Euh la documentation est très bien faite,
+22:0022 minutesd'accord ? Pour ceux qui lisent encore la documentation, j'en fais partie.
+22:0322 minutes et 3 secondesAlors lire, je veux pas je pas dire que je lis toute la documentation, mais c'est quand même là où vous allez avoir les informations parce que c'est bien d'aller voir les informations vous avez
+22:1122 minutes et 11 secondessur Lama ou les autres providers, allez voir quand même ce qu'ils disent sur la documentation parce que c'est là où en fait où c'est factuel. D'accord ? Je vous conseille d'aller du coup ici sur
+22:1922 minutes et 19 secondesZ. Donc l'application, ils ont évidemment il vous propose donc là ici vous avez le dernier modèle celui dont on parle. Il vous propose évidemment euh
+22:2822 minutes et 28 secondesleur propre chat. D'accord ? Et il y a un truc qui est vraiment pas mal les amis, je ne l'ai pas fait parce qu'en fait je trouve que ça on va dire que ça
+22:3522 minutes et 35 secondesfausserait un petit peu le test parce que j'ai essayé une ou deux fois et en fait évidemment moi j'ai pas fait le raisonnement max et cetera et cetera. on est sur quelque chose d'assez soft, mais
+22:4322 minutes et 43 secondessi vous voulez aller au tester à fond et ils ont un truc qui est pas mal, c'est qu'en fait ils ont une librairie en fait si vous voulez de petits test qu'ils ont fait et vous pouvez utiliser le prompt.
+22:5322 minutes et 53 secondesEt je vais regarder un truc, regardez pas un prompt qui fait 300 lignes, d'accord ? Mais ça vous donne une idée en fait de comment est-ce que eux ils
+23:0123 minutes et 1 secondeont construit ça et c'est hyper intéressant. C'est un peu, c'est pas du loverball, c'est pas du level de l'overball niveau libri, mais on est sur quelque chose d'assez intéressant et vous pouvez lui parler évidemment comme
+23:0923 minutes et 9 secondesn'importe quel chat. Donc c'est hyper cool. J'espère que cette vidéo vous a plu. Dites-moi ce que vous en pensez. Est-ce que ce type de test vous plaît ?
+23:1623 minutes et 16 secondesEuh voilà, j'essaie de tester des choses qui sont à 90 % des choses que vous pouvez avoir envie de faire aussi potentiellement utiliser un peu des API,
+23:2423 minutes et 24 secondesavoir des tableaux, des dashboards, des des des petits sas et cetera. Euh pour Ah oui, je voulais vous donner une petite information un peu supplémentaire, un peu perso mais qui
+23:3323 minutes et 33 secondesest plutôt cool. C'est combien est-ce que ça m'a coûté à titre perso euh du coup tout ça sur mon compte. Hop, je vous le mets ici, je vous montre tout.
+23:4123 minutes et 41 secondesHop, je vais je vais refresh. Donc moi, j'ai un compte pro qui me coûte 19 € par mois, un truc comme ça. Ça me permet de faire ces vidéos là, mais ça me permet aussi, si vous voulez, tout simplement
+23:4923 minutes et 49 secondesde coder à titre perso, d'accord ? Je vous dis, moi j'ai un mix de composeur 2.5, donc moi, j'ai un abonnement cursor que je paye dans les 20 € et depuis quelques temps, j'utilise aussi parce
+23:5823 minutes et 58 secondesque je suis très content de certains modèles qui sortent comme celui-ci, d'accord ? Et du coup, en fait, j'utilise bah je fais un petit mix des deux. Ça vous allez me dire "Oui, ça va
+24:0524 minutes et 5 secondeste coûter du coup 40 € par mois." Je code beaucoup, je fais beaucoup de projets, j'ai des projets aussi pour ma femme et cetera. Donc ça m'aide beaucoup, j'ai besoin d'avoir quand même
+24:1324 minutes et 13 secondesun certain confort en terme d'usage, mais vous vous rendez pas compte que si jamais je devais utiliser Cloud en terme de en terme de coût par token, ce que ça
+24:2124 minutes et 21 secondesme coûterait, il y aurait peut-être 10 % incroyable en fait. Mais si vous voulez, moi dans tout ce dont j'ai besoin de faire, c'est là ça c'est 100 % suffisant
+24:2924 minutes et 29 secondespour moi. Si vous voulez, il y a il y aurait peut-être 1 ou 2 % de use case où peut-être que Fable m'aurait m'aurait tout fait moins cher en 3 secondes et
+24:3624 minutes et 36 secondescetera, mais en soit, je préfère être sûr et avoir la main mise un peu sur combien ça va me coûter au lieu de payer des centaines et des centaines d'euros par mois alors qu' il
+24:4524 minutes et 45 secondesy a d'autres choses qui sont quand même plutôt cool. Donc ce que vous avez vu hein euh weekly faites attention à ça surtout ça qui est important. Ça m'a
+24:5324 minutes et 53 secondescoûté 13 % d'accord de mon weekly usage.
+24:5924 minutes et 59 secondesEuh c'est important, c'est weekly c'est pas monly et monthly je paye 20 € par mois. Donc on n'est pas sur 13 % de 20 € hein. Attention parce qu'on m'a fait la remarque. Non non ça c'est juste cette
+25:0725 minutes et 7 secondessemaine d'accord parce qu'il y a il y a une rate limite évidemment ça m'a coûté que un dieè si vous voulez de ce que je peux faire en une semaine et là je vous
+25:1525 minutes et 15 secondesparle de ce projet d'accord mais aussi je vous parle de ce projet.
+25:2225 minutes et 22 secondesC'est quand même cool. Écoutez, dites-moi ce que vous en pensez. Euh, j'espère que vos animaux vont bien, que votre famille va bien, que tout le monde va bien. J'espère que vous passez une
+25:3125 minutes et 31 secondessuper journée, que vous avez apprécié cette vidéo. Je suis en train de polish un petit peu une vidéo sur Kimika 3 parce que j'essaie de le pousser un peu
+25:3925 minutes et 39 secondesfort, vous faire un beau truc. J'ai d'autres vidéos qui viennent aussi sur des outils que j'ai testé qui étaient qui ont été assez marrants mais très utiles si vous cherchez du boulot aussi.
+25:4725 minutes et 47 secondesEuh voilà, petit commentaire, petit like si vous voulez soutenir la chaîne et encore mieux, abonnez-vous si jamais ça vous plaît parce que moi en fait ça me permet d'avoir une communauté plus
+25:5525 minutes et 55 secondesimportante et de et de ça me fait plaisir de voir que ce type de d'outil, ce type de vidéo vous plaît et du coup ça me motive encore plus pour en faire
+26:0326 minutes et 3 secondesd'autres. C'était Arthur, c'était Devart. C'était un plaisir d'être avec vous encore. À très bientôt. Salut tout le monde. Ciao.
+
+Tout
+
+Source : DevArt
+
+Interface de programmation
+
+Ordinateurs
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+1:04:55
+SON ENFANCE CHAOTIQUE, SES ADDICTIONS... CHAT’N CHEAT MEAL #10 feat @Najbfit
+Bodytime
+275 k vues
+•
+il y a 2 ans
+
+
+11:24
+JEUX EN VRAC - MINECRAFT
+Bazar du Grenier
+3,8 M de vues
+•
+il y a 3 ans
+
+
+5:36
+Peut-on vraiment faire confiance à l'IA pour investir ?
+Sud Radio
+118 vues
+•
+il y a 23 heures
+Nouveau
+
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+799 k vues
+•
+il y a 1 mois
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+310 k vues
+•
+il y a 2 mois
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+151 k vues
+•
+il y a 13 jours
+
+
+10:20
+JEUX EN VRAC - THE HOBBIT
+Bazar du Grenier
+2,5 M de vues
+•
+il y a 3 ans
+
+
+24:17
+COMMENT RATTRAPER LE RETARD DES TRICEPS !
+Essan NFC
+72 k vues
+•
+il y a 8 mois
+
+
+1:03:50
+Pourquoi les écolo-citadins détestent la climatisation ?
+Trouble Fait
+23 k vues
+•
+il y a 23 heures
+Nouveau
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+958 k vues
+•
+il y a 10 mois
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+25:28
+Le pire piège de la boxe : Pourquoi son physique est une illusion
+Légendes du Combat et Science du Combat
+31 k vues
+•
+il y a 2 semaines
+
+
+25:06
+J’ai testé les plats préférés des célébrités (et c'était douteux)
+Gurky
+548 k vues
+•
+il y a 1 mois
+
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+740 k vues
+•
+il y a 2 mois
+
+
+15:44
+Mes 5 Agents IA partagent enfin une seule Mémoire
+Mike Codeur
+5,2 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+6:15
+JEUX EN VRAC - PRINCESS MAKER 2
+Bazar du Grenier
+4,7 M de vues
+•
+il y a 8 ans
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+103 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+48:01
+Une IA, un objet IA, et la pire idée de l'IA : joyeux été !
+Renaud Dékode
+688 vues
+•
+il y a 3 heures
+Nouveau
+
+
+24:04
+Toutes mes courses pour avoir des Abdos !!
+Tibo InShape
+1,4 M de vues
+•
+il y a 1 an
+
+
+5:10
+JEUX EN VRAC - THE GUILD 2
+Bazar du Grenier
+4,8 M de vues
+•
+il y a 9 ans
+
+    

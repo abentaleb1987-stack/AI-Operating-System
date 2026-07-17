@@ -1,0 +1,802 @@
+
+
+Découvrez la communauté des fans de parcs d’attractions
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Les secrets que les experts IA ne vous disent pas sur le Loop Engineering ! Nouvelle norme de l'IA !
+Barthélémy Nobili
+Barthélémy Nobili
+145 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+17 juil. 2026
+Découvrez pourquoi le Loop Engineering est en train de surpasser le prompt engineering classique pour l'utilisation des agents IA. Dans cette vidéo, je vous explique comment concevoir des boucles d'itération autonomes qui permettent à ChatGPT et Claude d'analyser, vérifier et corriger leurs propres résultats en temps réel. Nous explorons l'anatomie d'une boucle efficace (déclencheur, objectif, actions, vérification, mémoire) et comment ce processus garantit une précision et une fiabilité inédites pour la recherche documentaire, la création visuelle constante et l'audit de sécurité automatisé. Apprenez à transformer votre manière de travailler avec l'IA dès aujourd'hui.
+
+SOMMAIRE :
+00:00 Introduction
+2:06 ORIGINES DU CONCEPT
+3:44 PROMPT VS LOOP
+4:53 LES 4 COUCHES
+6:05 ANATOMIE D'UNE BOUCLE
+13:03 RECHERCHE ET VÉRIFICATION
+18:54 VEILLE AUTOMATISÉE
+22:38 CRÉATION VISUELLE
+27:11 CONTRÔLE QUALITÉ
+29:46 BOUCLE DE SÉCURITÉ
+34:01 CAS SPÉCIFIQUES AVEC CLAUDE
+42:12 CONCLUSION
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+👉  EDIMAKOR : https://goo.su/jEG3UD
+► Utilisez coupon pour profiter de 30% réductions instantanées : VE30OFFBD
+
+
+
+Abonnez-vous pour plus de contenus de valeur !!!
+ 
+Barthélémy.
+Barthélémy Nobili explore le concept de Loop Engineering, une méthode structurée pour optimiser l'interaction avec les agents IA. Cette approche repose sur cinq composants clés, tels que le déclencheur et le processus de vérification, permettant de transformer les requêtes isolées en systèmes autonomes capables d'atteindre des objectifs complexes avec une fiabilité accrue.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+145 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@MyStudioAI-w1w
+il y a 3 heures
+Excellente vidéo Barthélémy, merci pour la clarté ! Le combo /goal puis /loop dans Claude Code, je viens direct de le retrouver dans un truc que j'utilisais déjà sans le nommer (agents qui vérifient puis relancent une correction tout seuls). Ça pose vraiment des mots sur une pratique qui devient indispensable dès que les tâches se complexifient. Je le suis 👍
+
+
+
+Répondre
+
+
+@Lion-dragon-k7q
+il y a 4 heures
+Toujours au top
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:055 secondesSalut à tous. Et si le Loop Engineering était le  nouveau paradigme pour poser vos questions à l'IA,  
+0:1616 secondesen lieu et place du prompt engineering ? En effet,  avec le prompt engineering, quel que soit votre  
+0:2222 secondesdomaine d'activité, la question basique était  : "Comment dois-je utiliser la meilleure phrase  
+0:3131 secondespour demander ce que je veux obtenir de l'IA  ?" Aujourd'hui, avec le Loop Engineering dont  
+0:3838 secondesje vais vous expliquer tous les rudiments, la  question serait plutôt : "Quel système devrais-je  
+0:4545 secondesmettre en place pour que l'IA prenne en compte  mes indications, les comprenne, les analyse,  
+0:5353 secondess'en souvienne pour me fournir, via une boucle, le  meilleur résultat possible ?" Ce nouveau concept,  
+1:051 minute et 5 secondescomme vous allez le voir, comprend  plusieurs subtilités. Restez bien   jusqu'au bout de cette vidéo parce que je pense  que dans les jours, semaines, mois à venir,  
+1:161 minute et 16 secondesce concept de Loop Engineering va devenir une  norme. Ne pas l'utiliser reviendrait à vous tirer  
+1:251 minute et 25 secondesune balle dans le pied, tant les résultats obtenus  sont de qualité supérieure par rapport à un emploi  
+1:331 minute et 33 secondesclassique du prompt engineering. C'est Barthélémy  Nobili. Pour ceux qui ne me connaissent pas, merci   de cliquer sur le bouton de souscription pour  m'aider à développer cette chaîne. Et moi, je  
+1:431 minute et 43 secondesvous convie à un voyage aux confins de ce nouveau  paradigme symbolisé par le Loop Engineering.
+Chapitre 2 : ORIGINES DU CONCEPT
+2:102 minutes et 10 secondesLe 7 juin 2026, le développeur Peter  Steinberger a publié un post viral,  
+2:172 minutes et 17 secondesvu par 7 millions de personnes en une semaine,  ce dernier annonçant que la compétence clé  
+2:232 minutes et 23 secondesn'était plus de bien prompter un agent IA, mais  bien de concevoir une boucle qui le fait tourner.  
+2:322 minutes et 32 secondesLe lendemain, le 8 juin 2026,  l'ingénieur Google, Addy Osmani,  
+2:382 minutes et 38 secondespublie l'essai qui donne son nom à la pratique  : Loop Engineering. Il en détaille l'anatomie,  
+2:462 minutes et 46 secondesles automatisations, les sous-agents et  la mémoire externe. En toile de fond,  
+2:522 minutes et 52 secondesle concept s'appuie aussi sur les idées de Boris  Tcharny, d'Anthropic, le créateur de Claude Code,  
+2:592 minutes et 59 secondespour qui la boucle est devenue l'unité de travail  avec l'IA. Celui-ci déclare : "Mon travail ne  
+3:063 minutes et 6 secondesconsiste plus à prompter l'IA, il consiste à  écrire les boucles qui la promptent à ma place."  
+3:133 minutes et 13 secondesLorsqu'il n'a pas suffisamment de stimulation dans  sa cage, le hamster peut souffrir d'ennui ou de  
+3:183 minutes et 18 secondesstress. Imaginez-vous dans la peau du hamster : la  roue vous offre alors une source de distraction,  
+3:263 minutes et 26 secondesvous protégeant de l'ennui et des comportements  stéréotypés. C'est exactement la même chose  
+3:333 minutes et 33 secondesdans une boucle : le système ne s'arrêtera qu'au  moment où son but, son objectif, sera atteint.
+Chapitre 3 : PROMPT VS LOOP
+3:473 minutes et 47 secondesPour comprendre les arcanes de ce nouveau concept,  il ne s'agit pas d'opposer prompt engineering  
+3:533 minutes et 53 secondesau loop engineering. Le prompt engineering  consistait en un échange entre l'utilisateur et  
+4:004 minutesune interface : je demande au système, dans chaque  message individuel, ce que je désire obtenir.  
+4:074 minutes et 7 secondesLa durée est échelonnée entre quelques secondes  et quelques minutes. Le résultat attendu est une  
+4:144 minutes et 14 secondesréponse unique, monolithique, et la compétence  clé jusqu'à présent, quel que soit le domaine,  
+4:214 minutes et 21 secondesc'était de bien savoir formuler. Avec le Loop  Engineering, l'unité de travail consiste en  
+4:274 minutes et 27 secondesun cycle complet du début à la fin. Au lieu de  demander un message unique que vous serez obligé  
+4:334 minutes et 33 secondesd'itérer, vous allez mettre en place un système  que vous avez conçu une fois. La durée s'étendra  
+4:394 minutes et 39 secondesde plusieurs minutes à quelques heures et le  résultat sera un résultat vérifié et livré. Ici,   la compétence clé ne se résumera pas à une  bonne formulation, mais à un système bien conçu.
+Chapitre 4 : LES 4 COUCHES
+4:564 minutes et 56 secondesÀ la base de ce concept, trois couches. La  première couche est évidemment le prompt  
+5:025 minutes et 2 secondesengineering. L'idée, comme je vous l'ai déjà  dit, c'est de bien formuler sa demande. Ici,  
+5:075 minutes et 7 secondesun prompt parfait ne peut inventer une information  que l'IA n'a pas. La deuxième couche, le context  
+5:135 minutes et 13 secondesengineering : ici, il s'agit de fournir à l'IA  tout ce dont elle a besoin pour réussir : les  
+5:195 minutes et 19 secondesdocuments, l'historique, les données, ce que  l'on appelle traditionnellement une base de   connaissances. Ça peut être des documents PDF,  des liens, des vidéos, etc. Troisième couche,  
+5:295 minutes et 29 secondesle hardness engineering, qui consiste à mettre en  place, à élaborer l'environnement complet autour   de l'IA : les outils, les contraintes,  les limites, les différents accès.
+5:415 minutes et 41 secondesEt l'ultime couche, le fameux Loop Engineering,   qui consiste, comme nous allons le voir dans  les exemples à suivre, à faire tourner tout ça  
+5:505 minutes et 50 secondesen phase cyclique : agir, vérifier, recommencer  jusqu'à ce que l'objectif final soit atteint,   sans nul besoin supplémentaire de  relancer chaque étape à la main.
+Chapitre 5 : ANATOMIE D'UNE BOUCLE
+6:086 minutes et 8 secondesJusqu'à présent, vous possédez les bases du  concept. J'ai conscience que pour nombre d'entre  
+6:156 minutes et 15 secondesvous, comme ce le fut dans mon cas au début, on  a du mal à bien comprendre ce dont il s'agit. On  
+6:236 minutes et 23 secondesva voir ensemble, au travers de nombreux exemples  que vous allez pouvoir mettre en place dès la fin  
+6:296 minutes et 29 secondesde cette vidéo, comment le système s'articule.  Avant cela, je vais vous donner des précisions  
+6:366 minutes et 36 secondesimportantes sur l'anatomie d'une boucle : en quoi  consiste-t-elle de manière théorique, en quoi  
+6:436 minutes et 43 secondessa mise en place relève d'une pratique précise  ? Et ensuite, au sein de ChatGPT et de Claude,  
+6:506 minutes et 50 secondesje vais vous donner des exemples concrets  qui, comme je viens de vous le dire,  
+6:556 minutes et 55 secondesvont vraiment donner un coup de boost dans la  conception, dans la réalisation de vos recherches,  
+7:047 minutes et 4 secondesque vous aborderez, je pense, à la fin  de cette vidéo sous un angle différent.
+7:107 minutes et 10 secondesVous allez voir que l'ensemble n'est  pas difficile à mettre en place.   Une fois que vous avez compris la technique,  c'est comme tout, il faut s'entraîner.  
+7:197 minutes et 19 secondesEt au bout de tout cela, vous verrez que  cette nouvelle norme, ce nouveau paradigme   dans la façon de demander des informations  à l'IA, change quand même pas mal la donne.
+7:347 minutes et 34 secondesLe premier des cinq composants fondamentaux d'une  boucle, c'est le déclencheur. Alors ici, c'est  
+7:417 minutes et 41 secondesexactement pareil que dans le prompt engineering  classique : vous décidez de quelle manière va  
+7:477 minutes et 47 secondesse déclencher la boucle. Ça peut être une heure  fixe, un événement, une instruction ponctuelle.  
+7:537 minutes et 53 secondesUn exemple très précis, par exemple, c'est  de demander au système que chaque jour,  
+8:008 minutesà 8 heures, celui-ci vous livre les dernières  informations relatives à un sujet précis,  
+8:068 minutes et 6 secondespar exemple l'intelligence artificielle. Ça, vous  allez pouvoir le demander avec l'auto-ChatGPT. Le  
+8:148 minutes et 14 secondesdeuxième composant d'une boucle, c'est l'objectif.  Ici, on va demander un résultat vérifiable.
+8:218 minutes et 21 secondesOn va articuler la question autour du fait de  demander une production de trois ou plusieurs  
+8:278 minutes et 27 secondesidées validées avec un script complet. L'idée,  c'est qu'on ne veut pas obtenir une réponse  
+8:338 minutes et 33 secondesunique. On veut s'assurer que le système, avant  de vous délivrer l'information finale, a entamé,  
+8:418 minutes et 41 secondespoursuivi, analysé, amélioré son processus  de vérification. Et tant que cet aspect des  
+8:478 minutes et 47 secondeschoses n'est pas vérifié, le système continuera  sa boucle jusqu'à vous fournir, clé en main,  
+8:538 minutes et 53 secondesune réponse vérifiée que vous n'aurez plus  besoin par conséquent d'itérer, d'améliorer,  
+9:009 minutespuisque le système, au travers de cette  boucle précise, vous donnera la garantie  
+9:059 minutes et 5 secondesde vous fournir la réponse la plus proche par  rapport à la requête initiale. Le troisième  
+9:129 minutes et 12 secondescomposant d'une boucle consiste dans les actions,  c'est-à-dire qu'il s'agira de bien préciser à l'IA  
+9:209 minutes et 20 secondesquels sont les outils qu'elle peut utiliser :  lire, chercher des références sur le web, écrire,  
+9:289 minutes et 28 secondesenvoyer des requêtes, se baser sur des tableaux,  graphiques, images, etc. Comme vous le feriez  
+9:369 minutes et 36 secondesdans le prompt engineering, à la différence  près que l'IA, dans son processus cyclique,  
+9:439 minutes et 43 secondesgarantira que les outils de référence qu'elle  aura utilisés pour vous fournir la réponse finale  
+9:509 minutes et 50 secondesseront cohérents et ne laissera aucune place  au hasard ou à l'approximation dans la qualité  
+9:589 minutes et 58 secondesdes ressources que vous avez vous-même soumises  au système, ou celles qu'elle ira chercher  
+10:0410 minutes et 4 secondesdans les données recueillies sur le web ou autres.  Composant numéro 4 : le processus de vérification.  
+10:1110 minutes et 11 secondesC'est vraiment lui qui constitue un des leviers  les plus caractéristiques de ce loop engineering,  
+10:1710 minutes et 17 secondespuisque ici l'IA, tant qu'elle n'a  pas trouvé l'information recherchée,  
+10:2310 minutes et 23 secondescontinuera son processus, sa quête.  Elle n'inventera jamais d'informations  
+10:3010 minutes et 30 secondespour simplement vous donner la satisfaction  d'avoir répondu à une requête. Un exemple très  
+10:3510 minutes et 35 secondesprécis : si dans le processus de la boucle vous  avez demandé à l'intelligence artificielle de  
+10:4210 minutes et 42 secondesvous faire un rapport toutes les 24 heures sur les  actualités liées à l'intelligence artificielle,  
+10:4810 minutes et 48 secondesl'IA ne vous redonnera jamais une seconde fois la  même information. Par exemple, si vous utilisez  
+10:5610 minutes et 56 secondesle prompt engineering classique et que vous créez  par exemple sur Claude une action programmée,  
+11:0211 minutes et 2 secondesil n'est pas rare sur une durée de trois, quatre  jours d'obtenir de manière récurrente et surtout  
+11:1011 minutes et 10 secondesredondante des informations que vous avez obtenues  la veille ou les jours précédents. Et c'est  
+11:1611 minutes et 16 secondesvéritablement ce processus de vérification  qui garantit également la perspicacité,  
+11:2211 minutes et 22 secondesl'exactitude des réponses que vous  obtiendrez grâce à cette technique.  
+11:2911 minutes et 29 secondesCinquième et ultime composant d'une boucle  : la mémoire. À partir du moment où on a  
+11:3411 minutes et 34 secondespris en considération le fait que tout a  été vérifié, c'est-à-dire que la boucle  
+11:3911 minutes et 39 secondessait à un moment donné qu'elle a terminé grâce  à un processus de checklist, de format conforme,  
+11:4511 minutes et 45 secondesde relecture, la mémoire se caractérise par  l'élément complémentaire de cette vérification.  
+11:5111 minutes et 51 secondesElle consiste, comme nous l'avons déjà évoqué  dans le point précédent, dans le fait qu'elle   comprend quel élément du cycle précédent elle a  généré pour éviter de le répéter dans la boucle.
+12:1112 minutes et 11 secondesEnfin, précision d'importance avant d'évoquer  les exemples concrets : lorsque vous paramétrez  
+12:1912 minutes et 19 secondesvotre processus de loop engineering, n'oubliez  jamais de mentionner la condition d'arrêt de  
+12:2512 minutes et 25 secondesla boucle, parce que si vous ne précisez pas  les conditions, en général c'est l'atteinte  
+12:3212 minutes et 32 secondesde votre objectif. Mais si ces conditions  d'arrêt sont mal ou pas définies du tout,  
+12:3812 minutes et 38 secondesla boucle pourra avoir tendance à ne jamais  s'arrêter. Ce n'est pas ce qu'on veut,  
+12:4312 minutes et 43 secondesparce que sur des programmes qui peuvent continuer  à travailler en ayant votre ordinateur éteint,  
+12:5012 minutes et 50 secondesça peut vous manger des jetons pour rien et  surtout, ça ne permettra jamais au système   d'obtenir une réponse définitive par manque  de précision, de clarté de votre part.
+Chapitre 6 : RECHERCHE ET VÉRIFICATION
+13:0613 minutes et 6 secondesAfin de vous donner un exemple concret  de la mise en pratique des boucles,   la première boucle consiste en un processus de  recherche et de vérification. Ici, j'ai soumis  
+13:1613 minutes et 16 secondesmon guide Suno au système et voilà comment vous  pouvez déclencher une boucle soit sur ChatGPT,  
+13:2213 minutes et 22 secondessoit sur Claude, soit sur Gemini. Ici, j'ai  utilisé le contexte de chat tout à fait classique,  
+13:2913 minutes et 29 secondesnormal de ChatGPT. Je lui ai fourni mon guide  en base de connaissances. Et voilà comment   vous pouvez donc enclencher une boucle : "Je  veux une synthèse fiable sur le guide joint.  
+13:3713 minutes et 37 secondesFonctionne en boucle interne avant de me  répondre. 1. Rédige une première version.   2. Relis-la toi-même comme un vérificateur sévère.  Chaque affirmation est-elle sourcée ? 3. Corrige  
+13:4813 minutes et 48 secondesen fonction de cette relecture. 4. Répète les  étapes 2 et 3 une deuxième fois. Ne me montre  
+13:5413 minutes et 54 secondesque la version finale avec les points encore  incertains signalés clairement." Jusqu'à présent,   lorsque vous vouliez vous livrer à un processus  de vérification d'un ou plusieurs documents,  
+14:0414 minutes et 4 secondesd'un site web, etc., on demandait simplement à  l'IA : "Passe en revue ce système, ce document   et fournis-moi une vérification." Aujourd'hui,  avec le processus des boucles, celui-ci ne  
+14:1414 minutes et 14 secondesva pas s'arrêter tant que son objectif ne va  pas être atteint et ne va jamais vous fournir  
+14:2014 minutes et 20 secondesde réponse erronée tant que son processus de  recherche et de vérification ne sera pas atteint.   Alors en termes de résultats, voyez que le système  a mis 3 minutes 57 pour me fournir la réponse.
+14:3214 minutes et 32 secondesIl me précise que le document est un manuel  pratique et illustré consacré à la création   musicale. Il comporte 334 pages, bien qu'il se  présente dans son introduction comme un guide de  
+14:4114 minutes et 41 secondesplus de 200 pages. Donc ça, c'est une amélioration  que je vais devoir rectifier. Son objectif est de   rendre la composition assistée par IA accessible  aux non-musiciens, tout en proposant suffisamment  
+14:5014 minutes et 50 secondesde techniques avancées pour intéresser  des utilisateurs déjà familiers avec Suno.   L'ouvrage repose sur une idée centrale : Suno ne  doit pas être abordé comme un outil parfaitement  
+14:5914 minutes et 59 secondesdéterministe ; une consigne correctement formulée  améliore les chances d'obtenir le résultat   souhaité, mais ne le garantit pas. Le guide  recommande donc implicitement une méthode fondée  
+15:0815 minutes et 8 secondessur les essais successifs, l'écoute comparative  et l'ajustement progressif des paroles et des  
+15:1415 minutes et 14 secondesbalises. Cette prudence exprimée dès la page 2  constitue l'un des principes les plus solides du   document. Alors évidemment, je ne vais pas tout  vous lire, mais ce qui est intéressant par rapport  
+15:2315 minutes et 23 secondesà une analyse normale, c'est que là, on me signale  l'ensemble des parties les plus caractéristiques   du guide en citant les pages dans lesquelles  ces caractéristiques surgissent, interviennent.
+15:3215 minutes et 32 secondesIci, on me signale que les pages 59 à 66 insistent  particulièrement sur les prompts longs et  
+15:3715 minutes et 37 secondesdétaillés. La suite constitue presque un manuel de  production interne à Suno. Elle explique notamment  
+15:4415 minutes et 44 secondesles remixes, etc. Donc là, ça reprend exactement  les parties constitutives du guide. Le guide ne se   contente pas de nommer ses fonctions, il les  présente avec des captures d'écran annotées.  
+15:5215 minutes et 52 secondesLes tags et métatags, pages 175 à 209 : on  me montre des exemples de métatags et on me   signale ensuite que cette partie se transforme  progressivement en répertoire. Elle recense des  
+16:0216 minutes et 2 secondesvariantes de structure, des types de voix, des  techniques de chant, des instruments à cordes,   vent, cuivre, percussion, clavier, instrument  électronique et voilà les annonces du guide.  
+16:1016 minutes et 10 secondesEnsuite, on me met en avant la structure des  chansons échelonnées entre les pages 210 à 231.
+16:1816 minutes et 18 secondesLes techniques avancées : donc vous voyez  que l'ensemble fournit quand même une   analyse beaucoup plus aboutie qu'un simple prompt  classique. On me dit que les apports principaux,  
+16:2616 minutes et 26 secondesles axes de pertinence, c'est  apprendre Suno depuis zéro,   constituer une bibliothèque de prompts et  comprendre la logique d'itération. Sa plus grande  
+16:3416 minutes et 34 secondesqualité est la combinaison entre explications  fonctionnelles, exemples complets et accès au   rendu audio. Et bien sûr, cette analyse cyclique  me fournit également les limites. Le guide est  
+16:4416 minutes et 44 secondestechniquement daté. La section juridique contient  une erreur importante en disant que l'utilisateur   gratuit est propriétaire des chansons créées.  Donc ça, il faudra que je le rectifie.
+16:5416 minutes et 54 secondesEt les balises ne sont pas des garanties. Bon,  évidemment, ici, je ne lui ai fourni que la   première version du guide, puisque vous savez  que dans ma formation, j'ai fourni des guides  
+17:0517 minutes et 5 secondesempiriques qui mettent en avant toutes les mises  à jour. Et pour une analyse complète, j'aurais  
+17:1017 minutes et 10 secondespeut-être dû, dans ce processus de boucle, lui  fournir tous les guides Suno et le système aurait  
+17:1717 minutes et 17 secondesmis certes plus de temps à répondre, mais il  aurait mis en avant l'évolution de ce que je lui  
+17:2317 minutes et 23 secondesai fourni pour me fournir une réponse encore plus  complète. Ensuite, on me signale que certaines   pages contiennent des répétitions, des fautes de  formulation ambiguës. La page 333, par exemple,  
+17:3317 minutes et 33 secondesme précise qu'il y a des répétitions. Et ensuite,  on me fournit une conclusion générale : ouvrage   pédagogique très riche conçu comme une formation  interactive plutôt que comme une simple notice.
+17:4217 minutes et 42 secondesSa valeur principale réside dans ses nombreux  exemples, ses captures d'écran, ses chansons   accessibles et son approche progressive, allant  de la découverte de l'interface jusqu'au duo,  
+17:5117 minutes et 51 secondesau chœur, aux instrumentaux et aux structures  complètes. Ensuite, on met en avant les points   encore incertains, et on voit aussi que cette  formulation sous forme de boucle a induit le  
+18:0118 minutes et 1 secondesystème, non seulement à vérifier l'intégralité  du guide en seulement 3 minutes, mais on voit  
+18:0718 minutes et 7 secondeségalement qu'il a été fouillé sur Suno pour un  croisement des données. C'est-à-dire qu'ici,  
+18:1318 minutes et 13 secondespar rapport à des éléments, si vous voulez, inclus  dans le guide dont il n'était pas certain, ChatGPT  
+18:2118 minutes et 21 secondesa été vérifié sur l'interface de Suno. Alors voilà  donc ce que vous pouvez faire. Et vous voyez que  
+18:2618 minutes et 26 secondesvia une boucle de ce type, l'analyse finale est  beaucoup plus riche, beaucoup plus complète et   surtout beaucoup plus exacte que si j'avais posé  la question via un simple prompt engineering.
+18:3818 minutes et 38 secondesEt donc, ce système de Loop Engineering lié à  la recherche documentaire, à la vérification,  
+18:4518 minutes et 45 secondesvous pouvez le décliner pour n'importe quoi, comme  je vous l'ai déjà dit : site web, application,   rapport de recherche, tableau Excel, etc.
+Chapitre 7 : VEILLE AUTOMATISÉE
+18:5818 minutes et 58 secondesPour ce deuxième cas de figure, on est  dans l'espace de Claude. Et lorsque vous  
+19:0419 minutes et 4 secondesprocédez à de la veille automatisée, qui peut se  traduire par exemple par des actions programmées  
+19:1019 minutes et 10 secondesque vous retrouvez ici, vous pouvez tout à  fait créer une boucle consistant à demander  
+19:1619 minutes et 16 secondesau système de créer chaque jour à 8h du matin  par exemple, une actualité sur tel ou tel sujet.  
+19:2219 minutes et 22 secondesPour cette boucle, il s'agira de vous rendre  dans la partie programmée, nouvelle tâche,   et que vous demandiez au système le  type de requête suivant : "Objectif,  
+19:3019 minutes et 30 secondesune accroche pour une vidéo YouTube sur le Loop  Engineering qui respecte ces critères : moins   de 8 mots, crée de la curiosité, pas de clic  bêtement songé. Propose une première version,  
+19:4019 minutes et 40 secondespuis évalue-la toi-même par rapport à chaque  critère respecté/non respecté avec pourquoi.  
+19:4619 minutes et 46 secondesRecommence jusqu'à ce que tous les critères soient  respectés, puis présente-moi uniquement la version   finale plus le tableau d'évaluation."  C'est-à-dire qu'en termes sémantiques,  
+19:5519 minutes et 55 secondesvous n'êtes pas obligé de dire au système  "crée-moi une boucle" : le fait de lui attribuer  
+19:5919 minutes et 59 secondesla fonction de relecture un certain nombre de  fois va pousser le système à ne vous fournir un  
+20:0620 minutes et 6 secondesobjectif qu'une fois ce dernier vérifié et surtout  veiller à ce qu'aucune information ne soit répétée   d'un jour à l'autre. Alors pour preuve, vous  voyez que le système commence terminologiquement  
+20:1620 minutes et 16 secondesparlant par boucle d'itération et là il va me  fournir divers titres en 8 mots maximum : "Le  
+20:2220 minutes et 22 secondesLoop Engineering va tout changer", "Loop  Engineering : le secret des agents IA", "Loop   Engineering : bien plus qu'une simple boucle". La  version finale me montre le tableau d'évaluation.
+20:3120 minutes et 31 secondesLes critères "moins de 8 mots" ont été respectés  dans les 3 cas de figure. Pourquoi ? Parce que   dans le premier cas, il y a 7 mots exactement.  Dans le deuxième cas, le système me précise que  
+20:4120 minutes et 41 secondesla formule "bien plus que" provoque une question  mentale immédiate sans dévoiler la réponse. Et   dans le troisième cas, on a une promesse honnête  et tenable : la vidéo explique justement en quoi  
+20:5020 minutes et 50 secondesle Loop Engineering dépasse une simple boucle.  Aucune exagération ni fausse promesse. Ensuite, le   système propose d'autres itérations. Ensuite, je  lui ai demandé, même méthode que pour l'accroche,  
+21:0021 minutesje propose, j'évalue chaque critère et je  m'arrête dès que tout est validé, la description   complète. Donc là, je me suis trompé, je lui  ai demandé 1000 caractères maximum alors que  
+21:0921 minutes et 9 secondespour une vidéo YouTube, c'est 500 caractères.  Bon, cela ne va pas changer la démonstration,  
+21:1421 minutes et 14 secondesça, c'est à moi de corriger l'ensemble, mais vous  voyez que ici, le système a tourné plusieurs fois  
+21:2121 minutes et 21 secondespour me fournir la description liée à ce  processus de Loop Engineering : "C'est   l'art de concevoir la boucle qui fait tourner un  agent IA, observer, décider, agir, recommencer.  
+21:3121 minutes et 31 secondesBien plus qu'une simple boucle, c'est ce  qui sépare un agent qui bricole d'un agent   réellement fiable. Dans cette vidéo, on décortique  pourquoi la plupart des boucles d'agents échouent,  
+21:3921 minutes et 39 secondescomment structurer une boucle qui se corrige toute  seule, les erreurs classiques à éviter dès le   départ, un exemple concret étape par étape. Que  tu débutes avec les agents IA ou que tu veuilles  
+21:4821 minutes et 48 secondesfiabiliser tes automatisations, tu repartiras avec  une méthode claire à appliquer immédiatement."   Et en fait, c'est quasiment le texte  que je peux intégrer dans la description  
+21:5721 minutes et 57 secondesde la vidéo que je suis en train de vous tourner  en direct. On a également, très important, le  
+22:0222 minutes et 2 secondestableau d'évaluation qui me donne la confirmation  que tous les critères ont été respectés,  
+22:0922 minutes et 9 secondeschose que ne permet pas de faire un système  basé sur un prompt classique. Et ensuite,  
+22:1622 minutes et 16 secondesle système me précise bien : "Si tu veux, je peux  la caler pile sous une limite plus serrée, ajouter   les liens cités et habituels ou reprendre ta  charte de description YouTube." Donc là, il suffit  
+22:2522 minutes et 25 secondesque je lui dise "limite plus serrée", que je lance  le processus et dans quelques minutes, j'aurai une   description parfaite, limitée à 500 caractères  et parfaitement adaptée à la publication YouTube.
+Chapitre 8 : CRÉATION VISUELLE
+22:4222 minutes et 42 secondesTroisième cas de figure concernant les boucles,  une boucle totalement dédiée à la création   visuelle et plus précisément dédiée à la création  d'images. On le sait, les principaux systèmes,  
+22:5322 minutes et 53 secondesNano Banana de Google, ChatGPT Image 2,  permettent de créer plusieurs images d'un coup,  
+22:5922 minutes et 59 secondesjusqu'à 10. Mais parfois, lorsque vous demandez  de manière classique de créer plusieurs images   du même personnage, il arrive que celui-ci  perde sa constance d'une image à l'autre,  
+23:0823 minutes et 8 secondesnotamment quand ces images sont créées d'un seul  trait. Alors voilà le prompt précis que je vous  
+23:1323 minutes et 13 secondesconseille d'adopter lorsque vous voulez créer 10  images du même personnage dans un environnement  
+23:2023 minutes et 20 secondesprécis : "Tu es un directeur artistique. Ton  objectif n'est pas de générer une image, mais   de produire 4 images valides d'un même concept en  bouclant jusqu'à obtenir 4 résultats conformes.  
+23:3023 minutes et 30 secondesJe ne veux pas une image scindée en 4. Ça, il  faut bien le préciser parce que sinon, ChatGPT   et Google vont vous créer une seule image scindée  en 4, mais bien 4 images créées successivement,  
+23:4023 minutes et 40 secondesl'une après l'autre, chacune au format 9:16e.  Le brief de l'image souhaité : un astronaute   assis seul sur un banc, dans une station de métro  parisienne abandonnée, envahie par la végétation.  
+23:5023 minutes et 50 secondesStyle, photographie cinématographique, 35 mm,  lumière dosée rasante, ambiance mélancolique.  
+23:5623 minutes et 56 secondesJ'ai repris le format 9:16e, je redose un peu,  c'est l'âge. Critères de validation : une image   est bonne seulement si tous les critères  sont remplis. Là, j'ai oublié critères,  
+24:0524 minutes et 5 secondesmais bon, le système a compris quand même. 1.  Le casque de l'astronaute est intact et fermé,   pas de visage nu. 2. On distingue clairement  un panneau de métro parisien. 3. La végétation  
+24:1624 minutes et 16 secondesest présente mais ne cache pas le personnage. 4.  Mains, 5 doigts, aucune déformation. 5. Cadrage   vertical respecté. Et la boucle à exécuter, c'est  de générer une première image, deuxièmement de la  
+24:2724 minutes et 27 secondesdécrire puis de la vérifier point par point contre  les 5 critères précédents. Si elle échoue sur un  
+24:3224 minutes et 32 secondescritère, ne la garde pas, reformule le prompt pour  corriger précisément le défaut puis régénère. 4.  
+24:3824 minutes et 38 secondesSi elle réussit, ajoute-la à la liste des  images validées. 5. Répète jusqu'à avoir  
+24:4324 minutes et 43 secondesles 4 images validées. 6. Sécurité maximum, 12  tentatives au total. Si tu n'atteins pas 4 images,  
+24:5024 minutes et 50 secondeslivre celle obtenue et explique ce qui bloque."  Au niveau de la sortie, les 4 images validées.  
+24:5524 minutes et 55 secondesPour chacune, le prompt final utilisé. Un court  journal avec le nombre de tentatives, les défauts  
+25:0125 minutes et 1 seconderencontrés et corrigés. Et voilà ce que m'a donc  fourni le système. On a cette première image,  
+25:0725 minutes et 7 secondeson a cette seconde image, on a la troisième  image, on a la quatrième image. Dans tous les cas,  
+25:1325 minutes et 13 secondeson a bien l'astronaute casque fermé avec des  textes en provenance d'un métro parisien.
+25:2225 minutes et 22 secondesEt donc, ici, voilà le processus. Alors ici, vous  voyez que le système m'a parfaitement généré les  
+25:2925 minutes et 29 secondesimages, mais ce que je lui ai demandé au niveau  de la sortie, il ne me l'a pas fait. Bon, ça peut   arriver qu'on soit dans le prompt engineering,  dans le loop engineering. On ne vit pas dans un  
+25:3825 minutes et 38 secondesmonde parfait. Donc ici, je lui précise que ces  éléments sont manquants et je lance le processus.  
+25:4325 minutes et 43 secondesMais vous voyez quand même que lorsque vous avez  une idée pas encore super concrète du personnage,  
+25:4925 minutes et 49 secondesde l'environnement, de l'objet, de l'animal, je  n'en sais rien, que vous voulez insérer et créer  
+25:5525 minutes et 55 secondesen tant qu'image, et bien là, cela vous permet  de vraiment obtenir 4 images dans le même esprit   avec un personnage qui ne perd pas de sa constance  et surtout qui évite les erreurs de génération.
+26:0626 minutes et 6 secondesEt voilà, vous avez raison, les  images ont bien été produites,   mais le rapport de validation est resté dans  la navette, le voici. Donc on a le prompt  
+26:1226 minutes et 12 secondescorrespondant à l'image 1 avec le processus  de vérification : casque fermé intact validé,   panneau de métro parisien visible validé,  végétation visible sans masquer le  
+26:2226 minutes et 22 secondespersonnage validé, deux mains présentes sans  déformation flagrante validées visuellement,   format vertical validé. Et ça, c'est vraiment  précieux parce que ça vous évite de perdre du  
+26:3226 minutes et 32 secondestemps. Le temps, c'est notre seul allié et si  on le gâche à cause de prompts banals, imprécis,   eh bien on va encore passer des heures à  se prendre la tête, à perdre de l'énergie.
+26:4326 minutes et 43 secondesAlors que ici, vous voyez que on obtient  les différents prompts, toutes les étapes   sont validées et le processus est vraiment  excellent. Et moi, je pense vraiment que  
+26:5326 minutes et 53 secondespour l'ensemble de mes futurs prompts,  je vais passer par le Loop Engineering   et laisser tomber progressivement le  prompt engineering classique parce que là,  
+27:0327 minutes et 3 secondeson atteint vraiment un niveau de précision  jusqu'à présent inégalé, si vous voulez.  
+Chapitre 9 : CONTRÔLE QUALITÉ
+27:1327 minutes et 13 secondesAutre cas de figure qui s'apparente un peu  au premier, le contrôle qualité : alors ici   aussi vous pouvez utiliser l'interface Co-work  de Claude, l'interface de la nouvelle version  
+27:2527 minutes et 25 secondesde ChatGPT pour demander des éléments de  vérification très précis pour les tâches   chronophages et répétitives, telles que  la gestion des messages, des factures  
+27:3427 minutes et 34 secondesou de tout flux récurrent que vous voulez traiter.  Alors la première chose que vous pouvez demander   au système, c'est qu'on conçoive une boucle qui  chaque jour passe en revue les nouveaux messages  
+27:4227 minutes et 42 secondescontenant le mot "facture", en extraire le montant  et la date d'échéance, les ajouter à un tableau de   suivi et ne s'arrêter uniquement que lorsque  tous les messages du jour auront été traités.
+27:5227 minutes et 52 secondesL'objectif véritable, c'est qu'on garantit par  cette boucle qu'aucun message ne soit occulté  
+27:5827 minutes et 58 secondesau niveau de son traitement, si vous voulez. Et  l'élément important dans le système de boucle,  
+28:0428 minutes et 4 secondescomme je vous l'ai expliqué antérieurement, c'est  le fait que cela évite d'un jour à l'autre une  
+28:0928 minutes et 9 secondesrépétition de messages déjà traités. Et ce qui est  très pertinent lorsque vous utilisez les boucles,  
+28:1628 minutes et 16 secondesc'est que le système retient, grâce à sa  mémoire, le fait de ne pas traiter les doublons,  
+28:2128 minutes et 21 secondesetc. Le deuxième exemple, c'est une boucle de  contrôle qualité qui va relire automatiquement   un document produit et on corrige les  écarts avec votre charte graphique,  
+28:3128 minutes et 31 secondesvotre branding. Là, vous pouvez demander  par exemple dans Claude Co-work ou dans   ChatGPT Work qu'on conçoive une boucle qui relie  automatiquement chaque nouveau document produit.
+28:4128 minutes et 41 secondesVérifie qu'il respecte ma charte, couleur noir,  rouge, blanc, titre en série, ton concret et   pédagogue. On peut également inclure là-dedans  la couleur des polices, etc. Corriger les écarts  
+28:5128 minutes et 51 secondestrouvés et ne s'arrêter que lorsque le document  sera 100% conforme. Détail de déclencheur,  
+28:5628 minutes et 56 secondesl'objectif vérifiable, les actions, la  méthode de vérification et la mémoire à  
+29:0129 minutes et 1 secondeconserver entre deux relectures. Ici, plutôt  que de demander chaque jour "relève tous les  
+29:0829 minutes et 8 secondesmails qui ont le mot facture", par exemple  comme dans le premier cas, eh bien ici,   vous vous prémunirez du problème récurrent lié  au fait que parfois le système a tendance à se  
+29:1829 minutes et 18 secondesrépéter. Et dans ce processus lié à des tâches  programmées, on peut également inclure le fait  
+29:2529 minutes et 25 secondesde demander chaque jour une actualité sur un sujet  précis. La mémoire du système garantira ici aussi  
+29:3229 minutes et 32 secondesde ne pas traiter des tips, des astuces déjà  traitées la veille ou deux ou trois jours avant,   comme cela m'arrivait souvent lorsque je n'avais  pas encore mis en place ce système de boucle.
+Chapitre 10 : BOUCLE DE SÉCURITÉ
+29:4929 minutes et 49 secondesAlors vous le savez, désormais lorsque vous  utilisez n'importe quel type de chatbot classique,   ChatGPT, Claude, Google Gemini ou autre,  il est très facile de créer un site web  
+30:0030 minutesou une application. Le problème, c'est qu'au  moment où cette application est créée, qu'elle   est fonctionnelle, que vous avez apporté toute  votre énergie, tout votre cœur pour la créer,  
+30:1030 minutes et 10 secondesle problème c'est souvent sa mise en ligne  et surtout les problèmes de sécurité qu'on  
+30:1630 minutes et 16 secondesne maîtrise pas forcément pour permettre une  mise en ligne officielle de votre site ou de  
+30:2230 minutes et 22 secondesvotre application. Ça veut dire que maintenant,  on est tout à fait capable, à partir de quelques   indications, même sommaires, de créer un site web  et une application, mais on n'a pas forcément les  
+30:3230 minutes et 32 secondesconnaissances de programmeurs pour pouvoir être  sûr que la sécurité de votre application une  
+30:3830 minutes et 38 secondesfois en ligne sera garantie. Alors pour ce  faire, j'ai utilisé Claude, Claude OPS 4.8  
+30:4430 minutes et 44 secondesqui est très puissant, et je lui ai demandé la  boucle suivante : "J'ai besoin que tu me crées  
+30:4930 minutes et 49 secondesune boucle inspirée du Loop Engineering chargée  de vérifier à partir de fichiers de code joints  
+30:5530 minutes et 55 secondessi une application que je veux publier sur un site  internet présente des failles de sécurité. Il faut   que la boucle veille à tous les cas de figure,  qu'elle s'autocorrige et qu'elle me fournisse à la  
+31:0531 minutes et 5 secondesfin une révision complète du code me permettant  de publier un site web ou une application   sans aucune faille de sécurité." Alors en ce  moment, pour la rentrée, j'en ai déjà parlé,  
+31:1431 minutes et 14 secondesje suis en train de créer un support Suno très  complexe, très complet, dont je vous ferai part  
+31:2031 minutes et 20 secondeslorsqu'il sera finalisé. Et pour ce faire, j'ai  simplement fourni au système, sous forme zippée,  
+31:2631 minutes et 26 secondesles éléments constitutifs de celui-ci :  le code HTML, le code ASP, le code PHP.   Je n'ai pas fourni les images et les vidéos  liées à ça parce que ça, ce n'est pas la peine,  
+31:3631 minutes et 36 secondeset ce sera de toute manière trop lourd  pour fournir un fichier complet au système.   Donc une fois fourni ledit code, le système  m'a donc entamé son processus de vérification.
+31:4731 minutes et 47 secondesEt au bout de 7-8 minutes, voilà le fichier qu'il  m'a fourni aux images de ma charte : un audit de  
+31:5431 minutes et 54 secondessécurité basé sur le principe du loop engineering  de haute qualité. Donc là, il me signale que le  
+32:0032 minutessystème ne présente aucun risque de vulnérabilité  critique ou élevée restante. La synthèse,  
+32:0632 minutes et 6 secondesla voilà : la boucle a détecté cette vulnérabilité  à l'itération de se créer une injection SQL. Bon,   ça, c'est du langage de codeur que  je ne maîtrise pas dans son entier,  
+32:1632 minutes et 16 secondesmais au moins vous voyez que chaque  point a bien été analysé, corrigé,   etc. On a le déroulé des itérations, on a les  vulnérabilités détectées et corrigées. Voilà,  
+32:2532 minutes et 25 secondeselles sont toutes là. Donc ça, on ne vous demande  pas de comprendre de A à Z de quoi il s'agit,   mais d'obtenir, si vous voulez, la  garantie que l'ensemble a été corrigé.
+32:3732 minutes et 37 secondesDonc là, on a vraiment tout le processus.  Et in fine, on obtient une synthèse globale   explicative de l'ensemble. À l'issue de la boucle,  deux itérations, l'application de démonstration ne  
+32:4632 minutes et 46 secondesprésente plus de vulnérabilité connue parmi les  classes vérifiées, zéro vulnérabilité critique   ou élevée restante, injection corrigée et  retestée, secret en dur retiré du code,  
+32:5632 minutes et 56 secondescontrôle d'accès et front durci, analyse statique  du code fourni. Un pen test dynamique sur l'APP   en fonctionnement reste recommandé, audit  d'infrastructures, hébergement hors périmètre,  
+33:0633 minutes et 6 secondesdonc ça, je pourrais lui demander de me spécifier  ce dont il s'agit de manière plus précise. Et  
+33:1233 minutes et 12 secondescomme le système ne se limite pas à ça, il m'a  fourni l'ensemble des fichiers que je lui ai  
+33:1933 minutes et 19 secondessoumis de manière corrigée dans un dossier qui  s'appelle "Audit Sécurité Loop". Et donc je peux  
+33:2433 minutes et 24 secondestout à fait compresser ce fichier en zip, le  faire glisser dans le FTP d'Hostinger ou autre  
+33:3133 minutes et 31 secondeshébergeur, et j'aurai une garantie plus précise,  plus costaude si vous voulez, que mon site  
+33:3933 minutes et 39 secondesou mon application ne souffrira pas de failles de  sécurité qui pourraient faire l'objet d'attaques,  
+33:4633 minutes et 46 secondesetc. Donc sur ce point aussi, le fait d'appliquer  une boucle vous garantit un résultat beaucoup plus   solide pour mener à bien ce que vous voulez  créer grâce à l'intelligence artificielle.
+Chapitre 11 : CAS SPÉCIFIQUES AVEC CLAUDE
+34:0434 minutes et 4 secondesDernier exemple très précis relatif à  l'utilisation des boucles. Cet exemple  
+34:1034 minutes et 10 secondesne peut être activable que dans Claude Code.  Et vous savez que grâce au système du slash,  
+34:1634 minutes et 16 secondesvous pouvez déclencher des skills, des buts, des  actions, etc. Ici, on retrouve deux commandes  
+34:2334 minutes et 23 secondesdifférentes pour deux besoins différents à taper  directement dans Claude Code, comme je vous l'ai   spécifié. Si vous le tapez dans une conversation  classique, cela ne fonctionnera pas. Donc ici,  
+34:3334 minutes et 33 secondesl'idée c'est que si vous tapez dans Claude Code  /goal, celui-ci va être tout à fait programmé pour  
+34:4034 minutes et 40 secondesrépondre à un objectif ultra précis. Par exemple,  si je tape /goal, je peux lui demander : "Fais   tout ce travail sans t'arrêter." Bon, là, le  travail, vous demandez ce que vous voulez.  
+34:5034 minutes et 50 secondes"Sans revenir me voir à chaque étape jusqu'à  ce que ce soit fini." À partir de là,   Claude va enchaîner les actions tout seul  dans la même session le temps qu'il faut,  
+34:5934 minutes et 59 secondessans que vous ayez besoin de dire "ok", "pas ok".  Ça, c'est vraiment très précieux, ça vous évite   de rester devant l'ordi et une fois que vous lui  donnez l'autorisation la première fois d'effectuer  
+35:1035 minutes et 10 secondesce travail, vous n'aurez plus besoin de rester  devant votre écran. La deuxième fonctionnalité,   /loop, permet explicitement à donner comme message  à Claude de générer la dite boucle : "Repasse,  
+35:2035 minutes et 20 secondesvérifie régulièrement, même quand j'ai  fermé la fenêtre." Et ça, c'est important   parce que vous savez que jusqu'à présent,  jusqu'aux dernières mises à jour, eh bien,   Claude, à partir du moment où vous éteigniez  votre ordinateur, le travail était terminé.
+35:3335 minutes et 33 secondesFermeture de session égale fin de réflexion et  fin du processus entamé. Et grâce à ce système de  
+35:4035 minutes et 40 secondesboucle, Claude va revenir sur une base temporelle  que vous aurez vous-même déterminée pour vérifier  
+35:4835 minutes et 48 secondesou continuer un certain processus. La question  qu'on se pose, c'est : faut-il taper ces deux  
+35:5535 minutes et 55 secondesindications l'une après l'autre ? Oui, vous tapez  d'abord votre goal, vous fixez la destination,  
+36:0136 minutes et 1 secondece que vous voulez obtenir du système. Une fois  que cette première requête a été concrétisée de  
+36:0836 minutes et 8 secondesmanière favorable, dans le même chat de Claude  Code, vous allez taper /loop. Et juste après, dans  
+36:1536 minutes et 15 secondesla même conversation, vous allez donc lancer la  deuxième requête. Et ces deux commandes séparées   vont permettre au système, dans un premier temps,  d'atteindre votre objectif et dans un second  
+36:2536 minutes et 25 secondestemps, de l'itérer de manière automatique  sans que vous n'ayez plus rien à faire.
+36:3036 minutes et 30 secondesAlors ici, je vais vous donner un exemple concret  juste après. Voilà ce que vous pouvez taper. Alors  
+36:3636 minutes et 36 secondesici, au niveau du goal : "Trouve-moi 10 idées de  titres pour ma prochaine vidéo sur l'IA générative   jusqu'à ce que j'en ai exactement 10  qui commencent chacune par un chiffre  
+36:4636 minutes et 46 secondeset qui font moins de 60 caractères." Bon, ça, j'ai  essayé, ça marche très bien. Ensuite, le processus   de vérification, vous allez l'enclencher en  tapant /loop et en lui demandant : "Regarde  
+36:5636 minutes et 56 secondessi j'ai reçu de nouveaux commentaires sur mes  trois dernières vidéos YouTube. S'il y en a,   note-les dans un fichier 'commentaire à  traiter.md'." Donc, les fichiers MD, c'est  
+37:0537 minutes et 5 secondesles fichiers correspondant à la concrétisation  des skills, des buts à obtenir dans Claude.
+37:1137 minutes et 11 secondesS'il n'y en a pas, ne fais rien. Mais après,  vous pouvez également utiliser un exemple   combiné : les deux commandes l'une après  l'autre, c'est ce que je vous ai dit. Ici,  
+37:2037 minutes et 20 secondeson veut à la fois une vérification régulière et un  travail complet qui va recommencer à chaque fois.  
+37:2537 minutes et 25 secondesDonc là, ça prend tout son sens lorsqu'on a  des sujets d'actualité à traiter. Et ici aussi,   le système évitera les répétitions grâce  à sa mémoire précise. Alors là aussi,  
+37:3637 minutes et 36 secondesvous pouvez encore combiner une technique  en connectant grâce au nouveau système des   applications telles que YouTube, Instagram,  X pour vos réseaux sociaux, par exemple.
+37:4737 minutes et 47 secondesDonc là, le goal, ce sera par exemple : "Répond  poliment à tous les commentaires Instagram en   attente sur mes trois dernières publications  jusqu'à ce qu'il n'en reste plus aucun sans  
+37:5637 minutes et 56 secondesréponse." Et juste après, vous enclenchez  la boucle : "Vérifie s'il y a de nouveaux   commentaires Instagram depuis la dernière fois.  S'il n'y en a pas, reprends le travail vers  
+38:0438 minutes et 4 secondesl'objectif ci-dessus jusqu'à ce qu'il n'y ait plus  aucun commentaire en attente. Sinon, ne fais rien   et attends le prochain passage." Donc l'idée,  c'est que, comme il est spécifié en bas, le  
+38:1438 minutes et 14 secondes/goal va enclencher le travail qu'il va élaborer,  et le /loop, une demi-heure après par exemple,  
+38:2038 minutes et 20 secondesva repasser voir régulièrement si ce que vous  lui avez demandé en activant le /goal connaît  
+38:2738 minutes et 27 secondesdes innovations, des complétions, et si c'est  le cas, vous serez averti par le système. Donc   concrètement, nous voici de retour dans Claude  Code, c'est exactement ce que je lui ai demandé.
+38:3838 minutes et 38 secondesJe lui ai demandé dans un premier temps dans la  fonction /goal de vérifier les commentaires sur  
+38:4438 minutes et 44 secondesYouTube. Et ici, vous voyez que j'ai enclenché le  /loop en lui demandant, une heure après : "Regarde   si j'ai reçu de nouveaux commentaires sur mes  trois dernières vidéos YouTube. S'il y en a,  
+38:5438 minutes et 54 secondesnote-les dans un fichier  'commentaire à traiter.md'   avec la date. S'il n'y en a pas, ne  fais rien." L'idée, et ici, on n'a pas  
+39:0339 minutes et 3 secondestoutes les précisions des questions que m'a  demandé Claude entre-temps, il me demande la  
+39:0839 minutes et 8 secondeschose suivante : si je voulais que cette fonction  prenne fin à la fermeture de session, ou, à   contrario, si je voulais qu'elle perdure une fois  l'ordinateur éteint. Et ça, c'est très important.
+39:2039 minutes et 20 secondesDonc ici, je lui ai simplement demandé,  parce que c'était une phase de test,   je n'ai pas forcément besoin de ça dans mon  processus répétitif, mais je could très bien  
+39:3039 minutes et 30 secondeslui dire qu'il continue son travail, même une fois  l'ordinateur éteint. Donc la finalité de tout ça,  
+39:3639 minutes et 36 secondesc'est qu'il me précise : "Boucle tourne  toutes les heures." Comme elle s'arrêtera   à la fermeture de cette session, je te propose  d'abord de choisir le mode. Et ici, Claude  
+39:4539 minutes et 45 secondesva prendre la main sur votre ordinateur.  Il va aller fouiller dans votre YouTube  
+39:5139 minutes et 51 secondesStudio, qui est l'interface permettant  de vérifier les statistiques, les likes,   les clics, les commentaires, etc. Donc  là, on a une explication du processus.
+40:0140 minutes et 1 secondeEt regardez bien, Claude me précise  qu'il a utilisé tous les outils   en sa possession : "Je vois la page des  commentaires YouTube Studio. Il y a déjà  
+40:1040 minutes et 10 secondesdeux commentaires visibles. Je vais zoomer pour  les lire précisément, puis scroller pour voir   s'il y en a d'autres." Donc là, vous pouvez  aller prendre votre café, votre jus d'orange,  
+40:1940 minutes et 19 secondesfumer votre clope. Des écrans vont s'afficher sur  votre ordinateur dans lesquels vous allez voir   Claude scroller sur votre page YouTube Studio.  Et au bout d'un moment, bon là, si je descends,  
+40:2840 minutes et 28 secondeson a beaucoup, beaucoup, beaucoup d'éléments. Vous  voyez que chaque heure, on a un nouveau passage   en revue des nouveaux commentaires. Donc là, le  job est très bien fait. La boucle est respectée.
+40:4040 minutes et 40 secondesEt à chaque fois que je vais ouvrir la  session, Claude va recommencer pour m'indiquer  
+40:4740 minutes et 47 secondessi par rapport à son analyse précédente  dans le cadre de la boucle, de nouveaux  
+40:5340 minutes et 53 secondescommentaires ou d'autres spécifications que  j'ai indiquées en tapant /loop vont intervenir,  
+41:0041 minutesapparaître dans le processus. C'est vraiment  quelque chose de très précis, cousu main. Voilà  
+41:0941 minutes et 9 secondesencore un exemple très précieux de loop. Et si  je n'ai pas envie de descendre jusqu'à la fin,  
+41:1641 minutes et 16 secondesle but c'était quand même de me proposer un  fichier .md qui est ici. Et vous aurez un   fichier de ce type à chaque heure. Si je clique  dessus, on a les commentaires YouTube à traiter.
+41:2841 minutes et 28 secondesEt bon là, j'ai arrêté le système le 14 juillet à  1h07 du matin. Et ici, j'ai tous les commentaires  
+41:3741 minutes et 37 secondesde l'ensemble de mes abonnés, 14 juillet. Et  voilà donc une analyse très précise. Vous voyez,  
+41:4641 minutes et 46 secondesj'avais commencé l'expérience le 8 juillet.  Je n'avais pas ouvert le chat tous les jours.  
+41:5141 minutes et 51 secondesMais à chaque fois que j'ai ouvert le chat dans  Claude Code, le 10 juillet, le 14, le 8 juillet,  
+41:5841 minutes et 58 secondesetc., j'ai eu les résultats que je lui  ai demandés grâce au Loop Engineering   et aux fonctions intrinsèques liées à cette  nouvelle version de Claude, clé en main.
+Chapitre 12 : CONCLUSION
+42:1542 minutes et 15 secondesVoilà les amis, à la question de savoir si  le Loop Engineering constitue un des nouveaux  
+42:2042 minutes et 20 secondesparadigmes de l'IA, je n'en sais rien, mais en  tout cas, le mettre de côté, l'ignorer serait  
+42:2842 minutes et 28 secondesidiot de votre part, puisqu'il permet, comme vous  l'avez vu, des résultats beaucoup plus pertinents,  
+42:3442 minutes et 34 secondesprécis, évitant les erreurs répétitives et les  couacs auxquels on s'expose lorsqu'on demande,  
+42:4242 minutes et 42 secondesvia le prompt engineering, des requêtes  banales. Je vous conseille vivement de prendre  
+42:4842 minutes et 48 secondesen considération ces différentes techniques, parce  qu'elles vont vraiment vous faire gagner du temps,  
+42:5542 minutes et 55 secondesde l'argent, de l'énergie. Et vous voyez que  le processus de mise en forme est assez simple.  
+43:0143 minutes et 1 secondeJe vous ai donc fourni l'ensemble des éléments  que j'avais en ma possession liés à ce nouveau  
+43:0843 minutes et 8 secondesconcept. Pour les abonnés payants à ma chaîne,  je vous ai fourni le guide qui m'a servi  
+43:1543 minutes et 15 secondesà vous montrer les différents exemples. Et pour l'ensemble de ma chère communauté,  
+43:2143 minutes et 21 secondesn'hésitez pas à me poser des questions en  commentaire. Je vous répondrai le plus rapidement  
+43:2743 minutes et 27 secondespossible. J'ai essayé de vous fournir la vidéo  la plus complète sur le sujet. Et il ne me reste  
+43:3543 minutes et 35 secondesplus qu'à vous souhaiter d'excellents tests  et une excellente journée à tous. Ciao !
+
+Tout
+
+Source : Barthélémy Nobili
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+Rajeunissez avec le Tai Chi
+Renforcez corps et esprit naturellement avec notre Tai Chi débutant
+Sponsorisé
+MadMuscles
+
+Visiter le site
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+799 k vues
+•
+il y a 1 mois
+
+
+1:22:31
+L'aventure au coeur de la jungle maudite et immersive de The Mound ft. @Rivenzi_ et @PoneeeyLive
+CaptainFRACAS
+7,4 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+8:05
+5 mythes sur la composition corporelle que même les athlètes de 1 à 3 ans croient encore
+Florian MOUCHEL
+14 vues
+•
+il y a 8 heures
+Nouveau
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+678 k vues
+•
+il y a 1 mois
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,5 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+22:59
+J'emmène ma future femme dans mes RESTAURANTS préférés 🍣🥙 en France
+Louis
+254 k vues
+•
+il y a 1 mois
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+958 k vues
+•
+il y a 10 mois
+
+
+12:28
+Je détruis 5 mythes débiles sur la diète !
+Le Musclay
+58 k vues
+•
+il y a 1 an
+
+
+25:06
+J’ai testé les plats préférés des célébrités (et c'était douteux)
+Gurky
+548 k vues
+•
+il y a 1 mois
+
+
+7:14
+Tu prends mal tes compléments alimentaires
+Le Musclay
+84 k vues
+•
+il y a 1 an
+
+
+24:02
+10 questions sur Facebook Ads !
+No Pay No Play
+170 vues
+•
+il y a 2 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+48:01
+Une IA, un objet IA, et la pire idée de l'IA : joyeux été !
+Renaud Dékode
+1,7 k vues
+•
+il y a 6 heures
+Nouveau
+
+
+10:21
+Une bonne alimentation est plus difficile qu'un bon entraînement !
+Le Musclay
+89 k vues
+•
+il y a 3 ans
+
+
+28:52
+Je teste la nourriture la plus douteuse d'Amazon
+Gurky
+871 k vues
+•
+il y a 5 mois
+
+
+1:03:50
+Pourquoi les écolo-citadins détestent la climatisation ?
+Trouble Fait
+25 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+15:30
+Un Coréen Teste Les Plats Ultra Pimentés Du Japon (déception…)
+LeMondeDeChoi
+101 k vues
+•
+il y a 3 mois
+
+20:16
+Le secret de toutes les campagnes Facebook Ads...
+No Pay No Play
+721 vues
+•
+il y a 1 an
+Doublée automatiquement
+
+11:00
+Over 90% of People FAIL Remy's Chicago Style Deep Dish Pizza Challenge!!
+Katina Eats Kilos
+5,5 M de vues
+•
+il y a 3 ans
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+740 k vues
+•
+il y a 2 mois
+
+    

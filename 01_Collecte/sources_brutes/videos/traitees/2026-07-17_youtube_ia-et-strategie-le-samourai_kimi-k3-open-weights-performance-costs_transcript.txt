@@ -1,0 +1,654 @@
+
+
+Découvrez la communauté des fans de parcs d’attractions
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+6
+
+Image d'avatar
+Kimi K3 : la Chine vient de rattraper Fable 5
+IA et Stratégie | Le SamourAI 
+IA et Stratégie | Le SamourAI 
+68,6 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+17 juil. 2026  #KimiK3 #MoonshotAI #IAOpenSource
+Kimi K3 : la Chine casse le prix de l'intelligence. Moonshot AI vient de lâcher un modèle de 2 800 milliards de paramètres, à poids ouverts, facturé 3 $ le million de tokens en entrée et 15 $ en sortie. Sur les bancs d'essai, il talonne Claude Fable 5 et GPT Sol, et dépasse Opus 4.8 sur plusieurs d'entre eux.
+
+Un chiffre manque pourtant au dossier de presse. Et c'est peut-être le plus important.
+
+
+
+Le système présenté en fin de vidéo : votre équipe d'assistants lancées en une commande, avec un guide vidéo de 25 minutes pour l'adapter à vos besoins. 
+→ Patreon :   / vos-agents-ia-160435392  
+
+Pour rejoindre notre ocmmunauté:
+→ Patreon (Pour aller plus loin + analyses exclusives + le discord de la communauté ) :   / samouraidansant  
+→ Instagram (coulisses) :   / samourai_dansant  
+→X:    / samouraicircon1  
+
+Pour celles et ceux qui veulent aller plus loin que la vidéo, un Discord communautaire francophone autour de quatre axes : stratégie, carrière, finance, technologie. Un public que je modère à la main, de l'entraide entre membres, et des conversations qui durent avec des évènements réguliers entre membres. Disponible dans vos avantages Patreon.
+
+
+SOURCES & DONNÉES PRIMAIRES
+
+Lancement, architecture et poids ouverts (2,8 billions de paramètres, 896 experts dont 16 actifs, Kimi Delta Attention + Attention Residuals, poids publiés le 27 juillet) :
+Fiche officielle Kimi K3 : https://platform.kimi.ai/docs/guide/k...
+MarkTechPost, 16 juillet 2026 : https://www.marktechpost.com/2026/07/...
+VentureBeat : https://venturebeat.com/technology/ch...
+CNBC, 17 juillet 2026 : https://www.cnbc.com/2026/07/17/moons...
+
+Tarification (3 $ entrée, 15 $ sortie, 0,30 $ en cache, coût par tâche ≈ 0,94 $, environ la moitié d'Opus 4.8) :
+OpenRouter : https://openrouter.ai/moonshotai/kimi-k3
+The Decoder : https://the-decoder.com/kimis-open-mo...
+Simon Willison, 16 juillet 2026 : https://simonwillison.net/2026/Jul/16...
+
+Bancs d'essai (auto-déclarés et indépendants, avec leurs limites) :
+Artificial Analysis : https://artificialanalysis.ai/models/...
+NxCode, analyse méthodologique des benchmarks K3 : https://www.nxcode.io/resources/news/...
+
+Démos officielles (émulateur Game Boy Advance, puce conçue en 48 h en run autonome, montage vidéo agentique du teaser) :
+SiliconANGLE : https://siliconangle.com/2026/07/16/c...
+Wccftech : https://wccftech.com/kimi-k3-built-a-...
+
+Score CyberGym : le score figurait sur la fiche du précédent modèle Kimi K2.5 (https://huggingface.co/moonshotai/Kim.... Il est absent du matériel de lancement de K3, dont le rapport technique n'est pas encore paru. Constat de l'auteur au 17 juillet 2026.
+
+Blocages croisés Anthropic / Alibaba (interdiction de Claude Code chez Alibaba au 10 juillet, restrictions d'Anthropic sur la Chine) :
+TechCrunch, 4 juillet 2026 : https://techcrunch.com/2026/07/04/ali...
+South China Morning Post : https://www.scmp.com/tech/big-tech/ar...
+Tom's Hardware : https://www.tomshardware.com/tech-ind...
+
+Organisation mondiale de coopération en IA (29 pays signataires, Shanghai, 16 juillet 2026) :
+Xinhua : https://english.news.cn/20260716/2d36...
+Reuters (via US News) : https://www.usnews.com/news/world/art...
+
+Dynamiques d'emploi et de formation en entreprise :
+CNBC, 26 septembre 2025, Accenture prévoit de se séparer des salariés non reconvertibles à l'IA : https://www.cnbc.com/2025/09/26/accen...
+
+
+RESSOURCES MENTIONNÉES :
+→ Vidéo de lundi sur GPT Sol et les benchmarks :    • GPT 5.6 Sol vs Fable 5 : La vraie leçon de...  
+
+#KimiK3 #MoonshotAI #IAOpenSource #Kimi #Anthropic #OpenAI #ClaudeFable5 #Opus48 #GPTSol #DeepSeek #Alibaba #Qwen #PoidsOuverts #GuerreFroideIA #SouveraineteNumerique #CyberGym #WAICO #AIAct #AvenirDuTravail #ReconversionIA #FormationIA #LLM #EconomieIA #Tech2026
+IA et Stratégie analyse les capacités techniques de Kimi K3, un modèle à poids ouverts chinois aux performances remarquables. Le SamourAI examine l'impact potentiel de cette innovation sur les coûts d'inférence, la souveraineté technologique et les dynamiques de marché, tout en questionnant la viabilité des modèles économiques actuels face à cette nouvelle concurrence mondiale.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+IA et Stratégie | Le SamourAI
+68,6 k abonnés
+Vidéos
+À propos
+
+Patreon
+
+Instagram
+true
+IA et Stratégie | Le SamourAI
+68,6 k abonnés
+IA et Stratégie
+IA et Stratégie
+De l'analyse à l'exécution
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:00Pékin voit l'IA open source comme son grand  tremplin historique vers la suprématie   mondiale. À les entendre, les États-Unis et leur  technologie verrouillées essayent tout simplement  
+0:099 secondesde les enfermer derrière un nouveau rideau de  fer. Et c'est dans ce contexte de guerre froide   que la start-up péquinoise Moonshot vient de  lâcher Kimika 3 et forcé de constater que c'est  
+0:1919 secondesun modèle bluffant. Il fait jeu égal où surpasse  sol et fable sur de nombreux critères, les colles  
+0:2424 secondesau train sur les autres et enter purement et  simplement opus. Je travaillais déjà avec Kimi   depuis un moment, notamment sur Hermes. Je pensais  vraiment avoir cerné les limites de Moons Shot,  
+0:3434 secondesmais là et bien il semblerait que Moons Shot  vient de franchir un cap. Leur nouveau modèle   Kimi pèse autour de 3000 milliards de paramètres  et qui sera bientôt téléchargeable se classe prer  
+0:4545 secondesou deuxè sur une série de bandes d'essai sur le  code et sur la performance d'agent. Devant Opus  
+0:5151 secondes4.8 sur certains au coude à coude avec fable sur  d'autres. Le tout facturé 3 dollars le million de  
+0:5757 secondestokens en entrée, 15 en sorti, un/ers du prix  de fable, la moitié d'Opus en coût par tâche,  
+1:031 minute et 3 secondespotentiellement téléchargeable et donc impossible  à bannir pour un gouvernement. Ces chiffres sont   vraiment impressionnants et s'ils tiennent  à l'usage réel, et j'insiste sur le si,  
+1:121 minute et 12 secondesle mécanisme économique qui finance toute  la course à l'intelligence artificielle va   se griper. Je vais vous montrer pourquoi, qui  gagne, qui perd et à la fin de cette vidéo,  
+1:221 minute et 22 secondesje vous donnerai quelques pistes qui à mon avis  vous seront utile pour naviguer ce nouveau monde  
+1:271 minute et 27 secondesqui se dessine. Alors, commençons par les faits  parce que tout le monde s'excite sur ce modèle  
+1:341 minute et 34 secondeset peu de gens ont lu les détails. D'abord,  c'est le premier modèle à poids ouvert de   cette taille et il arrive des mois plus tôt que  ce que la plupart des observateurs anticipaient.  
+1:431 minute et 43 secondesPour situer, on parlait encore récemment de  l'open source comme d'une catégorie bon pour   les cas d'usage simple comme la gestion  d'une partition agentique créée par des  
+1:531 minute et 53 secondesingénieurs équipés de modèle frontières pour par  exemple assister le support, aider les managers   intermédiaires ou encore les processus simples  et fastidieux des ressources humaines. Mais ce  
+2:032 minutes et 3 secondesmodèle-là prétend jouer dans la cour de fable, que  ce soit sur le code ou sur les tâches agentiques.  
+2:092 minutes et 9 secondesCe classement pose immédiatement la question du  comment ils ont fait parce qu'on ne rattrape pas   un an de retard par l'opération du Saint-Esprit.  Bien sûr, on sait qu'ils ont siphoné les données  
+2:192 minutes et 19 secondesdes modèles américains pour entraîner les leur  mais la copie fabrique de bons suiveurs. Ça ne   fabrique pas un modèle frontière. Pour comprendre  ce bon en avant, il faut regarder beaucoup plus  
+2:292 minutes et 29 secondesbas, directement dans la salle des machines. Et  la réponse tient dans l'architecture. C'est un  
+2:342 minutes et 34 secondesmodèle de type mixture of experts. Autrement dit,  un modèle découpé en spécialiste avec 896 experts  
+2:412 minutes et 41 secondesau total dont seul 16 s'activent pour chaque  token. Le tour de force de cette ingénierie,   c'est que vous ne payez jamais le calcul  des tr billions de paramètres d'un coup.  
+2:502 minutes et 50 secondesLe système n'en active qu'une petite fraction  ciblée sur mesure selon votre tâche. C'est une  
+2:562 minutes et 56 secondesarchitecture presque classique et le génie vient  du fait que Moonshot y ajoute deux innovations  
+3:013 minutes et 1 secondemaison. Ce qu'ils appellent Kimy Delta attention  et des résidus d'attention qui ajoutent selon eux  
+3:063 minutes et 6 secondesun gain d'efficacité de scaling par rapport à leur  génération précédente. Je dis donnerai parce que   ces chiffres viennent du papier de Moonshot et  n'ont pas encore été répliqués indépendamment.  
+3:173 minutes et 17 secondesLe modèle reste très bon et économe. 3 dollars  en entrée, 15 en sortie. Autrement dit, vous  
+3:233 minutes et 23 secondesavez l'intelligence de niveau fable ou GPT sol  sans les limites d'usage des offres américaines,   sans avoir besoin de passeport et aussi  bien sûr avec beaucoup moins de refus,  
+3:333 minutes et 33 secondesnotamment sur les sujets de cybersécurité. Pour  faire simple, un modèle capable de rivaliser   avec fable au prix d'un sonnet. Conséquence  directes, si vous développez des produits,  
+3:423 minutes et 42 secondessi vous automatisez des flux de travail ou si  vous orchestrez une flotte d'agent au quotidien,   votre facture d'inférence vient potentiellement  d'être divisé par 3 à qualité constante. C'est le  
+3:523 minutes et 52 secondesgenre de chute qui sur une fenêtre de 30 jours  va déclencher un véritable séisme mondial dans  
+3:573 minutes et 57 secondesl'industrie de Lia. Si ces chiffres sont exacts,  on risque d'assister à un choc massif de l'ordre  
+4:034 minutes et 3 secondesde celui qui avait provoqué Dipsic en 2025. D'une  simple évolution d'architecture, d'une qualité  
+4:104 minutes et 10 secondesd'entraînement et d'ingénierie, on en est arrivé  à un pivot total du modèle économique. Ensuite,   il y a les démos et là je vous vois venir. Oui,  les démos, c'est du marketing, mais celle-ci  
+4:204 minutes et 20 secondesmérite qu'on s'y arrête parce qu'elle couvre un  spectre inhabituel. L'entreprise met en avant   des jeux 3D avec par exemple un émulateur Game  Boy fonctionnel, de la conception autonome d'une  
+4:304 minutes et 30 secondespuce en 24 à 48 he ou bien encore du montage  vidéo agentique. Bref, le genre de tâche où une  
+4:374 minutes et 37 secondeséquipe humaine mettait des semaines mais avec  une grosse composante visuelle. D'ailleurs,   j'ai refait une partie de ces démos de mon côté,  tout comme d'autres créateurs et développeurs. Ça  
+4:464 minutes et 46 secondesvaut ce que ça vaut, mais c'est toujours beaucoup  plus sain que de reprendre aveuglément la parole   officielle des labos, même si on est d'accord,  on n'est pas encore sur l'exigence d'un vrai  
+4:554 minutes et 55 secondesbanc d'essais clinique comme on l'aborde en ce  moment dans le parcours du chef d'orchestre sur   le Patréon. Et justement, c'est là qu'il faut  poser le contre-point parce qu'il est sérieux.  
+5:045 minutes et 4 secondesEn le testant moi-même en conditions réelles, je  me suis rendu compte d'une chose assez gênante. Le   modèle brille sur les démos visuelles, celles pour  lesquelles il a vraisemblablement été optimisé.  
+5:145 minutes et 14 secondesMais il échoue souvent sur du vrai débugging  dans une base de code existante. Exactement   là où Fable 5 et dans une certaine mesure GPT  sol s'en sorte mieux. Et c'est un argument que  
+5:255 minutes et 25 secondesje vous invite à prendre au sérieux parce qu'il  décrit un pattern qu'on connaît bien maintenant.   Un labo qui veut faire du bruit optimise pour ce  qui rend bien à l'image et le vrai travail qui ne  
+5:355 minutes et 35 secondesse filme pas bien est bien sûr écarté de la démo.  Si mon constat se confirme à l'échelle, l'écart  
+5:415 minutes et 41 secondesavec les labos américains fermés n'est pas encore  effacé et il est simplement déplacé vers ce qui  
+5:465 minutes et 46 secondescompte le plus en entreprise, à savoir le travail  réel et utile. Je n'ai pas les moyens de trancher  
+5:525 minutes et 52 secondesaujourd'hui. Il me faudra du recul et de vraies  données de production pour réviser mon jugement.  
+5:575 minutes et 57 secondesJe ferai une mise à jour sur cette chaîne dès  que l'impact réel sera mesurable. En attendant,  
+6:036 minutes et 3 secondessi ce type d'analyse professionnelle débruité  et non sponsorisé vous parle, rejoignez-nous. Un  
+6:096 minutes et 9 secondesdernier détail avant de refermer cette partie est  celui-là, gardez-le dans un coin. Le score cyber  
+6:156 minutes et 15 secondesgym du modèle, celui qui mesure les capacités  offensives en cybersécurité, n'a pas été publié.  
+6:216 minutes et 21 secondesAlors, est-ce que c'est un oubli ? Peut-être  bien, mais il faut avouer que c'est étrange,   surtout parce que ce chiffre précis a justement  le potentiel de franchir les fameux seuils de  
+6:306 minutes et 30 secondesrisque. Ceuxla même qui pourrait forcer des  régulateurs à s'attaquer au poids ouverts. Voilà,   je mets ça là et je ferme la parenthèse pour  l'instant. On y reviendra peut-être plus tard.  
+6:406 minutes et 40 secondesVoilà pour le contexte. On se retrouve donc face  à un modèle ouvert, colossal, intelligemment conçu  
+6:466 minutes et 46 secondeset qui retourne les bands d'essai pour un coup  dérisoire au point de potentiellement rebattre   toutes les cartes de l'intelligence artificielle  mondiale, mais avec un vrai point d'interrogation  
+6:566 minutes et 56 secondesquant à sa robustesse, sa profondeur et  son utilité réelle. La certitude, c'est  
+7:017 minutes et 1 secondeson architecture et son prix. L'inconnu, elle  se réglera par l'épreuve du feu en production.  
+7:077 minutes et 7 secondesAlors maintenant que c'est posé, voyons maintenant  les conséquences parce que même avec ces zones   d'ombre au fond, cette sortie confirme juste  une fracture inévitable. Et maintenant,  
+7:177 minutes et 17 secondesvoyons voir comment cette guerre d'en haut va  directement redéfinir ce qu'on attend de vous en  
+7:227 minutes et 22 secondesbas. Que l'estocad viennent de ce modèle précis ou  du prochain modèle que la Chine produira, cela n'a  
+7:297 minutes et 29 secondesfinalement que peu d'importance. La dynamique de  l'écosystème ouvert chinois est enclenchée et ses   répercussions sur notre positionnement stratégique  doivent être tiré au clair. Jusqu'à présent,  
+7:397 minutes et 39 secondesle modèle des grands laboratoires fermés reposa  sur une certaine exclusivité, à savoir qu'on vend  
+7:457 minutes et 45 secondesl'accès à une capacité rare et inédite que  personne d'autre n'avait encore développé.   Et c'est cette rareté qui justifiait leurs  valeurs et leurs marges. Or, à chaque fois  
+7:547 minutes et 54 secondesque la Chine nous refait le coup de produire un  modèle à poids ouvert de niveau frontière avec   un coût d'inférence cassé, elle vient briser  ce paradigme. Immédiatement, les valorisations  
+8:048 minutes et 4 secondescôté américain s'effondrent et c'est la panique.  Sauf que ne soyons pas naïfs, les labos américains  
+8:108 minutes et 10 secondesl'ont parfaitement intégré dans leur road map. Il  voit très bien que leur rente sur la location de   l'intelligence brute est en train de s'effondrer  et menacé par les progrès chinois. Mais au fond,  
+8:208 minutes et 20 secondesce n'est pas le problème à long terme. Tout ce qui  compte pour eux, c'est de rester incontournable  
+8:268 minutes et 26 secondessuffisamment longtemps pour continuer à lever  des fonds, financer leur bascule vers la couche   infrastructure et à s'encrer si profondément chez  leurs clients et dans l'espace public occidental  
+8:378 minutes et 37 secondesqu'ils ne pourront plus jamais être débranchés.  C'est le verrouillage technologique parfait, la   bonne vieille stratégie de la dépendance totale,  un peu comme le fait un vendeur de craque ou  
+8:478 minutes et 47 secondesAmazon Web Services. Choisissez votre référence.  Voilà pourquoi il multiplie les intégrations dans  
+8:538 minutes et 53 secondestous les sens. Claude qu'on interpelle direct dans  Slack, la publicité omniprésente pour Chat GPT.  
+8:598 minutes et 59 secondesDes plafonds d'utilisation réinitialisé d'un coup  de baguette magique. De l'extérieur, ça ressemble   juste à du marketing agressif qui brûle des  milliards pour acheter des parts de marché. Mais  
+9:109 minutes et 10 secondesle calcul est ailleurs. Chaque intégration pose un  arna, un cran plus près de votre contexte. Claude  
+9:169 minutes et 16 secondesdans votre slack lit ce qu'aucun consultant n'a  jamais réussi à formaliser la mémoire désordonnée  
+9:219 minutes et 21 secondesde vos équipes qui a décider quoi, pourquoi,  dans quel fil. Une fois le modèle installé à  
+9:279 minutes et 27 secondescette profondeur, son prix devient secondaire. Un  rival peut coûter 50 fois moins cher. L'arracher  
+9:339 minutes et 33 secondescoûterait plus que le garder. Ils construisent  ces douves autour de leur modèle et il verrouille   le marché de l'entreprise avec des partenariats  massifs comme avec accenture et envoient carrément  
+9:449 minutes et 44 secondesdes ingénieurs de déploiement directement  chez les clients pour brancher leur modèle   dans les vieux systèmes. Pour les Américains, la  guerre ne se gagne plus sur les bancs d'essai.  
+9:539 minutes et 53 secondesLes benchmarks, ce sont aujourd'hui des vitrines  marketing manipulables et manipulées. Je voulais  
+9:599 minutes et 59 secondesd'ailleurs montrer lundi dans ma vidéo sur GPT  Sol qui triche avec une telle ampleur que son  
+10:0510 minutes et 5 secondesévaluateur a refusé de signer les résultats.  Non, la réalité c'est que la ligne de front   s'est déjà déplacée dans votre bureau et leur  seul objectif désormais c'est votre rétention.  
+10:1610 minutes et 16 secondesCette bataille-là va se mener à l'ancienne à coup  de budget marketing colossaux et de bataillons de  
+10:2110 minutes et 21 secondesconsultants et de forces de vente déployé sur le  terrain pour vous harceler. Mais bon, tout ce plan  
+10:2710 minutes et 27 secondesde verrouillage repose sur un prérequis fragile.  L'idée que vous n'aurez jamais d'autre choix que  
+10:3310 minutes et 33 secondesde louer leur intelligence. Et c'est exactement  là que l'arrivée de pois ouvert surpuissant vient  
+10:3910 minutes et 39 secondesporter les stockades en offrant aux entreprises  une opportunité pour échapper à cette prison  
+10:4410 minutes et 44 secondesdorée. L'effet immédiat, c'est qu'on peut héberger  le modèle en interne et sortir de la dépendance  
+10:5010 minutes et 50 secondesaméricaine. Mais je calme tout de suite les  commentaires. Ce dont je parle ici, c'est un sport   de riche. N'espérez pas faire tourner ça sur votre  PC de gamer, même avec la meilleure architecture  
+11:0011 minutesdu monde. Ce modèle est un monstre absolu qui  exige une véritable infrastructure de data center  
+11:0511 minutes et 5 secondesindustriel et le budget d'entreprise qui va avec.  C'est un jeu réservé aux banques, aux hôpitaux,  
+11:1111 minutes et 11 secondesaux grosses ETI. Et c'est à eux que je m'adresse  garantir la souveraineté de leurs données écrasera  
+11:1711 minutes et 17 secondestoujours n'importe quel band d'essai. Reste aussi  pour moi à traiter la dimension géopolitique qui  
+11:2511 minutes et 25 secondesdécoule directement du caractère ouvert du  modèle et là c'est l'arroseur arrosé. Les  
+11:3111 minutes et 31 secondescontrôles à l'export américain ne fonctionnent  que sur ce qui est physique ou centralisé. Des  
+11:3611 minutes et 36 secondespuces qu'on bloque au port ou une API anthropique  qu'on débranche. Sauf qu'avec ce poids ouvert,  
+11:4211 minutes et 42 secondesc'est Pékin qui dicte désormais ce que le monde  entier a le droit d'utiliser. Et ce découplage,   il se fait en direct sous nos yeux. Peu d'entre  vous sont au courant, mais il y a quelques jours,  
+11:5211 minutes et 52 secondesAnthropique a bloqué son utilisation à la Chine  et tout de suite après, Alibaba a interdit et  
+11:5811 minutes et 58 secondesnettoyer ses serveurs pour virer Claude Code.  On est en plein dans une montée des tensions qui   prépare une guerre de tranchée et là, le retard  chinois n'existe potentiellement plus. s'est  
+12:0812 minutes et 8 secondestacté avec Kimi. Or, souvenez-vous de ce fameux  score Cyber Gym que j'ai laissé en suspend plus   tôt. S'il s'avère trop élevé, cela signifie qu'un  modèle de la puissance de fable sur le plan de la  
+12:1712 minutes et 17 secondescyber va être relâché dans la nature dans quelques  jours. Et face à ça, je doute fort que les   régulateurs occidentaux aient anticipé la moindre  parade. Inutile de vous faire un dessin, vous avez  
+12:2712 minutes et 27 secondesdéjà compris que tous les cybercriminels de la  planète attendent ce genre de modèle open source   sans filtre et de niveau frontière en se frottant  les mains. Préparez-vous parce que le choc risque  
+12:3712 minutes et 37 secondesd'être violent. Enfin, un dernier détail que je  me dois de vous mentionner. Les Américains ont   jusqu'ici vendu leur intelligence à prix d'or.  Mais si le reste du monde peut obtenir le même  
+12:4812 minutes et 48 secondesproduit à Bakou en open source et sans risquer de  le perdre du jour au lendemain parce qu'une ligne   rouge écrite nulle part aurait été franchie, c'est  l'argument de vent américain qui s'évapore et ça  
+12:5812 minutes et 58 secondesexplique pourquoi la sortie du modèle s'accompagne  d'une vraie diplomatie digne de la guerre froide.  
+13:0413 minutes et 4 secondesCette semaine à Shangï, 29 pays ont signé  l'acte fondateur de l'Organisation mondiale de  
+13:1013 minutes et 10 secondescoopération en matière d'intelligence artificiel.  Une organisation qui comporte essentiellement des  
+13:1513 minutes et 15 secondespays du sud global et de la sphère d'influence  chinoise. À voir où ça ira. On vient de le voir,  
+13:2313 minutes et 23 secondesle bilan est lourd. La rente des labos américains  s'effondre, le financement des prochains modèles  
+13:2813 minutes et 28 secondesvacillent et nos outils de régulation sont devenus  obsolètes. Conséquence directe de cette perte de  
+13:3413 minutes et 34 secondescontrôle, le monde est en train de se fracturer  en deux blocs, en tout cas dans les discours   politiques. Car dans l'ombre, c'est l'hypocrisie  totale. Les développeurs chinois s'arrachent  
+13:4513 minutes et 45 secondesdes accès à claude au marché noir à des tarifs  prohibitifs tandis que les start-ups américaines  
+13:5113 minutes et 51 secondesintègrent déjà du Kimi ou du quen sous le capot  de leurs outils par pure nécessité de rentabilité.  
+13:5813 minutes et 58 secondesBref, si les États dressent des murs, les acteurs  économiques eux creusent déjà des tunnels. Alors  
+14:0514 minutes et 5 secondesrevenons maintenant au niveau du quotidien là où  vous vivez et vous travaillez. Parce que quand ces  
+14:1014 minutes et 10 secondesplaques tectoniques bougent, ça se répercute tôt  ou tard directement sur votre métier et les effets  
+14:1614 minutes et 16 secondesà venir sont tout sauf intuitif. La conséquence la  plus directe pour vous, c'est que plus que jamais,  
+14:2314 minutes et 23 secondesl'intelligence cesse d'être le facteur rare pour  lequel on paye. Quand un modèle aussi puissant  
+14:2914 minutes et 29 secondesque Kimi tournera sur votre infrastructure et sans  limite d'usage, le coût d'automatiser des tâches   intellectuelles, même les plus ambitieuses ou les  plus graphiques, s'effondrera avec. et avec lui la  
+14:3914 minutes et 39 secondesprotection dont bénéficier beaucoup de métiers du  savoir. Aussi, savoir bien utiliser ces outils, ce  
+14:4614 minutes et 46 secondesqui était un avantage individuel, va vite devenir  un prérequis banal comme savoir utiliser un  
+14:5114 minutes et 51 secondestableur dans les années 2000. La différenciation  se déplace donc mécaniquement vers tout ce que   le modèle ne fournit pas, c'est-à-dire trois  choses. 1, la signature, le goût, le discernement  
+15:0215 minutes et 2 secondespour décider quoi faire et la capacité à définir  exactement à quoi ressemble un travail de qualité.  
+15:0715 minutes et 7 secondes2, l'accès exclusif à des données ou à des clients  que les autres n'ont pas. Et 3, la responsabilité,  
+15:1315 minutes et 13 secondesle fait d'accepter de porter sur vos épaules les  conséquences du résultat final. De ce déplacement   découle logiquement une carte des gagnants  et des perdants. Côté gagnant, à court terme,  
+15:2315 minutes et 23 secondesles indépendants et les petites structures. Tes  capacités réservées hier aux grandes équipes   deviennent accessibles pour quelques dollars. Et  pour vous, si vous êtes freelance ou à la tête  
+15:3215 minutes et 32 secondesd'une petite boîte, c'est une opportunité  qui s'ouvre. Côté perdant, les salariés   dont le travail consistent surtout en production  intellectuelle standardisée parce que l'argument  
+15:4115 minutes et 41 secondesdu coût qui freinait leur automatisation  vient de disparaître. Je vous vois venir.   Vous vous dites que les entreprises mettront  des années à s'organiser et vous avez raison,  
+15:5015 minutes et 50 secondesc'est même votre principale marge de manœuvre.  Mais ce répit apparent vous expose à un danger   professionnel massivement sous-estimé, la dette  d'apprentissage. Ne faites surtout pas l'erreur  
+16:0116 minutes et 1 secondede croire que votre employeur va organiser votre  transition ou votre sauvetage par l'information.   Je peux vous le dire parce que c'est mon métier  de les auditer. Une partie des entreprises,  
+16:1016 minutes et 10 secondesparticulièrement en Europe, n'ont aucune stratégie  et ceux qui en ont une ont déjà fait le calcul.  
+16:1616 minutes et 16 secondesLeur stratégie de survie n'accorde pas non plus  une place démesurée à une montée en compéten  
+16:2216 minutes et 22 secondeseffectifs actuels. Si vous voyez ce que je veux  dire, parce qu'il y a une caractéristique décisive  
+16:2716 minutes et 27 secondesqui ne figure sur aucune notice de ces modèles  mais qu'il faut garder en tête. Kimi ne verse pas   de cotisation patronale. Il ne prend pas de congé,  ne cotise pas pour sa retraite et ne négocie pas  
+16:3816 minutes et 38 secondesson augmentation. et faites le calcul du point  de vue de l'entreprise. Former massivement un   salarié coûte cher et prend du temps. Dans  les faits, c'est tellement plus simple de  
+16:4816 minutes et 48 secondeslaisser cette dette d'apprentissage s'installer  silencieusement. Le drame, c'est que le jour où   l'écart de productivité devient trop visible, la  seule réponse de l'entreprise est souvent un plan  
+16:5816 minutes et 58 secondesd'amélioration des performances. On finit par vous  évaluer sur des standards devenus inatteignables,   tout simplement parce qu'on a oublié de vous  donner les clés pour maîtriser ces nouveaux  
+17:0817 minutes et 8 secondesoutils. L'aboutissement de cette dynamique,  malheureusement, prend souvent la forme d'un   remplacement silencieux, que ce soit par un profil  qui maîtrise déjà ses outils ou par l'Al-même. Il  
+17:1917 minutes et 19 secondesn'y a aucun plan maiavéellique écrit dans l'ombre  par votre direction. Et d'ailleurs, toutes les   données qui remontent d'acteur comme Accenture ou  Amazon montrent la même réalité. C'est simplement  
+17:3017 minutes et 30 secondesle poids de l'environnement et des logiques  financières et des conséquences stratégiques  
+17:3517 minutes et 35 secondesqui finit par s'imposer presque mécaniquement. Sur  le papier, la messe est donc dite alors pourquoi  
+17:4117 minutes et 41 secondesn'ont-ils pas déjà appuyé sur le bouton pour  remplacer tout leur effectif uniquement à cause  
+17:4617 minutes et 46 secondesde la friction du monde réel ? Historiquement, la  diffusion d'une technologie dans les organisations  
+17:5217 minutes et 52 secondesdépend moins de la technologie que de la capacité  à réorganiser le travail autour. Et ce travail   prend des années, mais des années, ce n'est  pas l'éternité et le compte à rebour continue  
+18:0318 minutes et 3 secondesde s'accélérer. Au-delà de cette carte, trois  conséquences moins rebatttues méritent aussi votre  
+18:0918 minutes et 9 secondesattention. La première, c'est que l'alignement  devient une option de configuration. Jusqu'ici,   la sécurité des modèles était imposée par le  vendeur. Avec un poids ouvert de niveau frontière,  
+18:2018 minutes et 20 secondeschacun choisit son niveau de garde fou, y compris  zéro. La conséquence pratique tient moins au  
+18:2518 minutes et 25 secondesgrands méchants à cœur qu'à l'irréversibilité. Une  faille sur un modèle fermé. L'entreprise la patche  
+18:3118 minutes et 31 secondespendant votre sommeil avec une simple mise à  jour. Mais relâcher les poids d'un modèle ouvert,   c'est comme tirer une balle. Il est dans la nature  pour l'éternité. Aucun retour en arrière n'est  
+18:4218 minutes et 42 secondespossible. Et ça, ça oblige les régulateurs à  faire une croix sur le contrôle des modèles   pour migrer vers les deux seuls leviers encore  viables. Le contrôle du compute à la source et la  
+18:5218 minutes et 52 secondesvérification des usages à l'arrivée. La deuxième,  c'est que l'infrastructure cognitive mondiale par  
+18:5818 minutes et 58 secondesdéfaut devient chinoise. Comme Android l'a fait  pour le mobile, le modèle gratuit et bon devient  
+19:0419 minutes et 4 secondesle substrat sur lequel le monde construit. Les  choix de données d'entraînement, les angles morts,   les silences d'un modèle entraîné sous contrainte  de Pékin s'installent alors dans des milliers de  
+19:1319 minutes et 13 secondesproduits sans que personne ne l'it explicitement  décidé. C'est du soft power d'une profondeur  
+19:1919 minutes et 19 secondesinédite et il est presque impossible à auditer  de l'extérieur. La troisième, et c'est celle   qui devrait orienter vos choix de carrière,  c'est que le goulot d'étranglement se déplace  
+19:2919 minutes et 29 secondesvers la vérification. Quand produire du texte,  du code ou de l'analyse ne coûte presque rien,  
+19:3419 minutes et 34 secondesla ressource rare devient la capacité à certifier  que c'est juste. Les métiers et institutions qui  
+19:4019 minutes et 40 secondesvendent de la confiance vérifiable, l'audit,  la revue, la responsabilité juridique,  
+19:4519 minutes et 45 secondesla signature gagne en valeur relative. C'est  l'inverse exact de ce que la vague promettait  
+19:5119 minutes et 51 secondesen surface et pour vous c'est la boussole la  plus fiable de cette vidéo. Pour faire simple,  
+19:5719 minutes et 57 secondesl'intelligence devient abondante et bon marché. La  production intellectuelle standardisée se déprécie   et la valeur remonte vers trois refuges  : le jugement, l'accès, la vérification.
+20:1020 minutes et 10 secondesLa seule question qui reste, c'est comment  on s'y prépare concrètement ? En effet,   quand un modèle ouvert atteint ce  niveau que Kimy vient d'atteindre,  
+20:1720 minutes et 17 secondesà savoir la frontière à un/ers du prix, c'est  tout l'écosystème qui change. La protection   des métiers de production intellectuelle s'ffrite  et la valeur migre vers le jugement stratégique,  
+20:2720 minutes et 27 secondesl'accès aux données propriétaires et la  vérification. C'est pour ça qu'à mon avis,   la question de la formation continue, au sens  classique, tel qu'on l'entend si souvent en  
+20:3620 minutes et 36 secondesFrance, n'est plus du tout judicieuse. Elle porte  systématiquement en elle cet arrière-goût d'usine,  
+20:4220 minutes et 42 secondescette vieille obsession du "Comment vous apprendre  à produire plus." Mais face à la machine,  
+20:4920 minutes et 49 secondesc'est un combat perdu d'avance. La seule véritable  interrogation qui doit dicter votre évolution,   c'est comment me placer sur un goulot  d'étranglement et combien de temps  
+20:5820 minutes et 58 secondestiendra-t-il ? J'ai fait mes recherches  puisque pour ma communauté payante,   je propose ce travail et voici les quatre  types de formation qui me semblent tenir. 1,  
+21:0721 minutes et 7 secondesla vérification et l'audit. Puisque les modèles  hallucinent et que les bandes d'essais standard   ne reflètent plus du tout la réalité de notre  travail, la vraie valeur, c'est de certifier  
+21:1621 minutes et 16 secondesqu'un résultat est juste et surtout c'est d'être  capable de le prouver avec une date précise,   une vraie méthodologie et un protocole conçu sur  mesure pour votre métier. Ensuite, laissez donc  
+21:2721 minutes et 27 secondesde côté les cours de prompting et formez-vous à la  cybersécurité ou aux statistiques appliquées. La  
+21:3321 minutes et 33 secondesresponsabilité juridique et la conformité. Savoir  faire le pont entre le fonctionnement technique   d'un modèle ouvert et des lois complexes, c'est un  profil rarissime aujourd'hui. 3. L'ingénierie des  
+21:4421 minutes et 44 secondessystèmes. Écrire du code ne vaut plus rien. Ce qui  fonctionne, c'est de savoir concevoir des systèmes  
+21:5021 minutes et 50 secondesfiables autour de modèles faillibles. Et enfin,  l'ancrage physique, l'énergie, la construction,  
+21:5621 minutes et 56 secondesla santé. Lia amplifie ses métiers mais ne  remplace pas encore le monde réel. Si vous voulez   creuser ces pistes et savoir exactement comment  vous positionnez, je vous ai préparé un dossier  
+22:0622 minutes et 6 secondescomplet sur notre plateforme. Le lien est juste en  dessous dans la description. Ce que j'éviterai en   revanche, ce sont les formations généralistes en  intelligence artificielle pour les managers qu'on  
+22:1622 minutes et 16 secondespeut trouver sur LinkedIn et autres certificats  de prompt engineering. Une dernière chose et  
+22:2222 minutes et 22 secondesje vous la dois, personne ne sait vraiment quel  métier tiendront à 15 ans, moi inclus et le modèle   de Moonshot lui-même doit encore prouver qu'il  tient hors des démos. Ce que je peux défendre,  
+22:3122 minutes et 31 secondesc'est un critère de tri. Choisissez un parcours et  une voix qui vous apprend à juger, pas à produire,  
+22:3722 minutes et 37 secondesparce que la production est précisément ce qui  s'effondre. Passer de la grille à l'exécution,   c'est le travail du Patréon, au programme.  Des parcours complets sur la maîtrise de  
+22:4622 minutes et 46 secondesl'écosystème anthropique, une spécialisation sur  la création d'un second cerveau adapté à l'air   de Lia et le lancement cette semaine de notre  parcours de pointe sur la logique agentique,  
+22:5622 minutes et 56 secondesle chef d'orchestre. En nous rejoignant, vous  débloquez aussi le Discord privé, des dizaines   de vidéos exclusives et des outils pour vos audits  stratégiques pour jauger votre fluence dans le  
+23:0623 minutes et 6 secondesdomaine, ainsi que des conseils de carrière que  je ne publie pas sur YouTube pour aider à naviguer   cette révolution. Vous trouverez aussi également  le code que j'utilise réellement pour orchestrer  
+23:1523 minutes et 15 secondesmes agents et des dossiers de recherche pour plus  d'informations. De la remise à niveau accéléré,   débruté et de la présentation technique  simplifiée. Si cette analyse vous a été utile,  
+23:2523 minutes et 25 secondespartagez-la à quelqu'un qui hésite en ce moment  sur une reconversion ou une formation. C'est   aussi pour cette personne qu'elle a été écrite. À  la prochaine. Il faut savoir que les ordinateurs  
+23:3523 minutes et 35 secondesont remplacé les employés et les machines des  ouvriers. Et là je je barre la route, c'est le  
+23:4123 minutes et 41 secondescas de le dire. Qui dit barrage du pH ? Et je  pense que moi avec mes barrières automatiques,  
+23:4923 minutes et 49 secondesc'est fini les grossesses, les congés payés,  les 13e mois, les certificats médicaux et les  
+23:5523 minutes et 55 secondesgens quientent chez eux. Reprenez chez moi, c'est  une fois par an entretien et puis c'est terminé.   Et j'ai un outil économique qui est cohérent, qui  fonctionne perturbant. On vous sent Oui. perturbé.  
+24:0524 minutes et 5 secondesOui. Dire que les salariés c'est que des fignants,  c'est ce qu'il vient de dire. Les salariés c'est   souffert de ma part et j'en vois tous les jours  des gens qui souffrent c'est des êtres humains.  
+24:1324 minutes et 13 secondesUne barrière c'est loin d'être un être humain. Moi  je souffre pas mais j'ai jamais dit que vous étiez   un être humain. Souffre pas. J'ai jamais dit que  vous étiez un être humain. On est bien d'accord.
+
+Tout
+
+Source : IA et Stratégie | Le SamourAI
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+Rajeunissez avec le Tai Chi
+Renforcez corps et esprit naturellement avec notre Tai Chi débutant
+Sponsorisé
+MadMuscles
+
+Visiter le site
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+773 k vues
+•
+il y a 2 mois
+
+
+26:54
+4 Resto Traditionnels, 4 Villes En Corée !
+LeMondeDeChoi
+162 k vues
+•
+il y a 11 mois
+
+
+5:26
+Vacances 2026 : moins loin, moins longtemps, moins cher...
+Sud Radio
+173 vues
+•
+il y a 10 heures
+Nouveau
+
+
+1:52:17
+BAPTISTE MARCHAIS en PODCAST #2 - Jean Onche / Tengo
+BAPTISTENTX
+298 k vues
+•
+il y a 4 ans
+
+
+2:28:47
+Expert en économies : Moins de 45 ans ? Pas de retraite ! N’achetez pas de maison ! - Jaspreet Singh
+The Diary Of A CEO
+ et Minority Mindset
+6,5 M de vues
+•
+il y a 1 an
+Doublée
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+310 k vues
+•
+il y a 2 mois
+
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+799 k vues
+•
+il y a 1 mois
+
+
+1:44:14
+Changez de vie à tout moment : de l’avocat alcoolique à l'homme le plus en forme au monde, Rich Roll
+The Diary Of A CEO
+2,5 M de vues
+•
+il y a 3 ans
+Doublée
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+11 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+25:06
+J’ai testé les plats préférés des célébrités (et c'était douteux)
+Gurky
+548 k vues
+•
+il y a 1 mois
+
+
+1:41:45
+BERNARD ARNAULT : CONFESSIONS INÉDITES DU PATRON DU LUXE MONDIAL (empire, drames, rumeurs…)
+LEGEND
+1,2 M de vues
+•
+il y a 9 jours
+
+
+1:10:30
+François Asselineau : Dettes souveraines : La France , « Too big to fail ! »
+TV Finance
+81 k vues
+•
+il y a 10 mois
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+958 k vues
+•
+il y a 10 mois
+
+
+1:38:37
+L’expert en argent : de 0 $ à des millions en 2 ans sans aucun travail acharné ! Codie Sanchez
+The Diary Of A CEO
+ et BigDeal by Codie Sanchez 
+6,9 M de vues
+•
+il y a 3 ans
+Doublée
+
+
+1:48:46
+#233 Jean Gab1 - La vie, à la dure
+Biomécanique
+85 k vues
+•
+il y a 2 ans
+
+
+28:52
+Je teste la nourriture la plus douteuse d'Amazon
+Gurky
+870 k vues
+•
+il y a 5 mois
+
+
+28:16
+96 % d'échecs : le mensonge de l'IA qui travaille à votre place
+IA et Stratégie | Le SamourAI
+24 k vues
+•
+il y a 4 mois
+
+
+25:42
+Je teste les recettes TikTok avec le plus de vues
+Gurky
+842 k vues
+•
+il y a 2 mois
+
+48:01
+Une IA, un objet IA, et la pire idée de l'IA : joyeux été !
+Renaud Dékode
+502 vues
+•
+il y a 2 heures
+Nouveau
+
+    
