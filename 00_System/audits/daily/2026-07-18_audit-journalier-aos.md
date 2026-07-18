@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 973622f
+- Commit audite : 2d0c2bc
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-18 03:36:44
+- Rapport genere le : 2026-07-18 09:11:22
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,11 +25,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `2d0c2bc` - 2026-07-18 03:36:44 +0000 - Audit - docs(aos): add daily audit report
 - `973622f` - 2026-07-17 23:40:09 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
 - `577cc98` - 2026-07-17 09:30:36 +0000 - Audit - docs(aos): add daily audit report
 - `bfdc4b0` - 2026-07-17 11:19:48 +0200 - Knowledge batch - docs(aos): process video source batch
 - `4fd20ac` - 2026-07-17 11:17:01 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
-- `e49d4b3` - 2026-07-17 03:41:19 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -48,14 +48,14 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `2d0c2bc` - 2026-07-18 03:36:44 +0000 - docs(aos): add daily audit report
 - `577cc98` - 2026-07-17 09:30:36 +0000 - docs(aos): add daily audit report
-- `e49d4b3` - 2026-07-17 03:41:19 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `2d0c2bc` - 2026-07-18 03:36:44 +0000 - Audit - docs(aos): add daily audit report
 - `577cc98` - 2026-07-17 09:30:36 +0000 - Audit - docs(aos): add daily audit report
 - `4fd20ac` - 2026-07-17 11:17:01 +0200 - Protocol / system - Merge branch 'main' of https://github.com/abentaleb1987-stack/AI-Operating-System
-- `e49d4b3` - 2026-07-17 03:41:19 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -70,7 +70,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-17_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-07-18_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_mike-codeur_revue-humaine-code-agentique_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-16_youtube_parlons-ia_chatgpt-work-codex-guardrails_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-17_youtube_alejavi-rivera_chatgpt-work-connecteurs-skills_transcript.txt
