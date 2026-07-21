@@ -1,0 +1,1683 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Comment ChatGPT Génère VRAIMENT un Mot (architecture complète) 🤖
+Projets IA
+Projets IA
+3,08 k abonnés
+
+S’abonner
+
+90
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+1 065 vues  23 avr. 2026  #NLP #Transformer #DeepLearning
+Quand tu tapes une phrase dans ChatGPT, que se passe-t-il exactement dans les 0,3 secondes
+qui suivent ? Tokenisation, embeddings, attention, MLP, softmax — on décortique
+TOUT, dans l'ordre, étape par étape. 🧠
+
+Dans cette vidéo, tu vas suivre le voyage d'une phrase à travers GPT-2 de bout en bout.
+Comprends pourquoi les RNN — les réseaux récurrents — ont atteint leurs limites.
+Découvre le mécanisme Query/Key/Value qui permet à chaque mot de contextualiser
+les autres. Apprends pourquoi le masque causal empêche le modèle de "tricher".
+Et maîtrise la façon dont la température, top-k et top-p contrôlent la créativité
+du modèle. Sans équations. Sans jargon. Juste la mécanique, expliquée clairement.
+
+🎯 CE QUE TU VAS MAÎTRISER
+— Ce qu'est un vecteur et pourquoi c'est la brique de base de tout le système
+— Pourquoi les RNN échouaient sur les textes longs
+— Les 4 sous-étapes de l'embedding (tokenisation → vecteur final)
+— Comment Query, Key et Value permettent à chaque mot de "chercher" dans le contexte
+— Ce qu'est le masque causal et pourquoi il est indispensable
+— Comment température, top-k et top-p contrôlent la créativité du modèle
+
+ChatGPT ne "comprend" pas — il prédit le mot suivant, encore et encore,
+à travers 12 couches de la même mécanique. Et maintenant tu sais exactement
+comment elle fonctionne.
+
+💬 Quelle étape t'a semblé la plus contre-intuitive ? Query/Key/Value ?
+Le masque causal ? Dis-le moi en commentaire !
+🔔 Abonne-toi à Projets IA pour comprendre l'IA sans bullshit, un concept par vidéo.
+
+🔗 Ressource interactive mentionnée dans la vidéo :
+Transformer Explainer — poloclub.github.io/transformer-explainer
+(joue avec tes propres phrases, vois l'attention en temps réel)
+
+🎬 Autres vidéos pour aller plus loin :
+— L'Attention en détail : Q, K, V avec des schémas et des vrais chiffres
+— Les Embeddings : comment l'IA encode le sens des mots
+— RLHF : comment des humains ont éduqué ChatGPT après l'entraînement
+
+#Transformer #IA #IntelligenceArtificielle #ChatGPT #GPT2 #MachineLearning
+#DeepLearning #LLM #AttentionMechanism #NLP #IAExpliquée #Vulgarisation
+#Tech #ProjetsIA #NeuralNetwork
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+3,08 k abonnés
+Vidéos
+À propos
+14 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@karimbouche3563
+il y a 3 heures
+Meuf toi tu mérite vraiment de s'abonner à toi et de te liker ,une meuf aussi intelligente sa mérite le respect
+
+
+
+Répondre
+
+
+@gauthiersornet6051
+il y a 11 heures
+Sur le fond je tique surtout sur un point : « le modèle ne comprend pas, il prédit juste le prochain mot, c'est tout ». Ce raccourci tranche par décret un débat qui ne l'est pas. « Prédire le token suivant » décrit l'objectif d'entraînement, pas ce que la représentation interne construit pour l'atteindre et bien prédire, sur des milliards de contextes, exige peut-être exactement le genre de structure qu'on appellerait comprendre. Othello-GPT en est un bel exemple : entraîné juste à prédire des coups légaux, il développe en interne une représentation de l'état du plateau, sur laquelle on peut intervenir causalement. Le « c'est tout » ferme la porte trop vite. Ça ne prouve pas l'inverse non plus mais l'objectif d'entraînement est silencieux sur la question, il ne la tranche dans aucun sens.
+
+Sinon, très bonne vulgarisation les analogies tiennent (le moteur de recherche pour Q/K/V, le livre masqué pour le masque causal) et les chiffres GPT-2 sont cohérents de bout en bout. Deux ajouts qui portent du poids :
+
+La non-linéarité du MLP. Tu dis « on élargit à 3072 puis on recompresse à 768 » sans mentionner l'activation (GELU) entre les deux. Or sans elle, deux couches linéaires = une seule : le MLP ne servirait à rien. Toute la justification « ça détecte des patterns qu'on ne verrait pas autrement » repose là-dessus.
+
+Le cadrage. L'intro promet ChatGPT/Claude/Gemini/LLaMA mais décrit GPT-2. Plusieurs blocs ont bougé depuis : l'encodage positionnel additif absolu, LLaMA ne l'utilise pas (RoPE), et RMSNorm/SwiGLU/GQA ont remplacé LayerNorm/GELU/MHA sur les modèles récents. Un simple « ici c'est GPT-2 » éviterait de faire passer 2019 pour l'état de l'art.
+
+Rien qui enlève la qualité du reste, merci pour le boulot 
+
+
+
+Répondre
+
+
+@huguesderoubaix8645
+il y a 1 jour
+Meilleure explication en français que j'ai vue !! Limpide ! Bravo et merci 
+
+
+
+
+Répondre
+
+
+@RobertVERCORS
+il y a 8 jours
+Rebonjour Pia (je t'offre ce joli prénom, pour ProjetIA, puisque tu es incognito, quasi virtuelle). Je te propose une interprétation pour le passage dans un espace de plus grande dimension au sein du MLP. Ll'interprétation de la dimensionnalité des matrices « Up » et « Down » peut être trouvée dans une analogie avec le traitement du signal. La dimension de l'embedding est arbitraire — tout comme le choix d'une fréquence d'échantillonnage (que ce soit dans le domaine temporel ou fréquentiel) — et il est fort probable qu'elle s'avèrera toujours insuffisante. En traitement du signal, la projection dans un espace de dimension supérieure correspond à un "suréchantillonnage" faisant suite à une "interpolation". Cela n'ajoute pas davantage d'informations, mais peut fournir une localisation *plus précises*, que ce soit dans le domaine temporel ou fréquentiel. En IA il ne s'agit pas ici de « concepts distincts supplémentaires », mais plutôt d'une « plus grande précision » dans l'expression vectorielle de ces mêmes concepts. Je serais intéressé a entendre ta présentation personnel du MLP... Bravo pour tout, cordialement
+
+2
+
+
+Répondre
+
+
+@trityes6336
+il y a 3 jours
+Bonjour, une explication limpide pour un architecture pas si simple que cela à comprendre, bravo pour la pédagogie. Une remarque cependant sur un point qui m’a gêné toute la vidéo : parler de chiffres alors qu’il s’agit de nombres (un vecteur est une suite de nombre pas de chiffres).
+
+
+
+Répondre
+
+
+@heliosseveritas2841
+il y a 15 heures
+Je suis toutes tes vidéos, que je trouve très qualitatives.
+
+Mais s'il te plaît, pourrais-tu désactiver le suivi de la caméra pendant tes explications ? Quand tu bouges, la caméra te suit, et comme tu bouges beaucoup, on se retrouve avec un mouvement constant de droite à gauche, puis de gauche à droite. Au bout d'un moment, ça donne vraiment le tournis.
+
+Je me suis même retrouvé à fermer la vidéo pour continuer à t'écouter en mode podcast, car je n'en pouvais plus.
+
+Voilà, j'espère que ce retour te sera constructif.
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@eursss0
+il y a 6 heures
+Les guitares derrière c'est pour faire style ou t'en joue vraiement ?
+
+
+
+Répondre
+
+
+@guyarnaud6463
+il y a 12 heures
+Sur quoi est basée la "température"?
+
+
+
+Répondre
+
+
+@erichamon9203
+il y a 1 mois
+Super video ! Bravo
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@patrickthawizard352
+il y a 4 jours
+
+
+
+Répondre
+
+
+1 réponse
+
+@alphabeta2742
+il y a 5 jours
+Pourquoi on a appelé ça "Transformer" ?
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est l'architecture Transformer, le
+0:03
+moteur de chat GPT, Claude, Gemini et
+0:06
+Lama. Et dans les prochaine minutes, on
+0:09
+va tout décortiquer bloc par bloc. Mais
+0:12
+voilà ce que personne ne te dit jamais.
+0:14
+Quand tu tapes une phrase dans le chat
+0:16
+GPT, le modèle ne comprend pas ta
+0:19
+question. Il fait une chose, une seule.
+0:23
+Il prédit le mot suivant encore et
+0:25
+encore. C'est tout.
+0:28
+Alors, comment quelque chose d'aussi
+0:30
+simple peut produire du code, des
+0:33
+dissertations, des analyses juridiques ?
+0:36
+C'est exactement ce qu'on va voir. Le
+0:38
+Transformers, c'est l'avention qui a
+0:41
+tout changé. Avant lui, en 2016, les
+0:44
+meilleurs IA du monde utilisaient ce
+0:46
+qu'on appelait des RNN, c'est-à-dire des
+0:49
+réseaux récurrents. Le principe ? les
+0:52
+mots un par un dans l'ordre en passant
+0:56
+un résumé de chaque mot au suivant comme
+1:00
+une chaîne le problème à force de
+1:03
+résumer résumer résumer les informations
+1:05
+du début de la phrase disparaissaient
+1:08
+avant d'atteindre la fin sur des phrases
+1:10
+courtes ça passait mais sur des textes
+1:12
+longs c'était catastrophique. Le modèle
+1:15
+oublié. En 2017, hu chercheurs publient
+1:18
+un article de 12 pages. Le titre
+1:21
+Attention is all you need. Leur idée ?
+1:24
+Au lieu de lire les mots un par un,
+1:26
+pourquoi ne pas les traiter tous en même
+1:28
+temps et laisser chaque mot interagir
+1:31
+directement avec tous les autres. Et en
+1:33
+quelques années, cette industrie
+1:35
+déclenche une révolution à 1000
+1:37
+milliards de dollars. Si tu veux
+1:39
+vraiment comprendre l'IA et pas juste en
+1:41
+parler, c'est ici que tout commence.
+1:44
+Pour cette vidéo, je me suis vraiment
+1:46
+plongée dans le sujet article, schéma,
+1:49
+ressources techniques. Et je sais que
+1:51
+dès qu'on parle de math ou de mécanisme
+1:53
+technique, ça peut en rebuter
+1:55
+quelques-uns. Mais c'est exactement
+1:57
+l'objectif de cette vidéo. Prendre des
+1:59
+concepts et les rendre accessibles à
+2:02
+tout le monde. Pas besoin d'équation,
+2:04
+pas besoin de bagage technique, juste la
+2:06
+mécanique expliquer clairement. Une
+2:09
+précision importante avant de commencer.
+2:11
+Dans cette vidéo, on va voir comment le
+2:13
+Transformer génère du texte token par
+2:16
+token. Et ce mécanisme, c'est le même
+2:19
+pour lire ton prompte que pour générer
+2:22
+la réponse. C'est le même moteur qui
+2:24
+tourne en boucle. Donc quand on parle de
+2:26
+comment chat GPT génère une réponse, on
+2:29
+parle du mécanisme complet depuis le
+2:32
+moment où il lit ta phrase jusqu'au
+2:34
+moment où il choisit chaque mot de sa
+2:36
+réponse. On va couvrir les trois grandes
+2:39
+étapes. L'embedding, le bloc transformer
+2:42
+avec la tension et le MLP et les
+2:45
+probabilités de sortie. C'est parti.
+2:47
+Avant de rentrer dans le vif du sujet,
+2:49
+il y a un concept qu'on va utiliser tout
+2:51
+au long de cette vidéo. Un concept
+2:53
+simple mais fondamental,
+2:56
+c'est le vecteur. Un vecteur, c'est
+2:59
+juste une liste de chiffres, c'est tout.
+3:01
+Par exemple, 0,2 - 0,5 0,8 0,1. C'est un
+3:07
+vecteur de quatre chiffres. Dans le
+3:10
+transformer, on va travailler avec des
+3:12
+vecteurs à 768 chiffres, mais le
+3:15
+principe reste le même. C'est une liste.
+3:17
+Pourquoi c'est utile ? Parce que les
+3:19
+ordinateurs ne comprennent pas les mots,
+3:21
+ils ne comprennent que des chiffres.
+3:23
+Donc pour qu'un modèle puisse travailler
+3:24
+avec du texte, il faut convertir chaque
+3:27
+mot en une liste de chiffres,
+3:29
+c'est-à-dire un vecteur. Et la magie,
+3:31
+c'est que ces chiffres ne sont pas
+3:33
+aléatoires. Chaque chiffre capture une
+3:36
+information sur le mot, son sens, son
+3:38
+contexte ou même encore sa relation avec
+3:41
+les autres mots. Un vecteur, c'est donc
+3:43
+une façon de représenter un mot en
+3:45
+chiffre de manière à ce que le modèle
+3:48
+puisse faire des calculs dessus. On va
+3:50
+utiliser ce mot tout au long de la
+3:52
+vidéo. Maintenant, tu sais exactement ce
+3:54
+que c'est. Partie 1, l'embedding ou
+3:57
+comment transformer du texte en nombre.
+4:00
+Avant cette étape, on a du texte brut,
+4:03
+une phrase, des mots, des lettres et le
+4:06
+modèle ne peut rien faire avec ça. Il ne
+4:08
+comprend que des nombres. Donc
+4:09
+l'objectif de cette première étape,
+4:12
+c'est de transformer chaque nombre en un
+4:14
+vecteur de 768 chiffres qui capture à la
+4:17
+fois son sens et sa place dans la
+4:19
+phrase. Après cette étape, les mots
+4:22
+n'existent plus. Il n'y a plus que des
+4:24
+listes de chiffres prêtes à rentrer dans
+4:27
+le moteur et chaque liste porte en elle
+4:30
+toute l'information dont le modèle a
+4:32
+besoin pour commencer à travailler.
+4:34
+Cette étape se déroule en quatre
+4:36
+sous-étapes. Étape une, la tokenisation.
+4:40
+Prends la phrase data visualization
+4:44
+erw users to. Avant même de convertir
+4:47
+les mots en chiffres, le modèle doit les
+4:50
+découper. Ces morceaux, ce sont les
+4:52
+tokens. Un token n'est pas forcément un
+4:55
+mot entier. Data, c'est un token.
+4:59
+Visualization,
+5:00
+c'est un token aussi. Mais ums, c'est
+5:03
+deux tokens. UMP et parce que le modèle
+5:08
+travaille sur des sous-mots fréquents et
+5:10
+pas sur les mots complets. Imagine que
+5:12
+tu coupes une baguette. Parfois, tu
+5:14
+coupes un croisement naturel et parfois
+5:16
+en plein milieu. L'important, c'est que
+5:19
+chaque morceau corresponde à une case
+5:22
+dans le dictionnaire du modèle. GPT à
+5:25
+50257
+5:27
+cases dans ce dictionnaire. Chaque token
+5:29
+reçoit un numéro unique, sauf que là, on
+5:32
+a un problème et c'est un problème qui
+5:34
+va au cœur de ce que le modèle doit
+5:36
+faire. Un numéro, c'est arbitraire. Le
+5:39
+token 4521 pour chat et le token numéro
+5:43
+8743 pour Félin. Deux mots qui veulent à
+5:47
+peu près dire la même chose mais deux
+5:49
+numéros qui n'ont absolument aucun
+5:51
+rapport entre eux. Le modèle ne peut pas
+5:53
+travailler avec ça. Il lui faut quelque
+5:55
+chose qui capture vraiment le sens des
+5:57
+mots, pas juste une étiquette dans le
+5:59
+dictionnaire. Étape 2, le token
+6:02
+embedding. C'est là qu'on convertit
+6:04
+chaque numéro de token en un vecteur de
+6:08
+768 chiffres. 768 chiffres pour un seul
+6:12
+mot. Pourquoi autant ? Parce qu'un mot
+6:14
+c'est riche. Il peut y avoir plusieurs
+6:16
+sens, plusieurs usages, plusieurs
+6:18
+contextes possibles. Pour capturer toute
+6:20
+cette richesse, il faut beaucoup de
+6:22
+chiffres. Chaque chiffre représente une
+6:25
+dimension du sens. Est-ce que ce mot est
+6:27
+plutôt positif ou négatif ? plutôt
+6:30
+concret ou abstrait, plutôt lié à
+6:32
+l'humain ou à la nature. 768 curseurs
+6:35
+chacun réglés sur une valeur précise. Et
+6:38
+ce qui est puissant c'est que deux mots
+6:40
+proches en sens auront des vecteurs
+6:43
+proches. Roi et reen se ressemblent
+6:46
+voiture et nuage. Ce sera très
+6:48
+différent. Le sens des mots est encodé
+6:51
+dans les chiffres eux-mêmes. Donc
+6:53
+maintenant, chaque token a un vecteur
+6:55
+qui capture son sens. Mais il y a un
+6:57
+angle mort qu'on n'a pas encore adressé
+6:59
+et sans le corriger, le modèle serait
+7:02
+incapable de comprendre une phrase de
+7:03
+base. Étape 3, l'encodage positionnel.
+7:08
+Le problème, c'est celui-ci. On a
+7:10
+converti chaque mot en un vecteur de 768
+7:13
+chiffres, mais on les a traité un par un
+7:16
+indépendamment. Le modèle a perdu
+7:18
+l'ordre. Pour lui, le chat mange la
+7:21
+souris ou la souris le chat, c'est
+7:24
+exactement pareil. C'est les mêmes mots,
+7:27
+les mêmes vecteurs. Il ne sait plus qui
+7:29
+était en premier, qui était en deuxième.
+7:31
+Autrement dit, il ne sait plus qui mange
+7:33
+qui. C'est pourquoi on ajoute une
+7:35
+information supplémentaire. La position.
+7:38
+On crée une deuxième liste à 768
+7:40
+chiffres uniquement pour représenter la
+7:43
+position du mot dans la phrase. Le mot
+7:45
+en position 1 reçoit une liste
+7:47
+spécifique à la position 1. Le deuxè
+7:50
+reçoit une liste spécifique à la
+7:52
+position 2 et ainsi de suite. Et
+7:55
+ensuite, on fusionne les deux listes. On
+7:57
+prend le premier chiffre de la liste
+7:59
+sens et on l'additionne au premier
+8:02
+chiffre de la liste position. le deuxè
+8:04
+avec le deuxè et ainsi de suite pour les
+8:07
+768 chiffres. Résultat : une seule liste
+8:11
+à 768 chiffres qui contient à la fois
+8:14
+des informations sur le sens et la
+8:16
+position du mot. Étape 4, l'embedding
+8:19
+final. On a maintenant un vecteur à 768
+8:23
+chiffres par token. Chaque token sait ce
+8:26
+qu'il veut dire et où il se trouvait
+8:28
+dans la phrase. Mais voilà le vrai
+8:30
+problème qu'on a pas encore résolu. Ces
+8:31
+vecteurs sont parfaits pour représenter
+8:33
+ces mots isolément. Mais le langage ce
+8:36
+n'est pas des mots isolés. Ce sont des
+8:38
+mots qui s'influencent mutuellement. Le
+8:40
+mot chat dans le chat d'or et le mot
+8:43
+chat dans application de chat. Ce n'est
+8:46
+pas le même sens. Et pourtant, le modèle
+8:49
+leur donne exactement le même vecteur.
+8:51
+C'est exactement ce problème que la
+8:53
+deuxième grande étape va résoudre.
+8:55
+Partie 2, le bloc transformer, la
+8:58
+tension et le MLP. Avant cette étape,
+9:01
+chaque token a son vecteur mais chaque
+9:03
+token est encore seul, isolé. Il ne sait
+9:06
+rien de ce qu'il entoure. C'est le
+9:08
+problème fondamental que le bloc
+9:10
+Transformer va résoudre. Il va permettre
+9:12
+à chaque token de regarder l'ensemble
+9:14
+des tokens qui le précèdent, lesquels
+9:16
+sont importants pour lui et d'enrichir
+9:19
+son propre vecteur grâce à eux. Après
+9:21
+cette étape, le mot il dans "Jean est
+9:23
+parti, il était fatigué" n'aura plus
+9:26
+rien à voir avec le il de il pleut, le
+9:29
+contexte aura tout transformé et c'est
+9:31
+grâce à un mécanisme qu'on avait jamais
+9:34
+utilisé dans l'IA avant 2017.
+9:37
+Laatension. Dans GPT2, ce bloc est
+9:39
+répété 12 fois à la suite. À chaque
+9:42
+répétition, chaque token comprend un peu
+9:45
+mieux son rôle dans la phrase. Les
+9:47
+premières couches captent les choses
+9:49
+simples, la grammaire ou l'ordre des
+9:51
+mots. Les suivantes captent le sens et
+9:54
+les dernières captent des relations bien
+9:56
+plus complexes ou abstraites. Chaque
+9:58
+bloc contient deux parties : le self
+10:01
+attention et le MLP. On va commencer par
+10:05
+le self attention. Étape 1, query key
+10:09
+value. À quoi ça sert ? Pour que ces
+10:11
+tokens puissent interagir entre eux, il
+10:14
+faut leur donner un langage commun. Mais
+10:16
+comment un vecteur de 768 chiffres peut
+10:19
+parler à un autre vecteur de 768
+10:21
+chiffres ? Le transformer résout ça avec
+10:24
+trois concepts : le query, la key et la
+10:27
+value. Chaque token génère trois
+10:30
+nouveaux vecteurs à partir de son
+10:32
+vecteur d'embing. Ces trois vecteurs ont
+10:34
+chacun un rôle précis. La query, c'est
+10:36
+la question que pose le token. Quels
+10:38
+sont les autres tokens qui m'aident à
+10:40
+comprendre mon propre sens ? La qui ?
+10:43
+C'est la réponse que chaque token donne
+10:45
+aux autres. Voilà ce que je représente.
+10:48
+Est-ce que je peux t'aider ? Et la
+10:50
+value, c'est l'information que le token
+10:52
+va réellement transmettre si un token a
+10:55
+décidé de l'écouter. Pense à ça comme un
+10:57
+moteur de recherche. La query, c'est ce
+11:00
+que tu tapes dans la barre de recherche.
+11:02
+Laisy, c'est le titre de chaque page
+11:04
+dans les résultats. La value, c'est le
+11:07
+contenu de la page quand tu décides de
+11:09
+cliquer dessus. Chaque token compare sa
+11:11
+query avec l'acquis de chacun des autres
+11:14
+tokens. Plus le match est fort, plus il
+11:16
+va accorder de l'attention à ce token et
+11:18
+récupérer sa value. Ces trois vecteurs
+11:21
+sont calculés en multipliant le vecteur
+11:23
+d'embedding par trois matrices de poids
+11:26
+apprises pendant l'entraitement. C'est
+11:28
+ces poids qui décident comment chaque
+11:30
+token formule sa question, son offre et
+11:32
+son information. Donc maintenant, chaque
+11:34
+token sait ce qu'il cherche et ce qu'il
+11:36
+peut offrir. Mais si on fait ce calcul
+11:38
+une seule fois, on ne voit la phrase que
+11:41
+sous un seul angle et le langage est
+11:43
+bien trop riche pour ça. Étape 2, le
+11:46
+découpage en 12 têtes. Au lieu de faire
+11:49
+ce calcul d'attention une seule fois,
+11:51
+GPT2 le fait en 12 fois parallèles. Ces
+11:55
+12 calculs, on les appelle les têtes
+11:58
+d'attention. Comment ça marche
+12:00
+concrètement ? On prend les vecteurs
+12:01
+query key et value de chaque token qui
+12:05
+font 768 chiffres chacun et on les
+12:08
+découpe en 12 morceaux égaux de 64
+12:11
+chiffres. Chaque morceau part dans une
+12:13
+tête différente. Pourquoi faire ça ?
+12:16
+Parce que chaque tête va apprendre à
+12:18
+regarder la phrase sous un angle
+12:20
+différent. Une tête va se spécialiser
+12:22
+dans les relations grammaticales. Qui
+12:24
+est le sujet ? Qui est le verbe. Une
+12:26
+autre va regarder les relations de sens.
+12:28
+Quel mot partage le même thème ? Une
+12:30
+autre encore va détecter les dépendances
+12:33
+à longue distance. Un mot au début de la
+12:35
+phrase qui influence un mot à la fin, 12
+12:38
+têtes et 12 perspectives différentes sur
+12:41
+la même phrase. Tout ça en même temps.
+12:43
+Mais dans chaque tête, comment
+12:45
+calcule-t-on concrètement cette
+12:47
+attention ? Et surtout, comment
+12:49
+évite-t-on que le modèle triche en
+12:51
+regardant les mots qu'il n'a pas encore
+12:53
+généré ? Étape 3, le calcul d'attention
+12:57
+dans chaque tête. Dans chaque tête, le
+12:59
+calcul se déroule en trois temps.
+13:01
+Premier temps, les scores d'attention.
+13:03
+Pour chaque token, on compare la query
+13:06
+avec laqu de tous les tokens qui
+13:09
+précèdent. Cette comparaison donne un
+13:11
+score d'attention. Un nombre qui dit à
+13:14
+quel point ce token qui me précède
+13:16
+est-il pertinent par rapport à moi ?
+13:18
+Plus le score est élevé, plus les deux
+13:21
+tokens ont quelque chose en commun. Plus
+13:23
+le score est bas, plus ils sont sans
+13:25
+rapport. On se retrouve donc avec une
+13:28
+série de scores, mais certains de ces
+13:30
+scores pointent sur des tokens qui ne
+13:32
+devraient pas exister pour le modèle,
+13:34
+les tokens futurs. Et si on les laisse
+13:36
+passer, tout le modèle s'effondre.
+13:39
+Deuxième temps, le masque causal.
+13:42
+Rappelle-toi le principe fondamental du
+13:44
+transformer. Il prédit le mot suivant.
+13:47
+Il génère le texte de gauche à droite un
+13:50
+token à la fois. Ça veut dire que quand
+13:52
+il traite le troisième mot, les mots 4 5
+13:55
+et 6 n'ont pas encore été générés. Le
+13:58
+modèle ne doit pas pouvoir les voir.
+14:00
+Mais techniquement tous les tokens sont
+14:02
+traités en même temps. Le modèle
+14:03
+pourrait très bien tricher et regarder
+14:06
+les mots d'après pour prédire le mot
+14:08
+actuel. C'est pourquoi on lui pose un
+14:10
+masque. Tous les scores d'attention
+14:12
+calculés vers des tokens futurs sont
+14:15
+annulés, mis à zéro. Ces tokens sont
+14:18
+rendus invisibles. Résultat, chaque
+14:21
+token ne peut interagir qu'avec des
+14:24
+tokens qui le précèdent, jamais avec
+14:26
+ceux qui viennent après. C'est comme
+14:28
+lire un livre en cachant tout ce qui
+14:30
+vient après la ligne que tu lis. Tu ne
+14:32
+peux t'appuyer que sur ce que tu as déjà
+14:35
+lu. Donc maintenant, on a des scores
+14:37
+valides uniquement vers le passé. Mais
+14:39
+une liste de scores brutes ne suffit
+14:41
+pas. Il faut les transformer en quelque
+14:43
+chose d'utilisable. 3è temps, le soft
+14:47
+max et la value. On a maintenant un
+14:50
+score d'attention pour chaque token de
+14:52
+la phrase. Un score qui dit à quel point
+14:55
+ce token qui me précède est pertinent
+14:57
+par rapport à moi. Prenons un exemple
+14:59
+concret. Le token fatigué dans la phrase
+15:03
+Jean est parti, il était fatigué vient
+15:06
+de calculer un score pour Jean, un score
+15:08
+pour un score pour partie, un score pour
+15:11
+été. cinq scores, un par token
+15:14
+précédent, mais ces scores bruts ne sont
+15:17
+pas encore utilisables. Certains sont
+15:19
+grands, d'autres sont petits. Leur somme
+15:21
+ne fait pas un et on ne sait pas comment
+15:24
+les combiner. C'est pourquoi on applique
+15:25
+le soft max. Le softmax, c'est une
+15:28
+opération mathématique qui prend une
+15:30
+liste de scores quelconque et est
+15:33
+convertis en pourcentage dont la somme
+15:35
+fait exactement 1. Si un token a un
+15:38
+score très élevé, il va recevoir une
+15:40
+grande proportion. disons 40 %. Un token
+15:43
+peu pertinent va recevoir par exemple 2
+15:45
+%. Un token complètement hors sujet va
+15:48
+recevoir presque 0 %. On a maintenant
+15:50
+une distribution claire. Voilà combien
+15:52
+d'importance s'accorder à chaque token
+15:55
+précédent. Et ensuite, on utilise ces
+15:57
+proportions pour construire la nouvelle
+16:00
+représentation du token. Chaque token
+16:02
+précédent contribue à hauteur de son
+16:04
+importance en transmettant sa value. Le
+16:07
+token le plus pertinent contribue
+16:09
+beaucoup. Les moins pertinents
+16:10
+contribuent peu. Le résultat, c'est un
+16:13
+nouveau vecteur à 768 chiffres pour
+16:16
+chaque token. Mais ce vecteur n'est plus
+16:18
+celui d'un mot. C'est le vecteur d'un
+16:21
+mot qui a absorbé tout le contexte des
+16:24
+mots qui le précèdent. Chacun à la
+16:26
+mesure de son importance. Le mot il dans
+16:30
+Jean était fatigué, il est parti ne
+16:33
+ressort plus avec les mêmes chiffres que
+16:35
+dans il pleut. Le contexte a tout
+16:37
+changé. Donc, on a maintenant 12
+16:39
+versions enrichies de chaque token, une
+16:42
+par tête, chacune capturant un aspect
+16:45
+différent de la phrase. Mais ces 12
+16:47
+versions sont encore séparées, il faut
+16:49
+les rassembler. Étape 4 : concaténation,
+16:53
+projection et connexion résiduelle. On
+16:55
+vient de faire ce calcul avec 12 têtes
+16:58
+en parallèle. Chaque tête a produit sa
+17:01
+propre version enrichi de chaque token
+17:03
+vu sous un angle différent. Maintenant,
+17:06
+on rassemble tout. On met les 12 sorties
+17:08
+bout à bout pour reformer un vecteur de
+17:11
+768 chiffres par token. Puis on fait
+17:14
+passer ce vecteur dans une couche
+17:17
+supplémentaire qui fusionne et affine
+17:20
+toutes ses perspectives en une seule
+17:22
+représentation cohérente. Et là, il y a
+17:25
+un mécanisme discret mais essentiel, les
+17:28
+connexions résiduelles. Voilà ce que ça
+17:31
+veut dire concrètement. Avant d'entrer
+17:33
+dans la tension, chaque token avait un
+17:36
+vecteur. Après la tension, il en a un
+17:39
+nouveau. Au lieu de remplacer l'ancien
+17:42
+par le nouveau, le modèle les
+17:44
+additionne. Il prend chaque chiffre de
+17:47
+l'ancien vecteur et l'additionne au
+17:49
+chiffre correspondant du nouveau.
+17:52
+Pourquoi ? Imagine que tu apprennes
+17:54
+quelque chose de nouveau. Tu ne jettes
+17:56
+pas tout ce que tu savais avant. Tu
+17:58
+construis par-dessus. C'est exactement
+18:00
+ça. Chaque couche ajoute de la
+18:03
+connaissance sans effacer ce qui
+18:05
+existait déjà. Sans ce mécanisme, dans
+18:08
+un réseau de 12 couches, les
+18:10
+informations des premières couches se
+18:12
+diluraient complètement. Avec les
+18:14
+connexions résiduelles, chaque couche
+18:17
+enrichit. Elle ne remplace jamais.
+18:19
+L'échange entre token est terminé, mais
+18:22
+ce serait une erreur de s'arrêter là
+18:24
+parce que chaque token a encore un
+18:26
+travail à faire seul. Cette fois le MLP,
+18:30
+la transformation individuelle. Après la
+18:33
+tension, chaque token repart dans son
+18:36
+coin seul. La phase d'échange est
+18:38
+terminée. Maintenant, chaque token va
+18:41
+travailler sur lui-même indépendamment
+18:43
+des autres. Le MLP prend le vecteur à
+18:46
+768 chiffres du token et le transforme
+18:50
+en deux temps. Premier temps, il élargit
+18:52
+ce vecteur à 768 chiffres à 3072
+18:57
+chiffres. soit quatre fois plus grand.
+18:59
+Pourquoi élargir ? Parce que certaines
+19:01
+relations entre les chiffres sont trop
+19:04
+subtiles pour être détecté dans un
+19:06
+espace de 768 dimensions. En élargissant
+19:10
+l'espace, on donne au modèle plus de
+19:12
+place pour faire des calculs complexes
+19:15
+et détecter des patterns cachés.
+19:17
+Deuxième temps, il recompresse ce
+19:19
+vecteur à 3072 chiffres en un vecteur à
+19:22
+768 chiffres. On revient à la taille
+19:25
+d'origine. Le modèle a fait des calculs
+19:27
+dans cet espace élargi, détecté des
+19:30
+relations qu'il n'aurait pas vu
+19:31
+autrement et on a gardé l'essentiel dans
+19:33
+la version compressée. À la sortie, le
+19:36
+token a la même taille qu'à l'entrée,
+19:38
+mais son vecteur a été profondément
+19:40
+transformé. Ensuite, on recommence.
+19:42
+Attention plus MLP, c'est un bloc qui
+19:46
+est répété 12 fois. Les premières
+19:48
+couches captent les choses simples. La
+19:51
+grammaire, l'ordre des mots qui est le
+19:53
+sujet. qui est le verbe. Les couches du
+19:55
+milieu capturent le sens. Quel mot
+19:58
+partage un thème ? Quelles idées sont
+20:00
+liées ? Les dernières couches captent
+20:02
+des choses bien plus abstraites. Le
+20:04
+registre, le ton, l'intention derrière
+20:07
+les mots. À la sortie des 12 blocs,
+20:09
+chaque token contient une représentation
+20:12
+extrêmement riche de lui-même, nourri
+20:15
+par le contexte de toute la phrase, vu
+20:18
+sous 12 angles différents, affiné,
+20:20
+couche après couche. C'est ça la
+20:23
+puissance du transformer. Mais tout ce
+20:25
+travail n'a qu'un but final, choisir le
+20:28
+prochain mot. Et pour ça, il faut encore
+20:31
+une dernière transformation. Partie 3,
+20:34
+les probabilités de sortie. Avant cette
+20:36
+étape, on a fait tout le travail de
+20:38
+compréhension. Chaque token a échangé
+20:40
+avec les autres, a absorber le contexte,
+20:43
+affiner sa représentation à travers 12
+20:46
+couches. Mais on a toujours pas répondu
+20:48
+à la question fondamentale. Quel est le
+20:50
+prochain mot ? L'objectif de cette
+20:52
+dernière étape, on va prendre tout ce
+20:54
+travail et le transformer en une réponse
+20:57
+concrète, une probabilité pour chacun
+21:00
+des 25257 mots possibles dans le
+21:04
+vocabulaire. Et ensuite, on choisit.
+21:07
+Première étape, la couche linéaire
+21:09
+finale. À ce stade, le dernier token de
+21:12
+la phrase a un vecteur à 768 chiffres.
+21:15
+Ce vecteur contient tout le contexte
+21:18
+accumulé à travers les 12 blocs. Mais
+21:20
+768 chiffres, ce n'est toujours pas une
+21:22
+réponse à la question : quel mot vient
+21:24
+après ? Pour répondre à cette question,
+21:27
+le modèle doit comparer ce vecteur avec
+21:29
+les 5257
+21:31
+tokens possibles dans son vocabulaire.
+21:33
+Il calcule un score pour chaque token du
+21:35
+dictionnaire. Ce score, on l'appelle un
+21:39
+logit. Un logit élevé pour un token
+21:42
+signifie que le modèle estime que ce
+21:44
+token est un bon candidat pour être le
+21:46
+prochain mot. Un log signifie que ce
+21:49
+token est peu probable. On se retrouve
+21:51
+alors avec7
+21:54
+scores. Un pour chaque mot possible.
+21:56
+Mais ces scores bruts ne sont pas encore
+21:58
+des probabilités. On retrouve exactement
+22:01
+le même problème que dans la tension et
+22:03
+donc exactement la même solution. Le
+22:06
+soft max de sortie. On applique le soft
+22:08
+max. Le même principe que dans le
+22:10
+mécanisme d'attention. Il prend tous ses
+22:12
+scores et les convertit en pourcentage
+22:15
+dont la somme fait exactement 1. Chaque
+22:18
+token du vocabulaire reçoit une
+22:20
+probabilité d'être le prochain mot. Par
+22:23
+exemple, pour la phrase "Data
+22:25
+visualization empowers users 2,", le
+22:28
+modèle pourrait sortir create 12 %,
+22:32
+understand 8 %, build, 5 %, si 4 % et
+22:38
+les 253 autres tokens se partagent le
+22:43
+reste, souvent avec des probabilités
+22:45
+très proches de zéro. Donc maintenant,
+22:47
+on a une distribution de probabilité.
+22:50
+Mais comment choisit-on le mot final ?
+22:53
+surtout, peut-on choix ? C'est là
+22:56
+qu'intervient la température. C'est un
+22:59
+paramètre qui contrôle à quel point le
+23:01
+modèle va suivre ou ignorer cette
+23:04
+distribution. Avant d'appliquer le soft
+23:06
+max, on divise tous les scores par la
+23:09
+valeur de la température. Si la
+23:11
+température est égale à 1, on divise par
+23:13
+1. Donc rien ne change. Le modèle
+23:16
+utilise les probabilités telles
+23:18
+qu'elles. Si la température est
+23:20
+inférieure à 1, disons 0,5. Les
+23:23
+différences entre les scores
+23:25
+s'amplifient. Le token le plus probable
+23:28
+devient encore plus probable. Les autres
+23:31
+s'effacent. Le modèle devient très
+23:33
+prévisible.
+23:34
+très déterministe, parfait pour du code
+23:37
+précis et des réponses factuelles. Si la
+23:40
+température est supérieure à 1, disons
+23:43
+1,5, les différences entre les scores
+23:46
+s'atténuent. Les tokens moins probables
+23:49
+ont plus de chance d'être choisis. Le
+23:51
+modèle devient créatif, surprenant,
+23:54
+parfois même incohérent, utile pour de
+23:57
+l'écriture créative. En plus de la
+23:59
+température, on peut affiner encore avec
+24:01
+deux paramètres supplémentaires. Top K.
+24:05
+Au lieu de considérer les 50257
+24:08
+tokens, on ne garde que les cas tokens
+24:11
+les plus probables. Si K = 5, seuls les
+24:15
+cinq meilleurs tokens sont en
+24:17
+compétition. Ça évite que le modèle
+24:19
+choisisse un mot complètement incohérent
+24:21
+par accident. Top P. Au lieu de fixer un
+24:24
+nombre de tokens, on fixe un seuil de
+24:26
+probabilité cumulé. Par exemple, P = 0,9
+24:31
+signifie qu'on garde uniquement les
+24:33
+tokens dont la probabilité cumulée
+24:36
+atteint 0,9. C'est plus flexible que top
+24:40
+K parce que le nombre de candidats
+24:43
+s'adapte automatiquement à la situation.
+24:45
+Ces trois paramètres température top K
+24:49
+et top P sont les vrais boutons de
+24:51
+réglage du comportement d'un LLM. C'est
+24:54
+ce que les développeurs ajustent quand
+24:56
+ils veulent un modèle plus créatif ou
+24:59
+plus rigoureux. Récapitulons ce qu'on
+25:01
+vient de traverser. 1. Lembeding. Le
+25:05
+texte est découpé en token. Chaque token
+25:08
+reçoit un vecteur à 768 chiffres
+25:11
+capturant son sens auquel on additionne
+25:14
+un deuxième vecteur capturant sa
+25:17
+position. On fusionne les deux et on
+25:19
+obtient le vecteur final qui rentre dans
+25:22
+le moteur. 2. Le bloc transformer répété
+25:26
+12 fois. C'est là que les tokens
+25:29
+interagissent. Chaque bloc fait deux
+25:32
+choses. D'abord la multihead
+25:35
+selfattention.
+25:36
+Chaque token calcule des scores
+25:38
+d'attention avec tous les tokens
+25:41
+précédents via query key et value. Pas
+25:46
+les futurs grâce au masque causal.
+25:49
+Converti ces scores en probabilité via
+25:52
+le soft max et ressort enrichi du
+25:56
+contexte. Ensuite le MLP. Chaque token
+26:00
+est traité individuellement. Son vecteur
+26:03
+élargi puis recompressé pour en sortir
+26:07
+plus affiné. 3. Les probabilités de
+26:10
+sortie. Le vecteur final est projeté sur
+26:14
+5257
+26:15
+dimensions. En appliquant le soft max,
+26:18
+on obtient des probabilités et ensuite
+26:21
+au moyen de la température du top P et
+26:23
+du top K, on obtient le prochain token.
+26:27
+Et le prochain token rejoint la phrase
+26:30
+on recommence depuis le début. C'est
+26:32
+pour ça qu'on parle de génération
+26:34
+autorégressive.
+26:36
+Chaque mot généré devient le contexte du
+26:39
+suivant. Si tu veux voir ça en
+26:40
+interactif, jouer avec les tokens, les
+26:43
+scores d'attention, la température en
+26:45
+temps réel, il y a un outil open source
+26:48
+qui s'appelle Transformer Explainer. Tu
+26:51
+tapes ta phrase et tu vois chaque étape
+26:54
+se dérouler visuellement. Je te mets le
+26:56
+lien en description. Quelle étape t'a
+26:58
+semblé la plus contratuitive ? La query
+27:02
+key value, le masque causal ? Dis-le-moi
+27:04
+en commentaire. Ça m'aide à savoir quoi
+27:07
+approfondir dans une vidéo dédiée. Si
+27:10
+cette vidéo t'a aidé, un like, ça compte
+27:13
+vraiment pour le référencement et
+27:14
+abonne-toi à Projet IA. À très vite.
+
+Tout
+
+Source : Projets IA
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+12:53
+95% of you are doing keto wrong. Here's how to do it right
+Dr. Boz [Annette Bosworth, MD]
+789 k vues
+•
+il y a 9 mois
+
+
+8:09
+Comment fonctionne l'intelligence artificielle en termes simples
+BELABBACI Mohammed
+8 vues
+•
+il y a 3 jours
+Nouveau
+
+
+17:04
+La fin des bugs informatique est une très mauvaise nouvelle
+IA et Stratégie | Le SamourAI
+8,2 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+17:51
+J'ai créé un Robot de Trading Rentable en 5 Minutes avec Claude (Sans Coder)
+Leo Trading-Algo
+19 vues
+•
+il y a 24 minutes
+Nouveau
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+5,2 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+3,9 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+14:04
+Attention Décortiquée : Ce Qui Se Passe Vraiment dans Q × K × V
+Projets IA
+1,4 k vues
+•
+il y a 1 mois
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+485 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+16:31
+Fine-Tuning : LoRA, QLoRA, Full FT — Quand Utiliser Quoi ?
+Projets IA
+698 vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+18 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+16:44
+Hugging Face : Comment une Lib Python a Démocratisé l'IA
+Projets IA
+635 vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+12 k vues
+•
+il y a 7 jours
+
+18:42
+Douleur à l’épaule : Voici comment s’en débarrasser pour de bon !
+Le Musclay
+48 k vues
+•
+il y a 1 an
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+170 k vues
+•
+il y a 2 semaines
+
+1:39:47
+Créateur de l’IA : Plus que 2 ans avant le changement ! Ces emplois disparaîtront !
+The Diary Of A CEO
+2,2 M de vues
+•
+il y a 7 mois
+Doublée
+
+2:17:39
+#168 Tengo - Strongman : des hommes à part
+Biomécanique
+119 k vues
+•
+il y a 3 ans
+
+    

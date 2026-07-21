@@ -1,0 +1,1426 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Pourquoi l'IA tourne sur des GPU et pas des CPU
+Doublée automatiquement
+Projets IA
+Projets IA
+3,08 k abonnés
+
+S’abonner
+
+2,2 k
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+36 641 vues  11 juil. 2026  #CUDA #DeepLearning #IA
+Sur ton ordinateur, il y a déjà un processeur ultra-puissant : le CPU. Et pourtant, pour faire de l'IA, il est presque inutile. On branche à côté une carte conçue, au départ, pour les jeux vidéo. Pourquoi ? Et pourquoi NVIDIA, le fabricant de ces cartes, vaut désormais plus de 3 000 milliards de dollars ?
+
+Dans cette vidéo, on décortique en profondeur pourquoi toute l'IA moderne tourne sur des GPU et pas des CPU. Sans maths, sans bagage technique. On va voir l'architecture matérielle, les Tensor Cores, la bande passante mémoire, et le vrai moat de NVIDIA — qui n'est pas du tout celui qu'on croit.
+
+🔗 Ressources : "GPU Puzzles" de Sasha Rush (open source) · blog technique NVIDIA (architecture Hopper / H100).
+
+🔔 Abonne-toi à Projets IA pour les prochaines vidéos sur la VRAM, la quantization et l'inférence des LLM.
+
+Tu pensais que le GPU gagnait juste parce qu'il calcule plus vite ? Dis-moi en commentaire la partie qui t'a le plus surpris.
+
+#GPU #NVIDIA #IA #IntelligenceArtificielle #CUDA #TensorCores #DeepLearning #MachineLearning #Hardware #LLM #VulgarisationIA #ProjetsIA
+
+---
+
+🔗 SOURCES
+
+NVIDIA — documentation architecture Hopper (H100) : Tensor Cores 4ᵉ génération, ~80 Go HBM3, bande passante mémoire  3 To/s, performance Tensor 1 000 TFLOPs (selon précision).
+NVIDIA — historique CUDA (lancement 2007) et écosystème (cuDNN, cuBLAS).
+Krizhevsky, Sutskever, Hinton (2012) — AlexNet entraîné sur 2× GTX 580 : bascule GPU pour le deep learning.
+Littérature inférence LLM : caractère memory-bound de la phase de génération (decode) vs compute-bound de la phase de prefill ; rôle de la bande passante mémoire.
+Sasha Rush — "GPU Puzzles" (ressource pédagogique open source sur la programmation parallèle GPU).
+Projets IA analyse les différences architecturales entre CPU et GPU pour expliquer leur rôle crucial dans l'IA. Cette exploration technique décortique le fonctionnement des cœurs de calcul, le concept de parallélisme et les défis liés au transfert de données en mémoire vive, révélant pourquoi les processeurs graphiques dominent désormais le secteur de l'intelligence artificielle.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+3,08 k abonnés
+Vidéos
+À propos
+203 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@sebch73
+il y a 8 jours
+Belle découverte de cette chaîne grâce à cette vidéo ! De la vulgarisation technique de sujets pas si simples, vraiment bien faite. C'est aussi un plaisir de voir que c'est un humain qui parle à visage découvert, et non une IA comme dans beaucoup trop de contenus aujourd'hui. En tout cas, félicitations !
+
+Petite note : la lumière en arrière-plan attire un peu trop l'œil.
+
+42
+
+
+
+Répondre
+
+
+1 réponse
+
+@JosephMichon-on9gh
+il y a 2 jours
+Youtube trouve tout son sens quand je tombe sur ce type de vidéo. Qualitatif et sobre en même temps : une merveille ! ❤
+
+4
+
+
+
+Répondre
+
+
+@bmlgym383
+il y a 5 jours
+Bravo pour cette vidéo 
+Je bosse en IA depuis 7 ans et j aimerai que plus de personnes comprennent ça 
+
+10
+
+
+
+Répondre
+
+
+1 réponse
+
+@jean-philippemougins1748
+il y a 8 jours
+Une des meilleures explications  sur le sujet que j'ai pu voir.  Merci!
+
+18
+
+
+
+Répondre
+
+
+@lionelcharles259
+il y a 6 jours
+Excellente vulgarisation ! Bravo !
+
+8
+
+
+
+Répondre
+
+
+@gauthiersornet6051
+il y a 7 jours
+Superbe vidéo, très clair et bien vulgarisé ! Un point à nuancer quand même : dire qu'un cœur = 1 calcul en même temps n'est pas la formulation la plus juste, même en restant simple. Ce qui définit un cœur, c'est qu'il peut mener une tâche de bout en bout tout seul, avec ses propres décisions — comme le chirurgien de ton analogie juste après ! Le GPU, lui, a des milliers d'unités qui exécutent toutes la même opération imposée en même temps, sans autonomie de décision propre. D'ailleurs le CPU a lui aussi du Single Instruction Multiple Data (AVX/AVX-512) mais sur une largeur bien plus étroite (quelques éléments à la fois vs des dizaines de milliers sur GPU) la vraie différence CPU/GPU tient donc autant à l'autonomie de contrôle par cœur qu'au parallélisme pur et une bande passante mémoire bien plus élevée (largeur du BUS).
+Sinon la partie memory-bound est top, rarement expliquée aussi clairement, et le point sur CUDA comme vrai mote de Nvidia est juste aussi. Merci.
+
+4
+
+
+
+Répondre
+
+
+@SV-sq1pi
+il y a 3 jours
+Bravo très belle vulgarisation et pourtant c'est 1 exercice très difficile. 
+Félicitations
+
+4
+
+
+
+Répondre
+
+
+@sergeh.3640
+il y a 4 jours
+ce qui m'a le + surpris dans la video ? le rôle central de Kuda.
+
+2
+
+
+Répondre
+
+
+@odavomalites3681
+il y a 6 jours (modifié)
+Intéressant... Je parle avec ChatGPT depuis 3 semaines et lui-même me disait qu'il fonctionne avec des GPU et non des CPU, ce qui me semblait curieux. Mais grâce à toi je sais maintenant pourquoi. Merci... 
+Il m'a dit aussi qu'il a un volume VRAM très important... 
+Il m'a dit aussi qu'il a fallu des milliard de dollars pour le créer... 
+Merci pour le partage de cette belle explication. Je m'abonne... 
+
+3
+
+
+Répondre
+
+
+@ThierryMalsa
+il y a 3 jours
+Bravo pour le thème qui n’est pas souvent abordé dans les sujet sur l’IA. Le goulot d’étranglement m’interpelle car il représente un paradoxe. Il est possible d’attribuer son origine à la largueur de la bande passante et donc considérer cette limite comme étant technologique. 
+Mais Il est aussi possible d’attribuer son origine à la vitesse et au protocole de calcul des cœurs. Dans cette hypothèse, c’est l’avancée technologique qui crée la limite. 
+Dans tous les cas, c’est toujours très enivrant de constater que plus on tend à rapprocher les natures fondamentales (ici le binaire) des systèmes entre eux et plus les propriétés du nombre, de la masse augmentent.
+
+1
+
+
+Répondre
+
+
+@angledor
+il y a 4 jours
+Le contenu est très très bon.
+
+On voit que ton plan et ton texte  a été fait par IA. Ça ne me pause pas de problème mais en revanche, lire les titres, le plan est trop scolaire pour YouTube.
+
+Une simple question rhétorique de transition suffirait : "Mais alors pourquoi .... ?"
+
+Autre amélioration : la prononciation des termes techniques en anglais.
+
+Next step des images explicative de qualité généré par IA ce serait top.
+
+Merci pour la chaîne, c'est super.
+
+2
+
+
+
+Répondre
+
+
+@tjeanneret
+il y a 2 jours
+Excellente explication, images pertinentes, joli travail. Pas de blabla, du concret, j'adore l'exemple des patates ! Un point négatif de mon point de vue, les césures d'image (ces petits sauts peut-être dûs au montage).
+
+2
+
+
+Répondre
+
+
+@romantwai9674
+il y a 5 jours (modifié)
+Une precision, le GPU trouve son origine dans les supercomputer vectoriels, comme ceux de Cray. 
+Le développement des cartes GPU pour le jeu semble etre apparu a cause de l’enveloppe thermique du processeur. A la base le GPU est un coprocesseur spécialisé déchargeant le CPU sur des opérations specifique (on parlait de coprocesseur graphique, tel qu’il y en a encore dans certain x86). 
+Problème, le CPU, surtout x86 a une puissance de calcul proportionnelle a sa consommation, donc sa production de chaleur. Et le coprocesseur GPU a le meme problème. Le chauffage de l’un limite l’usage de l’autre...
+Les constructeurs ont trouvé l’astuce de mettre les unités GPU sur une carte séparée, ayant sa propre alimentation, son propre système de refroidissement, et donc son propre TDP, qui ne concurrence pas celui du CPU. Partant de la on a vu les CPU monter en fréquence, puis surtout le nombre de cores, et pareil pour les GPU.
+
+Sauf que... les données sont dans des mémoires différentes. La RAM qui est utilisée et contrôlée par le CPU et la VRAM qui est sous contrôle de la carte GPU, et les deux sont distinctes. Si on a 32go de RAM CPU et 8go de VRAM GPU, le GPU ne pourra utiliser que des données qui occopent au plus 8Go, sans pouvoir utiliser la RAM... pour du caclcul d’image, rendu graphique, ca va, mais pour des modèles LLM de centaines de milliards de ”paramètres” ca le fait pas. Et pire il faut transférer les données préparées par le CPU en RAM, vers la VRAM du GPU... par le port de connexion de la carte GPU. Donc goulot d'étranglement ! 
+
+ Donc soit on fait des GPU avec 128go de VRAM, soit... on revient en arrière en mettant le GPU comme coprocesseur dans le CPU, les 2 utilisant la meme memoire. C'est le pari d'Apple avec ces Silicon ARM (ultra efficaces au niveau énergétique en comparaison des x86 meme modernes), ou AMD avec ses APU, et tout dernièrement ce que vient de sortir Nvidia...
+
+Sauf que... on va revenir au meme probleme qui a vu l’apparition des cartes GPU, si on persiste a vouloir perdre du temps, de l’argent, de l’energie et de la connaissance avec les LLM... deja des grosse boîtes comme Google développent des ASICs pour réduire la conso des GPU classiques.
+
+7
+
+
+Répondre
+
+
+3 réponses
+
+@clovisbamba
+il y a 11 heures
+Franchement, écouter une femme parler de science aujourd’hui est une véritable bénédiction. ️️️ Je comprends désormais beaucoup de choses que je ne comprenais pas auparavant. Bravo !
+
+
+
+
+Répondre
+
+
+@puppaseb
+il y a 3 jours
+Belle découverte de la chaine et super vidéo :)
+Pour faire simple, le GPU c’est l’énorme équipe de commis, de corvée de patates, le CPU ce sont les quelques chefs étoilés qui transforment ces patates en un délicieux gratin dauphinois, la RAM c’est le gigantesque plan de travail où sont disposés les aliments et les ustensiles, le SSD ce sont les placards et le frigo où sont stockées les marchandises, et le chipset c’est le maître d’hôtel qui dirige le flux des instructions et des ingrédients entre tous les groupes.
+
+1
+
+
+Répondre
+
+
+@doctordisco2604
+il y a 6 jours
+Excellente vidéo ! Si c'est possible d'ajouter un peu plus de schématisation, ça serait génial 
+Ps : je sais que c'est du travail, bon courage ;)
+
+4
+
+
+Répondre
+
+
+@elom6136
+il y a 23 heures
+Je connaissais les exigences en taille mémoire ainsi que le fonctionnement parallèle des GPU, mais je ne savais pas que le transfert de données était un problème central.
+
+
+
+Répondre
+
+
+@JoelMBAOYONE
+il y a 6 jours
+Merci infiniment. C'est 2000 fois plus clair pour moi, et ça m'a clairement donné envie d'en savoir plus et de me documenter sur les technos autour de l"IA
+
+1
+
+
+
+Répondre
+
+
+@thebalvay
+il y a 2 jours
+Je découvre cette chaine et bravo pour ces explications claires et précises. Excellente vulgarisation d'un sujet difficile. J'ai découvert que l'IA est du calcul matriciel!
+
+
+
+
+Répondre
+
+
+@atorossian75
+il y a 3 jours (modifié)
+Très bonne explication !
+Il serait peut-être intéressant d'ajouter quelques exemples concrets de modèles d'IA, en précisant leur taille (notamment leur consommation de VRAM), ainsi que d'expliquer le rôle de la mémoire de conversation, c'est-à-dire la manière dont les données sont gérées pour assurer la continuité des échanges selon différents cas d'utilisation.
+Bravo et merci pour la qualité de ces explications, elles sont à la fois claires, pédagogiques et très instructives.
+
+
+
+
+Répondre
+
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est une carte graphique, une H1 de
+0:03
+Nvidia, un bout de silicium conçu au
+0:06
+départ pour faire tourner des jeux
+0:08
+vidéos. Et c'est ce truc, exactement ce
+0:10
+truc qui fait tourner Jajipt, Gémini,
+0:14
+Claude et toutes les autres que tu
+0:16
+utilises. Mais voilà une chose à savoir
+0:18
+sur ton ordinateur, il y a déjà un
+0:20
+processeur ultra puissant, le CPU, des
+0:23
+dizaines de milliards de dollars de RED
+0:25
+et des décennies d'optimisation. Et
+0:27
+pourtant pour faire de l'IA, il est
+0:29
+presque inutile. On le contourne, on
+0:32
+branche une carte de gamer à côté.
+0:34
+Pourquoi le processeur le plus
+0:36
+sophistiqué du monde se fait écraser par
+0:38
+une carte de jeux vidéo sur la tâche la
+0:40
+plus importante de la décennie ? Et il y
+0:43
+a un deuxième paradoxe encore plus
+0:45
+contreintuitif. Quand Chat GPT te
+0:47
+répond, le truc qui coûte cher, ce n'est
+0:49
+pas le calcul. Petit retour en arrière.
+0:52
+À la fin des années 90, le GPU est
+0:54
+utilisé pour une seule chose : calculer
+0:57
+des millions de pixels en même temps
+0:59
+pour pouvoir afficher des jeux en 3D.
+1:01
+Pendant des années, c'est resté un truc
+1:03
+de gamer. Et puis en 2009, des
+1:06
+chercheurs remarquent un détail. Les
+1:07
+mathématiques utilisées qui font bouger
+1:10
+les pixels d'un jeu sont les mêmes
+1:12
+mathématiques qui permettent de faire
+1:13
+tourner un réseau de neurones. Des
+1:15
+multiplications massivement en
+1:17
+parallèle. En 2012, un réseau entraîné
+1:20
+sur deux cartes de gaming explose tous
+1:23
+les records de reconnaissance d'imag et
+1:25
+là tout bascule. 10 ans plus tard,
+1:28
+Nvidia, le fabricant de ces cartes,
+1:30
+devient l'une des entreprises les plus
+1:32
+chères de la planète, plus de 3000
+1:34
+milliards de dollars. Pour cette vidéo,
+1:37
+je me suis plongée dans l'architecture
+1:39
+matérielle, pas juste les analogies de
+1:41
+surface, mais ce qui se passe
+1:43
+physiquement sur la puce. Et je sais que
+1:46
+dès qu'on parle de hardware, ça peut
+1:48
+faire peur. Promis, pas besoin d'être
+1:49
+ingénieur, pas besoin de math, juste la
+1:52
+mécanique expliquer clairement. On va
+1:54
+voir trois choses. 1. Pourquoi un CPU et
+1:56
+un GPU sont fondamentalement différents
+1:59
+? De pourquoi Lia par sa nature même
+2:02
+est-elle faite pour des GPU ? Et tr le
+2:04
+plus surprenant, le vrai goulot
+2:06
+d'étranglement de Lia qui n'est pas là
+2:08
+où tu le crois. Et pourquoi Nvidia est
+2:11
+quasi impossible à détronner ? C'est
+2:13
+parti. Avant d'attaquer, deux mots à
+2:15
+poser. On va les utiliser tout au long
+2:17
+de la vidéo. Premier mot, un cœur dans
+2:19
+une puce. Un cœur, c'est une petite
+2:22
+unité de calcul autonome. Une mini
+2:24
+machine capable de faire un calcul toute
+2:27
+seule. Quand on dit qu'un processeur a h
+2:29
+cœurs, ça veut dire qu'il peut faire h
+2:31
+calculs vraiment en même temps. Un cœur,
+2:33
+c'est un travailleur. Plus tu as de cœur
+2:36
+et plus tu as de travailleurs qui
+2:37
+peuvent travailler en même temps.
+2:39
+Deuxième mot, et c'est le cœur de la
+2:40
+vidéo, le parallélisme. Faire du
+2:43
+parallélisme, c'est découper un gros
+2:44
+travail en plein de petits morceaux
+2:46
+indépendants et les traiter tous en même
+2:48
+temps au lieu de les faire les uns après
+2:50
+les autres. Si tu dois éplucher 1000
+2:52
+patates, tu peux le faire seul pendant
+2:54
+des heures. C'est du séquentiel. où tu
+2:57
+peux embaucher 1000 personnes qui en
+2:59
+épluchent chacune une. D'un coup, c'est
+3:01
+du parallèle. Retiens ça. Toute la
+3:03
+différence entre un CPU et un GPU tient
+3:06
+à ce mot. Maintenant, on est armé, on
+3:09
+entre dans le vif. Partie 1. CPU versus
+3:12
+GPU, latence versus débit. Première
+3:15
+partie, la question de base. Pourquoi
+3:17
+deux puces faites du même silicium,
+3:20
+gravées dans les mêmes usines sont-elles
+3:23
+aussi différentes ? La réponse tient en
+3:25
+deux mots opposés, la latence et
+3:28
+[musique] le débit. Le CPU est obsédé
+3:30
+par la latence, le GPU est obsédé par le
+3:33
+débit et tout découle de là. Sous étape
+3:36
+1, le CPU, quelques gros cœurs ultra
+3:39
+rapides. Commençons par le CPU, le
+3:41
+processeur classique. Celui de son
+3:43
+laptop a peut-être 8 ou 16 cœurs, c'est
+3:46
+tout. Mais chacun de ces cœurs est un
+3:48
+monstre de sophistication. La latence
+3:51
+d'abord, c'est le temps que met une
+3:53
+opération à se faire du début à la fin.
+3:57
+Le CPU est conçu pour que cette durée
+3:59
+soit la plus courte possible. Un cœur de
+4:01
+CPU, c'est un génie polyvalent. Il peut
+4:04
+deviner ce que tu vas lui demander avant
+4:07
+que tu ne lui demandes. Réorganiser
+4:09
+l'ordre des calculs pour aller plus
+4:10
+vite. Garder en mémoire ultra rapide les
+4:12
+données dont il aura besoin. Il est
+4:14
+optimisé pour faire une chose compliquée
+4:17
+le plus vite possible et enchaîner.
+4:19
+Voici l'analogie. Le CPU, c'est une
+4:21
+équipe de quelques chirurgiens d'élite.
+4:23
+[musique]
+4:24
+Tu ne veux pas 1000 personnes autour de
+4:26
+la table d'opération. Tu veux quelques
+4:28
+experts ultra rapide qui gèrent une
+4:30
+procédure complexe étape par étape sans
+4:33
+se tromper. C'est parfait pour faire
+4:35
+tourner ton système d'exploitation,
+4:37
+ouvrir un navigateur, lancer un tableur.
+4:40
+Des tâches variées, séquentielles,
+4:42
+imprévisible. Sous étape 2, le GPU, des
+4:45
+milliers de petits cœurs. Maintenant, le
+4:48
+GPU une H1 de Nvidia, ce n'est pas 8
+4:51
+cœurs, c'est plus de 16000 petits cœurs.
+4:54
+16000. Sauf que chacun de ses cœurs pris
+4:57
+tout seul est nul comparé au cœur d'un
+5:00
+CPU. Il est lent, basique, il ne sait
+5:03
+pas anticiper, il ne sait pas
+5:04
+réorganiser. C'est un travailleur pête
+5:07
+et discipliné, mais il y en a 16000. Et
+5:10
+c'est là qu'intervient le débit,
+5:12
+c'est-à-dire la quantité totale de
+5:14
+travail abattue en une seconde, peu
+5:17
+importe le temps que prend chaque tâche
+5:19
+individuelle. Le GPU se fiche
+5:21
+complètement que chaque opération soit
+5:23
+lente. Ce qui compte, c'est qu'il en
+5:26
+fasse des dizaines de milliers en même
+5:27
+temps. L'analogie, c'est l'usine. Pas
+5:29
+une équipe de chirurgiens, mais une
+5:31
+chaîne de montage avec des milliers
+5:33
+d'ouvriers qui font tous le même geste
+5:36
+simple. En même temps, si un ouvrier
+5:38
+visse un boulon, c'est relativement
+5:41
+lent. Mais 16000 ouvriers qui vissent
+5:44
+16000 boulons en même temps, là le débit
+5:47
+est monstrueux. sous étape 3, le piège,
+5:50
+ils font tous la même chose. Mais
+5:52
+attention, il y a une condition et c'est
+5:55
+elle qui change tout. Les milliers de
+5:57
+cœurs de GPU ne peuvent pas faire chacun
+5:59
+ce qu'ils veulent. Ils sont contraints
+6:01
+de faire tous la même opération en même
+6:04
+temps, juste sur des données
+6:06
+différentes. On appelle ça le SD, single
+6:10
+instruction, multiple data. Une seule
+6:13
+instruction, plein de données. C'est
+6:15
+comme un prof de gym qui crie tous levez
+6:17
+le bras droit. Tout le monde fait le
+6:19
+même geste en même temps. Personne ne
+6:21
+fait sa propre chorégraphie. C'est ça le
+6:23
+compromis. Le CPU est flexible mais peu
+6:26
+nombreux. Le GPU est rigide mais
+6:29
+massivement nombreux. Donne au GPU une
+6:32
+tâche pleine de si alors si alors si
+6:36
+avec des décisions différentes à chaque
+6:38
+étape et il s'écroulent. Ces milliers de
+6:40
+cœurs se marchent dessus. mais donne-lui
+6:42
+une tâche où il faut refaire la même
+6:45
+opération sur des millions de données
+6:47
+indépendantes et là il pulvérise le CPU.
+6:51
+Donc la vraie question devient est-ce
+6:53
+que l'intelligence artificielle ça
+6:55
+ressemble à une tâche pleine de décision
+6:57
+imprévisible, le terrain d'un CPU ou à
+7:00
+la même opération répétée des millions
+7:03
+de fois le terrain d'un GPU ? C'est
+7:05
+exactement ce qu'on va voir dans la
+7:07
+partie 2. Partie 2. Pourquoi l'IA est
+7:09
+littéralement faite pour le GPU ? On va
+7:12
+ouvrir le capot d'un réseau de neurones
+7:14
+et regardz ce qu'il fait au niveau du
+7:16
+calcul et on va découvrir quelque chose
+7:18
+de presque trop beau pour être vrai. Un
+7:20
+réseau de neurones, c'est
+7:21
+essentiellement une seule opération
+7:23
+répété à une échelle gigantesque. Et
+7:26
+cette opération est l'exemple parfait du
+7:28
+travail en parallèle. sous étape une, un
+7:31
+réseau de neurones égal des
+7:33
+multiplications de matrices. On t'a
+7:35
+peut-être montré des réseaux de neurones
+7:38
+comme des petits ronds reliés par des
+7:39
+fils. C'est joli, mais au niveau du
+7:41
+calcul, ce n'est pas ça du tout. Au
+7:43
+niveau du calcul, un réseau de neurones,
+7:46
+c'est une succession de multiplication
+7:48
+de matrices. Une matrice, c'est-à-dire
+7:51
+un simple tableau de nombres en ligne et
+7:54
+en colonne [musique] comme une grille
+7:55
+Excel. Tes données entrent sous forme de
+7:58
+tableau de nombre. Les connaissances du
+7:59
+modèle, ce qu'on appelle les poids, sont
+8:02
+stockées dans d'autres tableaux de
+8:04
+nombres. Et faire passer tes données à
+8:05
+travers une couche du réseau, ça revient
+8:08
+à multiplier ces deux tableaux ensemble.
+8:10
+une multiplication de matrices,
+8:12
+c'est-à-dire prendre deux tableaux de
+8:14
+nombres et en produire un/3 où chaque
+8:17
+case du résultat se calcule en combinant
+8:19
+une ligne du premier tableau avec une
+8:21
+colonne du second tableau. Chat GPT
+8:24
+quand il génère un mot fait des milliers
+8:26
+de ses multiplications sur des tableaux
+8:28
+qui contiennent des milliards de
+8:30
+nombres. C'est 90 % de ce qu'il fait.
+8:32
+Sous étape 2, pourquoi une
+8:34
+multiplication de matrices est
+8:36
+parfaitement parallélisable ? Voilà le
+8:38
+truc simple. Quand tu multiplies deux
+8:40
+matrices, chaque case du résultat se
+8:43
+calcule indépendamment de toutes les
+8:45
+autres. La case en haut à gauche n'a
+8:47
+aucunement besoin de connaître la case à
+8:49
+côté pour être calculée. Elle ne parle
+8:52
+pas, elle ne s'attendent pas. Et comment
+8:54
+on calcule une seule case ? Avec un
+8:56
+produit scalaire, c'est-à-dire qu'on
+8:58
+prend une ligne de nombre et une colonne
+9:00
+de nombr, on multiplie les nombres deux
+9:02
+par deux et on additionne tout. Une
+9:04
+multiplication, une addition, encore une
+9:07
+multiplication, une addition. Une
+9:09
+opération bête et simple, le rêve pour
+9:12
+un cœur de GPU. Tu vois où je veux en
+9:14
+venir. Tu as une grille de résultats
+9:15
+avec disons 1 million de cases. Chaque
+9:18
+case est un petit produit scalaire
+9:20
+indépendant. Sur un CPU avec ses 16
+9:22
+cœurs, tu calcules 16 cases à la fois.
+9:25
+Tu fais la queue sur un GPU. Tu balances
+9:27
+1 million de petits calculs identiques
+9:29
+sur tes 16000 cœurs en parallèle. C'est
+9:32
+exactement mot pour mot le sd de la
+9:35
+partie une. La même opération sur des
+9:38
+données différentes en même temps. Li
+9:40
+n'est pas juste compatible avec le GPU,
+9:42
+elle a la forme parfaite pour lui. Sous
+9:45
+étape 3, les Tuner Cors du matériel
+9:48
+dédié à cette seule opération. Nvidia a
+9:51
+poussé la logique encore plus loin.
+9:53
+Silia, c'est à 90 % de la multiplication
+9:57
+de matrice. Pourquoi ne pas graver dans
+9:59
+le silicium une unité uniquement pour ça
+10:02
+? C'est exactement ce qu'ils ont fait à
+10:04
+partir de 2017. Ça s'appelle les tensur
+10:08
+cors. Un tenseur, c'est-à-dire une
+10:11
+généralisation de la matrice. Une
+10:13
+matrice, c'est un tableau en deux
+10:15
+dimensions. Un tenseur peut en avoir 3,
+10:17
+4, 5 ou plus. comme un tableau Excel à
+10:21
+plusieurs étages. Un tuner core, c'est
+10:23
+un circuit qui ne sait faire qu'une
+10:25
+seule chose mais qui l'a fait à une
+10:27
+vitesse hallucinante. Prendre un petit
+10:29
+bloc de matrice, le multiplier et
+10:32
+accumuler le résultat en un seul cycle.
+10:34
+Et là, on parle en flop, c'est-à-dire le
+10:37
+nombre d'opérations sur des nombres à
+10:39
+virgule en secondes, la mesure de base
+10:42
+de la puissance de calcul. Flop ça veut
+10:44
+dire floating point operation, une
+10:47
+opération sur un nombre à virgule. Une H
+10:50
+100 grâce à cette tuner ces dépasse les
+10:53
+1000 Tflop sur les calculs d'IA. 1000
+10:57
+terrafop 1000 milliards de milliards.
+11:00
+Non, c'est presque 1 million de
+11:02
+milliards d'opérations par seconde. Ton
+11:05
+CPU sur le même type de calcul plafonne
+11:08
+des centaines de fois en dessous. Donc
+11:10
+le GPU calcule à une vitesse fulgurante
+11:14
+à faire classer. Le GPU gagne parce
+11:16
+qu'il calcule plus vite ? Et bien non.
+11:18
+Et c'est là que ça devient vraiment
+11:20
+intéressant parce que quand chat GPT te
+11:22
+répond mot après mot, le calcul n'est
+11:25
+presque jamais le problème. Tous ces
+11:27
+teners cors, la plupart du temps, ils
+11:29
+attendent, ils glandent. Pourquoi ?
+11:32
+C'est tout le sujet de la partie 3.
+11:34
+Partie 3, le vrai goulot d'étranglement
+11:36
+et le mote caché. On va voir que la
+11:39
+vitesse de calcul n'est pas toujours ce
+11:41
+qui limite l'IA. Souvent le vrai
+11:44
+obstacle se trouve ailleurs. C'est la
+11:46
+vitesse à laquelle on arrive à nourrir
+11:48
+la puce en donné. Sous étape une,
+11:51
+compute bound versus memory bound. Deux
+11:54
+mots à opposer. Une tâche est compute
+11:57
+bound, c'est-à-dire limitée par le
+11:59
+calcul. Quand la puce est à fond, ses
+12:02
+cœurs tournent à plein régime et c'est
+12:04
+la puissance brute qui décide de la
+12:06
+vitesse. Une tâche et memory pound,
+12:10
+c'est-à-dire limité par la mémoire,
+12:12
+quand les cœurs pourraient aller plus
+12:14
+vite mais qu'ils passent leur temps à
+12:16
+attendre que les données arrivent
+12:18
+jusqu'à eux. Le calcul n'est pas le
+12:20
+goulot. Le transport des données si. Et
+12:23
+voici le truc que peu de gens réalisent.
+12:25
+Quand chat GPT génère du texte mot par
+12:28
+mot pour toi tout seul, il est
+12:30
+massivement memory bound. Sous étape 2,
+12:33
+pourquoi l'inférence LLM est limitée par
+12:36
+la mémoire et pas par le calcul ? Voici
+12:38
+pourquoi pour générer ne serait-ce qu'un
+12:41
+seul mot, le modèle doit faire passer
+12:43
+tes données par tous ses poids. Tous. Un
+12:47
+modèle à 70 milliards de paramètres,
+12:49
+c'est 70 milliards de nombres qu'il faut
+12:52
+lire depuis la mémoire de la carte et
+12:54
+amener jusqu'au cœur de calcul pour un
+12:57
+mot. Et le calcul lui-même sur ces
+13:00
+nombres est minuscule et instantané pour
+13:03
+tous les tenser cors. Quelques produits
+13:05
+scalaires, on l'a vu. Le problème c'est
+13:08
+le voyage. Lire 70 milliards de nombres,
+13:12
+puis les jeter, puis les relire
+13:14
+entièrement pour le mot suivant puis
+13:16
+encore pour le mot d'après. Les cœurs
+13:18
+sont prêts en une fraction de
+13:20
+microsecondes, mais ils poirotent
+13:22
+pendant que les poids font la route
+13:24
+depuis la mémoire. D'où le chiffre roi
+13:26
+du hardware IA, la bande passante
+13:29
+mémoire, c'est-à-dire la quantité de
+13:31
+données qu'on peut transférer entre la
+13:33
+mémoire et les cœurs par seconde.
+13:36
+[musique] C'est la largeur du tuyau. Une
+13:38
+H100 atteint plus de 3 TCT par seconde,
+13:42
+3000 milliards d'octés chaque seconde.
+13:45
+Ça paraît énorme et pourtant c'est
+13:47
+souvent ça et pas les flops qui
+13:49
+plafonent la vitesse à laquelle chat GPT
+13:51
+te répond. La course entre fabricant de
+13:54
+puce aujourd'hui, c'est autant une
+13:56
+course à la bande passante qu'à la
+13:58
+puissance de calcul. Sous étape 3, la
+14:01
+vrame, pourquoi elle décide quel modèle
+14:03
+tu peux faire tourner ? Il y a une
+14:05
+deuxième conséquence à cette histoire de
+14:07
+mémoire. Pour que le modèle tourne, tous
+14:09
+tes poids doivent tenir physiquement
+14:11
+dans la mémoire de la carte. La fameuse
+14:13
+VRAM, la mémoire embarquée du GPU. Une
+14:17
+H100 à 80 Go de VAM. Ça paraît beaucoup
+14:22
+mais regarde un modèle stock chaque
+14:24
+poids disons sur 2 oct. Un modèle de 7
+14:27
+milliards de paramè pèse donc 14 Go oct.
+14:32
+Ça rentre large sur une seule carte. Un
+14:34
+modèle de 70 milliards de paramètres
+14:38
+pèse 140 Goct. Ça ne rentre pas sur une
+14:41
+H1 qui a 80 Go il te faut deux cartes et
+14:46
+les faire travailler ensemble et un gros
+14:48
+modèle de 400 milliards de paramètres,
+14:50
+il te faut h cartes connectées rien que
+14:54
+pour le charger. C'est ça la vraie
+14:55
+raison physique pour laquelle des labos
+14:57
+s'arrachent des GPU par dizaines de
+15:00
+milliers. Et pourquoi la quantité de
+15:02
+VRAM disponible décide littéralement de
+15:06
+la taille des modèles que l'humanité
+15:07
+peut faire tourner ? C'est aussi pour ça
+15:10
+que la quantisation, le fait de
+15:12
+compresser chaque poids sur moins d'octé
+15:14
+est devenue si importante. Moins d'octé
+15:17
+par poids, c'est un modèle qui rentre
+15:19
+sur moins de cartes. Sous étape 4, CUDA,
+15:23
+le vrai Mote de Nvidia. Et maintenant,
+15:26
+la vraie surprise. Pourquoi Nvidia vaut
+15:28
+plus de 3000 milliards alors que
+15:30
+d'autres fabricants savent eux aussi
+15:33
+graver des puces puissantes ? Ce n'est
+15:34
+pas tant le matériel, c'est le logiciel.
+15:38
+NVIDIA a lancé en 2007 une plateforme
+15:40
+qui s'appelle CUDA. C'est la couche
+15:43
+logiciel qui permet aux développeurs de
+15:45
+programmer le GPU pour autre chose que
+15:48
+des jeux pour de la science, du calcul
+15:50
+ou de l'IA. Pendant que les concurrents
+15:52
+dormaient, Nvidia a passé près de 20 ans
+15:55
+à construire CUDA et tout l'écosystème
+15:58
+autour. des milliers de bibliothèques,
+16:00
+d'outils et de tutoriels. Résultat,
+16:03
+aujourd'hui, quasiment tout le code DIIA
+16:06
+de la planète Py Torch Torflow est écrit
+16:10
+et optimisé pour CUDA, donc pour Nvidia.
+16:15
+Un concurrent peut sortir une puce aussi
+16:17
+rapide demain, mais s'il n'a pas
+16:19
+l'équivalent de 20 ans de logiciel,
+16:21
+d'optimisation et d'habitude de
+16:24
+développeur, personne ne peut l'utiliser
+16:26
+facilement. C'est ça le vrai fossé, le
+16:29
+vrai mot, pas le silicium mais le
+16:31
+verrouillage logiciel. Le hardware se
+16:34
+copie mais 20 ans d'écosystème, beaucoup
+16:38
+moins. Et voilà comment une carte de
+16:40
+jeux vidéo, une opération mathématique
+16:42
+toute bête et une plateforme logicielle
+16:44
+se sont combiné pour faire naître l'une
+16:46
+des entreprises la plus chère du monde.
+16:48
+Récapitulons trois idées. 1. Le CPU mise
+16:52
+sur la latence. Quelques gros cœurs
+16:55
+ultra rapides pour des tâches variées.
+16:57
+Le GPU mise sur le débit, des milliers
+17:00
+de petits cœurs qui font tous la même
+17:02
+opération en même temps. De l'IA, au
+17:05
+fond, c'est de la multiplication de
+17:07
+matrices, des millions de petits calculs
+17:10
+indépendants. C'est la forme parfaite
+17:12
+pour le parallélisme du GPU. et les
+17:15
+tensor cors sont du matériel
+17:17
+expressément gravé pour ça. 3. Le vrai
+17:20
+goulot en inférence n'est pas le calcul
+17:24
+mais le transport des poids depuis la
+17:26
+mémoire. C'est memory bound. La vram
+17:29
+décide quel modèle tu peux charger. Et
+17:32
+le vrai mot de Nvidia, ce n'est pas la
+17:34
+puce, c'est CUDA. Au fond, le GPU n'a
+17:38
+pas gagné parce qu'il est plus
+17:40
+intelligent que le CPU. Il a gagné parce
+17:42
+que Lia, c'est la même opération bête
+17:45
+répétée un million de fois. Et ça, c'est
+17:48
+exactement le seul truc qu'un GPU sait
+17:51
+faire mieux que tout. Si tu veux
+17:52
+creuser, va voir l'outil GPU Puzzles de
+17:56
+Sacha Rush en open source. Tu programmes
+17:59
+des petits calculs parallèles toi-même
+18:01
+et tu sens physiquement la différence
+18:03
+avec du code séquentiel. Et regarde
+18:06
+aussi le blog technique de Nvidia sur
+18:08
+l'architecture Hopper. Et maintenant,
+18:11
+une question pour toi. Quelle partie t'a
+18:13
+le plus surpris ? Que l'IA soit juste de
+18:15
+la multiplication de matrices ou alors
+18:17
+que le vrai goulot ne soit pas le calcul
+18:20
+mais la mémoire ? Dis-le-moi en
+18:21
+commentaire. Ça m'aide à savoir quoi
+18:23
+approfondir pour une prochaine vidéo qui
+18:25
+pourrait être dédiée sur la vram ou
+18:28
+alors sur CUDA peut-être. Et si cette
+18:30
+vidéo t'a fait comprendre quelque chose,
+18:32
+lâche un like. Ça compte vraiment pour
+18:34
+le référencement et ça va permettre à
+18:36
+d'autres curieux de tomber dessus. et
+18:38
+abonne-toi à Projetia
+
+Tout
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+3,9 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+17:51
+J'ai créé un Robot de Trading Rentable en 5 Minutes avec Claude (Sans Coder)
+Leo Trading-Algo
+19 vues
+•
+il y a 24 minutes
+Nouveau
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+5,2 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+17:04
+La fin des bugs informatique est une très mauvaise nouvelle
+IA et Stratégie | Le SamourAI
+8,2 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+27:18
+Comment ChatGPT Génère VRAIMENT un Mot (architecture complète) 🤖
+Projets IA
+1 k vues
+•
+il y a 2 mois
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+485 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+1:52:27
+L’Expert du Glucose : La seule méthode prouvée pour maigrir vite. Compter les calories, c’est BS !
+The Diary Of A CEO
+6,8 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+1:39:47
+Créateur de l’IA : Plus que 2 ans avant le changement ! Ces emplois disparaîtront !
+The Diary Of A CEO
+2,2 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+18 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1,1 M de vues
+•
+il y a 3 mois
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+170 k vues
+•
+il y a 2 semaines
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+314 k vues
+•
+il y a 2 mois
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,6 M de vues
+•
+il y a 1 mois
+Doublée
+
+10:21
+Une bonne alimentation est plus difficile qu'un bon entraînement !
+Le Musclay
+89 k vues
+•
+il y a 3 ans
+
+12:23
+À 31 ans, il meurt de sa passion pour le bodybuilding !
+Le Musclay
+67 k vues
+•
+il y a 9 mois
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+    

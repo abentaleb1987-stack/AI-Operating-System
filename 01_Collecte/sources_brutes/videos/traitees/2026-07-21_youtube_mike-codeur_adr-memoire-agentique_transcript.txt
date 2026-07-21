@@ -1,0 +1,628 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Ton agent IA oublie tout : la solution des devs : les ADR
+Mike Codeur
+Mike Codeur
+81,8 k abonnés
+
+
+61
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+20 juil. 2026
+🎁 Kit ADR + Context Notes — La mémoire de tes agents IA
+https://mkc.sh/the-agentic-dev?lead=a...
+
+FullStack AI Boilerplate 
+https://ship-saas.now/
+
+🖼️ YouThumb.ai — Génère des miniatures YouTube virales avec l'IA
+https://youthumb.ai?utm_source=youtube
+
+---
+
+Ton agent IA repart de zéro à chaque session : il te re-propose une approche que
+tu as déjà testée et jetée. La solution vient du dev — les ADR (Architecture
+Decision Records). Dans cette vidéo, je t'explique comment capturer tes décisions
+et ton contexte pour que tes agents arrêtent d'être amnésiques.
+
+Dans cette vidéo :
+00:00 – Intro : ton agent IA est amnésique
+01:05 – Rappel : le cerveau Obsidian + Graphify
+02:15 – Le cycle d'un projet (PRD, user stories, archi…)
+03:40 – Le vrai problème : le code ne dit jamais les décisions
+05:10 – Pourquoi ça devient critique avec un agent
+06:35 – Un ADR, c'est quoi ? (Architecture Decision Record)
+08:00 – ADR = Any Decision Record (on démystifie)
+09:20 – Le champ qui change tout : les options écartées
+10:45 – PRD vs ADR + où ça vit (Décisions / Contexte)
+12:05 – Démo : l'agent évite une décision déjà rejetée
+13:25 – Pour aller plus loin : la boucle ADR → User Stories
+14:20 – Récap + le kit à télécharger
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+Mike Codeur explore comment le formalisme ADR permet de structurer les décisions et le contexte technique au sein des projets assistés par IA. En documentant les choix passés et les options écartées, cette pratique évite la perte d'informations lors de la réinitialisation des sessions et assure une continuité cohérente tout au long du cycle de développement.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+81,8 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+9 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@nicolassauer392
+il y a 13 heures
+Super contenu. Étant autodidacte se sont exactement les difficultés auquel je suis confronté actuellement.
+Un grand merci
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@thorsketil
+il y a 21 heures (modifié)
+c'est super intéréssant, tu pourrais refaire une vidéo sur ton workflow pour travailler avec claude code / codex en ce moment ? comment tu pars d'un problème, pour avoir la spec, puis l'implémentation ? avec tes outils, skills, server mcp, tools etc ?
+
+1
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@abdellahb1398
+il y a 3 heures
+Moi je mets tout dans le AGENTS.md. et à chaque modif je lui dit de mettre à jour le AGENTS.md. Mais oui l'ADR c'est l'entête qui ne bouge jamais, avec les contraintes.
+
+
+
+Répondre
+
+
+@johan_519
+il y a 21 heures
+Je peux voir l'intérêt des ADRs comme doc "hors contexte". A long terme, la liste des ADRs peut devenir longue et contenir des décisions contradictoires, et l'agent doit reconstruire la vérité en "rejouant" les ADRs dans l'ordre (ce qui n'est pas garanti, et donc sujet à erreurs d'interprétation). Je préfère donc aussi lui demander de maintenir un md plus court avec les besoins actuels, qui lui est dans le contexte. Le "Pourquoi?" n'a pas d'intérêt pour l'agent: il doit juste savoir qu'on a décidé d'utiliser Junit 5 , ce qui tient en 2 mots.
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@maxlamenace7084
+il y a 20 heures
+Salut vidéo simpa , justement je réfléchir a la gestion de projet avec l'IA.
+J'utilise un vault Obsidian comment toi je suppose en IPCRA avec claude code pour le moment . 
+En ce moment , y tellement de chose a faire , c'est dingue !
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Intro : ton agent IA est amnésique
+0:000 secondeAlors, tu connais probablement ce qu'est un PRD Product Requirement document. Et bien aujourd'hui, je vais te présenter un document vraiment sous côté, c'est
+0:088 secondesles ADR historiquement qui voulaient dire architecture decision record qu'on a plutôt renommé any decision record depuis l'arrivée des agents il a puisque
+0:1717 secondeson recorde comme ça euh pas uniquement les décisions d'architecture mais un petit peu plus que ça. C'est-à-dire en gros toutes tes décisions euh qui
+0:2525 secondesconcernent un petit peu sur quoi tu travailles et cetera. Je t'avais déjà fait cette vidéo là, tu vas retrouver sur euh graphify, hein, je t'invite à aller la voir pour recomendre un petit
+0:3333 secondespeu le contexte. Et dedans, en gros, l'idée c'était de se dire que dans euh un vol comme Obsibian ou autre et bien
+0:4141 secondestout est stocké sous forme de MarkD. Euh en priorité bien évidemment, c'est tout ton contenu, c'est-à-dire tout ce que tu génères comme contenu. Alors si c'est
+0:4848 secondescréateur de contenu, ça peut être tes vidéos, tes posts et cetera ou si tu as un autre business, en gros, tu tu le cœur, c'est le cerveau en gros euh de ton application, de ton de ton business.
+0:5858 secondesEt deux choses aussi également hyper importantes à stocker, c'est les décisions et le contexte. Et pour cela
+Chapitre 2 : Rappel : le cerveau Obsidian + Graphify
+1:051 minute et 5 secondeset bien il y a un formalisme qui est assez connu qui s'appelle le ADR, Madr et cetera. Je vais t'expliquer tout ça dans cette vidéo. C'est assez simple,
+1:141 minute et 14 secondesassez rapide, mais c'est vraiment sous côté et c'est vraiment puissant à mettre en place. Et donc, je vais te présenter tout ça. Alors, comme je te disais,
+1:211 minute et 21 secondesl'idée c'est que tu connais probablement le cycle d'un projet. On a souvent, on parle d'un PRD, produit require
+1:281 minute et 28 secondesdocument. En gros, c'est le besoin, c'est les spécifications, c'est le quoi, pourquoi les users et cetera. souvent derrière et bien ça va être découpé euh
+1:371 minute et 37 secondesça va être découpé en user euh story euh en tranche livrables et cetera. Ensuite et bien l'architecture, c'est-à-dire le
+1:451 minute et 45 secondescomment, la stack et cetera machin et enfin ça va partir sur l'exécution.
+1:491 minute et 49 secondesC'est plus ou moins euh ce que font les grandes méthodes classiques BMAD, SPCIT, SDD et cetera. Et du coup l'idée c'est
+1:581 minute et 58 secondesde se dire que ça c'est le cycle d'un projet un petit peu normal. C'est un petit peu pour ceux qui connaissent euh le cycle de projet, le cycle en V par
+2:072 minutes et 7 secondesexemple, tu sais, c'est un cycle qui est assez figé, c'estàdire on part euh d'une documentation, d'un besoin et puis on déroule jusqu'à la la livraison. Ça
+Chapitre 3 : Le cycle d'un projet (PRD, user stories, archi…)
+2:152 minutes et 15 secondesc'est la théorie. Dans la pratique, c'est jamais figé puisque et bien dans la pratique, tout évolue en permanence.
+2:212 minutes et 21 secondesIl y a des décisions qui sont prises et cetera. D'ailleurs, c'est pour ça que si on prend un peu l'analogie avec la gestion de projet, euh c'est pour ça
+2:292 minutes et 29 secondesqu'après bah sont arrivé des méthodologies comme agile, scrum et cetera. Pourquoi ? Parce que le changement et bien il faut bien pouvoir
+2:362 minutes et 36 secondesle gérer. Et bien pour gérer ça et bien justement ça c'est le le le cycle classique et bien je disais le besoin
+2:432 minutes et 43 secondesest écrit mais les décisions en fait presque jamais. dans ce cycle classique d'un projet là euh d'un projet géré avec des agents I et bien finalement on gère
+2:522 minutes et 52 secondespas le cycle de changement. Donc pour ça et bien il y a ce qu'on appelle la la gestion des décisions. Et en fait ce
+2:592 minutes et 59 secondespetit schéma va te représenter un petit peu le code versus les décisions.
+3:033 minutes et 3 secondesPourquoi ? Parce que à l'heure actuelle, tu as souvent le code qui fait partie qui fait foi en fait euh un petit peu sur ce qui a été décidé, ce qui a été
+3:123 minutes et 12 secondesfait et cetera, notamment l'architecture et cetera. Mais quand tu regardes, ça représente en gros que la partie visible
+3:193 minutes et 19 secondesde l'iceberg. Et en fait en dessous ce qu'il y a, il y a beaucoup de décisions euh qui sont plus ou moins invisibles.
+3:243 minutes et 24 secondesEt moi, je l'ai déjà vécu puisque j'ai déjà travaillé sur des projets euh en âge antique développement avec d'autres développeurs et parfois effectivement on
+3:333 minutes et 33 secondesvoit ici le code existant, mais on peut perdre parfois toutes les décisions.
+3:383 minutes et 38 secondesAlors, il y a il y a des décisions qui ont été fait qui ont été décidées un petit peu de manière invisible.
+Chapitre 4 : Le vrai problème : le code ne dit jamais les décisions
+3:423 minutes et 42 secondesPeut-être qu'on en a parlé, peut-être ça a été fait un petit peu comme ça, ça a été dit de vive voix ou via un cô et cetera. Et le problème c'est qu'après
+3:503 minutes et 50 secondesbien on peut perdre ces décisions. On peut perdre toutes ces décisions.
+3:533 minutes et 53 secondesC'estàdire pourquoi ce choix ? Pourquoi on a rejeté ces choses-là ? Euh il devait y avoir probablement des contraintes, des choses qu'on a essayé
+4:024 minutes et 2 secondeset puis après en fait au fur et à mesure du projet on peut oublier certaines décisions. Ça veut dire qu'au début, on se dit "Ben c'est bon, tout le monde sait qu'on va pas utiliser telle
+4:104 minutes et 10 secondeslibrairie par exemple et puis on va se mettre à développer. Et puis dans 2 3 4 5 6 mois et bien on peut repartir à utiliser une mauvaise librairie ou une
+4:184 minutes et 18 secondesmauvaise euh un mauvais choix technique alors qu'on l'avait rejeté à l'avance.
+4:224 minutes et 22 secondesEt bien justement euh grâce à ADR, on va pouvoir résoudre un petit peu euh tout ça. L'idée c'est que le code et bien ça
+4:314 minutes et 31 secondesdocumente le présent mais ça documente pas les décisions. Autre problématique aussi c'est redémarrage à zéro à chaque
+4:404 minutes et 40 secondesfois à chaque session. C'est-à-dire qu'à chaque fois euh que tu redémarres une session et bien ton agent oublie toutes
+4:474 minutes et 47 secondesles décisions. Ça veut dire que en gros si tu travaillais dans une session infinie et on sait que ça existe pas puisqu'on a une fenêtre de contexte et
+4:554 minutes et 55 secondescetera, et bien éventuellement les toutes ces décisions là, elles pourraient être gardées dans la fenêtre de contexte et puis voilà, c'est bon, on
+5:045 minutes et 4 secondesse souvient de tout, tu discutes avec ton agent et puis il y a pas de problème. La réalité c'est que sur un projet et bien tu vas pas utiliser tout le temps la même session. Tu vas
+Chapitre 5 : Pourquoi ça devient critique avec un agent
+5:125 minutes et 12 secondesredémarrer des sessions, tu vas réinitialiser des nouvelles sessions.
+5:155 minutes et 15 secondesParfois tu vas peut-être peut-être même changer d'agent, tu vas peut-être passer de cloud à Codex à peu importe le modèle. Et l'idée c'est que tu
+5:245 minutes et 24 secondesredémarres en fait à chaque fois à zéro à chaque session parce que tu oublies le pourquoi du comment de chaque décision et à chaque fois bah tu peux te dire eh
+5:325 minutes et 32 secondestiens bah si on utilisait euh cette approche là alors qu'en fait et bien ça a déjà été écarté la nouvelle session elle a tout oublié et cetera et donc
+5:405 minutes et 40 secondeselle va proposer une approche qui elle a déjà été décidée donc sans décision écrite et bien le nouvel agent repropose
+5:505 minutes et 50 secondesdes options qui ont déjà été écartées Et puis toi derrière en tant que développeur, tu vas continuer à dire "Mais non en fait ne fais pas comme ça, on avait déjà dit de faire comme si
+5:585 minutes et 58 secondesfaire comme ça et cetera." Donc c'est important de tracer correctement justement toutes ces décisions. Alors
+6:056 minutes et 5 secondespour clarifier un petit pieu, vu que souvent dans ma communauté, vous êtes quand même souvent assez à l'aise avec un PRD. Le PRD comme je disais c'est le
+6:146 minutes et 14 secondesle quoi, le besoin produit, les users, le scope et cetera. Donc ça vit pendant la phase de build. tu as un PRD et à
+6:226 minutes et 22 secondespartir de ce PRD, bien généralement c'est parti, on y va au code. L'ADR ici, il va venir complémentaire, il va dire
+6:306 minutes et 30 secondesle pourquoi en gros pourquoi, comment on a tranché les choses, les options qu'on a écarté euh permanent, requêtable et
+Chapitre 6 : Un ADR, c'est quoi ? (Architecture Decision Record)
+6:386 minutes et 38 secondescetera. C'est-à-dire que c'est tout le temps disponible et à chaque fois que tu vas relancer une session et bien en fait euh si ton agent est bien configuré, il va être capable d'aller checker les ADR
+6:466 minutes et 46 secondeset ne pas reproposer des choses qui ont été écartées. Donc le code dit ce qui est l'ADR dit pourquoi ce code il est
+6:546 minutes et 54 secondescomme ça ? Pourquoi il y a telle architecture ? Pourquoi euh finalement on a écarté telle piste et cetera. Du coup, ce qui nous donne euh une
+7:027 minutes et 2 secondesstructure d'ADR euh comme ça, on a donc tu as une structure par exemple, ça peut être titre plus contexte, euh titre plus statut, contexte, décision, option
+7:107 minutes et 10 secondesécarté, conséquences et cetera. Je peux te montrer euh quelques quelques exemples ici euh d'ADR par exemple ici
+7:187 minutes et 18 secondestu as tu as ce guitub là, le MADR qui veut dire Markon any decision record. Et par exemple, tu te montres un exemple de short version
+7:277 minutes et 27 secondesici en MarkD et bien on va utiliser J Unit 5 pour les tests avancés. Et bien donc on donne on redonne tout le temps
+7:347 minutes et 34 secondesle contexte et le problème en gros euh comment écrire des tests et cetera et cetera pour les tests avancés, les options qui ont été considérées et en
+7:437 minutes et 43 secondesgros le Woodcom en gros la décision qui a été faite. Et bien la décision on va pas revenir en arrière, on va utiliser J Unit 5 et cetera et cetera. Ce qui veut dire que si tu redémarres avec un nouvel
+7:527 minutes et 52 secondesagent, nouveau projet et qu'on doit mettre en place des tests, et bien automatiquement, il va se dire "OK, toutes les autres framework de test sont
+Chapitre 7 : ADR = Any Decision Record (on démystifie)
+8:008 minuteséliminés, on utilise un tê, ça a déjà été tranché et on revient plus dessus." Si tu veux une version un petit peu plus longue, tu peux utiliser avec un MarkD
+8:098 minutes et 9 secondesqui peut spécifier un par un an la navigation et là tu peux donner un petit peu plus de contexte, tu peux donner les
+8:168 minutes et 16 secondesconséquences, tu peux donner de la confirmation, éventuellement des liens vers de la doc et cetera et cetera. Donc si tu veux aller un petit peu plus loin
+8:248 minutes et 24 secondessur les formats ADR et cetera, madr, tu as ces doc là. Bien sûr, je te remets tout dans la description. Comme d'habitude, quand tu vas rejoindre ma
+8:338 minutes et 33 secondesnewsletter de agentic dev et bien sûr, je te donnerai le kit ADR avec des skills pour mettre en place ça facilement. Donc euh dans tes projets.
+8:428 minutes et 42 secondesDonc tu as ce site là MADR, tu en as plein ici, je te le mettrai aussi dans la description où tu as des plein
+8:488 minutes et 48 secondesd'exemples en fait de template hein. Tu vois, tu as des exemples de contenu, tu as des exemples de de template parce que ça peut bouger à chaque fois. Donc pour
+8:578 minutes et 57 secondesun projet euh pour peu importe, allez on va regarder MADR projet par exemple, tu vas arriver ici, tu vois que il te propose un certain type de template du
+9:069 minutes et 6 secondestype euh contexte et problèmes, décisions, option et cetera et cetera.
+9:119 minutes et 11 secondesEnsuite, on va avancer un petit peu plus. Et qu'est-ce que je vais te donner ? Oui, ADR historiquement ça voulait dire architecture decision record et ça
+Chapitre 8 : Le champ qui change tout : les options écartées
+9:209 minutes et 20 secondesa été transformé en any decision record et ça a été relativement popularisé. Enf ça fait longtemps que ça existe he les ADR mais
+9:299 minutes et 29 secondesavec les agents IA et bien c'est quelque chose qui est vraiment de plus en plus utilisé et si tu l'utilises pas et bien je t'invite à le mettre en place avec le
+9:379 minutes et 37 secondesskills que tu pourras trouver ici dans la description. Alors concrètement les ADR, tu peux les avoir à plusieurs
+9:449 minutes et 44 secondesniveaux. Comme je te disais ici, moi les ADR, donc les décisions, je les ai au niveau contexte général business chez
+9:539 minutes et 53 secondesmycoder.com, on va dire tout ce qui génère mon activité et cetera. Donc c'est dans mon volt obsidian. Mais bien évidemment, ça se fait comme je le
+10:0210 minutes et 2 secondesdisais ici, ça se fait, on peut le voir ici au niveau au niveau projet, au niveau d'un cycle projet, ce qui fait que tu peux le retrouver finalement à
+10:1110 minutes et 11 secondesl'intérieur de ton projet. Moi, par exemple, ici, si tu regardes que ça soit mon SAS euh ici, Utumb ou euh par exemple, allez, on va regarder mon, tu
+10:1910 minutes et 19 secondesvois, par exemple, si je prends ici mon mon baller plate euh chipsas qui est une stack euh prête pour euh que les agents
+10:2710 minutes et 27 secondespuissent déployer justement des choses rapidement, et bien en utilisant cette stack et bien euh toutes les questions en fait liées à la à la à la stack,
+10:3510 minutes et 35 secondesc'estàdire quelle technologie, comment c'est fait, l'administration, le paiement Stripe et cetera que tu peux retrouver ici sur tu prends prend ici
+10:4210 minutes et 42 secondesmon boller plate l'authentification c'est déjà tranché stripe suscription c'est déjà tranché l'administration panel c'est déjà trancher et cetera et
+Chapitre 9 : PRD vs ADR + où ça vit (Décisions / Contexte)
+10:5110 minutes et 51 secondescetera la génération c'est complément à l'architecture. Et si tu regardes tout ce qu'on a dans ce baller plate, ça soit l'authentification, le stripe, le
+11:0011 minutesmultitenant, la clean architecture, le workflow ingest, l'admin space, les CICD, DBORM,
+11:0711 minutes et 7 secondesles emails et cetera et cetera. Toutes ces décisions en fait ont déjà été tranchées dans des ADR. Et par exemple,
+11:1511 minutes et 15 secondesen fait, si tu reprends un projet euh si tu reprends un projet par exemple euh de bout en bout, et bien tu vas être dans
+11:2211 minutes et 22 secondesune phase euh si on reprend un petit peu, on va reprendre un petit peu notre phase du début, notre petit schéma qui était plutôt pas mal. Si tu es dans une
+11:2911 minutes et 29 secondesphase de PRD, user story, archi et cetera, et ben par exemple l'archie euh dans la phase archi, ben l'archie, elle
+11:3611 minutes et 36 secondesest déjà prête avec le baller plate et ensuite bah tu as plus qu'appliquer les stories à ce baller plate directement.
+11:4311 minutes et 43 secondesEt cette phase en fait est déjà est euh est déjà tranchée directement. Donc ce qu'il faut retenir c'est que c'est au niveau tu peux avoir à différents
+11:5111 minutes et 51 secondesniveaux des ADR ça veut dire au niveau général de ton activité de ce que tu fais même au niveau personnel he ça peut être j'ai décidé que j'allais appliquer
+12:0012 minutestel protocole de gym quatre fois par semaine et telle nourriture et cetera c'est vraiment à tous les niveaux mais ça s'applique aussi bien évidemment très
+Chapitre 10 : Démo : l'agent évite une décision déjà rejetée
+12:0712 minutes et 7 secondesbien au niveau projet c'est ce que je fais quand j'utilise par exle quand je développe mon SAS icium à chaque fois
+12:1512 minutes et 15 secondestoutes les décisions sur comment on change que ça soit soit technique, que ça soit en terme de user story et
+12:2112 minutes et 21 secondescetera, un ADR permet de bouger assez rapidement. Pourquoi je t'avais mis ce petit lien là ? Pourquoi ? Parce que et
+12:2812 minutes et 28 secondesbien même chez Google Cloud, ils ont aussi un système d'ADR. Je veux dire, c'est quelque chose d'assez répandu et c'est vrai que c'est assez puissant et
+12:3512 minutes et 35 secondesc'est assez sous-côé. Et donc et bien j'avais envie de te partager ça. Allez, dernier point euh là-dessus sur les ADR,
+12:4312 minutes et 43 secondesc'est que en fait comme je te disais et bien souvent tu pars d'un PRD, donc produit requirement document. Donc ce qui est le besoin. Généralement ce
+12:5212 minutes et 52 secondesbesoin, il est découpé en user story, c'estàdire en gros toutes les fatures de ton application, de ce que tu es en train de faire. Et en cours de projet et bien tu as des ADR qui tombent.
+13:0213 minutes et 2 secondesC'est-à-dire, tu as des décisions qui font que bah voilà, finalement on va changer cette fonctionnalité, finalement on va retirer telle chose, finalement on
+13:1013 minutes et 10 secondesva décider d'utiliser telle librairie, on va positionner comme ça et cetera.
+13:1413 minutes et 14 secondesBref, laadr c'est pas en gros faut pas se dire que tu as ton cycle projet qui est PRD, user story et puis après c'est
+13:2213 minutes et 22 secondesfini hein. C'està-dire qu'il faut pas être dans la vision classique de dev comme ça, genre PRD, user story, archi code et puis après des ADR derrière non
+Chapitre 11 : Pour aller plus loin : la boucle ADR → User Stories
+13:3013 minutes et 30 secondes? et puis qui s'empile, faut vraiment avoir cette vision de book littératif un peu comme de des des processes. Ça veut
+13:3713 minutes et 37 secondesdire que tu as le PRD, les user story, les ADR et à partir de ces ADR et bien tu vas pouvoir demander à tes à tes
+13:4413 minutes et 44 secondesagents en fait de reshape, de regénérer les stories. Et puis si derrière en fait tu as un workflow, un bon pipeline et
+13:5113 minutes et 51 secondesque tes stories elles sont redécoupées, elles sont retestées, re deep searcher, on va dire excuse-moi pour le terme en anglais, moi j'ai un workflow comme ça
+14:0014 minutesqui fait recherche plan et cetera. Bien, ils vont redéfinir les user story, on va les replanifier, on va les reexécuter, on va refaire des revues, on va les
+14:0914 minutes et 9 secondesrelivrer et cetera. C'est un workfow classique. Donc voilà un petit peu pour le ADR. C'est un petit peu euh c'est un petit peu c'est c'est pas quelque chose
+14:1714 minutes et 17 secondesde très sexy mais c'est très puissant, très facile à mettre en place. Perd le pourquoi le quoi adhère le pourquoi et
+Chapitre 12 : Récap + le kit à télécharger
+14:2514 minutes et 25 secondesenfin si tu mets le tout dans graphify comme moi par exemple je le fais et bien tu as vraiment un cerveau requêtable. Et euh si tu es pas allé voir le la vidéo
+14:3414 minutes et 34 secondessur Graphify, je te la remettrai ici à droite puisque c'est une vidéo qui euh pour comprendre c'est un petit peu la suite cette vidéo est un petit peu la
+14:4214 minutes et 42 secondessuite euh de celle-ci. Donc voilà, c'est tout pour cette vidéo. N'hésite pas à aller rejoindre tout ça puisque je t'ai
+14:4914 minutes et 49 secondescréé un skills qui va permettre de euh justement tu vas installer ce skills et puis le le le format ADR, il va déjà être là. Il va tu vas récupérer le contexte. j'explique un petit peu
+14:5814 minutes et 58 secondescomment les utiliser et cetera dans tes choses. Donc c'est tout ça, c'est dans la description. N'hésite pas à me dire si tu utilises déjà un système ou un
+15:0615 minutes et 6 secondessystème équivalent. Moi je suis toujours intéressé de d'avoir votre retour par rapport à ça. Je sais que c'est un tout ce qui est développement agentique et cetera, il y a on marche sur des œufs,
+15:1415 minutes et 14 secondesil y a plein de il y a plein de manières de faire et je suis toujours intéressé par les nouvelles manières. Donc si toi tu utilises un petit peu tout ça, ta manière de gérer les changements d'une
+15:2215 minutes et 22 secondesmanière différente, et bien n'hésite pas à me le dire en description. N'hésite pas bien sûr à aller récupérer tout ça, t'abonner à la chaîne comme d'habitude
+15:3115 minutes et 31 secondeset puis si tu veux aller plus loin aller voir la vidéo sur Graphify, et bien je te la remets ici.
+15:4915 minutes et 49 secondes[musique]
+
+Tout
+
+Source : Mike Codeur
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+5,2 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+17:51
+J'ai créé un Robot de Trading Rentable en 5 Minutes avec Claude (Sans Coder)
+Leo Trading-Algo
+19 vues
+•
+il y a 25 minutes
+Nouveau
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+3,9 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+17:04
+La fin des bugs informatique est une très mauvaise nouvelle
+IA et Stratégie | Le SamourAI
+8,2 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+15:44
+J'ai branché tous mes Agents IA sur le même Obsidian (Graphify)
+Mike Codeur
+6,6 k vues
+•
+il y a 7 jours
+
+
+17:45
+Comment FORCER une IA à produire du JSON valide à 100% (pas 95%)
+Projets IA
+9,8 k vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+
+7:14
+Tu prends mal tes compléments alimentaires
+Le Musclay
+84 k vues
+•
+il y a 1 an
+
+
+1:39:47
+Créateur de l’IA : Plus que 2 ans avant le changement ! Ces emplois disparaîtront !
+The Diary Of A CEO
+2,2 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+18 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+170 k vues
+•
+il y a 2 semaines
+
+
+13:17
+Les compléments alimentaires seraient inefficaces et dangereux !
+Le Musclay
+69 k vues
+•
+il y a 1 an
+
+
+11:58
+Ce que Hermes Agent peut vraiment changer pour un solopreneur
+David Schkiwisk - Kavyro
+325 vues
+•
+il y a 23 heures
+Nouveau
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+485 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+
+24:04
+Toutes mes courses pour avoir des Abdos !!
+Tibo InShape
+1,4 M de vues
+•
+il y a 1 an
+
+
+10:21
+Une bonne alimentation est plus difficile qu'un bon entraînement !
+Le Musclay
+89 k vues
+•
+il y a 3 ans
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+314 k vues
+•
+il y a 2 mois
+
+    

@@ -1,0 +1,1383 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Gemma 4 Expliqué | Prompts Efficaces et Cas d'Usage Professionnels. LE GUIDE COMPLET EN 10 EXEMPLES!
+Barthélémy Nobili
+Barthélémy Nobili
+147 k abonnés
+
+Rejoindre
+
+
+482
+
+
+Partager
+
+Posez une question
+
+14 640 vues  5 avr. 2026
+https://deepmind.google/models/gemma/...
+LE GUIDE GRATUIT : https://docs.google.com/presentation/...
+
+Aujourd’hui, je vous présente GEMMA 4, le tout nouveau modèle d’intelligence artificielle développé par Google 🤖
+
+Dans cette vidéo, je vous explique pourquoi cette IA open source pourrait bien révolutionner le monde de l’IA accessible à tous. Puissance, rapidité, efficacité… Google propose ici une alternative sérieuse aux modèles propriétaires.
+
+👉 Au programme :
+
+Ce qu’est réellement GEMMA 4
+Ses performances face aux autres IA
+Pourquoi le open source change tout
+Comment vous pouvez l’utiliser dès maintenant
+
+Que vous soyez créateur de contenu, développeur ou simplement curieux, cette vidéo va vous ouvrir les yeux sur l’avenir de l’intelligence artificielle 🚀
+
+SOMMAIRE :
+00:00 INTRO
+01:26 ACCÈS
+02:14 PRINCIPE
+04:55 1.RÉDACTION
+06:51 2.ANALYSE
+ PHOTO
+08:42 3.EXPLICATION
+ SUJETS
+10:32 4.PLANIFICATION
+ DE VOYAGE
+14:24 5.RÉSEAUX 
+SOCIAUX
+18:53 6.TRADUCTION
+21:29 7.CV
+24:10 8.PROGRAMME 
+SPORTIF
+25:52 9.LANCEMENT
+ PRODUIT
+31:47 10.ORGANISATION
+ ÉVÈNEMENT
+34:47 CONCLUSION
+
+
+👉 LE GUIDE SUNO VISUEL INTERACTIF DISPONIBLE 👈
+https://barthelemynobili.formator.io/...
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+👉 PROMEAI : https://www.promeai.pro/?vsource=yout...
+  20 crédits gratuits avec le code : BARTHE, 10 % de réduction avec le code BARTHE10  
+👉 FLEX CLIP : https://www.flexclip.com/fr/editor/
+30% Code de réduction exclusif (valable pour tous les plans) : BN30 👈
+👉 CG DREAM : https://bit.ly/3CPxtJT 👈
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+👉  EDIMAKOR : https://goo.su/jEG3UD
+► Utilisez coupon pour profiter de 30% réductions instantanées : VE30OFFBD
+
+
+
+Abonnez-vous pour plus de contenus de valeur !!!
+ 
+Barthélémy.
+Barthélémy Nobili présente les capacités du modèle open source Gemma 4 de Google, de son installation locale aux méthodes pour optimiser les requêtes. À travers dix cas d'usage concrets, ce guide pratique illustre comment utiliser cet outil puissant pour la rédaction, l'analyse d'images, la planification de projets et la création de contenu professionnel.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+147 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+true
+57:20
+Ces nouvelles fonctions agentiques de Google AI Studio vont tout changer !
+de Barthélémy Nobili
+38 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@alainsavarese1917
+il y a 3 mois
+Sympa, àa partir de la photo du bateau, il peut donner l'âge du capitaine !
+
+2
+
+
+Répondre
+
+
+@jean-christophelaborie2739
+il y a 3 mois
+Bonjour.  Merci pour le guide et pour votre pédagogie. Vos vidéos sont toujours excellentes.
+
+
+
+Répondre
+
+
+@saveursdelareunion
+il y a 3 mois
+Bonjour Barthélémy, merci pour cette nouvelle pépite ! 
+Toujours aussi impressionnant de te voir partager tes découvertes en IA avec autant de clarté et de pédagogie. Hâte de découvrir la suite !
+
+2
+
+
+Répondre
+
+
+@zakariasaci4313
+il y a 1 mois
+Bravo
+
+
+
+Répondre
+
+
+@gilbeaugerard3120
+il y a 3 mois
+Très bon (beau) guide. Merci Barthélémy. Bon courage !
+
+2
+
+
+Répondre
+
+·
+
+1 réponse
+
+@game-sy4nb
+il y a 3 mois
+merci
+
+1
+
+
+Répondre
+
+
+@gabyBroadcast
+il y a 3 mois
+
+
+
+Répondre
+
+
+@ahmedklinton5324
+il y a 3 mois
+je valide depuis le Gabon merci
+
+2
+
+
+Répondre
+
+·
+
+1 réponse
+
+@louisciffer3268
+il y a 3 mois
+
+1
+
+
+
+Répondre
+
+
+@TAURUS-f9c
+il y a 3 mois
+MERCI BARTHELEMY excellent !
+
+2
+
+
+Répondre
+
+
+@AliaSGens
+il y a 1 mois
+Merci beaucoup je me demande justement les effets des injections sur l'humain imposés aux vaches avec la d.n..c inoffensive pour l'homme. Le lait reste-t-il propre à la consommation sans effet secondaire sur l'humain suite à  ces injections.
+
+
+
+Répondre
+
+
+@Compote-de-Pommes
+il y a 3 mois
+Hello. Merci pour ta vidéo. Je profite de l'occasion pour rappeler qu'attribuer un rôle à l'IA n'a aucun intérêt. Ce qui compte c'est le contexte. La nuance est importante. Vraiment.
+
+2
+
+
+Répondre
+
+
+1 réponse
+
+@microfacile3221
+il y a 3 mois
+merci c' est reel plaisir mais je suis sur claude et je travail plus sur des logiciel et application web je vais essayer celui ci et merci pour ton super guide
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@intermedgroup3062
+il y a 3 mois
+Superbe vidéo. J'ai une préoccupation,Gemma peut-il créer un agent ia pro pour éditer des devis et factures et même la comptabilité pour une PME comme le ferait Claude code avec comme stack : N8N+supabase+google sheet...
+
+3
+
+
+Répondre
+
+·
+
+5 réponses
+
+@NaikaiWZ
+il y a 3 mois
+Il serait ptet intéressant de dire que les versions auto-hébergées (via OLLAMA par exemple) n'ont pas accès à internet, (de même que si vous êtes en mode OFFLINE) et que donc les cas d'usages sont assez restreint. Enfin on va pas aller planifier un voyage avec une IA qui n'a pas accès à internet, par exemple...
+
+
+
+Répondre
+
+
+@fh452
+il y a 3 mois
+J'ai posé 8 questions et le modèle Gemma-4-e4B, ne peut plus répondre. Ou plutôt il répond mais ne finit plus ses phrases. Je m'en sers sur LM Studio en local sur un MacBook M4 Pro Max. Franchement, c'est très décevant. Est-ce que le modèle Grand à plus de tokens ? Parce que franchement si ce n'est pas le cas autant rester sur Gemini dans mon cas.
+
+
+
+Répondre
+
+
+1 réponse
+
+@brunogama8537
+il y a 3 mois (modifié)
+Tellement déçu de Google Gemini 3.1 pro. Le modèle est très mal monté (hors code que je n'ai pas testé). Entre hallucinations et impossibilité de faire respecter de simples consignes après 100 000 tokens, il a toujours ses déviances. 
+Le pire c'est qu'il mets des gardes fous et me dit "oui, oui t'iniqiète je les respecte maintenant" et 3 messages plus tard tu t'aperçois qu'il se moque de toi. 
+Je lui fais la remarque et il me dit "ah excuse-moi ça ne se reproduira plus, promis" 
+4 messages plus tard il repars de travers. 
+Gemma 4 doit avoir les mêmes problèmes. 
+Non, Google AI est vraiment surcôté hors code.
+
+1
+
+
+Répondre
+
+
+@batamackbatamack
+il y a 2 mois
+comment donner des skills à GEMMA?
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+INTRO
+0:05
+Salut à tous. Aujourd'hui, on passe en mode analyse profonde du dernier modèle
+0:11
+de Google, le modèle GMA 4. Alors Google, hein, je vous le dis souvent,
+0:16
+c'est magnifique, c'est merveilleux, mais pour s'y retrouver dans les nouveautés et bien vous avez intérêt à
+0:23
+avoir une bonne boussole. Google effectue ses annonces de manière parsemée et parfois il est très
+0:28
+difficile de s'y retrouver. J'avais d'ailleurs utilisé la métaphore du labyrinthe pour s'y retrouver euh dans
+0:35
+la galaxie Google. GMA 4, qu'est-ce que c'est ? Et bien c'est un chatbot ultra
+0:40
+développé type chat GPT cloud mais totalement open source gratuit et
+0:46
+surpuissant. Donc pour les personnes qui n'ont pas les moyens d'investir dans chat GPT, Cloud ou autres chatbot, et
+0:53
+bien je pense que cette vidéo est parfaite pour vous. On va analyser ça,
+0:59
+décortiquer l'ensemble en 10 points cruciaux. C'est Bartelemi. Pour ceux qui
+1:04
+ne me connaissent pas, merci de cliquer sur le lien de sous description pour m'aider au développement de cette chaîne. Et nous, on se retrouve sur Jema
+1:12
+4.
+ACCÈS
+1:27
+Pour accéder à l'interface de GMA, je vous laisse le lien en description. Vous allez tomber sur cette interface. Ici,
+1:35
+on a les nouveautés du nouveau système de GMA 4 Ultra performant. Alors pour
+1:41
+l'utiliser, vous pouvez soit l'utiliser via Google et I Studio. Si vous préférez
+1:47
+en descendant ici, vous pouvez l'installer en local sur votre disque dur, ce qui ne vous coûtera rien. Donc
+1:55
+vous pouvez l'installer via Ugging Face, Olyama, Kugle, LM Studio et euh Docker.
+2:03
+Personnellement, je l'utilise via Google AI Studio. Et si vous l'installez en local, vous n'avez même pas besoin
+2:10
+d'internet apparemment pour que celui-ci fonctionne. Pour vous aider, j'ai conçu
+PRINCIPE
+2:15
+un guide complet à mon habitude que je vous fournis de manière gratuite dans la
+2:21
+description. Maintenant que vous conseillez comment accéder à ce GMA, qu'en est-il concrètement ? Et bien ici,
+2:26
+vous voyez que GMA c'est similaire à Chat GPT Cloud en version gratuit et
+2:31
+open source. Vous allez voir qu'au fur et à mesure de cette vidéo, lorsqu'on va
+2:37
+évoquer l'ensemble des possibilités de JMA, et bien vous allez être je pense agréablement surpris. Au niveau des
+2:45
+fonctionnalités et bien on peut rédiger des textes, analyser des photos, traduire jusqu'à 140 langues comme vous
+2:52
+le voyez ici, expliquer résumé, demander des recettes et conseils dans tous les domaines possibles et imaginables, aider
+2:58
+au devoir, travailler productivité, créer du contenu, rechercher analyser, trouver des idées, analyser un audio et
+3:06
+des fonctionnalités hors ligne en privé. Alors, vous allez voir que Jemaie
+3:12
+versions. Vous avez des versions light. Alors, c'est comme les tailles de vêtement SM, ML. Donc, on a la taille S
+3:19
+pour installer sur votre téléphone. On a le système M qui est le meilleur rapport
+3:25
+qualité vitesse qui est très polyvalent. Pour ma part, j'ai utilisé le modèle L qui est également gratuit, qui dispose
+3:32
+d'une capacité de raisonnement très euh large. Alors, pour l'utiliser via Google
+3:38
+et Studio, il suffit de vous rendre dans Google et Studio. Et ici, en haut à droite, dans la barre latérale, vous
+3:44
+constatez que vous pouvez choisir entre deux modèles par défaut. Pour les exemples, j'ai choisi le modèle 31BIT
+3:51
+qui est le plus puissant. Comme vous le voyez, il a été mis à jour le 2 avril 2026. Donc on est sur quelque chose de
+3:58
+très frais si vous voulez. Et ici, il s'agit simplement de poser les questions
+4:04
+comme vous le feriez dans un chatbot classique, mais néanmoins, il y a quand même quelques règles pour pouvoir
+4:10
+optimiser la qualité de vos promptes et par extension le rendu que vous en fera
+4:16
+Google. Donc la question c'est comment parler à Gema ? Et bien la première chose c'est de lui attribuer un rôle.
+4:22
+Bon, ça c'est normalement ce qu'on devrait faire lorsqu'on pose la question dans n'importe quel chatbot. Tu es
+4:28
+professeur de français, tu es expert en publication sur les réseaux sociaux, peu importe. Ensuite, dites-lui ce que vous
+4:36
+voulez précisément et surtout dites-lui, spécifiez-lui la manière dont vous voulez qu'il vous réponde. Est-ce que
+4:42
+vous voulez un texte classique, un texte sous forme de résumé, un texte sous
+4:48
+forme de bullet point ? C'est vraiment ça qui va définir la qualité de la
+4:53
+réponse à obtenir. Le premier exemple, rédiger un mail professionnel. Alors
+1.RÉDACTION
+4:59
+ici, j'ai copié collé ce promte dans Google Gemini. Tu es un assistant de rédaction professionnelle en français.
+5:05
+Je veux que tu écrives un email pour mon patron afin de demander une augmentation. Le contexte, je travaille
+5:12
+dans l'entreprise depuis 3 ans. J'ai été promu responsable d'équipe il y a 6 mois et cetera. Et ensuite au niveau de
+5:17
+l'output du ton du style que vous voulez que Google vous ressorte et bien vous
+5:24
+lui dites que vous voulez un ton professionnel mais confiant pas suppliant. Longueur, vous spécifiez la
+5:29
+longueur du texte souhaité et euh à inclure l'objet de l'email, le corps du
+5:34
+message et la formule de politesse. Autrement dit, vous voulez obtenir la rédaction d'un mail professionnel prêt à
+5:42
+être copié collé. Alors voilà donc le contexte. Donc je j'ai simplement copiercollé le prompt le guide c'est
+5:48
+pour ça vous testerez les promptes pour voir si ça vous convient. Voilà la proposition d'email rédigé pour être
+5:53
+percutante et justifié tout en restant diplomate. Donc l'objet point sur mon mon évolution et ma rémunération.
+5:59
+Bonjour. Là vous spécifiez le nom de votre patron. Je travaille au sein de l'entreprise depuis maintenant 3 ans et
+6:05
+j'ai été ravi de prendre la responsabilité de l'équipe il y a 6 mois. Ce nouveau challenge m'a permis de m'investir pleinement dans la
+6:11
+coordination de nos projets. Je suis particulièrement fier des résultats obtenus récemment. Blab bla bla bla bla
+6:18
+bla. L'accroissement de mes responsabilités et l'atteinte de ces indicateurs de performance marque une étape clé dans mon parcours. N'ayant pas
+6:25
+bénéficié de revalorisation salariale depuis mon embauche, je souhaiterais solliciter une augmentation de ma
+6:30
+rémunération pour l'aligner sur mes fonctions actuelles et ma contribution à la croissance de l'entreprise. Ensuite,
+6:36
+on retrouve les formules de politesse classique. Et ici, vous voyez que dans
+6:41
+cette optique assez classique, dans ce premier exemple, ben Jema correctement,
+6:47
+rapidement, gratuitement à ce que vous lui avez demandé. Deuxème cas de figure, l'analyse d'une photo. Ici, j'étais un
+2.ANALYSE PHOTO
+6:54
+peu sceptique. Je me suis dit bon, comment Jema fournir la recette d'un plat à partir
+7:01
+d'une photo ? Donc j'ai chopé sur internet une photo d'une soupe chinoise
+7:08
+au poulet et je lui ai demandé exactement le prompt que vous voyez devant vos yeux. Tu es chef cuisinier
+7:14
+français passionné et pédagogue. Regarde cette photo de plat et donne-moi un le nom du plat et son origine culturelle si
+7:20
+tu la connais. de la liste des ingrédients visibles avec les quantités estimées pour quatre personnes. 3 la
+7:28
+recette étape par étape avec le temps de préparation et de cuisson et quatre une astuce de chef pour réussir ce plat.
+7:34
+Donc voici la photo que j'ai soumis au modèle. Le prom que j'ai copicollé est
+7:41
+ici. Voilà la résultante de l'ensemble. Le nom du plat, c'est une soupe de nouille au poulet façon asiatique. Oui,
+7:47
+elle s'inspire très largement du faux garlet. un plat emblématique du Vietnam.
+7:53
+C'est une soupe dont le secret réside dans la clarté et la profondeur du bouillon contrastant avec le croquant
+7:59
+des herbes fraîches. Ensuite, on a les ingrédients pour quatre personnes. On a les conseils pour que le bouillon ait un
+8:06
+meilleur goût. On a la recette étape par étape, le temps de préparation, le temps de cuisson.
+8:14
+On a l'astuce du chef pour réussir ce plat. Et vous voyez que ici aussi GMA 4
+8:19
+est capable d'analyser tout types d'images. Alors ici l'équipe de Google avant de poser la question vous
+8:25
+recommande en premier lieu de joindre l'image et ensuite de demander ce que
+8:32
+vous voulez en obtenir, le rôle attribué à le contexte, la méthode, le format de sortie et cetera. Donc voilà pour cette
+8:39
+deuxième fonction analyse d'image. Troisièmement autre fonction classique.
+3.EXPLICATION SUJETS
+8:44
+Tu es un professeur patient et passionné. Tu expliques les choses simplement avec des exemples du quotidien comme si tu parlais à un élève
+8:51
+de 14 ans. Explique-moi le théorème de Pythagore. Un [raclement de gorge] d'abord avec des mots simples, pas de
+8:56
+jargon. 2 avec un exemple concret de la vie réelle. 3. Montre-moi un exercice
+9:02
+résolu étape par étape. Enfin, propose-moi un exercice à faire moi-même avec la solution cachée. Alors, ensuite,
+9:09
+dans le guide, vous voyez que je vous ai euh mis des exemples de sujet, hein. La révolution française, les fractions, la
+9:15
+photosynthèse, le passé composé, le réchauffement climatique, l'offre et la demande. Vous pouvez demander tout et
+9:21
+n'importe quoi à ce GMA 4. Ici, on est dans l'interface de Google et I Studio.
+9:27
+Donc le prom, je l'ai copié, collé. Et voilà donc le théorème de Pythagore
+9:32
+expliqué à un enfant de 12 ans. Imagine un triangle qui a un angle droit, un angle bien carré comme le coin de d'une
+9:39
+feuille de papier ou le coin d'une pièce. On appelle ça un triangle rectangle. Et là donc on voit qu'on a
+9:45
+l'explication très classique. Vu mon niveau en math, c'est exactement le type
+9:50
+d'explication qui me convient. On a la formule, on a un exemple concret, le
+9:56
+raccourci dans le parc. Imagine que tu es devant un parc rectangulaire. Pour aller d'un coin à l'autre, tu peux marcher le long du trottoir. Tu fais 30
+10:03
+m vers le nord, puis 40 m vers l'ouest, vers l'est, total 70 m, mais tu es pressé, tu décides de couper tout droit
+10:09
+à travers la pelouse. Bon, voilà pour l'exemple. On a ensuite un exercice résolu étape par étape avec de la
+10:15
+formule. L'étape finale et maintenant un exercice à réaliser moi-même que j'ai
+10:22
+préalablement demandé à JMA 4 avec le calcul et la réponse tout en bas. Donc
+10:27
+vous voyez que ça fonctionne comme un chatbot classique mais de manière très rapide, très approfondi. Autre exemple
+4.PLANIFICATION DE VOYAGE
+10:34
+cher aux afficionnados du tourisme, le fait de pouvoir planifier un voyage
+10:40
+complet. On va voir dans cet exemple qu'à partir d'une réponse, si vous voulez, on peut encore demander des itérations beaucoup plus précises, chose
+10:47
+que j'ai effectué dans ce cas-là. Donc là, le prompt est très simple, hein. Tu es un agent de voyage expert et enthousiaste. Planifie un voyage de 5
+10:54
+jours à Barcelone pour un couple. Bon, définition du profil, du budget et cetera. Et pour chaque jour, je veux le
+11:00
+programme matin, après-midi et soir, un restaurant recommandé avec une fourchette de prix, une astuce locale
+11:06
+que seuls les habitants connaissent et le budget estimé de la journée. Vous pouvez décliner cela avec voyage en
+11:12
+famille avec enfant, retrip entre amis, weekend romantique, voyage solo. On peut aussi demander fais-moi une checklist de
+11:18
+ce qu'il faut mettre dans la valise pour ce voyage et cetera. Ça c'est votre imagination, vos besoins du moment.
+11:24
+Google fait de l'humour en m'accueillant avec une phrase en espagnol. Barcelone en octobre est un choix magistral et
+11:30
+cetera et cetera. Donc on a l'estimation du budget, on a la déclinaison de ce que
+11:36
+vous pouvez faire jour par jour, matin, midi et soir. Et donc tout un panorama
+11:42
+assez complet d'un voyage à Barcelone, mais moi ça me paraissait un petit peu trop léger, pardon. Donc je lui demandé
+11:49
+une première itération en lui demandant fournis l'ensemble sous forme de tableau récapitulatif visuel. Pas de problème.
+11:56
+Voici votre votre itinéraire résumé sous forme de tableau pour une lecture rapide et visuelle. Donc on nous euh recommande
+12:03
+des restaurants. Mais le problème, le point faible dans ce tableau, c'est que on me recommande des restaurants, mais
+12:10
+comment j'y vais, comment je les contacte ? Comment je sais où c'est ? Donc ça, je vais C'est le but de ma 2uxè
+12:16
+itération. rajoute également les coordonnées de chaque référence cité. Moi, je veux un
+12:22
+truc clé en main. J'ai pas envie de me faire suer à devoir rechercher les adresses, les numéros de téléphone alors
+12:28
+que je veux un truc qui me serve pour l'ensemble. Ben pas de problème. C'est entendu. Pour que votre voyage soit le
+12:35
+plus fluide possible, j'ai ajouté une colonne localisation adresse dans le tableau et effectivement ici j'ai bien
+12:42
+l'adresse du restaurant avec l'astuce utiliser le passage de simple pour
+12:47
+éviter la foule. Bon et cetera et cetera. On a un carnet d'adresse avec
+12:53
+les euh références GPS pour pouvoir trouver les différents lieux sur votre
+13:00
+téléphone, sur votre GPS. Mais moi, ça me convient pas. Je lui ai dit non, il
+13:06
+me faut l'adresse physique, le numéro de téléphone et le site web de chaque référence, sinon c'est incomplet. Je
+13:12
+vous présente mes excuses pour cet oubli. Un expert doit être précis et vous avez raison. Pour un voyage sans
+13:18
+stress, avoir le contact direct est essentiel. Donc voilà ce que Lia me précise. Étant donné la quantité
+13:24
+d'information, le tableau seul deviendrait illisible. Je vous propose donc une structure en
+13:30
+deux parties, votre feuille de route quotidienne et votre répertoire détaillé prêt à cliquer. Donc là, on a les lignes
+13:38
+principales et ensuite, comme vous le voyez ici, on a bien le numéro de téléphone de chaque lieu, monument,
+13:46
+restaurant que vous désirez visiter avec le lien direct vers les différents sites
+13:51
+internet, le tout décliné par thème. On a d'abord les lieux, on a d'abord tout ce qui est gastronomique, on a ensuite
+13:58
+les shoppings et les balades et ensuite on a quelques conseils de réservation
+14:04
+pour éviter la foule et cetera. Donc vous voyez que à partir d'une requête de base, si la réponse ne vous convient
+14:10
+pas, qu'elle vous paraît incomplète, et bien comme dans n'importe quel autre chatbot, vous pouvez demander des
+14:15
+modifications, des compétions, des itérations et GMA 4 fonctionne ici aussi
+14:22
+euh de main de mètre. 5e exemple, 5e cas de figure. Vous désirez créer du contenu
+5.RÉSEAUX SOCIAUX
+14:29
+pour les réseaux sociaux. Alors là, je lui ai demandé, tu es un community manager créatif spécialisé en réseaux sociaux. J'ai remplacé je suis boulanger
+14:37
+boulangère par un autre sujet que je vais vous montrer maintenant. Ensuite, ça ne change pas. Crée-moi un calendrier
+14:43
+de publication pour une semaine. Alors, je veux les types de postes photos carousel real story pour Instagram. 2
+14:51
+des idées de contenu avec une description visuelle. 3 la légende prête à publier avec des emojis. 4 les 10
+14:58
+meilleurs hashtags pour alors ce sera pas la boulangerie artisanale, ce sera pour du marketing digital. et 5 le
+15:03
+meilleur moment pour publier. À la place d'une boulangerie, je lui ai dit je suis youtubeur spécialisé en intelligence
+15:10
+artificielle et j'ai besoin de publier des posts. Bon, exactement la même chose. Voilà ce que m'a fourni Google et
+15:17
+Studio via GMA 4. On a le calendrier éditorial relative au jour 1, donc le
+15:23
+Flash News. On veut un type. Donc le type c'est un R. L'idée et le visuel.
+15:28
+Donc là, la description du montage de tous les éléments relatifs à un bon
+15:34
+visuel. La légende prêt à être copié collé avec le nom de l'IA que vous
+15:40
+voulez mettre en avant que vous avez à préciser vous-même, les hashtags les
+15:45
+plus compatibles SEO, le meilleur moment de publication 12h15 pause déjeuner et
+15:50
+ensuite on a l'ensemble des éléments pour une semaine avec tantôt des carouselles, tantôt des images fixes,
+15:56
+tantôt des re tantôt des stories. Et ce qui est intéressant lorsqu'on a
+16:03
+visualisé l'ensemble, c'est que je lui ai demandé pour tester le le modèle
+16:08
+génér fond noir texte rouge et blanc. Mais là, je savais déjà ce qu'il allait me répondre. C'est-à-dire que là, pour
+16:15
+que les visuels puissent être téléchargeables, là il faudrait que je switch sur Nado Banana, chose que je ne peux pas faire ici, mais je vais vous
+16:22
+donner la solution. Alors, vous remarquez aussi que lorsque GMA 4 est sollicité, par défaut, il est toujours
+16:30
+indiqué en bas grounding with Google Search. Ça, j'en avais déjà parlé dans une vidéo sur les nouveautés de Google
+16:37
+EA Studio dont je vous mets le lien ici. Cela signifie simplement qu'on demande au modèle de procéder à des recherches
+16:44
+approfondies liées à votre requête. Et euh il faut avouer que Google fait très
+16:50
+bien le travail. Alors, voilà ce que me répond Google. En tant qu'il a textuel,
+16:55
+je ne peux pas dessiner un fichier image, mais je peux faire deux choses très précieuses pour toi. Te créer un un
+17:00
+mo décris exactement comment disposer les éléments pour que ce soit professionnel
+17:06
+et attachant ou un prompte exact pour les images. Alors moi ce que je lui ai demandé un petit peu plus bas, créer un
+17:13
+mup. Et là, voilà ce que me fournit Google et Studio, le format SVG qui
+17:20
+comprend un code à copiercoller dans un logiciel de génération d'images. Donc
+17:26
+vous pouvez tout à fait revenir derrière copiercoller cela dans Google et Studio
+17:32
+via Nano Banana. Ce que j'ai fait, bon moi j'utilise Xfield. Ce que j'ai fait,
+17:38
+j'ai j'utilise j'ai j'ai allé dans Xfield et voyez que j'ai généré ces
+17:43
+quatre images. Alerte pépite, l'outil IA dont personne ne parle. document destiné à ma story, ce document destiné à un
+17:53
+carousel et ce document destiné à une publication normale. Donc là, c'est vachement bien parce que ici, je lui ai
+17:59
+demandé que le fond devait être en noir, que les titres principaux devaient être
+18:05
+en blanc et que les sous-titres devaient être en rouge. Ici, grâce à ces
+18:10
+différents fichiers SVG qui, comme vous l'avez compris consiste à copiercoller un code car LIA dans ce cas-là est
+18:18
+inapte à vous créer les images. Et bien voilà, ça y est, on a en procédant à un copiercollé toutes les images
+18:25
+correspondant à la campagne publicitaire initiée via Google et Studio. Et vous
+18:31
+voyez que au niveau du texte, ben il y a pas de faute, tout est visuellement
+18:36
+cohérent, constant dans l'application du style. Et pour ces raisons, je ne
+18:42
+saurais que trop vous conseiller de procéder à des recherches
+18:47
+approfondies via ce GMA 4 qui, comme je vous le rappelle, est totalement open source. Autre exemple, traduction et
+6.TRADUCTION
+18:55
+adaptation d'un texte. Donc là, l'attribution du du rôle, c'est "tu
+19:00
+traducteur professionnel bilding français anglais." Traduit le texte suivant en anglais. Alors ici, au lieu
+19:08
+d'avoir copié collé le texte, j'ai modifié la phrase juste avant. Je lui ai dit "Traduit le texte fourni en base de
+19:15
+connaissance". Autrement dit, un PDF que vous pouvez joindre en pièce jointe. Je précise que le format Word Excel ne sont
+19:21
+pas tolérés lorsque vous voulez importer un texte. Donc je lui ai simplement dit ne traduis pas mot à mot, adapte les
+19:27
+expressions, garde le même ton formelle, amical, humoristique. Donc ça c'est à vous de préciser euh le ton que vous
+19:35
+voulez par rapport au texte que vous lui soumettez. Si une référence culturelle ne fonctionne pas en anglais, propose un
+19:41
+équivalent et explique ton choix entre parenthèses. À la fin, liste les trois choix de traduction les plus délicats et
+19:48
+explique pourquoi tu as choisi cette publication. Alors pour se faire, je lui ai soumis un de mes guides sur les
+19:54
+prompting engineering euh lié euh aux appareil photo. C'est un guide donc qui
+20:00
+vous donne des prompts pour que votre image le même éclairage, le même cadrage que si vous aviez adopté adapté pardon
+20:08
+tel ou tel appareil photo. Et ici le document faisait près de 30 pages, ben
+20:14
+pas de problème. Voici la traduction professionnelle de votre guide visuel. Et là, voilà, on a vraiment euh pour
+20:21
+l'avoir vérifié le rendu en fait de mon guide. Lorsque je précise un prom dans le guide,
+20:28
+celui-ci est en italique. Et bien même ici la mise en forme du guide initial a
+20:33
+été respecté. On a tous les promptes liés à la création d'images tel que
+20:39
+spécifié dans le guide avec effectivement la traduction de chaque page. En fait, ici, chaque trait que
+20:45
+vous voyez correspond à une page sur le guide en PDF. Et en descendant, je vois
+20:50
+que tout a parfaitement été exécuté. Ensuite, on retrouve les notes du traducteur que je lui ai demandé
+20:56
+initialement dans le prompt. Donc, les trois choix les plus délicats. La pellicule toutterrain, on appelle ça
+21:02
+versatile all purpose film. En français, tout terrain évoque la polyvalence. Et
+21:08
+pour chaque traduction euh qui a occasionné un petit peu plus de difficultés que les autres, et bien ici
+21:15
+euh on nous explique l'expression la mieux adaptée en terme de traduction par
+21:21
+rapport au type de pellicule demandée. Donc pour la traduction encore une
+21:27
+option qui fonctionne très très bien. Exemple suivant la rédaction ou
+7.CV
+21:32
+l'amélioration d'un CV. Donc là pareil hein, vous lui donnez un rôle, vous lui
+21:37
+attribuez un rôle. Tu es un coach en recrutement avec 15 ans d'expérience. Aide-moi à rédiger un CV percutant pour
+21:43
+ce profil. Donc ici he vous spécifiez à peu près euh à quoi correspond votre
+21:48
+parcours professionnel, ce que vous voulez. Donc là, ce qu'on veut, c'est un résumé professionnel accrocheur de trois ou quatre lignes,
+21:54
+mes expériences reformulées avec des verbes d'action et des chiffres, une rubrique compétence organisée par catégorie. cinq mots clés à placer pour
+22:01
+passer les filtres automatiques. Alors ici c'est quelque chose de virtuel. Si vous avez un vieux CV ou si euh vous
+22:08
+avez sur une feuille de papier euh noté à la main euh des exemples liés à votre
+22:14
+parcours, à vos expériences dat chronologiquement, bah le mieux c'est de soumettre ça sous forme de pièce jointe
+22:22
+au modèle, de lui soumettre le prom par rapport à votre âge et cetera. Et euh
+22:27
+voilà donc le type d'accroche conseillé pour un CV pertinent qui attirera
+22:34
+espérons-le, l'œil du recruteur avisé. Donc là, j'ai dit que j'étais spécialiste en communication. J'ai
+22:40
+vraiment c'est vraiment un truc virtuel hein. Donc le résumé professionnel spécialiste en communication 360 avec 5
+22:46
+ans d'expérience alliant marketing opérationnel et stratégie digitale. Experte, bon là il m'a féminisé. expert
+22:53
+dans la création de contenu engageant et le pilotage de l'image de marque. J'ai accompagné la croissance de structures
+22:58
+variées blablabla blablabla. Ensuite, on a les expériences professionnelles reformulées. Donc c'est lié à ce que je
+23:05
+viens de vous dire. Comme je n'ai pas tes chiffres exacts, j'ai mis des X, remplace-les par tes vraies données même
+23:11
+approximative mais crédible. Donc il vaut mieux, comme je vous l'ai dit, fournir des indications préalables. Mais
+23:17
+vous voyez que sur l'ensemble, voilà, on a un CV bien conçu mettant en avant les
+23:22
+points à mettre en valeur vis-à-vis d'un recruteur. On a les cinq mots clés qui
+23:28
+attirent l'adhésion immédiate du recruteur spécialisé. Donc stratégie de communication, les KPI, les analyses de
+23:35
+performance, l'identité de la marque, le branding, le plan éditorial et le grow marketing, l'acquisition. Et ensuite, on
+23:41
+a un conseil subsidiaire. Pour décrocher ce poste responsable, on va te
+23:47
+questionner sur ta capacité à manager ou à prendre des décisions seules. Lors de l'entretien, ne dit pas "On m'a demandé
+23:54
+de faire", mais dit "J'ai analysé tel problème, j'ai proposé telle solution et j'ai obtenu et j'ai obtenu pardon tel
+24:01
+résultat." C'est cette posture qui fera la différence entre une assistante et une responsable. Bonne chance. Donc là
+24:08
+aussi, très pertinent. Pour cette vidéo, je n'ai pas euh illustré tous les
+8.PROGRAMME SPORTIF
+24:13
+exemples présents dans le guide. Bon, résumer un article document. Bon, ça vous essayerez, c'est assez euh facile à
+24:19
+mettre en place. [grognement] Ici, on va voir comment créer un programme sportif personnalisé. Toujours la même chose. Tu
+24:27
+es un coach sportif bienveillant à expérimenter. Crée-moi un programme de remise en forme sur 4 semaines. Vous lui
+24:32
+fournissez des renseignements relatifs à votre âge, à votre niveau sportif. Si
+24:38
+vous avez des problèmes des musculaires, pour chaque séance, donne-moi le nom de l'exercice plus le nombre de
+24:43
+répétitions, une description simple du mouvement comme si je ne l'avais jamais fait, le temps de repos entre chaque
+24:49
+exercice, une progression semaine après semaine, un peu plus dure chaque fois.
+24:55
+Alors voilà le programme sportif. Je suis de ravi de t'accompagner dans cette démarche. 56 ans avec un travail
+25:02
+sédentaire, l'objectif n'est pas de s'épuiser dès la première semaine, mais de réveiller ton corps en douceur pour
+25:08
+créer une habitude durable. Donc là, on a les principes du programme, la progressivité, la qualité avant la
+25:15
+quantité, le ventre. Et ici donc on a voyez l'ensemble des éléments que je
+25:23
+devrais euh soigner pour obtenir un body summer vu que l'été arrive à grand pas.
+25:32
+Donc on a tout he la progression, la description des mouvements. On aurait même pu lui demander des conseils
+25:38
+alimentaires en plus. Bon vous voyez que le programme est tout à fait adapté.
+25:45
+Enfin, je vous dirai ça dans quelques semaines. Et donc voilà, une autre compétence que vous pouvez tout à fait demander à ce GMA 4. Bon, ensuite, vous
+9.LANCEMENT PRODUIT
+25:53
+avez dans le guide des exemples de planification de budget et des économies. Donc ça, je ne l'ai pas traité, vous le ferez vous-même. Vous
+26:00
+pouvez euh opérer euh des comparaisons entre différents types
+26:05
+de documents, hein. Ça, il y a aucun souci. Alors, il faut comprendre aussi quelque chose, c'est que pour l'instant,
+26:12
+je vous ai montré des exemples liés aux réponses simples, entre guillemets opéré
+26:17
+par JMA 4, mais vous pouvez également euh confier au modèle des tâches
+26:23
+agentiques, c'est-à-dire par exemple dans le cas précis, orchestrer le lancement d'un produit. Ici, on va lui
+26:29
+demander que chaque agent joue son rôle dans un domaine particulier afin de vous
+26:36
+fournir la réponse idoine, la mieux adaptée. Donc là, ce que je lui demande, c'est très simple. Tu es une équipe
+26:43
+complète de six experts. Tu vas jouer simultanément tous ces rôles pour mon
+26:48
+projet. Mon projet, lancer une marque de bougie artisanale en ligne. Ici, on va avoir six agents qui vont se répartir
+26:57
+chacun une tâche précise. On a un agent de stratégie qui analyse le marché et qui définit mon positionnement. On a un
+27:04
+agent directeur créatif qui propose trois noms de marques, le slogan, la charte visuelle, un agent financier avec
+27:11
+les précisions quant au budget euh estimé, un agent 4 community manager qui
+27:17
+va s'occuper du calendrier Instagram sur une période de 30 jours, un agent
+27:23
+rédacteur qui va nous réviser trois fiches produits modèles prêt à publier sur ETSI ou autres types de plateforme
+27:30
+et surtout l'agent 6 web designer qui est chargé de me rédiger le code pour un
+27:38
+site vitrine assez simple he là je suis pas allé dans les détail lié donc à la mise en place de cette boutique de
+27:45
+bougies artisanal ici on nous spécifie bien que chaque agent référence le travail des autres
+27:51
+c'est-à-dire qu'en plus d'agir individuellement une fois que les le la responsabilité incomband à chaque agent
+27:59
+individuellement est défini et bien les agents vont se mettre d'accord entre eux si vous voulez
+28:05
+pour vous fournir un résultat sans qu'il y ait de perturbation sur la ligne entre chacun des agents si vous voulez et
+28:12
+comme c'est c'est marqué en bas pourquoi c'est agentique et bien le fait qu' six
+28:18
+rôles interconnectés attribués à chaque agent fait que l'agent va créer un site
+28:23
+web en s'appuyant sur tout le travail précédent donc voici donc le prompt donc on a
+28:29
+l'agent stratégiste qui nous précise l'analyse du marché. La tendance est au
+28:36
+slow living et à la transparence des composants. La cible les gens entre 28
+28:41
+et 45 ans citadines soucieuse de l'écologie qui travaille à domicile ou cherchent un sanctuaire après le
+28:46
+travail. Ce type de personnat en fait privilégie la qualité à la quantité et aime les objets minimalistes. Le
+28:53
+positionnement c'est le luxe et coresponsable. La proposition de valeur unique cire 100 % végétal. Bon, tous les
+29:00
+éléments qui mettent en avant en avant le produit liés au respect de l'écologie. Le canal de vente
+29:06
+prioritaire et bien ici Lia considère que c'est ETSI. Le deuxième agent
+29:11
+directeur créatif, il nous propose trois types de noms. Lueur sereine, Aura
+29:17
+Botanica, Studio Cire. Donc le choix retenu pour la suite conseillé, c'est Aura Botanica. Je n'ai touché à rien. On
+29:24
+a le slogan tout fait. l'essence du calme sculpté par la nature. On a les
+29:30
+codes hexadécimaux qui correspondent aux couleurs à adapter pour les couleurs de
+29:35
+la charte graphique, du visuel, du site, des flyers, que sais-je encore. On a l'agent financier
+29:42
+avec le budget de lancement pour les produits, pour les matériaux, pour le local et cetera.
+29:49
+On a le community manager qui nous donne donc des conseils de publication sur une
+29:55
+période de 4 semaines. Donc ça, on peut tout à fait comme on l'a vu tout à l'heure lui demander des choses encore plus détaillées. On a l'agent rédacteur
+30:02
+rédactionnel avec les contenus et les
+30:08
+photos en fait conseillé pour publier trois types de produits différents sur
+30:14
+forêt hivernale, sérénité d'agrume nuit de lavande et on a l'agent web designer
+30:20
+qui nous fournit le code à copiercollé pour obtenir une prévisualisation du
+30:25
+site. Alors ici, alors ici si vous ne savez pas comment prévisualiser le site
+30:31
+et bien vous pouvez lui demander. Donc bon, pour prévisualiser un site, vous pouvez aller dans l'application code
+30:37
+better dont je vous parle souvent. Vous pouvez également copiercoller ce code sur une page, l'enregistrer au format
+30:45
+HTML pour la prévisualiser. Donc ici, voici la prévisualisation du site, hein. On a bien le nom Aura Botanica. On a euh
+30:53
+les couleurs correspondant au code hexadécimaux que je vous ai montré tout à l'heure. Bon, ici c'est très simple
+30:58
+hein, mais en tout cas sur la base d'une phrase, on a déjà l'ébauche d'un site
+31:04
+virtuel. Bon, évidemment là, il y a pas d'image. Là, il faudrait que vous les mettiez en ligne sur une base de données, un serveur mais vous voyez que
+31:11
+sur la base d'une seule phrase, on a vraiment tout le processus de lancement du produit de A à Z. Alors ici c'est un
+31:17
+one page. Quand vous cliquez sur à propos et bien vous tombez sur les ancrages liés à la page mais vous voyez
+31:24
+que vous avez vraiment euh tout clé en main. Ensuite si vous voulez un site plus complexe et bien vous lui demandez
+31:29
+précisément ce que vous voulez. Vous installez l'ensemble sur un serveur sur Hostinger, j'en sais rien. Vous lui
+31:35
+fournissez les images et ici aussi Google et I Studio avec Gemma 4 sera
+31:41
+tout à fait euh capable de vous fournir un site encore plus performant et
+31:46
+complet. Pour finir en beauté avec ces diverses notions agentiques, vous pouvez aussi lui demander d'organiser un
+10.ORGANISATION ÉVÈNEMENT
+31:52
+événement de A à Z. Tuer un chef de projet événementiel qui coordonne plusieurs équipes en parallèle. Voici le
+31:58
+contexte. anniversaire surprise pour 40 personnes, budget 2000 € date dans 3
+32:03
+semaines, lieu à trouver dans la région parisienne. Lance ces 600 ces six
+32:08
+chantiers simultanément. Donc là, on a un agent chargé de la logistique, un
+32:14
+agent traiteur, un agent qui est censé s'occuper de l'organisation de
+32:19
+l'animation, un agent chargé de la communication, un agent chargé du budget
+32:25
+et un agent chargé du rétro planning. C'est c'est-à-dire qui attribue la tâche
+32:30
+un combant à l'ensemble des acteurs sur la période de 3 semaines correspondant à l'organisation de cet anniversaire
+32:37
+surprise. Alors ici aussi pas de problème hein lié à l'exemple précédent, JMA 4 vous précise les euh éléments que
+32:47
+nous lui avons demandé via ces six agents interdépendants. La logistique. Alors, on nous propose une salle
+32:53
+associative de mairie, la privatisation d'un coin barre, Loft Airbnb avec
+32:58
+l'estimation des coûts selon le type de lieu que vous allez réserver. Au niveau du traiteur, les pièces salées, les
+33:04
+pièces sucrées, le gâteau, les boissons, l'animation avec une chronologie
+33:10
+estimée des événements à venir. Le kit de communication, quels éléments
+33:15
+allons-nous fournir aux futurs invités pour leur donner envie de venir ? Donc là, on a le modèle à copiercoller
+33:22
+d'invitation sur votre mail, une relance J- 7 avant le grand jour et le plan de
+33:30
+table. Ça c'est pour l'aspect plus pratique si vous voulez. Mais là en tout
+33:35
+cas, vous avez vraiment les formules à copiercoller pour éviter de réfléchir. Déjà quand vous êtes dans une
+33:42
+organisation, les idées sans trop choque. Ben là, vous avez les phrases clés à copier-coller à envoyer à vos
+33:48
+différents invités. On a une estimation du budget global avoisinant les 2000 €
+33:53
+si vous voulez et on a le rétro planning. Donc les priorités du jour -
+34:00
+21 à - 14, c'est la réservation du lieu en voie d'invitation, le choix traiteur, la validation des listes des invités
+34:07
+entre J le jour J - 14 et le jour J- 7 et cetera et cetera. Et ensuite, LIA
+34:15
+attend donc que nous lui fournissions des informations plus précises suite au
+34:20
+choix du lieu et cetera. Et au fur et à mesure sur la base de d'exemples déjà
+34:25
+bien fournis, au fur et à mesure que vous allez fournir des informations précise quant à l'organisation du lieu,
+34:33
+la liste d'invités et cetera, et bien ici JMA 4 vous fournira infiné des
+34:40
+informations personnalisées par rapport à vos itérations, à vos demandes de
+34:46
+compétion. Voilà les amis, vous avez vu que Google nous a sorti encore un bel outil open source que vous pouvez
+CONCLUSION
+34:53
+utiliser de manière illimité pour vos projets. Vous êtes abonné à Chat GPT,
+34:59
+vous êtes abonné à Claude, vous êtes abonné à Perplex City ou hésitez entre
+35:05
+ces différents types de chatbot. Et ben là en fait, si vous ne voulez pas qu'un chatbot efficace empiète votre budget
+35:13
+mensuellement ou annuellement, je vous ai donc fourni une solution gratuite utilisable dès à présent et franchement
+35:22
+pour l'avoir testé de longues heures toute la journée, je peux vous dire
+35:28
+qu'il s'agit d'un modèle qui n'a rien à envi GPT à Claude. Bon, après en poussant un
+35:34
+peu le code, il faudrait quand même pouvoir élaborer une comparaison entre la
+35:40
+puissance du dernier Claude. Mais en tout cas, pour des projets de ce type, bien, vous pouvez tout à fait utiliser
+35:46
+GMA 4. On aurait même pu lui demander un exemple lié à la création d'application.
+35:52
+Bon, ça pour ça vous avez d'autres trucs. Mais en tout cas voilà, n'hésitez pas à me dire ce que vous pensez de ce
+35:59
+modèle open source au combien pratique qui va vous permettre et de réaliser de
+36:04
+grandes choses et de réaliser des économies. N'oubliez pas également de
+36:10
+télécharger le guide qui reprend tous ces exemples, plus d'autres comme vous l'avez compris que je n'ai pas traité.
+36:17
+C'était Bartemi. Je vous souhaite une excellente journée et d'excellents tests à tous.
+36:22
+Ciao.
+
+Tout
+
+De la série
+
+Source : Barthélémy Nobili
+
+Google
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+5,2 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+3,9 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+17:51
+J'ai créé un Robot de Trading Rentable en 5 Minutes avec Claude (Sans Coder)
+Leo Trading-Algo
+19 vues
+•
+il y a 24 minutes
+Nouveau
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+18 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+485 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+17:45
+Comment FORCER une IA à produire du JSON valide à 100% (pas 95%)
+Projets IA
+9,8 k vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+
+17:04
+La fin des bugs informatique est une très mauvaise nouvelle
+IA et Stratégie | Le SamourAI
+8,2 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+37:08
+Gemini 3.1 : Obtenez le diplôme Google Prompt Engineering, en 37 min!
+Parlons IA
+13 k vues
+•
+il y a 4 mois
+
+
+19:05
+Gemma 4 (26B & 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥
+Nerdy Kings
+10 k vues
+•
+il y a 3 mois
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+170 k vues
+•
+il y a 2 semaines
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,6 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+18:42
+Douleur à l’épaule : Voici comment s’en débarrasser pour de bon !
+Le Musclay
+48 k vues
+•
+il y a 1 an
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+11:58
+Ce que Hermes Agent peut vraiment changer pour un solopreneur
+David Schkiwisk - Kavyro
+325 vues
+•
+il y a 23 heures
+Nouveau
+
+
+26:29
+Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)
+Ludo Salenne
+27 k vues
+•
+il y a 3 mois
+
+
+1:39:47
+Créateur de l’IA : Plus que 2 ans avant le changement ! Ces emplois disparaîtront !
+The Diary Of A CEO
+2,2 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+919 k vues
+•
+il y a 2 mois
+Doublée
+
+
+45:40
+J'ai construit une équipe marketing avec Claude AI (elle poste toute seule à 9h)
+Dr. Firas
+468 vues
+•
+il y a 15 heures
+Nouveau
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+13:39
+Avoir un physique esthétique : Chance ou talent ?
+Le Musclay
+43 k vues
+•
+il y a 11 mois
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+314 k vues
+•
+il y a 2 mois
+
+24:21
+7 Comportements Qui Font Trembler (Même) Les Plus Puissants | Machiavel
+Le Code Obscur
+29 vues
+•
+il y a 17 heures
+Nouveau
+
+2:21:31
+Méthode SIMPLE pour gagner 100 000$ de zéro | Experts en argent
+The Diary Of A CEO
+ et BigDeal by Codie Sanchez 
+2,3 M de vues
+•
+il y a 11 mois
+Doublée
+
+14:58
+Vous ne connaissez pas ces 6 sites pour le Prompt ? Gratuits et efficaces !
+Barthélémy Nobili
+56 k vues
+•
+il y a 1 mois
+
+29:07
+Kimi K3 peut-il battre GPT-5.6 et Claude ? Test sur un vrai projet
+Nathanaël
+2,7 k vues
+•
+il y a 2 jours
+Nouveau
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+10:21
+Une bonne alimentation est plus difficile qu'un bon entraînement !
+Le Musclay
+89 k vues
+•
+il y a 3 ans
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+163 k vues
+•
+il y a 7 jours
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+12 k vues
+•
+il y a 7 jours
+
+24:30
+Kimi 3 : Aussi bon que FABLE mais OpenSource ?
+Melvynx
+45 k vues
+•
+il y a 3 jours
+Nouveau
+
+19:14
+Automatisez 10x avec les skills Claude 4.6 opus ! I Le secret
+Parlons IA
+32 k vues
+•
+il y a 4 mois
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+54 k vues
+•
+il y a 3 semaines
+
+15:44
+J'ai branché tous mes Agents IA sur le même Obsidian (Graphify)
+Mike Codeur
+6,6 k vues
+•
+il y a 7 jours
+
+1:03:50
+Pourquoi les écolo-citadins détestent la climatisation ?
+Trouble Fait
+41 k vues
+•
+il y a 4 jours
+Nouveau
+
+17:40
+Gemini 3.1 TTS : Les vrais résultats en direct
+Barthélémy Nobili
+6,4 k vues
+•
+il y a 3 mois
+
+43:43
+Les secrets que les experts IA ne vous disent pas sur le Loop Engineering ! Nouvelle norme de l'IA !
+Barthélémy Nobili
+5,1 k vues
+•
+il y a 3 jours
+Nouveau
+
+35:00
+💥CETTE NOUVELLE LOI EST TERRIFIANTE... [Le OFF]
+J'suis pas content TV
+100 k vues
+•
+il y a 15 heures
+Nouveau
+
+    

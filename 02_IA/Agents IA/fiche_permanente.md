@@ -100,6 +100,13 @@ Workflow documentaire :
 4. Basculer vers un agent semantique si necessaire.
 5. Injecter uniquement les extraits pertinents.
 
+Workflow de decisions persistantes :
+
+1. Consigner les decisions importantes dans un ADR avec contexte, decision, options ecartees et consequences.
+2. Relier l'ADR au besoin produit et aux livrables concernes.
+3. Rendre les ADR consultables au demarrage d'une nouvelle session ou lors d'un changement d'agent.
+4. Mettre a jour le statut d'une decision lorsque son contexte devient caduc.
+
 ## 9. Prompts & methodes
 
 Eviter les prompts de role vagues.
@@ -143,6 +150,7 @@ Points a surveiller :
 - hooks deterministes pour bloquer les actions sensibles ;
 - suivi de workflow des agents longs.
 - reutilisation d'assets, scripts et procedures audites pour transformer les apprentissages en blocs operationnels plutot qu'en memoire implicite.
+- qualite et maintien d'un registre de decisions (ADR) pour limiter la re-proposition d'options deja ecartees.
 
 ## 13. Decisions strategiques
 
@@ -153,3 +161,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 7, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 3, 7, 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
+- 2026-07-21 - Mise a jour - Sections 8, 12 - Source YouTube Mike Codeur ADR et memoire agentique, batch AOS GO partiel
