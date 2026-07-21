@@ -5,7 +5,7 @@
 - Nom : Claude
 - Type : Famille de modeles IA a evaluer pour conversation, code et workflows agentiques
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-06
+- Derniere mise a jour : 2026-07-21
 
 ## 2. Role principal
 
@@ -68,6 +68,14 @@ Workflow de segmentation d'usage :
 4. Transformer les taches recurrentes en procedures ou skills audites.
 5. Selectionner le modele le moins couteux qui satisfait les criteres de qualite.
 6. Reserver les modeles premium aux taches ou le gain marginal est mesure et reproductible.
+
+Workflow prudent pour une automatisation de publication :
+
+1. Centraliser le contexte de marque, les canaux autorises et les contraintes de format dans un projet explicite.
+2. Separer la recherche, la production, la verification et la planification afin de conserver une trace des livrables.
+3. Commencer par une validation humaine des contenus et des visuels avant toute publication automatique.
+4. Limiter la planification aux comptes, plages horaires et permissions explicitement autorises.
+5. Conserver un journal et un dossier de sortie pour permettre le controle et la reprise en cas d'erreur.
 
 ## 9. Prompts & methodes
 
@@ -143,3 +151,4 @@ Ne pas adopter un modele premium pour AOS sans benchmark interne mesurant le gai
 - 2026-07-02 - Mise a jour - Sections 5, 8, 9, 10, 12, 13 - Sources YouTube Ludo Salenne Claude Sonnet / ecosysteme / Fable, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 5, 9, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
 - 2026-07-06 - Mise a jour - Sections 10, 12 - Source YouTube Tony Lotis Claude Design 2.0, batch AOS A surveiller
+- 2026-07-21 - Mise a jour - Section 8 - Source YouTube Dr. Firas Claude Cowork et Blotato, batch AOS GO partiel

@@ -1,0 +1,758 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J'ai construit une équipe marketing avec Claude AI (elle poste toute seule à 9h)
+Dr. Firas
+Dr. Firas
+38,6 k abonnés
+
+Rejoindre
+
+
+26
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+20 juil. 2026  #ClaudeCowork #ClaudeAI #Automatisation
+🔗 Blotato : https://blotato.com/?ref=firas
+🔗 Documentation : https://automatisation.notion.site/Cr...
+
+J’ai construit une véritable équipe marketing avec Claude AI, capable de rechercher les tendances, créer du contenu, générer des visuels et publier automatiquement sur les réseaux sociaux tous les jours à 9h.
+
+Dans cette vidéo, je vous montre comment utiliser Claude Co-Work avec Blotato pour automatiser une grande partie de votre stratégie de contenu. L’objectif est de transformer Claude AI en assistant marketing autonome capable de planifier, produire et publier vos contenus sans intervention manuelle quotidienne.
+
+Vous allez découvrir comment connecter Blotato à Claude, installer le plugin, créer un projet local, préparer un Brand Brief complet et automatiser la publication sur plusieurs plateformes sociales.
+
+Nous allons également programmer deux tâches automatiques :
+
+✅ Une tâche pour rechercher les nouvelles tendances
+✅ Une tâche pour produire du contenu chaque jour
+✅ Une programmation automatique des publications à 9h
+
+Cette méthode peut être utilisée par les créateurs de contenu, entrepreneurs, agences marketing, freelances et entreprises qui souhaitent gagner du temps grâce à l’intelligence artificielle.
+
+⏱ SOMMAIRE :
+00:00 - Introduction : automatiser les réseaux sociaux avec Claude Co-Work et Blotato
+02:17 - Créer une équipe marketing automatisée avec Claude et Blotato
+06:03 - Connecter Blotato à Claude étape par étape
+09:02 - Installer et configurer le plugin Blotato sur Claude
+11:21 - Créer un projet local avec Claude Co-Work
+12:56 - Créer un Brand Brief complet avec Claude
+17:39 - Publier automatiquement sur les réseaux sociaux avec Co-Work
+26:09 - Générer des visuels et des publications avec Claude Co-Work
+34:03 - Automatiser la recherche quotidienne des tendances
+37:39 - Automatiser la création quotidienne de contenu
+42:51 - Programmer les horaires de publication automatiquement
+
+#ClaudeAI #ClaudeCowork #Blotato #IntelligenceArtificielle #Automatisation
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Dr. Firas
+38,6 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+Blotato - Social Media Automation & API
+Blotato - Social Media Automation & API
+Blotato - Media Automation
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Pcserviceblida
+il y a 19 heures
+Bonjour Firas
+
+
+
+Répondre
+
+
+@Pcserviceblida
+il y a 19 heures
+Quelle est votre adresse LinkedIn??
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction : automatiser les réseaux sociaux avec Claude Co-Work et Blotato
+0:000 secondeBonjour à tous, j'espère que vous allez bien. Aujourd'hui, je viens avec une [raclement de gorge] machine qui permet de créer de contenu et de publier sur tous les réseaux sociaux en automatique.
+0:1111 secondesAlors, je vais utiliser en fait Cloud Cork, je vais l'installer sur ma machine et je vais vous montrer comment je le connecte à tous mes réseaux sociaux
+0:2020 secondesjuste en local. À partir un simple PC avec une connexion internet, j'installe Cloud, je le connecte avec un outil qui
+0:2828 secondess'appelle Blue Tato qui va tout simplement me donner la possibilité de programmer grâce à des compétences
+0:3636 secondesgratuites que je peux les mettre sur cloud. Donc vraiment le travail il est très intéressant parce que d'habitude en entreprise on a besoin au moins au moins
+0:4444 secondesde deux employés pour faire ça. Des employés que voilà une personne responsable marketing pour créer une stratégie, trouver les idées, créer de
+0:5252 secondescontenu et un autre en fait qui va s'occuper à publier, à répondre aux gens et d'animer en fait les réseaux.
+0:5858 secondesAujourd'hui, grâce à des compétences qu'on peut les trouver sur internet, qu'on peut les télécharger gratuitement, ça nous permet en fait de créer de contenu en illimité et surtout en fait
+1:071 minute et 7 secondesde programmer quelque chose de très haute qualité. C'est pour cela que dans cette formation-là, je vais vous montrer comment je peux remplir mon agenda avec
+1:161 minute et 16 secondesdes posts de très haute qualité. Je pense ceux qui me suivent sur LinkedIn voi un petit peu ce que je propose comme
+1:231 minute et 23 secondescontenu et comme donc posts qui sont très demandés. beaucoup d'interaction avec ces posts. La plupart de ces
+1:301 minute et 30 secondespostes, on va dire à 90 %, ils sont créés avec l'intelligence artificielle de l'idée, la réalisation et même la
+1:371 minute et 37 secondespublication. Alors, les étapes, je vais vous les expliquer une à une. Attention, on va travailler avec un projet réel. Ça veut dire ce que je vous montre dans la vidéo, c'est ce que je fais en réalité.
+1:471 minute et 47 secondeset je prendrai des vrais prendre et je vais vous montrer comment on peut tout générer. Alors, j'ai tout documenté bien évidemment, tous les prentes, tous les
+1:551 minute et 55 secondesremarques, toutes les informations, ils sont disponibles ici gratuitement dans cette formation d'aujourd'hui. Alors,
+2:012 minutes et 1 secondecliquez sur s'abonner pour donc voilà me supporter dans la création de mes vidéos et je vous dis à tout de suite. On
+2:092 minutes et 9 secondescommencera à manipuler le système. est une formation 100 % pratique, c'est 100 % gratuit et je vous dis merci beaucoup
+2:162 minutes et 16 secondeset à tout de suite. Et bien donc ce qu'on va faire au début, on va essayer de comprendre un petit peu notre projet.
+Chapitre 2 : Créer une équipe marketing automatisée avec Claude et Blotato
+2:232 minutes et 23 secondesQu'est-ce qu'on veut faire ? On veut utiliser Cloud Cork pour créer, on va dire, un mécanisme. C'est comme une
+2:302 minutes et 30 secondeséquipe en fait qui va créer de contenu, créer des images ou des vidéos et publier ça automatiquement sur les
+2:392 minutes et 39 secondesréseaux sociaux. Si je dis les réseaux sociaux, bien évidemment, tout dépend en fait de votre réseau. Est-ce que tu travailles avec Facebook ou tu publies sur LinkedIn, Instagram, peu n'importe
+2:482 minutes et 48 secondesle réseau social que tu vas utiliser, là on va l'automatiser en fait avec notre système. Mais pour que le cloud bien
+2:562 minutes et 56 secondesévidemment arrive à connecter sur les réseaux, il a besoin bien évidemment de quelques compétences, des connecteurs et
+3:053 minutes et 5 secondesdes plugins. Ça c'est important parce que to ne peut pas fonctionner. il a besoin en fait qu'on injecte ici des informations. Et l'idée c'est quoi ?
+3:123 minutes et 12 secondesTout simplement, moi je vais utiliser un outil qui s'appelle Bluetooth. Euh pourquoi ? Parce que tout simplement dans une seule interface, je peux
+3:203 minutes et 20 secondesconnecter tous mes réseaux sociaux. Et moi, par exemple, j'en ai plusieurs pages Facebook. Il y en a aussi des pages de mes clients, la même chose sur
+3:273 minutes et 27 secondesYouTube. Donc ça c'est un système qui est capable en fait une simple clic de faire la connexion de tous ces réseaux.
+3:343 minutes et 34 secondesEt après une fois que je les connecte, j'aurai la possibilité à le connecter avec Cloud. Donc ils l'ont mis en place
+3:423 minutes et 42 secondeslà ça c'est leur site officiel hein. Il suffit juste de créer un compte ici gratuit et grâce à ça en fait on aura la possibilité de faire les publications.
+3:503 minutes et 50 secondesPourquoi ? Parce que d'abord il a des compétences qui sont gratuites que je peux les mettre donc avec Cloud.
+3:563 minutes et 56 secondesD'ailleurs, ils ont mis en place tout ça et aussi donc il vient de publier sur donc LinkedIn qui ont officiellement
+4:034 minutes et 3 secondesajouté en fait les les plugins voilà plotato qui sont compatibles avec Cloud et ça ça rend en fait le système ultra
+4:114 minutes et 11 secondespuissant. Donc si je regarde mon schéma, je vais connecter donc Blue Tato pour donner la main à Cloud à pouvoir publier
+4:204 minutes et 20 secondessur tous mes réseaux sociaux grâce à cette extension. Ensuite, on va lui donner en fait l'accès à plugin Blue Tato parce queà l'intérieur de cet
+4:284 minutes et 28 secondesaccès-là, on a des compétences qui vont m'aider en fait à créer le visuel, à créer les vidéos, à créer euh voilà le contenu complet. Ensuite, nous on a
+4:374 minutes et 37 secondesbesoin de créer un projet parce que chaque entreprise en fait, elle a besoin d'un d'un projet parce que chacun il a des réseaux spécifiques qui veut faire
+4:464 minutes et 46 secondesles publications et avec une fois qu'on l'entraîne et on le paramètre, on le fait une fois et après il va connaître les réseaux, il va connaître les
+4:534 minutes et 53 secondeshoraires de publication, il va créer de contenu en fait selon notre demande et même la collecte de ces contenus là et
+5:015 minutes et 1 secondeles idées, on peut bien évidemment les programmer pour que ce soit automatisé.
+5:055 minutes et 5 secondesAlors, une étape, c'est pour cela que j'ai mis en place ici une étape qui m'a permet de créer en fait un petit peu notre brinde. Ça veut dire la façon avec
+5:135 minutes et 13 secondeslaquelle on veut rédiger, avec laquelle on veut faire les photos ou les vidéos parce que chaque entreprise doit a sa propre marque. Moi personnellement sur
+5:205 minutes et 20 secondesmes réseaux, j'ai une identité que je je que voilà que je l'utilise à chaque fois que je fais des publications et c'est pour cela que je veux que Cloud en fait
+5:295 minutes et 29 secondeslorsqu'il va me crier pour moi en fait mon contenu, je veux qu'il respecte en fait cette charte. Et bien évidemment la programmation, cette tâche là qui est
+5:375 minutes et 37 secondesune tâche très importante, c'est ça qui va permettre à Cloud Cork de exécuter les tâches, voilà, tous les jours ou
+5:465 minutes et 46 secondesbien toutes les semaines selon en fait mon planning. Alors l'objectif c'est de remplir le planning avec donc les postes, avec les réseaux qui
+5:545 minutes et 54 secondesm'intéressent bien évidemment en respectant une charte détaillée. C'est ce qu'on va essayer de faire ensemble.
+6:006 minutesOn va commencer à créer le projet étape par étape. Et c'est parti. Donc là, moi je télécharge toujours la version cloud
+Chapitre 3 : Connecter Blotato à Claude étape par étape
+6:096 minutes et 9 secondeslocal. C'est tout simplement une version qui me permet de donner dans Cloud la possibilité de toucher à mes fichiers
+6:176 minutes et 17 secondesparce que parfois lorsque je veux poster des posts sur les réseaux sociaux, je vais utiliser mes propres photos qui sont dans mon disque dur. Donc c'est pas toujours la création des nouvelles
+6:256 minutes et 25 secondesphotos. Alors, si je reviens à mon plan, première chose, je vais connecter en fait Blue Titan. Et pour le faire, c'est très simple. Vous allez voir qu'on a
+6:346 minutes et 34 secondesbesoin en fait de ce protocole là, le MCP. Donc c'est facile à faire. On va juste suivre cette procédure là. Donc je
+6:416 minutes et 41 secondessuis ici sur mon système, je clique sur personnaliser et ici je vais en bas et je clique sur connecteur. Donc dans cette partie-là,
+6:496 minutes et 49 secondeson va connecter les outils externes. Je clique là pour ajouter et à ce moment-là, on va ajouter un connecteur personnalisé. Donc du coup, il va me
+6:586 minutes et 58 secondesdemander en fait de mettre des informations. Alors le nom, on va l'appeler Blue Tito et là le MCP, le serveur distant. Donc je reviens dans ma
+7:077 minutes et 7 secondesdocumentation et je vais tout simplement copier cet URL là. Donc du coup, je le place ici et je clique tout simplement
+7:157 minutes et 15 secondessur ajouter. Donc pas besoin en fait de d'aller à faire les paramétrages avancés, il va les détecter automatiquement. Là je viens en fait
+7:237 minutes et 23 secondesd'ajouter Blue Tito. Alors c'est pas encore terminé. Lorsque j'ajoute en fait Blito, vous allez voir que là il y a pas
+7:317 minutes et 31 secondesmal en fait de d'actions voilà et des et des techniques en fait que Blue Tit peut faire. Blue Tit, il peut lire les
+7:397 minutes et 39 secondesmessages, il peut lire les posts, il peut faire le schedule et le paramétrage en fait des publications sur toute la semaine sur tous les réseaux hein. Donc
+7:477 minutes et 47 secondespratiquement on a neuf réseaux. Alors moi ce que je vais faire, je vais donner déjà l'autorisation à Blotato en fait. Voilà donc à manipuler ces réseaux là.
+7:567 minutes et 56 secondesDonc je leur donne ce roi là et bien évidemment alors si je vais tout simplement quitter cette page là si je
+8:048 minutes et 4 secondesreviens une autre fois je vais trouver dans les connecteurs donc Plotato qui est là qui est installé. Alors bien évidemment, moi j'en ai déjà qui est
+8:118 minutes et 11 secondesdéjà installé, donc elle est déjà connectée. Mais si je me déconnecte, vous allez voir, vous devez cliquer sur connecter et vous devez avoir un compte bien sûr Blotato pour que ça fonctionne.
+8:238 minutes et 23 secondesC'est très important en fait d'avoir déjà le compte Plotato. Une fois c'est fait, je clique sur approuver, ça c'est important. Et c'est fait, c'est
+8:318 minutes et 31 secondesconnecté. Donc Cloud, il est voilà connecté en fait avec mon extension.
+8:368 minutes et 36 secondesDonc Blood Tato, là c'est la première étape qu'on vient de le faire, c'est d'ajouter la le connecteur Blot Tato. Et aujourd'hui Cloud, il peut accéder en
+8:458 minutes et 45 secondesfait à tous mes réseaux grâce à cette connexion en fait avec Blot Tato, avec mon compte. N'oublie pas bien sûr de cliquer ici sur les réseaux pour donner
+8:538 minutes et 53 secondesà Blot Tato en fait le droit de se connecter avec vos comptes et c'est comme ça BL Tito va jouer le rôle d'intermédiaire entre Cloud et tous mes réseaux sociaux.
+Chapitre 4 : Installer et configurer le plugin Blotato sur Claude
+9:029 minutes et 2 secondesEt bien, maintenant on passe à deux, c'est l'installation de plugin. Alors le plugin, il est très important. C'est là où il va me donner en fait les
+9:119 minutes et 11 secondescompétences et les informations nécessaires. Pour ajouter le plugin, vous allez voir que là, on a besoin en fait de l'ajouter ici, ajouter une
+9:199 minutes et 19 secondesmarketplace. Alors, c'est très important de savoir une information très importante que aujourd'hui ce plugin là,
+9:269 minutes et 26 secondesil est disponible en fait sur la GitUP de Blot Tato. Donc si je clique ici pour voir donc les compétences, c'est bien
+9:339 minutes et 33 secondesça. Les compétences, ils sont récentes hein, donc ça vient d'être mis à jour.
+9:379 minutes et 37 secondesEt pour les ajouter, c'est très simple, on va les mettre sur le marketplace.
+9:429 minutes et 42 secondesAlors, on a besoin de copier en fait, voilà donc cette information là de GitHub. Si je reviens ici sur mon
+9:509 minutes et 50 secondesinstallation, on va lui dire à partir d'un dépôt qui le GitHub. Donc je clique ici, il me dit donne-moi voilà le nom en
+9:589 minutes et 58 secondesfait du du dépôt. Je donne le nom. Bien évidemment, il fallait que ça soit un plugin de confiance hein. Donc il
+10:0510 minutes et 5 secondesfallait pas donc télécharger n'importe quoi. Et ça c'est le plugin qui a été partagé officiellement par Sabrina que
+10:1210 minutes et 12 secondesje salue en fait. C'est elle qui a fait la création en fait de cette magnifique extension. Alors si je reviens ici, je
+10:2110 minutes et 21 secondesclique sur synchroniser et donc là il va donc charger toutes les compétences et
+10:2810 minutes et 28 secondesle savoir-faire donc de la façon avec laquelle Cloud va aujourd'hui ajouter en fait le contenu le connecter sur nos
+10:3510 minutes et 35 secondesréseaux sociaux. Donc du coup là je fais plus. Donc là, on vient donc de l'ajouter. Voilà, l'extension a été
+10:4310 minutes et 43 secondesfaite. Donc on a les différentes compétences. Je peux les gérer bien évidemment. Donc là, je peux cliquer ici pour un petit peu voir les différentes
+10:5110 minutes et 51 secondesdonc compétences. Ne vous inquiétez pas en fait parce que Cloud, il va connaître quand est-ce qu' utiliser telle ou telle compétence selon le besoin. Donc par
+10:5910 minutes et 59 secondesrapport à vous, tu n'as pas en fait à ni les modifier ni les changer. Ça c'est une étape qui est très importante. Donc du coup là maintenant qu'est-ce que j'ai
+11:0711 minutes et 7 secondes? les compétences et les connecteurs et le plugin qui sont bien installés ici.
+11:1311 minutes et 13 secondesTout ce qu'il reste à faire maintenant, il fallait que tout simplement donc je passe à l'étape suivante qui est une étape très importante là où je vais
+11:2011 minutes et 20 secondesmettre en place mon projet. Et bien donc là, j'arrive à une troisème étape qui est l'étape de la création en fait de projet. Alors pour moi, je veux créer un
+Chapitre 5 : Créer un projet local avec Claude Co-Work
+11:2811 minutes et 28 secondesprojet avec donc Cloud Desktop. Je vais aller ici sur projet et vous allez voir que là je vais tout simplement cliquer sur la création d'un projet. Pourquoi je
+11:3711 minutes et 37 secondesveux créer un projet ? Je veux que tous les fichiers en fait soient sur mon ordinateur. Je veux que Cowork bosse et travaille sur ces datas là. Et à
+11:4611 minutes et 46 secondesl'intérieur, je vais bien évidemment développer les fichiers de sortie. Je vais développer en fait par pourquoi pas les images que je veux les publier sur
+11:5411 minutes et 54 secondesles posts ou bien les logos qui doit l'utiliser. Alors c'est simple. Première chose à faire, je vais lui demander en fait d'ajouter un dossier. Donc je clique ici, je choisis un dossier sur
+12:0212 minutes et 2 secondesordinateur. Par exemple, là, je vais aller tout simplement ici dans download et je fais créer un dossier qui s'appelle social media. Voilà, ça c'est
+12:1112 minutes et 11 secondesmon dossier de projet hein. Voilà, donc je vais faire ouvrir. Donc je donne les autorisations pour la lecture et l'écriture. Et vous allez voir que Cloud
+12:2012 minutes et 20 secondesen fait, il va pas synchroniser le projet en ligne, il va travailler sur ce projet là en local. C'est mon choix.
+12:2712 minutes et 27 secondesDonc je vais l'appeler social media comme vous le voyez. Et là, je peux ajouter bien sûr les instructions et les fichiers tout ça. On peut l'ajouter par la suite. L'essentiel que là, je démarre
+12:3512 minutes et 35 secondesavec mon projet. Donc là, j'ai le projet comme vous le voyez là ici qui s'appelle social media. Et là, je peux en fait
+12:4312 minutes et 43 secondeslancer le travail sur ce projet-là. Donc je dois le préparer, ajouter des instructions, travailler mon image de
+12:5012 minutes et 50 secondesmarque pour que par la suite je vais lui demander de commencer le travail de la création de contenu et de le partage automatique. Alors la 4e étape consiste
+Chapitre 6 : Créer un Brand Brief complet avec Claude
+12:5912 minutes et 59 secondesen fait à créer mon image de marque, ma brinde, lui donner exactement le contexte et ce que je fais dans mon entreprise. C'est très important là pour
+13:0713 minutes et 7 secondesavoir vraiment un système puissant qui peut fonctionner d'une manière correcte.
+13:1113 minutes et 11 secondesAlors vous allez voir que ici en fait d'abord je vais commencer à ajouter un petit peu les instructions pour personnaliser un petit peu les réponses de cloud. Donc ici dans la documentation
+13:2113 minutes et 21 secondesd'ailleurs je vous ai mis un exemple mais bien évidemment vous devez mettre votre propre exemple à vous. Vous pouvez même demander à Claude à vous aider pour
+13:2713 minutes et 27 secondesrédiger ça. Là je donne le contexte, le rôle, le sujet que je travaille, les règles dans la création de mes contenus, les choses interdites que je veux pas
+13:3613 minutes et 36 secondesutiliser. Et voilà. Donc là, je donne un petit peu les informations et regardez là, j'ai mis une information très importante. Tout ce qui est donc
+13:4513 minutes et 45 secondesworkflow, ça veut dire les scénarios en fait, les publications, la création et tout, je veux qu'il utilise les compétences deato. Ça c'est important pour publier, pour faire les créations.
+13:5513 minutes et 55 secondesDonc cette cette information là, elle est très importante à la placer à la fin parce que il doit la respecter pour tous vos futurs. Donc création. Donc je viens
+14:0314 minutes et 3 secondesici, je fais coller en fait les instructions et j'enregistre. Donc là ici, j'ai mes instructions qui sont bien là faites. Donc à chaque fois que je
+14:1214 minutes et 12 secondeslance des sessions, des tests, des créations, il va toujours en fait travailler sur ces instructions là. Mais
+14:1914 minutes et 19 secondesmaintenant, c'est très important de pousser un petit peu le système pour que il me fait un briefing et ça on va le faire ensemble, c'està-dire entre la
+14:2714 minutes et 27 secondesmachine et moi. Là, c'est un petit peu un petit voilà donc code que je peux prendre en fait que je peux le copier.
+14:3414 minutes et 34 secondesLà, je vais lui demander de lancer le bland. Donc il va créer quelque part un fichier qui va le mettre dans le projet et quelque part ici euh il va faire ce
+14:4314 minutes et 43 secondesqu'on appelle des informations. Il va collecter des informations sur ce que je vends, sur ce que qui achète en fait mon audience. Le
+14:5114 minutes et 51 secondescall to action appel à l'action que je veux le mettre. Euh donc ça ce sont des informations qui sont très importantes et il doit enregistrer ce projet là et
+15:0015 minutesdans mon dossier. Alors du coup je vais copier donc ces instructions là je vais les lancer donc là il va commencer à
+15:0715 minutes et 7 secondestravailler pour nous. Veillez toujours en fait à mettre donc le cowork en action parce qu'il y aura des tâches comme ici la création de fichiers qui
+15:1415 minutes et 14 secondesdoit les faire. Je choisis Opus 4.8 largement suffisant en fait pour ce genre en fait des tâches. Et là si tu
+15:2215 minutes et 22 secondesveux hein une fois pour toutes tu peux lui approuver donc les les certaines en fait euh demandes hein. Donc s'il va demander donc du coup là moi vu que je
+15:3115 minutes et 31 secondestravaille en machine ici je peux le laisser en fait lui donner des autorisations sur certaines en fait applications. Donc là, c'est possible de
+15:3915 minutes et 39 secondeslui demander d'aller tout droit et d'exécuter en fait les tâches qu'on lui demande sans avoir à revenir vers moi pour approbation. Je confirme. Donc là,
+15:4815 minutes et 48 secondesc'est parti. Le système donc là, il va commencer en fait à faire une réflexion sur donc les compétences, sur les
+15:5515 minutes et 55 secondesinformations. Regardez, c'est là qu'il va donc tout simplement mettre en place ces compétences là. Regardez là, lorsqu'il cherche en fait des
+16:0316 minutes et 3 secondesinformations qui manquent, il peut me demander hein donc de lui fait de lui faire poser en fait répondre à des questions qu'il peut me poser. Mais en
+16:1016 minutes et 10 secondestout cas là, il est en train de ramasser en fait pas mal d'informations. Regardez là ici en fait il me demande voilà de de mettre des informations par rapport ma
+16:1916 minutes et 19 secondesrelation avec donc les les abonnés et tout. Donc ici en fait sa mission c'est tout simplement de collecter le maximum
+16:2616 minutes et 26 secondesd'informations pour mieux comprendre en fait comment réagir dans vos postes. Bon moi je vous conseille de voilà de de donner maximum d'informations pour créer
+16:3416 minutes et 34 secondesvraiment le briefing donc idéal. Donc toujours donc là il est en train de donc initier en fait le travail écriture de
+16:4216 minutes et 42 secondesfichier hein réellement maintenant il est en train d'écrire donc le fichier et voilà donc vraiment il vient donc de créer donc ce briefing là je peux bien
+16:5116 minutes et 51 secondesévidemment le le le modifier le mettre à jour lui demander voilà donc de de d'ajouter en fait d'autres informations et réellement en fait il vient d'être
+16:5916 minutes et 59 secondesajouté ici sur le disque hein donc ça c'est le fichier MD en fait qui a été créé d'ailleurs si je clique là il va
+17:0517 minutes et 5 secondesouvrir carrément en fait la page et le voilà le fichier il est ici. Donc à ce moment-là, on a fait toute la
+17:1317 minutes et 13 secondesconfiguration complète. Tout ce qui reste à faire, c'est d'entrer dans le vif du sujet et de commencer vraiment à publier. Bien évidemment, avant de faire
+17:2117 minutes et 21 secondesla programmation en fait de publication, on va lui demander de nous créer pour voir un petit peu comment il crée et est-ce que la qualité elle est bonne ou
+17:2917 minutes et 29 secondespas. voir comment en fait par la suite donc dispatcher ça sur notre agenda et programmer pour que ça soit une tâche
+17:3617 minutes et 36 secondesrépétitive qui soit bien sûr conforme à notre besoin. Très bien. Donc on continue sur notre projet. Alors première chose à faire, je vais lui
+Chapitre 7 : Publier automatiquement sur les réseaux sociaux avec Co-Work
+17:4417 minutes et 44 secondesdemander en fait de le lister en fait les réseaux sociaux qui sont connectés avec mon compte Blood Tido. Ça c'est pour tester d'abord si la connexion MCP
+17:5217 minutes et 52 secondesfonctionne correctement ou pas. Donc là, il est en train donc de chercher les outils. Il doit détecter Blot Tito.
+17:5817 minutes et 58 secondesVoilà, ça c'est le connecteur. Ça c'est très bien. Et là, il va faire sortir la liste. Donc ça c'est très important.
+18:0418 minutes et 4 secondesC'est un petit peu donc les comptes qui sont connectés. Ça c'est très bien. Donc je vois qu'il a capté tous les comptes que j'ai qui sont en automatisation.
+18:1318 minutes et 13 secondesMaintenant, c'est une information très importante. Là, je vais lui demander d'écrire un post LinkedIn sur donc Cloud
+18:2118 minutes et 21 secondesCowork et je vais lui demander voilà donc de le passer voilà donc euh pour qu'il soit bien fait, pour qu'il soit
+18:3018 minutes et 30 secondesbien travaillé et après en fait on va le publier en fait sur donc LinkedIn. Donc ça c'est un petit prankte hein juste
+18:3718 minutes et 37 secondespour tester. Donc vous voyez là ici j'ai pas parlé de ni de l'image ni ce qui va être raccompagn avec le poste. Je suis
+18:4418 minutes et 44 secondesjuste en train de vous montrer en fait comment je peux faire les connexions et demander en fait le système. Donc là ici
+18:5118 minutes et 51 secondesil a décomposé en fait le la progression des tâches. Donc il va rédiger, il va par la suite le vérifier et après il va me le montrer donc pour la publication.
+19:0219 minutes et 2 secondesEt ce que j'ai remarqué là ici, ça je pense que c'est aussi c'est très intéressant, il a capté que j'ai des compétences qui sont dans le poste LinkedIn. C'est des compétences que moi
+19:1019 minutes et 10 secondesj'ai mis en place qui vont aider en fait l'intelligence à créer un post LinkedIn qui est conforme avec l'identité, avec ce que je veux. Donc ça c'est un petit
+19:1819 minutes et 18 secondespeu ce qui est très intéressant avec donc Cloud. Regardez là. Donc il donne une note. Par la suite, il la corrige, il change et voilà, il fait un petit peu
+19:2819 minutes et 28 secondesson analyse hein pour que le poste soit vraiment à la hauteur. Et voici en fait le poste qui me le propose. Ça, je le trouve en fait qui est très très bien.
+19:3719 minutes et 37 secondesAlors, elle lui dit "Est-ce que voilà, est-ce que tu confirmes donc pour le publier ?" Alors là, je lui dis "OK, pour publication."
+19:4619 minutes et 46 secondesDonc jusque-là en fait, je suis en train de le guider hein. Vous allez voir que une fois que je maîtrise ça avec un réseau, c'est la même chose sur tous les
+19:5419 minutes et 54 secondesréseaux. Et ce qui est très intéressant, rien qu'une information, il peut lui la distribuer sur tous les réseaux avec des formats différents, avec des visuels
+20:0320 minutes et 3 secondesdifférents et surtout je peux lui demander en fait de faire ça tous les jours avec des sujets différentes. C'est ça en fait ce qui est très intéressant
+20:1020 minutes et 10 secondesavec work, c'est comme si on a un employé qui fait la community manager, qui fait la publication, donc il fait la recherche, il rédige, il entre dans les
+20:1920 minutes et 19 secondesréseaux, il publie. Mais ça, on peut l'automatiser avec ce système. Alors, ce qui est très intéressant, il vient de me donner en fait le lien. D'ailleurs, si
+20:2820 minutes et 28 secondesje vais aller sur Blot Tato, je vais aller en fait dans les postes publiés ici, normalement je devrais trouver
+20:3520 minutes et 35 secondesvoilà ça en fait le lien qui me montre en fait que il vient de le créer ici. Et ça, c'est très intéressant. Donc du coup, soit je clique là, soit
+20:4320 minutes et 43 secondesdirectement sur le lien que lui il me l'a communiqué. Donc on va le copier pour tester. Et voici en fait le poste.
+20:4920 minutes et 49 secondesAlors la mise en forme vraiment elle est extraordinaire donc il a été bien fait.
+20:5220 minutes et 52 secondesBien évidemment j'ai pas d'image qui est accompagné mais quand même ça c'est le poste qui vient d'être partagé à l'instant et donc mission accompli. Donc
+21:0121 minutes et 1 secondelà on va le supprimer vu que juste ça été pour tester. Alors maintenant on va lui demander de me créer un autre poste sur un autre sujet. Cette fois-ci, je
+21:1021 minutes et 10 secondesveux que qu'il travaille sur le sujet de Hermes. Et ici, dans notre dossier, regardez, j'ai tout simplement placé une petite image ici, hein. Je veux qu'il
+21:1921 minutes et 19 secondesutilise en fait cette image. Donc la même chose là, j'ai lui demandé en fait de le programmer demain. Donc voilà, à
+21:2621 minutes et 26 secondes11h30 par exemple. Et donc du coup, je lui dis "Ne publie pas." Donc montre-moi le lien de voilà pour prévisualiser d'abord avant la publication. Donc du
+21:3521 minutes et 35 secondescoup, je lance le travail. Cette fois-ci, ce qu'il a différent, il y a deux choses. Il va utiliser une image existante sur le dossier. Il va essayer
+21:4521 minutes et 45 secondesen fait de programmer et de m'envoyer en fait un aperçu. Donc du coup avec donc les extensions qu'on a mis en place, en
+21:5221 minutes et 52 secondesfait il a la main de faire énormément de choses. Voilà. Donc là ici, il ajoute en fait les progressions. Il fait appel bien évidemment aux compétences qu'il a
+21:5921 minutes et 59 secondesbesoin, au connecteur qu' a besoin. Et vous allez voir au fur et à mesure qu'on avance, on peut aller en fait carrément à la création d'images et des vidéos
+22:0722 minutes et 7 secondespersonnalisées et qu'est-ce que c'est cork qui va le faire à notre place. Donc du coup là, je le laisse en fait voilà terminer tranquillement pour voir l'aperçu final. Alors là, il m'envoie un
+22:1622 minutes et 16 secondespetit message, je me dis OK, comment je peux uploader cette image ? Alors ce qui est très intéressant que upload l'image on n pas besoin d'héberger l'image ni de
+22:2422 minutes et 24 secondesla mettre sur Google Drive, c'est Blitto qui s'occupe parce que lui il peut applaudir l'image et lui il peut faire le travail pour l'envoyer en fait sur
+22:3122 minutes et 31 secondesles réseaux sociaux. Et donc du coup c'est ça l'important lorsqu'on fait les connecteurs et on ajoute les skills et les compétences. Donc du coup là je lui
+22:3822 minutes et 38 secondesdis oui. Alors il me dit OK à publier à quelle heure on va choisir France. Vous voyez ce genre en fait d'informations que moi je donne, lui il va bien
+22:4622 minutes et 46 secondesévidemment les ajouter dans ses propres instructions. Donc du coup, j'aurais pas besoin en fait de répéter ça à chaque fois. Et si je regarde donc il a analysé
+22:5422 minutes et 54 secondesl'image parce que il peut voilà me donner en fait son point de vue par rapport à l'image, je lui donne les informations et là il est en train de créer en fait le poste. C'est programmé.
+23:0323 minutes et 3 secondesLaisse-moi récupérer le lien. Donc ça c'est top. Donc le poste là maintenant il a programmé. Alors, si je reviens
+23:1123 minutes et 11 secondessur mon agenda ici, alors donc sur l'agenda, si on va revenir et regarder,
+23:1923 minutes et 19 secondeson trouve voilà donc la programmation c'est ici. Voilà, nous on est là et c'est là en fait qu'il a fait le schedule, qu'il a fait la programmation
+23:2723 minutes et 27 secondeset c'est vraiment très très [raclement de gorge] intéressant et ça aussi c'est quelque chose qui qui intéressante. Donc du coup, on touche à
+23:3423 minutes et 34 secondesrien. On laisse donc le faire les choses lui-même et on là on va chercher le lien en fait pour pouvoir visualiser.
+23:4323 minutes et 43 secondesAlors pour la visualisation, il lui dit il ne génère pas le lien. Euh en tout cas, il y a pas de souci, on va tout simplement récupérer le lien ici. Voilà.
+23:5323 minutes et 53 secondesDonc je peux voilà voir donc le lien et du programme comme je peux tout simplement le reprogrammer ou le laisser. Alors, la reprogrammation, elle
+24:0124 minutes et 1 secondeest très très importante parce que ici, en fait, imaginez que tu as énormément de postes qui sont programmés toute la semaine. Au lieu de les changer
+24:0924 minutes et 9 secondesmanuellement, imaginez que là, tu peux venir ici et tu lui dis euh voilà, tu changes tous les futurs postes.
+24:2224 minutes et 22 secondesAlors et tu vas leur dire sur tous les réseaux, voilà, et tu les publies
+24:3224 minutes et 32 secondeseuh et tu les programmes, on va mettre avec G + 3. Et ça, ce qui est très intéressant.
+24:4324 minutes et 43 secondesDonc du coup, ce qu'il va faire, il va aller dans l'agenda checker tous les posts qui sont programmés dans tous les réseaux. Bien, je peux spécifier un réseau, un Facebook ou autre. et je leur
+24:5024 minutes et 50 secondesdis "Écoutez, tu ajoutes un J + 3." Ça c'est un travail en fait si tu le fais manuellement hein, c'est si jamais en fait tu as un agenda qui est assez compliqué, qui est lent et parfois tu
+24:5924 minutes et 59 secondesveux juste libérer la semaine prochaine ou bien les trois premiers jours prochain jours parce que tu as une information importante que tu veux partager, ça le faire manuellement ça
+25:0725 minutes et 7 secondesprend énormément de temps et là aujourd'hui c'est très important.
+25:1025 minutes et 10 secondesRegardez là il récupère tous les posts qui sont programmés et il va chercher les outils nécessaires et il va tout simplement les mettre en place. Alors il me dit il n'y a qu'un seul. Bah c'est
+25:1725 minutes et 17 secondestout à fait normal et je pense qu'il a changé. Voilà, il est en train de faire la mise à jour et ça ce qui est vraiment très intéressant avec le cowork. Je
+25:2625 minutes et 26 secondesrappelle que ça on peut pas le faire avec le chat classique de cloud, on le fait avec le cowork de cloud et ça ça ramène voilà un système très
+25:3325 minutes et 33 secondesintéressant. Allez, si on regarde ici, on va actualiser et voir s'il a déplacé ça ici. Voilà, il
+25:4025 minutes et 40 secondesa déplacé le 19 au lieu de 17. Ça c'est important. Donc il a ajouté voilà donc les jours nécessaires pour que ça soit
+25:4625 minutes et 46 secondesici. Et ça c'est vraiment très très intéressant. Ça ça permet en fait de bien manipuler le système. Donc du coup là on aimerait bien voir ensemble
+25:5525 minutes et 55 secondesmaintenant comment on va créer les images et les photos ou bien personnaliser en fait le contenu avec donc notre outil. Je vous montre tout de
+26:0326 minutes et 3 secondessuite comment laisser le système non uniquement créer la poste mais aussi créer l'image et le visuelle. Alors là,
+Chapitre 8 : Générer des visuels et des publications avec Claude Co-Work
+26:1026 minutes et 10 secondeson va faire autre chose, création de poste et création de visuel qui va accompagner le poste. Alors, avant de
+26:1726 minutes et 17 secondesmontrer, c'est très important de voir ici en fait, si je vais aller dans la partie vidéo là sur Blut Tato, cette partie là, elle va me donner en fait
+26:2626 minutes et 26 secondesaccès à créer en fait soit des vidéos, soit des images, soit des animations avec Blue Tato. Et c'est Blue Tato qui
+26:3326 minutes et 33 secondespeut créer ce genre de publication. Tout ce que vous êtes en train de voir, ce qu'on appelle des templates, hein, donc des structures que je peux demander.
+26:4126 minutes et 41 secondesVoilà, donc à work entrer ici, créer donc les informations, voilà avec le visuel qui m'intéresse hein. Si ça
+26:4826 minutes et 48 secondesm'intéresse de poster un truc comme ça, tout ce qui texte, tout ce qui est contenu, en fait Cowork peut demander à Blutto de le faire pour moi. Et ça, en fait, ça me permet de créer de contenu
+26:5726 minutes et 57 secondesde très bonne qualité rapidement et le publier sur plusieurs réseaux. Quand vous voyez hein, le format ça change hein, il y en a ceux qui sont animés, ceux qui sont fixes, ceux qui parlent
+27:0527 minutes et 5 secondeshein. Donc il y a des vidéos aussi hein qui peuvent être créés. Donc c'est un système vraiment très intéressant. Alors moi j'aime souvent en fait ce genre de
+27:1327 minutes et 13 secondesformat, le format qui se pas fait de cette manière-là. Donc ça ça marche très bien pour les reels et pour les stories surtout sur Instagram et TikTok. Et il y
+27:2227 minutes et 22 secondesa en fait le format qui sont le plus simple que je l'utilise aussi sur donc sur Facebook hein. Donc il y en a
+27:2927 minutes et 29 secondescelui-là que j'aime beaucoup, il fait des schémas et il y en a un autre qui fait un tableau hein. Donc il y en a un, on va le regarder ensemble, c'est celui-là. Voilà. Donc euh l'idée en
+27:3827 minutes et 38 secondesfait, il a la trace, il a travaille en fait ce format donc de de tableau et bien sûr c'est pas moi qui va mettre le prank, il va générer la vidéo, on va
+27:4627 minutes et 46 secondeslaisser en fait tout simplement euh workork travailler avec le whitebard donc infographique. Donc ça c'est l'infographie en fait de tableau. Alors
+27:5527 minutes et 55 secondessi je reviens ici bien sûr vous vous devez choisir un petit peu le modèle les noms ici hein. Vous prenez le nom et vous allez aller tout simplement ici et
+28:0428 minutes et 4 secondesdonner donc le prank. Alors pour moi, j'ai j'ai choisi en fait de créer un prankte qui soit plus sympathique, donc que ça soit un peu plus intéressant. Je
+28:1128 minutes et 11 secondesvous montre. Je vais lui demander de créer un post cette fois-ci, je veux qu'il soit posté sur ma page Facebook
+28:1828 minutes et 18 secondesDocteur Firas parce que vu que cowork qui peut publier sur tous les réseaux grâce à tout. Donc je lui donner une idée, voilà, comment l'intelligence
+28:2628 minutes et 26 secondesartificielle voilà va nous faire donc gagner en fait du temps. Euh je parle aussi de Cloud Cork. Euh ça en fait
+28:3528 minutes et 35 secondesc'est tout simplement un sujet à partager simple. Après je lui donne l'angle avec laquelle qui doit en fait travailler le problème. Ça c'est un
+28:4328 minutes et 43 secondespetit peu au côté visuel et vous voyez là dans le visuel j'ai proposé qu'il travaille avec le tableau blanc pour dessiner. Et là, je suis libre en fait
+28:5028 minutes et 50 secondesde lui donner en fait les informations comme je peux ne pas lui donner les informations comme je peux le laisser ouverte hein et que c'est lui en fait qui va proposer les informations.
+29:0029 minutesD'ailleurs, c'est ce qu'on va faire. On va copier ça. On va aller ici, on va coller en fait notre prente et côté visuel, on va le laisser choisir à notre
+29:0929 minutes et 9 secondesplace ce qu'il va fairein. Comme ça, c'est plus libre. Et je lance. Alors, vous allez voir comment maintenant il va
+29:1829 minutes et 18 secondesréagir. Comme toujours, il va aller consulter en fait les compétences qu'il a et il va bien évidemment passer en fait à la création. Donc on va regarder
+29:2729 minutes et 27 secondesun petit peu ce qu'il va faire et la progression, on peut l'avoir même ici. Après il va faire le donc les tâches.
+29:3329 minutes et 33 secondesVoilà. Donc là maintenant, il est en train d'ajouter les tâches qui va donc traiter selon en fait le besoin que j'ai fait.
+29:3929 minutes et 39 secondesLà, il cherche donc les outils. Donc du coup, regardez, il est entré dans les templates. Donc là, il regarde les templates. Il est en train de chercher le template que j'ai proposé de tableau
+29:4829 minutes et 48 secondesblanc. Donc là, il est en train de chercher pour voir un petit peu le printre. Voilà. Donc il a capté en fait, il a trouvé le ID. Donc comme on a dit,
+29:5629 minutes et 56 secondesnous on entre pas dans les techniques, on les quork en fait faire des choses.
+29:5929 minutes et 59 secondesEt là, voilà. Donc il a mis quelque part. Donc là ici il va rédiger le poste, il va générer le visuel, il va vérifier, checker le poste et après il
+30:0730 minutes et 7 secondesva me montrer le visuel en fait une fois qu'il fait la publication. Je peux bien sûr lui demander, ça aussi c'est très intéressant parce que grâce en fait à
+30:1630 minutes et 16 secondesnotre connexion, on peut demander de ne pas mettre le poste public. Ça veut dire qu'il le met voilà par exemple privé ou
+30:2330 minutes et 23 secondesbien qu'il met en bru et c'est moi en fait qui le valide manuellement. Ça c'est possible et c'est ce que je vous recommande toujours lorsque vous commencez à mettre les publications et
+30:3230 minutes et 32 secondestout et c'est toujours de programmer par exemple la publi dans 3h et que vous recevez voilà en fait la notification avec les liens et que te dit qu'il a
+30:4030 minutes et 40 secondesterminé comme ça vous checkz he ça c'est intéressant et vous pouvez faire ça pendant une ou deux semaines jusqu'à ce que le système soit vraiment asynchrone
+30:4830 minutes et 48 secondeset adapté à 100 % avec votre besoin et donc du coup là vous pouvez le laisser en fait voilà faire les publications en automatique à 100 % Donc là, du coup, il
+30:5730 minutes et 57 secondesexécute des commandes sur Plotay. Je vois il est euh il n'a pas encore terminé en fait la génération de l'image. Donc je pense que ça prend un
+31:0531 minutes et 5 secondespetit peu de temps. Bien sûr, si tu choisis des images de type euh alors il y a des images en fait qui sont de type
+31:1231 minutes et 12 secondesvidéo, hein, et c'est eux qui prennent un peu plus de temps, c'est normal. Bon, pratiquement une ou de minutes, ce sont ou bien celle qui a des textes avec la
+31:2131 minutes et 21 secondesmusique aussi he qui est accompagné. Ça c'est normal, ça prend un petit peu de temps. Et voilà. Donc ça c'est vraiment un système qui est ultra ultra
+31:2931 minutes et 29 secondesintéressant pour faire les publications en automatique. Alors il vient de finir je pense là il m'a montré le visuel. On peut cliquer pour checker le visuel.
+31:3831 minutes et 38 secondesIl va ramener directement voilà ça c'est le visuel. Voilà par rapport à Cowork. Voilà le briefing comment il publiek.
+31:4731 minutes et 47 secondesAh vraiment il a fait un tableau complet hein. J'aime bien j'aime bien la boucle copiercollée qui détruit le temps. Ça c'est très intéressant. J'aime bien en
+31:5431 minutes et 54 secondesfait ce qu'il a euh donc proposé et c'est un vrai tableau hein, un vrai tableau avec des descriptions bien
+32:0232 minutes et 2 secondesdétaillé. Moi je pense que publier ce genre de contenu et le mettre directement, ça peut être vraiment une très belle idée à partager en fait sur
+32:1032 minutes et 10 secondesles réseaux sociaux. Alors du coup là euh il est en train il est en train de me donner en fait voilà la description
+32:1832 minutes et 18 secondesen fait du du poste. Alors il me dit je publie sur la page dès que tu me donnes le feu vert. Alors ça c'est le poste. On
+32:2532 minutes et 25 secondesva le dit OK pour publication et on regarde là maintenant normalement il devrait faire appel à d'autres
+32:3332 minutes et 33 secondescompétences sur donc blotato celle en fait qui va permettre en fait voilà créate post. Donc là ici, il envoie
+32:4132 minutes et 41 secondesl'image que lui il a créé et il va la mettre avec le poste. Il va me donner bien évidemment donc le lien final en fait de mon poste. Donc du coup là il
+32:4932 minutes et 49 secondesest dans la phase de publication. Donc là il vient de finir. Allez on va checker en fait ça si ça a été mis ou pas. Donc là il me ramène directement vers le poste. Et voilà ça a été fait.
+33:0033 minutesMoi, je trouve que c'est top. Et en plus de ça, si je vais aller à Blot Tato, on va partir plutôt dans la partie là où il y a les postes.
+33:1033 minutes et 10 secondesVoilà les donc les postes publiés, je devrais trouver voilà la toute dernière qui celle-là en fait qui vient d'être partagée. Bien sûr, moi je lui dis de la
+33:1833 minutes et 18 secondespartager comme je peux bien évidemment donc la programmer. Et donc du coup ce que l'on fait ici, on vient donc de publier sur Facebook. Alors imaginez que
+33:2633 minutes et 26 secondestu peux faire sur tous les posts et tous les domaines en fait que tu as connecté ici parce que j'ai plusieurs donc je
+33:3433 minutes et 34 secondespeux programmer des dates, je peux publier immédiatement, je peux créer plusieurs sujets et même parfois la même publication je peux la changer selon le
+33:4233 minutes et 42 secondesformat parce que sur Instagram je peux faire un format vertical sur le réseau X format carré. Donc du coup, il a la
+33:5133 minutes et 51 secondespossibilité de diversifier ça et en simple clic, un simple prier un petit peu partout et ça aussi c'est la force
+33:5733 minutes et 57 secondesen fait de travailler avec cowwork en le connectant avec des systèmes externes comme celle de Plotato. Alors maintenant, on peut vraiment créer une
+Chapitre 9 : Automatiser la recherche quotidienne des tendances
+34:0634 minutes et 6 secondespetite structure hein donc avec notre projet. Regardez donc là ici lorsque je vais dans le projet en question, vous
+34:1434 minutes et 14 secondesallez voir que je peux programmer en fait des tâches récurrentes sur ce projet-là. Et les tâches récurrentes, ce sont des tâches en fait qui sentent très
+34:2234 minutes et 22 secondesimportantes parce que je vais créer quelque chose en fait planifié. Alors mon idée c'est quoi ? Je vais faire une petite veille veille. Voilà donc qui va
+34:3034 minutes et 30 secondesveiller sur tout ce qui est tendance en intelligence artificielle. Je vais demander au système que voilà chaque par exemple samedi, je veux qu'il va
+34:3934 minutes et 39 secondesvérifier s'il y a des nouvelles idées en fait sur tout ce qui est en fait intelligence artificielle. Donc je peux lui donner un petit print ici comme ça.
+34:4934 minutes et 49 secondesAlors le prank, je lui demande de chercher les plus marquante euh idées et tendances en intelligence artificielle
+34:5734 minutes et 57 secondesdes 7 derniers jours. Je donne la cible et je lui demande voilà ce qu'il va faire. Alors moi je veux en fait qu'il
+35:0435 minutes et 4 secondesme crée un dossier qui s'appelle idée et à l'intérieur voilà il va mettre tout simplement l'idée qu'il a trouvé hein.
+35:1035 minutes et 10 secondesEt vous allez voir que pourquoi en fait je veux la mettre en attente parce que après, je vais traiter cette idée-là et créer de contenu par rapport à cette
+35:1735 minutes et 17 secondesidée. C'est pour cela, une fois qu'il est traité, elle va partir sur donc de l'état en attente, elle va être euh tout simplement traitée. Tout à fait normal.
+35:2735 minutes et 27 secondesEt là, voilà. Donc le système, il va essayer aussi de mettre les dates sur le fichier lorsqu'il va le créer. Ça c'est important. Et là, je lui donne une
+35:3535 minutes et 35 secondespetite structure, voilà, sur comment en fait je veux qu'il travaille ce projetl.
+35:4035 minutes et 40 secondesAlors, je lui donne donc le dossier là où il va donc travailler. Donc alors
+35:4735 minutes et 47 secondesnous, on va chercher en fait notre dossier.
+35:5135 minutes et 51 secondesAlors, par défaut, il est là, tu vois, par défaut, il est là. Donc on va le laisser dans le noyau et à ce moment-là en fait, il va ajouter en fait les
+35:5935 minutes et 59 secondesdossiers nécessaires. Donc on va pas faire ça de manière manuelle, on va le laisser en fait le faire d'une manière donc automatisée. Et la fréquence, ça
+36:0836 minutes et 8 secondesc'est important, je peux lui dire en fait voilà la fréquence, allez on va faire jour de la semaine. Allez on va le
+36:1436 minutes et 14 secondesfaire donc d'une manière hebdomadaire plutôt chaque samedi à 9h. Voilà, ça c'est un petit
+36:2236 minutes et 22 secondespeu en fait la programmation que je veux faire. Et du coup je confirme, j'enregistre. Donc là elle vient d'être
+36:2936 minutes et 29 secondesdonc ajouté. Alors il faut faire très attention. Tout ce que je programme, il va être bien évidemment ajouté. Je peux
+36:3636 minutes et 36 secondesdéjà l'exécuter maintenant juste pour voir un petit peu ce qu'il va créer comme projet. Donc là je viens de l'exécuter. Pour moi, ça m'intéresse de
+36:4636 minutes et 46 secondesvoir donc le projet. Donc la tâche me dit elle a démarré. Ça c'est bien, il est en train de travailler. Vous allez voir qu'il va créer en fait les
+36:5436 minutes et 54 secondesinformations. Et c'est très important de faire toute une structure parce que pour moi la structure que je cherche c'est
+37:0237 minutes et 2 secondesquoi ? C'est que je veux un système qui cherche les informations. Ceux qui sont en attente par la suite on va les déclencher pour que je puisse créer de
+37:1037 minutes et 10 secondescontenu en fait sur ces datas là et voilà les publier sur les réseaux sociaux comme vous voyez là. Donc là il va faire la progression. Tout ce travail
+37:1837 minutes et 18 secondesqui est en train de faire ici va être fait sur le dossier social média qu'on a créé et on attend bien évidemment qu'il va me créer en fait ici les dossiers
+37:2637 minutes et 26 secondesavec donc les idées hein. Donc on va le laisser tourner un petit peu le temps qu'il termine pour qu'on puisse bien évidemment ajouter euh donc les
+37:3437 minutes et 34 secondesdémarches suivantes qu'on va planifier en fait les publications et la création de contenu sur mesure. Alors la tâche vient d'être exécutée he déjà on va voir
+Chapitre 10 : Automatiser la création quotidienne de contenu
+37:4337 minutes et 43 secondesici effectivement donc il m'acce en fait les dossiers que j'aurais besoin. Allez, on va jeter un petit coup d'œil sur le dossier. Il a créé idé et ceux qui sont
+37:5237 minutes et 52 secondesen attente et ceux qui sont traité. Ça ce que je cherchais, hein. Alors maintenant, comment automatiser ? Donc on a un système qui va me chercher les
+38:0038 minutesidées, voilà, tous les jours ou bien toutes les semaines. Alors maintenant, je reviens toujours à mon projet ici. Et cette fois-ci, on va programmer autre
+38:0738 minutes et 7 secondeschose. Alors là, ici, on va cliquer là, on va créer une nouvelle tâche et cette tâche là, ça va être une tâche de production quotidienne. Et il va faire
+38:1538 minutes et 15 secondesquoi comme description ? Bah écoutez tout simplement, il va traiter voilà l'idée en attente, il va programmer les postes. Ça ce qu'il va faire.
+38:2338 minutes et 23 secondesMaintenant, on a besoin d'imprant. Bien évidemment, il faut aller voir un prte vraiment de qualité pour qu'on puisse le mettre ici. On peut aussi hein, si on
+38:3038 minutes et 30 secondesveut lui donner le maximum en fait de d'autorisation pour qu'il puisse vraiment exécuter. Et la fréquence, je peux surtout la faire aller quotidienne
+38:3938 minutes et 39 secondestous les jours à 9h. Alors, je vous montre le poste avant de le le prente, hein, avant donc de le de le mettre ici.
+38:4738 minutes et 47 secondesMon prente consiste à quoi ? Je vais vérifier le dossier qu'on a créé qui contient en fait des idées en attente.
+38:5338 minutes et 53 secondesSi le dossier il est vide, donc il va s'arrêter, il n'y a pas de chose à faire. S'il n'est pas vite, il va passer à l'action. Alors ce qu'il va faire, il
+39:0039 minutesva travailler tout simplement. il va lire l'idée, il va créer de posts LinkedIn et Facebook. Là, vous êtes libre d'ajouter et de dire que voilà, je
+39:0939 minutes et 9 secondesveux faire 5 6 7 postes avec plusieurs angles différents ou les postes que je vais les créer sur plusieurs réseaux, ça
+39:1739 minutes et 17 secondesc'est possible parce que n'oubliez pas sur Blot Tito, on a jusqu'à tous ces postsl tous ces réseaux là, on peut l'utiliser même si on a plusieurs comptes sur chacune de ces réseaux-là.
+39:2839 minutes et 28 secondesEt ensuite ici, je vais demander en fait de de créer en fait ces postes là et de vérifier des postes. Ça c'est très
+39:3639 minutes et 36 secondesimportant. Ça c'est voilà pour avoir une meilleure qualité. Et de créer le visuel, ça c'est important. Et le visuel ici, je peux le demander comme vous le
+39:4339 minutes et 43 secondesvoyez là, adapter au sujet et aussi je peux ajouter adapter au réseau parce que je peux lui demander de créer plusieurs visuels différents. Voilà, vertical pour
+39:5239 minutes et 52 secondesInstagram, carré pour Link Kid in. Donc du coup là, j'ai la possibilité vraiment d'adapter selon vraiment mon besoin et
+40:0040 minutesil doit les programmer par exemple les post je lui donne l'heure exact et ne pas publier immédiatement. Comme ça, moi
+40:0740 minutes et 7 secondesj'ai serai notifié, je fais un petit check et après une fois que tout fonctionne très bien, vous pouvez le rendre en fait à 100 % automatisé. Et
+40:1440 minutes et 14 secondesattention, il doit l'enregistrer dans un autre dossier qui s'appelle output post.
+40:2040 minutes et 20 secondesÇa c'est un petit peu pour la l'historique [raclement de gorge] pour que je puisse bien évidemment en fait suivre en fait ce qui a été fait, ce qui a pas été fait. Il déplace
+40:2840 minutes et 28 secondesmaintenant vers traité et bien évidemment il va écrire dans un journal.
+40:3340 minutes et 33 secondesJ'écris ici, j'ai exigé de qu'il me fait un fichier qui s'appelle journal pour que je puisse tout voir. Alors si je vais copier, regardez ce print là. Si je
+40:4240 minutes et 42 secondesvais aller tout simplement donc sur donc notre cloud là, je mets et je fais tout
+40:5040 minutes et 50 secondessimplement en fait l'enregistrement en fait de cette tâche qui vient d'être crée ici. Alors cette tâche on va la visualiser. Alors on va tout simplement
+40:5940 minutes et 59 secondesl'exécuter maintenant et vous allez voir en fait cette tâche là il va maintenant activer et passer à l'action. Donc
+41:0741 minutes et 7 secondesderrière, on peut l'avir, il va commencer carrément en fait à checker le dossier, à chercher les informations et à créer les posts jusqu'à la création de
+41:1641 minutes et 16 secondesvisuel et jusqu'à en fait la mise en ligne en fait de ce projet-là. Et c'est ça ce qui est très intéressant avec Cowork. Aujourd'hui, on exécute des
+41:2441 minutes et 24 secondestâches et on on a tout simplement un projet que le système il va le suivre avec des instructions précises et avec
+41:3141 minutes et 31 secondesvoilà une précision que je peux l'adapter. Alors ce que je vous recommande toujours lorsque tu travailles avec tu fais les tests, tu
+41:3941 minutes et 39 secondescommences voilà avec un premier poste, tu l'améliores, tu l'ajusties jusqu'à ce que le poste soit exactement comme tu veux. Une fois le mécanisme il est mis
+41:4841 minutes et 48 secondesen place, à ce moment-là, tu peux bien évidemment le laisser tourner en fait.
+41:5241 minutes et 52 secondesVoilà, en en permanence. N'oublie pas que toujours hein, si je reviens ici dans le projet, toujours dans le projet, tu peux ajouter plusieurs contextes, ça
+42:0142 minutes et 1 secondec'est important. Tu peux ajouter des dossiers qui contiennent des informations, tu peux ajouter des liens, tu peux bien évidemment améliorer les instructions parce que ça cette partie
+42:0942 minutes et 9 secondesd'instruction c'est la partie la plus importante parce qu'elle va être valable he tout ce qui va t'être fait en fait dans ce projet-là soit les tâches en
+42:1742 minutes et 17 secondesfait qui sont programmées, soit les travaux que tu vas le faire ici manuellement en exécutant en fait les
+42:2442 minutes et 24 secondesinformations. Donc le cowork c'est un outil indispensable, très important qui vous donne en fait la possibilité en
+42:3242 minutes et 32 secondesfait de vraiment voilà programmer, laisser l'intelligence en fait travailler à votre place. Le contrôle humain, il est important mais si on
+42:3942 minutes et 39 secondescombine entre un contrôle humain et une intelligence puissante qui t'aide en fait à mettre une qualité
+42:4742 minutes et 47 secondessur vos réseaux sociaux, ça va vous gagner du temps et de l'argent. Voilà.
+Chapitre 11 : Programmer les horaires de publication automatiquement
+42:5142 minutes et 51 secondesDonc là, il vient de finir le travail, il m'a fait le journal. Alors, ce qui est très important pour moi de voir hein s'il a un petit peu changé l'emplacement
+43:0043 minutesdonc des des dossiers. Ça c'est important. Donc là, il a pris l'idée qui était en attente. On l'a vu. Hop, elle passe ici. Ça c'est bien. Il a fait le
+43:0843 minutes et 8 secondesoutput. Donc là, il me donne toutes les informations sur le poste qu' lui il a créé et aussi bien un journal en fait pour pouvoir suivre en fait les voilà
+43:1643 minutes et 16 secondesdonc le ce que ce qu'il a fait exactement et toute la traçabilité.
+43:2043 minutes et 20 secondesAlors ce qui est très intéressant donc il a donc vu que on a dépassé 18h, c'est tout à fait normal. Donc lui il a cherché en fait un autre créneau hein pour mettre en fait notre poste.
+43:3043 minutes et 30 secondesD'ailleurs, si je reviens ici voilà dans les postes. Allez on va aller dans l'agenda plutôt. Voilà et on regardera
+43:3843 minutes et 38 secondesdonc notre agenda. Et voilà. Donc c'est pour cela il a programmé ça pour donc demain. Voilà, ça c'est très intéressant
+43:4543 minutes et 45 secondesvu qu'on a dépassé 18h. Et ici en fait il y a une information très importante.
+43:5043 minutes et 50 secondesAlors il y a la possibilité de venir en fait ici et d'ajouter ce qu'on appelle les slots. Alors les slots c'est quoi ?
+43:5543 minutes et 55 secondesC'est que tout simplement je peux lui dire écoutez voici les horaires là où je peux être disponible par exemple à publier. Par exemple aller sur donc le
+44:0444 minutes et 4 secondesréseau X. Donc je peux publier que le lundi par exemple, je mettrai voilà deux
+44:1144 minutes et 11 secondesautres dates et je fais la création. Et donc du coup là le système qu'est-ce qu'il va faire ? Il va laisser uniquement cloud publier dans ces
+44:1944 minutes et 19 secondeshoraires là. Donc je peux pas par exemple ajouter d'autres horaires et ça c'est important. Je peux par exemple là
+44:2544 minutes et 25 secondesallez on va prendre uniquement ça. On prendra d'autres créneaux. On mettra 14h et je mettrai voilà ça aussi.
+44:3444 minutes et 34 secondesça et ça et ça. Voilà, on ajoute donc le système ici, il ajoutera uniquement les réseaux dans les horair là où je peux
+44:4344 minutes et 43 secondeslui donner la permission de publier. Et ça c'est une information très intéressante parce que cette information là Cloud en fait peut la prendre en
+44:5144 minutes et 51 secondesconsidération et peut publier, remplir mon agenda dans les horaires que moi j'ai proposé. Donc du coup je lui dis plus euh par exemple demain et je
+44:5944 minutes et 59 secondesprécise l'heure, je peux lui dire demain tout seul. tout simplement si j'en ai une seule un seul créneau ou bien de lui dire voilà fais deux postes dans le
+45:0745 minutes et 7 secondespremier créneau tu publies une poste un premier poste et dans le deuxème tu publies un deuxème poste donc vraiment c'est très intéressant en fait de manipuler le système de cette manière-là
+45:1645 minutes et 16 secondesdonc là du coup aujourd'hui dans notre projet j'ai donc toute la programmation ceux qui crée la dat ce qui publie les
+45:2445 minutes et 24 secondesdatas et on a en fait tous les connecteurs nécessaires et les instructions pour faire tourner un système là où cloud ouork va travailler
+45:3345 minutes et 33 secondespour moi dans la production pour cette équipe marketing dans la création et la publication.
+
+Tout
+
+Source : Dr. Firas
+
+Informatique
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+
+19:23
+Le Général FOUT DES RAMEN dans son tacos !!
+LeMondeDeChoi
+ et Choi TCG
+34 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+5:42
+Track Google AI Overview Citations With n8n + Sheets
+DataForSEO - Powerful SEO API Stack
+42 vues
+•
+il y a 23 heures
+Nouveau
+Doublée automatiquement
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+22 k vues
+•
+il y a 19 heures
+Nouveau
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1 M de vues
+•
+il y a 2 semaines
+
+
+16:40
+Formation Claude N°1 | Vidéo 1 partie 1 – Les Fondations : Comprendre l'IA et les LLM
+Alexis Gatuingt
+597 vues
+•
+il y a 2 mois
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+7 k vues
+•
+il y a 18 heures
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+7:23
+C'est dans les vieux pots qu'on fait les meilleures confitures ?
+Zonebourse
+5,1 k vues
+•
+il y a 2 semaines
+
+
+24:43
+LES TRUCS ET ASTUCES!
+Bazar du Grenier
+879 k vues
+•
+il y a 10 jours
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+577 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+165 k vues
+•
+il y a 7 jours
+
+
+13:39
+Avoir un physique esthétique : Chance ou talent ?
+Le Musclay
+43 k vues
+•
+il y a 11 mois
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+526 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+3,9 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+31:20
+90 % des compléments sont inutiles
+Bodytime
+9,1 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+17:25
+Comment Claude m’aide à dépasser 99 % de mes concurrents
+Dr. Firas
+405 vues
+•
+il y a 4 jours
+Nouveau
+
+26:51
+Le prompt caché qui transforme Hermes en assistant personnel
+Dr. Firas
+814 vues
+•
+il y a 1 jour
+Nouveau
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+    
