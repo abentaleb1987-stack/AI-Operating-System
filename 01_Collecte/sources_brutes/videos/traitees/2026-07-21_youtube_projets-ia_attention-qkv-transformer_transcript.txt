@@ -1,0 +1,1109 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Attention Décortiquée : Ce Qui Se Passe Vraiment dans Q × K × V
+Projets IA
+Projets IA
+3,24 k abonnés
+
+S’abonner
+
+106
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+1 466 vues  14 juin 2026  #Attention #DeepLearning #Transformer
+🔬 Q × K × V — l'opération qui fait fonctionner ChatGPT, Claude, et tous les Transformers. Aujourd'hui, on regarde au microscope.
+
+Dans cette vidéo, on décortique :
+— Pourquoi chaque mot doit "regarder" tous les autres (et pourquoi RNN et CNN ne suffisaient pas)
+— Q, K, V comme trois projections du même vecteur (Query, Key, Value)
+— Le produit Q × K transposé → softmax → scores de pertinence
+— La somme pondérée des V → représentation contextuelle enrichie
+— Pourquoi multi-head : 12 versions parallèles pour capturer différents aspects sémantiques
+
+Q, K, V, c'est trois façons de regarder le même mot. Question, étiquette, contenu.
+
+
+📚 Sources et ressources
+— Vaswani et al. 2017 — Attention Is All You Need (arXiv:1706.03762)
+— Jay Alammar — The Illustrated Transformer : jalammar.github.io/illustrated-transformer
+— BertViz : visualiser les têtes d'attention : github.com/jessevig/bertviz
+— Stanford CS224N — Lecture sur l'attention
+
+👉 Projets IA — pour comprendre l'IA sans bullshit, un concept par vidéo.
+🔔 Abonne-toi !
+
+#IntelligenceArtificielle #MachineLearning #DeepLearning #Attention #Transformer #QKV #MultiHead #IAExpliquée #ProjetsIA
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+3,24 k abonnés
+Vidéos
+À propos
+21 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@SamTest-u5s
+il y a 3 jours
+Ce serait bien d'avoir une representation visuelle des matrices et du traitement pratique d'un prompt simple.
+
+1
+
+
+Répondre
+
+
+@angledor
+il y a 5 jours
+Très instructif.
+Sur la forme, ce serait bien de reprendre du naturel, des pauses, des accentuations. Ça aiderait à mieux comprendre.
+
+3
+
+
+Répondre
+
+Projets IA
+·
+
+1 réponse
+
+@huguesderoubaix8645
+il y a 1 jour
+Excellente vidéo sur l'attention ! Bravo !
+
+
+
+
+Répondre
+
+
+@SamTest-u5s
+il y a 3 jours
+Merci pour la vulgarisation. Je me demandais qu'est ce qui les empeche de rajouter d'autres matrices en plus de Q, K et V que le LLM pourrait decouvrir pendant son entrainement? A moins que cela genere une complexite en plus et donc un temps de traitement du prompt beaucoup plus grand.
+
+
+
+Répondre
+
+
+@SM-vz1ek
+il y a 4 jours
+T'es une queen merci beaucoup
+
+
+
+
+Répondre
+
+
+@morysh890
+il y a 4 jours
+Merci pour votre vidéo
+
+
+
+
+Répondre
+
+
+@nebilboughizene7317
+il y a 2 semaines
+BRAVO EXCELLENTE VULGARISATION
+
+
+
+
+Répondre
+
+
+@ahmedragala3946
+il y a 11 jours
+MERCI!
+
+1
+
+
+
+Répondre
+
+
+@lioneloddo
+il y a 1 mois
+C'est stylé et didactique.  "La spécialisation est une propriété émergent". A se demander, si pour devenir un spécialiste. Il ne faudrait pas se construire des matrices de projection wq,wk, wv. Et appréhender un sujet de différents points de vue qui serait une sorte de multihead.
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@chrx3195
+il y a 3 semaines
+Vidéo géniale ! C'est le genre de vidéo que je recherchais depuis un bon moment : avec des exemples simples (mais pas simplets) un peu de maths pour comprendre comment ça fonctionne sous le capot. Je reste sur ma faim pour savoir comment sont créés les matrices Wq,k,v  la question de la simplification (genre PCA?).  Merci
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@TheTraderidera
+il y a 3 jours
+Mais globalement comment le LLM une fois qu'il a compris la question et le sens génére des réponses ? Les réponses ne sont pas du par coeur
+
+
+
+Répondre
+
+
+@കാളികസം
+il y a 2 jours
+Et dire que mon cerveau, qui n'a ni Q ni K ni V et aucune puce en silicium, fait cela en une fraction de seconde !!!!!!
+Ça veut dire que l'organisation du cerveau est nettement plus performante que celle de l'IA.
+Concrètement, il faudra revoir de fond en comble l'organisation des ordinateurs et la calquer sur le cerveau humain.
+
+
+
+Répondre
+
+
+@naziftoure1175
+il y a 1 mois
+merci pour cette video
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@phiphi70
+il y a 2 jours (modifié)
+Spécialisation émergente des têtes d'attention : comment ?
+
+
+
+Répondre
+
+
+@RobertVERCORS
+il y a 11 jours
+Super video ! Une interrogation et une envie : comment les têtes se specialisent elles en ne donnant pas les mêmes sorties ? Comment matrices Q, K, Vsont elles identifiees ?
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est l'opération qui fait
+0:01
+fonctionner chat GPT, Claude et tous les
+0:04
+Transformers. Même si tu en as sûrement
+0:06
+entendu parler plus de 100 fois, je
+0:08
+parie que tu ne sais pas exactement ce
+0:10
+que ces trois lettres signifient. Et
+0:12
+aujourd'hui, c'est le thème de cette
+0:13
+vidéo. Tu sais déjà que l'attention est
+0:16
+au cœur des architectures Transformers.
+0:18
+Tu as peut-être déjà vu une formule soft
+0:20
+max de Q x K transposé divisé par √ car
+0:24
+D, le tout multiplié par V. Et cette
+0:26
+formule, on la voit souvent dans plein
+0:28
+de papiers et dans plein de tutoriels.
+0:30
+Mais maintenant, si je te demande
+0:31
+exactement qu'est-ce que signifie Q,
+0:33
+qu'est-ce que le K et qu'est-ce que le
+0:35
+V, tu vas probablement sécher parce que
+0:37
+tout le monde montre la formule mais
+0:39
+personne ne montre ce qu'elle calcule
+0:41
+vraiment. Aujourd'hui, on va y aller au
+0:43
+microscope. Pas avec des maths
+0:45
+abstraits, mais avec une intuition
+0:46
+concrète et tu vas voir exactement
+0:49
+comment un mot regarde les autres. Petit
+0:51
+rappel rapide. En 2017, h chercheurs de
+0:54
+Google publient un papier de 12 pages
+0:57
+intitulé Attention is all you need. Il
+1:00
+propose une architecture neuronale qui
+1:02
+n'utilise que la tension. Pas de
+1:04
+récurrence et pas de convolution. Et
+1:07
+cette architecture c'est le Transformer.
+1:09
+Tous les modèles DI majeur
+1:11
+d'aujourd'hui, Chat GPT, Cloud, Stable
+1:14
+Diffusion, Vision Transformer découlent
+1:17
+de ce papier. Ils utilisent tous la même
+1:20
+opération d'attention. Donc comprendre
+1:23
+Q, K et V, ça ne relève pas du détail.
+1:26
+C'est comprendre l'ingrédient qui rend
+1:28
+l'IA moderne possible. Pour cette vidéo,
+1:31
+je suis allée relire le papier d'origine
+1:34
+Attention is all Need de 2017 et
+1:36
+plusieurs ressources pédagogiques de
+1:38
+référence. Mon objectif est que tu
+1:40
+repartes en sachant exactement ce que Q,
+1:44
+K et V signifient. Pas besoin d'équation
+1:46
+complexe, on va y aller de façon
+1:48
+concrète. On va voir trois choses.
+1:50
+D'abord, le problème. Comment un mot
+1:52
+peut regarder les autres mots d'une
+1:54
+phrase et pourquoi c'est central ?
+1:56
+Ensuite, le mécanisme Q, K et V au
+2:00
+microscope pour comprendre comment cela
+2:02
+fonctionne étape par étape. Et enfin, le
+2:05
+multihead. Pourquoi 12 versions
+2:07
+parallèles et ce qu'elle capture chacune
+2:10
+? Avant de rentrer dans le vif du sujet,
+2:12
+on va poser deux notions. Tout d'abord,
+2:14
+un vecteur. Dans le Transformer, chaque
+2:16
+mot est représenté par un vecteur,
+2:19
+c'est-à-dire une liste de nombres,
+2:21
+disons 768 nombres pour GPT2 et 4096
+2:26
+pour lama. Et ce vecteur encode le sens
+2:29
+du mot. Deuxièmement, une projection.
+2:31
+Une projection, c'est juste une
+2:33
+multiplication par une matrice. Tu
+2:35
+prends ton vecteur de 168 nombres et tu
+2:38
+le multiplies par une matrice de 768 par
+2:42
+768. Tu obtiens un nouveau vecteur à 768
+2:46
+nombres et cette nouvelle représentation
+2:47
+peut mettre en avant certains aspects du
+2:50
+sens original. Garde ces deux mots en
+2:52
+tête, vecteur et projection. Maintenant
+2:54
+que ces deux notions sont posées, on
+2:56
+peut rentrer dans le vif du sujet.
+2:57
+Partie 1, le problème. Comment un mot
+2:59
+peut regarder les autres ? Première
+3:01
+partie, pourquoi est-ce qu'on a besoin
+3:03
+de cette opération d'attention ? Quel
+3:06
+problème elle résout ? Étape une, la
+3:08
+phrase exemple. Prends cette phrase, le
+3:09
+chat de Marie dort sur le canapé qu'elle
+3:12
+a acheté hier. Pour la comprendre, ton
+3:14
+cerveau fait quelque chose d'incroyable.
+3:16
+Il établit des liens entre les mots.
+3:18
+Elle, ça désigne Marie. Acheter, ça
+3:21
+concerne le canapé. Et hier, ça date,
+3:23
+l'achat. Ces liens, ce sont des
+3:25
+dépendances. Un mot dépend d'un autre.
+3:28
+Et si tu veux que Lia comprenne cette
+3:30
+phrase, il faut qu'elle fasse la même
+3:32
+chose. Pour le mot elle, il faut qu'elle
+3:34
+comprenne que elle se réfère à Marie et
+3:36
+pas à canapé ni à chat. C'est ce qu'on
+3:39
+appelle la céférence. Et c'est compliqué
+3:42
+parce que elle et Marie sont éloignés
+3:45
+dans la phrase et parce qu'il y a
+3:46
+plusieurs candidats. Marie, chat,
+3:48
+canapé, comment savoir ? L'idée du
+3:50
+Transformer, c'est de laisser chaque mot
+3:53
+regarder tous les autres mots en même
+3:55
+temps et de calculer pour chacun un
+3:57
+score de pertinence. Le mot qui obtient
+3:59
+le plus haut score, c'est celui dont le
+4:01
+mot courant dépend. Pour le mot elle, on
+4:04
+s'attend à ce que le mot marie le score
+4:06
+le plus élevé. Étape 2. Pourquoi les CNN
+4:09
+et les RN ne suffisaient pas ? Avant les
+4:12
+Transformers, on avait deux familles de
+4:13
+réseaux. les RN, les réseaux récurrents
+4:17
+qui lisaient les mots dans l'ordre un
+4:18
+par un en passant un résumé de mot en
+4:21
+mot et du coup les information du début
+4:23
+se perdent au fur et à mesure qu'on
+4:25
+avance. Le mot Marie mentionné plus tôt
+4:28
+est dilué lorsqu'il arrive au mot elle
+4:31
+qui arrive plus tard. les CNN, les
+4:33
+réseaux convolutifs. Regardez des
+4:36
+fenêtres de mots adjacents. Le problème
+4:38
+pour relier les mots elle et Marie qui
+4:41
+sont distants l'un de l'autre, il faut
+4:43
+empiler plusieurs couches. La tension
+4:45
+résout ça d'un coup. Chaque mot peut
+4:47
+regarder directement tous les mots peu
+4:50
+importe la distance. Pas de propagation
+4:52
+de gauche à droite, pas de fenêtre
+4:54
+adjacente. Tout est connecté à tout.
+4:56
+Donc la question est comment
+4:58
+mathématiquement on fait que chaque mot
+5:00
+peut regarder tous les autres ? et
+5:02
+calculer un score. Et ça c'est
+5:04
+exactement ce que Q, K et V font et
+5:07
+c'est ce qu'on va voir maintenant.
+5:08
+Partie 2 Q, K et V au microscope.
+5:11
+Deuxième partie, on rentre dans le
+5:13
+mécanisme Q comme query, K comme et V
+5:17
+comme value. Trois lettres et trois
+5:19
+rôles. Étape une, Q, K et V sont trois
+5:23
+projections d'un même vecteur. Voilà la
+5:25
+première chose qu'il faut comprendre.
+5:27
+Pour chaque mot de la phrase, on a un
+5:29
+vecteur, son embedding. Disons que c'est
+5:32
+un vecteur de 768 nombres dans notre
+5:34
+exemple. À partir de ce vecteur, on
+5:36
+calcule trois projections différentes.
+5:39
+Le vecteur initial, on l'appelle
+5:41
+[raclement de gorge] X. On le multiplie
+5:43
+par une matrice WQ et ça nous donne Q la
+5:46
+query. On le multiplie par une matrice
+5:49
+WK et ça nous donne K, la K. et on le
+5:52
+multiplie par une matrice WV qui nous
+5:55
+donne V la value. WQ, WK et WV sont des
+6:00
+matrices apprises lors de
+6:01
+l'entraînement. Elles transforment le
+6:03
+même vecteur en trois représentations
+6:06
+spécialisées et chacune a un rôle bien
+6:08
+précis. La querie, c'est la question que
+6:11
+pose le mot comme s'il demandait
+6:13
+qu'est-ce qui est pertinent pour moi ?
+6:14
+La qui c'est l'étiquette que porte
+6:17
+chaque mot. C'est comme s'il disait
+6:19
+voilà de quoi je parle. La value, c'est
+6:21
+le continu réel que le mot va contribuer
+6:24
+comme s'il offrait si tu me trouves
+6:26
+pertinent, voici ce que je t'apporte.
+6:28
+L'analogie classique, c'est un moteur de
+6:30
+recherche. Tu tapes une requête, c'est
+6:32
+la query. Le moteur cherche dans son
+6:34
+index, ce sont c'est qui et quand il te
+6:37
+trouve les bons résultats, il te montre
+6:38
+le contenu. Ce sont les values. Sauf
+6:40
+qu'ici, chaque mot fait simultanément
+6:43
+les trois rôles. Il a sa query pour
+6:46
+interroger les autres, il a sa pour être
+6:48
+interrogé et il a sa value pour être lu.
+6:51
+Étape 2. Le produit Q x K donne le score
+6:55
+de pertinence. Maintenant, comment le
+6:57
+mot L trouve quel mot lui est pertinent
+7:00
+? Avec un produit scalaire. Pour chaque
+7:02
+autre mot, on calcule le produit
+7:03
+scalaire de la query du mot L avec la
+7:06
+qui de cet autre mot. Le produit
+7:08
+scalaire, c'est une mesure de similitude
+7:10
+entre deux vecteurs. Plus ils pointent
+7:12
+dans la même direction, plus le résultat
+7:14
+est grand. S'ils sont orthogonaux, le
+7:16
+résultat est nul. Donc concrètement, le
+7:18
+mot L compare sa query avec la qui du
+7:21
+mot Marie, avec la qui du mot chat et
+7:24
+avec la qui du mot canapé, avec la qui
+7:27
+de chaque mot. Pour chaque comparaison,
+7:28
+on obtient un nombre. Plus ce nombre est
+7:30
+grand, plus ce mot est pertinent pour le
+7:32
+mot L. Sur notre phrase, on s'attend à
+7:34
+ce que la comparaison de Q L avec la
+7:38
+valeur K du mot Marie obtiennent le
+7:41
+score le plus élevé. C'est exactement ce
+7:43
+qui se passe lorsque le modèle est bien
+7:45
+entraîné. Les matrices WQ et WK ont
+7:49
+appris à projeter les mots L et les mots
+7:52
+mari dans des directions alignées dans
+7:54
+l'espace. Petite normalisation, on
+7:56
+divise tous les scores par la racine
+7:58
+carrée de la dimension du vecteur.
+8:00
+Pourquoi ? Parce qu'avec des vecteurs de
+8:02
+768 dimensions, les produits scalaires
+8:04
+peuvent devenir énormes, ce qui rendrait
+8:06
+le softmax beaucoup trop piqué. Donc la
+8:09
+racine carrée stabilise l'échelle.
+8:11
+Ensuite, on passe les scores au softmax.
+8:14
+Le softmax, c'est la fonction qui permet
+8:16
+de transformer les store en probabilité
+8:19
+dont la somme fait 1. Pour le mot L, on
+8:22
+obtient une distribution mari à 70 %,
+8:25
+chat à 10 %, canapé à 7 % et les autres
+8:29
+mots se partagent le reste. Cette
+8:31
+distribution s'appelle les poids
+8:33
+d'attention. Elle dit "Voici pour chaque
+8:35
+autre mot à quel point je le trouve
+8:38
+pertinent pour moi." Étape 3, la somme
+8:40
+pondérée des V sort. Dernière étape, on
+8:44
+a maintenant les poids d'attention pour
+8:46
+le mot L, c'est-à-dire combien chaque
+8:48
+autre mot compte pour lui. Comment on
+8:51
+utilise ça ? On fait une somme pondérée
+8:53
+des values. Pour chaque mot, on prend sa
+8:56
+value v et on la multiplie par ses poids
+8:58
+d'attention. Puis on additionne tout. Le
+9:00
+résultat, c'est un nouveau vecteur, la
+9:02
+sortie de l'attention pour le mot L. Ce
+9:05
+nouveau vecteur, c'est le mot L mais
+9:08
+enrichi de son contexte. Il est dominé
+9:10
+par la valeur du mot Marie parce que
+9:13
+c'était lui qui était le plus pertinent.
+9:15
+Mais il contient aussi un peu de chaque
+9:17
+mot proportionnellement à son
+9:19
+importance. Et c'est pour ça qu'on dit
+9:20
+que l'attention enrichit le mot par son
+9:24
+contexte. Le vecteur initial du mot L,
+9:27
+c'était juste le sens lexical du mot
+9:30
+après le mécanisme de la tension. C'est
+9:32
+le mot elle avec le contexte du mot
+9:35
+Marie, dans le contexte du mot canapé et
+9:38
+dans le contexte de toute la phrase. Le
+9:40
+sens devient contextuel. Cette
+9:43
+opération, on le fait pour chaque mot de
+9:45
+la phrase en parallèle. Chaque mot
+9:47
+devient sa propre version enrichi. Bon,
+9:50
+tu sais maintenant ce que Q, K et V
+9:52
+calculent. Mais il reste une dernière
+9:54
+subtilité. Pourquoi on en fait plusieurs
+9:55
+en parallèle ? Et c'est ce qui multiplie
+9:57
+le pouvoir de l'attention. Partie 3,
+10:00
+multiad Nion parallèle. 3e partie le
+10:04
+multihead. Pourquoi GPT3 a 12 têtes
+10:07
+d'attention et pas une seule ? Étape
+10:09
+une, une tête se spécialise. Une tête
+10:11
+d'attention, telle qu'on vient de le
+10:13
+décrire, peut faire une seule chose à la
+10:16
+fois. Pendant l'entraînement, elle se
+10:18
+spécialise si elle est utilisée
+10:20
+principalement pour la corréférence. Ces
+10:22
+matrices WQ, WK4, WV apprennent à
+10:26
+projeter les mots dans des dimensions
+10:28
+qui rendent la corréférence facile à
+10:31
+détecter. Mais une phrase a plusieurs
+10:33
+types de dépendance simultanément.
+10:35
+Coréférence, le mot elle renvoie au mot
+10:38
+Marie. Syntaxe, le mot acheter dépend du
+10:42
+mot. Dépendance longue, le mot hier.
+10:45
+Date, le mot acheter. Une seule tête ne
+10:48
+peut pas tout faire bien en même temps.
+10:50
+Étape 2, plusieurs têtes en parallèle.
+10:52
+La solution, c'est le multihead. On ne
+10:55
+fait pas une attention, on en fait N en
+10:57
+parallèle, chacune avec ses propres
+11:01
+matrices WQ, WK et W. Chacune produit sa
+11:05
+propre sortie pour chaque mot. Pendant
+11:08
+l'entraînement, ces N tête se
+11:10
+répartissent les rôles tout le seul.
+11:12
+Personne ne leur dit "Toi, tu fais la
+11:14
+corréférence, toi tu fais les
+11:16
+dépendances longues, toi tu fais la
+11:18
+syntaxe." Elles trouvent leur
+11:20
+spécialisation par optimisation. Quand
+11:22
+on visualise les têtes d'un transformer
+11:25
+entraîné, il existe des outils comme
+11:27
+bird vis pour le faire. On voit
+11:29
+clairement que la tête 3 capture la
+11:31
+corréférence, que la tête 7 fait la
+11:34
+ponctuation, la tête 11 capte les
+11:37
+dépendances longues, la spécialisation
+11:39
+est émergente. Étape 3, concatination et
+11:43
+projection finale. À la fin de chaque
+11:45
+bloc multihead, les n sorties, une par
+11:48
+tête sont concaténées en un seul long
+11:51
+vecteur. Puis ce vecteur est projeté sur
+11:53
+une autre matrice W pour retrouver sa
+11:56
+dimension d'origine. C'est cette
+11:58
+représentation enrichie qui est passée à
+12:01
+la couche suivante. Et au-dessus, la
+12:03
+couche suivante peut combiner ses
+12:05
+aspects différents pour construire des
+12:07
+dépendances encore plus complexes. Dans
+12:09
+GPT3, on a 96 couches et chaque couche a
+12:13
+96 têtes, soit plus de 9000 attentions
+12:17
+qui collaborent. C'est cette
+12:18
+multiplication des regards qui donne au
+12:21
+Transformers sa profondeur de
+12:23
+compréhension. Récapitulons en trois
+12:25
+phases. 1. Le transformeur doit gérer
+12:27
+des dépendances entre des mots éloignés.
+12:30
+Ce que les RN et les CNN faisaient mal.
+12:33
+2. Q, K et V sont des projections d'un
+12:37
+même vecteur. Q pose une question, K
+12:40
+répond avec une étiquette et V apporte
+12:42
+un contenu. Le produit Q x K transposé
+12:45
+donne des scores de pertinence qui sont
+12:48
+ensuite transformés en probabilité par
+12:50
+la fonction soft max. La somme pondérée
+12:53
+des V. donne la sortie enrichie. 3, on
+12:56
+en fait n en parallèle 12 96 peu importe
+13:00
+pour que chaque tête capture un aspect
+13:03
+sémantique différent et la
+13:05
+spécialisation émerge d'elle-même. Pour
+13:07
+résumer Q, K et V, c'est trois façons de
+13:10
+regarder le même mot : question,
+13:12
+étiquette, contenu. Et c'est ce triple
+13:15
+regard multiplié par 12 ou 96 têtes en
+13:18
+parallèle qui transforme une simple
+13:20
+représentation lexicale en une
+13:22
+compréhension contextuelle profonde.
+13:24
+Pour creuser deux ressources. The
+13:27
+Illustrated Transformer de Jay Alamar,
+13:30
+le meilleur guide visuel pour solidifier
+13:33
+ton intuition et l'outil Burt vis qui te
+13:36
+laisse visualiser concrètement ce que
+13:38
+font les têtes d'un Transformer.
+13:41
+Retrouve les liens en description.
+13:42
+Question pour toi maintenant. Quelle
+13:44
+étape t'a semblé la plus
+13:45
+contreinttuitive ? La triple projection,
+13:48
+le produit scalaire pour les scores, la
+13:50
+somme pondérée des V ? Dis-le-moi en
+13:52
+commentaire pour que je puisse
+13:54
+approfondir ce sujet dans une autre
+13:56
+vidéo. Et si tu veux qu'on continue de
+13:58
+creuser ces sujets en profondeur, mets
+14:00
+un like et abonne-toi à ProIA. Yeah.
+
+Tout
+
+Regardées
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1 M de vues
+•
+il y a 3 semaines
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+589 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+8:32
+🎧 ⚠️ Podcast SecuriTalk Ep 312 : Mémoire Achetée — Souvenirs humains vendus comme données premium 🧠💰
+SecuriTalk+
+1 vue
+•
+il y a 46 minutes
+Nouveau
+
+
+16:44
+Hugging Face : Comment une Lib Python a Démocratisé l'IA
+Projets IA
+708 vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+593 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+27:18
+Comment ChatGPT Génère VRAIMENT un Mot (architecture complète) 🤖
+Projets IA
+1,3 k vues
+•
+il y a 2 mois
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+15:15
+Les Agents IA ont définitivement tué le SaaS (Voici la suite)
+Mike Codeur
+14 k vues
+•
+il y a 2 semaines
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+94 k vues
+•
+il y a 4 semaines
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+74 k vues
+•
+il y a 4 semaines
+
+
+8:22
+Dans la peau d'un musclé #2 : Mes pecs vont péter !
+Le Musclay
+549 k vues
+•
+il y a 8 ans
+
+
+19:23
+Le Général FOUT DES RAMEN dans son tacos !!
+LeMondeDeChoi
+ et Choi TCG
+36 k vues
+•
+il y a 1 jour
+Nouveau
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+6,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+7:36
+Un trimestre boursier exubérant, mais pas irrationnel ?
+Zonebourse
+4,5 k vues
+•
+il y a 3 semaines
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+167 k vues
+•
+il y a 8 jours
+
+5:58
+Les 5 exercices d'abdos que j'ai arrêté de faire après 40 ans
+JamCore
+534 vues
+•
+il y a 1 heure
+Nouveau
+
+11:33
+This Breakfast Challenge Has Been Undefeated For FIVE Years! | C.R.E.A.M's Stack Attack Challenge
+Katina Eats Kilos
+466 k vues
+•
+il y a 3 ans
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 5 jours
+Nouveau
+
+    

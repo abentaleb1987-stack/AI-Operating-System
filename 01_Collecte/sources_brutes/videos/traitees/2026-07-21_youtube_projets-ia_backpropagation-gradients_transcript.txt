@@ -1,0 +1,1256 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Backpropagation : Comment l'IA Calcule VRAIMENT Ses Gradients
+Doublée automatiquement
+Projets IA
+Projets IA
+3,24 k abonnés
+
+S’abonner
+
+95
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+956 vues  28 juin 2026  #Gradient #PyTorch #DeepLearning
+À chaque pas d'entraînement, un réseau de neurones doit savoir, pour chacun de ses paramètres — parfois des centaines de milliards — dans quel sens le bouger pour se tromper un peu moins. Et il calcule tout ça d'un coup, en un seul passage. L'algorithme derrière, c'est la backpropagation. Dans cette vidéo, on dissèque le CALCUL du gradient lui-même : ce que c'est, pourquoi la règle de la chaîne le rend possible, et comment PyTorch le fait automatiquement pour toi. Sans une seule équation intimidante.
+
+(Note : ici on parle du calcul du gradient — la backprop. Pas de la descente de gradient, l'optimisation, qui a sa propre vidéo sur la chaîne.)
+
+
+🔔 Abonne-toi à Projets IA pour les prochaines vidéos sur l'entraînement des réseaux, l'optimisation et le hands-on micrograd en français.
+
+📚 Ressources : micrograd d'Andrej Karpathy · Stanford CS231n (notes sur la backprop) · papier original Rumelhart, Hinton & Williams (1986).
+
+#Backpropagation #IA #DeepLearning #MachineLearning #PyTorch #ReseauxDeNeurones #Gradient #VulgarisationIA #IntelligenceArtificielle #ProjetsIA
+
+---
+
+SOURCES
+
+*Rumelhart, Hinton & Williams (1986)* — "Learning representations by back-propagating errors", Nature. Papier fondateur.
+*Stanford CS231n* — notes de cours sur la backpropagation et les graphes de calcul (référence pédagogique de l'analogie engrenages / circuits).
+*Andrej Karpathy — micrograd / "The spelled-out intro to backpropagation"* — autograd minimal en ~100 lignes Python, construction du graphe et `backward()` à la main.
+*Documentation PyTorch Autograd* — `requires_grad`, `loss.backward()`, graphe dynamique, stockage des activations.
+*Gradient checkpointing* (mention) — `torch.utils.checkpoint`, compromis mémoire/calcul.
+
+---
+
+HASHTAGS
+
+#Backpropagation #IA #DeepLearning #MachineLearning #PyTorch #ReseauxDeNeurones #Gradient #ChainRule #Autograd #VulgarisationIA #IntelligenceArtificielle #ProjetsIA
+
+---
+
+CONCEPTS MATH VULGARISÉS (compteur — plafond 5-6)
+
+1. *Loss / fonction de coût* — un seul chiffre qui mesure l'erreur du modèle.
+2. *Dérivée / pente* — de combien la sortie bouge si je bouge un peu l'entrée ; positive = monte, négative = descend.
+3. *Dérivée partielle* — la pente dans une seule direction, tous les autres poids figés.
+4. *Gradient* — la liste de toutes les pentes, une par poids ; boussole vers la montée la plus raide.
+5. *Composition de fonctions* — fonctions emboîtées comme des poupées russes.
+6. *Règle de la chaîne* — multiplier les petites pentes locales le long de la chaîne (engrenages).
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+3,24 k abonnés
+Vidéos
+À propos
+13 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@christianlenaour8910
+il y a 12 heures
+Impossible pour moi de dire ce qui est le plus surprenant dans ta vidéo, je suis surpris à chaque étape. 😀. Merci à toi car c'est la première fois que je trouve cet équilibre entre vulgarisation et détails techniques.
+Je suis autant impressionné que séduit. Bravo et continue....
+
+
+
+Répondre
+
+
+@RobertBriantine
+il y a 22 heures (modifié)
+Un point important sur l’entraînement des réseaux de neurones : la loss obtenue à la fin n’est pas forcément la plus faible erreur possible.
+
+La descente de gradient part d’une configuration initiale des paramètres et suit localement la pente qui réduit la loss. Mais la fonction d’erreur d’un réseau est extrêmement complexe, non convexe, et comporte de nombreuses vallées, plateaux, points-selles et minima locaux.
+
+Le modèle peut donc finir son entraînement dans une zone où la loss ne diminue plus, sans que cette valeur soit le minimum global.
+
+C'est la le gros problème de l'ia , la loss peut être local car on est partie du mauvais endroit et dans ce cas le réseau n'ai pas bon , la loss est empirique aucun certitude qu'elle soit le minium global
+
+C'est une chose aujourd'hui qu'on oublie de dire car c'est une limite fondamental il existe le hessien qu permet d'améliorer le résultat mais on a pas de machine assez puissante pour le calculer.
+
+Donc l'ia d'aujourd'hui est encore un truc de bidouille ....
+
+1
+
+
+Répondre
+
+
+@lioneloddo
+il y a 3 semaines
+T'as vraiment un don pour la pédagogie sur des thèmes complexes ! Comme si une fois que tu avais compris un sujet "rationnellement", tu ajoutais une couche "imaginative" pour trouver des analogies dans le monde réel. Si un jour, tu pouvais expliquer l'algo du XGBoost, ce serait très appréciable.
+
+1
+
+
+
+Répondre
+
+Projets IA
+·
+
+1 réponse
+
+@IngenieurSystem
+il y a 5 jours
+J'aime bien résumer la back propagation par "de la dérivation glorifiée de f o g", à savoir  g' * (f' o g) = g' f'(g) , et f'(g) c'est juste la pente pour la couche correspondante à f, donc ultimement on a juste multiplié par g', un lycéen en terminale S (ça existe encore ?) saurait probablement prouver la dérivée de f o g et en déduire la règle de la chaîne. Après évidemment ici il est plutôt question de multiplier des jacobienne donc quelques notions d'algèbre linéaire et d'analyse sont nécessaires, mais l'idée est là.
+
+Sinon très bonne chaîne, je comptais en faire une pour vulgariser l'IA (entre autres sujets scientifiques / retrogaming / électronique) vers la fin de l'année avec exactement ces thèmes mais tu m'as coupé l'herbe sous le pied 
+
+
+
+Répondre
+
+
+1 réponse
+
+@morysh890
+il y a 4 jours
+Trop fort merci
+
+
+
+Répondre
+
+
+@phiphi70
+il y a 2 jours (modifié)
+Les  LLM  la robotique humanoïde et l'AGI versus Yann Lecun ?
+
+
+
+Répondre
+
+
+@RobertVERCORS
+il y a 11 jours
+Bravos. Tes vidéos sont très bien faites (clarté, tempo, exemple, ..). Je ne comprends pas que ta chaine soit si peu référencée ... Aucune IA interrogée par moi ne la connait ! Est-ce que tu possèdes un site ou des publications ? Bonne continuation !
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@josephlustigiermbong5121
+il y a 3 semaines
+C'est très bien n'expliqué  ça me donne l'envie d'essayer... Mais je n'ai pas de gpu. 
+Moi remonter le réseau en l'envers donc si je comprends bien les agents IA sont des tout petits spécialistes dans des domaines précis ensuite comment ça se passe pour que Claude code par exemple soit aussi performant ont-ils aussi utiliser cette méthode ? La méthode que tu nous expliques elle est générique où il y'a des spécificités en fonction des données d'entraînement ?.
+
+
+
+Répondre
+
+·
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça, c'est ce qui se passe à l'intérieur
+0:01
+d'un réseau de neurones à chaque fois
+0:03
+qu'il apprend quelque chose. Cette vague
+0:05
+orange qui remonte à l'envers, c'est la
+0:07
+bac propagation et c'est elle,
+0:10
+exactement elle, qui rend l'IA moderne
+0:12
+possible. Un gros modèle, c'est des
+0:14
+centaines de milliards de réglages à
+0:16
+ajuster. GPT3, c'est 175 milliards. Et à
+0:21
+chaque pas d'entraînement, il faut
+0:23
+savoir pour chacun de ces 175 milliards
+0:26
+de réglages dans quel sens les bouger
+0:28
+pour que le modèle se trompe un petit
+0:30
+peu moins. Naïvement, ça devrait coûter
+0:33
+une fortune en calcul. Tester chaque
+0:35
+réglage un par un sur 175 milliards, ce
+0:39
+serait infaisable, même avec tous les
+0:41
+ordinateurs de la planète. Et pourtant,
+0:43
+on calcule ces 175 milliards de
+0:46
+directions en un seul coup, en gros, au
+0:48
+prix d'un seul passage dans le réseau.
+0:50
+Mais comment c'est possible ? La
+0:52
+réponse, c'est la back propagation et
+0:54
+c'est plus simple que tu ne le crois.
+0:56
+Petit contexte, l'idée existe depuis les
+0:59
+années 70 mais elle explose en 1986
+1:03
+quand Rumelart, Inton et Williams publi
+1:06
+un papier qui montre qu'on peut
+1:08
+entraîner un réseau à plusieurs couches
+1:11
+grâce à cet algorithme. Pendant des
+1:13
+décennies, c'est resté un truc de labo.
+1:15
+Puis les cartes graphiques sont
+1:17
+arrivées, les données aussi. Et d'un
+1:19
+coup, cet algorithme de 1986 est devenu
+1:23
+le moteur de tout chat GPT, les modèles
+1:25
+d'imagure.
+1:27
+Aujourd'hui, chaque KIA que tu utilises
+1:30
+a appris grâce à la bac propagation sans
+1:33
+exception. Si tu comprends ça, tu
+1:35
+comprends comment Lia apprend. Point.
+1:37
+Pour préparer cette vidéo, j'ai repris
+1:39
+les sources de référence, le cours de
+1:41
+Stanford, les explications d'Andrege
+1:44
+Carpati et le fonctionnement réel de Pie
+1:46
+Torch sous le capot. J'ai revu tout ça
+1:49
+pour te le rendre limpide et je te
+1:50
+préviens tout de suite, on va parler de
+1:52
+dérivées et de pentes. Mais promis, zéro
+1:55
+équation intimidante. Juste des
+1:57
+analogies. Si tu as déjà compris ce
+1:59
+qu'est une pente de route, tu as déjà
+2:01
+compris l'essentiel. On va voir trois
+2:03
+choses. 1, c'est quoi un gradient
+2:06
+vraiment ? De la règle de la chaîne.
+2:09
+L'astuce géniale qui rend tout efficace.
+2:12
+3. Comment pille torch le fait tout seul
+2:15
+pour que tu n'es jamais à écrire une
+2:16
+seule dérivée à la main ? Avant
+2:18
+d'attaquer, un seul mot à poser parce
+2:20
+qu'on va l'utiliser partout. Ce mot,
+2:22
+c'est la los ou encore la fonction de
+2:25
+coup. La los c'est un seul chiffre qui
+2:28
+mesure à quel point le modèle s'est
+2:30
+trompé. Grand chiffre, grosse erreur.
+2:32
+Petit chiffre, le modèle est presque
+2:35
+parfait. Concrètement, tu montres une
+2:36
+photo de chat au modèle. Il répond au
+2:39
+chien à 80 %. La los calcule l'écart
+2:42
+entre sa réponse et la bonne réponse et
+2:44
+le résume en un nombre. Tout
+2:46
+l'entraînement, c'est une seule
+2:48
+obsession, faire descendre ce nombre. Et
+2:51
+pour le faire descendre, il faut savoir
+2:53
+comment chaque réglage du réseau
+2:56
+influence ce nombre. Voilà exactement ce
+2:59
+que la back propagation va calculer.
+3:02
+Partie 1. C'est quoi un gradient
+3:04
+vraiment ? Avant de calculer un
+3:05
+gradient, il faut savoir ce que c'est.
+3:08
+et tout par d'un mot que tu connais déjà
+3:10
+sans le savoir. La pente. On va
+3:12
+construire l'idée brique par brique. À
+3:14
+la fin de cette partie, le mot gradient
+3:17
+ne te fera plus peur du tout. Sous étape
+3:19
+1, la dérivée, c'est juste une pente.
+3:21
+Imagine une route de montagne. À chaque
+3:24
+endroit, la route a une pente. Parfois
+3:27
+ça monte fort, parfois c'est presque
+3:28
+plat et parfois ça descend. La pente en
+3:31
+un point précis, c'est exactement ce que
+3:34
+les maths appellent une dérivée. La
+3:36
+dérivée, c'est-à-dire la pente d'une
+3:39
+courbe en un point, répond à une seule
+3:42
+question très concrète. Si je bouge un
+3:45
+tout petit peu vers la droite, est-ce
+3:47
+que ça monte ou ça descend ? [musique]
+3:49
+Et de combien ? Pente positive, ça
+3:51
+monte. Pente négative, ça descend. Pente
+3:54
+zéro, c'est plat. Traduit ça dans le
+3:57
+monde du réseau de neurones. Remplace la
+4:00
+route par la losse et ma position par la
+4:03
+valeur d'un poids du réseau. La dérivée
+4:05
+te dit si je monte un petit peu ce
+4:07
+poids, est-ce que la los monte ou
+4:10
+descend et de combien ? C'est tout. Une
+4:12
+dérivée, c'est une réponse à cette
+4:14
+question. Rien de plus mystérieux. Sous
+4:16
+étape 2, un poids c'est quoi déjà ?
+4:18
+Petit rappel express. Un poids dans un
+4:21
+réseau de neurones, c'est juste un
+4:23
+nombre réglable sur une connexion entre
+4:25
+deux neurones. C'est un bouton de
+4:27
+volume. Un poids fort, l'information
+4:30
+passe fort. Un poids faible, elle passe
+4:32
+à peine. Un point négatif, elle
+4:34
+s'inverse. Apprendre pour un neurone, ça
+4:36
+veut dire une seule chose. Trouver les
+4:38
+bonnes valeurs pour tous ces boutons. Un
+4:40
+petit réseau, en a quelques milliers.
+4:42
+GPT3 en a 175 milliards, mais chacun
+4:46
+c'est juste un nombre. Et pour chaque
+4:47
+nombre, on veut savoir dans quel sens le
+4:50
+tourner pour réduire l'erreur. Sous
+4:52
+étape 3, le gradient, c'est juste toutes
+4:55
+les pentes d'un coup. Maintenant le
+4:57
+problème, un réseau n'a pas un seul
+4:59
+poids, il en a des milliards. Donc la
+5:02
+losse ne dépend pas d'une seule route,
+5:04
+elle dépend de toutes ces directions en
+5:06
+même temps. Imagine non plus une route
+5:08
+mais un paysage valallonné géant avec
+5:11
+une dimension par poids. Dans ce paysage
+5:14
+en un point donné, il n'y a pas une
+5:16
+seule pente. Il y en a une par
+5:18
+direction. la pente quand tu bouges le
+5:21
+point numéro 1, la pente quand tu bouges
+5:23
+le point numéro 2 et ainsi de suite.
+5:25
+Chacune s'appelle une dérivée partielle,
+5:28
+c'est-à-dire la pente dans une seule
+5:30
+direction en gardant tous les autres
+5:32
+poids figés partiels parce qu'on regarde
+5:35
+l'effet d'un seul poids à la fois. Et le
+5:37
+gradient, c'est simplement la liste de
+5:39
+toutes ces pentes mises bout à bout. une
+5:41
+pente par poids. Si ton réseau a 175
+5:45
+milliards de poids, le gradient est une
+5:47
+liste à 175 milliards de nombres. Chaque
+5:50
+nombre te dit dans quel sens et avec
+5:53
+quelle force ce poids tire sur l'erreur.
+5:56
+Une image pour le retenir. Le gradient,
+5:58
+c'est comme une boussole, mais une
+6:00
+boussole qui pointe vers le haut, vers
+6:02
+là où l'erreur augmente le plus vite et
+6:04
+nous on veut descendre. Donc on va dans
+6:07
+le sens exactement opposé au gradient.
+6:10
+Ça, ce geste descendre, c'est la
+6:13
+descente de gradient, l'optimisation.
+6:16
+Mais ce n'est pas le sujet
+6:16
+d'aujourd'hui. Aujourd'hui, la seule
+6:18
+question, c'est comment on calcule cette
+6:21
+boussole géante ? Et là, tu te dis
+6:23
+peut-être "OK, pour avoir la pente d'un
+6:25
+poids, je le bouge un peu. Je regarde si
+6:28
+la monte ou descend." facile. Sauf que
+6:31
+si tu fais ça poids par poids pour 175
+6:35
+milliards de poids, il faudrait refaire
+6:37
+tourner le réseau entier 175 milliards
+6:40
+de fois à chaque pas totalement
+6:42
+infaisable. Il fallait une astuce. Et
+6:45
+cette astuce, elle tient en une idée
+6:47
+vieille comme les maths. La règle de la
+6:49
+chaîne. Partie 2. La règle de la chaîne
+6:52
+sur le graphe de calcul. Cette partie,
+6:54
+c'est le cœur du sujet. On va voir
+6:56
+pourquoi un réseau, c'est en réalité une
+6:58
+grande chaîne de petites opérations
+7:00
+emboîées et comment une seule règle
+7:03
+permet de calculer toutes les pentes
+7:05
+d'un seul coup en remontant cette chaîne
+7:07
+à l'envers. C'est là que le mot rétro
+7:09
+propropagation prend tout son sens. Sous
+7:11
+étape une, le forward pass, empiler des
+7:14
+fonctions. D'abord le sens normal, le
+7:16
+forward pass, le passage vers l'avant.
+7:19
+Tu donnes une entrée au réseau, une
+7:20
+image, un bout de texte. Elle traverse
+7:22
+la première couche qui la transforme. Le
+7:24
+résultat traverse la deuxième couche qui
+7:27
+le transforme encore une fois et ainsi
+7:29
+de suite jusqu'au bout où on calcule la
+7:32
+losse, ce fameux chiffre d'erreur. Vu
+7:34
+comme ça, un réseau de neurones, c'est
+7:36
+une composition de fonctions,
+7:38
+c'est-à-dire des fonctions emboîées les
+7:40
+unes dans les autres comme des poupées
+7:42
+russes. La sortie de l'une devient
+7:44
+l'entrée de la suivante. Couche 3 prend
+7:46
+le résultat de la couche 2. Qui a pris
+7:49
+le résultat de la couche une. On écrit
+7:51
+ça. L'os F3 de F2 de F1 de l'entrée.
+7:56
+Mais oublie la notation, retiens juste
+7:58
+l'image des poupé russe. Sous étape 2,
+8:00
+la règle de la chaîne, multiplier les
+8:02
+pentes. Maintenant, la question clé. Si
+8:04
+je bouge un poids tout au début de la
+8:07
+chaîne, comment ça affecte la los tout à
+8:09
+la fin ? Le signal doit traverser toutes
+8:11
+les couches du milieu. Comment suivre
+8:13
+son effet ? La réponse, c'est la règle
+8:15
+de la chaîne. Et l'intuition tient en un
+8:18
+mot. On multiplie les pentes le long du
+8:20
+chemin, prends des engrenages. Le
+8:22
+premier engrenage fait tourner le
+8:24
+deuxième. Quand je tourne le premier de
+8:26
+un cran le deuxè tourne de trois crans.
+8:28
+Le deuxème fait tourner le trè un cran
+8:31
+du 2è ça fait cran du 3è. Donc si je
+8:35
+tourne le premier de un cran le trè
+8:37
+tourne de combien ? 3 x 5 soit 15 cran.
+8:40
+On a multiplié les deux rapports
+8:42
+d'engrenage. La règle de la chaîne,
+8:44
+c'est exactement ça. La pente totale du
+8:46
+début vers la fin, c'est le produit des
+8:48
+petites pentes locales à chaque étape.
+8:50
+De combien la losse bouge si je bouge ce
+8:52
+poids égale de combien la couche
+8:55
+suivante bouge fois de combien la couche
+8:57
+d'après bouge et ainsi de suite jusqu'à
+9:00
+la los. On enchaîne les pentes comme des
+9:02
+engrenages. Et ça c'est énorme parce que
+9:05
+chaque couche prise toute seule est
+9:07
+simple. sa petite pente locale est
+9:08
+facile à calculer. La règle de la chaîne
+9:11
+dit : "Tu n'as pas besoin de comprendre
+9:12
+tout le réseau d'un coup. Tu calcules
+9:14
+juste la petite pente de chaque étape et
+9:17
+tu les multiplies." Le compliqué devient
+9:19
+une suite de truc simple. Enchaîné. Sous
+9:21
+étape 3, le backward passe. Remonter la
+9:25
+chaîne une seule fois. Maintenant, le
+9:27
+coup de génie. On part de la fin de la
+9:29
+losse et on remonte la chaîne à l'envers
+9:31
+vers le début. À chaque étape qu'on
+9:32
+remonte, on multiplie par la petite
+9:34
+pente locale de cette étape. C'est ça la
+9:37
+back propagation. Appliquer la règle de
+9:40
+la chaîne de la sortie vers l'entrée.
+9:42
+Pourquoi remonter à l'envers et pas dans
+9:44
+le sens normal ? Voilà l'astuce centrale
+9:47
+et c'est elle qui rend tout efficace.
+9:49
+Quand tu remontes depuis la losse, le
+9:50
+morceau de calcul de la lose jusqu'à la
+9:52
+couche du milieu est commun à tous les
+9:55
+poids qui sont avant cette couche. Donc
+9:58
+au lieu de le recalculer pour chaque
+9:59
+poids, tu le calcules une fois, tu le
+10:02
+gardes sous le coude et tu le réutilises
+10:04
+pour tous les poids en amont. C'est
+10:06
+exactement comme un fleuve. Tu calcules
+10:08
+le débit une fois à l'embouchure et tu
+10:10
+le redistribues à toutes les rivières en
+10:13
+remontant. Tu ne fais pas le trajet
+10:14
+complet depuis la source pour chaque
+10:16
+rivière. Le résultat est spectaculaire.
+10:19
+La méthode naïve, bouger chaque poids un
+10:21
+par un et refaire tourner le réseau
+10:23
+coûterait un passage complet par poids,
+10:26
+des milliards de passages. La bag
+10:28
+propagation, elle calcule tous les
+10:30
+gradients en un seul passage arrière à
+10:33
+peu près au même coup qu'un seul passage
+10:34
+avant. On passe de l'infaisable au
+10:36
+faisable. C'est là toute la magie. Une
+10:38
+explosion combinatoire transformée en
+10:40
+une simple remontée de rivière. Alors
+10:42
+là, tu te dis peut-être super, mais ça
+10:45
+veut dire que pour chaque couche,
+10:46
+quelqu'un a dû calculer à la main sa
+10:48
+petite pente locale, sa dérivée pour des
+10:50
+réseaux avec des centaines de types
+10:52
+d'opérations différentes. En 1986, oui,
+10:55
+les chercheurs dirivaient tout à la
+10:56
+main, ligne par ligne. Aujourd'hui, plus
+10:58
+personne ne fait ça. Tu écris ton
+11:00
+réseau, tu tapes une seule ligne de code
+11:02
+et tout se calcule tout seul. Comment ?
+11:04
+C'est la troisème partie. Partie 3,
+11:05
+l'autograde en pratique. Comment Pie
+11:08
+Torch le fait tout seul ? On arrive au
+11:10
+concret. Dans la vraie vie, tu ne
+11:11
+calcules jamais une dérivée à la main.
+11:13
+Py Torch ou Torer Flow le font pour toi
+11:16
+automatiquement. Cette machinerie
+11:17
+s'appelle l'autograde pour
+11:20
+différenciation automatique. On va voir
+11:22
+comment elle marche parce que ce n'est
+11:24
+ni de la magie ni un truc inaccessible.
+11:27
+C'est juste la partie 2 appliquer
+11:29
+mécaniquement. Sous étape 1, le graphe
+11:31
+de calcul se construit tout seul. Quand
+11:33
+tu écris ton calcul en p torch, une
+11:35
+multiplication, une addition, une
+11:37
+couche, le framework ne fait pas que
+11:39
+calculer le résultat. En douce, il
+11:42
+enregistre chaque opération dans un
+11:44
+graphe de calcul. C'est une carte qui
+11:46
+mémorise ce résultat vient de cette
+11:49
+multiplication qui vient de ces deux
+11:51
+entrées-là et ce graphe se construit à
+11:53
+la volée au fur et à mesure que ton code
+11:56
+s'exécute. On appelle ça un graphe
+11:58
+dynamique. Il n'est pas figé à l'avance,
+12:01
+il se dessine pendant que tu calcules.
+12:03
+C'est ce graphe qui est exactement la
+12:05
+chaîne de la partie 2. Porsche ne fait
+12:08
+que noter le chemin que l'information a
+12:10
+pris dans le for pass pour pouvoir le
+12:12
+remonter ensuite. Sous étape 2, chaque
+12:15
+opération s'est dérivée localement.
+12:18
+Voilà le secret qui démystifie tout.
+12:20
+Pyer ne comprend pas ton réseau, il n'en
+12:22
+a pas besoin. Pour chaque petite
+12:24
+opération de base, une addition, une
+12:26
+multiplication, un produit matriciel,
+12:28
+une fonction d'activation comme relu,
+12:30
+les ingénieurs de Pie Torch ont écrit
+12:32
+une fois pour toute sa petite pente
+12:34
+locale. Comment cette opération précise
+12:36
+transforme une pente qui la traverse.
+12:39
+C'est exactement les engrenages de la
+12:41
+partie 2. Chaque brique connaît son
+12:43
+rapport d'engrenage local. Pyorge n'a
+12:45
+donc jamais besoin de dériver ton réseau
+12:48
+entier. Il assemble juste les petites
+12:50
+pentes locales déjà connues en suivant
+12:52
+le graphe la règle de la chaîne fait le
+12:55
+reste. Sous étape 3, requires grade et
+12:58
+loss. Backward. En pratique, ça tient en
+13:02
+deux gestes. Premier geste, tu marques
+13:04
+les nombres dont tu veux la pente avec
+13:06
+un drapeau. Require grade égal à trou.
+13:09
+Ça dit à P torch. Ce poidslà, suis-le.
+13:12
+Je voudrais savoir son gradient. Les
+13:14
+poids de ton réseau ont ce drapeau. Tes
+13:16
+données d'entrée, non, tu ne cherches
+13:18
+pas à les ajuster. Elle deè geste et
+13:21
+c'est le moment culte. Tu écris loss.
+13:24
+BackWord, une seule ligne. À cet
+13:25
+instant, Pie Torch part de la loss,
+13:28
+remonte tout le graphe à l'envers,
+13:30
+applique la règle de la chaîne sur
+13:32
+chaque nœud et dépose dans chaque poids
+13:35
+marqué sa pente, son gradient. Après
+13:37
+cette ligne, chaque poids a un attribut
+13:40
+point grade qui contient exactement de
+13:43
+combien je dois bouger ce poids pour
+13:45
+réduire l'erreur. Et c'est là que la
+13:47
+boucle se ferme. L'optimiseur n'a plus
+13:49
+qu'à lire ses points grad et à faire un
+13:52
+petit pas dans le bon sens, la descente
+13:54
+de gradient. Mais ça encore une fois,
+13:56
+c'est ce qu'on fait après avoir calculé
+13:58
+le gradient. Le calcul, le vrai sujet,
+14:01
+c'est la fonction backward. Sous étape
+14:03
+4, le prix à payer, la mémoire. Un
+14:06
+dernier point qu'on oublie toujours de
+14:08
+mentionner et qui est crucial en
+14:09
+pratique pour remonter la chaîne, la
+14:11
+back propagation a besoin de se rappeler
+14:14
+de ce qui s'est passé lors de la forward
+14:16
+pass. Les valeurs intermédiaires
+14:18
+calculées à chaque couche, on les
+14:19
+appelle les activations, doivent être
+14:21
+gardées en mémoire parce que les petites
+14:24
+pentes locales en dépendent.
+14:25
+Conséquence, plus ton réseau est
+14:27
+profond, plus tu dois stocker
+14:29
+d'activation et plus ça bouffe de
+14:31
+mémoire GPU. C'est souvent ça et pas la
+14:34
+vitesse qui limite la taille des modèles
+14:36
+qu'on peut entraîner. Il existe une
+14:38
+parade qui s'appelle le gradient
+14:40
+checkpoint. Au lieu de tout garder, on
+14:43
+ne stock que quelques points de repère
+14:45
+et on recalcule le reste à la volée.
+14:47
+Pendant le backward, on échange de la
+14:49
+mémoire contre un peu plus de calcul,
+14:51
+mais ça c'est un sujet à part entière
+14:54
+pour une nouvelle vidéo. Et voilà, tu
+14:55
+écris ton modèle normalement. Tu marques
+14:57
+tes poids, tu calcules la losse. Tu
+14:59
+appelles backward torch construit le
+15:02
+graphe, remonte la chaîne et te rends
+15:04
+les 175 milliards de gradients. Tu n'as
+15:06
+écrit aucune dérivée. Tout le poids des
+15:08
+maths de 1986 est caché derrière une
+15:11
+seule ligne de code. Récapitulons en
+15:13
+trois phrases. 1. Un gradient, c'est une
+15:16
+liste de pentes, une par poids qui dit
+15:18
+dans quel sens bouger chaque réglage
+15:20
+pour réduire l'erreur. La règle de la
+15:23
+chaîne permet de calculer toutes ces
+15:24
+pentes d'un seul coup en remontant le
+15:27
+réseau de la losse vers l'entrée et en
+15:29
+multipliant les petite pente locale à
+15:31
+chaque étape. C'est ça la bag
+15:33
+propagation et c'est ce qui la rend
+15:35
+assez efficace pour exister. 3 Porch et
+15:39
+Tensorflow le font tout seul avec
+15:41
+l'autograde. Ils enregistrent un graphe
+15:43
+de calcul. Chaque opération connaît sa
+15:46
+pente locale et los. Backward déclenche
+15:49
+toute la remontée. Le prix à payer,
+15:51
+c'est la mémoire des activations.
+15:52
+Retiens ça. Le faux Word Pass calcule
+15:54
+l'erreur. Le backw pass calcule à qui la
+15:57
+faute et de combien. Toute l'IA moderne
+16:00
+apprend grâce à cette unique vague qui
+16:02
+remonte à l'envers. Si tu veux voir la
+16:04
+bagpr se construire de zéro, la
+16:06
+meilleure ressource au monde est
+16:08
+gratuite. La vidéo micrograde d'andrage
+16:11
+Carpati où il code un mini autograde en
+16:14
+une centaine de lignes Python. puis
+16:16
+littéralement le graphe s'y construire
+16:18
+et les gradients remonter. Et
+16:20
+maintenant, une question pour toi.
+16:21
+Quelle étape t'a paru la plus
+16:23
+contreintuitive ? L'idée qu'on remonte
+16:24
+le réseau à l'envers ? Le fait qu'un
+16:26
+seul passage suffisse pour des milliards
+16:28
+de gradients ou le coût mémoire des
+16:30
+activations ? Dis-le-moi en commentaire.
+16:32
+Ça m'aide à savoir quoi approfondir pour
+16:34
+une prochaine vidéo. Et si cette vidéo
+16:36
+t'a fait comprendre comment l' fait pour
+16:37
+apprendre, lâche un like. Ça compte
+16:40
+beaucoup pour le référencement et ça
+16:41
+aide d'autres curieux à tomber dessus.
+16:43
+et abonne-toi à Projetia
+
+Tout
+
+Source : Projets IA
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+16:44
+Hugging Face : Comment une Lib Python a Démocratisé l'IA
+Projets IA
+708 vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+14:04
+Attention Décortiquée : Ce Qui Se Passe Vraiment dans Q × K × V
+Projets IA
+1,4 k vues
+•
+il y a 1 mois
+
+
+21:19
+Mapping de notre boutique (partie 1)
+Alain BESANÇON
+1 vue
+•
+il y a 1 heure
+Nouveau
+
+
+22:28
+Économie mondiale : tout est en train de changer
+Xavier Delmas
+123 k vues
+•
+il y a 1 mois
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+27:18
+Comment ChatGPT Génère VRAIMENT un Mot (architecture complète) 🤖
+Projets IA
+1,3 k vues
+•
+il y a 2 mois
+
+
+5:58
+Les 5 exercices d'abdos que j'ai arrêté de faire après 40 ans
+JamCore
+534 vues
+•
+il y a 1 heure
+Nouveau
+
+
+16:43
+Le général JUGE les classiques français
+LeMondeDeChoi
+283 k vues
+•
+il y a 2 ans
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+167 k vues
+•
+il y a 8 jours
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+6,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+589 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+8:22
+Dans la peau d'un musclé #2 : Mes pecs vont péter !
+Le Musclay
+549 k vues
+•
+il y a 8 ans
+
+
+16:33
+CODEX DEVIENT LIBRE : utilise n'importe quel modèle dans l'application
+Melvynx
+596 vues
+•
+il y a 1 heure
+Nouveau
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+94 k vues
+•
+il y a 4 semaines
+
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+
+12:09
+On Goûte LA FLAMMEKUECHE Originale (alsacienne…)
+LeMondeDeChoi
+178 k vues
+•
+il y a 1 an
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+697 k vues
+•
+il y a 1 mois
+
+16:34
+Pourquoi une action "chère" est parfois votre meilleur investissement
+Xavier Delmas
+70 k vues
+•
+il y a 2 mois
+
+1:48:46
+#233 Jean Gab1 - La vie, à la dure
+Biomécanique
+85 k vues
+•
+il y a 2 ans
+
+16:31
+Fine-Tuning : LoRA, QLoRA, Full FT — Quand Utiliser Quoi ?
+Projets IA
+780 vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+    

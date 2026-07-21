@@ -1,0 +1,1402 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Comment FORCER une IA à produire du JSON valide à 100% (pas 95%)
+Doublée automatiquement
+Projets IA
+Projets IA
+3,24 k abonnés
+
+S’abonner
+
+380
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+10 227 vues  2 juil. 2026  #llamacpp #IA #JSON
+Tu demandes du JSON à un LLM. 19 fois sur 20, c'est parfait. La 20e fois, une accolade manque, et ton appli crashe. Aucun prompt ne réglera jamais ça à 100% — parce qu'un LLM ne "respecte" pas un format, il échantillonne des probabilités token par token.
+
+La vraie solution est une technique d'ingénierie LLM sous-estimée : le *constrained decoding* (décodage contraint). Dans cette vidéo, on décortique le mécanisme exact — le logit masking — qui rend une sortie invalide littéralement impossible à générer. Pas de maths, pas besoin d'être ingénieur. Juste la mécanique, expliquée clairement.
+
+📚 Ressources : la lib Outlines (.txt team), la grammaire GBNF de llama.cpp, le structured output d'OpenAI & d'Anthropic.
+
+▶ Si tu n'as pas vu comment un LLM choisit ses mots, regarde notre deep-dive sur l'architecture Transformer en premier.
+
+🔔 Abonne-toi à Projets IA pour les prochaines vidéos sur l'ingénierie LLM, les agents et la mise en production.
+
+#ConstrainedDecoding #StructuredOutput #LLM #JSON #IA #IntelligenceArtificielle #FunctionCalling #Outlines #llamacpp #MachineLearning #VulgarisationIA #ProjetsIA #IngénierieIA
+
+---
+
+📚 SOURCES
+
+*Outlines* (dottxt-ai) — lib Python de structured generation : JSON Schema → automate, logit masking. Référence d'implémentation open source.
+*GBNF* (GGML BNF) — format de grammaire de llama.cpp pour contraindre la génération locale.
+*OpenAI* — docs Structured Outputs / JSON mode / function calling.
+*Anthropic* — docs tool use / JSON output.
+Concept général : automates à états finis & grammaires context-free appliqués au décodage LLM (logit masking entre logits et softmax).
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+3,24 k abonnés
+Vidéos
+À propos
+57 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@rachidcharefi8813
+il y a 8 jours
+Brillante. Claire. Pédagoge. Rien à dire. Magnifique pour ceux qqui aiment comprendre. Merci
+
+13
+
+
+
+Répondre
+
+
+@Le-veilleurFr
+il y a 2 jours
+Pour une fois une vidéo qui nous apprend quelque chose sans nous vendre des fantasmes liés à l'IA.
+
+2
+
+
+
+Répondre
+
+
+@josephbeau-reder813
+il y a 22 heures
+Waw super qualitatif, merci l’algo de yt et tous les gens précédents qui ont cliqué sur le pouce bleu !
+
+Super vidéo ! Rien de contre-intuitif, juste des bonnes idées auxquelles je n’avais pas pensé !
+
+
+
+
+Répondre
+
+
+@djibou3274
+il y a 8 jours
+Merci 
+Le plus contre intuitif c'est que même avec deux passes il faut contraindre la deuxième.
+Une libre (pour un raisonnement optimum) et une contrainte pour un avoir la bonne grammaire.
+En tout cas même si c'est contre intuitif une fois remis dans le contexte d'un LLM, quand on a sa propre grammaire alors il faut l'imposer au modèle.
+
+Merci. Super chaîne où l'on apprend les mécanismes sous-jacents.
+
+2
+
+
+Répondre
+
+
+@pablohassan4
+il y a 2 jours
+J'adore ton style, c'est super agréable a écouter. Merci pour la qualité du contenu 
+
+2
+
+
+
+Répondre
+
+
+@juste_mesure
+il y a 2 semaines
+Alors, oui, faire écrire ses scripts à ChatGPT, c'est cohérent, c'est méta, c'est cool. 
+Mais là même à l'oral on voit les "—" !
+
+Du coup, c'est la présence d'un humain qui détonne.
+
+2
+
+
+Répondre
+
+
+@davidmussard641
+il y a 3 jours
+Super vidéo !
+Faire passer le JSON dans la moulinette d'un Linter aussi ça permet de vérifier qu'il est parfaitement bien structuré. (demander à l'IA de le faire à chaque fois qu'il écrit/modifie un fichier)
+
+1
+
+
+Répondre
+
+
+@angledor
+il y a 5 jours
+Explication très intéressante.
+Je pense que ce serait encore mieux en affichant à l'écran le nom des concepts dont tu parles. Exemple : j'ai compris Toulouse au lieu de Tool Use 
+
+6
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@josephlustigiermbong5121
+il y a 10 jours
+Merci beaucoup d'informations bien expliqués. Maintenant il faut que je creuse chaque mot clés 
+Merci pour votre vidéo.
+
+2
+
+
+
+Répondre
+
+
+@samuelb.8951
+il y a 3 jours
+Merci très clair comme explication même pour un non-ingénieur comme moi
+
+1
+
+
+
+Répondre
+
+
+@bino9305
+il y a 5 jours
+Une synchronicité ! J'avais justement besoin de ça lol merci ! C top l'explication !
+
+2
+
+
+Répondre
+
+
+@jean-micheljuzan
+il y a 1 jour
+Merci, ton enseignement m'aide énormément dans l'avancement de mon projet (corpus scientifique sur l'agriculture de conservation)
+
+
+
+
+Répondre
+
+
+@zlhgregoire
+il y a 3 jours
+J’ai vu de la lumière, je me suis arrêté, et je me suis abonné.
+Jusqu’à présent, j’avais réglé le problème avec une passerelle utilisant ANTLR.
+Avec vos explications cela ouvre d’autre perceptives . 
+Merci!
+
+
+
+Répondre
+
+
+@gauthiersornet6051
+il y a 5 jours
+Excellente vidéo d'une clarté remarquable merci.
+
+1
+
+
+Répondre
+
+
+@matthieu.vergne
+il y a 3 jours
+Je me focalise sur mes suggestions d'amélioration, car je n'ai rien à dire sur le fond à part : clair et complet.
+
+Pense à synchroniser ce que tu affiches avec ce que tu dis. Quand tu affiches la séquence avec l'automate, le temps que toute la séquence se déroule, tu n'as parlé que de la première étape. Ça donne la même info mais à 2 vitesses où on ne sait plus ce qu'on doit suivre (le son ou la vidéo).
+
+On sent que tu lis un script avec des titres et des sections et énormément de coupures au montage. Ça fait très artificiel. Je me suis posé la question si tu n'as pas généré un contenu par l'IA juste pour le lire sans trop maîtriser, alors qu'en se focalisant sur le fond c'est bien trop cohérent pour ne pas être maîtrisé. Du coup la forme met à mal le fond. Préfère remplacer la lecture d'un titre par un affichage vidéo du titre sans le lire. On voit tout de suite le changement de section (plutôt que de le deviner à l'audio) et ça évite un discours peu naturel.
+
+Enfin, globalement davantage de visuels seraient appréciés. La majeure partie de la vidéo est sur ton visage (qui plus est qui est très statique car lit un script), ce qui apporte peu d'info, manque d'impact, et ne consolide pas l'info avec des éléments audios + visuels.
+
+Tout mis ensemble, vu ce qui est décrit sur le fond, j'aurai bien plus accroché et retenu de choses si une bonne partie était illustrée, au rythme du discours, avec quelques parties où on te voit mais de manière plus interactive (bouger les mains pour illustrer ce dont tu parles), le tout séparé par des images affichant les titres des sections, mais sans parole, pour bien montrer la transition.
+
+En bref, mieux exploiter la complémentarité des différents media (discours + vidéo filmée + vidéo animation) pour mieux mettre en valeur le fond.
+
+4
+
+
+Répondre
+
+
+1 réponse
+
+@MooMoo-v5i
+il y a 2 semaines
+Merci mille fois pour tes explications, elles sont très claires et limpides ! Ce serait encore plus sympa si on pouvait avoir des démonstrations en même temps. 
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@sweety1404
+il y a 2 semaines
+J’ai exactement ce problème depuis deux jours merci beaucoup tu me sauves 
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@TheTraderidera
+il y a 4 jours
+Superbe vidéo. Ça m'a rappelé mes cours de compilation à la fac. Tu as appris tout ça où par curiosité ? Un exemple simple aurait été bien pour voir comment mettre en oeuvre cela. Merci du partage, je viens de liker et m'abonner
+
+
+
+Répondre
+
+
+@matthieulabas
+il y a 5 jours
+Trop c'est trop. Je m'abonne.
+
+1
+
+
+
+Répondre
+
+
+@pysordes
+il y a 3 jours
+Très bien expliqué ️
+
+
+
+
+Répondre
+
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est un LM à qui tu demandes du
+0:03
+Jason. À gauche, ce qu'il te renvoie une
+0:06
+fois sur 20. Du Jason cassé qui fait
+0:08
+planter ton appli. À droite, le même
+0:10
+modèle avec une technique au milieu qui
+0:12
+rend le Jason invalide, littéralement
+0:14
+impossible à générer. Cette technique
+0:16
+s'appelle le constrained decoding, le
+0:19
+décodage contraint. Et voilà le truc que
+0:21
+personne ne te dit. Tu peux mettre les
+0:23
+meilleures instructions du monde dans
+0:24
+ton prompt. Répond en Jason valide s'il
+0:26
+te plaît. C'est très important. Un LM va
+0:29
+quand même se planter, pas tout le
+0:30
+temps, mais juste assez souvent pour
+0:32
+casser une appli en production. Parce
+0:34
+qu'un LM ne respecte pas un format, il
+0:37
+échantillonne des probabilités token par
+0:40
+token et rien, absolument rien dans sa
+0:43
+mécanique ne l'empêche d'oublier une
+0:45
+accolade, sauf si tu changes les règles
+0:47
+du jeu au niveau le plus bas. Et c'est
+0:49
+exactement ce qu'on va voir. Petit
+0:51
+retour en arrière. Tant que les LLM
+0:53
+servaient à discuter, peu importe qu'ils
+0:55
+écrivent bien sûr voici ton Jason
+0:58
+valide, un humain lisait, un humain
+1:00
+comprenait. Mais en 2023-2024,
+1:03
+les LLM sont devenus des briques
+1:05
+logiciel. To lose agents, function
+1:08
+calling. Le modèle ne parle plus à un
+1:11
+humain, il parle à du code et du code ne
+1:14
+pardonne pas. Une virgule de trop et
+1:16
+Jason.ps Parce plante à l'échelle de
+1:18
+millions de requêtes du 95 % de jason
+1:22
+valide, ça veut dire des dizaines de
+1:24
+milliers de crash par jour. Le
+1:26
+constraint decoding c'est la réponse
+1:28
+d'ingénierie à ce problème. Le passage
+1:30
+de 95 % à 100 %. Pour cette vidéo, je me
+1:34
+suis plongée dans les sources de
+1:35
+référence. La librairie outlines de la
+1:38
+team.txt, la grammaire GBNF de lama.cppp
+1:43
+et les doc structured outputs d'open AI.
+1:46
+et danthropique. Mon but est de te
+1:48
+rendre tout ça simple et promis, pas
+1:51
+besoin d'être ingénieur, pas besoin de
+1:53
+math, juste la mécanique clairement. On
+1:55
+va voir trois choses. 1, pourquoi le
+1:57
+prompt seul ne garantit jamais rien ? 2,
+2:00
+le mécanisme exact qui rend la valide
+2:03
+impossible. Le Logit masking 3, comment
+2:07
+tu t'en sers en vrai, ce que ça coûte et
+2:09
+le vrai débat. Est-ce que contraindre ça
+2:11
+rend le modèle plus bête ? Avant
+2:13
+d'attaquer, deux notions. Si tu as vu le
+2:16
+deep dive sur le Transformer, tu connais
+2:18
+déjà la première. Je vais juste la
+2:20
+rappeler en 30 secondes parce que tout
+2:22
+le reste repose dessus. Premier concept,
+2:24
+comment un LM choisit le prochain token
+2:27
+? Rappelle, un token, c'est un morceau
+2:29
+de mots, pas une lettre, pas un mot
+2:31
+entier. Le mot accolade peut faire deux
+2:34
+ou trois tokens. À chaque étape, le
+2:36
+modèle ne sort pas un mot directement.
+2:39
+Il sort une liste longue de scores, un
+2:41
+score par token possible. dans son
+2:43
+vocabulaire. Ces scores bruts, on les
+2:45
+appelle les logits. Un logit,
+2:48
+vulgarisons tout de suite, c'est juste
+2:50
+un nombre qui dit à quel point le modèle
+2:52
+tend vers ce token là à cet instant.
+2:54
+Plus c'est haut, plus il est tenté. Ça
+2:56
+peut être négatif, ça peut être très
+2:58
+grand, peu importe l'échelle pour
+2:59
+l'instant. Retiens un logit par token
+3:02
+candidat. Et le vocabulaire d'un LLM
+3:04
+moderne, c'est gros. Souvent autour de
+3:06
+100000 à 130000 tokens. Donc à chaque
+3:10
+mot généré, le modèle produit une liste
+3:12
+de 100000 scores. Deuxième concept, le
+3:15
+Softmax. Le modèle a 100000 scores bruts
+3:19
+mais il lui faut une probabilité pour
+3:20
+pouvoir tirer au sort. Le softmax, c'est
+3:23
+l'opération qui transforme cette liste
+3:25
+de scores en liste de probabilité.
+3:28
+Vulgarison. C'est une moulinette qui
+3:30
+prend des nombres dans tous les sens et
+3:31
+les ramène entre 0 et 1 de façon à ce
+3:34
+qu'ils additionnent tout à un comme des
+3:36
+pourcentage. Le score le plus haut
+3:38
+devient la plus grosse part du gâteau.
+3:40
+Une fois qu'on a ses probabilités, le
+3:42
+modèle pioche un token dedans. Un peu
+3:44
+comme une loterie truquée où les tokens
+3:46
+probables ont le plus de tickets. Garde
+3:48
+bien ces deux mots en tête. Logit, ce
+3:50
+sont les scores bruts et softmax, c'est
+3:53
+la moulinette qui en fait des
+3:54
+probabilités. Toute la magie du
+3:56
+constrained decoding se joue entre les
+3:59
+deux. Partie 1, le problème. Pourquoi le
+4:02
+prompt ne suffit jamais ? Objectif de
+4:04
+cette partie, te convaincre
+4:06
+mécaniquement que demander gentiment du
+4:08
+Jason dans le prompt ne pourra jamais te
+4:11
+garantir du Jason valide. Pas rarement,
+4:14
+jamais à 100 %. Et une fois que tu auras
+4:17
+compris pourquoi, la solution de la
+4:19
+partie 2 va te paraître évidente. Sous
+4:21
+étape 1, la génération est un tirage au
+4:24
+sort. Mot après mot, reprenons. Le
+4:26
+modèle génère un token à la fois. Il
+4:28
+produit ses logits. Le softmax en fait
+4:31
+des probabilités. Il pioche un token, il
+4:33
+le colle à la suite et il recommence
+4:35
+avec ce nouveau token comme contexte
+4:38
+encore et encore. C'est ce qu'on appelle
+4:40
+la génération autorégressive. Chaque
+4:42
+token généré devient l'entrée du
+4:45
+suivant. Voilà le point crucial. À
+4:47
+chaque étape, plusieurs tokens ont une
+4:49
+probabilité non nulle. Après une
+4:51
+accollade ouvrante, le modèle a 70 % de
+4:55
+mettre des guillemets, mais il a aussi
+4:57
+disons 2 % de mettre un espace bizarre,
+4:59
+1 % de mettre un sous ligne en trop, 0,5
+5:02
+% de partir sur un texte libre genre
+5:05
+voici ces petites probabilités, elles ne
+5:07
+sont jamais exactement zéro. Sous étape
+5:09
+2, la température ou pourquoi le hasard
+5:12
+est volontaire. Et pourquoi le modèle ne
+5:15
+prend pas juste le token le plus
+5:17
+probable à chaque fois ? parce qu'on lui
+5:19
+demande explicitement de ne pas le
+5:21
+faire. C'est le rôle de la température.
+5:23
+Vulgarison. La température c'est un
+5:26
+bouton de créativité qui aplatit
+5:29
+accentue la distribution de probabilité.
+5:32
+À température basse, le modèle prend
+5:34
+presque toujours le favori. C'est
+5:36
+rigide, répétitif. À température plus
+5:39
+haute, il donne sa chance aux outsiders.
+5:42
+C'est varié, créatif, mais c'est aussi
+5:44
+là qu'il déraille. On veut de la
+5:46
+créativité pour la prose. Mais cette
+5:48
+même créativité sur du jison, c'est
+5:50
+exactement ce qui te plante une
+5:52
+accolade. Et même à température zéro, si
+5:54
+tu prends toujours le token le plus
+5:56
+probable, tu n'es pas sauvé parce que
+5:58
+parfois le token le plus probable est le
+6:01
+mauvais. Le modèle a vu tellement de
+6:03
+bien sûr voici de points dans son
+6:06
+entraînement qu'à certains moments, ce
+6:07
+préambule peut vraiment lui apparaître
+6:09
+comme étant le plus probable. Sous étape
+6:11
+3, le catalogue des cassures.
+6:14
+Concrètement, voilà comment un LM casse
+6:17
+du jason. Et c'est toujours les mêmes
+6:18
+modes d'échec. 1, il oublie de refermer
+6:21
+une accolade ou un crochet. 2, il met
+6:24
+une virgule en trouve avant la
+6:26
+fermeture. 3, il invente une clé qui
+6:29
+n'existe pas dans ton schéma. 4, il met
+6:31
+un nombre là où tu veux du texte ou
+6:33
+l'inverse 5. Il enrle tout dans un bloc
+6:37
+markdown avec des back ticks ou ajoute
+6:40
+voici le jason devant. Chacune de ces
+6:42
+erreurs casse ton parse et tu peux
+6:45
+retryve, valider, redemander. Tu réduis
+6:47
+le taux d'échec mais tu ne l'annules
+6:49
+pas. Donc le constat est clair. Tant que
+6:52
+le modèle a le droit de générer
+6:54
+n'importe quel token de son vocabulaire
+6:56
+à chaque étape, il finira par générer le
+6:59
+mauvais. La seule solution robuste,
+7:01
+c'est de lui retirer ce droit, de rendre
+7:03
+les tokens cassants littéralement
+7:06
+impossible à sélectionné. Et la beauté
+7:08
+de la chose, c'est que ça se fait avec
+7:10
+une idée d'une simplicité presque
+7:12
+ridicule. Partie 2, le mécanisme, le
+7:16
+masking. Voici le cœur de la vidéo. La
+7:18
+technique s'appelle le masking, le
+7:22
+masquage de Logit. et l'idée tient une
+7:25
+phrase. À chaque étape de génération, on
+7:27
+connaît la liste des tokens qui
+7:29
+maintiennent un format valide. On éteint
+7:32
+tous les autres. Impossible d'en choisir
+7:34
+un. On va voir comment on les éteint et
+7:36
+surtout comment on sait lesquels sont
+7:39
+valides à chaque instant. Sous étape
+7:42
+une, mettre les logit à moins l'infini.
+7:44
+Souviens-toi, entre les logit max, il y
+7:48
+a un trou. C'est là qu'on s'insère.
+7:50
+Avant de passer les logits dans le
+7:51
+softmax, on les modifie. Pour chaque
+7:54
+token interdit à cet instant, on
+7:56
+remplace son logit par moins l'infini.
+8:00
+Vulgarisons moins l'infini. C'est juste
+8:02
+une façon de dire le plus petit score
+8:05
+imaginable, infiniment bas. Pourquoi
+8:07
+cette valeur précise ? Parce que
+8:09
+rappelle-toi ce que fait le softmax. Il
+8:11
+transforme les scores en probabilité et
+8:14
+un score infiniment bas qui passe dans
+8:16
+le soft max ressort avec une probabilité
+8:19
+de 0 % exactement pas 0,001
+8:24
+0. Donc le token a zéro tickets de
+8:28
+loterie. Le modèle ne peut physiquement
+8:30
+pas le tirer. C'est ça tout le truc. On
+8:33
+n' pas modifié le modèle, on n pas
+8:35
+réentraîné quoi que ce soit. On a juste
+8:37
+à la dernière seconde bifer les options
+8:40
+interdites avant le tirage au sort. Le
+8:42
+modèle reste libre de choisir mais
+8:45
+seulement parmi les tokens qui ont un
+8:48
+format valide. Du coup, la vraie
+8:50
+question, la seule qui reste, comment le
+8:52
+système sait à chaque instant quels sont
+8:55
+les tokens valides ? Sous étape 2,
+8:57
+l'automate a état fini. La réponse, un
+9:00
+automate à état fini. Mot savant, idée
+9:03
+simple. Vulgarison. Un automate, c'est
+9:06
+une petite machine qui se trouve
+9:08
+toujours dans un état précis et qui,
+9:11
+selon ce qu'elle dit, passe à un autre
+9:13
+état comme un labyrinthe de couloir.
+9:15
+Depuis chaque pièce, seules certaines
+9:17
+portes sont ouvertes. Tu ne peux pas
+9:19
+traverser un mur. Applique ça au Jason.
+9:22
+Au tout début, un seul caractère est
+9:24
+légal pour démarrer un objet Jason. La
+9:27
+collade ouvrante. Donc l'automate est
+9:30
+dans un état début et la seule porte
+9:32
+ouverte c'est à collade ouvrante. Tous
+9:34
+les autres token, l'IT a moins l'infini.
+9:37
+Le modèle est obligé de commencer par la
+9:40
+collade ouvrante. Une fois la collade
+9:42
+posée, l'automate change d'état.
+9:45
+Maintenant, les portes ouvertes sont
+9:46
+soit déguimé pour commencer une clé,
+9:49
+soit la collade fermante pour un objet
+9:51
+vide. Rien d'autre, pas de virgule, pas
+9:53
+de texte, pas de bactic. Le modèle
+9:56
+choisit parmi ces options-là selon ses
+9:58
+propres préférences, mais il ne peut pas
+10:00
+en sortir. Et ça continue comme ça,
+10:02
+token après token. À chaque position,
+10:04
+l'automate dit "Voici les tokens LEGO
+10:07
+maintenant, on masque tout le reste. Le
+10:09
+modèle pioche dans ce qui reste." C'est
+10:11
+l'automate qui se balade dans la
+10:13
+grammaire en même temps que le modèle
+10:15
+génère. Les deux avancent ensemble pas
+10:17
+après pas. Sous étape 3 de la rejex à la
+10:20
+grammaire contex free. Un automate à
+10:23
+état fini, ça suffit pour des formats
+10:25
+plats. Une réjex, une date jour mois
+10:28
+mois année sur quatre caractères, un
+10:30
+choix dans une liste, un nombre. Tu veux
+10:32
+que le modèle réponde uniquement par
+10:34
+oui, non ou peut-être. Tu construis un
+10:36
+automate à trois chemins et le modèle ne
+10:38
+peut littéralement rien dire d'autre.
+10:41
+Mais le gison, c'est plus retort.
+10:43
+Pourquoi ? Parce qu'il faut compter. Si
+10:45
+tu ouvres trois accolades, un imbriqué,
+10:48
+il faut en refermer exactement trois.
+10:50
+Dans le bon ordre, un simple automate à
+10:52
+état fini ne sait pas compter ses
+10:54
+parenthèses ouvertes. Il n'a pas de
+10:55
+mémoire pour ça. Pour ça, on monte d'un
+10:58
+cran. La grammaire contexte free,
+11:00
+vulgarison. C'est un jeu de règles
+11:02
+d'emboîement du type un objet, c'est une
+11:05
+incolade puis des paires clévaleurs puis
+11:08
+une incolade fermante et une valeur peut
+11:10
+elle-même être un autre objet. Ce qui
+11:12
+permet l'imbation à l'infini. proprement
+11:15
+équilibré. C'est exactement la même
+11:17
+famille d'outils qui sert à valider la
+11:19
+syntaxe des langages de programmation.
+11:22
+Et c'est exactement ce que fait le
+11:23
+format GNBF de lama.cppp. Tu écris une
+11:27
+grammaire et le moteur garantit que la
+11:29
+sortie le respecte et la librairie
+11:31
+Outlines, elle fait encore plus malin.
+11:34
+Tu lui donnes un schéma, la description
+11:37
+de la structure que tu veux avec tes
+11:38
+champs et leur type et elle la compile
+11:41
+automatiquement en automate. Tu ne
+11:43
+touches jamais à la grammaire à la main.
+11:45
+Donc voilà la mécanique complète.
+11:47
+Grammaire ou schéma, vert automate, vert
+11:50
+masquage des logit à chaque token vers
+11:54
+sortie valide garantie à 100 %. par
+11:56
+construction, mais parce qu'il y a
+11:58
+toujours un mais est-ce que ça ralentit
+11:59
+? Et la vraie question qui fâche, est-ce
+12:01
+qu'en mettant le modèle dans un couloir,
+12:03
+on ne l'empêche pas de bien réfléchir ?
+12:06
+On regarde ça maintenant. Partie 3. En
+12:08
+pratique, outil, coût et le vrai débat.
+12:12
+Trois choses dans cette partie. Comment
+12:14
+tu utilises ça concrètement via les API
+12:16
+? Ce que ça coûte vraiment et le débat
+12:18
+de fond contrainde. Est-ce que ça bme
+12:20
+raisonnement du modèle ? sous étape une
+12:23
+gon mode et function calling ce qu'il y
+12:26
+a sous le capot. Si tu utilises Open AI
+12:28
+ou tu as déjà croiser ça forcément sans
+12:31
+le savoir. Deux fonctionnalités. Le
+12:33
+Jason Mode première génération.
+12:35
+Donne-moi du Jason valide. Ça garantit
+12:38
+que c'est du Jason par sable. Mais pas
+12:41
+forcément ton Jason. Le modèle peut
+12:44
+inventer ses propres clés. et la version
+12:46
+sérieuse, le structured output ou
+12:49
+function coding où tu fournis ton Jason
+12:52
+schéma exact. Là, la sortie est garantie
+12:55
+de coller à ta structure, tes champs,
+12:58
+tes types, tes valeurs autorisées. Sous
+13:00
+le capot, c'est exactement le log
+13:02
+masking de la partie 2. Ton schéma est
+13:05
+compilé en automate côté serveur et les
+13:08
+logit interdits sont éteints à chaque
+13:10
+token. Le réflexe à prendre. Dès que la
+13:12
+sortie d'un LM est lu par du code et pas
+13:15
+par un humain, un agent, un appel
+13:17
+d'outil, un remplissage de base de
+13:19
+données, tu n'utilises pas le prompt
+13:21
+seul. Tu passes par le structured
+13:24
+output. C'est la différence entre une
+13:26
+démo et la prod. Sous étape 2, le coût
+13:29
+caché. Compiler la gramaire. Maintenant,
+13:31
+le prix à payer. Il y en a un mais il
+13:33
+est plus subtile qu'on ne le croit.
+13:35
+Première idée fausse à tuer. Ça doit
+13:37
+ralentir chaque token. En vrai, non,
+13:40
+presque pas. Appliquer un masque sur une
+13:42
+liste de Logite, même 130000 valeurs,
+13:45
+c'est une opération quasi gratuite pour
+13:46
+un GPU. Le surcoup par token est
+13:49
+négligeable. Le vrai coup, il est avant
+13:51
+compiler ta grammaire ou ton schéma en
+13:54
+automate. Transformer un Jason schéma
+13:57
+complexe en une machine à état, ça peut
+13:59
+prendre du temps de calcul une fois au
+14:01
+démarrage. Sur les bonnes
+14:03
+implémentations comme outlines, cette
+14:05
+compilation est mise en cache. Tu la
+14:07
+payes une seule fois pour un schéma
+14:09
+donné. Puis toutes les requêtes
+14:10
+suivantes réutilisent l'automate. Donc
+14:12
+en pratique un coup de démarrage puis
+14:15
+quasi rien. Le deuxième coup plus
+14:17
+vicieux. Si ton schéma est mal fichu,
+14:20
+trop permissif ou au contraire avec des
+14:22
+champs qui forcent des formats que le
+14:24
+modèle n'aurait jamais produit
+14:25
+naturellement, tu peux le mettre dans
+14:27
+une position inconfortable. On y arrive
+14:30
+avec le débat. Sous étape 3, le débat.
+14:33
+Contreindre rend-il le modèle plus bête
+14:34
+? Voilà la question qui revient tout le
+14:36
+temps et elle est légitime. Si je force
+14:38
+le modèle dans un couloir de token,
+14:41
+est-ce que je l'empêche de bien
+14:42
+réfléchir ? L'intuition derrière la
+14:44
+crainte, le modèle pense en générant.
+14:47
+Quand tu lui imposes de produire une
+14:49
+incolade ouvrante dès le premier token,
+14:51
+tu le prives de toute la place où
+14:54
+normalement il aurait posé son
+14:55
+raisonnement à voix haute son Chin et un
+14:58
+modèle qui n'a pas le droit de réfléchir
+15:00
+avant de répondre, réponds-moi bien,
+15:02
+cette crainte est réelle et il y a eu de
+15:05
+vraies études contradictoires sur ce
+15:07
+sujet mais la réponse nuancée, celle que
+15:10
+les ingénieurs appliquent, c'est qu'on
+15:12
+sépare les deux phases. Phase 1, tu
+15:14
+laisses le modèle raisonner librement
+15:16
+sans aucune contrainte dans un champ
+15:18
+texte. Il pose ses étapes, il réfléchit,
+15:21
+il hésite. Phase 2. Ensuite seulement,
+15:24
+tu actives le décodage contraint pour
+15:26
+produire la sortie structurée finale qui
+15:28
+synthétise sa réflexion. Tu prends le
+15:30
+meilleur des deux mondes, la qualité de
+15:32
+raisonnement du texte libre et la
+15:34
+garantie de format de la sortie
+15:36
+contrainte. C'est même un pattern qu'on
+15:38
+retrouve dans les schémas eux-mêmes. Un
+15:40
+premier champ raisonnement en texte
+15:42
+libre suivi du champ réponse structuré.
+15:45
+Le modèle raisonne dans le premier et
+15:47
+conclu dans le second. Le tout dans un
+15:50
+seul jason valide. Donc la vraie réponse
+15:53
+au débat n'est pas contraindre ses bien
+15:55
+ou contraindre ses mals. C'est ne
+15:57
+contraints que ce qui doit l'être et au
+15:59
+bon moment. Et avec ça, tu as toute la
+16:02
+chaîne en tête. Récapitulons proprement.
+16:04
+Trois points à retenir. 1, le problème.
+16:07
+Un LM génère token par token en piochant
+16:09
+dans une distribution de probabilité. Le
+16:12
+prompt seul, même parfait, ne peut
+16:14
+jamais garantir un format. Il finira par
+16:16
+tirer le mauvais token. 2. Le mécanisme,
+16:18
+le logit masking. À chaque étape, un
+16:21
+automate ou une grammaire dit quel token
+16:24
+garde le format valide. On met tous les
+16:26
+autres à moins l'infini et le softmax
+16:28
+les ramène à une probabilité de zéro.
+16:30
+L'invalide devient impossible, pas
+16:33
+juste, improbable. 3. En pratique, tu
+16:36
+passes par le structure de output des
+16:38
+API par des librairies comme Outlines et
+16:41
+GBNF. Le coût, c'est la compilation du
+16:44
+schéma, payé une fois et mise en cash.
+16:47
+Et pour ne pas brider le raisonnement,
+16:49
+tu laisses le modèle réfléchir
+16:50
+librement. D'abord, tu contrains la
+16:52
+sortie finale. Ensuite, la punchline à
+16:54
+retenir. Le prompt, ça demande poliment.
+16:57
+Le constraint decoding, ça rend la
+16:59
+désobéissance impossible. En prod, tu ne
+17:02
+demandes pas, tu garantis. Si tu veux
+17:04
+mettre les mains dedans, va voir la
+17:05
+librairie Outlines. Quelques lignes de
+17:08
+Python pour contraindre n'importe quel
+17:10
+modèle local sur un Gon schéma et la
+17:12
+documentation de la grammaire GBNF de
+17:15
+lama.cppp. Les deux sont open source et
+17:18
+c'est le meilleur moyen de voir
+17:19
+l'automate à l'œuvre. Une question pour
+17:21
+toi en commentaire. Quelle partie t'a
+17:23
+semblé la plus contreintuitive ? le coup
+17:25
+de mettre les logites à moins l'infini
+17:27
+ou le tomate qui se balade dans la
+17:28
+grammaire en même temps que le modèle
+17:30
+génère. Dis-le-moi en commentaire, ça
+17:32
+m'aide à savoir ce que je dois
+17:34
+approfondir dans une prochaine vidéo. Et
+17:36
+si cette vidéo t'a fait comprendre un
+17:37
+truc, lâche un like, ça compte vraiment
+17:40
+pour le référencement. Et abonne-toi à
+17:43
+Projetia.
+
+Tout
+
+Pour vous
+
+Regardées
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+19:23
+Le Général FOUT DES RAMEN dans son tacos !!
+LeMondeDeChoi
+ et Choi TCG
+36 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+8:32
+🎧 ⚠️ Podcast SecuriTalk Ep 312 : Mémoire Achetée — Souvenirs humains vendus comme données premium 🧠💰
+SecuriTalk+
+1 vue
+•
+il y a 42 minutes
+Nouveau
+
+
+16:33
+CODEX DEVIENT LIBRE : utilise n'importe quel modèle dans l'application
+Melvynx
+583 vues
+•
+il y a 1 heure
+Nouveau
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+74 k vues
+•
+il y a 4 semaines
+
+
+8:22
+Dans la peau d'un musclé #2 : Mes pecs vont péter !
+Le Musclay
+549 k vues
+•
+il y a 8 ans
+
+
+14:04
+Attention Décortiquée : Ce Qui Se Passe Vraiment dans Q × K × V
+Projets IA
+1,4 k vues
+•
+il y a 1 mois
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1 M de vues
+•
+il y a 3 semaines
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+167 k vues
+•
+il y a 8 jours
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+589 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+6,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+
+5:58
+Les 5 exercices d'abdos que j'ai arrêté de faire après 40 ans
+JamCore
+522 vues
+•
+il y a 1 heure
+Nouveau
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+10:46
+Que faites-vous si votre partenaire vous trompe ?
+Sadhguru Français
+701 k vues
+•
+il y a 4 ans
+
+
+16:43
+Le général JUGE les classiques français
+LeMondeDeChoi
+283 k vues
+•
+il y a 2 ans
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+592 k vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+1:48:46
+#233 Jean Gab1 - La vie, à la dure
+Biomécanique
+85 k vues
+•
+il y a 2 ans
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+697 k vues
+•
+il y a 1 mois
+
+    
