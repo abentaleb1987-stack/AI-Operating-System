@@ -1,0 +1,1055 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+What racing reveals about working with AI — the OpenAI Podcast Ep. 22
+OpenAI
+OpenAI
+2 M d’abonnés
+
+
+167
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+8 118 vues  16 juil. 2026  The OpenAI Podcast
+Racing is a sport of tiny margins and mountains of data. OpenAI researcher Joyce Ruffell and RaceTek Systems co-founder Chase Holden are each using AI to help teams make better use of information from the track, the garage, and the people behind the wheel. They discuss OpenAI’s research collaboration with Chip Ganassi Racing and how Chase used ChatGPT and Codex to go from hosting a NASCAR podcast to building a racing intelligence company. They also examine how AI could give smaller teams an edge without replacing the human expertise at the heart of racing, and why car culture runs so deep at OpenAI.
+
+Chapters
+
+00:43 Intro to OpenAI researcher Joyce Ruffell and Chip Ganassi Racing
+02:43 Intro to Chase Holden and RaceTek Systems
+07:45 Joyce’s path into racing
+10:00 Helping racing teams work with AI
+15:31 Combining human feedback with racing data
+18:26 How AI helps smaller teams compete
+21:43 Spreadsheets and the “data wars” in racing
+27:03 Getting started with AI and Codex
+30:08 How RaceTek won its first customer
+33:01 Humans, robot racing, and the future of competition
+39:26 Using AI beyond the racetrack
+Researcher Joyce Ruffle and racing entrepreneur Chase Holden discuss integrating artificial intelligence into the world of motorsports. The conversation explores how advanced data processing and modern tools bridge communication gaps between engineers, crews, and drivers to improve performance through more efficient decision-making and logistics at the track.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Découvrir le podcast
+The OpenAI Podcast
+24 épisodes
+The OpenAI Podcast
+OpenAI
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+OpenAI
+2 M d’abonnés
+Vidéos
+À propos
+
+Twitter
+
+LinkedIn
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@garrettsmithley0
+il y a 5 jours
+Happy to be a small part of Race Tek and thankful to Chase and his team for the work he's doing for our team!
+
+2
+
+
+Répondre
+
+
+@AConst
+il y a 4 jours
+You should get iRacing involved and work with sim data too
+
+
+
+Répondre
+
+
+@fivewidesports
+il y a 5 jours
+Chase is the goat
+
+1
+
+
+Répondre
+
+
+@ChurchOfThought
+il y a 5 jours
+Your Shark?
+
+1
+
+
+Répondre
+
+
+@calliopeandever
+il y a 6 jours
+Fun! Forward Deployed Engineers in action! Go Team!
+
+3
+
+
+Répondre
+
+
+1 réponse
+
+@ryanbigguy
+il y a 6 jours
+Not the AI race I was expecting
+
+3
+
+
+Répondre
+
+
+2 réponses
+
+@utubrGaming
+il y a 6 jours
+Hey OpenAI, just as a future suggestion for ChatGPT Work?
+
+1. The "<" and ">" branches for going between iterations across the various inputs and outputs
+2. the "Try Again" regenerations
+3. the "Edit your Response" button for inputs up and down the chat history. 
+
+Basically the accessability stuff from Chat.
+
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Hello, I'm Andrew Mayne, and this is the OpenAI Podcast. In this episode, I spoke with OpenAI researcher Joyce Ruffell
+0:06
+about her experience helping the Chip Ganassi Racing team use AI to improve everything from logistics to driver performance.
+0:14
+I also spoke with Chase Holden, co-founder of RaceTek Systems, about his experience using ChatGPT and Codex to build a racing company.
+0:23
+It's always going to be about who can organize the best. The man and the machine—how do you get
+0:28
+those to work together as seamlessly as possible? It's when everybody's kind of on the same page that results come from.
+0:35
+Data is everything with racing at this point. I believe we are in what's called the data wars right now.
+0:43
+Joyce, tell us about your role at OpenAI. So I am a researcher here at OpenAI.
+0:48
+I have been looking at mostly data problems for the last few years here.
+0:56
+Everything from data sources, data quality, data pipelines, data efficiency.
+1:02
+And one of these data-oriented projects I've been working on recently has been this research collaboration with Chip Ganassi Racing.
+1:10
+They currently run in IndyCar. That is our primary focus with them right now. So in the IndyCar and INDY NXT series,
+1:16
+they have also previously run in NASCAR as well as in sports-car racing. So this is a very interesting intersection, both as a researcher
+1:24
+looking at data and I imagine there's a lot of data in motorsports.
+1:30
+Yes, there really is. And it's a very unique kind of data. It's a lot of high-bandwidth time-series data that we can both look
+1:40
+at retroactively, but we also want to be able to process in real time at the track, make calls and draw conclusions as quickly as possible.
+1:49
+You know, Chip Ganassi's storied team, they've been around 35 years.
+1:54
+They have tons and tons of data from a variety of different drivers on a number of different tracks in different series, different specs.
+2:03
+So they have all the know-how, but it's about making it accessible
+2:08
+so that they can compare and they can build hypotheses and test those hypotheses and either draw results or go back to the drawing board.
+2:19
+But the faster you can pull from that data and get the answers you need, the more experiments you can try, the more fine-tuning you can do before every race,
+2:30
+but also before every qualifying and every practice. You make those sessions more valuable in terms of a data-gathering
+2:38
+exercise toward the race, which is the only goal that matters. How would you describe what RaceTek does?
+2:45
+So RaceTek Systems is our business. We are currently building just racing intelligence systems kind
+2:52
+of at will for customers like bespoke software, things of that nature. We do have one project that we're currently working on right
+2:59
+now that's essentially just the all-in-one racing intelligence, kind of how Joyce was talking about some of those little
+3:07
+things that you might miss during the week. This is a system where you can kind of catch all
+3:13
+of it and everything can kind of live in one place. So that's one of the projects we're working on.
+3:19
+But really, mainly just racing intelligence tools that allow the crew to assess things through a smarter lens
+3:27
+and to make better decisions at the track every weekend. What got you involved in motorsports?
+3:34
+So growing up in South Louisiana, we didn't have a lot of racetracks around us.
+3:39
+But my dad and my mom had a lot of friends who would go to Talladega Superspeedway. So that's kind of the wild, rough-and-rowdy style of race
+3:48
+where all your fans from the South have, like, these traditions. Right.
+3:54
+At Talladega, you have Talladega Boulevard. So there is a lot more to offer than just the race itself when you go there.
+4:00
+So that was like a very big event that my mom and dad's friends got involved in, pulled me into it when I was only about five years old.
+4:07
+And the moment that I saw the stock cars come down the street, I just knew I was hooked. It was one of those things for me where you get to combine family and friends,
+4:16
+and then you have something that's super high-speed that you've never seen before, and the sheer size of that track,
+4:23
+and just seeing all these cars going so fast—these guys who are, you know, just putting it all out on the line just for competition's sake.
+4:31
+Nothing is really more thrilling than that, so that captured me pretty early on. And now you find yourself running a racing company.
+4:39
+How does that happen? It's not like you, you know, saw your first NASCAR race and were like, "Okay, I know what I'm going to do now."
+4:45
+Yeah, no, it was a very, very strange journey. Honestly, a lot of people come into NASCAR through
+4:51
+the competition side and end up usually going into media. I came in through media and am now kind of moving into the competition.
+4:58
+And I started out before I got into racing. You know, I had just kind of a normal job,
+5:05
+worked in finance, and did insurance and things like that. And then just kind of had this awakening, probably around 2017.
+5:13
+I was like, I need to do something more with my time. I feel like I'm not fulfilling myself as a person.
+5:21
+And I wanted to get into radio. I've always loved radio, right? So I got into that, got into podcasting, did that for a while and then
+5:28
+really was able to just build a community around a show that I was doing that was centered around NASCAR and sports betting, actually.
+5:36
+And then, probably around 2022, that was going strong.
+5:41
+You know, ChatGPT comes out. I'm a big follower of AI. I've always been interested in like science fiction, artificial intelligence.
+5:48
+When I was a kid, I would watch Bicentennial Man and A.I. on loop. So the future always really fascinated me.
+5:56
+And the moment that a tool like this existed, I knew like, okay, I'm about to spend so much time just researching and seeing what's possible.
+6:04
+And what can this do? You know, the more I dove into that, the more
+6:09
+I started to learn about what the model was capable of. And so I've worked with multiple versions of ChatGPT now,
+6:18
+and I'm also working with Codex. But it was the moment for me, understanding that I can now take
+6:27
+my ideas and the things that I want to see become real in racing.
+6:34
+And I have a way to construct that now. And that was something that I never had before. I remember trying to explain the vision of what I wanted to build to somebody.
+6:43
+You know, sometimes you might hear, like, "Oh, that's a little far-fetched," or, "That's a little this." So I don't have to worry about that now.
+6:49
+I can just kind of put that together. I kind of always knew that racing has given so much to me
+6:55
+that I want to give back to racing in the way I best can. And for me, that's nothing sweeter than trying
+7:02
+to bring something completely new to the sport, something that maybe these guys and girls have never really gotten to experience.
+7:11
+And especially just the thought process of, you know, looking at the smaller teams or the mid-level teams
+7:16
+that don't have as much of that support on the top level. So, putting all of that together, I think it's a big mixture of things—like
+7:25
+the reason I loved AI so much growing up, without really understanding it.
+7:31
+Then, being able to build a career for myself in the racing world, merge those two things, and see that it actually works—I think that was the moment
+7:40
+when I was like, "Okay, this is what can allow us to get where we want to go."
+7:45
+Joyce, I've known you for a while, but I didn't know that you were that much into racing until about a year ago.
+7:51
+How did that happen? I don't think I tried to keep it a secret. I run the social car channel here at OpenAI.
+7:58
+I've been into cars for a long time, always fascinated by the combination of engineering, aesthetics,
+8:05
+and just kind of the emotional appeal that they have to people. I would say I got into racing—just fell hard for racing during COVID,
+8:15
+not because of Drive to Survive, but just because I found myself with time
+8:21
+and with a partner who was interested in going to the track with me. And so started going to the track, followed a bunch of different series,
+8:30
+everything from sports cars to IndyCar and NASCAR, and just loved the community, loved the engineering, and went from there.
+8:42
+And then you somehow got OpenAI to get involved with racing. So I worked in automotive before coming to OpenAI.
+8:51
+And being a woman working in this space, I went to this conference just out of curiosity to meet more of the community.
+8:59
+And this was out in Indianapolis where most of the IndyCar teams are headquartered.
+9:06
+On this trip, the conference organizers had connections to several of the teams who invited us to their shops,
+9:13
+which—I don't know, maybe Chase, you can speak to this. You work with teams as well. But this is like an honor.
+9:19
+This is like a gift. These teams are usually very secretive. And to be invited in was pretty unusual and really eye-opening for me.
+9:28
+It really got me thinking about how the work I do in this AI industry that we are part of can help this sport that I love.
+9:38
+We were also really lucky that Chip Ganassi Racing was one of the shops that was part of this conference and they were already
+9:48
+looking at how to make AI work for their sport as well. I think this was late 2024.
+9:55
+No one was really talking about it at the time, except maybe you, Chase.
+10:01
+Was there a point where you realized that there was going to be an advantage to this?
+10:07
+There were a lot of things that people had done for years the same sort of way, but then all of a sudden you're bringing AI into this. Has there been some point where you said,
+10:13
+"Oh, wow, I can clearly see the difference"? You know, starting out, there was a lot that I knew I had to learn
+10:19
+about what was happening behind the scenes and with the teams. Being on the inside of it now,
+10:25
+I guess I have always held on to the notion that anyone has the ability now
+10:31
+to organize things in a way where you can kind of get what you need faster.
+10:38
+And I think that that, for me, is probably still the thing that still rings true.
+10:43
+It's always going to be about who can organize the best. It's always going to be about who is, you know, who is knowledgeable
+10:50
+on a certain track or certain corners or, you know, understanding, you know, a driver the best way or understanding the limitations that you have on your team.
+11:02
+And for me, it was always about whoever can put that together the best and the quickest is probably
+11:09
+going to see a huge uptick in their results over a season. I think a big thing that I want to know from you is: What
+11:17
+are some of the things that you found where you're able to deliver exactly what you're being asked to deliver?
+11:26
+And what is, I guess, the smallest, most detailed thing that you've been able
+11:32
+to deliver to the team that may not seem like anything to anyone else, but makes
+11:37
+all the difference to everything that you're doing operationally on the track?
+11:43
+One of the most impactful things that we've delivered to the team is, frankly, education.
+11:51
+It's education about how our models work. I think it helps to pull back the veil and show
+11:59
+that these are just machines under the hood, and it's not magic.
+12:06
+And these guys are engineers and they understand that. And once you understand how the machine is built,
+12:12
+it's easier to conceptualize how to work with them better. So that's taken the form of prompt engineering.
+12:20
+Andrew, you are the original expert prompt engineer.
+12:26
+But yeah, just showing them, for example, that it's all about the input.
+12:32
+If you give it the right input, you'll get the output you're looking for.
+12:37
+And so there's some onus on you as the user to figure out what that right input is.
+12:42
+And, you know, frankly, what we do with Chip Ganassi, we do a lot of prep work ahead of the race day.
+12:51
+I mean, these guys are just so good at what they do. They know exactly what they need once race day comes.
+12:56
+I think we're still exploring what more we could be putting in front
+13:02
+of them that would help them with those strategic calls they're making.
+13:09
+But a lot of the work we do is ahead of time just to make sure the guys on the timing stand feel
+13:15
+as prepped as they possibly can for each and every track. Yeah, I think the driver's side of it is a huge thing.
+13:23
+But education is everything, right? It's like, if you don't know what you're working with and you're just approaching
+13:30
+it from your own perception, you don't know what that looks like for that user. So that's super important.
+13:37
+And I know that's something we've had a little bit of time to work with and talk through. But driver-wise, I find that, like you say,
+13:45
+the teams are able to put things together. Sometimes you just think these guys, they've been doing this for a long time.
+13:51
+They know what they're doing. You're not going to tell them how to do it differently. And they're going to go in there and get that car set up.
+13:56
+So it's like you find these other areas where you're like, "Okay, well, when you need me, I'm here for these parts."
+14:03
+But you look at other facets. The driver, I feel like, is a place right now where AI can really
+14:09
+help to work more on breaking that communication barrier. Not every driver is an engineer and not every driver understands
+14:18
+what is being communicated to them all the time. Sometimes I feel like some drivers will just nod
+14:23
+their heads and they might be like, "Sure. Yeah, I understand." And that's not to say they're not trying to.
+14:29
+But I feel like when you're using artificial intelligence now, you're able to hand over something to a driver that may
+14:36
+have taken them four to five hours to study and look at. And now you're able to give it to them in a way
+14:41
+where it's nice and readable and digestible. And they can figure out exactly what they need to do at the track
+14:47
+from a practice report when they're ready to go back out, you know, for the actual race and try to get a better finish.
+14:53
+So I think on my end, personally, what I've seen is that when the team seems like they've got all the t's crossed and the i's dotted,
+15:01
+I'm automatically moving over to the driver. And we have a lot of back-and-forth with that as well on the NASCAR side.
+15:08
+Yeah, I mean, it's about providing information to the driver, too. You know, it's like if you can get information to the engineers,
+15:15
+they can get it to that driver. And then, you know, at that point, it's just a more informed call.
+15:22
+You know, they're always trying to make the best call they can with the information that they have. So just doing that faster is the name of the game.
+15:31
+Would you say that some of it is just an information advantage? Like you mentioned, there are a lot of little things that go into it.
+15:37
+Every track has a different shape. Everything has its own quirks. And sometimes there's a lot of knowledge out there
+15:42
+that is stuck in drivers' heads or crew members' heads. And is getting that data out there into a format that a tool
+15:49
+like Codex or ChatGPT can sort of look at helpful? Absolutely. I mean, I think part of the learning
+15:56
+is that a lot of the world lives in Excel. The motorsports world definitely lives in Excel.
+16:03
+And, you know, our models can work with Excel, but it's not their favorite format. So part of it is figuring out—you know, racing,
+16:11
+I will say, has a history of the man and the machine.
+16:17
+How do you get those to work together as seamlessly as possible? And I think that's one very unique aspect
+16:25
+of motorsports in contrast to stick-and-ball sports.
+16:30
+And I think AI is, you know, part of the machine side of this. It's not just that we need to make
+16:37
+AI work with how people work today. It's about having them evolve together and having people learn how to work
+16:46
+with and communicate with our models in the most seamless way possible.
+16:51
+What have been some interesting challenges or problems you've been able to throw at it where you're seeing a meaningful difference?
+16:59
+I think the most interesting problems we've been looking at are kind of that soft interface.
+17:07
+You know, you have a lot of motorsports data. When we think of data, we think of numbers.
+17:13
+We think of telemetry. Well, we've always had scripts. We've had plotting algorithms.
+17:18
+We've had all sorts of, I'll call it, traditional software tools to deal with large amounts of data.
+17:24
+But then there's all the softer stuff. A driver describes how the car felt. Or how an engineer jots down some notes over the course of a session.
+17:35
+That's data too, but that data is harder to organize traditionally.
+17:40
+And it's harder to fetch and retrieve, and correlate with these hard-data
+17:46
+numbers that we are getting off of the ECUs and other systems.
+17:51
+And so one place where AI is really coming in here is to help
+17:57
+bridge that gap and coalesce that into a single dataset that people can work with on all sorts of downstream goals.
+18:08
+Running a company and being involved in something like this, you're competing with some more established brands.
+18:16
+Have you found that this has been a good edge or how has it been? I would say so. I mean, it's tough to say exactly like what's going
+18:23
+on behind the doors at these different teams that we're at. I mean, I've definitely heard rumblings. You know, you kind of know a little bit more.
+18:31
+I would say a lot of things on the ML side are probably happening right now.
+18:36
+But for what we're doing, this is essentially allowing
+18:42
+any team to put together a group of engineers, in a sense,
+18:48
+by allowing you to take in, like Joyce was saying,
+18:54
+all the little things that fall by the wayside that go along with the harder
+18:59
+data and put that together to give you the clearest picture. So that would be the same as, you know, saying, "You've got eight engineers working for your team."
+19:07
+Some of these large teams in NASCAR specifically have multiple engineers who'll be on the box.
+19:13
+Not every team can afford that, so you have all those people focusing on individual tasks that they're doing for the team
+19:20
+and the individual datasets that they're looking at. And that all comes together when they meet, right?
+19:26
+So, you know, a system like the one we're building and the different tools that we're able to build, you know,
+19:31
+these are going to be those things that kind of help to fill those gaps. I don't think they'll ever fill like an entire team of engineers,
+19:38
+but it's something that can get smaller teams and medium-sized teams closer to what some of these juggernauts on the track are doing.
+19:46
+Yeah, I want to second that because the thing about AI speeding up what an individual can do, many of these teams are constrained.
+19:54
+The amount of time that they have is limited. And Chip Ganassi is a pretty small outfit in the grand scheme of things.
+20:02
+I mean, they're like under 200 people and everyone wears lots of hats there.
+20:08
+And so if any sort of AI tooling or ML tooling that we can build out helps that person do one thing faster or a set of things faster,
+20:17
+it frees up their time, it frees up their mind to pursue these questions that they might have been interested in doing, but they got deprioritized.
+20:26
+And you never really know. Sometimes those questions that you thought about, but you didn't
+20:32
+really have time to look at could be the next big step or the next most revealing thing and the edge that they find in the next race.
+20:39
+For a racing team, time is the unit of measure they use for everything. So they're looking at all of their processes.
+20:47
+They're looking at, you know, if you think about what an operation it is to get all the stuff that needs to be at the track,
+20:55
+to the track, all over the country and sometimes all over the globe for the teams to be able to show up and deliver those results.
+21:02
+Like that's a huge amount of logistics right there. And AI can help with that.
+21:07
+It can help with parts tracking. All the parts that fall off the cars, get broken during a race weekend,
+21:14
+or need to be replaced—AI can help with that. And so for Chip Ganassi Racing, it's all the way down.
+21:21
+They've been looking in every one of their departments for applications where AI can help.
+21:28
+Often it's just one individual who needs to be responsible for a ton of different roles and a ton of different projects.
+21:34
+They're looking for ways to make AI reduce the most repetitive and most human-error-prone parts of their jobs.
+21:43
+You mentioned something I'd never heard before, which everybody in motorsports probably knows:
+21:48
+just how much of this exists in spreadsheets. Can you give us an idea of what you mean, like how granular that gets?
+21:55
+When I'm working with a team, I usually request data in formats other than spreadsheets.
+22:00
+You know, they issue us MacBooks here, and MacBooks and Excel sheets don't really play super nicely.
+22:05
+So by the time I get the data, the team has already done the legwork of converting it into other formats for me.
+22:13
+That being said, when we've been on calls and they pull up these sheets of just tons and tons of data,
+22:19
+it feels like they can infinitely scroll to the left or down. And, you know, it's a really interesting evolution.
+22:27
+You know, there's some joke somewhere that spreadsheets are Turing-complete or something. So you could build anything you want in a spreadsheet.
+22:35
+But it really feels like that when you look at some of these. It's the level of complexity of not just the data
+22:42
+entry in it, but it's like the highlighting. It's the connections. It's the formulas.
+22:47
+It just keeps going. And so credit to Chase and RaceTek for trying
+22:53
+to figure out how to work natively with that. And to show teams that there is another way to operate with this data.
+23:04
+I mean, we've gone through what sounds like a similar process with Chip Ganassi to show them, you know, hey,
+23:12
+the investment to convert this into a more AI-native format is worth it because these are all the downstream results you can derive
+23:19
+from it if you give the models a format that they can actually work with rather than a format where the model is like, well, you know, sorry.
+23:27
+But our models evolve too, so I think it's really important that we test every three months: What is state of the art?
+23:34
+Can our models work with something a little bit upstream of this process so you don't have to do so much legwork
+23:41
+to get it into a format that AI can understand? And kind of going back to this idea of man and machine, AI gets closer to man.
+23:50
+But AI learns how to do that because of the affordances and the processes we attempt.
+23:59
+We, as the people building AI, need to figure out where that gap is so we can close it.
+24:07
+Yeah, I've seen how some of it gets into a lot of this. Every race, every attempt, is like an experiment,
+24:14
+and measuring things like the weight of the tires before and after, and other kinds of things I would never think about.
+24:19
+That's the thing I think is fascinating. Yeah, those are things that have to be tracked.
+24:25
+Those are very meticulous things. I would say that, with the level of data
+24:31
+Joyce was talking about in these Excel sheets, you have multiple engineers with multiple different jobs,
+24:40
+and they're focusing specifically on one engineering task. So they might have that one engineering workflow built out.
+24:48
+And we're just in a time now where, as software evolves, the walls start to get broken down a little bit, right?
+24:57
+And I feel like that's what AI is so good at: busting down some of those brick walls and communication barriers within teams.
+25:05
+Sometimes, you know, you may have like an engineer that understands something one way. He's got an Excel program that he's built out and is using.
+25:12
+That doesn't necessarily mean that someone else on that team—the crew chief, a mechanic, or another engineer—really understands what that workflow is.
+25:22
+And we now have this opportunity to be able to build a simpler
+25:28
+version of those Excel sheets and allow for these teams to be able
+25:33
+to all kind of pitch in and understand it a little bit better. So I think that, right now— and I know this is true in NASCAR,
+25:43
+and definitely in IndyCar— we're in a very data-dense, or data-rich, environment.
+25:48
+It's just really at a point where we have to figure out how to simplify these things.
+25:53
+And I feel like that's where results come from: when everybody's kind of on the same page, you can move forward.
+26:00
+And I think the data streams are only going to get tougher and tougher as we continue to move forward.
+26:06
+So that's just the ultimate thing right now. I was telling Joyce at dinner, I believe we are in what's called the "data wars" right now in racing,
+26:15
+maybe on the IndyCar side and the NASCAR side. So I can't stress enough how important every little piece
+26:22
+of telemetry is, every little handwritten note, every idea,
+26:28
+or every moment of strategy that's coming from a thought. You know, you can catch that now and have it to implement.
+26:36
+So data is everything with racing at this point. It's interesting, too, because you've talked about being somebody
+26:43
+who had been interested in this world for a long time. And then, post-ChatGPT, you saw an entry point.
+26:49
+And you saw how somebody like you—interested in a lot of different things, but understanding how this technology applied
+26:54
+to something you'd followed for a long time—could use it. And there are probably a lot of other people that might
+27:00
+have opportunities in front of them if they think that way. Can you condense that in any kind of advice? Yeah.
+27:06
+I mean, it's just, it starts with shaking the stereotype of AI off and having
+27:11
+an open mind to become curious and to figure out like, what is out there? Like, what are these tools?
+27:18
+How can I use them? Because I tell everybody all the time, like when it comes to AI,
+27:24
+it's, you know, output's going to be there, but what's the input? How are you communicating to the model?
+27:31
+What is your intent? How are you speaking? So I always try to go above and beyond when talking to people
+27:38
+to really understand people and kind of see where their mind's at to help them communicate best to get the best result.
+27:46
+And I would say, just start by going to a Reddit forum, read up on some of the models, and go to Discord.
+27:56
+There's legitimately an OpenAI Discord out there. I mean, you can learn so much in there from all the other
+28:02
+developers around the country who are working with these products. But, you know, start by just going to chatgpt.com.
+28:12
+Or chat.com, as it's called now. Start going there and just get curious.
+28:17
+Don't ask about the weather. Don't just try one-, two-, or three-liners.
+28:23
+Really open your mind, put something in there, and watch what starts
+28:28
+to happen after a conversation churns for about a good five minutes. You're going to start seeing that things start sparking in different ways for you.
+28:39
+And then there are all the other tools like Codex that now exist—these coding tools that we have.
+28:45
+Having it in the IDE has been insane. It's a great product. And, you know, for somebody who came from dragging and dropping
+28:54
+code into ChatGPT-4o at the time, now we have something like Codex
+29:00
+where you're putting it right there on your desktop and it's taking care of some business for you and allowing you to save that time,
+29:06
+spend a little more time with your family in the evening or, you know, oh, okay, I set a goal and I know this thing's going to run here.
+29:13
+You just have to watch out for the rate limits. The rate limits— they come for us all.
+29:19
+But I think there's still a lot of noise about AI in a negative way.
+29:30
+And we're probably going to have that for a while. And I think that it's healthy to accept that.
+29:37
+But there are always going to be maybe one or two out of ten who are curious.
+29:42
+And they're going to see that. And they're going to see that other side of it. They're going to see the side that I saw, the side pretty much anyone I've talked to has seen.
+29:49
+And it's that, oh, this is something that can become an extension of, you know, my ideas.
+29:56
+Or this can be the thing that allows me to finally get that thing done that I've been thinking about for 10 years.
+30:03
+Nobody wants to be the guy where, oh, I had that idea five years ago. It's like you don't have to be anymore.
+30:08
+How did you win over your first customer? Really, I just got fortunate. I moved up to North Carolina.
+30:15
+For one, I'm kind of an all-in guy. So, like, when I know I'm going for something, I may not always, you know, look at the risk.
+30:23
+I'm just kind of like plan A, let's go. You know, really just having conversations with the driver
+30:31
+on our team—Garrett Smithley, with SS-GreenLight Racing / BRK Racing.
+30:37
+I had a great conversation with him back in November before we officially started working together.
+30:43
+And he was just interested in artificial intelligence himself. So that was most of the work, I would say.
+30:48
+The interest was already there, because that's something you can't create and instill in people. They have to want to see it.
+30:55
+So with that interest being there, that helped me to be able to do that. Plus, my media and podcasting experience from the past.
+31:03
+You know, we had some other angles that we wanted to work as well. So that's why I say I'm kind of wearing multiple hats in the role that I'm in.
+31:11
+But, you know, definitely knew that this could exist and I wanted to be able to get in the building and make that happen.
+31:19
+Using that, along with some other skills I've developed over the years, got RaceTek in the door with SS-GreenLight Racing
+31:27
+and allowed us to start seeing what was possible with the data we have access to in the NASCAR O'Reilly Auto Parts Series.
+31:36
+Car culture at OpenAI is a real thing. You touched upon that earlier. Seriously, for people who work on AI and computer systems,
+31:44
+the number who really like combustion engines—ICE—and are really into it would surprise a lot of people.
+31:54
+You know, one thing that's really attractive to me about racing is that it's such a distillation of all the things you do.
+32:00
+You're looking at the setup, figuring out the exercise regimen for your driver.
+32:09
+You're trying to make weather predictions constantly. It's all these things that you're looking at.
+32:14
+And at the end of the day, it comes down to a number. And that number is your time or your position and whatnot.
+32:20
+It's a really distinct distillation of all your efforts. And I feel that way about a lot of my research, too.
+32:27
+You know, you spend months looking at these different datasets, running these different experiments, trying different architectures.
+32:34
+And at the end of the day, you're just trying to make the test loss go down.
+32:39
+And it's very rewarding to see—well, okay, this test loss is just a number. But when you're doing it at a racetrack, like you feel that.
+32:47
+Is that how you walk out after a race and go, "Oh, my number went down here"? How do you handle that? It's about finding those marginal gains.
+32:54
+I mean, we're talking about the best in the industry. And so finding any gain is a remarkable feat.
+33:01
+When people talk about the future of AI and robotics, I think sometimes they forget how many of the things
+33:09
+we enjoy are enjoyable because they're human-centric. And I think racing is a prime example of that.
+33:16
+Maybe there are going to be robot-car races that some people will want to watch.
+33:21
+But I don't see IndyCar or NASCAR going away anytime soon. I actually think the application of AI we're seeing in motorsports
+33:29
+is extremely human-centric, because these are some of the most goal-oriented people I've ever met and worked with.
+33:36
+And when they start working with AI, it's not like, "Lead me." "Hey, AI, lead me in this direction."
+33:43
+It's like, "No, I need AI to deliver me this." And they have a very clear idea of what it needs to be.
+33:48
+They have an extremely high-quality bar that needs to be met, and they don't want to waste any time doing that.
+33:54
+And so what we have learned working with Chip Ganassi is just how high
+34:00
+the performance of our models needs to be to meet that expectation.
+34:05
+And it's pushing our models forward and it's allowing them to set goals higher and higher every time.
+34:12
+It's very different than just asking the fun questions and exploring what's possible, right? It is very demanding and you have to make sure that your models are efficient.
+34:20
+You have to make sure that whatever you're using delivers the most accurate information possible in real time.
+34:29
+So that's something I know we've worked on really hard, but it is very goal-oriented.
+34:35
+And it's like team sports: it's a very competitive,
+34:40
+high-intensity environment. And some people thrive in those environments.
+34:45
+Others don't. I feel like it's a perfect area for an AI model to be able to thrive
+34:51
+because its one job is to optimize all parts of everything.
+34:57
+So I feel like it's a good pairing. Definitely more of a co-working type of environment where humans
+35:06
+are always going to be a huge part of working with these systems.
+35:12
+And with the autonomous car racing that you were speaking of, I would be very upset if NASCAR or IndyCar ever went that direction.
+35:21
+I don't think they are. I think it'll happen sometime after the NBA decides to do that, too. Well, they do it now.
+35:27
+They actually have it. So they'll come around. Like, I know they do it at, like, Abu Dhabi. They have open-wheel cars where they have a group
+35:34
+of engineers that will build an autonomous race car. And they'll try to send them out on these autonomous races.
+35:40
+And they're still hitting walls and doing all of those things. But watching where it started in 2022 and where it is now, that's what I feel like
+35:48
+a lot of people in racing are thinking when you talk about AI in motorsport. It's like asking, "Are we going to replace basketball players with robots?"
+35:55
+No. There will probably be a world for watching a bunch of robots throw a ball around, but I don't think it displaces
+36:03
+the one we're in where we want to watch humans perform. We just watched astronauts fly around the moon.
+36:08
+We've had probes do that. But it's really cool when people do it. Yes, absolutely.
+36:14
+What does it mean when everybody comes around to it? Everybody understands how to use AI. When we're at AGI and you're able to ask Codex, "Hey,
+36:22
+help my race team do this," everybody kind of levels up to that. Where does the advantage come from?
+36:27
+Man, that's when it all comes down to who has been doing it the longest by the time that arrives.
+36:35
+Who has the best instinct? Who has the best taste? Who can communicate what really needs to be done
+36:43
+in that moment in the most effective way? That's when it gets passed back into the hands of the human.
+36:49
+Whether people want to realize it or not, we're definitely heading to that place. And once any advantage is available to pretty much
+36:56
+everyone—which is something we're definitely trying to help make possible—it puts pressure on some of the bigger teams.
+37:05
+Because if these medium-sized and smaller teams start to kind of catch up and eat into that competition, it's like, okay, well, what is our racing series?
+37:13
+It's been in these little silos for so long, these different teams in these different brackets in these different areas.
+37:19
+When that starts to fade away, that's when it really comes down to who is prompting,
+37:24
+who is putting together the best workflows week in and week out, just like these engineers use Excel sheets now.
+37:32
+Who's able to build the best system, with easy access to what they need in the snap of a finger, instead of having
+37:39
+to sit there and weigh it out among four or five other people before making a call?
+37:44
+Because within those 10 seconds, you could have already pretty much blown your race. So it really just is going to come down to the person, I believe.
+37:52
+It's going to come down to how well they can work with the models, how well they understand, you know, what's possible and what's
+37:58
+out there and then how well they understand their own environment. I would second this and perhaps add that it's going to make
+38:07
+creativity so much more important in finding that edge.
+38:14
+You know, I think motorsport has gone through cycles where it was just investment. If you invested the resources, the engineering,
+38:22
+the effort to build X, then you would find that edge. And now, when the cost of building that is no longer what it was—if you used
+38:32
+to need to hire a software engineer and you no longer have to, or you needed
+38:38
+to hire any number of specialists—I won't say AI will displace that specialist,
+38:44
+but it can get you further in that exploration process of a new idea before you need to pull that specialist
+38:50
+in to double-check the work and really fine-tune it. But if you can come up with the idea,
+38:56
+you can prove it out yourself much more quickly with the help of AI. And so I'm fascinated to work with the racing experts at Chip Ganassi Racing,
+39:05
+see what ideas they're coming up with, and show them, "Hey, you can just build this yourself now."
+39:13
+You know, you don't need to pull all these people in the room just to see if your idea makes sense.
+39:18
+You can figure it out, workshop your idea, and then ask, "Of the resources I used to need for this, what do I still need?"
+39:26
+Outside of the track, how has AI assisted your company? In a lot of different ways.
+39:32
+So, again, I'm working in a role where I'm managing multiple things.
+39:38
+I mean, I'm using AI pretty much in every facet of what I do. Sometimes it's like an assistant to keep things on schedule, to keep things moving.
+39:49
+And then also building, for sure, using different coding agents, being able to pressure-test ideas in real time.
+39:57
+Anything I might pick up from a race—when I get home and I'm like, "Okay, this can work for next week," or, "This needs to work"—I'm quickly getting
+40:06
+onto the coding agents and putting together an idea of what I want to see.
+40:13
+And then there's still a ton of steps that you're going to have to complete once that's done to make sure you get all the kinks out and everything right.
+40:20
+But I use it not just for racing and continuing to build our business,
+40:27
+but really for the organizational and management side of the other
+40:32
+tasks I do, which is reaching out to companies for sponsorship,
+40:38
+looking for content opportunities for a driver,
+40:44
+putting together those schedules and those different things, I feel like that's where AI really comes in handy: keeping
+40:52
+me on task with everything that I'm juggling at all times.
+40:58
+So it definitely makes its way beyond racing and a little bit
+41:04
+more into the logistics of what we're doing on a week-to-week basis. All right, important question.
+41:09
+You have to answer this. Favorite racing movie? Ford v Ferrari. That's a good one.
+41:15
+The Fast and the Furious: Tokyo Drift. Nice, nice. That's the one that hooked me early on.
+41:21
+Well, thank you very much. Thanks, Andrew.
+
+Tout
+
+De la série
+
+Source : OpenAI
+
+Intelligences
+
+Podcast
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+97 k vues
+•
+il y a 1 mois
+
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+41 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+2:17
+Macroéconomie de l'économie ouverte : le modèle Mundell-Fleming
+Topico France
+2 vues
+•
+il y a 3 jours
+Nouveau
+
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+44 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+13:58
+7 Non-Negotiables to Build a Bulletproof Mindset
+Chris Bumstead
+672 k vues
+•
+il y a 3 semaines
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+631 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+15 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+26:35
+Jensen Huang: Why companies need open agent systems
+LangChain et 2 autre(s)
+114 k vues
+•
+il y a 2 semaines
+
+
+1:54:17
+Yuval Noah Harari : Le grand mensonge de l'IA et une élection Trump-Kamala qui va déchirer le pays !
+The Diary Of A CEO
+1,2 M de vues
+•
+il y a 1 an
+Doublée
+
+
+46:02
+Chine, le grand bond dans le futur - reportage intégral
+Envoyé Spécial
+494 k vues
+•
+il y a 1 mois
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+
+7:13
+Codex just got better for developers
+OpenAI
+168 k vues
+•
+il y a 7 jours
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+84 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1,1 M de vues
+•
+il y a 3 mois
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+702 k vues
+•
+il y a 2 mois
+
+4:23
+Robbie Williams - Supreme
+Robbie Williams
+129 M de vues
+•
+il y a 15 ans
+
+11:07
+Anthropic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron
+Bloomberg Podcasts
+811 k vues
+•
+il y a 1 mois
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+55 k vues
+•
+il y a 3 semaines
+
+    

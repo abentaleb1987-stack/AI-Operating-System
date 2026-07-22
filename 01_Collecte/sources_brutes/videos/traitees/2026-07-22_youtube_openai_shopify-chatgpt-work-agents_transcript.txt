@@ -1,0 +1,411 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+How Shopify Uses ChatGPT Work to Build Faster with AI Agents
+OpenAI
+OpenAI
+2 M d’abonnés
+
+
+231
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+8 557 vues  17 juil. 2026
+“It allows me to go faster with fewer dependencies and then do things that I couldn’t do before.”
+
+Chris Jones, Senior Lead, Ops AI Lab at Shopify, is helping teams use ChatGPT Work to redesign workflows with agents, remove bottlenecks, and build tools without waiting on engineering resources.
+
+“What would’ve been a large team supporting a process now comes down to an agent that can run discrete tasks.”
+
+Check out how ChatGPT Work can work for you: http://openai.com/index/chatgpt-for-y...
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+OpenAI
+2 M d’abonnés
+Vidéos
+À propos
+
+Twitter
+
+LinkedIn
+17 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@ianmiles4924
+il y a 5 jours
+Love the product!!!!!!!! Thank you!
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@tekmepikcha6830
+il y a 6 jours
+Is the guy talking Ai himself? also why can't I delete chats in ChatGPT codex???
+
+3
+
+
+Répondre
+
+
+@DePascal-m9z
+il y a 5 jours
+Getting comfortable with delegation is harder than deploying the tech. Most teams fail at adoption, not implementation. Feels like the cultural shift matters more than the model.
+
+2
+
+
+Répondre
+
+
+@anlimelle
+il y a 3 jours
+Codex handles many tasks excellently, yet it is often severely constrained by its sandbox environment and the limitations involved in stepping outside of it. This video on delegating work tasks to an agent notably lacks basic instructions on how to actually use the agent in a workflow, as well as guidance on the essential human oversight and process controls required. As correctly noted earlier, integrating this into existing processes isn't difficult. The real challenge lies in determining exactly which processes to automate and defining the boundaries for human involvement.
+
+
+
+Répondre
+
+
+@ahmadhaidirmusana
+il y a 3 jours
+Ahmad haidir musana19 July 2026
+
+
+
+Répondre
+
+
+@gardenflowersonefiveeight
+il y a 5 jours
+chatgpt slop & fatigue
+
+
+
+Répondre
+
+
+@megenxandgpt
+il y a 3 jours
+This video says nothing lol
+
+
+
+Répondre
+
+
+@Im_Jo5ph2763
+il y a 3 jours
+Openai youtube channel slowly flopping
+
+
+
+Répondre
+
+
+@isitzero-0
+il y a 6 jours
+first :D
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@andrewclemons8619
+il y a 6 jours
+Your ai sucks and lies all the time wasting my time
+
+3
+
+
+Répondre
+
+
+4 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:04
+It allows me to go faster with fewer
+0:06
+dependencies and then do things that I
+0:08
+couldn't do before. From an operations
+0:10
+[music] perspective, I'm focused on
+0:12
+driving effective use and adoption of AI
+0:14
+tools for our nonR&D discipline. [music]
+0:17
+I use Chat GPT like a workhorse. It's an
+0:19
+amazing application for that. I think
+0:21
+the big shift for most people is to
+0:23
+learn how [music] to work with agents.
+0:24
+That change is really about getting
+0:26
+comfortable with delegation. They're
+0:28
+able to [music] do things that they
+0:30
+couldn't do before because there's no
+0:31
+more dependency. They don't have to go
+0:33
+to an engineering team to get resourcing
+0:35
+to like build the tool that they have to
+0:36
+build. [music] I redesigned a triage
+0:38
+workflow using agent skills, using
+0:41
+codeex or using chatbt. And it's
+0:43
+something that just wouldn't have been
+0:44
+possible before. What [music] would have
+0:45
+been a large team supporting a process
+0:47
+now comes down to like an agent that can
+0:49
+run like discrete tasks. It's just like
+0:51
+fundamentally [music] changed how we
+0:52
+work.
+
+Tout
+
+De la série
+
+Source : OpenAI
+
+Intelligence artificielle
+
+Apprentissage
+
+
+12:43
+ChatGPT Work is Incredible! Here's How to Get Started...
+The AI Advantage
+18 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+
+12:53
+3 étapes pour créer la version la plus puissante de toi-même
+Un instant
+91 vues
+•
+il y a 3 jours
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+631 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+44 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+42:17
+24h comme au Japon... mais à Lille avec @thomasdeseur
+Tev - Ici Japon
+606 k vues
+•
+il y a 2 mois
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+97 k vues
+•
+il y a 1 mois
+
+
+5:53
+Get started with ChatGPT Work
+OpenAI
+167 k vues
+•
+il y a 13 jours
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+74 k vues
+•
+il y a 4 semaines
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+84 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+4:23
+The Cardigans - My Favourite Game “Stone Version”
+The Cardigans Official
+87 M de vues
+•
+il y a 10 ans
+
+How Shopify Uses ChatGPT Work to Build Faster with AI Agents
+5,2 k vues
+
+Mr. Olympia Samson Dauda Made Larry Wheels Look Small #larrywheels #samsondauda
+1,6 M de vues
+
+Le GAGNANT du MR. OLYMPIA 1983 m'apprend sa POSE !🏆 #bodybuilding #muscle
+422 k vues
+
+Le curry instantané au Japon !
+789 k vues
+
+Elle allait me démarrer 😂
+3,6 M de vues
+
+LA CATÉGORIE X PRÉFÉRÉE DE NIKITA BELLUCCI
+1 M de vues
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+1:43
+Build and publish web apps directly in ChatGPT
+OpenAI
+71 k vues
+•
+il y a 8 jours
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 6 jours
+Nouveau
+
+16:52
+7 ans en Norvège, 3 enfants, mariée à un Norvégien…. et pourtant j'ai fui ce pays 🇳🇴
+Elodie 🤍
+790 k vues
+•
+il y a 2 mois
+
+9:29
+OpenClaw vs Hermes Agent (Ne Choisissez Pas MAL!)
+Metics Media
+115 k vues
+•
+il y a 1 mois
+Doublée
+
+9:48
+ALAIN SORAL RÉAGIT à la M*RT du RAV RON CHAYA
+Kentra Actu
+85 k vues
+•
+il y a 3 semaines
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+    

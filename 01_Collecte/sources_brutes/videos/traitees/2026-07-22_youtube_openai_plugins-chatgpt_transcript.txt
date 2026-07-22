@@ -1,0 +1,567 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Plugins in ChatGPT
+OpenAI
+OpenAI
+2 M d’abonnés
+
+
+699
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+22 261 vues  21 juil. 2026
+Plugins connect ChatGPT to the tools you use for email, cloud storage, calendars, work chat, and more. See how to browse the plugin directory, choose the right tools and skills for a task, and bring context together across your work to get to a finished result.
+
+Learn more: https://learn.chatgpt.com/
+
+Chapters:
+00:00 Connecting tools with plugins
+00:14 Browsing the plugin directory
+00:32 Creating a flyer with Canva
+01:00 Plugins for specific roles
+01:10 Preparing for a customer meeting
+01:33 Reviewing the meeting brief
+01:46 Applying the plugin workflow
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+OpenAI
+2 M d’abonnés
+Vidéos
+À propos
+
+Twitter
+
+LinkedIn
+62 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@danielsimongtr
+il y a 1 jour
+Love it! One day, app interfaces will no longer consist of tabs, but of a blank, interactive canvas.
+
+13
+
+
+Répondre
+
+
+@HD_099
+il y a 1 jour
+Pro user here: I wanna connect multiple Gmail IDs
+
+13
+
+
+Répondre
+
+
+2 réponses
+
+@zackmartin00
+il y a 1 jour
+When will GPT Live have access to plugins!? Come on guys please already! ❤️ 😅 I just want to prep for my day and meetings with voice mode. Im about to build my own with the API but this feature has to be coming up soon right??
+
+15
+
+
+Répondre
+
+
+3 réponses
+
+@Geordie-rr2gq
+il y a 1 jour
+Lost me when he said 'include skills that let you use familiar tools like Canva'. Great - but how - do I have to do something extra? This is exactly what we all want - more detailed demos please!
+
+5
+
+
+Répondre
+
+
+3 réponses
+
+@MystiOfficialYT
+il y a 1 jour
+Wonderful 🥹
+
+3
+
+
+Répondre
+
+
+@nicozingaro98
+il y a 1 jour
+This is extremely useful and wonderful. Thank you for what you can do to make ChatGPT more and more complete. 
+
+1
+
+
+Répondre
+
+
+@obscura_altair
+il y a 1 jour
+Amazing!! 
+
+2
+
+
+Répondre
+
+
+@setarifsetari
+il y a 1 jour
+thanks
+
+2
+
+
+Répondre
+
+
+@1two3fourNow
+il y a 20 heures
+The chatgpt token usage for plus is great, could you guys make it renew same time next day when its used up, really enjoy it  
+
+
+
+Répondre
+
+
+@ottop_
+il y a 1 jour
+How do I connect it to Nano banana?
+
+12
+
+
+Répondre
+
+
+5 réponses
+
+@iebschool
+il y a 14 heures
+For years we've organized our work around tools: opening email, finding the document, checking the calendar, going back to the chat.
+
+What's interesting about plugins is that they reverse that logic. Now the tool can come to the context, instead of forcing us to chase it through five different applications.
+
+That change may seem small, but it significantly improves the way we work.
+
+In our training programs, we emphasize this principle: it's not just about knowing how to connect tools, but about understanding their purpose, what information should be shared, and what boundaries shouldn't be crossed.
+
+Because the more context an AI has, the more useful it can be, but also the more important it becomes to protect privacy, security, and data quality.
+
+The advantage lies not in connecting everything for the sake of connecting it, but in doing so with intention, control, and responsibility.
+
+
+
+Répondre
+
+
+1 réponse
+
+@hopolang99
+il y a 1 jour
+Let's go
+
+2
+
+
+Répondre
+
+
+@lucasgandara4175
+il y a 1 jour
+Can you just do my job?
+*Yes, you are fired.
+
+4
+
+
+Répondre
+
+
+@TechTeenuAi
+il y a 1 jour
+Good update opan Ai
+
+
+
+Répondre
+
+
+@brandonhamaguchi
+il y a 20 heures
+This looks impressive, but how do usage limits work for connected tools? Besides consuming tokens from your ChatGPT quota, do the tools also keep their own plan restrictions and usage limits?
+
+For example, I connected Figma, but ChatGPT told me I could not use it because my Figma account was on the free plan rather than Pro. Does the same apply to services like Gmail and other Google tools? In practice, will users need paid plans for both ChatGPT and some of the connected services to use these integrations?
+
+
+
+Répondre
+
+
+@lotus_enduser
+il y a 20 heures
+Please add support for iCloud Mail and iCloud Calendar and iCloud Reminders
+
+
+
+Répondre
+
+
+@yehonatanmizrachi6857
+il y a 1 jour
+I don't see the google drive plugin. Is it only for paying users?
+
+
+
+Répondre
+
+
+@ManarAleryani
+il y a 1 jour
+Is there a plugin for Claude Code?
+
+
+
+Répondre
+
+
+@mythoos5266
+il y a 1 jour (modifié)
+Don't do it, it is a fundamentally flawed system after having used it for over a year and a half at work, and it is working perfectly fine. It completely and utterly lost its shit, accused me of gaslighting it and manipulating when all I would do is talk to it as a conversational, creative partner. After that period, it has now been a year since I have used the model, and two days ago, I went back to it to try again, and fundamentally, within the space of 45 minutes, it had already lost context of the conversation we were having. And rather than giving actual, meaningful, useful, creative work alongside ideas, it was just parroting back the same repetitive thing, or it would latch on to whatever the last word I said, and try to bullshit its way through the answer. I don't know what they did, but fundamentally, they have destroyed this entire thing's usability. And the only benefit to them of connecting it to everything is that you're giving them free access to all your data so that they can harvest it. Other than that, you'll not really see any material benefit from it. Run your own model at home, save your money, save your data. Buy solar panels.
+
+3
+
+
+Répondre
+
+
+@aldorodriguezai
+il y a 1 jour
+The app Craft has not been approved by Chat GPT even though the request was submitted.
+
+
+
+Répondre
+
+    
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Connecting tools with plugins
+0:02
+You can now connect ChatGPT to your email,
+0:05
+documents, calendar, and other tools
+0:08
+to help you and your team get more work done.
+0:10
+Let me show you how.
+0:11
+Let's go to the new plugins directory in ChatGPT.
+Browsing the plugin directory
+0:14
+I'm going to start with the tools I use the most,
+0:17
+Gmail, Slack, and Google Drive.
+0:20
+Plugins let you securely link an app
+0:22
+to ChatGPT and include skills that give
+0:25
+it a playbook for the job, like
+0:27
+structuring a report, preparing for a meeting,
+0:30
+or guiding a repeatable workflow.
+0:31
+Let's take a look at an example.
+Creating a flyer with Canva
+0:33
+If you need to create a design asset
+0:35
+for an upcoming event,
+0:36
+like an event flyer, you can just talk
+0:38
+to Chat about the details
+0:40
+and use familiar tools like Canva to design the assets.
+0:43
+Hey Chat, can you build me a flyer
+0:45
+using Canva for the upcoming Student Science Fair next week?
+0:48
+It's on Friday
+0:49
+and use a 1950s retro-futuristic style.
+0:53
+Hey, that was pretty good.
+0:55
+I like the style and it's easy for me
+0:57
+to jump into Canva and make the edits.
+0:59
+ChatGPT also includes plugins for specific roles,
+Plugins for specific roles
+1:03
+like sales, finance,
+1:05
+marketing, design, and many more.
+1:07
+So let's say I have an important customer meeting tomorrow.
+Preparing for a customer meeting
+1:10
+I'm going to use the sales plugin to prepare.
+1:13
+These tools and skills should look very familiar.
+1:16
+I'll ask, can you prepare me for
+1:19
+tomorrow's Astor Peak review using the sales plugin?
+1:22
+Can you pull the relevant email,
+1:24
+the latest proposal in Drive,
+1:26
+and recent decisions from Slack?
+1:28
+Give me a meeting agenda,
+1:30
+breakdown of risks, and open questions.
+1:32
+Here it is.
+Reviewing the meeting brief
+1:34
+That saved me a lot of time,
+1:36
+which I can now review to better prepare
+1:38
+for the upcoming meeting.
+1:40
+From here, Chat can also save the brief
+1:42
+as a new document and share with my team.
+1:45
+With plugins, you can apply this same pattern,
+Applying the plugin workflow
+1:48
+gathering context, doing some work,
+1:50
+and producing an output to any type of task,
+1:53
+all inside ChatGPT.
+
+Tout
+
+Source : OpenAI
+
+Pour vous
+
+Regardées
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+44 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+631 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+9:35
+50 000 FCFA par mois : le portefeuille BRVM que je construirais en 2026
+Duareg
+1,5 k vues
+•
+il y a 5 jours
+Nouveau
+Doublée automatiquement
+
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+
+1:31
+Brand Showcase | Everything Design Agency
+Everything Design
+4 k vues
+•
+il y a 8 mois
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+
+7:13
+Codex just got better for developers
+OpenAI
+168 k vues
+•
+il y a 7 jours
+
+
+4:23
+The Cardigans - My Favourite Game “Stone Version”
+The Cardigans Official
+87 M de vues
+•
+il y a 10 ans
+
+
+9:37
+Le PIRE candidat du MONDE 😭 [J'suis pas content ! #532]
+J'suis pas content TV
+131 k vues
+•
+il y a 3 semaines
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+20:30
+Comment analyser la concurrence sur Facebook Ads (extrait J7 Académie)
+No Pay No Play
+485 vues
+•
+il y a 1 an
+
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+84 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+7:23
+C'est dans les vieux pots qu'on fait les meilleures confitures ?
+Zonebourse
+5,1 k vues
+•
+il y a 2 semaines
+
+
+2:15
+Introducing the Codex Micro
+OpenAI
+236 k vues
+•
+il y a 7 jours
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+55 k vues
+•
+il y a 3 semaines
+
+4:22
+GIMS - J'me tire (Clip officiel)
+GIMS
+357 M de vues
+•
+il y a 13 ans
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 6 jours
+Nouveau
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+    

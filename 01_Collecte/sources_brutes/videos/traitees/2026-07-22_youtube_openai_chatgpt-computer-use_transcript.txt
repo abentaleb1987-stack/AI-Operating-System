@@ -1,0 +1,561 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+ChatGPT can now complete tasks on your computer
+OpenAI
+OpenAI
+2 M d’abonnés
+
+
+2,3 k
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+91 404 vues  16 juil. 2026
+With GPT-5.6, ChatGPT can use the apps on your computer and your browser to complete tasks for you. See how it works across macOS and Windows, how you can collaborate with it in real time, and how it keeps multi-step work moving in the tools you already use.
+
+Learn more: https://learn.chatgpt.com/
+
+Chapters:
+00:00 Browser and Computer Use
+00:12 Analyzing community feedback
+00:26 Annotating in the in-app browser
+00:38 Connecting Chrome
+00:52 Controlling desktop apps
+01:07 Connecting everyday tools
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+OpenAI
+2 M d’abonnés
+Vidéos
+À propos
+
+Twitter
+
+LinkedIn
+195 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@FranLegon
+il y a 6 jours
+Hasn't this been released like 20 times already?
+
+375
+
+
+Répondre
+
+
+16 réponses
+
+@beny.7574
+il y a 6 jours
+2006: Be careful what websites you go to and emails you open, hackers can install software to take over your computer and take your money. 
+2026: Give us money so we can take over your computer.
+
+34
+
+
+Répondre
+
+
+2 réponses
+
+@bzzr2000
+il y a 6 jours
+Please add Linux support!
+
+59
+
+
+Répondre
+
+
+13 réponses
+
+@pponcho8245
+il y a 6 jours
+Now you’re asking the right question
+
+6
+
+
+Répondre
+
+
+@JulianFernandez
+il y a 5 jours
+back in the game. nice.
+
+1
+
+
+Répondre
+
+
+@CapitánUnai
+il y a 6 jours
+Thanks 
+
+2
+
+
+Répondre
+
+
+@techwithbak
+il y a 6 jours
+I use it today very good for my work
+
+4
+
+
+Répondre
+
+
+1 réponse
+
+@amithgowda8417
+il y a 6 jours
+First try to resolve the issue where if we use browser in app the app crashes and closes on its own
+
+17
+
+
+Répondre
+
+
+4 réponses
+
+@shsnail
+il y a 6 jours
+Please support Linux 
+
+21
+
+
+Répondre
+
+
+@oguzhantaskin
+il y a 2 jours (modifié)
+The most important feature is still missing: **a proper read-aloud mode**.
+
+For me, this isn't worth switching to yet because I don't want to read every long response word by word. That creates unnecessary cognitive load. I'd rather use my mental energy to analyze and think about the content instead of just consuming it.
+
+A good text-to-speech experience would make a huge difference. Ideally it should include:
+
+* Play / Pause
+* Adjustable playback speed
+* The ability to select and read only a specific paragraph or section
+* The option to keep listening while working in other apps
+
+Gemini already does some of this, and it makes long-form AI much more efficient to use.
+
+As ChatGPT becomes more of a work assistant and agent, reducing cognitive load is just as important as adding new capabilities. A flexible read-aloud feature would be one of the biggest usability improvements.
+
+An intelligent Audio-mode with multimodal presentation ... create an infografik for my question and explain it as audio-output and so on ... this would be an advanced developtment. But at least, give us this "read-aloud-mode" on the app please.
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@quantumzero101
+il y a 6 jours
+Nice!
+
+1
+
+
+Répondre
+
+
+@guilhermevalente708
+il y a 6 jours
+Yes multi-billion dollar company please access my computer and my phone and my house appliances and my vehicles!!! What could go wrong!
+
+15
+
+
+Répondre
+
+
+@zukhriddinf
+il y a 6 jours
+Which browser is more token-efficient to use for codex: in app browser or chrome?
+
+2
+
+
+Répondre
+
+
+@reyallen3108
+il y a 6 jours
+CHATGPT  best model
+
+1
+
+
+Répondre
+
+
+@nickpmusic
+il y a 6 jours
+Can I use it to load VST's and effects in Logic Pro?
+
+9
+
+
+Répondre
+
+
+2 réponses
+
+@fslurrehman
+il y a 6 jours
+Why not you offer same features for KDE and Gnome Desktop use or app use in linux that involves mouse?
+
+6
+
+
+Répondre
+
+
+4 réponses
+
+@jubas8273
+il y a 6 jours
+Cool, huh? Honestly, I expected an announcement that it would be about using your computer's processing power and adding it to the processing power of the entire chat gpt ecosystem xd
+
+
+
+Répondre
+
+
+@BekaAman-t8e
+il y a 6 jours
+OpenClaw
+
+3
+
+
+Répondre
+
+
+@시
+il y a 6 jours
+Codex failed to manipulate the Electron app. Computeruse did not work properly.
+
+1
+
+
+Répondre
+
+
+@jiaanbeast1395
+il y a 6 jours
+Imagine how Ai will be in couple of years… incredible stuff!
+
+30
+
+
+Répondre
+
+
+4 réponses
+    
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Browser and Computer Use
+0:05
+With the new ChatGPT app,
+0:06
+you can get a range of real work done
+0:08
+by using it to control
+0:09
+the websites and apps you already use.
+Analyzing community feedback
+0:12
+For example, I want to analyze
+0:13
+recent posts from our community forum to identify
+0:17
+top issues causing user frustration in the past month.
+0:20
+ChatGPT can use the in-app browser to scan
+0:23
+the forum and compile a friction report.
+0:25
+The in-app browser also has a built-in annotation tool.
+Annotating in the in-app browser
+0:28
+I can use it to provide more targeted feedback
+0:30
+or ask a question on a specific page
+0:33
+without the need to write
+0:34
+overly verbose instructions.
+0:36
+If you need to use your existing
+0:37
+browser's context instead, you can connect
+Connecting Chrome
+0:40
+it to ChatGPT using the Chrome extension.
+0:42
+ChatGPT can use tabs you already have open
+0:45
+or create new ones
+0:46
+in the background without disturbing you.
+0:47
+This is great for tasks like filing
+0:49
+expense reports or long data entry workflows.
+Controlling desktop apps
+0:52
+And if the tool you need to use is
+0:53
+not a website but an app on your desktop,
+0:55
+you can use Computer Use to control
+0:57
+any app on your Windows or macOS computer.
+1:00
+On macOS, ChatGPT has its own cursor
+1:02
+so it can even work in the background
+1:04
+so you can continue to do other things.
+1:06
+With the new ChatGPT, you can now
+Connecting everyday tools
+1:09
+get more done by connecting it directly
+1:11
+to the apps and tools that you use daily.
+1:14
+Give it a try.
+
+Tout
+
+Source : OpenAI
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+
+16:30
+Claude Code vs Cowork vs Claude tout court — Lequel pour quoi ?
+Shubham SHARMA
+24 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+12:43
+ChatGPT Work is Incredible! Here's How to Get Started...
+The AI Advantage
+18 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+1:43
+Build and publish web apps directly in ChatGPT
+OpenAI
+71 k vues
+•
+il y a 8 jours
+
+
+12:53
+3 étapes pour créer la version la plus puissante de toi-même
+Un instant
+91 vues
+•
+il y a 3 jours
+Nouveau
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+631 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+5:53
+Get started with ChatGPT Work
+OpenAI
+167 k vues
+•
+il y a 13 jours
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+315 k vues
+•
+il y a 3 mois
+
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+44 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+
+14:36
+GPT-6 was asked a question, and went on a hacking spree to get the answer
+AI Explained
+22 k vues
+•
+il y a 4 heures
+Nouveau
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+97 k vues
+•
+il y a 1 mois
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+84 k vues
+•
+il y a 1 jour
+Nouveau
+
+35:24
+La famille Le Pen finalement candidate (pour la 9e fois...)
+François Asselineau
+1,2 k vues
+•
+il y a 5 heures
+Nouveau
+
+4:23
+The Cardigans - My Favourite Game “Stone Version”
+The Cardigans Official
+87 M de vues
+•
+il y a 10 ans
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+7:13
+Codex just got better for developers
+OpenAI
+168 k vues
+•
+il y a 7 jours
+
+1:45
+Schedule tasks with ChatGPT
+OpenAI
+20 k vues
+•
+il y a 6 jours
+Nouveau
+
+    

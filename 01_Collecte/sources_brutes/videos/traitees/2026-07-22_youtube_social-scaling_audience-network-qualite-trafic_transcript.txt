@@ -1,0 +1,914 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+je n'ai jamais vu ça en 9 ans de Facebook ads
+Social Scaling
+Social Scaling
+7,79 k abonnés
+
+
+86
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+1 830 vues  10 juin 2026  Social Scaling
+Pour les annonceurs, ça se passe ici ⬇️
+https://experts.j7media.com/diagnosti...
+
+Notre Newsletter gratuite : https://www.j7media.com/newsletter
+
+Notre écosystème de formation : https://j7academie.com/
+
+Épisodes cités : 
+   • Comment survivre à Meta Ads ? (et ses prix...  
+   • Andromeda : la mise à jour qui détruit Fac...  
+
+CHAPITRES
+00:00 – La découverte
+01:52 – La découverte 2
+02:58 – L’Audience Network ?
+06:14 – Pourquoi ?
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Découvrir le podcast
+Social Scaling
+166 épisodes
+Social Scaling
+Social Scaling
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Social Scaling
+7,79 k abonnés
+Vidéos
+À propos
+
+Facebook
+
+Instagram
+
+Linkedin
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@karimmechri5268
+il y a 1 mois
+Vous êtes les premiers à avouer qu'il y a un problème sur meta ads. Merci pour votre sincérité.
+
+3
+
+
+
+Répondre
+
+
+@PastaLaVista-u5d
+il y a 1 mois
+Je suis contente de voir que je suis pas folle. Le compte de mon client avait le même problème.
+
+
+
+Répondre
+
+
+@jeunekash
+il y a 1 mois
+Effectivement pareil
+
+
+
+Répondre
+
+
+@paulmaindivide3063
+il y a 1 mois (modifié)
+Tout s'est passé exactement de la même manière sur mon compte (+100k€ par mois) : proportion de budget sur AN croissant depuis Juillet 2025, CTR qui explose, CPC à la grande baise, mais taux de conversion qui a fait que baisser pour même s'effondrer.
+On a exclu tous les placements parasites et on a gardé que Feed, Reels, et Stories, ça a eu un impact positif immédiat. Mais au bout de quelques semaines les CPA ont commencé à se détériorer, et les taux de conversion ont commencé à re-dégringoler et aujourd'hui les métriques sont encore très mauvaises malgré les exclusions des placements.
+Est-ce que toi sur les comptes que tu gères la mise en off des placements parasites ont eu un impact positif durable ?
+
+1
+
+
+Répondre
+
+Social Scaling
+·
+
+1 réponse
+
+@jvl-248
+il y a 1 mois
+3 mois et demi qu’on a découvert le poteau rose… mais bien qu’on exclu cette emplacement ça ne change strictement rien ! Ils ont décidé de flinguer la plate-forme mais vont vite être obliger de changer les choses…
+
+
+
+Répondre
+
+Social Scaling
+·
+
+1 réponse
+
+@jlndspx
+il y a 1 mois
+Je m’en étais rendu compte aussi, de la grosse m… audience network. Je l’exclue toujours.
+
+1
+
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+La découverte
+0:00
+Il y a une semaine, on a fait une
+0:01
+découverte absolument terrifiante à
+0:03
+propos de Meta ads et je vous le dis
+0:04
+tout de suite, en 9 ans de méia buing,
+0:06
+je n'ai absolument jamais vu ça. Tout a
+0:08
+commencé chez un compte LGEN qu'on
+0:10
+amenait tranquillement à plus de 30000 €
+0:11
+de budget mensuel jusqu'à mai où on est
+0:14
+obligé de reculer sur ce même budget.
+0:16
+Pourquoi ça ? Bah simplement parce qu'on
+0:17
+observe sur le backend que le taux de
+0:19
+transformation est en train de
+0:21
+s'effondrer depuis le mois de mars avec
+0:22
+des CPL qualifiés de plus en plus
+0:24
+élevés. Rendu là, on fait toutes nos
+0:26
+recherches possibles, la page de
+0:27
+capture, le tracking, les publicités et
+0:29
+cetera, mais on ne trouve pas tout de
+0:31
+suite ce qui cloche. En fait, sur
+0:32
+Metaads, on a des leads qui sont au
+0:34
+prix, mais à l'extérieur, bah ces leads,
+0:36
+ils sont de plus en plus médiocres.
+0:37
+C'est là que nous vient l'idée
+0:38
+d'inspecter autre chose, à savoir la
+0:40
+source du trafic sur Metaads, plus
+0:42
+précisément le type de plateforme.
+0:44
+Est-ce que ça vient de Facebook ? Est-ce
+0:46
+que ça vient d'Instagram, de Trade, du
+0:48
+Audience Network ? Et c'est là qu'on
+0:49
+trouve le problème. Sur cette image,
+0:51
+vous voyez la répartition des dépenses
+0:53
+sur Facebook, Instagram, audience sur la
+0:55
+même période et peut-être qu'il n'y a
+0:57
+rien qui vous saute aux yeux, mais nous
+0:59
+si. C'est le volume de dépenses qui part
+1:01
+dans le audience network. Et pour vous
+1:02
+aider, on va faire un petit comparatif
+1:04
+entre le ratio de dépense de novembre
+1:06
+2025 à avril 2026. En fait, on va passer
+1:09
+de 2 à 8 %. Et sur le papier, ça n'a pas
+1:11
+l'air grand-chose, mais attendez de voir
+1:13
+ce que ça donne en clique sur lien.
+1:15
+Alors que fin 2025, le trafic sortant
+1:17
+provenait à 30 % du Audience Network, en
+1:20
+mai 2026, il est de 88 %. 88 %, je sais
+1:24
+pas si vous vous rendez compte, c'est
+1:25
+absolument stratosphérique. Et pourquoi
+1:27
+c'est le cas ? Bah c'est simple. Le prix
+1:29
+du clic sur lien depuis cet emplacement
+1:31
+est passé de c'est pas cher à c'est
+1:33
+moins cher que tout ce qui existe sur la
+1:35
+planète à l'heure actuelle. Donc après
+1:36
+vérification, on a très vite entouré que
+1:38
+le trafic audience network était une
+1:40
+catastrophe absolue et on a appliqué des
+1:42
+exclusions pour ne plus en recevoir. Et
+1:43
+c'est là qu'on a fait la découverte la
+1:45
+plus inattendue de l'année, je dois le
+1:46
+dire, quand on a décidé de vérifier au
+1:48
+cas où ce qu'il en était sur tous les
+1:50
+autres annonceurs avec lesquels on
+1:51
+travaille. Pour vous projeter un peu le
+La découverte 2
+1:53
+problème, j'ai sorti un graphe qui vous
+1:55
+montre jusqu'à mi-2024 le volume de clic
+1:57
+sur lien qu'on obtient sur ces trois
+1:59
+emplacements, à savoir les trois
+2:00
+emplacements majeurs de Metaads. Et
+2:02
+voici ce que ça donne. Comme on peut le
+2:04
+voir à gauche, la courbe de Audience
+2:06
+Network est d'une stabilité absolue et
+2:08
+d'un poids ridicule dans le trafic. Mais
+2:10
+c'est après juillet 2025 que la courbe
+2:12
+se met à exploser, dépassant même
+2:14
+Instagram dès novembre 2025, passant
+2:17
+proche d'atteindre celle de Facebook en
+2:19
+février 2026. Si on suit un petit peu la
+2:21
+chronologie des événements juillet 2026,
+2:23
+c'est là que les US ont commencé à
+2:25
+parler de l'impact de Andromeda sur leur
+2:27
+campagne. J'ai moi-même fait une vidéo
+2:28
+sur le sujet plutôt mi-octobre parce
+2:30
+qu'on voyait les conséquences en Europe
+2:32
+et en octobre, c'était déjà la première
+2:34
+intersection entre l'audience network et
+2:36
+le volume de trafic amené par Instagram
+2:38
+chez nos clients. Et là sur ce graphe,
+2:40
+je vous parle d'une soixantaine de
+2:41
+comptes e-commerce ou les genè avec
+2:43
+lesquels on ne fait pas de campagne de
+2:45
+trafic, on ne fait pas des campagnes de
+2:47
+clic sur lien, on est toujours en
+2:48
+conversion, parfois sur des conversions
+2:50
+personnalisées, donc des objectifs qui
+2:52
+sont plutôt techniques et qui demandent
+2:54
+à MTA un ciblage ultra précis, un
+2:56
+comportement qui est à l'entithesse de
+L’Audience Network ?
+2:58
+ce qu'on voit sur cette courbe. Car il
+2:59
+faut bien qu'on parle d'un truc, le
+3:00
+audience network, ça a jamais été un
+3:02
+emplacement qui fait rêver. C'est même
+3:03
+tout le contraire. Pour ceux qui ne
+3:05
+savent pas encore ce que c'est le
+3:06
+Audience Network, c'est juste un
+3:07
+emplacement tiers de MTA ads et depuis
+3:09
+longtemps. Imaginez, vous perdez une vie
+3:11
+sur Candy Crush, on vous propose de la
+3:13
+récupérer, mais il faut voir une pub,
+3:14
+bah c'est du Audience Network. Vous
+3:16
+arrivez sur un site web, il y a une
+3:18
+pop-up qui s'affiche avec une pub, c'est
+3:20
+encore du Audience Network. Audience
+3:22
+Network, c'est tout le réseau de
+3:23
+partenaire externe aux applications de
+3:25
+méta qui montre des pubs Metaas en fait.
+3:27
+Mais on va surtout dire les termes.
+3:28
+L'audience network très souvent bah
+3:31
+c'est de la en fait au mieux c'est du
+3:33
+clic par erreur au pire c'est du bot.
+3:34
+Sauf qu'avant 2026 on avait jamais eu
+3:36
+besoin de s'en soucier parce que il
+3:38
+prenait quasiment pas de budget. Mais
+3:39
+allez donnons le bénéfice du doute à
+3:41
+Meta. S'il donne plus de budget à cet
+3:43
+emplacement c'est qu'il a des bonnes
+3:44
+raisons de le faire pas vrai ? Donc, je
+3:46
+suis allé voir 10 annonceurs de l'agence
+3:48
+e-commerce, Legen qui ont un tracking
+3:50
+plutôt solide à même méta et avec 100 %
+3:53
+de budget qui part en conversion,
+3:54
+parfois sur des conversions
+3:55
+personnalisées. L'objectif pour moi
+3:57
+c'était de sortir le ratio de dépenses
+3:59
+audience network par rapport au budget
+4:01
+total en mai 2025 par rapport à mai
+4:04
+2026. Mais surtout à quel point le CPA,
+4:06
+donc le coût par acquisition sur cet
+4:08
+emplacement précisément colle avec notre
+4:10
+objectif donné par chaque client. Voici
+4:12
+le tableau. Je vous laisse faire pause
+4:14
+pour le regarder en détail. Moi, je vais
+4:15
+le commenter en direct. Sur 10
+4:17
+annonceurs, l'audience network coûte
+4:18
+plus cher que notre CPA cible pour H
+4:21
+d'entre eux. Le lead gène numéro 3,
+4:23
+c'est celui dont je vous ai parlé tout
+4:24
+au début. Il a certes un CPA audience
+4:26
+Network qui est meilleur que notre
+4:27
+objectif, mais la qualité est absolument
+4:29
+médiocre. Donc, je monte ce groupe à
+4:31
+9/10. Ensuite, tous ont connu une
+4:34
+augmentation stratosphérique du ratio de
+4:36
+dépense sur cet emplacement. Vous voyez
+4:37
+qu'en 2025, ça représentait absolument
+4:40
+rien. Voilà pourquoi personne s'en
+4:41
+souciait. Maintenant, on est sur du 3 7
+4:44
+9 10 % pour certains. Et en terme de
+4:46
+dépassement et bien par rapport au CPA
+4:48
+qu'on essaie d'atteindre, Audience
+4:50
+Network nous donne des coûts 50 voire 80
+4:52
+% au-dessus du maximum qu'on est prêt à
+4:54
+payer. Et que vous compreniez l'ampleur,
+4:56
+on peut regarder la différence
+4:57
+directement sur les comptes qui ont
+4:58
+scalé par rapport à 2025. Ici, je vais
+5:00
+avoir plus de 16000 % d'augmentation sur
+5:03
+cet annonceur ou plus de 1500 % sur cet
+5:05
+annonceur-ci. Et ça fonctionne même si
+5:07
+vous baissez le budget. Regardez, là on
+5:09
+a une augmentation de plus de 990 % ou
+5:12
+sinon plus de 320 %. Et c'est ça pour
+5:15
+les 10 annonceurs que je vous ai montré.
+5:16
+Et c'est en voyant ça que j'estime que
+5:19
+tous les comptes sont potentiellement à
+5:21
+risque. MTA a certainement augmenté vos
+5:23
+dépenses sur cet emplacement sans que
+5:24
+vous vous rendiez compte de ça
+5:26
+nécessairement. Ça paraît débile
+5:27
+maintenant que je vous l'ai présenté.
+5:28
+Tout le monde aurait pu s'en rendre
+5:29
+compte seulement bah 5 à 10 % de votre
+5:32
+budget, ça pèse pas bien lourd sur la
+5:33
+moyenne de nos conversions même si c'est
+5:35
+plus cher. Par contre, lorsqu'on
+5:36
+commence à additionner les mois, bah là
+5:38
+c'est plus du tout la même chose.
+5:39
+Comment Meta a-t-il opéré ici ? C'est
+5:41
+assez simple, grâce au shopping
+5:43
+Advantage Plus devenu Advantage Plus qui
+5:45
+sont devenus la norme au cours de
+5:46
+l'année 2025. Évidemment, vous avez
+5:48
+remarqué, dès lors que vous lancez une
+5:49
+campagne, tout est pensé pour que vous
+5:51
+ne touchiez à rien. Vous voulez votre
+5:53
+score d'opportunité à 100 % et ne pas
+5:55
+risquer de payer trop cher parce que
+5:57
+c'est MTA qui vous le dit tout de suite
+5:59
+si vous changez le moindre paramétrage.
+6:01
+Que vous compreniez chez J7, on
+6:02
+contraint énormément méta avec du
+6:04
+tracking custom, plein de campagnes
+6:06
+différentes, un process de testing qui
+6:08
+est très particulier. Donc je n'ose même
+6:10
+pas imaginer des annonceurs qui veulent
+6:11
+absolument suivre toutes les consignes
+6:13
+de la plateforme. Et maintenant la vraie
+Pourquoi ?
+6:14
+question à se poser, c'est pourquoi Meta
+6:16
+a poussé 3 4 5 jusqu'à 10 % du budget de
+6:20
+certains annonceurs sur un emplacement
+6:21
+qui est pas terrible et un emplacement
+6:23
+qui rapporté à des coûts de conversion
+6:25
+coûte beaucoup plus cher que ce qu'on
+6:27
+attend. Ici, j'ai une interprétation.
+6:29
+MTA sur deux marchés géographiques en
+6:31
+l'occurrence je pense à l'Amérique du
+6:33
+Nord et l'Europe à un problème d'offre
+6:35
+publicitaire. Il ne peut pas encaisser
+6:37
+la demande grandissante des annonceurs
+6:38
+sur sa plateforme. J'en ai fait une
+6:40
+vidéo l'année dernière. Cette
+6:41
+plateforme, elle est vouée a coûté de
+6:43
+plus en plus cher pour plein de raisons,
+6:44
+notamment celle des impressions sur
+6:46
+Facebook ou Instagram. C'est intéressant
+6:48
+parce que son dernier bilan de 2026 est
+6:50
+tombé et on observe encore que les has
+6:52
+coûtent de plus en plus cher sur ces
+6:53
+deux marchés. Ouais, parce queah, ils
+6:55
+sont beaucoup plus saturés que notamment
+6:56
+l'Asie Pacifique comme on peut le voir
+6:58
+ou Q4, on était à - 21 % par rapport au
+7:00
+prix des HS de l'année passée. Et là,
+7:02
+comme par hasard, le volume d'impression
+7:04
+a très nettement augmenté sur l'Amérique
+7:06
+du Nord et l'Europe à partir de Q4 2025.
+7:09
+Alors qu'on était habitué à des 5 %
+7:11
+d'augmentation sur ces deux marchés
+7:12
+parce qu'ils étaient quand même très
+7:14
+saturés. MTA trouve de quoi passer à 13
+7:16
+voire même plus de 17 % en Europe par
+7:18
+rapport à l'année précédente. Allez,
+7:20
+soyons pas mauvaise langue. L'arrivée
+7:21
+des publicités sur trade y est
+7:23
+certainement pour quelque chose mais on
+7:25
+a'ura jamais vraiment le détail des
+7:26
+impressions de ces publicités. Donc nous
+7:28
+côté agence on encercle surtout qu'il y
+7:30
+a une petite obligation de dépenser sur
+7:32
+l'audience network depuis le début de
+7:34
+l'année et pas pour les bonnes raisons.
+7:35
+Mon conseil ici, il est ultra simple.
+7:37
+Regardez objectivement vos résultats par
+7:39
+emplacement et si ça fait du sens de
+7:41
+continuer à dépenser sur le Audience
+7:43
+Network, pas de problème, continuez.
+7:44
+Autrement, bah c'est le moment de
+7:46
+l'exclure de votre parc publicitaire.
+7:47
+D'ailleurs, j'en profite, si vous êtes
+7:49
+un annonceur, on peut s'occuper de
+7:50
+diagnostiquer l'intégralité de votre
+7:52
+compte. Je vous laisse un lien pour
+7:53
+faire votre demande dans les notes de
+7:55
+l'émission. Et pour les agences et les
+7:56
+freelance qui me regardent, sachez qu'on
+7:57
+a annoncé cette découverte il y a plus
+7:59
+d'une semaine sur le dernier workshop de
+8:00
+la J7 Academy qui est notre écosystème
+8:03
+100 %az pour tout méiaburer qui veut
+8:05
+devenir meilleur et le rester face au
+8:07
+changement de la plateforme. La J7
+8:08
+Academy, c'est nos meilleurs processus
+8:10
+en vidéo, un canal Slack qui répond à
+8:12
+toutes vos questions toute la semaine et
+8:13
+deux workshop par mois qui attendent
+8:15
+tous les membres qui s'inscrivent. Je
+8:16
+vous laisse ça aussi dans les notes de
+8:18
+l'émission. Cette fois, promis, mon
+8:19
+prochain épisode tournera sur l'étude
+8:20
+d'un annonceur qui dépense plus de 7
+8:22
+millions de dollars en ads par mois.
+8:24
+Rendez-vous mercredi prochain pour le
+8:26
+voir. Rejoignez notre newsletter pour
+8:27
+être au courant des dernières nouveautés
+8:29
+et des nouveaux épisodes. Et quant à
+8:30
+moi, je vous souhaite bon méia buying
+8:32
+avec ou sans le Audience Network. À très
+8:34
+vite tout le monde.
+
+Tout
+
+Source : Social Scaling
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+9:35
+Le secret derrière 7M$/mois sur Facebook Ads
+Social Scaling
+473 vues
+•
+il y a 1 mois
+
+
+2:42:13
+Nous créons des hommes dangereux, solitaires et brisés ! – Expert en manipulation, Robert Greene
+The Diary Of A CEO
+1,6 M de vues
+•
+il y a 1 an
+Doublée
+
+
+11:01
+Meta vous ment... et ça vous empêche de scaler sur Facebook Ads
+Social Scaling
+1,7 k vues
+•
+il y a 4 mois
+Doublée automatiquement
+
+
+8:48
+Après une séparation : la ROADMAP pour reconstruire ton patrimoine
+Rupture & dividendes
+6 vues
+•
+il y a 3 jours
+Nouveau
+
+
+7:45
+Facebook Ads va devenir addictif en 2026
+Social Scaling
+2,1 k vues
+•
+il y a 4 mois
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+627 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+786 k vues
+•
+il y a 2 mois
+
+
+10:07
+J'ai testé Meta iA sur Facebook Ads : mon verdict (prompts + réponses)
+Social Scaling
+1,1 k vues
+•
+il y a 2 mois
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+91 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+7:30
+Votre étude de cas Meta Ads est servie
+Social Scaling
+211 vues
+•
+il y a 2 semaines
+
+
+16:35
+Les secrets du physique légendaire de Van Damme (1000 coups de pied / jour)
+Nassim Sahili
+52 k vues
+•
+il y a 2 mois
+
+
+44:01
+S'entraîner comme un IFFB PRO avec @Samuel Hartman
+Stephane Matala
+93 k vues
+•
+il y a 5 mois
+
+
+10:06
+Les 4 erreurs Facebook Ads à ne plus reproduire en 2026
+Social Scaling
+1 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+22:35
+Les pires VS les meilleures pizzas de Montréal
+Gurky
+882 k vues
+•
+il y a 9 mois
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 6 jours
+Nouveau
+
+16:45
+La structure Facebook Ads de 20 à +100 000$ de budget/mois (e-commerce)
+Social Scaling
+828 vues
+•
+il y a 2 mois
+
+16:33
+Je teste les meilleures poutines de Montréal
+Gurky
+761 k vues
+•
+il y a 10 mois
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+    
