@@ -1,0 +1,584 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Pourquoi vous devez maîtriser l'Ontologie avant 2026
+Jonas Roman | IA en Prod
+Jonas Roman | IA en Prod
+4,52 k abonnés
+
+S’abonner
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+21 juil. 2026  #AIops #The93Club #JonasRoman
+📱 Community Skool → https://www.skool.com/ia-en-prod-8601...
+📊 ROI Calculator → https://aria-insights.com
+🚀 Agency → https://lagentia.fr
+🎓 Workshop RAG → https://ai-ops-elite-rag-workshop.bas...
+🚀 Zparse : zparse.io
+
+
+Alex Karp te vend l'ontologie comme LE nouveau moat de ton entreprise. Il a raison sur une partie — mais c'est aussi l'argumentaire commercial de la solution la plus chère et la plus fermée du marché. Après 20+ RAG en production, je te montre ce qu'est vraiment une ontologie, quand elle vaut le coup, et comment en construire une sans SDK propriétaire.
+
+📌 Ce que tu vas apprendre :
+Comprendre ce qu'est réellement une ontologie et pourquoi tu en as probablement déjà une (schéma SQL)
+Distinguer ce qui est vrai du pitch Karp/Palantir de ce qui relève du commercial pur
+Identifier les 2 cas où l'ontologie est justifiée vs de l'over-engineering coûteux
+La méthode concrète pour construire ton propre 'world model' avec Postgres/Neo4j, sans lock-in
+
+⏱️ Chapitres :
+00:00 Introduction — le pitch Karp et le piège marketing
+03:00 L'ontologie, c'est quoi vraiment (tu en as déjà une)
+06:01 Le pitch Karp : ce qui est vrai, ce qui est du commerce
+09:03 Quand l'ontologie est justifiée vs over-engineering
+12:03 Construire ton world model sans Palantir : la stack
+15:05 Gouvernance, coûts réels et conclusion
+
+
+#AIops #The93Club #JonasRoman #Ontologie #RAG #Palantir #KnowledgeGraph #IAEntreprise
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Jonas Roman | IA en Prod
+4,52 k abonnés
+Vidéos
+À propos
+
+Linkedin
+true
+15:32
+Le futur du RAG n'est pas le GraphRAG ou les Seconds Cerveaux
+de Jonas Roman | IA en Prod
+3 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@johnnydaubes3156
+il y a 11 heures
+Croire que l'on peut empêcher les opérateurs de reconstituer les workflows en segmentant la distribution des données et demandes de traitement via un routeur de modèles est hyper optimiste. L'IA est bien plus performante que nos cerveaux pour extrapoler un contexte dont elle ne dispose que partiellement et ses capacités de compute énormes lui permettent de le faire très bien. Là où un humain a besoin d'au moins 50% du schéma et des attendus, une IA performante le fait avec 5 à 15% de ces éléments.
+
+Confier des données sensibles sur ce pari de non reconstituabilité statistique à une IA qui demain peut devenir notre concurrent ou en alimenter un, repose sur une probabilité de protection qui est dangeureusement surévaluée de la part de celui qui prend ce pari. C'est de la surconfiance dans les barrières "techniques" face à des systèmes qui excellent précisément à les contourner.
+
+Reconstruire un contexte à partir de fragments épars, c'est le super pouvoir des IA, elles sont redoutables dans l’inférence bayésienne à grande échelle : même avec 5-15 % des éléments pertinents, elles sont capables de reconstituer des worlflows et des datasets fiables pour répliquer par hypothèses, elles aussi fiables, le fonctionnement d'une entreprise que l'on voudrait garder "secret".
+
+L'IA n'est pas "humaine" ! C’est l’équivalent de croire qu’en découpant un puzzle en plusieurs boîtes, personne ne pourra jamais le reconstituer alors que le "reconstructeur" a une mémoire parfaite, des milliards de puzzles similaires déjà vus, et une capacité de parallélisation monstrueuse.
+
+La règle est simple : ne jamais envoyer ce qu’on ne veut absolument pas voir fuiter.
+
+1
+
+
+Répondre
+
+Jonas Roman | IA en Prod
+·
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction — le pitch Karp et le piège marketing
+0:000 secondeEn ce moment, tout le monde te vend l'ontologie comme le nouvel avantage compétitif durable de ton entreprise.
+0:055 secondesAlex Carpe, le patron de Palentir, en a fait son pitch mondial. Les modalia sont une commodité et la vraie valeur, c'est ta data structurée en montologie. Sauf
+0:1414 secondesque ce qu'on ne dit pas, c'est que ce discours, c'est aussi un argumentaire commercial pour te vendre la solution la plus chère et la plus fermée du marché.
+0:2121 secondesLes systèmes de connaissance est mon quotidien. [musique] Après plus de 20 rags en production, une cinquantaine analysée en coaching et plus de 3 ans à tester toutes ces approches, je vais te
+0:3030 secondesmontrer ce qu'est vraiment une anthologie, dans quel cas précis ça vaut vraiment le coup et comment on en construit une équivalente sans cette solution [musique] propriétaire pour une
+0:3737 secondesfraction du prix. Alors bien évidemment, quand quelqu'un comme le patron de Palentir est dans son concept, ça lance toute une hype. Ça fait plusieurs jours
+0:4444 secondesqu'on entend beaucoup parler des sujets de data. Sujs qui sont évidents et qui sont notre quotidien depuis plusieurs années maintenant quand on va faire de l'IA en entreprise sérieusement. C'est
+0:5353 secondesbien évidemment un sujet sur lequel on va se confronter assez rapidement. Cette vidéo va faire partie d'une série de vidéos autour de ces fondamentaux data
+1:011 minute et 1 secondequi sont aujourd'hui incontournables si on veut faire de l'IA en entreprise, surtout de manière performante et de manière sérieuse. Et c'est vrai que sur la dynamique du marché, ce qu'on a vu
+1:081 minute et 8 secondesjusqu'à maintenant, c'est les gros embouteillages autour des outils IA qui changent chaque semaine avec énormément de de marketeux, d'influenceurs et
+1:161 minute et 16 secondescetera qui poussent en fait tout le monde sur cette voie qui est saturée et qui ne résout pas réellement les problèmes de manière long terme. On a
+1:231 minute et 23 secondesune autre partie qui prend conscience en fait de l'importance de revoir les process ou quand on va intégrer de l'IA dedans.
+1:321 minute et 32 secondesEt là où il y a presque personne et c'est pourtant là où il y a le plus de valeurs, c'est autour des fondamentaux data. Donc ce sont les sujets qu'on va
+1:401 minute et 40 secondescouvrir sur les prochaines vidéos. Et ce que je vous propose c'est de commencer avec quelques chiffres suite à une étude Gartner où il communique que 60 % des
+1:481 minute et 48 secondesprojets IA vont échouer à cause de problèmes de data en 2026. et sur les projets qui sont lancés en mode POC seulement. Alors les chiffres, voilà, je
+1:561 minute et 56 secondessuis pas trop d'accord avec cela. On va dire que on a simplement qu'entre 10 et 15 % des projets qui partent en production. Donc on a déjà 85 % de perte
+2:052 minutes et 5 secondesici. Et ce qu'on sait, c'est que sur ces 15 % qui vont en production, simplement 28 % vont trouver un retour sur investissement. Ce qui veut dire que 72
+2:142 minutes et 14 secondes% des projets qui sont partis en production vont aussi finir en échec et finir à paraître débranché ou finir à la poubelle. Donc la question c'est que
+2:222 minutes et 22 secondesfont les 28 % de projets et d'entreprises qui arrivent à leur et ce qu'on retrouve d'après l'étude de Garner c'est que le point commun de ces 28 %
+2:302 minutes et 30 secondesc'est des projets qui ont travaillé la data. Et donc aujourd'hui, on va ouvrir le bal avec ce fameux concept d'ontologie. L'ontologie c'est ce qu'on
+2:392 minutes et 39 secondesfait pour quasiment tous nos projets rag ou systèmes de connaissance pour nos clients. C'est aussi un des sujets qui est le plus dur à transmettre en
+2:462 minutes et 46 secondescoaching, qui demande en fait le le plus de connaissances et de technicité. C'est une des étapes du process qui permet de dérouler toute la valeur. En l'occurrence, il faut être patient.
+2:552 minutes et 55 secondesFaites attention aux promesses qui risquent d'émerger dans les prochaines semaines pour vous apprendre comment implémenter ou mettre en place ou ou peu importe ce qui pourrait être autour de
+Chapitre 2 : L'ontologie, c'est quoi vraiment (tu en as déjà une)
+3:033 minutes et 3 secondesl'ontologie. C'est pas trivial du tout et c'est quelque chose qui demande voilà qui demande un petit peu de temps à maîtriser si on veut faire les choses bien. Donc il y a quelques semaines,
+3:103 minutes et 10 secondesj'avais fait une vidéo pour présenter une des architectures rag qu'on utilise le plus souvent. Donc on appelle le composite retrieval. Je vous mets la vidéo en carte si ça vous intéresse.
+3:193 minutes et 19 secondes[grognement] Et ce qu'on avait vu déjà à l'époque, c'est que qu'on appelle ça un LM wiki, un rag company brain, second cerveau entreprise système de
+3:283 minutes et 28 secondesconnaissance blab bla bla, c'est en finalité la même chose. Ce qu'on veut c'est comment on donne au LM le bon contexte, notre contexte au bon moment,
+3:353 minutes et 35 secondesau bon format pour que notre agent puisse réaliser la bonne tâche ou pour que nous on puisse obtenir la bonne réponse. On aborde pas mal de sujets et notamment en fait sur les raccourcis et
+3:443 minutes et 44 secondesla prudence qu'il faut avoir autour de ce qu'on appelle les seconds cerveaux.
+3:473 minutes et 47 secondesDonc je vous encourage à aller regarder la vidéo. On va commencer par les concepts clés de cette vidéo, c'est que beaucoup de rags jusqu'à maintenant, donc beaucoup de systèmes de connaissance se sont concentrés
+3:553 minutes et 55 secondesprincipalement sur comment je récupère la data, comment je la je la coupe et comment je la vectorise pour que l'IA puisse le récupérer. Donc la data brute
+4:034 minutes et 3 secondessans travail, sans rien. Vous verrez dans les autres vidéos que c'est pas si simple, qu'il y a quand même un vrai travail à réaliser sur la data. si on veut avoir des systèmes qui soient vraiment performants et vraiment précis.
+4:114 minutes et 11 secondesMais pour qu'un agent puisse réaliser des tâches, pour qu'on puisse l'autocontrôler ou pour qu'on puisse avoir des niveaux de fiabilité suffisant pour travailler en entreprise, il va
+4:194 minutes et 19 secondesnous falloir aussi également pouvoir transmettre quelles sont les règles de l'entreprise, quelles sont les règles, le métier, les process, mais également quelle est l'historique qui permet en
+4:274 minutes et 27 secondesfait de contextualiser et de savoir comment traiter cette donnée et tout ça.
+4:314 minutes et 31 secondesDonc système de connaissance, rag et cetera. Quand on y applique les bons éléments, on va vers un contexte entreprise centralisé, ce qui est un peu
+4:384 minutes et 38 secondesl'objectif final ou le boss de fin. Si vous êtes dans votre boîte et que vous avez tout le contexte avec les bons niveaux de permission, avec les bonnes
+4:464 minutes et 46 secondesversions de la data et avec la bonne façon de le lire, dans ces casl on va pouvoir générer beaucoup plus de valeur avec l'IA et nos modèles. Et donc c'est
+4:534 minutes et 53 secondesen ça que le patron de Palentir dit que c'est le nouvel avantage compétitif durable des entreprises. Et en soit, il a raison puisque c'est ça que
+5:015 minutes et 1 secondel'entreprise possède vraiment. Et ici qu'on vous parle du dernier harness cloud code ou du dernier modèle Open AI, dernier modèle entropique ou modèle
+5:095 minutes et 9 secondeschinois et cetera, vous pourrez tout interchanger. Vous pourrez venir mettre le modèle que vous voulez, vous pourrez venir mettre le harness que vous voulez puisque vous ce qui a réellement de la
+5:175 minutes et 17 secondesvaleur sera bien accessible. L'autre partie prix, c'est de se dire ben si vous ou votre entreprise concurrente utilise les mêmes modèles ou utilise le
+5:255 minutes et 25 secondesdernier Arnest Cloud ou je ne sais quoi, vous n'aurez pas d'avantage compétitif puisque vous allez infiner produire la même chose. Le seul élément qui vous permet de produire un différenciateur et
+5:345 minutes et 34 secondesde créer réellement la valeur, c'est toute la connaissance de votre entreprise, comment vous l'opérez et donc tout le savoir et l'expérience accumulée que les Modalia n'ont pas. On va parler un petit peu de la hype de
+5:425 minutes et 42 secondesl'ontologie. Une anthologie, c'est quoi ? un principe de verbe et de nom qui va nous permettre d'avoir une représentation, une carte du fonctionnement de notre entreprise et de
+5:505 minutes et 50 secondessa donnée. Par exemple, on va avoir l'entité client qui serait liée à l'entité contrat par la relation assignée. Si client avec la relation passe, ben là, on arrive sur l'entité
+5:595 minutes et 59 secondescommande et une commande, elle peut contenir des pièces et ces pièces peuvent être produites par la machine X et le contrat peut également encadrer
+Chapitre 3 : Le pitch Karp : ce qui est vrai, ce qui est du commerce
+6:066 minutes et 6 secondescette machine. Voilà le principe, c'est toute entreprise en a une qu'elle soit explicite ou qu'elle soit représentée, structurée de cette manière-là ou qu'elle soit dans la tête des gens. Dans
+6:156 minutes et 15 secondestous les cas, le fonctionnement d'une entreprise a une anthologie. Par contre, le même mot peut avoir deux représentations complètement différentes. On peut être sur un LLM
+6:226 minutes et 22 secondeswiki avec des fichiers Markdown qui sont indexés pour faire du retrieval mais qu'on sait qui va être très limité en terme de performance parce qu'ici les
+6:316 minutes et 31 secondesentités sont générées par l'IA, ça devient très très vite bordélique. Plus plus le temps passe, plus on a de bruit, plus on a de knowledge, plus on fait
+6:386 minutes et 38 secondespasser de contexte au LM et donc plus on a des solutions qui coûtent cher. Ça ça va être la problématique avec à peu près toutes les solutions de second vous vend
+6:466 minutes et 46 secondessur YouTube ou sur LinkedIn versus une anthologie beaucoup plus formelle avec les schémas, les contraintes métiers, les types, les couches de raisonnement.
+6:536 minutes et 53 secondesC'est beaucoup plus long à construire.
+6:556 minutes et 55 secondesBien évidemment, c'est beaucoup plus flexible. Quand c'est bien fait, on aura besoin de le maintenir mais ça reste complètement gérable. Par contre, le marketing va utiliser exactement le même
+7:037 minutes et 3 secondesmot, que ce soit pour une anthologie bien posée et bien réalisée, que ce soit pour un LM wiki ou le second cerveau. Ce qu'il faut savoir, c'est que si on donne
+7:117 minutes et 11 secondesde la donnée fragmentée et complètement éclatée sans relation, on va générer de l'hallucination. Pourquoi ? Parce que le LLM, si on lui donne pas la représentation de ce fonctionnement là
+7:207 minutes et 20 secondespar des relations entre les éléments, ben il va avoir les éléments à dispo et puis il va combler les trous comme il peut et il va vous donner une réponse avec appel qui semble juste parce
+7:287 minutes et 28 secondesqu'elle est ancrée dans votre data mais qui sera fausse que la façon de lire cette data ne sera pas bonne. Et c'est là où on arrive au pitch d'Alex Carp qui sépare le vrai et du commerce. Les
+7:377 minutes et 37 secondesmodèles IA sont une commodité. Oui, tout le monde peut les utiliser. Aujourd'hui, un bon prompt ou une série de bons promptes sera pas suffisant pour créer beaucoup plus de valeur qu'en
+7:457 minutes et 45 secondesconcurrent. Donc bien évidemment que la valeur réside dans l'asset que possède l'entreprise. C'est ça data. Mais attention, le discours saute toute une couche que nous on fait habituellement.
+7:547 minutes et 54 secondesEt ce qui me permet de de vous faire ce retour aujourd'hui, c'est qu'on a la donnée propriétaire, donc l'avantage concurrentiel durable que personne ne
+8:018 minutes et 1 secondepeut répliquer que l'IA n'a pas et qui est dans l'entreprise. Et on parle du LLM commodité qui change tous les 6 mois et que n'importe qui peut brancher
+8:098 minutes et 9 secondeségalement. Dire que la valeur c'est la donnée sans le système qui a autour, c'est un peu comme dire que dans un restaurant ce qu'il y a de la valeur c'est les ingrédients qu'il y a dans le
+8:178 minutes et 17 secondesfrigo. Ça occulte complètement tout le travail du chef au milieu. La couche dont on parle pas c'est comment on gère cette donnée, comment on va la nettoyer, comment on va l'enrichir de nos règles
+8:258 minutes et 25 secondesmétier, comment on va appliquer les règles à l'intérieur, comment on va résoudre les conflits de source, l'évaluation et cetera et cetera. Et c'est là où se joue la réponse qui sera
+8:338 minutes et 33 secondesvraiment juste versus une hallucination silencieuse dangereuse, c'est-à-dire une réponse avec appel sourcé sur votre donnée mais qui est fausse puisque il y avait plusieurs façons de lire cette
+8:418 minutes et 41 secondesmême donnée. Pour creuser un peu plus ce sujet et parler de la problématique que lève très justement le patron de Palentir, c'est que aujourd'hui dans une
+8:498 minutes et 49 secondesentreprise, on va avoir plutôt un fonctionnement de ce type, c'est-à-dire qu'on a de la data qui est fragmentée un peu partout. On a une partie qui est dans un CRM, on a une partie qui est
+8:578 minutes et 57 secondesdans un ERP, les différents outils métiers mais aussi différents services, le marketing, le SAV et cetera et cetera. Aujourd'hui, un projet IA, on va
+Chapitre 4 : Quand l'ontologie est justifiée vs over-engineering
+9:059 minutes et 5 secondesdirectement le rattacher à son service et à ses outils et on va venir brancher ou pousser des PDF ou peu importe quoi.
+9:119 minutes et 11 secondesOn va prendre la donnée un peu brute comme elle est et puis on va trouver un manière de l'alimenter à Lia sans beaucoup plus de travail et
+9:189 minutes et 18 secondesmalheureusement même sur des grosses solutions du marché. Et si ça marche pas, dira que c'est le modèle qui marche pas. En attendant, à force de cumuler que ce soit des projets IA ou des
+9:269 minutes et 26 secondesmodèles qui sont directement utilisés dans l'entreprise, le parti prix du patron de palentir, c'est de dire "Mais avec toutes ces requêtes que les utilisateurs font à travers les
+9:349 minutes et 34 secondesdifférents modelias, les différents projets, peu importe que ça passe par des harness ou autres, petit à petit en fait on est en train de transférer toute notre donnée, toutes nos procédures,
+9:429 minutes et 42 secondestoutes les questions qu'on se pose, toute la façon dont on résout les problèmes, nos documents de procédure et petit à petit infiner, tous les modèles
+9:499 minutes et 49 secondesauront collecté toute la data qui compte de votre entreprise ou des entreprises.
+9:539 minutes et 53 secondeset du coup seront capables de reproduire le fonctionnement de l'entreprise basée sur cette data. Ça c'est le message du patron de palentir. Et en soit, il a raison. Nous, c'est quelque chose auquel
+10:0110 minutes et 1 secondeje vous montrerai après, on fait très attention pour faire en sorte que aucun provider IA ne puisse reconstituer complètement l'histoire de manière à pouvoir protéger les savoir-fa de
+10:0910 minutes et 9 secondesl'entreprise. Le modèle que propose Palentir, c'est de dire ben on va prendre toute votre donnée, on va la faire rentrer dans une anthologie donc qui correspond au fonctionnement de
+10:1710 minutes et 17 secondesvotre entreprise. Et au sein de Palentir, alors je suppose que Chap Vision fait un peu la même chose, mais au sein de la solution palentir dansquelle ils peuvent faire tourner eux
+10:2410 minutes et 24 secondesleur propre modèle et cetera, ici vous aurez de la data prête pour venir en fait directement l'utiliser avec Lia.
+10:3110 minutes et 31 secondesMais sauf que à la différence vu que ça tournera chez Palentir, vous donnerez pas toute votre données au gros modèles qui demain pourront l'exploiter entre
+10:3810 minutes et 38 secondesguillemets contre vous ou qui pourront être accessibles à d'autres entreprises concurrentes comme du savoir général dans ces fameux modèles. Sauf que la problématique c'est que dans ce cas de
+10:4610 minutes et 46 secondesfigure là tout tourne chez eux. C'est un modèle fermé qui coûte très cher et c'est aussi comme ça que Palentir est devenu Palentir notamment grâce à toute
+10:5410 minutes et 54 secondescette data. Le constat est bon mais la solution est un argumentaire commercial qui vous pousse en fait à venir vous enfermer dans la solution palenti entière. Ce qui me permet également de
+11:0211 minutes et 2 secondesrapprocher d'autres concepts. Alors, ce dont parle pas l'entier, c'est quelque chose qu'on fait depuis un moment nous chez l'agencia, notamment grâce à l'outil Zs. Et ce dont il parle, c'est
+11:1111 minutes et 11 secondescomment on rend cette data accessible à Lia. Et en fait, on va retrouver nos deux phases que j'aborde dans beaucoup de vidéos. la phase in right time, donc
+11:1811 minutes et 18 secondesau moment de l'ingestion et notre phase ici in query time, au moment où l'utilisateur va poser une requête ou un agent va poser une requête, c'est-à-dire
+11:2611 minutes et 26 secondesau moment de l'utilisation pour réaliser une tâche ou pour obtenir une réponse.
+11:3011 minutes et 30 secondesNous ce qu'on fait ici également, c'est qu'on vient poser sur un cas d'usage, un service ou à l'échelle de l'entreprise une anthologie qui correspond à un
+11:3811 minutes et 38 secondesdatamodèle. Donc un on vient modéliser cette donnée et intégrer les règles métiers à l'intérieur. Et grâce à l'outil ZAR ici en fait on vient
+11:4611 minutes et 46 secondescollecter et on vient transformer et enrichir rajouter toute l'intelligence métier de cette donnée sur l'ontologie et le data model qu'on aura posé vers les bases de données de nos clients.
+11:5611 minutes et 56 secondesNous ce qu'on cherche à faire et je ne peux que vous recommander de faire la même chose dans vos projets, c'est de rester le plus agnostique possible en terme de technologie et de modèle. C'est
+Chapitre 5 : Construire ton world model sans Palantir : la stack
+12:0412 minutes et 4 secondesoù vous allez stocker votre et quel modèle l'aura en inférence. Donc nous ici, on fait tout travail d'ingestion et d'intelligence data pour venir pousser
+12:1212 minutes et 12 secondesla donnée enrichie, propre et prête à être exploité par l'IA dans les bases de données choisies de nos clients. Une fois qu'on a ça, la donnée devient
+12:2012 minutes et 20 secondesaccessible au moment de la requête. Peu importe quel est le modèle d'IA, quel est le harness qu'on a mis par-dessus ou tout ce qui sera autour de l'agent ou de
+12:2812 minutes et 28 secondesl'assistant IA qui va réaliser des tâches métiers, on va dire ou en tout cas qui va venir exploiter ce système de connaissance. L'autre chose également,
+12:3612 minutes et 36 secondesc'est que on parlait de cette couche de contexte entreprise centralisée. Ça aussi c'est une bonne pratique que je vous encourage à faire et que nous on fait dans nos projets, c'est qu'à chaque
+12:4412 minutes et 44 secondesfois qu'on vient travailler un cas d'usage ou qu'on vient poser une anthologie ou un data modèle, on le fait pas tout de suite à l'échelle de l'entreprise. Ça prendrait énormément de temps et ça coûterait très cher sans
+12:5312 minutes et 53 secondesavoir de résultats visibles. Et donc c'est pas très pragmatique comme approche. Tout le monde ne peut pas se payer les services d'un palentir ou d'un chap vision à cette échelle à cette
+13:0113 minutes et 1 secondeéchelle-là sans garantie de résultat puisque on peut avoir des technos qui deviennent un peu obsolète à travers le temps. Nous ce qu'on fait c'est qu'à travers les différents projets qui apportent de la valeur rapidement, on
+13:1013 minutes et 10 secondesvient petit à petit construire ce contexte entreprise centralisé service par service cas d'usage ou brique par brique. Ce qui fait que infin cette
+13:1713 minutes et 17 secondescouche là, elle est hébergée, elle appartient au client, il y a pas d'enfermement propriétaire et petit à petit à travers le temps, déployé de Lia
+13:2413 minutes et 24 secondescoûte de moins en moins cher puisque la partie qui est vraiment différenciante pour nous est déjà construite ou en partie déjà bien construite. Et ici en
+13:3213 minutes et 32 secondesfait, c'est là où on a besoin de pouvoir être flexible. On peut très bien avoir besoin de de GPT, je ne sais quoi ou de cloud à un moment donné parce que on a
+13:4113 minutes et 41 secondesde la donnée qui est pas particulièrement sensible ou autre.
+13:4313 minutes et 43 secondesPeut-être qu'on a une partie qu'on préfère avoir sur un cloud privé parce que c'est de la donnée plus sensible ou faire de l'inférence avec d'autres types de modèles. Dans tous les cas, ça donne la flexibilité dont on a besoin.
+13:5213 minutes et 52 secondesDeuxième élément que je peux vous donner sur les pratiques qu'on a nous, c'est que que ce soit dans des pipelines, des workflow d'ingestion ou que ce soit au
+14:0014 minutesmoment de la récupération, ce qu'on va faire c'est que nous on va varier dans les mêmes workflow les différents providers qu'on va utiliser, donc les différents fournisseurs de modèle IA, de
+14:0814 minutes et 8 secondesmanière à ce que chacun d'entre eux n'ait qu'un fragment en fait de la data et des opérations qu'on mène dessus et que aucun d'entre eux ne puisse en fait
+14:1614 minutes et 16 secondesconsolider le savoir-faire. On a aussi pas mal de clients qui préfèrent qu'on reste sur des stacks souveraines françaises ou alors sur des clouds
+14:2314 minutes et 23 secondesprivés avec d'autres types de modèles qu'on va faire tourner. Mais bon, grosso modo, ça ça coûte rien et c'est une bonne pratique si les performances de la solution le permettent. Alors, comment
+14:3114 minutes et 31 secondesbien challenger si demain on vous vend de l'ontologie ? Moi, il y a trois questions qui me viendraient à l'esprit à poser au commercial. C'est dans quel format est stocké la modélisation donc
+14:3914 minutes et 39 secondescette fameuse anthologie et est-ce que je peux l'exporter ? Donc si on a une anthologie qui est écrite dans leur langage ou chez eux, c'est un peu comme si vous posiez votre maison sur leur terrain. Combien coûte l'année 2 ? pas
+14:4714 minutes et 47 secondesl'année 1 parce qu'on voit en fait que c'est à partir du moment où on a quand même pas mal de données ou qu'on grossit ou qu'on passe à l'échelle que ça commence à coûter vraiment cher et enfin
+14:5414 minutes et 54 secondesqui chez moi l'anthologie quand mon business change. Et donc là si sur ces trois questions ça bote en touche, vous aurez déjà une partie de la réponse.
+15:0115 minutes et 1 secondeAlors comment on fait nous pour venir implémenter nos ontologies ? les premières parties projet, on va déjà commencer à poser des schémas directeurs
+Chapitre 6 : Gouvernance, coûts réels et conclusion
+15:0915 minutes et 9 secondesen fait sur le fonctionnement de l'entreprise, la relation entre les différents services, les relations avec
+15:1615 minutes et 16 secondesles clients et on fait un peu un mapping de du fonctionnement de l'entreprise.
+15:2015 minutes et 20 secondesUne fois qu'on a ça, on va venir rentrer à l'intérieur des process. On va également venir modéliser un petit peu toutes ces entités et ces différentes
+15:2815 minutes et 28 secondesrelations. Mais en tout cas, on veut arriver à l'essence du fonctionnement de l'entreprise, de ces processus, des différentes règles métier et un peu de comment sont géré les choses aujourd'hui
+15:3715 minutes et 37 secondesen terme d'historique, de données et cetera. Une fois qu'on a posé ça, là on va rentrer dans l'outil ZARS et c'est là où on va construire en fait nos systèmes
+15:4515 minutes et 45 secondesde connaissance. Donc notamment in right time, tout ce qui se passe au niveau de l'ingestion. Par exemple ici, dans la façon dont on va venir réaliser le
+15:5315 minutes et 53 secondesdécoupage mais surtout l'enrichissement, on va venir pousser en fait ce modèle de données qu'on aura défini, ces règles, métier et cetera qu'on va venir en fait
+16:0116 minutes et 1 secondeimbriquer au niveau même en fait des morceaux de données, des morceaux de texte qu'on va pouvoir après ensuite pousser dans des bases de données. Là en
+16:0816 minutes et 8 secondesl'occurrence ici c'est SQL plus PG vecteur. C'est ça qui va nous permettre également de venir après rajouter les permissions, comment on gère l'update
+16:1616 minutes et 16 secondesdes documents, le versioning et cetera et donc infiner avoir une base de données qui soit saine, qui soit clean et qui nous permettent en fait d'avoir
+16:2416 minutes et 24 secondesde lia robuste. Alors vous l'aurez compris, l'ontologie c'est ni une révolution ni un gadget. C'est un mot ancien que le marketing vient de
+16:3216 minutes et 32 secondesredécouvrir. Et Alex Carp a raison sur le fond. Ta donnée, c'est ton avantage concurrentiel durable. Mais la solution ce n'est pas d'acheter la plateforme la
+16:3916 minutes et 39 secondesplus chère du marché, c'est de poser ce schéma à la main et l'implémenter dans une stack que tu maîtrises. Et d'ailleurs, si tu veux en savoir plus sur les LLM wiki, sur le knowledge graph
+16:4716 minutes et 47 secondeset pourquoi ce que j'appelle le composite retrieval bien meilleure solution dans beaucoup de cas, je te mets la vidéo qui s'affiche maintenant exactement là-dessus. M.
+
+Tout
+
+Source : Jonas Roman | IA en Prod
+
+Informatique
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+
+25:17
+Un Québécois découvre Lidl pour la première fois
+Gurky
+1,5 M de vues
+•
+il y a 11 mois
+
+
+42:17
+24h comme au Japon... mais à Lille avec @thomasdeseur
+Tev - Ici Japon
+605 k vues
+•
+il y a 2 mois
+
+
+13:48
+Le monde entier a le même portefeuille
+Xavier Delmas
+63 k vues
+•
+il y a 3 semaines
+
+
+15:32
+Le futur du RAG n'est pas le GraphRAG ou les Seconds Cerveaux
+Jonas Roman | IA en Prod
+13 k vues
+•
+il y a 1 mois
+
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+785 k vues
+•
+il y a 2 mois
+
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+925 k vues
+•
+il y a 2 mois
+Doublée
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+175 k vues
+•
+il y a 2 semaines
+
+
+31:20
+90 % des compléments sont inutiles
+Bodytime
+11 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+392 k vues
+•
+il y a 5 mois
+
+
+1:06:38
+F. Asselineau, "Je suis le seul candidat à l'élection présidentielle en France" | ITW Politique
+TV Finance
+61 k vues
+•
+il y a 2 semaines
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+74 k vues
+•
+il y a 4 semaines
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+
+19:31
+On teste les restaurants pour TOURISTES à Asakusa (le 2ème resto le visuel est spécial...)
+Tev & Louis
+281 k vues
+•
+il y a 2 mois
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+720 k vues
+•
+il y a 2 jours
+Nouveau
+Doublée
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+54 k vues
+•
+il y a 3 semaines
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+752 k vues
+•
+il y a 2 mois
+
+15:01
+Pourquoi Unreal Engine 5.8 est une Révolution
+Tisma
+53 k vues
+•
+il y a 1 mois
+
+21:11
+LES 3 MEILLEURES TECHNIQUES POUR PRENDRE DU MUSCLE
+La Chaîne du Doc'
+21 k vues
+•
+il y a 3 ans
+
+7:30
+4 minutes (ou presque) pour comprendre LES TIQUES
+Terrapodia
+41 k vues
+•
+il y a 1 jour
+Nouveau
+
+    

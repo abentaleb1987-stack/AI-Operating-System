@@ -1,0 +1,935 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Hermes Agent : Guide complet 2026
+Mike Codeur
+Mike Codeur
+81,8 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+22 juil. 2026  BALI
+Code MIKECODEUR pour 10% de réduction sur Hermes VPS https://www.hostg.xyz/SHJRk
+
+Installation Root ?    • Hermes Agent : de Zéro à ton Assistant IA ...  
+
+Dans cette vidéo :
+00:00 – Pourquoi Hemres ?
+02:09 – Installer Hermes sur ton VPS (Hostinger)
+05:36 – Les 3 surfaces : TUI, dashboard, webui
+06:44 – Brancher les LLM (Codex, switch à chaud, coûts)
+13:13 – Les commandes qui n'existent pas ailleurs (/steer, /rollback, /learn)
+16:27 – Les CLI : les mains de ton agent (jq, gh, yt-dlp, duckdb)
+24:30 – Use case 1 : le briefing du matin (cron en langage naturel)
+26:05 – Use case 2 : la veille gap-finding
+43:42 – Use case 3 : la chaîne de repurpose (en séquentiel)
+32:07 – Use case 4 : la mémoire cross-session
+51:03 – Le Kanban : le problème (le DAG)
+45:30 – Le board se construit tout seul
+01:00:00 – Outro
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+
+#hermes #agentia #ia #dev #agenticdev #vps
+Mike Codeur présente un guide pratique pour installer et configurer efficacement Hermes Agent sur un VPS. Cette démonstration couvre l'utilisation des interfaces Web UI, l'intégration de divers CLI pour automatiser les tâches quotidiennes, ainsi que la mise en place de flux de travail personnalisés pour la recherche, la sécurité et la gestion des e-mails.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+81,8 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+🚀 Essaye YouThumb gratuitement
+🚀 Essaye YouThumb gratuitement
+Rejoindre
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+@övum_5
+il y a 46 minutes
+Comment tu réussis à mettre en place un agent pentest? Je suis bloquée et rétrogradé à opus par sécurité quand j’essaie.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:000 secondeAlors ce que tu vois ici c'est Hermes agent installé sur un VPS, hein, je t'avais déjà montré ça. Hermes agent, le
+0:077 secondesgrand remplaçant d'Open Clow. On avait vu ça dans la dernière vidéo et je t'avais montré tous les grands outils
+0:1414 secondeseuh principaux, notamment le dashboard qui permet de gérer euh les chron, donc c'estàd les tâches planifiées, les skills, les plugins, les channels. On avait connecté notamment le Telegram et
+0:2323 secondescetera. J'étais rentré un petit peu plus dans la technique de tout ce qui est user, sudoer et cetera. Bref, une longue vidéo. Je t'avais aussi installé Open
+0:3131 secondesWeb UI et cetera et je t'avais dit qu'on allait installer aussi Hermes Web UI.
+0:3535 secondesBien, on va le faire notamment dans cette vidéo puisque ça va permettre de gérer beaucoup plus facilement, on va dire, tout ce qui est camb, les tâches
+0:4343 secondesen parallèle, les sous-agents qui vont se lancer, qui vont travailler, qui vont se resynchroniser et cetera. Bref, je t'avais montré tout ça dans la vidéo et
+0:5050 secondessurtout je t'avais montré comment les installer. Les trois manières, la manière gérer, docuriser et l'installation route. Et ce qu'on avait
+0:5757 secondesvu, on avait passé du temps he quand même sur l'installation route. Si jamais tu veux rentrer plus dans les détails techniques de l'installation, et bien tu
+1:061 minute et 6 secondespeux revenir sur cette vidéo. Cette vidéo ici est un petit peu différente puisque et bien ça sera un guide pratique de comment moi personnellement
+1:151 minute et 15 secondesj'utilise Hermes et comment aussi toi aussi tu peux l'utiliser. Ce qu'on va voir notamment et bien on va voir bien évidemment une installation. Alors je vais te montrer une installation
+1:231 minute et 23 secondesbeaucoup plus facile que l'installation route qui a duré plus d'une heure. Tu vas voir qu'ici en deux clics on va pouvoir installer ça rapidement. Je vais
+1:301 minute et 30 secondeste montrer les différences d'interface avec Hermes. Tu as notamment l'interface en ligne de commande ici qui est un petit peu austère, on va dire et les
+1:371 minute et 37 secondesinterface un petit peu plus friendly. Tu vas voir qu'on va pouvoir installer ça.
+1:401 minute et 40 secondesEuh les commandes de base he je reviendrai sur les commandes de base qui va te permettre de gérer ton AES facilement. Je vais pas tout détailler.
+1:471 minute et 47 secondesLes CLI les plus utiles avec Hermes, les use case he ceux que j'utilise les chron liés au code, à la recherche, à tout ce
+1:541 minute et 54 secondesqui est recherche et cetera, création de contenu. Je te montrerai un petit peu des use cas de Camban et reste jusqu'à la fin puisque je vais te présenter des
+2:022 minutes et 2 secondespetits bonus. Allez, c'est parti. Vidéo un petit peu longue. Prends un petit café et c'est parti pour ce guide sur Hermes. Alors, c'est parti pour la première étape qui est l'installation.
+2:132 minutes et 13 secondesAlors, je sais pas si tu as déjà installé un Air sur un VPS, mais en tout cas, si tu veux toi-même gérer la main avec l'utilisateur route et cetera, avec
+2:212 minutes et 21 secondesune installation route, et bien je t'invite à aller voir la dernière vidéo.
+2:252 minutes et 25 secondesMais le problème, c'est que c'est un peu long. Ça prend plus d'une heure si tu veux bien régler ça, sécuriser ça. Bon, maintenant, moi j'utilise souvent Hermes pour faire des tests, pour faire des vidéos et cetera et bien pour le coup,
+2:342 minutes et 34 secondesj'utilise une installation facile d'Hermes. Sur un VPS. Tu peux aller cliquer dans le premier lien dans la description. Tu vas arriver sur cette
+2:422 minutes et 42 secondespage he qui est une page d'inger qui permet en fait d'avoir une installation d'Herm agent déjà préinstallé, préconfiguré avec un docker et cetera.
+2:512 minutes et 51 secondesTu cliques ici et quand tu arrives bien évidemment, tu peux sélectionner un KVM2 hein, c'est un serveur assez puissant pour faire tourner ce type d'agent. Tu
+2:592 minutes et 59 secondescliques sur sélectionner, tu [grognement] vas arriver sur cette page et bah voilà, tu as déjà une bonne promo puisque par exemple, tu passes déjà de
+3:073 minutes et 7 secondes602 € à 212 € mais surtout c'est pas fini. Et bien, j'ai pu négocier avec eux une réduction supplémentaire. Tu mets
+3:153 minutes et 15 secondesMike Coder et normalement tu devrais avoir, oublie pas de mettre ce ce code puisque tu peux avoir encore 10 % supplémentaires ce qui fait moins de 200
+3:233 minutes et 23 secondes€ pour un pack de 24 mois. Donc ce qui est vraiment vraiment un bon plan. Donc une fois que tu arrives ici, bien tu fais continuer et ensuite je vais te
+3:313 minutes et 31 secondesmontrer comment installer tout ça. Alors une fois que tu arrives sur l'interface d'administration he de Hostinger, tu vas voir c'est relativement simple. Ici tu
+3:393 minutes et 39 secondessélectionnes ta localisation. Moi, je suis en Indonésie, donc j'ai une meilleure latenciie ici, mais toi tu peux mettre France par exemple. Et surtout ce que tu vas faire ici dans
+3:463 minutes et 46 secondesDocker application, tu vas rechercher directement une instance d'Hermes.
+3:513 minutes et 51 secondesAlors, tu sélectionnes Hermes agent ici et puis tu vas directement avoir une instance d'Hermes préconfigurée et
+3:593 minutes et 59 secondesensuite tu pouras pouvoir te connecter dessus directement avec le login et le mot de passe. Je te montre bien évidemment par l'interface si jamais tu passes par le Docker Manager, tu
+4:074 minutes et 7 secondessélectionnes donc le projet, tu vas dans catalogue et tu vas le retrouver aussi ici. Donc tu vas taper Hermes Hermes agent. Tu vas sélectionner l'agent et là
+4:164 minutes et 16 secondestu vas voir note bien le nom d'utilisateur Herm et surtout et bien on va pouvoir garder le mot de passe admin.
+4:234 minutes et 23 secondesDonc ça tu vas pouvoir le noter. Alors pardon, hop, je l'ai mal fait. Je vais pouvoir le noter. On va le sauvegarder et ensuite tu vas voir qu'on va déployer
+4:304 minutes et 30 secondesassez rapidement et bien une instance d'Hermes docuriser sur le VPS et tu vas voir qu'on va y accéder assez rapidement. Allez, je le laisse se déployer et je me connecte dessus.
+4:414 minutes et 41 secondesAlors, une fois que ton instance et bien a été euh déployée, euh n'ai pas peur si jamais tu as oublié de sélectionner le mot de passe et cetera, tu pourras
+4:494 minutes et 49 secondestoujours le le retrouver ici en cliquant sur le projet. Tu vas dans environnement en bas et tu vas récupérer le user, le password et cetera et du coup, tu vas
+4:574 minutes et 57 secondespouvoir donc te connecter. Donc on va retourner sur le projet. Tu as deux manières d'y accéder. Soit tu accèdes avec un terminal, ici je te montre qu'il
+5:045 minutes et 4 secondesy a un terminal dans le navigateur hein qui te permet de te connecter directement à la console hein. Si jamais tu es un petit peu plus geek et que tu as envie de te connecter, alors tu peux
+5:135 minutes et 13 secondeste connecter bien sûr en SSH comme d'habitude, mais si jamais tu veux passer par la console ici, tu peux.
+5:185 minutes et 18 secondesMaintenant, nous ce qu'on veut c'est plutôt utiliser euh l'agent Hermes directement. Donc tu vas cliquer ici et là tu vas arriver donc sur une interface
+5:255 minutes et 25 secondeseuh d'administration qui est l'interface d'administration d'Hermes. Donc attends, je vais grandir un petit peu. Et le mot de passe, c'est le mot de passe qu'on a vu dans les variables d'environnement.
+5:355 minutes et 35 secondesDonc là, tu vas pouvoir cliquer sur sign in et du coup et bien tu arrives ici, hop et ce que tu fais et bien tu vois
+5:415 minutes et 41 secondesqu'on a directement en fait notre agent dashboard qui est configuré. Je crois que de base, il te donne un petit peu de crédit euh pour avoir un modèle de base.
+5:525 minutes et 52 secondesOn va regarder ça. Donc, tu vas cliquer sur chat ici et tu vois que chat, c'est plus ou moins la version qu'on a en mode
+5:595 minutes et 59 secondesterminal, tui et cetera. Donc là, si tu regardes de base, tu vois que qui que tu as un modèle qui est pré euh sélectionné. Ça ça va dépendre en fait
+6:066 minutes et 6 secondesdu package que tu as avec Hostinger. Et parfois et bien attends, on va regarder un petit peu le modèle. Qu'est-ce qu'on a dans modèle ? Tu vois, dans la liste
+6:136 minutes et 13 secondesdes modèles, on a Nexos A ici et en fait c'est un agrégateur, on va dire de modèle, je crois. Donc là, si je sélectionne et bien je vais pouvoir
+6:216 minutes et 21 secondessélectionner le modèle. Bon, de base, tu as pas beaucoup de crédit. Maintenant, je pense qui est intéressant de connecter ton premier modèle. On va y
+6:296 minutes et 29 secondesconnecter euh Codex Chat GPT, on va y mettre le modèle 5.5 afin que tu puisses directement utiliser en fait ton abonnement avec Hermes. C'est un use
+6:386 minutes et 38 secondescase un petit peu indispensable lorsque tu installes en fait une nouvelle application, une nouvelle instance plutôt d'Hermes. Pour faire ça, tu peux le faire via ta connexion SSH, mais je
+6:466 minutes et 46 secondesl'avais déjà montré dans une autre vidéo avec la commande Hermes config, je crois. Mais là, ce qu'on va faire, on va passer par le dashboard directement, comme ça, on verra les deux manières.
+6:546 minutes et 54 secondesDonc ici tu as les modèles. Et bien ce qu'on va faire ici bah par on va changer ce modèle et on va utiliser donc Open AI Codex qui est un modèle des plusants.
+7:037 minutes et 3 secondesAlors il nous dit de taper cette commande. Donc c'est ce qu'on va faire.
+7:057 minutes et 5 secondesOn va taper cette commande puisque je peux pas switcher. Donc en fait on va devoir réexécuter tout ça. Donc on a soit la version interminale soit ce
+7:137 minutes et 13 secondesqu'on a ici. Donc on va faire Hermes- modèle. Hop. Je vais agrandir un peu pour que tu vois un peu mieux. Donc là on est sur Nexos Nexos. et nous on va
+7:227 minutes et 22 secondesutiliser comme dans l'ancienne vidéo le codex CLI. Ici on va passer par la pay, on va vraiment utiliser notre abonnement
+7:297 minutes et 29 secondeset on va se connecter avec ce code là qu'on va garder de côté. Donc je vais me connecter. On a déjà fait cette procédure dans l'autre vidéo. Voilà,
+7:387 minutes et 38 secondesdonc je me connecte. Voilà, donc du te connect. Donc ensuite tu fais bah on va faire continuer. Et voilà. Donc on va prendre le code que ici a été pris. On
+7:477 minutes et 47 secondesva donc prendre ce code là et on va le mettre ici pour associer en fait la session codex à notre Voilà. Donc là il
+7:557 minutes et 55 secondesvient de se mettre à jour là. Tu vois qu'on vient on voit qu'on a accès à la dernière sortie de GPT 5.6 sol. On va
+8:028 minutes et 2 secondesrester sur du 5.5 pour pas [ __ ] trop de token. Et donc normalement ici c'est bon. Du coup quand tu retournes ici dans
+8:108 minutes et 10 secondeston chat de Hermes et bien tu vas pouvoir faire modèle. On va pouvoir donc sélectionner notre forfait codex ici.
+8:188 minutes et 18 secondesVoilà. Donc on est là et on a donc notre Herm 5.5. Donc est-ce qu'il a switché ?
+8:238 minutes et 23 secondesVoilà, il vient de switcher. Hello, ça va ? On va vérifier qu'il nous répond bien. Normalement ça doit être bon.
+8:308 minutes et 30 secondesEnsuite, donc la première chose là, c'est d'installer Hermes Web UI qui n'est pas directement installé de base
+8:378 minutes et 37 secondesen fait avec l'installation. Alors, tu peux installer une image de docker où je vais te montrer directement, on va le prompter. tu vas voir qu'il va nous faire ça assez rapidement. Alors pour
+8:458 minutes et 45 secondesinstaller Hermes web UII, alors je te montre rapidement Hermes Web UI qui a un projet à part ici que je t'avais déjà montré dans la chacienne vidéo qui
+8:538 minutes et 53 secondespermet vraiment d'avoir une interface beaucoup plus avancée, beaucoup plus sympa et le détail de l'installation et sur cette page là et en gros ce qu'il
+9:029 minutes et 2 secondesfaut faire c'est plus donc là après avoir installé Hermes agent ça c'est déjà fait on va lui demander d'installer
+9:089 minutes et 8 secondesici installe le web UI et cetera ou en version manuelle donc je vais lui dire tiens on va lui dire ici "Peux-tu
+9:169 minutes et 16 secondesinstaller Hermes web UI ?" Tu as la documentation ici la documentation et on va lui donner le lien. Allez, on va lui donner le lien un petit peu pour
+9:249 minutes et 24 secondesl'aider. Ici, on va lui donner ça normalement comme ça il va pouvoir se débrouiller. Allez, c'est parti. On va le laisser faire. Et donc, il va être
+9:329 minutes et 32 secondescapable. Donc une fois qu'en fait tu as Hermes et que tu as installé, que tu as sélectionné un premier modèle, donc tant tant que tu as pas de modèle, tu peux pas faire grand-chose. Mais une fois que
+9:399 minutes et 39 secondestu as un modèle, tu as euh disons comme ici euh on a foutu, on a mis codex. À partir du moment où tu as du du crédit et cetera, après tout ce que tu
+9:469 minutes et 46 secondes[grognement] as besoin de faire sera relativement facile parce qu'il suffit de le demander, de le prompter. s'il arrive pas, il va trouver une solution pour te proposer ça. Donc l'idée ici,
+9:559 minutes et 55 secondesc'est d'avoir Hermes web UI puisque cette interface est pas mal mais tu vois qu'elle est un petit peu limitée. Donc là normalement il nous dit que c'est
+10:0310 minutes et 3 secondesbon, c'est installé, c'est lancé. Alors faut faire attention, statut OK et cetera. Le problème c'est qu'il te l'installe en interne et donc et bien on va pas l'avoir ici. On va pas l'avoir.
+10:1310 minutes et 13 secondesDonc on va lui dire "Peux-tu l'exposer sur ce VPS afin que j'y puisse avoir accès depuis l'extérieur ? car là c'est une interne. Donc là il a l'air de me
+10:2210 minutes et 22 secondesdire que c'est bon. Bon, il a toujours pas compris. Donc je lui dis "Je sais mais je lui accède depuis j'y accède depuis l'extérieur. Il voit que c'est démarré. Donc tu vois c'est un agent
+10:3110 minutes et 31 secondeshein, c'est pas non plus garanti qu'il comprenne le premier coup. Donc faut vraiment un peu avoir bien sûr cette vision que tu es sur un VPS qu' a des
+10:3810 minutes et 38 secondesadresses IP internes, externes et cetera. Bon, je pense que tu sais ça déjà, mais tu vois que là, il faut que je lui précise, des fois, il est un peu
+10:4510 minutes et 45 secondesmoins bête et là, il est pas il est pas très malin. Donc, on va le laisser faire. OK, donc là, il a fini donc l'installation de Herm Web UI. Petite
+10:5310 minutes et 53 secondeschose quand même. Donc tu as accès à l'interface ici, il te l'a mis sur un port, il l'a exposé sur le port 87 87.
+11:0011 minutesFaut quand même avoir conscience de cette petite config. Je te la montre quand même rapidement he que tu saches faire. Ici, donc là, on est dans le
+11:0711 minutes et 7 secondesdocker Hermes agent. Ici dans le Yamel Editor, tu rajoutes le port 87 87 pour
+11:1511 minutes et 15 secondesautoriser en fait l'image d'ouvrir le port sur l'image du docker. Et surtout dernière petite chose ici tu vas
+11:2211 minutes et 22 secondesrajouter dans Security Firewall, tu vas rajouter une règle et dans cette règle on va éditer on va rajouter qu'on
+11:2911 minutes et 29 secondesautorise tout le trafic sur le port 87 en TCP en UDP comme ça depuis l'extérieur et bien tu vas pouvoir donc
+11:3711 minutes et 37 secondeste connecter. passer l'URL host name normal. Alors non attends il y a pas 87.
+11:4111 minutes et 41 secondes87 c'est le le host name sur le port 80 c'est le Hermes dashboard et sur le port 8787 c'est donc le Hermes web UI. Allez,
+11:5111 minutes et 51 secondeson va mettre on va se sign in ici. On va se sauvegarder. Et donc à partir de là, et bien tu vois qu'on a accès à notre
+11:5911 minutes et 59 secondesweb UI, Herm UI ici avec toute la config un petit peu plus avancée avec tout ça,
+12:0612 minutes et 6 secondesles logs, le camban, tu vas pouvoir ici créer des bords ici, des super boards avec à l'intérieur des tâches et cetera.
+12:1512 minutes et 15 secondesBref, à partir de là, tu as quelque chose qui est un petit peu plus avancé que ce chat un petit peu alors là, il y
+12:2312 minutes et 23 secondesa du mal à se reconnecter que ce chat un petit peu un petit peu austère que l'on a ici. Alors, attends, on va le recharger là, il a du mal. Mais en tout cas, voilà, tu auras compris que à
+12:3212 minutes et 32 secondespartir de là, tu vas pouvoir utiliser donc la version Hermes web UI. Comme je te disais, si jamais tu veux utiliser, là on l'a installé directement dans le
+12:4012 minutes et 40 secondesdocker, mais bien sûr, tu peux aussi, j'ai pas le temps de te le montrer, mais si tu veux l'installer via le catalogue, tu peux aussi l'installer via le
+12:4912 minutes et 49 secondescatalogue ici Hermes web UI et ensuite bah tu fais l'installation et cetera et tu pourras te connecter derrière. Alors voilà, maintenant donc tu as accès à ces
+12:5812 minutes et 58 secondestrois manières d'atteindre Hermes. Donc le TUI c en SSH directement dessus le
+13:0413 minutes et 4 secondesdashboard que tu as vu au début en priorité he celui quand tu lances l'instance et enfin le nouveau Airmes
+13:1213 minutes et 12 secondesweb UI. À partir de là et bien tu vas pouvoir maintenant en fait exécuter aussi en plus des commandes directement.
+13:2013 minutes et 20 secondesAlors je vais te parcourir rapidement.
+13:2213 minutes et 22 secondesAlors pourquoi je t'ai fait ce petit schéma ? parce que parfois il y a pas toutes les commandes qui sont dans les trois environnements entre le TUI, le dashboard et le Hermes Web UI. Par exemple, il y a alors attends, qu'est-ce
+13:3113 minutes et 31 secondesqu'on a d'intéressant ? Est-ce que je t'en ai pas mis plus ? Euh est-ce que je t'ai pas mis plus de commande ? Allez, qu'est-ce qu'on a comme ? Alors, moi celle que j'aime bien, je vais te
+13:3813 minutes et 38 secondesmontrer celle-là, j'aime bien utiliser donc personality. Personality et tu peux switcher entre différentes en fait.
+13:4613 minutes et 46 secondesAlors, attends, je vais zoomer un peu.
+13:4713 minutes et 47 secondesQuoi que c'est le TUA, il va pas être grand mais tu vois, tu peux avoir déjà différentes personnalities. par exemple, tu peux euh voilà et tu peux en définir
+13:5513 minutes et 55 secondestoi-même des personnes qui sont techniques, des créatifs, des teachers, des machins, des pirates, euh des choses des choses comme ça. Donc ça c'est un petit peu fun mais c'est sympa. Tu as
+14:0414 minutes et 4 secondesaussi rollback si jamais tu veux revenir en arrière. Ça c'est un petit peu comme sur Claude Code Rewind, je crois que ça s'appelle comme ça. Stir steir c'est pas mal aussi.
+14:1414 minutes et 14 secondesC'est si par exemple en fait alors attends, si par exemple tu dis euh analyse les euh logs par exemple les logos, voilà et qu'en même temps il est
+14:2214 minutes et 22 secondesen train de travailler et bien sans l'interrompre, tu peux utiliser la commande steir ici et lui dire euh ça va par exemple et en fait il va pouvoir
+14:3014 minutes et 30 secondessans interrompre la première commande et bien faire une deuxième commande, tu vois. Donc ça c'est quand même pas mal.
+14:3714 minutes et 37 secondesAllez qu'est-ce qu'on a d'autre ? On a learn plus journée. Ça c'est pour améliorer les skills. On a suggestion,
+14:4414 minutes et 44 secondeson a personality. Bon bref, je vais pas rentrer dans toutes les commandes. Donc c'est corriger sans interrompre, rollback, revenir en arrière sur des
+14:5214 minutes et 52 secondesfichiers. L'ar dans ton wordflow devient un skills puis tu vois tout ce qu'il a appris. Donc ça c'est quand même pas mal. C'est l'idée de tu vois quand tu
+15:0015 minutestravailles par exemple là on a travaillé sur un sujet tu peux lui faire là slashle learn hopable sking describ donc
+15:0715 minutes et 7 secondeslà on va lui dire learn on va lui dire learn l'architecture de notre vcker
+15:1515 minutes et 15 secondespar exemple on va lui demander de faire ça il va comprendre un petit peu notre architecture blab blabla et cetera qu'est-ce qu'on a d'autre qui est pas
+15:2215 minutes et 22 secondesmal donc suggestion il te dit quoi automatiser et en gros bah tu en as plein je vais te faire directement Si jamais tu veux tous les voir, tu fais un petit slash help, je vais te les
+15:3015 minutes et 30 secondesparcourir rapidement avec toi. Et tu vois que on en a on en a un gros paquet ici de commandes. Alors, tu as les commandes qui sont liées aux sessions.
+15:4015 minutes et 40 secondesDonc, je pense que ça tu connais par rapport à à Claud peut-être le new, le clear pour reset la session et cetera.
+15:4715 minutes et 47 secondesRew pour redessiner un petit peu le TUI, hein, forcément quand c'est mal dessiné.
+15:5115 minutes et 51 secondesHistory save, retry, prom, une dou pour venir en arrière, title pour nommer et cetera. tu peux créer des branches, des journées et cetera et tu as tout ce qui
+15:5915 minutes et 59 secondesest au niveau donc des infos ici. Donc tu as tout un tas d'infos. Je vais pas tout te les passer ici mais déjà si tu
+16:0616 minutes et 6 secondesas une petite vision de ça, ça va te permettre en gros de te dire bah voilà, je vais aller chercher par pour le comb si tu veux manipuler le camban, si tu
+16:1416 minutes et 14 secondesveux jouer sur la mémorie, si tu veux préparer des cron si tu veux regarder reload les skills, voir les plugins, les
+16:2116 minutes et 21 secondestools et cetera. Bref, tout est danshelp et je pense que c'est une commande que tu dois maîtriser. Alors maintenant, si tu veux aller plus loin, chose hyper
+16:2916 minutes et 29 secondesimportante, ce sont les CLI, c'estàd command line interface. L'idée derrière, c'est de se dire que si tu as des CLI, c'est en gros les mains de ton Hermes.
+16:4016 minutes et 40 secondesC'estàd que là, en gros, ce petit chemin, il te reprend ton Hermes. Si par exemple, on va faire un exemple concret.
+16:4516 minutes et 45 secondesSi par exemple ici, je lui dis "liste-moi les projets de mon Ripo GitHub, par exemple, liste-moi les
+16:5316 minutes et 53 secondesprojets de mon Rippo Gitub." Donc là, il va mouliner, il va dire "Oui, bon OK, tu es sympa, quel Ripo, quel GitHub, comment faire et cetera. Je sais pas me
+17:0117 minutes et 1 secondeconnecter à GitHub." Donc là, si il y a un skill GitHub Rippo Management, alors peut-être que dedans il va donc là il
+17:0917 minutes et 9 secondescharge, il fait des commandes, il voit pas grand-chose, il trouve pas. Bon, on va le laisser faire mais il va pas trouver grand-chose. Tandis que euh si
+17:1617 minutes et 16 secondestu lui installes des CLI notamment GH là qui euh permet de gérer ton GitHub, alors bien sûr, il faut le connecter et cetera, et bien Hermes va pouvoir
+17:2517 minutes et 25 secondesfacilement se connecter à ton ripo, pouvoir faire des pool requests, pouvoir regarder les dernières revues, les derniers déploiements, les dernières choses, les derniers commits et cetera,
+17:3317 minutes et 33 secondesles dernières branches. aussi notamment comme CLI YouTube DLP qui permet par exemple si tu dis à Hermes et ben tiens
+17:4017 minutes et 40 secondesva par exemple télécharger telle vidéo sur YouTube et extraire le script on va essayer de faire des choses. Tu as aussi notamment par exemple DCD DB qui permet d'avoir une petite base de données
+17:4817 minutes et 48 secondesembarqué en CLI. Tu as Notify qui permet, tu as Gcal CLI qui permet d'accéder à ton calendrier, tu as
+17:5617 minutes et 56 secondesHimalaya qui permet d'envoyer des emails, tu as JQRG là qui permet de manipuler les fichiers et bref, faut
+18:0418 minutes et 4 secondesvraiment avoir l'idée de te dire plus tu arriveras à trouver les bons CLI à ton Hermes et plus ça sera facile pour lui de faire des choses. Sinon, il va
+18:1218 minutes et 12 secondesessayer de contourner les choses, il va essayer de de faire des choses à sa manière et tu vas voir qu'il est pas il est pas très doué. Là, on le voit, il
+18:1918 minutes et 19 secondesessaie de, tu vois, il essaie de on sait pas trop ce qu'il fait, il galère en fait là. Il galère à essayer de lister
+18:2618 minutes et 26 secondessur son ripo. C'est pas trop ce qu'il fait. Il va faire du http, il va faire des choses, tu vois, que c'est un peu
+18:3318 minutes et 33 secondescompliqué. Tandis que ici, j'ai un autre projet. Si je lui dis "liste-moi les derniers projets de mon Rippo GitHub, de
+18:4318 minutes et 43 secondesmon compte Gitub plutôt, là normalement, j'ai installé sur ce compte GH.
+18:4818 minutes et 48 secondesNormalement, il devrait s'y retrouver plutôt facilement s'il est pas tebé.
+18:5418 minutes et 54 secondesVoilà, tu vois, hop, il récupère directement tous les ripo et ça lui a pris quelques secondes. Pourquoi ? parce
+19:0119 minutes et 1 secondeque justement il est ici, il a accès aux skills. Dans les skills ici Hermes il est intelligent, il sait qu'on peut agir
+19:0919 minutes et 9 secondesavec GH. GH il connaît comment fonctionne ce CLI et il peut récupérer des choses hyper rapidement. Là où lui
+19:1719 minutes et 17 secondesil a récupéré donc des choses complètement à la ramasse qui n'ont rien à voir avec ce qu'on veut faire. Il a
+19:2519 minutes et 25 secondestrouvé une liste de ripo, on sait pas trop comment et cetera. Qu'est-ce qu'on a d'autre d'intéressant ici ? Je vais voir si il est capable de retrouver retrouve des choses dans mon calendrier.
+19:3719 minutes et 37 secondesAlors, je crois que mon calendrier est pas connecté. On va voir ce qu'il fait.
+19:4119 minutes et 41 secondesDonc là, il devrait aller fouiner avec Gcal Cli. Allez, est-ce qu'il va trouver ? Je pense pas parce que je pense que depuis que je l'ai importé, faut savoir
+19:4819 minutes et 48 secondesque j'ai réimporté mes skills ici depuis Hermes. Donc ça c'est une bonne manière aussi si tu utilises Hermes avant. J'ai
+19:5519 minutes et 55 secondesOpen Clow Imported. Et ici, tu vois que tous ces skills ici sont des skills.
+20:0120 minutes et 1 secondeNotamment, tu as le skills de Google Calendar ici, le skill Gmail, guide convention, mon brief du matin, mes newsletter, ma veille, mon deep research
+20:0920 minutes et 9 secondeset cetera. Tout ça a été importé et ça fonctionne quasiment immédiatement sur Hermes. Donc ça c'est cool. Et tu vois qu'ici voilà, il a quand même détecté
+20:1820 minutes et 18 secondesmes calendriers, un calendrier famille, un calendrier plume villa pour mes villas. Michael, mes coaching euh H mon assistant délégation phase de lune, my coder, jour férier et cetera et cetera.
+20:2820 minutes et 28 secondesDonc il a réussi, tu vois, facilement à récupérer des trucs là où ici bah il est pas encore connecté et cetera. De la
+20:3620 minutes et 36 secondesmême manière, par exemple, si je peux lui dire, allez, on va chercher une vidéo YouTube, par exemple, on va lui dire on va on va trouver une vidéo YouTube sur My Coder ici et je vais lui
+20:4520 minutes et 45 secondesdire sur la vidéo graphify là par exemple login à l'intérieur en fait extraire les sous-titres. Voilà, normalement voilà. Si tu lui dis ici, on
+20:5320 minutes et 53 secondesva voir lui s'il est capable. Alors ça c'est euh la version sans skills, sans euh CLI plutôt, euh peuxtu
+21:0121 minutes et 1 seconderécupérer les SRT de celle-là ? On va voir s'il va être capable tout seul d'aller installer le CLI. Alors là, non,
+21:0821 minutes et 8 secondesil passe par un Alors là, il passe par un fetch transcript. Bon, sa pas trop ce qu'il fait. et tandis que lui qui a
+21:1521 minutes et 15 secondesnormalement le bon le bon CLI et je vais lui dire peux-tu récupérer les SRT de
+21:2221 minutes et 22 secondeshop normalement ce qu'il va faire c'est qu'il va passer par ce CLI très connu qui s'appelle YouTube YouTube YouTube YouTube YouTube DLP qui permet de
+21:3021 minutes et 30 secondesrécupérer des vidéos YouTube de récupérer les le contenu les sources l'audio et cetera et de travailler.
+21:3721 minutes et 37 secondesAllez, qu'est-ce qu'on a dedans ? Bah je te remets plus ou moins les mêmes. Les plus connus c'est JQRQ mais ça c'est déjà c'est le socle c'est déjà de base.
+21:4521 minutes et 45 secondesHimalaya et calcul notification. GWS aussi c'est pas mal. GWS c'est le Google Workspace. Si tu utilises Google Wordspace pour créer des des
+21:5421 minutes et 54 secondesauthentifications, des serveurs, des noms de domaines, des choses comme ça, tu sais que c'est extrêmement chiant à configurer et ben là les agents ils savent très bien faire ça. Tu as aussi
+22:0222 minutes et 2 secondestout ce qui est donc GitHub, tout ce qui est Versel, Stripe, donc ça c'est quand même c'est quand même cool. Tu as donc YouTube aussi, FFM PEG si jamais tu veux
+22:1022 minutes et 10 secondesconvertir des vidéos et pour les données tu as Duck DB. Moi, j'ai j'ai aussi le le CLI de Super Base puisque donc
+22:1822 minutes et 18 secondesrégulièrement euh régulièrement je fais des choses par rapport à ça. Allez, on va voir ce qu'il fait lui. Est-ce qu'il nous a trouvé quelque chose ? Donc tu vois qu' il balance des scripts. Pyon
+22:2822 minutes et 28 secondeseuh je sais pas trop ce qui Ah si, donc il a réussi quand même à l'installer, tu vois. Il a réussi à installer YouTube DLP. Donc il est voilà, si jamais il l'a
+22:3522 minutes et 35 secondespas, il l'a trouvé. tandis que sur celui-là, il l'a déjà hein, tu vois, il a il a récupéré euh comme j'ai déjà en
+22:4322 minutes et 43 secondesfait comme j'ai déjà installer YouTube DLP, tu vois, je lui ai fait simplement "Trouve-moi les les sous-titres". Voà, il m'a cliqué ici, il me l'a retrouvé
+22:5022 minutes et 50 secondesdirectement, il me l'a affiché ici. On peut même le lire. Hop, est-ce que je l'ai ici ? Allez, on va lire le fichier.
+22:5622 minutes et 56 secondesVoilà. Donc là, je l'ouvre ici et tu vois que donc j'ai récupéré tous mes scripts de vidéo. Donc c'est vraiment
+23:0323 minutes et 3 secondesutile, hein, quand tu quand tu as des des process des des process à mettre en place des donc ça en fait c'est pour moi c'est la base avant les skills. Ça veut
+23:1223 minutes et 12 secondesdire que les skills souvent en fait seront efficaces si de base tu as les
+23:1923 minutes et 19 secondesbons CLI. Après, tu peux lui demander ici par exemple on va tout annuler ici.
+23:2423 minutes et 24 secondesOn va dire propose moi les meilleurs CLI ou Hermes agent. On va voir ce qu'il
+23:3223 minutes et 32 secondesnous propose. Moi, je t'en ai proposé quelques-uns. L'idée, c'est pas de te donner une liste exhaustive. L'idée, c'est de te montrer en fait que avant de
+23:3923 minutes et 39 secondespenser skills, avant de penser que Hermes, il va faire des bouts de code un petit peu à l'arrache, il y a des CLI et les CLI, ils te font gagner un temps
+23:4823 minutes et 48 secondesfou. Allez, qu'est-ce qu'il nous propose ? Il nous propose, bon, il nous propose les classiques YouTube YouTube transcript API. Donc ça
+23:5723 minutes et 57 secondesça a été bloqué. Le YouTube DLP qui est pas mal et le Invidus sousil détecté franché. Bon voilà, donc là il me il me
+24:0524 minutes et 5 secondespropose ça. Open AI Codex, il me propose Open AI, je sais pas pourquoi il me propose ça. Il me propose GH hein, tu as vu ? Il me propose GitHub comme je t'ai
+24:1324 minutes et 13 secondesdit, ça c'est hyper important. UV utile pour les scripts. Qu'est-ce qu'il propose ? Voilà les les plus les plus classiques hein. Bah Hermes Cloud hein
+24:2224 minutes et 22 secondesCloud qui a un CLI Codex aussi tu peux installer sur ta machine open code GH UV. Bah après tu peux en trouver pour quasiment quasiment tout. Voilà donc
+24:3124 minutes et 31 secondesmaintenant une fois qu'on a l'interface, les commandes de base et que tu as installé des bons CLI he c'est vraiment les couches sous sous-jacentes pardon et
+24:4024 minutes et 40 secondesbien on va pouvoir regarder un petit peu donc les use case. Donc les use case c'est ce qui représente ton business.
+24:4624 minutes et 46 secondesC'est infini hein, ça dépend de ta créativité, de ton business, ton activité, tes manières de développer et cetera. Je vais te présenter ce que
+24:5524 minutes et 55 secondesj'utilise. Alors, j'en ai 10000, hein, j'en ai 50000. Euh, mais c'est juste pour te donner un petit peu une idée de comment ça marche et euh comment tu peux de ton côté aussi faire ça. Allez, je
+25:0425 minutes et 4 secondesvais te donner un classique ici déjà les chron donc les tâches programmées. Et typiquement, bah dans mon cas ici, j'ai
+25:1125 minutes et 11 secondeseuh des tâches programmées. Alors, je les ai pas toutes récupéré ici comme tâche, mais alors là, ça ça a été repris de Open Clow, mais typiquement tous les
+25:2025 minutes et 20 secondesmatins et bien je reçois un brief. ici, on peut regarder un petit peu ça vient d'un ça vient d'un skiss. Mais l'idée c'est que tous les matins, je vais regarder un petit peu ce que j'ai dans
+25:2825 minutes et 28 secondesle calendrier, ce que j'ai à faire, mes tâche en cours et cetera et ça va m'envoyer un email et ça va aussi me
+25:3525 minutes et 35 secondesl'envoyer sur donc Telegram. Voilà, donc sur Telegram, tu vois que régulièrement, tu vois, j'ai donc alors Chrome Job Open
+25:4425 minutes et 44 secondesClow. Alors, il me reprend le nom d'open Clow, mais tu vois, il va me donner la météo, le calendrier qui est pas encore configuré, les emails importants et cetera. Donc là, il y a aussi les emails
+25:5225 minutes et 52 secondesqui sont pas configurés. Si, voilà, ici configurer, j'ai um paiement reçu euh confirmation Airbnb euh pas d'alerte
+26:0126 minutes et 1 secondeAirbnb et cetera et cetera. Donc ça c'est un premier. J'ai aussi une veille une veille techno. Alors est-ce que j'ai plus d'infos sur la veille techno ? En
+26:0926 minutes et 9 secondesgros l'idée c'est que j'aille regarder alors c'est pas forcément la concurrence. Je vais te montrer une ce que ça donne un peu une veille techno.
+26:1626 minutes et 16 secondesJe reçois ici, tu vois, je le reçois sur Telegram ou WhatsApp. Donc la veille du 15 juillet. Donc en top 3, j'ai Cloud, agent Ops et cetera, des choses sur
+26:2526 minutes et 25 secondesGrock, Guitup Copilot dans Visual Studio et cetera et cetera. Et bien évidemment, je le reçois aussi directement formaté
+26:3226 minutes et 32 secondescomme ça par email, donc load, euh code, chiffre des instructions, GPT, read, open A machin et il me fait même une recommandation de contenu que je peux
+26:4126 minutes et 41 secondessuivre ou pas. par exemple, il me fait il me dit voilà actuec chiffre les instructions entre agents plateforme il me propose sur YouTube et il me dit bah
+26:4826 minutes et 48 secondesvoilà voilà langue que tu peux avoir open ferme ses agents bla bla bla et cetera et cetera donc ça c'est les chrones en fait alors les crones comme
+26:5526 minutes et 55 secondesje te disais tu peux les prompter ou tout simplement ici tu vas faire je crois que tu vas cliquer sur nouveau ici
+27:0227 minutes et 2 secondestu vas sélectionner la date et cetera le prom tu peux lui dire de de se baser sur un skills et il va te demander de le
+27:0927 minutes et 9 secondesdélivrer ou tu le délivres sur la plateforme, le profil par défaut, le modèle et cetera et cetera. Donc ça
+27:1527 minutes et 15 secondesc'est vraiment la base lorsque tu veux programmer des tâches récurrentes. Autre type de tâches que j'ai aussi par exemple, je sais que je fais tourner un sécurité sécurité audit tous les matins.
+27:2627 minutes et 26 secondesDonc ça c'est un skill de security que j'ai tous les matins qui est qui tourne là en gros et il va en gros lancer un
+27:3427 minutes et 34 secondesaudit de sécurité en utilisant un skills ici que j'ai Security Audit ici qui a un
+27:4127 minutes et 41 secondesskill de sécurité où en gros on va créer un dossier sécurité, on va lire ce qu'il y a dedans, on va utiliser PNPM audit,
+27:4827 minutes et 48 secondeson va utiliser Trivy, on va utiliser Sync et cetera et tout ça je t'en ai déjà parlé dans une vidéo ici que tu
+27:5627 minutes et 56 secondespourras retrouver trouver si jamais tu veux aller plus loin qui s'appelle Cloud Code Security. C'est plus ou moins un skill ce qui a été préparé dans cette
+28:0428 minutes et 4 secondesvidéo qui est ensuite automatisé régulièrement. Donc est-ce que je l'ai ici ? Tu vois par exemple ici il a tourné. Ici il a tourné donc Security
+28:1128 minutes et 11 secondesAudit UTB il a checké ça. Ensuite il m'a dit qu'il y avait deux critical protobuff machin. Bon en fait c'est des
+28:2028 minutes et 20 secondesc'est des faux ça c'està dire c'est pas vraiment exploitable et tu as des hide et cetera. Et donc régulièrement, si je vois des choses qui arrivent, et bien je
+28:2728 minutes et 27 secondessuis alerté automatiquement. J'ai pas besoin justement de trop réfléchir par rapport à ça puisque c'est fait de manière proactive. En fait, j'ai des
+28:3528 minutes et 35 secondesagents qui régulièrement vont lancer ces audits et aller même jusqu'au bout de IA Pen Tester. Ça veut dire que en fait,
+28:4128 minutes et 41 secondesj'ai plusieurs couche PNP, PNPM, Audit, Trivy et Sneak qui est une plateforme qui permet de faire des audits plus profondes. Et ensuite et bien alors je
+28:5028 minutes et 50 secondessais pas combien de temps on va avoir Fable 5, mais avec Fable 5, je lui demande de vraiment de faire des des tests de pen tester, c'est-à-dire aller
+28:5828 minutes et 58 secondestester des intrusions, des choses comme ça. Et donc il teste et si jamais il trouve un truc et bien je suis au courant. Alors là hautre skill hyper intéressante surtout si tu as beaucoup
+29:0629 minutes et 6 secondesde support email à traiter, beaucoup de beaucoup d'email et bien c'est en fait de traiter le support email. Alors moi j'utilise une plateforme qui s'appelle
+29:1529 minutes et 15 secondesFront ici. Donc tu vois l'idée c'est d'avoir du zéro inbox. Alors je vais pas tout montrer ici mais typiquement bah à chaque jour là il y a cinq emails qui
+29:2329 minutes et 23 secondessont arrivés. Ils vont être traités automatiquement par un agent. Et ici, je vais recevoir ici des, tu vois, il y a
+29:3129 minutes et 31 secondesbeaucoup de choses concernant les collabes, les choses comme ça. Donc, je vais pas tout te montrer. Mais l'idée c'est que en gros, il a accès donc à
+29:4029 minutes et 40 secondesfront ici. Donc front, hop, ici front app. Si tu mets donc front app doc, ici, il faut toujours essayer de trouver un
+29:4729 minutes et 47 secondessas qui a des API. Par exemple, celui-là, il doit avoir un système al je sais pas où elle est la doc. Ils ont MCP serveur, ça peut être utile. Moi, j'utilise de moins en moins les les MCP,
+29:5629 minutes et 56 secondesj'utilise les CLI. Mais corps à payer référence peut-être. Enfin bref, tu envoies la documentation ici. Voilà, API terminologie par exemple ici, tu lui
+30:0530 minutes et 5 secondesenvoies la doc de la pay et moi typiquement et bien ce qu'il fait que dès que j'ai du spam, il archive tout seul comme ça, j'ai pas à le faire. Il répond tout seul. Alors, je devrais pas
+30:1430 minutes et 14 secondesle dire mais tu sais, parfois ceux qui sont à ma newsletter, ils me répondent, ils m'envoient un go oui, j'ai bien reçu et cetera. bah l'agent va traiter, va répondre tout seul en mode "Ben, on a
+30:2230 minutes et 22 secondesbien reçu ta demande et cetera." Euh les ressources, les gens qui demandent des ressources et bien on prépare la ressource, on prépare l'email. Par contre, c'est pas envoyé, c'est mis en
+30:3030 minutes et 30 secondesdraft. On a aussi les collaborations. Ce qu'il fait, c'est qu'il analyse les collaborations et derrière, il va me donner une note. Alors, je vais essayer
+30:3930 minutes et 39 secondesde te trouver un exemple ici. Allez, est-ce qu'on a une collab ici ? Tu vois par exemple cette collab ici qui est une collab d'un truc un outil genre soit tous les jours des dizaines de collab et
+30:4730 minutes et 47 secondesbien typiquement ici ce qu'il va me dire c'est partenariat émergent machin plateforme I qui génère des abs en gros il me donne une note de 4/ 5 et il me
+30:5630 minutes et 56 secondesdit voilà donc moi ça me voilà quand je vois des choses un petit peu qui me plaisent pas ici il va donner 3 sur 5 hop ben après je vais lui mettre un
+31:0431 minutes et 4 secondescommentaire comme ça je vais lui faire arobas h ici et je vais lui dire à supprimer ou à répondre il va et il va répondre directement par la suite, oui,
+31:1231 minutes et 12 secondesdésolé, c'est cette collaboration ne nous intéresse pas et cetera. L'idée, c'est d'avoir à chaque fois du zéro inbox. Donc ça c'est un beau use case
+31:2031 minutes et 20 secondesque tu peux mettre en place justement avec Hermes. Est-ce que je peux te le montrer rapidement sans trop rentrer dans les détails ? Je l'ai appelé front
+31:2931 minutes et 29 secondesapp front assistant. Ici, je lui ai fait un petit schéma. Donc je lui ai donné en gros euh les tags à mettre, tout ce qui est impayé, avant, vente, partenariat
+31:3631 minutes et 36 secondesurgent, coaching. Donc ça c'est des tags utiles euh l'équipe et en gros il a un peu le premier level, les spams, les
+31:4431 minutes et 44 secondesreply, les ressources important triage, babapab et ça me renvoie sur WhatsApp et cetera. Donc là ça a remplacé
+31:5131 minutes et 51 secondesdirectement un job d'assistante. À mon assistante avant qu'il traitait les emails, je comprenais pas. Elle mettait tout à la poubelle. Je disais mais réponds au moins tu vois. Et donc du
+31:5931 minutes et 59 secondescoup bah j'ai vu que bah mon agent traité mieux ça que elle. Donc du coup bah j'ai préféré faire ça directement
+32:0732 minutes et 7 secondesavec. Autre use case importante aussi c'est de dire bah tiens construis cette fature avec l'autre code. Donc ça tu vas
+32:1432 minutes et 14 secondespouvoir faire ça. Ce qu'il faut faire c'est de revenir à l'étape CLI. Ici il est où notre CLI ? Ici dans les CLI et
+32:2232 minutes et 22 secondesbien tu installes le CLI Cloud code directement sur le VPS. Et une fois que tu as le CLI Cloud code sur ton VPS, et
+32:2932 minutes et 29 secondesbien ici tu vas pouvoir lui dire, lui déléguer de travailler sur telle ou telle fonctionnalité directement avec
+32:3632 minutes et 36 secondesClo code. Donc en gros, il va préparer les choses, il va utiliser le skill, ce qui va bien et CL code va faire tout ça.
+32:4232 minutes et 42 secondesJe vais te montrer moi concrètement comment ça fonctionne. Premièrement, il y a un il y a il y a un déjà un skills qui est déjà dans Hermes. Donc ça c'est
+32:4932 minutes et 49 secondespas mal. en gros qui te dit comment avec tu peux tu vas pouvoir utiliser Cloud Code comme Hermes orchestration. Donc il
+32:5632 minutes et 56 secondeste donne en gros l'installation de cloud code, l'authentification et cetera. Donc une fois que tu es logué et que tout va bien et bien il te dit en gros ce que tu
+33:0533 minutes et 5 secondesvas pouvoir faire, comment ça s'utilise et cetera. Donc cloud query cloud machin. En gros maintenant donc ça c'est ce qu'il voulait faire sauter chez
+33:1433 minutes et 14 secondesAntropique à partir du 15 juin. Ils sont revenus en arrière. Donc ça c'est 100 % inclus dans les soutes pro et pro et max
+33:2333 minutes et 23 secondeset cetera. Donc ça c'est quand même pas mal puisque tu vas pouvoir utiliser ta souscription à fond. Moi, je l'utilise beaucoup puisque ça me permet d'utiliser
+33:3033 minutes et 30 secondesla puissance des derniers modèles de clos. Tu peux utiliser même Fable et cetera directement dans Hermes puisque ici hein, je te rappelle que tu peux pas
+33:3933 minutes et 39 secondesdirectement utiliser ton ton forfait cloud dans Hermes hein. Tu tu tu peux passer par l'API, les API mais ça coûte
+33:4733 minutes et 47 secondeshyper cher ou Codex et cetera, mais tu vas pas pouvoir utiliser ton abonnement comme chatbot. Par contre, tu vas comme je te disais pouvoir déléguer à Cloud
+33:5633 minutes et 56 secondesCode. Et ce que je fais moi dans mon cas, c'est que en plus de la couche d'utilisation de cloud, et bien ce que j'aime bien avoir ici, c'est une
+34:0434 minutes et 4 secondesfonctionnalité build feature en fait puisque c'est comme ça que mon workflow fonctionne chez moi. Je vais te le je l'avais déjà partagé je crois dans une
+34:1234 minutes et 12 secondesvidéo. Donc comment ça fonctionne ce skills build futur ? En gros, je lui dis d'utiliser clot code et cetera. Donc ça c'est le c'est la base. Ce que je dis
+34:2034 minutes et 20 secondesdans un premier temps, c'est de checker, de regarder un petit peu les prérequis, vérifier que le statut du Ripogit n'est
+34:2734 minutes et 27 secondespas foireux, de create ou d'identifier problèmes et cetera et cetera. Ensuite de préparer la branche et le work tree.
+34:3634 minutes et 36 secondesDonc souvent je lui je lui dis comment comment fonctionne pour créer un work et cetera. Comme ça il va faire le développement sur un work tre à part directement. Comme ça, tu vas pouvoir lancer plusieurs features en parallèle.
+34:4634 minutes et 46 secondesEnsuite, il va y avoir la phase la phase d'implémentation en suivant plus ou moins ça. La phase de vérification, on lui dit le projet c'est test build et
+34:5534 minutes et 55 secondescetera et enfin le commit. Et ensuite ça va jusqu'à créer la pool request sur GitHub. Donc du coup tu vois qu'on est
+35:0335 minutes et 3 secondesdépendant encore de GH hein. Donc si on n pas le CLI. Donc tu vois que tout se cumule les CLI dans un premier temps.
+35:0935 minutes et 9 secondesEnsuite les skills par-dessus. Donc là, on lui dit de créer la Pool request et enfin de nous générer un rapport et de nous l'envoyer directement. Et bien sûr,
+35:1735 minutes et 17 secondeson a des petites roules critiques ne commit jamais sur main, master ou dev à chaque fois sur des branches à part et cetera et cetera. Donc ça c'est euh un
+35:2635 minutes et 26 secondesworkflow que j'utilise. Alors je l'utilise que pour des choses assez restreintes, assez faciles. Je veux pas commencer à partir sur des fonctionnalités un peu complexes mais
+35:3535 minutes et 35 secondespar exemple sur mon SAS UTUM ici UTUM.ai Aï aï si euh disons j'ai un bug assez
+35:4235 minutes et 42 secondesidentifiable change de libélé fait je sais pas telle chose et que c'est relativement facile relativement confiant et je le laisse travailler dans
+35:5135 minutes et 51 secondestous les cas après je vois la pool request et généralement si ça correspond et bien je merge et puis ça part directement en production. Euh dans tous les cas, faut vérifier, ça c'est sûr,
+36:0036 minutesparce que ça fait un petit peu peur au début de laisser comme ça un agent coder, commit, poucher, pouler, euh faire des choses, créer des pool
+36:0836 minutes et 8 secondesrequest. Mais si c'est bien cadré, si tes skills sont bien faits et que tu maîtrises en gros l'archie et tout, normalement tu es capable de faire quand
+36:1636 minutes et 16 secondesmême pas mal. Je moi j'ai envie de dire tu es capable de faire plus de 50 % du développement avec ce genre de technique. Et après bien sûr pour toutes les choses qui sont un peu poussées
+36:2436 minutes et 24 secondesmachin bien sûr tu développes toujours en local avec l'autre code. Ça ça reste quand même toujours la meilleure manière de développer. Alors autre use case
+36:3336 minutes et 33 secondeshyper important que j'utilise beaucoup système de recherche approfondie. L'idée derrière, c'est que quand tu fais une
+36:4136 minutes et 41 secondesrecherche, soit une vidéo, quelque chose, tu cherches une librairie, que ce soit du code pour ton SAS ou peu importe les choses, c'est que et bien Hermes
+36:4936 minutes et 49 secondespuisse aller chercher des choses en profondeur. Et du coup, bah j'ai un skills pour ça qui est vraiment pas mal.
+36:5636 minutes et 56 secondesEt ben c'est ce skills là. En gros, l'idée c'est quoi ? C'est creuse le sujet sur un sujet par exemple et l'idée c'est que derrière il a accès à Brave pour faire de la recherche sur le net.
+37:0837 minutes et 8 secondesAlors, je vais te montrer ici. Brave Brave search API, je crois, je sais plus comment ça s'appelle. Faut créer une petite clé. Voilà, search API. Donc ça,
+37:1537 minutes et 15 secondesc'est quand même la base. De base, tu peux quand même avec la version gratuite, tu peux quand même faire pas mal de recherches. Ensuite, j'utilise ce service ici Gina qui permet aussi de
+37:2437 minutes et 24 secondeslire des posts. C'est des posts sur X parce que sur X, tu peux pas y accéder si tu as pas payé, la payer et cetera.
+37:3037 minutes et 30 secondesMais avec ce service, alors ça marche pas très bien. Ça marche une fois sur deux, mais de temps en temps il peut aller chercher sur X et aller parcer héer, on va dire. les trucs sur X et
+37:3837 minutes et 38 secondesj'utilise aussi data qui est un peu une alternative à au CLI que je t'ai montré là, le you YouTube DLP qui permet de
+37:4637 minutes et 46 secondesrécupérer les les euh les les transcripts. Alors, attends, il est où notre Supata ici ? Supata, ce service
+37:5337 minutes et 53 secondesqui est plutôt pas mal, qui est plutôt pas mal, qui permet de récupérer des infos de vidéos YouTube et cetera et je l'utilise pour les transcripts de vidéos. C'est c'est donc assez utile.
+38:0338 minutes et 3 secondesDonc là, typiquement, tu peux dire fais une recherche approfondie sur tel sujet.
+38:0838 minutes et 8 secondesEt ce qui va faire, tu sais, quand tu fais une recherche sur Google, si je te dis, je sais pas moi, si je te dis euh, si je te parle de Hermes agent, Hermes
+38:1638 minutes et 16 secondesagent CLI, tiens, je vais taper ça par exemple. Bah, tu vois, tu as des résultats ici qui sortent et tu as aussi également et bien des liens de vidéos
+38:2538 minutes et 25 secondesYouTube et cetera. Bien, l'idée c'est qu'il puisse derrière en fait aller aussi euh une fois qu'il a fait sa recherche, si jamais il tombe sur des
+38:3338 minutes et 33 secondesvidéos, il est capable d'aller lire les vidéos, interpréter et te faire une synthèse. Je vais te montrer ici un exemple. Je crois que c'est deep
+38:4038 minutes et 40 secondesresearch que qui s'appelle. Voilà, je l'ai récupéré de ici. Donc tu vois ici, je lui dis tac, tu peux commencer par
+38:4938 minutes et 49 secondeseuh faire un de prarge sur ici là sur le bon, il y a les crédentiales pour subadata et et base et breve pardon.
+38:5738 minutes et 57 secondesDonc là du coup, il va euh récup ça. Les sources c'est Brave search blab blabla.
+39:0239 minutes et 2 secondesGina reader aussi pour scrapper des pages sur X et enfin sup data pour récupérer les datas et cetera. On donne
+39:1039 minutes et 10 secondesun petit peu de format, les subtitles, les subtitre en fall et cetera et tu vois, il y a un fallback si jamais il arrive pas à les récupérer ou quoi, et bien il utilise YouTube DLP et cetera.
+39:2039 minutes et 20 secondesIl récupère ça, ensuite il cadre. Donc l'idée le workflow, c'est phase 1 cadrage, c'est-à-dire tu reformules, tu dis par exle si je dis cherche-moi des
+39:2839 minutes et 28 secondesdonnées sur Hermes agent, bien il va il va reformuler, il va il va te demander si c'est flou et cetera. Ensuite, il va
+39:3539 minutes et 35 secondesfaire une exploration large avec Brave et il va noter les 5 10 URL les plus pertinentes et cetera et cetera.
+39:4339 minutes et 43 secondesEnsuite, il va faire une phase de lecture approfondie, c'estàd il va aller chercher les Markd, les posts sur X, les vidéos YouTube et cetera et à la fin, il
+39:5139 minutes et 51 secondesva te faire une synthèse comme ça de tout ce qui est de tout ce qui a été fait et après tu as des petites règles et cetera et cetera. Donc je te mets
+39:5839 minutes et 58 secondestout ici. Donc ça c'est vraiment un workflow hyper important. Moi je le vois parce que je suis créateur de contenu, ça fait plus de 7 ans et pendant longtemps quand je faisais des vidéos,
+40:0640 minutes et 6 secondesbah effectivement tu vois, je j'essayis de récupérer des données un petit peu à ma sauce et cetera, je les stockais dans un ocean, j'essayais de de faire mes synthèses et tout et cetera. Là
+40:1440 minutes et 14 secondesclairement ce use case, il est incroyable parce que je peux être avec mon téléphone comme ça, je lui dis "Bah écoute, fais-moi une recherche sur tiens un truc qui me vient en tête." Il va
+40:2340 minutes et 23 secondesm'analyser tout ça, il va me compiler les informations et derrière il va me faire une bonne recherche approfondie.
+40:2940 minutes et 29 secondesAprès, c'est moi qui vois est-ce que euh c'est intéressant, est-ce que c'est pas intéressant, est-ce que ça nécessite, est-ce que ça ça on peut en faire une
+40:3640 minutes et 36 secondesvidéo, un contenu ou pas et en fonction de ça, mais au moins, j'ai la matière première, j'ai euh j'ai un tas de de
+40:4440 minutes et 44 secondesdatas, récupérer du net, récupérer des vidéos YouTube et derrière c'est moi qui décide d'en faire ou non quelque chose d'intéressant. Alors ensuite, ben je vais continuer. Tu vas découvrir tout
+40:5340 minutes et 53 secondesmon workflow, hein, puisque tu vois euh typiquement aussi ce que je fais, donc là c'est la première recherche approfondie, mais ensuite ce que je fais
+41:0041 minuteset bien typiquement lorsque j'ai besoin de créer des vidéos YouTube ou des présentations ou des formations en ligne ou des présentationsou des choses comme
+41:0841 minutes et 8 secondesça et bien typiquement j'ai deux use case qui sont importants. Si tu regardes un petit peu mes vidéos YouTube, ça fait un petit moment que je sais pas si tu
+41:1641 minutes et 16 secondesprends, allez on va prendre laquelle qui te plaît ? Allez, on va prendre prendre celle-là. Allez, soyons fous. J'ai souvent des tu vois, j'ai souvent alors attends, je vais te le masquer ici. Tu
+41:2541 minutes et 25 secondesvois, j'ai souvent des schémas qui ont été faits comme ça qui ont tout le temps le le même style avec the agentic dev
+41:3141 minutes et 31 secondesécrit à droit et cetera. Donc ça c'est un c'est un template. Qu'est-ce qu'on a d'autre ? Tu vois ici tous ces types de slide et bien ils sont pas générés. Et à
+41:4041 minutes et 40 secondeschaque fois, je je vais pas prompter ça et appeler Nano Banana pour prompter ça.
+41:4441 minutes et 44 secondesEuh j'ai des templates, j'ai des type de schéma, j'ai une police, j'ai une couleur, j'ai un j'ai des choses et tout ça bien évidemment c'est dans un skills.
+41:5641 minutes et 56 secondesEt en gros, je lui dis bah voilà, si je travaille sur telle ou telle vidéo, on va générer, j'ai besoin de faire tel schéma, tel schéma, tel schéma. Et du coup, j'ai plus qu'à lui à lui donner
+42:0542 minutes et 5 secondesici. Ben je vais te le montrer. Je crois qu'il s'appelle banana. Banana Banana.
+42:0842 minutes et 8 secondesJe peux faire la même chose avec les Excalidro aussi. Tu as vu, j'ai pas mal d'excalidro. Mais je vais te montrer un petit banana ici. Bah en gros, tu vois,
+42:1642 minutes et 16 secondesj'ai deux thèmes. Le thème sombre, le thème machin, le catalogue des layout.
+42:2142 minutes et 21 secondesDonc j'ai des layouts. Euh donc tu vois, c'est les les skills, les les trucs comme ça, faut vraiment y réfléchir une bonne fois pour toutes. Bien sûr, ça
+42:2842 minutes et 28 secondespeut s'améliorer et une fois que tu as tu en as un, après tu peux faire plein de choses. Par exemple, ici, tu vois, j'ai ce premier type de schéma, j'ai le
+42:3542 minutes et 35 secondesfan out, j'ai le camb, j'ai la scène interactif, j'ai l'horizontal timeline et cetera. Et ensuite avec ça, il va
+42:4442 minutes et 44 secondespouvoir créer des choses pareil Excalidro. Tiens, j'en profite pour te montrer Excalidro. Et ensuite, ben voilà, tu vois, je fais l'escalydro et
+42:5242 minutes et 52 secondesje peux le partager directement sur un super base. Comme ça, je peux je peux le récupérer directement. Ensuite, qu'est-ce qu'on a ? On a le slide HTML.
+43:0043 minutesTu vois ces slide HTML, tu auras bien compris que je vais pas les développer à chaque fois. Euh, on avait la version, elle est où la version précédente ici ?
+43:0743 minutes et 7 secondesJe sais plus mais tu vois ça par exemple, j'ai défini un thème. J'ai défini à droite on laisse 20 % pour la
+43:1443 minutes et 14 secondescaméra ici et j'ai défini les titres, les sous-titres, les petits effets. Tu vois, il y a plusieurs effets. Tu vois
+43:2243 minutes et 22 secondesça si c'est un banana, ça ça vient d'un an qui est d'ailleurs cel pas terrible mais voilà. Bref, tout ça c'est défini
+43:2943 minutes et 29 secondesdans des skap. C'est des choses, voilà, si tu fais des présentations souvent, si tu fais des vidéos YouTube, si tu as besoin de faire des schémas, si tu fais des posts LinkedIn et cetera, tu te
+43:3643 minutes et 36 secondesprépares ça avec Hermes et puis après tu as plus qu'à hop à laisser aller ta créativité. Alors maintenant, on va continuer sur un case. Typiquement,
+43:4643 minutes et 46 secondesj'ai, alors tu le sais probablement, j'ai pas mal de vidéos YouTube et donc une fois que j'ai fait ma recherche et cetera que par exemple là c'est une vidéo YouTube parallèle versus
+43:5443 minutes et 54 secondesséquentiel, tu vois, j'ai le hook d'intro, l'intro, tout ce qui est un peu freestyle, les datas et cetera et cetera. Donc le point de départ, bah tu as une vidéo qui est prête avec les
+44:0344 minutes et 3 secondesslides banana qui ont été fait et cetera. Et bien par la suite ce que je peux faire et bien à partir de cette source de vidéo de cette vidéolà je peux
+44:1144 minutes et 11 secondesgénérer plein de choses. Premièrement je peux générer la miniature. Donc le promp thumbnail hein comme tu sais thumbnail c'est mon sas de création de miniature
+44:2144 minutes et 21 secondeseuh YouTube. Ici est-ce qu'on a quoi en t là ? Tu vois, toutes ces toutes ces miniatures sont créées. Alors, il y en a
+44:2844 minutes et 28 secondesqui sont plus ou moins bien, mais tu vois, par exemple, ici, si tu prends cette miniature là, elle vient directement d'un prompt qui vient de de
+44:3544 minutes et 35 secondesde Hermes. Ça veut dire que il voit ma vidéo, il connaît mon SAS parce qu'il y a un skills qui représente,
+44:4344 minutes et 43 secondesUTUM génération, UTUM prom. Je peux soit directement appeler les API de mon SASP parce que mon SASP est accessible via des API ou alors je peux juste me baser
+44:5244 minutes et 52 secondessur les prom parce qu'après j'aime bien pouvoir euh les éditer. Donc par exemple dans um promp euh j'ai tout un tas d'infos, il explique comment ça fonctionne et cetera. Donc à partir en
+45:0145 minutes et 1 secondefait de la source de la vidéo, par exemple si je fais une vidéo comme je te disais sur Mux is dead, il va savoir que
+45:0845 minutes et 8 secondesc'est Dead et il va me proposer en fait automatiquement des prompts pour générer en fait derrière des miniatures
+45:1645 minutes et 16 secondespareilles sur agenticos. Et bien c'est lui qui va me générer en gros ça et il va appeler le serveur et il va me générer directement directement les
+45:2445 minutes et 24 secondesminiatures les miniatures qui vont bien dans la foulée. Qu'est-ce qui va se passer ? Moi ce que je vais dire, je vais dire bah tiens, à partir de ça,
+45:3245 minutes et 32 secondescrée-moi un post LinkedIn. Donc je peux même te faire une petite démo, hein, si tu si tu veux. On va prendre une vidéo.
+45:3845 minutes et 38 secondesOn va prendre une vidéo sur là, tiens, on a cette vidéo qui est sortie. Tu n'es plus dev, tu es product manager d'agent.
+45:4445 minutes et 44 secondespar exemple ici et bien ici je vais lui dire à partir de cette vidéo prépare-moi
+45:5245 minutes et 52 secondesle prompt de génération de miniature YouTube et ensuite prépare-moi le post LinkedIn X et programme-le directement
+46:0046 minutessur Type Fly pour dans 1 heure. Donc là, tu vois juste avec ce prompt là, il va être capable bah déjà d'accéder directement à mon Obsidian parce qu'il
+46:0946 minutes et 9 secondesconnaît le truc. Normalement, j'ai même pas besoin de lui donner le nom. Il sait souvent, c'est sur les dernières vidéos.
+46:1346 minutes et 13 secondesIl sait que je travaille sur les dernières vidéos, il est capable de d'y retrouver. Ensuite, ce qu'il va faire, et bien il va lire le le prom, il va me
+46:2246 minutes et 22 secondesgénérer la miniature, il va la sauvegarder, il va la sauvegarder sur le VPS, il va dire bah voilà, il va généralement il en fait deux ou trois. À
+46:2946 minutes et 29 secondespartir de là, il va me proposer deux trois angles de post LinkedIn machin et cetera. Et à la fin et bien si tu regardes, tout est posté aussi
+46:3846 minutes et 38 secondesdirectement sur mes articles de blog. Et ça, j'ai quasiment à rien faire. Je vais te montrer d'ailleurs ici euh mon blog
+46:4546 minutes et 45 secondesque tu vois ici. Quand tu regardes ici et bien tout ça sur la vidéo de Obsidian plus graphify, tu vois qu'il est capable
+46:5346 minutes et 53 secondesdans la foulée de me générer donc un article ici qu'on va aller voir ici. Tu vois ? Donc il a mis il est capable de générer l'article, il est capable de
+47:0147 minutes et 1 secondemettre automatiquement la miniature, la photo, l'image. Il te génère l'article en fonction de la miniature. La
+47:0947 minutes et 9 secondesminiature en cours, je sais pas c'est quoi ce bug là. Il y a eu un bug euh mais globalement il est capable de de générer tout ça n na de générer du du content et il te met le lien bien sûr
+47:1847 minutes et 18 secondesvers la vidéo la vidéo qui apparaît normalement aussi ici directement sur la liste des dernières vidéos et tout ça sans que j'ai à travailler. Pourquoi ?
+47:2747 minutes et 27 secondesEncore une fois, je peux te montrer ici mon mon blog par exemple, on a le skills de blog blog mic API là et il est
+47:3347 minutes et 33 secondescapable directement, il connaît mes API hein, moi j'exporte toujours les API, il y a pas besoin de MCP ou de je sais pas quoi. Il est capable d'aller créer les
+47:4247 minutes et 42 secondesarticles de blog et il est capable surtout de tout ça de les traduire.
+47:4747 minutes et 47 secondesAlors attends, on va se mettre là. Si je reviens sur la home ici, si je me mets en anglais, tu vois, sert à rien mais c'est facile en fait, tu vois, c'est
+47:5547 minutes et 55 secondesgratuit. Tu vois, il me le il me l' fait dans les trois langues et du coup bah si je reviens ici, tu vois, il est capable de me générer en anglais, en français,
+48:0248 minutes et 2 secondesen espagnol euh tout le content concernant mes dernières vidéos. Donc du coup, ça me génère un article, ça me et
+48:1048 minutes et 10 secondesça me le poste sur derrière avec le skill type fully ici que tu vois ici. Tu peux te créer un petit type fou qui est une plateforme ici. Allez, on va y
+48:1948 minutes et 19 secondesaller. Qui est une plateforme qui te permet encore une fois passé par des API à programmer des postes. Donc si tu regardes ceux qui ont été programmés là, donc là c'est fini, tout a été publié.
+48:2948 minutes et 29 secondesBon, on va regarder le dernier qui est posté. Tu vois, j'ai divisé par 10 la consommation. Tout ça et bien c'est pas moi qui le rédige et j'ai pas honte de
+48:3748 minutes et 37 secondesle dire. C'est vraiment basé sur du contenu que j'ai créé. Moi, ça me dérange pas que Lia condense ma vidéo dans un post. Pourquoi ? Parce que c'est moi qui ai créé le contenu, j'ai
+48:4548 minutes et 45 secondestravaillé, j'ai fait la recherche et cetera. Il sait ce que je vais produire ensuite comme cont, sur X et cetera. Et il sait d'ailleurs que le format X est
+48:5448 minutes et 54 secondeslégèrement différent. Il est il est généralement plus petit. Tu vois, celui-là fait 4000 vues avec des trucs.
+49:0049 minutesEnfin bref, il sait la différence entre Blue Sky X et LinkedIn. il fait la différence et il sait que c'est pas le même type de de contenu parce que tout
+49:0849 minutes et 8 secondesça est euh est déjà tout prêt. Donc tous mes posts là depuis depuis je sais pas combien de temps, c'est systématiquement
+49:1649 minutes et 16 secondesgénéré par Hermes Open Clow. Et à chaque fois, tu vois, il y a aussi le lien, je sais pas mis ici, le lien MKC.sh mon ce
+49:2449 minutes et 24 secondesqui permet de tracker, c'est un lien short qui permet de tracker d'où ça vient. Est-ce que ça vient de LinkedIn ?
+49:2949 minutes et 29 secondesEst-ce que ça vient de machin ? Tu vois ce clic là avec l'UTM et cetera. Pareil, ça ça a été fait avec un skills. Est-ce que je l'ai ici MKC URL short ? Ça passe
+49:3849 minutes et 38 secondespar ma plateforme, ça va appeler la PI et ça va créer un short en fait. Donc en fait vraiment le workflow, il est même pas assez détaillé là parce que tu vois ça va faire le post X, le post LinkedIn,
+49:4649 minutes et 46 secondesle blog derrière ça va les récupérer en fonction de URL de la vidéo YouTube. Ça va générer automatiquement un lien
+49:5449 minutes et 54 secondesshort. Ce lien short va automatiquement être ajouté dans le post LinkedIn, dans le post X et cetera. Ce qui fait qu'après je peux tracker tous mes liens,
+50:0250 minutes et 2 secondessavoir qu'est-ce qui fonctionne le mieux. Donc par exemple ici, après une fois tous ces liens vont être générés automatiquement sur ma plateforme de de gestion de l par exemple ici tu regardes
+50:1050 minutes et 10 secondesgraphify ici tu vois donc tu as le lien vers la vidéo mais c'est pas ça que je voulais te montrer. Mais derrière bah du coup tu as accès au aux statistiques et
+50:1950 minutes et 19 secondestout ça je ne me connecte jamais sur cette plateforme c'est automatique. Je peux voir par exemple que ce lienlà et
+50:2650 minutes et 26 secondesbien ça a été il y a eu 668 clics et tu vois directement les sources. Tu vois que LinkedIn quand même, il y a eu 458
+50:3450 minutes et 34 secondesclics sur ce lien. Sur X, il y a eu 171 et tu vois que Blue Sky et SAD, il y a il y a que dalle, tu vois. Et du coup,
+50:4250 minutes et 42 secondestu vois même toutes les IP, tu vois quand est-ce que ça a le mieux marché, le nombre de clics par rapport au nombre de jours et cetera et tout ça. En fait,
+50:4950 minutes et 49 secondesc'est automatiquement géré par des skills et cetera et cetera. Donc là, ce que tu vois, c'est que c'est à la main.
+50:5550 minutes et 55 secondesMais ce qui est bien maintenant avec justement Hermes agent, c'est que tu vas pouvoir faire tout ça sous forme de camban. Et je vais te montrer tout ça.
+51:0351 minutes et 3 secondesAlors maintenant, si tu vas aller plus loin, comme je te disais, tu as le système de de tâche et de de camban ici que tu vas pouvoir faire analyser la vidéo et cetera. Euh là, c'est si tu
+51:1251 minutes et 12 secondesveux pousser. Alors, tu as des commandes directement Hermes Camban et tu peux ajouter des tâches, tu peux les gérer.
+51:1751 minutes et 17 secondesIl est capable de les gérer tout seul mais tu peux le tu peux le prompter, tu peux le le le prompter directement. L'idée c'est de faire plus ou moins ça.
+51:2651 minutes et 26 secondesJe te montre un petit peu. L'idée c'est de se dire que tu vois là je t'ai montré, j'ai fait exprès de te montrer un peu des tâches un petit peu séquentielle. Je crée le shred, je crée
+51:3451 minutes et 34 secondesle type fouly, je crée le prom thumbnail, je crée le poste, je je crée l'article de blog par exemple. C'est c'est un exemple. Bien, l'idée ici c'est
+51:4251 minutes et 42 secondesde se dire tu promptes et ça peut balancer des tâches en parallèle comme ça. Ça veut dire que par exemple ici donc tu as la source la vidéo de base et
+51:5051 minutes et 50 secondesbien tu vas lui dire vas-y lance tout ça en parallèle dans un camban et toi tu peux aussi rajouter des tâches intermédiaires et à la fin il va tourner
+51:5851 minutes et 58 secondestout ça en parallèle. Donc là je veux te prendre allez je vais te faire un exemple ici. Je lu dis bah fais-nous un prompte. Alors, j'en fais un de démo hein parce que j'ai pas envie, c'est un dry run parce que j'ai pas envie qu'il
+52:0652 minutes et 6 secondesaille [ __ ] la merde dans mes euh dans mes trucs. Donc en gros, tu peux le prompter ou tu peux les créer toi-même à la mainin. Ça veut dire que tu peux
+52:1352 minutes et 13 secondesaller euh directement ici euh dans Hermes et si tu veux aller créer des tâches ici, alors première chose ici, je te montre quand même, tu peux créer des
+52:2152 minutes et 21 secondesboards, ce qui s'appelle des boards, tu vois des bords, tu vasiras différents types de bords, création de contenu, démo, vidéo, la pure pause, machin. Donc
+52:2952 minutes et 29 secondescelui-là d'ailleurs, je vais le je vais l'archiver celui-là. Attends, pour pouvoir te relancer une démo. Et donc tu
+52:3652 minutes et 36 secondesas des board et à et à l'intérieur de ces bords, tu peux créer des staches, les mettre au dispatcher, tu peux les assigner, tu peux les les assigner à à
+52:4552 minutes et 45 secondesdes gens et cetera. Donc moi, typiquement, ce que je vais te faire, je je t'ai fait un petit promp mais tu peux te créer les promes et en fait tu dis tes touches. Là, je vais dire analyse la
+52:5252 minutes et 52 secondesdernière vidéo, créer le premier lien court, prépare le post LinkedIn, prépare le post là là. Enfin bref, tu vois, tu peux tu peux aller très loin dans le
+53:0153 minutes et 1 secondetruc. Donc là, par exemple, ce que je vais faire, allez, pour aller vite dans la vidéo, sinon ça va durer 3h. Allez, on va lui dire on va lui dire de faire ça. Allez, c'est parti. Donc là,
+53:0953 minutes et 9 secondesqu'est-ce qu'il nous a fait ? Oui, c'est la c'est le les postes de tout à l'heure he tu vois, il est allé créer tout ça Type fly programmé. D'ailleurs, je vais aller tout de suite supprimer le type fully avant qu'il aille avant, tu vois ?
+53:2053 minutes et 20 secondesDonc là, il est planifié. Ah le bâtard !
+53:2253 minutes et 22 secondesAh non, il a Ah non, ça c'est dans une heure. Tu vois, c'est ce que je t'ai dit tout à l'heure de de bah tu vois là, je peux d'ailleurs j'ai la vidéo qui est
+53:3053 minutes et 30 secondessortie sur ce sujet là. Je vais le laisser en fait, tu vois. Je l'ai laissé travailler. Je voulais en faire un test.
+53:3653 minutes et 36 secondesLes développeurs de CODMU, ce sont des product managers d'agent. Je te montre, c'est ma vidéo qui vient tout juste de sortir ici. C'est ma ma dernière vidéo
+53:4353 minutes et 43 secondesici. Tu vois, euh les développeurs ne codent plus, ils managent euh un développeur ne cod plus, manège des
+53:5053 minutes et 50 secondesagents, tu vois. C'est la vidéo qui vient de sortie. Il y a un prompte lié à ça. Lui, et bien tu vois, il a été capable de euh préparer de programmer le
+53:5953 minutes et 59 secondesle poste sur X avec le lien MKC qui va bien. Il a programmé tout ça et cetera avec le lien MKC pour LinkedIn et cetera
+54:0754 minutes et 7 secondeset cetera. Il a publié, il est allé jusqu'au bout du truc. On va le refaire maintenant en dry run avec ce texte. Go, je vais lui dire go sur ça pour voir. On
+54:1554 minutes et 15 secondesva voir s'il est capable. Donc là l'idée je ce que je veux te montrer en fait ici par à travers ce prompt c'est tout simple, je veux te montrer qu'on peut
+54:2354 minutes et 23 secondesprompter des tâches en parallèle et tu peux cumuler comme ça tout un tas de de choses par rapport à ton business, par
+54:3254 minutes et 32 secondesrapport à ton à ton activité. Allez, on va le laisser faire. Allez, qu'est-ce qu'il nous fait ? Il lit le il lit les skills, il regarde le blog API skills,
+54:3954 minutes et 39 secondestu vois. Donc il va il va aller fouiner un petit peu tout ce dont il a besoin.
+54:4354 minutes et 43 secondesLa Hermes Camban donc il cherche l'étage sur Hermes Camban et normalement on devrait le voir créer. Ça doit être
+54:5154 minutes et 51 secondescelle-là. Donc là il y a pas encore de data. Il vient juste de créer le board là normalement Hermes donc ils signe.
+54:5754 minutes et 57 secondesDonc tu vois il va travailler sur tout ça. Donc là il a l'air donc là on va l'approuver. Et voilà. Donc tu vois il exécute les il exécute les commandes
+55:0555 minutes et 5 secondesHermes blab blabla. On va lui holo pour la session comme ça il va nous générer tout ça. Est-ce qu'on a un peu plus de tâche ici ? Non, toujours pas. C'est
+55:1255 minutes et 12 secondesbien celui-làin. Ah non, c'est celui-là en fait. C'est celui-là qui vient de faire. Donc tu vois, il vient de il vient il est en mode simulation. Donc il t'a mis toutes les tâches en tout doux,
+55:2155 minutes et 21 secondestu vois. préparer les liens courts, préparer le post LinkedIn, préparer le post X, préparer le SRED, préparer le typefly, préparer les articles en FR,
+55:2955 minutes et 29 secondespréparer patch content registry parce que ça c'est un c'est un process interne. Il sait qu'à chaque fois qu'il y a un nouveau contenu, on doit mettre à jour le content registry. Synthèse
+55:3755 minutes et 37 secondesbriefal de Mike. Donc là, il a fait il a il a il a tout mis. On va le laisser tourner. L'idée hein, si on revient, c'est que bah de faire un prom comme ça.
+55:4655 minutes et 46 secondesLà, tu vois, c'est plus simple. Je je l'ai simplifier. Tu peux faire un prom comme ça. LinkedIn, tu l'assignes au au writer, au writer, au publisher, au
+55:5455 minutes et 54 secondesdesigner. Donc, tu peux vraiment après découper avec des agents plus précis euh ton truc directement et ensuite il va
+56:0256 minutes et 2 secondestravailler donc sur tous les articles de blog et il va être en progresse et cetera et cetera. Allez, il en est où notre ami ? Est-ce qu'il mouline ?
+56:0956 minutes et 9 secondesEst-ce qu'il mouline ? Est-ce qu'il mouline ? Donc il nous dit pour lancer la simulation. Donc il faut lancer ça machin. OK, je vais lui dire lance la simulation.
+56:1956 minutes et 19 secondesEn gros, démarre les tâches et les agents, mais je veux pas qu'ils aillent publiés sur Type Fully ou sur le blog.
+56:2656 minutes et 26 secondesVoilà, je je veux juste montrer que quand il démarre. Je veux juste montrer quand il démarre. Allez, hop, qu'il est en tout doux. Normalement, il devrait
+56:3456 minutes et 34 secondesdémarrer. Donc là, tu vois qu'il est en mode running. Tu vois, il vient de passer ici. Il vient de démarrer la dernière vidéo ici. OK, on peut aller
+56:4156 minutes et 41 secondesvoir ce qu'il fait. Donc tu vois mode simulation tat taat. On voit un peu tous les événements, on voit les enfants, tu
+56:5056 minutes et 50 secondesvois les tâche enfant. Est-ce que je peux cliquer dessus ? Non, je peux pas je pas cliquer dessus. [grognement] Et en gros, il travaille. Est-ce que je peux aller à droite ? Voilà, il te met
+56:5856 minutes et 58 secondesici aussi tous les fichiers dont il est qui qu'il utilise en fait. Tu vois le le graphe first recall. Je t'invite à aller
+57:0557 minutes et 5 secondesvoir ma vidéo sur graphify. Donc il va aller se baser sur le Obsidian pour aller récupérer tout ça. La démo de vidéo search tat taat. Donc il récupère
+57:1457 minutes et 14 secondestout ça et en gros bah il travaille. Tu vois qu'il nous a mis un petit commentaire. Qu'est-ce qu'il nous a dit comme commentaire ? Il est où ? Donc ça c'est le log. Donc on voit les logs ici.
+57:2357 minutes et 23 secondesIl est allé sur leidian. Il allait récupérer l'obsidienne. OK. OK. Donc là, tu vois qu'il continue, hein. Donc il
+57:3057 minutes et 30 secondesvoit tu vois qu'il est en mode, il vient de il vient de passer en donne l'analyse de la dernière vidéo. Il vient de préparer aussi les liens courts ici.
+57:3957 minutes et 39 secondesQu'est-ce qu'il nous a mis sur les liens courts ? Pas trop de data sur les liens courts. Donc ça c'est bon. Et tu vois que les autres tâches de création du
+57:4757 minutes et 47 secondesposte LinkedIn du X et cetera, c'est en cours tout simplement. Voilà. Bon, je vais pas aller, on va pas attendre tout ça sinon la vidéo va être longue. Mais
+57:5457 minutes et 54 secondestu vois que en gros ici et bien tu peux créer des bordes et surtout et bien tu vas pouvoir donner des tâches. Il va
+58:0258 minutes et 2 secondesêtre capable de découper les tâches et tout peut être prompté en fait hein. Tu vois là ça y est, il vient de faire tourner aussi SED, Post et LinkedIn. Il
+58:0958 minutes et 9 secondesest en train de travailler. Donc là, tu viens, tu vois qu'il vient de de passer tout ça en donne. Allez, on va regarder sur on va regarder un petit peu ce qu'il nous a préparé comme poste XS red ici.
+58:2058 minutes et 20 secondesAllez, hop, running. Donc là, il passe sur le pelst linkin. Allez, qu'est-ce qu' nous a fait Post LinkedIn ? Bah voilà, tu vois que il allé un peu loin.
+58:2858 minutes et 28 secondesC'est ch on peut pas bien écarter les colonnes ici, mais euh tu vois qu'il a repris pas mal de choses. Bon bref, on va pas aller plus loin. Je pense que tu
+58:3758 minutes et 37 secondesauras compris la logique ici. Allez, qu'est-ce qu'on a d'autre comme slide ?
+58:4158 minutes et 41 secondesBien, en gros, l'idée c'est de te dire que ce qu'on a vu depuis le début, je peux te faire un récap ici, ce qu'on a vu depuis le début c'est c'est de
+58:5058 minutes et 50 secondescombiner c'estàd de tu dis j'ai les CLI, j'ai des skills. Déjà avec ça des CLI plus des skills, tu peux déjà organiser toute ton activité, tout ton business.
+58:5958 minutes et 59 secondesUne fois que tu as bien ça carré, c'est nickel. Maintenant faut vraiment dire qu'à chaque fois que tu lances avec la commande goal ou background et cetera ou
+59:0659 minutes et 6 secondesmême juste des promptes, et bien tout ça va mourir avec la session. Ça veut dire que ta session, elle a une durée de vie, tu es limité en terme de token et cetera
+59:1559 minutes et 15 secondeset puis après on on oublie un petit peu tout. Si tu fais des choses qui sont un peu plus avancé et que tu veux que ça soit fait en parallèle un peu justement
+59:2259 minutes et 22 secondescomme ça et que c'est des que c'est des projets qui peuvent être plus longs, qui peuvent que tu as envie de revenir dans quelques temps, savoir où tu en es et
+59:2959 minutes et 29 secondescetera, et bien le fait de te créer un cambon le voit ici et bien ça va
+59:3659 minutes et 36 secondespersister avec le temps même si tu redémarres et cetera. Pourquoi ? parce qu'en fait le camban il va être sauvegardé à chaque fois. J'ai mon CBO
+59:4459 minutes et 44 secondesaussi, je l'ai aussi sur mon agenti anticos que je peux te montrer ici hein.
+59:4959 minutes et 49 secondesJ'ai des tâches. Bon là je suis en mode dev mais c'est quelque chose qui survit à la session et donc voilà ça dépend en fait si faut que tu te dises soit tu
+59:5859 minutes et 58 secondesl'utilises en mode skills session chron et cetera de manière automatique mais dès que tu as des choses qui que tu veux que ça tienne dans le temps et bien le
+1:00:061 heure et 6 secondescampan et là pour ça allez qu'est-ce qu'on a vu ? tout ça. Donc ce qu'on a construit, un VPS, des clits, des skills, un board. Voilà, bah c'est tout.
+1:00:151 heure et 15 secondesEt bien voilà, je pense qu'on arrive à la fin de cette vidéo. Donc si tu veux toi aussi démarrer rapidement, encore une fois je le répète, si tu veux
+1:00:231 heure et 23 secondesdémarrer rapidement un VPS sans avoir toute la configuration comme je l'ai fait dans la vidéo sur Hermes que j'ai sorti justement qui est assez long, qui
+1:00:311 heure et 31 secondesdure 1 heure presque 1 heure et qui va dans les détails he c'est celle-ci ici.
+1:00:371 heure et 37 secondesSi ça je t'invite d'aller la voir parce qu'on reprend les mécanismes de télégram et cetera, mais c'est vraiment orienté installation depuis un serveur VPS avec
+1:00:451 heure et 45 secondesle le compte route. Tu vois, ça prend du temps. Si tu veux aller plus vite, ce que tu fais et bien tu passes dans le lien de la description de cette vidéo.
+1:00:541 heure et 54 secondesTu vas arriver ici comme je te l'ai dit et tu vas pouvoir déployer un agent Hermes relativement rapidement pour
+1:01:011 heure, 1 minute et 1 secondequelques euros par mois, 7 dollars par mois. Et n'oublie pas encore une fois, je t'ai négocié une petite réduction de
+1:01:091 heure, 1 minute et 9 secondesquand même 10 %. Donc déjà de base, tu passes de 602 à 214 €. Tu rajoutes le code My Coder et là alors My Coder sans
+1:01:171 heure, 1 minute et 17 secondesle sans le E. Et là, tu vas pouvoir encore avoir 10 % de réduction, ce qui fait que tu vas pouvoir, comme on l'a vu dans cette vidéo, démarrer un agent
+1:01:261 heure, 1 minute et 26 secondesHermes relativement [musique] simplement et rapidement. Voilà, je te mets le lien de dans la description. Je te dis à bientôt pour une prochaine vidéo [musique] et tiens, je te remets le lien
+1:01:351 heure, 1 minute et 35 secondesde la vidéo sur Hermes. Comment on l'installe en mode route. C'est cette vidéo là. [musique]
+
+Tout
+
+Source : Mike Codeur
+
+Programmation informatique
+
+Vidéos similaires
+
+Regardées
+
+
+2:09:17
+De sans-abri à un empire de +150M€ : ARGENT, POUVOIR, VÉRITÉ… le vrai prix à payer (Anthony Bourbon)
+Le Déclic par Alec Henry
+238 k vues
+•
+il y a 1 an
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+170 k vues
+•
+il y a 8 jours
+
+
+33:02
+I Wasn’t a Football Fan… Then I Went to the World Cup
+Kika Kim
+1,3 M de vues
+•
+il y a 11 jours
+Sélection YouTube
+
+
+24:40
+Kimi K3 : ce modèle chinois vient d'humilier Claude
+Vision IA
+3,9 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+19:02
+Contracter volontairement = CONTRE-PRODUCTIF
+Le Musclay
+63 k vues
+•
+il y a 1 an
+
+
+1:40
+LE CHANGEMENT DE RYTHME : l'astuce pour SURPRENDRE vos adversaires
+Padel Now
+50 vues
+•
+il y a 15 heures
+Nouveau
+
+
+33:26
+Prévenir et guérir les tendinites (feat. un kiné !)
+Le Musclay
+148 k vues
+•
+il y a 4 ans
+
+
+31:20
+90 % des compléments sont inutiles
+Bodytime
+11 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+45:36
+Je m’entraîne avec un MONSTRE : ANDREW JACKED
+Théo Leguerrier
+62 k vues
+•
+il y a 1 an
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+
+37:12
+DEVINE QUI EST NATTY ? #10 (Tibo l’antagoniste) feat @TiboInShape 
+CoronaGymOff et Tibo InShape
+484 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+2:43:35
+Expert en langage corporel : arrêtez ça, cela fait que les gens ne vous aiment pas
+The Diary Of A CEO
+13 M de vues
+•
+il y a 1 an
+Doublée
+
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+717 k vues
+•
+il y a 2 jours
+Nouveau
+Doublée
+
+
+2:24:14
+Expert du sommeil : Ne pas uriner la nuit et pourquoi le sexe nocturne est mauvais
+The Diary Of A CEO
+ et Sleep Doctor
+10 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+54 k vues
+•
+il y a 3 semaines
+
+
+37:51
+GPT 5.6 Sol vs Fable 5 : La vraie leçon de cette semaine
+IA et Stratégie | Le SamourAI
+12 k vues
+•
+il y a 8 jours
+
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+11 k vues
+•
+il y a 1 jour
+Nouveau
+
+2:02:28
+🎙️COMPLOTISTE VS ZETETICIEN ! (avec Mr Sam) [Pas Content avec Tabibian !]
+J'suis pas content TV
+154 k vues
+•
+il y a 5 mois
+
+1:08:39
+Il raconte comment vivent les ultra-riches
+Finary
+431 k vues
+•
+il y a 3 mois
+
+39:46
+Essan analyse mon physique | séance pec & biceps
+Stephane Matala
+166 k vues
+•
+il y a 1 mois
+
+    
