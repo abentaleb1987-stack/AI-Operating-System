@@ -2,18 +2,18 @@
 
 ## Resume executif
 
-- Decision d'audit : GO partiel
-- Niveau de risque maximal : moyen
-- Commit audite : 80184e1
+- Decision d'audit : GO
+- Niveau de risque maximal : faible
+- Commit audite : 58547a7
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-23 03:48:24
-- Alertes prioritaires Aion : 1
+- Rapport genere le : 2026-07-23 10:06:28
+- Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
 
 ## À traiter par Aion
 
-- moyen - `02_IA/Gemma/fiche_permanente.md` - speculation : Formulation speculative detectee dans une section forte. Terme : "a surveiller" ; section : "13. Decisions strategiques" ; ligne 59 : "Sujet a surveiller. Aucune adoption ni recommandation d'usage n'est validee avant documentation officielle ou tests AOS reproductibles.". Recommandation : Verifier que ces elements restent en points a surveiller et ne sont pas presentes comme faits valides.
+- Aucune alerte prioritaire.
 
 ## Alertes traitées ou déjà atténuées
 
@@ -25,12 +25,10 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `58547a7` - 2026-07-23 03:48:25 +0000 - Audit - docs(aos): add daily audit report
 - `80184e1` - 2026-07-23 01:13:45 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
 - `d54d133` - 2026-07-22 21:25:49 +0200 - Knowledge batch - docs(aos): process video source batch
 - `d19dcd8` - 2026-07-22 10:07:56 +0000 - Audit - docs(aos): add daily audit report
-- `1f8bb64` - 2026-07-22 10:55:42 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `0b97f9b` - 2026-07-22 10:05:39 +0200 - Knowledge batch - docs(aos): reduce Gemma permanent fiche to validated minimum
-- `35ae60e` - 2026-07-22 03:50:26 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -38,8 +36,6 @@ Dernieres 24h ou fallback 10 commits recents
 
 - `80184e1` - 2026-07-23 01:13:45 +0200 - docs(aos): integrate multi-source AI watch batch
 - `d54d133` - 2026-07-22 21:25:49 +0200 - docs(aos): process video source batch
-- `1f8bb64` - 2026-07-22 10:55:42 +0200 - docs(aos): integrate multi-source AI watch batch
-- `0b97f9b` - 2026-07-22 10:05:39 +0200 - docs(aos): reduce Gemma permanent fiche to validated minimum
 
 ### Protocol / system
 
@@ -51,17 +47,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `58547a7` - 2026-07-23 03:48:25 +0000 - docs(aos): add daily audit report
 - `d19dcd8` - 2026-07-22 10:07:56 +0000 - docs(aos): add daily audit report
-- `35ae60e` - 2026-07-22 03:50:26 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `58547a7` - 2026-07-23 03:48:25 +0000 - Audit - docs(aos): add daily audit report
 - `d19dcd8` - 2026-07-22 10:07:56 +0000 - Audit - docs(aos): add daily audit report
-- `35ae60e` - 2026-07-22 03:50:26 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 6
+- Nombre de commits analyses : 4
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -72,10 +68,8 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-22_audit-journalier-aos.md
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-21_youtube_jonas-roman_ontologie-gouvernance-connaissances_transcript.txt
+- A 00_System/audits/daily/2026-07-23_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_melvynx_multiagent-workflow-codex_transcript.txt
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_mike-codeur_hermes-workflows-vps-skills_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai-academy_chatgpt-petites-entreprises_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai-podcast_ia-sport-automobile_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_bny-optimisme-ia_transcript.txt
@@ -84,8 +78,6 @@ Dernieres 24h ou fallback 10 commits recents
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_shopify-chatgpt-work-agents_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_virgin-atlantic-chatgpt-work_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_social-scaling_audience-network-qualite-trafic_transcript.txt
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_vision-ia_kimi-k3-annonces-open-weights_transcript.txt
-- A 02_IA/Agents IA/veille/2026-07-21_youtube_jonas-roman_ontologie-gouvernance-connaissances.md
 - A 02_IA/Agents IA/veille/2026-07-22_youtube_openai-podcast_ia-sport-automobile.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai-academy_chatgpt-petites-entreprises.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_bny-optimisme-ia.md
@@ -94,18 +86,15 @@ Dernieres 24h ou fallback 10 commits recents
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_shopify-chatgpt-work-agents.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_virgin-atlantic-chatgpt-work.md
 - A 02_IA/Codex/veille/2026-07-22_youtube_melvynx_multiagent-workflow-codex.md
-- A 02_IA/Hermes/veille/2026-07-22_youtube_mike-codeur_hermes-workflows-vps-skills.md
-- A 02_IA/Kimi/veille/2026-07-22_youtube_vision-ia_kimi-k3-annonces-open-weights.md
 - A 02_IA/Meta Ads/veille/2026-07-22_youtube_social-scaling_audience-network-qualite-trafic.md
 
 ## Fichiers modifies
 
 - M 00_System/audits/daily/2026-07-22_audit-journalier-aos.md
-- M 02_IA/Gemma/fiche_permanente.md
 
 ## Fiches permanentes impactees
 
-- M 02_IA/Gemma/fiche_permanente.md
+- Aucun element detecte.
 
 ## Nouvelles fiches permanentes creees
 
@@ -117,7 +106,6 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- A 02_IA/Agents IA/veille/2026-07-21_youtube_jonas-roman_ontologie-gouvernance-connaissances.md
 - A 02_IA/Agents IA/veille/2026-07-22_youtube_openai-podcast_ia-sport-automobile.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai-academy_chatgpt-petites-entreprises.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_bny-optimisme-ia.md
@@ -126,15 +114,11 @@ Dernieres 24h ou fallback 10 commits recents
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_shopify-chatgpt-work-agents.md
 - A 02_IA/ChatGPT/veille/2026-07-22_youtube_openai_virgin-atlantic-chatgpt-work.md
 - A 02_IA/Codex/veille/2026-07-22_youtube_melvynx_multiagent-workflow-codex.md
-- A 02_IA/Hermes/veille/2026-07-22_youtube_mike-codeur_hermes-workflows-vps-skills.md
-- A 02_IA/Kimi/veille/2026-07-22_youtube_vision-ia_kimi-k3-annonces-open-weights.md
 - A 02_IA/Meta Ads/veille/2026-07-22_youtube_social-scaling_audience-network-qualite-trafic.md
 
 ## Sources traitees
 
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-21_youtube_jonas-roman_ontologie-gouvernance-connaissances_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_melvynx_multiagent-workflow-codex_transcript.txt
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_mike-codeur_hermes-workflows-vps-skills_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai-academy_chatgpt-petites-entreprises_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai-podcast_ia-sport-automobile_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_bny-optimisme-ia_transcript.txt
@@ -143,27 +127,26 @@ Dernieres 24h ou fallback 10 commits recents
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_shopify-chatgpt-work-agents_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_openai_virgin-atlantic-chatgpt-work_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_social-scaling_audience-network-qualite-trafic_transcript.txt
-- A 01_Collecte/sources_brutes/videos/traitees/2026-07-22_youtube_vision-ia_kimi-k3-annonces-open-weights_transcript.txt
 
 ## Toutes les alertes détectées
 
-### AUDIT-20260723-001 - speculation
+### AUDIT-20260723-001 - hygiene
 
-- Risque : moyen
-- Fichier concerne : `02_IA/Gemma/fiche_permanente.md`
-- Observation : Formulation speculative detectee dans une section forte. Terme : "a surveiller" ; section : "13. Decisions strategiques" ; ligne 59 : "Sujet a surveiller. Aucune adoption ni recommandation d'usage n'est validee avant documentation officielle ou tests AOS reproductibles.".
-- Recommandation : Verifier que ces elements restent en points a surveiller et ne sont pas presentes comme faits valides.
+- Risque : faible
+- Fichier concerne : `repository`
+- Observation : Aucune anomalie V1 detectee par les heuristiques locales.
+- Recommandation : Lecture humaine optionnelle du rapport.
 - Decision attendue : Aion / utilisateur / Codex sur demande
 
 ## Risques par categorie
 
 ### Risque faible
 
-- Aucun risque detecte.
+- `repository` - hygiene : Aucune anomalie V1 detectee par les heuristiques locales.
 
 ### Risque moyen
 
-- `02_IA/Gemma/fiche_permanente.md` - speculation : Formulation speculative detectee dans une section forte. Terme : "a surveiller" ; section : "13. Decisions strategiques" ; ligne 59 : "Sujet a surveiller. Aucune adoption ni recommandation d'usage n'est validee avant documentation officielle ou tests AOS reproductibles.".
+- Aucun risque detecte.
 
 ### Risque eleve
 
@@ -175,7 +158,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Recommandations
 
-- Verifier que ces elements restent en points a surveiller et ne sont pas presentes comme faits valides.
+- Lecture humaine optionnelle du rapport.
 
 ## Etat Git final
 
