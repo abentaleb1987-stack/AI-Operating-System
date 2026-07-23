@@ -1,0 +1,1175 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Comment utiliser Hermes GRATUITEMENT à VIE
+Hugo Buisson
+Hugo Buisson
+10,9 k abonnés
+
+
+36
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+769 vues  Sortie le 22 juil. 2026
+▸ Tu préfères te former toi-même ?
+
+https://bridge.agentic-os.fr/w/v020
+
+▸ Tu veux ce genre de système dans ton entreprise ?
+
+https://bridge.agentic-os.fr/c/v020
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Cette vidéo montre comment configurer Hermes Agent avec OpenRouter pour utiliser des modèles d’IA gratuits sans ordinateur puissant. Depuis un VPS ou une machine dédiée, elle détaille la création d’une clé API OpenRouter, son ajout à Hermes et l’utilisation d’un assistant comme Claude pour adapter les commandes. La démonstration crée ensuite Frida, un worker chargé de produire des B-rolls dans une surcouche AgenticOS, puis montre la délégation et la validation du résultat par Ingrid. Tu verras aussi le Free Models Router, le basculement entre modèles gratuits en cas de surcharge et les vrais rate limits d’OpenRouter : 20 requêtes par minute, 50 par jour sans paiement et jusqu’à 1 000 par jour après un dépôt de 10 $. Si tu cherches à faire tourner Hermes Agent gratuitement tout en comprenant ses limites et ses compromis, cette vidéo te donne la méthode complète.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROMPT :
+
+Mon Hermes Agent tourne dans un conteneur Docker sur un VPS Hostinger (image
+nousresearch/hermes-agent). Je te donne l'accès SSH à ce VPS et ma clé API
+OpenRouter. Fais deux choses, entièrement via SSH + docker : connecte Hermes à
+OpenRouter, puis débloque TOUS les modèles gratuits utilisables (compatibles
+tool-calling) dans le sélecteur, plus openrouter/free.
+
+Ce qu'il faut savoir sur ce setup, pour t'éviter de deviner :
+Hermes tourne dans un conteneur : repère-le avec `docker ps` (image
+  nousresearch/hermes-agent). Toutes les actions se font DEDANS (docker exec).
+Sa config vit dans HERMES_HOME=/opt/data : config /opt/data/config.yaml,
+  clés /opt/data/.env, cache du sélecteur /opt/data/cache/model_catalog.json.
+Le sélecteur ne lit pas tout /v1/models : il part d'une liste curatée puis
+  filtre par prix (gratuit) et support des outils. Pour en montrer plus, on
+  étend cette liste via un manifeste local + le bloc model_catalog.
+Ne me demande jamais de resaisir mes secrets, ne les affiche jamais, ne les
+  écris dans aucun log.
+
+Fais, dans cet ordre, en vérifiant la vraie structure du conteneur avant :
+1. Sauvegarde /opt/data/config.yaml (dans le conteneur).
+2. Connecte OpenRouter : mets `provider: "openrouter"` et
+   `base_url: "https://openrouter.ai/api/v1"` dans le bloc `model:` de
+   /opt/data/config.yaml, et écris ma clé dans /opt/data/.env sous
+   OPENROUTER_API_KEY (sans l'afficher).
+3. Interroge https://openrouter.ai/api/v1/models et retiens tous les modèles
+   GRATUITS (pricing prompt ET completion = "0") qui listent "tools" dans
+   supported_parameters. Ajoute openrouter/free.
+4. Écris un manifeste /opt/data/openrouter-free.json au format EXACT :
+   {"version": 1, "providers": {"openrouter": {"models": [{"id": "..."}]}}}
+   Il doit contenir les modèles OpenRouter déjà curatés PLUS tous les
+   gratuits+outils ci-dessus.
+5. Ajoute dans /opt/data/config.yaml le bloc :
+   model_catalog:
+     enabled: true
+     url: "file:///opt/data/openrouter-free.json"
+6. Supprime le cache /opt/data/cache/model_catalog.json.
+7. VÉRIFIE réellement (ne te fie pas au fichier écrit) : compte les modèles
+   gratuits que le sélecteur montrera pour openrouter, avant et après. Tu peux
+   le faire en appelant hermes_cli.models.fetch_openrouter_models(
+   force_refresh=True) avec le python du conteneur
+   (/opt/hermes/.venv/bin/python, PYTHONPATH=/opt/hermes). Confirme que (a) le
+   nombre de gratuits a augmenté et (b) openrouter/free est présent. Si l'une
+   échoue, NE me dis PAS que c'est bon : dis ce qui a raté.
+8. Ne désactive jamais le filtre outils : un modèle sans "tools" plante à la
+   sélection. Dis-moi combien de gratuits ont été exclus faute d'outils.
+
+À la fin : dis-moi de relancer Hermes et donne-moi le compte de gratuits
+AVANT / APRÈS.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️ CHAPITRES
+
+00:00 Faire tourner Hermes gratuitement
+00:22 Choisir une machine dédiée ou un VPS
+01:10 Automatiser l’installation avec un assistant
+02:26 Connecter OpenRouter à Hermes
+04:11 Découverte de la surcouche AgenticOS
+05:23 Créer Frida avec un modèle gratuit
+06:25 Construire son outil de B-rolls
+07:08 Déléguer une tâche à Frida
+08:34 Résultat de la génération
+09:01 Comprendre les limites d’OpenRouter
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Hugo Buisson
+10,9 k abonnés
+Vidéos
+À propos
+3 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Hugo_Buisson
+@Hugo_Buisson
+il y a 1 jour
+▸ Construis ton Agentic OS et profite de ton équipe d’agents IA 24/7
+
+https://bridge.agentic-os.fr/w/v020
+
+1
+
+
+
+Répondre
+
+
+@luclememe934
+il y a 12 heures
+Sur le papier c'est génial open router mais effectivement ca bloque très vite, modèles surchargés ou limites atteintes. Le mieux edt de brancher Hermes (en local) sur LMstudio et de faire tourner un modèle en local (à choisir en fonction des capacités de sa machine) .
+
+1
+
+
+
+Répondre
+
+Hugo Buisson
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Faire tourner Hermes gratuitement
+0:00
+Ça c'est Hermes et c'est un outil qui
+0:02
+est extrêmement puissant mais qui peut
+0:04
+te coûter très cher si tu l'utilises
+0:06
+beaucoup. C'est pour ça que dans cette
+0:07
+vidéo, je vais te montrer exactement
+0:09
+comment faire pour que tu puisses dès
+0:11
+maintenant faire tourner Hermes
+0:13
+gratuitement à vie et sans avoir besoin
+0:15
+d'un ordinateur puissant. Pour être sûr
+0:17
+que tout fonctionne, on fera [musique]
+0:19
+une batterie test à notre agent Hermes
+0:21
+pour voir de quoi il est capable. Bon,
+Choisir une machine dédiée ou un VPS
+0:22
+déjà pour réaliser cette vidéo, ce qu'il
+0:24
+va falloir, c'est avoir une instance
+0:26
+Hermes fonctionnelle. Donc soit comme
+0:28
+ici, tu peux prendre un VPS Hostinger.
+0:31
+Ce que tu peux aussi faire, c'est le
+0:33
+mettre en local sur un ordinateur.
+0:35
+Hermes consomme pas grand-chose en terme
+0:37
+de ressources. Par contre là, je te
+0:38
+mettrai juste en garde en point de vue
+0:40
+sécurité que tu fasses pas héberger
+0:43
+Hermes sur ton ta machine personnelle,
+0:46
+celle que tu utilises au quotidien parce
+0:48
+que ce sont des agents autonomes. Donc
+0:50
+en fonction de ce que tu fais, ça risque
+0:51
+d'être plus ou moins risqué. Ce que je
+0:53
+te conseille, c'est plus de soit passer
+0:55
+par une machine en local, un ordinateur
+0:57
+que tu utilises plus et mettre Hermes
+0:59
+dessus, soit passer par un VPS comme
+1:01
+Hostinger. Là, on se retrouve sur mon
+1:02
+VPS de test. C'est ça que j'utilise pour
+1:04
+faire absolument tout et n'importe quoi,
+1:07
+notamment cette vidéo. Et ici, on va
+1:09
+avoir besoin de plusieurs informations.
+Automatiser l’installation avec un assistant
+1:10
+Déjà, faut savoir qu'on a plusieurs
+1:12
+choix pour réaliser les manipulations.
+1:14
+Soit on fait tout à la main, ça prend du
+1:16
+temps, c'est rébarbatif et ça n'apporte
+1:19
+pas grand-chose en terme de plus-value.
+1:21
+Soit on passe par un assistant IA comme
+1:24
+Claude, comme Codex ou comme Antigravity
+1:28
+et cetera. Il y a aussi des solutions
+1:29
+d'avoir du coup des assistants avec des
+1:31
+modèles qui seront gratuits dans lequel
+1:33
+tu auras pas besoin de payer. Moi dans
+1:35
+mon cas, j'utilise Cloud mais tu peux
+1:36
+utiliser d'autres modèles, d'autres
+1:38
+assistants avec euh du quota gratuit. Et
+1:40
+franchement, moi je préfère passer par
+1:41
+ces assistants-là parce que il peut lire
+1:44
+les instructions, adapter les commandes,
+1:46
+vérifier que tout se lance et se
+1:49
+configure correctement. Franchement, si
+1:51
+tu es pas développeur, cette solutionlà
+1:54
+est généralement bien plus fiable que de
+1:56
+le faire toi-même. Pour ça, on va avoir
+1:57
+besoin de deux choses ici sur ce VPS, de
+2:00
+l'accès route et du mot de passe route.
+2:03
+Donc normalement, tu as ton mot de
+2:05
+passe, tu as eu ton mot de passe route à
+2:06
+la création du VPS Hostinger. Sinon, tu
+2:09
+peux tout simplement le modifier si tu
+2:10
+l'as oublié. Si tu passes par un autre
+2:12
+hébergeur, ça sera exactement la même
+2:13
+logique. Attention, on va donner des
+2:15
+accès à Claude par exemple sur ta
+2:17
+machine. Faut savoir que la bonne
+2:18
+pratique serait de changer son mot de
+2:20
+passe route à chaque fois qu'on a
+2:22
+terminé de travailler avec Claude. Comme
+2:23
+ça, on est tranquille, son mot de passe
+2:24
+change à chaque fois et on est sûr qu'il
+2:25
+y a pas de fuite. Ces informations-l ne
+Connecter OpenRouter à Hermes
+2:27
+suffisent pas en tant que tel parce
+2:29
+qu'il va nous falloir le cerveau de
+2:31
+notre agent Airb qui va nous permettre
+2:32
+de pouvoir les faire tourner
+2:33
+gratuitement. Et pour ça, je vais
+2:35
+utiliser Open Router. Alors, Open
+2:37
+Router, c'est un outil qui est très
+2:39
+connu, qui comme dans son nom l'indique,
+2:40
+est un routeur. C'est-à-dire que en tant
+2:42
+que tel, il n'héberge pas de modèle
+2:45
+DIIA, mais a est une plateforme qui
+2:48
+permet de centraliser des dizaines et
+2:50
+des dizaines de modèles d'intelligence
+2:51
+artificielle pour qu'avec une seule clé
+2:54
+API, on puisse avoir accès à des
+2:57
+dizaines de modèles d'ar. Mais ce qu'il
+2:58
+faut savoir sur Open Router, c'est qu'il
+3:00
+y a des modèles qui sont gratuits. Comme
+3:03
+tu peux le voir juste ici par exemple,
+3:04
+on a le modèle Lakuna S2.1 qui est
+3:07
+gratuit. Si je tape free dans la barre
+3:09
+de recherche, on va voir qu'on en a une
+3:11
+bonne dizaine. On a notamment d'ailleurs
+3:13
+Google GMA 4 et c'est exactement ça
+3:15
+qu'on va utiliser pour ça. Donc je vais
+3:17
+aller dans personal, je vais aller
+3:19
+ensuite dans préférence juste ici et je
+3:21
+vais me créer ici une APIK. Donc je fais
+3:24
+nuk key, je lui donne un nom, peu
+3:25
+importe, agenticos, ou ce que tu veux
+3:28
+importe. Ensuite je lui donne une date
+3:30
+d'expiration. Moi pour la vidéo, je vais
+3:32
+mettre simplement une heure et je vais
+3:34
+pouvoir faire créer. Cette clé à API, il
+3:36
+faut la copier et il faudra aussi
+3:38
+l'envoyer à ton assistant Chlor, Google
+3:40
+Anti Gravity, peu importe. Une fois que
+3:41
+c'est fait, tu devras mettre donc le
+3:43
+prompt qui est juste ici que je te mets
+3:46
+dans la description de cette vidéo. Dans
+3:47
+ce prompt, tu inclues donc la clé API
+3:49
+open router, l'accès route et le mot de
+3:51
+passe route de ton VPS. et il s'occupera
+3:53
+de faire automatiquement la connexion
+3:55
+avec Open Router. Ce qui est bien avec
+3:56
+ce prompt, il faut savoir que quand tu
+3:58
+fais toi-même la connexion avec Open
+4:00
+Router et Hermes, par défaut, de
+4:03
+mémoire, c'est trois modèles qui vont
+4:05
+être inclus qui sont écrits en dur. Donc
+4:07
+en fait, de base, tu n'as pas tous ces
+4:09
+modèles gratuits disponibles sur Hermes.
+Découverte de la surcouche AgenticOS
+4:11
+Bon, maintenant que la configuration est
+4:12
+prête, je vais passer directement à mon
+4:15
+agent. Mon agenti Quest, c'est une
+4:17
+surcouche que j'ai créé sur mesure pour
+4:19
+orchestrer plusieurs équipes d'agent. Ça
+4:21
+me permet moi d'avoir une interface et
+4:23
+d'avoir plein de fonctionnalités qui
+4:25
+sont pas disponibles nativement dans
+4:27
+Hermes comme la possibilité d'avoir
+4:28
+juste ici des channels pour que les
+4:30
+agents puissent discuter ensemble et
+4:32
+débattre. Ce qui permet donc de pouvoir
+4:34
+créer beaucoup plus facilement. Je peux
+4:36
+tout organiser par pôle. Je peux créer
+4:37
+par exemple des nouveaux pôles. Pour les
+4:39
+agents, je peux aller configurer leur
+4:41
+modèles, aller gérer leurs mémoire,
+4:43
+leurs automatisations, aller discuter
+4:46
+avec eux en privé, enfin bref, plein de
+4:48
+fonctionnalités que j'ai dû développer
+4:49
+un petit peu à la main pour justement
+4:51
+contrebalancer tous les manquements qu'
+4:53
+avait Herm et qui moi me me posait
+4:55
+problème. D'ailleurs, si cet agent
+4:57
+t'intéresse, premier lien dans la
+4:59
+description. Tu peux te préinscrire à
+5:01
+une communauté que je vais lancer très
+5:02
+prochainement où tu pourras d'ailleurs
+5:03
+avoir accès à cet agent là, mais pas
+5:05
+que. Il y aura des lives, il y aura une
+5:06
+communauté tout autour justement de
+5:08
+Hermes pour que tu puisses toi-même
+5:10
+créer ta vraie équipe d'agent IA. Si tu
+5:12
+te préinscrits, tu auras moins 40 % sur
+5:14
+le prix de lancement. Par contre, si tu
+5:16
+es une entreprise et que tu veux créer
+5:17
+quelque chose de surmesure et que tu
+5:19
+veux automatiser des systèmes, je te
+5:20
+laisse prendre un appel avec moi. C'est
+5:22
+le deuxième lien dans la description.
+Créer Frida avec un modèle gratuit
+5:24
+Bon, on va aller dans mon pôle YouTube
+5:25
+et je vais maintenant créer un nouvel
+5:27
+agent. Quand je fais ça dans mon agent
+5:28
+TIOS, c'est comme si toi tu venais créer
+5:30
+un nouveau profil sur Hermes. Je vais
+5:31
+l'appeler par exemple Frida. Le nom de
+5:33
+son outil, je vais l'appeler par exemple
+5:34
+Byol. Et on va aller maintenant ici dans
+5:37
+les modèles. Ici moi j'ai euh plusieurs
+5:40
+sources de modèles qui sont connectées.
+5:41
+J'ai GPT notamment avec les derniers
+5:43
+modèles. J'ai Olama Open Router. Comme
+5:46
+tu peux le voir juste ici et j'ai bien
+5:48
+tous les modèles gratuits parce que mon
+5:50
+prompt a bien fait effet. Chose
+5:51
+importante à savoir sur les modèles
+5:52
+gratuits, il se peut qu'il y ait trop de
+5:55
+requêtes au même moment sur un modèle et
+5:57
+donc que tu ne puisses tout simplement
+5:59
+pas effectuer ta requête, que le modèle
+6:01
+soit surchargé. Pour contrer ça, tu peux
+6:03
+utiliser juste ici free model router. Ce
+6:06
+qui va dire que donc quand tu vas
+6:07
+envoyer une requête au modèle gratuit de
+6:09
+Open Router, si par exemple la requête
+6:12
+allait être envoyée par exemple à GMA et
+6:13
+que à ce moment-là GMA est surchargé, et
+6:16
+bien ça va automatiquement te router ta
+6:18
+requête sur un autre modèle gratuit. Moi
+6:20
+pour l'exemple de cette vidéo, je vais
+6:21
+utiliser Laguna S2.1 free et je vais
+6:23
+pouvoir faire créer le worker plus son
+Construire son outil de B-rolls
+6:25
+outil. Dans la logique de mon agent,
+6:27
+chaque agent possède son outil. C'est
+6:29
+simplement un endroit où je peux
+6:31
+visualiser tout ce que fait mon agent.
+6:33
+Comme par exemple, ça c'est mon outil de
+6:35
+veille pour YouTube. Mon agent peut
+6:37
+travailler dessus en bas à droite, je
+6:38
+peux discuter avec lui, lui demander des
+6:40
+choses. Bref, ça c'est son outil et moi
+6:42
+je vais en avoir besoin pour pouvoir
+6:43
+tester le modèle d'aujourd'hui en créant
+6:46
+ce qu'on appelle des birolls. C'est
+6:47
+simplement ça, des euh vidéos
+6:50
+d'illustration par-dessus ma vidéo qui
+6:52
+te permet d'illustrer mes propos. Pour
+6:54
+ça, je dois développer avec Claude
+6:56
+pendant 5 minutes un outil qui me
+6:57
+permettra de visualiser un petit peu ce
+6:59
+que va me procurer cet agent. Et voilà,
+7:02
+c'est bon, maintenant l'outil est prêt.
+7:03
+Donc Freida peut maintenant créer ses
+7:05
+scènes, les enregistrer, les afficher
+7:07
+dans une galerie. Ce que je vais faire,
+Déléguer une tâche à Frida
+7:08
+c'est aller dans le pôle YouTube, donc
+7:10
+du coup ouvrir une nouvelle session et
+7:11
+aller pingrid. Ingrid qui est la
+7:14
+managuse du coup du pôle YouTube. Et je
+7:16
+vais lui demander est-ce que tu peux
+7:18
+déléguer la création des Beolls à Frida
+7:21
+pour du coup la la vidéo qui est en
+7:22
+cours de production. sur rendre Hermes
+7:25
+gratuit grâce à Open Router. Je fais
+7:27
+entrer. Vu que j'ai mis le arobase
+7:29
+ingrid automatiquement ça va la
+7:31
+déclencher et on peut voir ici qu'elle
+7:32
+travaille. Ce qui est bien c'est que je
+7:34
+peux voir exactement tout ce qu'il se
+7:36
+passe donc dans la tête de Ingrade et
+7:38
+savoir ce qu'elle est en train de faire.
+7:39
+Là, ce qu'elle va faire, c'est qu'elle
+7:40
+va appeler un autre agent. C'est celui
+7:42
+qui s'occupe de de la veille, donc de
+7:44
+définir les sujets de vidéo pour
+7:45
+récupérer l'identifiant qui va donc être
+7:49
+possible de renvoyer au vrai agent, donc
+7:51
+à l'agent qu'on a du coup créé qui est
+7:52
+Frida qui est l'agent qui tourne avec un
+7:54
+cerveau gratuit, donc avec un LLM
+7:56
+gratuit. Faut savoir que là, les agents
+7:58
+qui sont actuellement en train de
+7:59
+tourner, Ingrid, elle est sur GPT 5.6 et
+8:01
+de mémoire rustique est sur V dipsic V4
+8:04
+Pro. Donc voilà, c'est bon, ils ont fait
+8:05
+quelques échanges, ils ont réussi à
+8:06
+identifier le bon script qui va être
+8:08
+envoyé pour Frida. Et là, on voit que
+8:10
+Frida est enfin en train de travailler
+8:12
+et de générer les birolles. Là, on peut
+8:14
+voir que Frida a correctement lancé la
+8:16
+génération des birolles. Elle rend la
+8:17
+main à la manager et la manager récupère
+8:20
+son travail et va valider que les brolls
+8:22
+sont correctement générés. Elle va donc
+8:24
+bon attendre la réponse du pipel plane
+8:25
+parce qu'elle vient juste de lancer et
+8:27
+non de totalement générer tous les
+8:28
+birolls. Mais ensuite, Ingrid, elle va
+8:30
+venir vérifier le travail effectué pour
+8:32
+s'assurer que tout est conforme avant de
+Résultat de la génération
+8:34
+me le valider. OK, c'est bon. Frida
+8:35
+vient de terminer de générer les
+8:37
+birolls. Donc on voit que je vais bien
+8:39
+dans son outil et que j'ai bien accès au
+8:41
+broll généré. Donc j'ai bien l'option
+8:43
+pour agrandir l'élément et j'ai bien les
+8:45
+animations qui se jouent. Voilà. Bien
+8:47
+évidemment le prom de génération des
+8:49
+biroll a été fait assez rapidement.
+8:50
+C'est juste pour te montrer qu'en fait
+8:51
+avec des modèles gratuits, on peut quand
+8:53
+même commencer à générer des choses qui
+8:55
+sont intéressantes. Et comme tu vois, ça
+8:56
+reprend bien les éléments que j'ai donné
+8:58
+lors de cette vidéo et ça vient les
+9:00
+animer en forme de birol. Bon, la démo
+Comprendre les limites d’OpenRouter
+9:02
+elle fonctionne mais avant de multiplier
+9:04
+ce type d'agent avec ce genre de modèle,
+9:06
+il faut réussir à comprendre les limites
+9:09
+d'open [musique] router et la différence
+9:10
+entre la disponibilité d'usage et un
+9:13
+usage réellement limité. Comme je te
+9:15
+l'avais déjà expliqué, euh vu que ce
+9:18
+sont des modèles qui sont gratuits, ils
+9:19
+sont souvent soumis à de fortes
+9:21
+demandes. Pour contrebalancer ce
+9:23
+problème, on peut utiliser le free model
+9:26
+routeur. Sauf que même en utilisant ces
+9:28
+modèles gratuits-là, il y a certaines
+9:29
+limites. Par exemple, on peut pas
+9:31
+effectuer plus de 20 requettes par
+9:33
+minute et en version gratuite, ça veut
+9:34
+dire si on a mis aucune carte bancaire
+9:36
+et jamais payer un seul dollar ou euros
+9:39
+dans Open Router, on sera limité à 50
+9:42
+requêtes par jour. Ça peut paraître peu
+9:44
+mais ce qui est intéressant de savoir
+9:45
+c'est que si on met 10 dollars dans Open
+9:47
+Router, c'est donc c'est valable à vie,
+9:49
+on augmente notre limitation à 1000
+9:52
+requêtes par jour. Si tu veux une vidéo
+9:54
+un petit peu plus précise sur la manière
+9:55
+dont je gère les modèles que je donne à
+9:57
+mes agents en fonction des tâches qu'ils
+9:59
+effectuent, n'hésite pas à me le dire
+10:01
+dans les commentaires et j'en ferai une
+10:02
+vidéo un petit peu plus poussée avec
+10:03
+grand plaisir. En attendant, si tu es
+10:05
+intéressé par ce système agenti que tu
+10:07
+veux te former, participer à des lives,
+10:08
+à une communauté, quelque chose
+10:09
+d'intéressant, je te laisse te
+10:10
+préinscrire. C'est le premier lien dans
+10:11
+la description. Et si tu es une
+10:12
+entreprise, je te laisse réserver un
+10:14
+appel avec moi pour qu'on voit comment
+10:15
+est-ce qu'on peut mettre en place ce
+10:16
+genre de système pour te faire gagner du
+10:18
+temps. C'était Hugo Buisson.
+
+Tout
+
+Source : Hugo Buisson
+
+Programme informatique
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+57:28
+Savoir bien débuter en musculation
+Le Musclay
+1 M de vues
+•
+il y a 10 ans
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+100 k vues
+•
+il y a 1 mois
+
+
+23:11
+Comment installer Hermes Skills (Guide complet pour débutants)
+Dr. Firas
+909 vues
+•
+il y a 10 jours
+
+
+15:15
+💥Cette vidéo est LUNAIRE...
+J'suis pas content TV
+24 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+22:29
+A-Players : Recrutement, Management & SOP’s
+Mathis - Scaling d'Infoproduits
+7 vues
+•
+il y a 6 heures
+Nouveau
+
+
+9:29
+OpenClaw vs Hermes Agent (Ne Choisissez Pas MAL!)
+Metics Media
+116 k vues
+•
+il y a 1 mois
+Doublée
+
+
+47:46
+ENTRAÎNEMENT DE MUSCULATION DES JAMBES AVEC SARA SAFFARI
+Chris Bumstead
+920 k vues
+•
+il y a 1 an
+
+
+1:01:46
+Hermes Agent : Guide complet 2026
+Mike Codeur
+2,6 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+17:00
+METTRE un PC GAMER dans un AQUARIUM : c'est possible ?
+FrenchHardware
+257 k vues
+•
+il y a 9 mois
+
+
+15:11
+Le Général Juge La Cuisine Française…
+LeMondeDeChoi
+ et Choi TCG
+5,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+20:09
+Je teste le restaurant de viande japonaise 🥩 à volonté le MOINS CHER de Paris
+Louis
+411 k vues
+•
+il y a 4 mois
+
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+48 k vues
+•
+il y a 1 mois
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 3 semaines
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+21:42
+NOUVELLE mise à jour d'Hermes : 10 fois plus puissante
+Dr. Firas
+1,4 k vues
+•
+il y a 10 heures
+Nouveau
+
+
+47:04
+La VÉRITABLE origine de la circoncision (et ce n'est pas la religion)
+l'Observateur
+1,5 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+19:42
+Je teste un restaurant à volonté de BOEUF DE KOBE au Japon (ça pique)
+Louis
+370 k vues
+•
+il y a 7 mois
+
+
+22:46
+Comment perdre 50% de graisse abdominale en 30 jours
+Nassim Sahili
+5,4 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+12:57
+Christine Lagarde cache-t-elle des ambitions présidentielles ?
+François Asselineau
+571 vues
+•
+il y a 3 heures
+Nouveau
+
+
+32:29
+ACHETER un PC Gamer en CORÉE DU SUD ! 🇰🇷
+FrenchHardware
+208 k vues
+•
+il y a 1 mois
+
+
+22:11
+Je teste les restaurants du guide MICHELIN 🛞 au Japon (la roulette russe 🔫)
+Louis
+395 k vues
+•
+il y a 5 mois
+
+
+23:32
+Hermes Agent vient de tuer Openclaw ?
+Shubham SHARMA
+113 k vues
+•
+il y a 1 mois
+
+
+14:12
+Chronique Musclée N°3 - Cours collectifs, Salles de "musculation", MoneyTime
+Le Musclay
+979 k vues
+•
+il y a 11 ans
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+11:49
+La feature CHEATÉE : les artefacts pour planifier tes tâches (Codex et Claude)
+Melvynx
+632 vues
+•
+il y a 3 heures
+Nouveau
+
+
+13:41
+Vous gaspillez 90% de vos tokens sans le savoir
+Shubham SHARMA
+91 k vues
+•
+il y a 2 mois
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+101 k vues
+•
+il y a 6 jours
+Nouveau
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+178 k vues
+•
+il y a 10 jours
+
+4:23
+Robbie Williams - Supreme
+Robbie Williams
+129 M de vues
+•
+il y a 15 ans
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+790 k vues
+•
+il y a 2 mois
+
+35:24
+La famille Le Pen finalement candidate (pour la 9e fois...)
+François Asselineau
+6,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+21:55
+Tout le monde parle d'OpenClaw, personne ne comprend ce que c'est
+Shubham SHARMA
+440 k vues
+•
+il y a 5 mois
+
+20:01
+La routine qui a changé ma vie (et ma shape)
+Bodytime
+ et Alex & PJ
+63 k vues
+•
+il y a 2 mois
+
+22:31
+Je teste le buffet le plus choquant de Chine 🇨🇳 avec mon frère et sa femme chinoise
+Louis
+391 k vues
+•
+il y a 3 mois
+
+33:34
+LA FRANCE A SOMBRÉ DANS LA DICTATURE, ET PERSONNE NE VIENDRA NOUS SAUVER.
+Tatiana Ventôse
+15 k vues
+•
+il y a 3 heures
+Nouveau
+
+4:23
+The Cardigans - My Favourite Game “Stone Version”
+The Cardigans Official
+87 M de vues
+•
+il y a 10 ans
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+6:06
+Ce SITE de plombier PERD des clients sans le savoir (audit réel)
+Sacha • PushMySite
+3 vues
+•
+il y a 5 heures
+Nouveau
+
+    

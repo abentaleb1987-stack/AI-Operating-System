@@ -1,0 +1,1026 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi
+Hugo Buisson
+Hugo Buisson
+10,9 k abonnés
+
+
+84
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+2 758 vues  Sortie le 21 juil. 2026
+▸ Tu veux ce genre de système dans ton entreprise ?
+
+https://bridge.agentic-os.fr/c/v019
+
+▸ Tu préfères te former toi-même ?
+
+https://bridge.agentic-os.fr/w/v019
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hermès Agent est un agent IA autonome open source développé par Nous Research, qui s'installe sur ton ordinateur ou sur un VPS et exécute des tâches en autonomie depuis le terminal : lire et écrire des fichiers, lancer des commandes, appeler des API, déléguer du travail à des sous-agents. La version 0.19 « Quicksilver » réduit le temps de démarrage avant le premier token, active par défaut les approbations intelligentes évaluées par un LLM, connecte les gestionnaires de mots de passe 1Password et Bitwarden pour ne plus stocker ses clés API en clair dans un fichier .env, rend observables en direct les transcripts des sous-agents, sécurise la livraison des réponses avec un delivery ledger, et permet de router plusieurs profils Hermès derrière une seule gateway. Elle ajoute aussi les modèles GPT-5.6, Grok 4.5, Kimi K3 et Claude Sonnet 5, ainsi que les niveaux de raisonnement max et ultra. Si tu cherches à automatiser ton travail avec une équipe d'agents IA, à installer et configurer Hermès Agent, ou à comprendre où en sont les agents autonomes en 2026, cette vidéo t'explique concrètement ce que change cette mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️ CHAPITRES
+
+00:00 Hermès Agent v0.19 « Quicksilver » : ce qui change
+00:21 Le cold start : de 4,3 s à 0,9 s
+00:58 Le raisonnement s'affiche maintenant en direct
+01:54 Les approbations intelligentes (et la commande /deny)
+03:19 Tes clés API dans un coffre, plus dans un .env
+04:19 Les sous-agents : c'est quoi exactement
+05:08 Suivre le travail d'un sous-agent en direct
+05:23 Le delivery ledger : ne plus perdre une réponse
+06:00 Le routage par profil : une porte d'entrée, plusieurs agents
+07:22 Nouveaux modèles + les niveaux de raisonnement max et ultra
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Hugo Buisson
+10,9 k abonnés
+Vidéos
+À propos
+5 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Hugo_Buisson
+@Hugo_Buisson
+il y a 1 jour
+▸ Construis ton Agentic OS et profite de ton équipe d’agents IA 24/7
+
+https://bridge.agentic-os.fr/w/v019
+
+1
+
+
+
+Répondre
+
+
+@shlaps444
+il y a 1 jour
+Excellente vidéo claire et bien expliqué, un regale meme en x2 😉
+
+
+
+
+Répondre
+
+Hugo Buisson
+·
+
+1 réponse
+
+@TheTraderidera
+il y a 1 jour
+Super vidéo. Je voudrais faire utiliser Hermes par des élèves, une dizaine sur des projets différents. Vaut mieux une seule gateway et des profils différents, ou n gateway et séparer totalement ?
+
+1
+
+
+
+Répondre
+
+Hugo Buisson
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Hermès Agent v0.19 « Quicksilver » : ce qui change
+0:00
+Une nouvelle version d'Hermes vient de
+0:01
+sortir et elle se contente pas d'ajouter
+0:03
+quelques fonctionnalités. Elle revoit la
+0:05
+façon dont l'agent travaille. Le nom de
+0:07
+cette mise à jour, c'est Quick Silver et
+0:08
+sur le papier, grâce à ça, Hermes
+0:10
+devient plus rapide, plus fiable et plus
+0:13
+autonome. Je vais analiser cette mise à
+0:14
+jour en fonction de mon agent qui est
+0:17
+mon système qui fait déjà travailler
+0:19
+plusieurs équipes d'agents en simultané.
+Le cold start : de 4,3 s à 0,9 s
+0:21
+Bon, premier changement concret à
+0:23
+examiner, c'est la rapidité. Ce dont il
+0:26
+parle, c'est le démarrage à froid. que
+0:28
+tu vas entendre parler de code start, ça
+0:30
+veut dire le temps nécessaire pour
+0:32
+initialiser Hermes avant même que le
+0:34
+modèle ne puisse répondre. Avant Quick
+0:36
+Silver, cette initialisation prenait
+0:38
+environ 4,3 secondes. Maintenant, les
+0:41
+notes officielles annoncent environ 0,9
+0:44
+secondes, soit à peu près 80 % de délai
+0:46
+en moins avant le premier token. Donc ça
+0:49
+ne touche pas autant de raisonnement car
+0:51
+lui dépend du modèle utilisé. en
+0:53
+fonction du modèle utilisé. D'ailleurs,
+0:54
+on peut avoir des réponses qui vont être
+0:55
+plus ou moins rapides mais vraiment dans
+0:57
+tout ce qui va se passer avant. Il y a
+Le raisonnement s'affiche maintenant en direct
+0:59
+un deuxième point qui va toucher, on va
+1:01
+dire plus du côté de la vitesse perçue,
+1:03
+c'est que le raisonnement est affiché
+1:04
+maintenant en direct token par token.
+1:07
+Donc Quick Silver, il divise pas par 5
+1:09
+le temps de calcul d'une tâche complexe,
+1:10
+mais il va enlever le délai avant que le
+1:13
+calcul se produise. Et d'ailleurs, si tu
+1:15
+es une entreprise et que tu souhaites
+1:17
+mettre en place ce genre d'agent TICOS
+1:19
+pour toi pour avoir des outils en
+1:20
+interne, surmesure adapté à tes besoins,
+1:22
+tes problématique et créer ta propre
+1:24
+équipe d'agent autonome qui va pouvoir
+1:25
+travailler sur tes problématiques, tu
+1:27
+retrouveras dans le premier lien dans la
+1:29
+description un lien pour réserver un
+1:30
+appel avec moi pour voir si je suis en
+1:32
+capacité de t'aider. Si par contre tu
+1:34
+souhaites te former toi-même à ce genre
+1:36
+de système là, création d'agenticos,
+1:38
+configuration de Hermes et cetera, je te
+1:40
+laisse aussi te préinscrire à ma
+1:42
+communauté que je vais ouvrir très
+1:43
+prochainement qui va te permettre
+1:44
+justement où on va voir un petit peu
+1:45
+tout ça, il y aura des lives, ce sera
+1:47
+assez sympa. Je te laisse te préinscrire
+1:48
+et tu bénéficieras de - 40 % du prix à
+1:51
+la sortie si tu es déjà inscrit dans
+1:53
+cette liste. Allez, c'est reparti pour
+Les approbations intelligentes (et la commande /deny)
+1:54
+la vidéo. On vient de voir la partie
+1:55
+vitesse et ça sert à rien de gagner
+1:57
+quelques secondes si on doit s'arrêter
+1:59
+toutes les 30 secondes pour donner notre
+2:00
+approbation à notre agent Hermes. Et
+2:02
+c'est pour ça qu'on va parler des
+2:03
+demandes d'approbation répétées. Quand
+2:05
+un agent utilise le terminal, certaines
+2:07
+commandes sont signalées comme risquées.
+2:09
+Jusqu'ici, tu pouvais te retrouver à
+2:11
+confirmer chaque demande action après
+2:13
+action. C'est pour ça que ça poussait
+2:15
+beaucoup de personnes à le mettre en
+2:16
+mode sans limite que j'utilise
+2:18
+d'ailleurs en fait au quotidien parce
+2:19
+que c'est quand même plus pratique. Mais
+2:21
+on peut on peut noter qu'il y a une mise
+2:22
+à jour très importante qui vient de
+2:23
+sortir sur cette problématique-là. Donc
+2:25
+ce sont les demandes d'approbation
+2:26
+intelligentes qui deviennent le modèle
+2:28
+euh de comportement par défaut. En gros,
+2:30
+on va simplement avoir un évaluateur
+2:31
+automatique. Maintenant, avant d'avoir
+2:33
+une demande d'approbation pour chaque
+2:34
+tâche qui pourrait paraître risquée, on
+2:36
+va avoir un LLM qui va d'abord analyser
+2:39
+la tâche et elle l'évaluer si oui ou non
+2:42
+c'est vraiment une tâche qui est
+2:43
+risquée. Ce qui veut dire qu'on va avoir
+2:44
+de moins en moins besoin d'être en mode
+2:46
+sans limite si on a quand même envie de
+2:48
+garder un minimum de contrôle sur la
+2:50
+tâche parce qu'une grande partie des
+2:52
+demandes d'approbation seront déjà
+2:54
+filtrées par le LLM et les seules
+2:56
+demandes d'approbation qui va nous
+2:57
+rester seront donc des tâches qui elles
+2:59
+seront réellement risquées. Le vrai
+3:00
+changement c'est pas moins de sécurité,
+3:02
+c'est juste moins d'interruption
+3:04
+inutile. De l'autre côté, ce qui est
+3:05
+super bien, c'est que maintenant, on a
+3:06
+accès à une commande qui s'appelle Slash
+3:08
+qui nous permet d'ajouter une règle de
+3:09
+refus pour bloquer explicitement
+3:12
+certaines action du LLM. Donc à la fois,
+3:14
+il y a moins d'interruption et à la
+3:16
+fois, on s'assure que certaines actions
+3:17
+ne sont pas effectuées par Hermes.
+Tes clés API dans un coffre, plus dans un .env
+3:19
+Pendant qu'on parle de sécurité, il y a
+3:21
+une question qu'on se pose tous. Comment
+3:22
+lui fournir des clés et des tokens de
+3:25
+manière plus sécurisée ? parce que plus
+3:27
+l'agent agit seul, plus la façon dont tu
+3:29
+lui donnes ses accès est importante.
+3:31
+Parce que un agent peut avoir besoin
+3:32
+d'une clé API, d'un token, d'un mot de
+3:35
+passe pour accéder aux outils dont il a
+3:37
+besoin d'utiliser tout simplement. Le
+3:38
+réflexe classique, c'est de mettre
+3:39
+toutes ces informations dans un point
+3:40
+ENV, un environnement, c'est-à-dire un
+3:43
+un fichier qui contient des variables et
+3:46
+les secrets utilisés par ton
+3:48
+application. Le problème, c'est qu'un
+3:49
+secret stocké en clair, ça peut toujours
+3:50
+futer. Et avec la version 0.19 19.
+3:52
+Maintenant, Hermes peut se brancher
+3:55
+directement à One Password. Donc au lieu
+3:57
+de laisser le mot de passe en clair dans
+3:58
+ton projet, maintenant tu vas le stocker
+4:00
+dans un coffre sécurisé prévu pour ça et
+4:03
+Hermes le récupère uniquement quand il
+4:04
+en a besoin. Du coup, le point
+4:05
+environnement, c'est plus la seule porte
+4:07
+d'entrée. Tu peux tout centraliser tes
+4:08
+tokens, tes mot de passe, tes clés à
+4:10
+payer et cetera dans un seul coffre.
+4:11
+Hermes les utilise quand il en a besoin
+4:13
+et puis il les recopie pas un petit peu
+4:14
+de partout dans tous les fichiers. C'est
+4:15
+une meilleure pratique en terme de
+4:16
+sécurité et c'est cool qu'il viennent de
+4:18
+l'ajouter nativement dans cette mise à
+Les sous-agents : c'est quoi exactement
+4:19
+jour. Sauf que protéger tes accès, ça
+4:21
+suffit pas. Si tu délègues une tâche, tu
+4:22
+dois aussi voir ce que l'autre agent
+4:24
+fait et récupérer son résultat. On
+4:26
+arrive au point qui pour moi cette mise
+4:28
+à jour transforme vraiment Hermes dans
+4:30
+une infrastructure d'agent. On va dire
+4:31
+que c'est vraiment le la fonctionnalité
+4:33
+qui rajoute un vrai plus. Pour ça, faut
+4:35
+comprendre ce que c'est un sub agent.
+4:36
+Alors, un sub agent, un sous-agent,
+4:37
+c'est un agent temporaire que ton profil
+4:39
+Hermes va déployer pendant un lapse de
+4:42
+temps pour effectuer une action précise.
+4:44
+Donc, par exemple, si tu lui demandes de
+4:46
+lire, je sais pas moi, 30 pages à ton
+4:47
+agent Hermè, il va pouvoir créer trois
+4:49
+sous-agents et chaque agent va lire 10
+4:51
+pages. Une fois que les sous-agents ont
+4:53
+lu leurs 10 pages, les agents sont tout
+4:55
+simplement supprimés. à pas confondre du
+4:57
+coup avec les profils Hermes qui eux
+4:59
+sont des agents permanents qui ont leur
+5:01
+propre skill, leur propre identité, leur
+5:04
+propre markdown et cetera et qui bah va
+5:07
+être tout simplement permanent. Le
+Suivre le travail d'un sous-agent en direct
+5:08
+problème des sous-agents, c'est que
+5:10
+quand ils travaillent en fait, on voit
+5:11
+pas leur progression, du moins, on les
+5:12
+voyait pas et ça faisait comme une boîte
+5:13
+noire. Donc c'est compliqué à auditer.
+5:15
+Et c'est ça que Quick Silver ajoute, il
+5:17
+ajoute les transcriptions en live des
+5:19
+sous-agents. Du coup, tu peux suivre le
+5:21
+travail maintenant du sous-agent sans
+Le delivery ledger : ne plus perdre une réponse
+5:23
+avoir à attendre la fin. Cela étant dit,
+5:24
+voir le travail en train d'être effectué
+5:27
+ne garantit pas que tu vas toujours
+5:28
+avoir le résultat. Si par exemple à ce
+5:30
+moment-là, tu as un crash de ton VPS, la
+5:32
+réponse peut disparaître. C'est là
+5:34
+qu'arrive le delivery Ledger. Pour faire
+5:37
+simple, c'est comme un registre qui dit
+5:39
+qu'une réponse doit être livrée et n'est
+5:42
+pas encore livrée. Maintenant, les notes
+5:43
+de release indiquent qu'une réponse
+5:45
+terminée survit maintenant au crash de
+5:48
+la gateaway puis peut être donné au
+5:50
+prochain démarrage. Donc, tu peux
+5:51
+regarder le sebagent travailler puis
+5:52
+faire confiance au système pour
+5:53
+conserver sa réponse terminée.
+5:55
+L'observation gère le pendant, le
+5:57
+registre de livraison gère l'après. Les
+5:59
+deux vont ensemble. Maintenant, il reste
+Le routage par profil : une porte d'entrée, plusieurs agents
+6:00
+à voir ce que le routage par change
+6:03
+quand tu utilises plusieurs agents.
+6:04
+Imagine que tu utilises un profil Hermes
+6:07
+pour gérer la partie de rédaction d'une
+6:09
+vidéo YouTube et l'autre pour gérer ton
+6:11
+site internet. Donc tu as deux agents
+6:13
+avec deux profils distincts, sauf que tu
+6:15
+veux pouvoir leur parler du même
+6:16
+endroit, mais tu veux pas que l'agent de
+6:18
+rédaction de script récupère les outils
+6:21
+de la partie technique et que l'agent de
+6:24
+création du site web récupère les
+6:26
+outils, les skills et les informations,
+6:27
+l'identité et cetera de la partie
+6:29
+rédaction de script YouTube. Avant
+6:31
+Quicksilver garder ses agents séparés
+6:34
+pouvaient t'obliger à multiplier les
+6:35
+getaway. Pour faire simple, un Gaway
+6:37
+c'est la porte d'entrée d'Hermes. Elle
+6:39
+reçoit ton message avant de la
+6:40
+transmettre au bon agent. Pour faire
+6:41
+simple, tu devais gérer plusieurs portes
+6:44
+d'entrée pour éviter de mélanger leur
+6:46
+environnement. Sauf que maintenant, un
+6:47
+seul getaway peut servir plusieurs
+6:49
+profil d'Hermes. Quand un message
+6:51
+arrive, le routage par profil l'envoie
+6:53
+au bon espace. Si la demande concerne
+6:55
+une vidéo, elle peut aller vers le
+6:56
+profil par exemple d'Astrid qui elle
+6:58
+s'occupe de la rédaction de script
+7:00
+YouTube. Si elle concerne le système,
+7:02
+bah ça part tout simplement vers un
+7:03
+autre profil. Les deux agents partagent
+7:05
+la même porte d'entrée sans pour autant
+7:07
+partager leurs accès, leur skill, leur
+7:10
+identité. et cetera. Donc en réalité le
+7:12
+changement c'est que tu peux contacter
+7:14
+toute ton équipe d'agents Hermes depuis
+7:16
+un point d'entrée commun tandis que
+7:18
+chaque agent va pouvoir conserver son
+7:19
+rôle. Tu centralises les demandes sans
+7:21
+fusionner les agents. Bon, une fois que
+Nouveaux modèles + les niveaux de raisonnement max et ultra
+7:23
+les agents sont correctement séparés, il
+7:25
+te reste à définir le modèle et le
+7:26
+niveau de raisonnement de chaque agent
+7:28
+adapté à chaque tâche. Et c'est pour ça
+7:30
+que maintenant, grâce à cette mise à
+7:32
+jour, on a une compatibilité des modèles
+7:34
+maintenant qui couvre GPT 5.6, Groc 4.5,
+7:37
+Kimik 3, Claude Son 5 et ajoute surtout
+7:41
+deux niveaux de raisonnement natif, le
+7:44
+max et le ultra. Le niveau de
+7:45
+raisonnement, ça dépend de la quantité
+7:47
+d'effort demandé au modèle avant sa
+7:48
+réponse. Plus il est élevé, plus le
+7:50
+modèle va pouvoir consacrer de temps à
+7:52
+la résolution d'une tâche. Donc
+7:53
+forcément, le coût va augmenter parce
+7:56
+que ça va faire augmenter le la quantité
+7:58
+de token utilisés et le temps de
+8:00
+réalisation. Donc la nouveauté, c'est
+8:01
+pas simplement d'avoir plus de modèles
+8:03
+dans la liste, mais c'est aussi de
+8:04
+pouvoir adapter plus précisément le
+8:06
+niveau de réflexion de chaque modèle.
+8:08
+N'oublie pas, si tu es une entreprise,
+8:09
+premier lien dans la description. Si tu
+8:10
+veux qu'on mette en place ensemble ce
+8:11
+genre de système agentique pour te faire
+8:13
+gagner du temps. Et si tu préfères te
+8:15
+former, deuxième lien dans la
+8:16
+description. Je te laisse te préinscrire
+8:17
+à ma communauté où tu bénéficieras moins
+8:19
+de 40 % à la sortie. C'était Gobisson. À
+8:21
+bientôt.
+
+Tout
+
+Source : Hugo Buisson
+
+Applications
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+21:42
+NOUVELLE mise à jour d'Hermes : 10 fois plus puissante
+Dr. Firas
+1,4 k vues
+•
+il y a 10 heures
+Nouveau
+
+
+22:46
+Comment perdre 50% de graisse abdominale en 30 jours
+Nassim Sahili
+5,4 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+7:28
+C'est annoncé le 30 septembre pour l'avant-première d'AION 2
+StefanElno
+46 vues
+•
+il y a 5 heures
+Nouveau
+
+
+15:15
+💥Cette vidéo est LUNAIRE...
+J'suis pas content TV
+24 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+652 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+20:09
+Je teste le restaurant de viande japonaise 🥩 à volonté le MOINS CHER de Paris
+Louis
+411 k vues
+•
+il y a 4 mois
+
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+821 k vues
+•
+il y a 1 mois
+
+
+15:44
+J'ai branché tous mes Agents IA sur le même Obsidian (Graphify)
+Mike Codeur
+7,3 k vues
+•
+il y a 9 jours
+
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+48 k vues
+•
+il y a 1 mois
+
+
+20:44
+Je teste les recettes de la flemme
+Gurky
+756 k vues
+•
+il y a 2 mois
+
+
+1:01:46
+Hermes Agent : Guide complet 2026
+Mike Codeur
+2,6 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+22:58
+Je teste les nouveautés étranges de Fast-Food (juin 2026)
+Gurky Le Murky
+381 k vues
+•
+il y a 1 mois
+
+
+15:11
+Le Général Juge La Cuisine Française…
+LeMondeDeChoi
+ et Choi TCG
+5,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+19:42
+Je teste un restaurant à volonté de BOEUF DE KOBE au Japon (ça pique)
+Louis
+370 k vues
+•
+il y a 7 mois
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+790 k vues
+•
+il y a 2 mois
+
+
+24:43
+Je teste toutes les variétés de pizzas Ristorante
+Gurky Le Murky
+429 k vues
+•
+il y a 2 mois
+
+
+14:12
+Chronique Musclée N°3 - Cours collectifs, Salles de "musculation", MoneyTime
+Le Musclay
+979 k vues
+•
+il y a 11 ans
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 3 semaines
+
+9:29
+OpenClaw vs Hermes Agent (Ne Choisissez Pas MAL!)
+Metics Media
+116 k vues
+•
+il y a 1 mois
+Doublée
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+22:29
+A-Players : Recrutement, Management & SOP’s
+Mathis - Scaling d'Infoproduits
+7 vues
+•
+il y a 6 heures
+Nouveau
+
+10:50
+Les 2 Plats QUI ARRACHENT LE PLUS de Corée
+LeMondeDeChoi
+431 k vues
+•
+il y a 11 mois
+
+25:25
+Trump voulait bloquer la Chine… elle a créé sa propre carte graphique
+FrenchHardware
+207 k vues
+•
+il y a 2 semaines
+
+18:37
+Maîtriser NotebookLM : Le Guide Ultime du Débutant à l'Expert !
+François Bonnisseau | Le Bot Français
+8,3 k vues
+•
+il y a 1 an
+
+4:23
+Robbie Williams - Supreme
+Robbie Williams
+129 M de vues
+•
+il y a 15 ans
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+4:23
+The Cardigans - My Favourite Game “Stone Version”
+The Cardigans Official
+87 M de vues
+•
+il y a 10 ans
+
+23:32
+Hermes Agent vient de tuer Openclaw ?
+Shubham SHARMA
+113 k vues
+•
+il y a 1 mois
+
+11:49
+La feature CHEATÉE : les artefacts pour planifier tes tâches (Codex et Claude)
+Melvynx
+632 vues
+•
+il y a 3 heures
+Nouveau
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+101 k vues
+•
+il y a 6 jours
+Nouveau
+
+21:43
+Je teste le buffet le plus cher de France: le Ritz 🤵🏻
+Louis
+607 k vues
+•
+il y a 5 mois
+
+24:18
+PREMIÈRE SÉANCE AU NEXT LEVEL CLUB | ÉPAULES/BRAS avec @zramdani_
+Essan NFC
+45 k vues
+•
+il y a 3 jours
+Nouveau
+
+13:41
+Vous gaspillez 90% de vos tokens sans le savoir
+Shubham SHARMA
+91 k vues
+•
+il y a 2 mois
+
+22:31
+Je teste le buffet le plus choquant de Chine 🇨🇳 avec mon frère et sa femme chinoise
+Louis
+391 k vues
+•
+il y a 3 mois
+
+19:46
+On teste les MEILLEURS restaurants de SHIBUYA (LA SOUPE !!!)
+Tev & Louis
+231 k vues
+•
+il y a 1 mois
+
+20:01
+La routine qui a changé ma vie (et ma shape)
+Bodytime
+ et Alex & PJ
+63 k vues
+•
+il y a 2 mois
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+178 k vues
+•
+il y a 10 jours
+
+47:04
+La VÉRITABLE origine de la circoncision (et ce n'est pas la religion)
+l'Observateur
+1,5 k vues
+•
+il y a 3 heures
+Nouveau
+
+    

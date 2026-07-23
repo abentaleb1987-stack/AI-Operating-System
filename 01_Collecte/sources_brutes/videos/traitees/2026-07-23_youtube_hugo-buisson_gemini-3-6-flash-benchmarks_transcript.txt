@@ -1,0 +1,382 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks
+Hugo Buisson
+Hugo Buisson
+10,9 k abonnés
+
+
+10
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+182 vues  Diffusée comme Première il y a 7 heures
+▸ Tu préfères te former toi-même ?
+
+https://bridge.agentic-os.fr/w/v021
+
+▸ Tu veux ce genre de système dans ton entreprise ?
+
+https://bridge.agentic-os.fr/c/v021
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Google dévoile Gemini 3.6 Flash aux côtés de Gemini 3.5 Flash-Lite et Gemini 3.5 Flash Cyber, trois modèles pensés pour accélérer les agents IA tout en réduisant leurs coûts. La vidéo explique comment Gemini 3.6 Flash équilibre intelligence, vitesse, tâches agentiques et multimodales, avec une consommation de tokens annoncée en baisse face à 3.5 Flash. Elle détaille aussi le prix de l’API, fixé à 1,50 dollar par million de tokens en entrée et 7,50 dollars en sortie, puis compare vitesse, intelligence et coût par tâche à partir des benchmarks évoqués. Tu découvriras également pourquoi Gemini 3.5 Flash-Lite vise les traitements répétitifs à fort volume, comme le tri de tickets, avec environ 350 tokens de sortie par seconde, ainsi que le rôle de Flash Cyber dans la détection et la correction de vulnérabilités. Enfin, la vidéo revient sur l’absence de Gemini 3.5 Pro et son retard. Si tu cherches à choisir un modèle Gemini rapide et rentable pour automatiser tes agents IA, cette vidéo t’aide à comprendre les compromis essentiels.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️ CHAPITRES
+
+00:00 Les trois nouveaux modèles Gemini
+00:16 Flash, Flash-Lite et Flash Cyber
+01:49 Tokens et prix de l’API
+03:00 Vitesse contre intelligence
+04:15 Comparaison avec GLM 5.2
+04:55 Choisir la bonne métrique
+05:39 Flash-Lite pour les gros volumes
+06:47 Pourquoi le modèle Pro est absent
+07:49 Conclusion
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Hugo Buisson
+10,9 k abonnés
+Vidéos
+À propos
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Hugo_Buisson
+@Hugo_Buisson
+il y a 7 heures
+▸ Construis ton Agentic OS et profite de ton équipe d’agents IA 24/7
+
+https://bridge.agentic-os.fr/w/v021
+
+1
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Les trois nouveaux modèles Gemini
+0:000 secondeGoogle vient de sortir 3.6 Flash 3.5 flashlight et 3.5 flash Cyber et ça change complètement la donne. Dans cette
+0:077 secondesvidéo, on va voir ce que valent ces modèles, mais surtout pourquoi la plupart des personnes ont tort de penser que cette nouvelle génération est en
+0:1515 secondesdessous des IA concurrentes. Bon, déjà Google présente ce lancement comme un trio conçu pour rendre les agents plus rapides et moins cher à grande échelle.
+Chapitre 2 : Flash, Flash-Lite et Flash Cyber
+0:2525 secondesLe modèle principal, c'est Gini 3.6 Flash. Google AI Studio a notamment tweeté d'ailleurs que avec ce modèle-là, il cherchait un équilibre entre
+0:3434 secondesperformance et vitesse, notamment pour les tâches agentiques et multimodales.
+0:3838 secondesDonc une tâche agentique, ça veut dire qu'on va venir planifier et enchaîner une suite d'action. Ensuite à Gemini 3.5
+0:4545 secondesflashlight qui d'après Google est considéré comme le modèle le moins cher et le plus rapide de Gini et qui est
+0:5252 secondesvraiment conçu pour gérer énormément de requêtes répétitives comme par exemple la gestion ticket. On peut faire aussi des recherches internet avec ça peut
+1:001 minuteêtre très pratique. Bref, tout ce qui va venir engranger énormément de données qui doit être fait très rapidement. Et ensuite, on a Flash Cyber que je mets un petit peu de côté dans cette vidéo mais
+1:071 minute et 7 secondesqui est vraiment conçu pour la recherche de faille et de vulnérabilité. Ce qu'il faut retenir ici, c'est qu'il y a vraiment trois modèles différents qui ont chacun leur spécificité. Donc en
+1:161 minute et 16 secondesgros, 3.6 flash, c'est le compromis, on va dire, un peu plus généraliste. 3.5 flashlight, c'est le compromis d'intelligence mais surtout qui est optimisé pour la rapidité. Et Flashyber
+1:251 minute et 25 secondesqui lui travaille sur des vulnérabilités. D'ailleurs, je fais juste une petite pause pour te dire que je lance très prochainement ma communauté qui te donnera toutes les
+1:321 minute et 32 secondesressources nécessaires pour pouvoir construire ce genre de système agentique qui te permettra de gérer tes propres agents autonomes pour automatiser une
+1:401 minute et 40 secondesgrosse partie de ton activité. Si ça t'intéresse, je te laisse cliquer sur le premier lien dans la description et si tu t'inscris maintenant, tu bénéficieras de - 40 % du prix à la sortie. Allez,
+Chapitre 3 : Tokens et prix de l’API
+1:491 minute et 49 secondesretour à la vidéo. Bon, maintenant qu'on a séparé les trois modèles, on va attaquer la question du prix. notamment un élément très important de cette
+1:561 minute et 56 secondesnouvelle génération, les tokens. Bon, comme tu sais, plus euh ton agent va consommer de token, plus ta facture va monter et notamment Dimitri Livaline qui
+2:052 minutes et 5 secondestravaille chez Google annonce environ 17 % de réduction de token avec 3.6 flash par rapport à 3.5 flash, donc l'ancien
+2:142 minutes et 14 secondesmodèle. Et d'ailleurs sur Deep SWE, la baisse annoncée peut aller jusqu'à 65 % de réduction. Pour faire simple, DPSW,
+2:212 minutes et 21 secondesc'est un benchmark spécialisé qui mesure la capacité d'un modèle à pouvoir travailler sur des tâches longues de développement logiciel. Bon, on sait
+2:292 minutes et 29 secondesmaintenant que ce modèle là consomme moins de token, mais quel est le prix de ces tokens là ? La gré officielle de la pay, c'est 1,llar 50 en entrée pour 7,50
+2:382 minutes et 38 secondesen sortie. Partie de comparaison, en sortie, 3.5 flash était à 9 dollars par million de tokens. Donc en gros, ici, il y a deux économies à noter. Un, en terme
+2:462 minutes et 46 secondesde token, on utilise moins de token, donc forcément on paye moins à la fin.
+2:492 minutes et 49 secondesEt en plus de ça, le prix pour ce million de tokens là est moins élevé qu'avant. Donc le chiffre important ici, c'est pas uniquement le tarif par million de token, mais c'est le coût au
+2:592 minutes et 59 secondesglobal en fait de la tâche qui est effectuée. Bon, maintenant qu'on connaît le prix, faudrait surtout qu'on s'attarde au benchmark. Que vaut réellement ces modèles ? En fait, dans
+Chapitre 4 : Vitesse contre intelligence
+3:073 minutes et 7 secondessa communication, il faut comprendre que Google met vraiment en avant ce nouveau modèle. Donc là, je parle de Gemini 3.6 Flash comme un modèle qui consomme moins de token et qui va beaucoup plus vite.
+3:183 minutes et 18 secondesDonc en gros, Google ne vend pas ce modèle là comme le modèle le plus intelligent de sa gamme, mais vraiment comme un modèle qui est rapide comme tu peux le voir juste ici sur ce benchmark.
+3:263 minutes et 26 secondesDonc là, je suis sur artificial analysis. On peut aller dans l'onglet speed et on va voir du coup que Gini 3.6
+3:323 minutes et 32 secondesFlash est le modèle le plus rapide juste après GPT OSS. et GPTOS, c'est vraiment
+3:403 minutes et 40 secondesun modèle catastrophique. Donc on a vraiment un modèle qui est déjà intéressant en terme de puissance mais extrêmement rapide. Quand on pour le
+3:473 minutes et 47 secondesvoir juste ici sur l'artificial analysis intelligence index, on peut voir GMini 3.6 flash noté à 50 quand des modèles
+3:543 minutes et 54 secondescomme GLM 5.2 en raisonnement max est noté 51, Grock 4.5 noté 54, Kimika. 3 57, 59 et 60 du côté de GPT et de Fable.
+4:054 minutes et 5 secondesDonc on est quand même sur voilà un modèle très rapide, pas le plus intelligent mais par contre qui a quand même sa place sur certains use case. Et
+4:134 minutes et 13 secondesc'est ça en fait toute la puissance de ce modèle. Si on devait pouvoir comparer, on va dire ce modèle là à un autre modèle équivalent, ce serait GLM
+Chapitre 5 : Comparaison avec GLM 5.2
+4:204 minutes et 20 secondes5.2 en raisonnement max. Comme on peut le voir juste ici, on note que GLM est bien moins cher que G mini. Mais comme
+4:284 minutes et 28 secondesje te l'ai dit, il y a deux manières de pouvoir évaluer le prix d'un modèle. son coût en token pur en millions de tokens qui est donc ici bien moins élevé sur
+4:364 minutes et 36 secondesGLM. Mais ici, on peut aussi voir le coût par tâche effectué. Et comme on peut le voir ici, GLM est environ à 40
+4:434 minutes et 43 secondescents de dollars quand Gini est à 50 cents de dollars. Donc on est vraiment sur des modèles qui sont équivalents. G Mini va coûter légèrement plus cher que
+4:514 minutes et 51 secondesGLM pour être en terme de puissance équivalent, sauf qu'il sera bien évidemment beaucoup plus rapide. En fait, on a l'habitude de regarder les nouvelles sorties de modèles et de
+Chapitre 6 : Choisir la bonne métrique
+4:594 minutes et 59 secondescomparer leur intelligence pure, sauf que des fois, c'est pas la bonne métrique à regarder sur certains cas d'utilisation pour de l'automatisation,
+5:065 minutes et 6 secondesle plus important, c'est en réalité que le modèle soit assez intelligent pour que la tâche soit correctement réalisée, puis qu'il la fasse le plus rapidement
+5:145 minutes et 14 secondespossible. Comme on aurait aucun intérêt à utiliser Claude Fable 5 pour euh prendre une recette de crêpe, il y a plein plein plein de use case en terme
+5:225 minutes et 22 secondesd'automatisation qui sont non essentiels à prendre un modèle aussi puissant. Et c'est de là que tire tout l'intérêt de cette nouvelle génération de modèle pour
+5:305 minutes et 30 secondesdes cas d'analyse en temps réel, de transcription vocale, d'analyse peut-être de d'assistants vocaux ou de choses comme ça, c'est un modèle qui est le plus performant sur ces tâches là.
+Chapitre 7 : Flash-Lite pour les gros volumes
+5:395 minutes et 39 secondesBon, on s'est attardé sur 3.6 Flash qui est le modèle un petit peu plus généraliste et on a parlé beaucoup de vitesse, sauf que là, encore plus intéressant, le prochain modèle, c'est
+5:475 minutes et 47 secondesle modèle flashlight. Donc, on perd en intelligence, il y a un petit peu moins de réflexion, mais on va gagner encore plus de vitesse. Parce qu'imaginons que
+5:545 minutes et 54 secondeston intelligence artificielle doiv tickets de SAV par jour. Imaginons que tu es une boutique e-commerce. Que ton ticket soit traité en une minute ou en 2
+6:036 minutes et 3 secondesminutes, ça a pas vraiment d'importance parce que tu as que 10 tickets par jour.
+6:076 minutes et 7 secondesMais si avec ta boutique tu en as 10000, à ce moment-là chaque seconde va compter. Là c'est simple, Google annonce en fait que le modèle de Gemini 3.5
+6:156 minutes et 15 secondesFlashlight est le modèle le plus rapide et le plus utile pour traiter ce genre de tâche. Google annonce environ 350
+6:246 minutes et 24 secondestokens de sortie par seconde. Pour faire simple, ça correspond à la vitesse à laquelle le modèle va écrire sa réponse.
+6:306 minutes et 30 secondesCe modèle là, je le répète, c'est un modèle qui est utile lorsque la tâche à effectuer est simple et répétitive pour
+6:376 minutes et 37 secondesl'entreprise. Si ton problème principal c'est le volume, ce modèle est exceptionnel. Oui, Fable 5 est plus puissant mais Fable 5 n'est pas conçu
+6:456 minutes et 45 secondespour ce genre de cas d'utilisation. Bon maintenant la dernière question en suspens, c'est pourquoi Google sort Gemini 3.6 Flash sans sortir la version
+Chapitre 8 : Pourquoi le modèle Pro est absent
+6:546 minutes et 54 secondesPro ? En fait, faut comprendre que la version flash et la version pro est vraiment différente. Comme son nom l'a dit, la version flash est faite pour la vitesse de réalisation, la vitesse
+7:037 minutes et 3 secondesd'exécution du modèle. Alors que la version Pro doit représenter le modèle le plus poussé sur le raisonnement. Faut savoir que j'ai Mini 3.5 Pro et déjà
+7:107 minutes et 10 secondesattendu depuis quelques mois qu'apparemment d'après certains leaks, donc ça c'est une source source nonoficielle en fait Google aurait tout simplement pris du retard sur
+7:197 minutes et 19 secondesl'amélioration du modèle 3.5 Pro. Je pense notamment à certains concurrents comme Fable ou Chat GPT parce qu'en fait faut savoir que Google n'a aucun intérêt
+7:287 minutes et 28 secondesà sortir sa gamme pro si elle est moins puissante et performante par exemple que chat GPT 5.6 Sol ou Fable 5. Et c'est
+7:367 minutes et 36 secondesd'ailleurs notamment pour ça que 3.6 Flash est sorti avant le Pro, que 3.6 Flash a son intérêt mais que si 3.6 ou
+7:437 minutes et 43 secondes3.5 Pro était sorti maintenant et était moins performant que Fable, là à ce moment-là ce modèle là n'aurait eu aucun intérêt sur le marché. J'espère que cette vidéo a pu te permettre de mieux
+Chapitre 9 : Conclusion
+7:517 minutes et 51 secondescomprendre cette nouvelle gamme assez mal compise du grand public. Je te mets juste ici une vidéo qui va t'expliquer comment utiliser Hermes agent gratuitement à vie. C'était Hugo Buisson. À bientôt.
+
+Tout
+
+Source : Hugo Buisson
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+15:11
+Le Général Juge La Cuisine Française…
+LeMondeDeChoi
+ et Choi TCG
+5,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+15:15
+💥Cette vidéo est LUNAIRE...
+J'suis pas content TV
+24 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+7:28
+C'est annoncé le 30 septembre pour l'avant-première d'AION 2
+StefanElno
+46 vues
+•
+il y a 5 heures
+Nouveau
+
+
+11:49
+La feature CHEATÉE : les artefacts pour planifier tes tâches (Codex et Claude)
+Melvynx
+622 vues
+•
+il y a 3 heures
+Nouveau
+
+
+22:46
+Comment perdre 50% de graisse abdominale en 30 jours
+Nassim Sahili
+5,4 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+9:36
+j'ai testé GEMINI 3.6 face à GPT 5.6, FABLE 5 et KIMI K3
+Anthony Marandon
+2 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+395 k vues
+•
+il y a 5 mois
+
+
+14:12
+Chronique Musclée N°3 - Cours collectifs, Salles de "musculation", MoneyTime
+Le Musclay
+979 k vues
+•
+il y a 11 ans
+
+
+47:04
+La VÉRITABLE origine de la circoncision (et ce n'est pas la religion)
+l'Observateur
+1,5 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+12:57
+Christine Lagarde cache-t-elle des ambitions présidentielles ?
+François Asselineau
+571 vues
+•
+il y a 3 heures
+Nouveau
+
+
+20:09
+Je teste le restaurant de viande japonaise 🥩 à volonté le MOINS CHER de Paris
+Louis
+411 k vues
+•
+il y a 4 mois
+
+
+10:20
+Comment utiliser Hermes GRATUITEMENT à VIE
+Hugo Buisson
+769 vues
+•
+il y a 1 jour
+Nouveau
+
+
+20:01
+La routine qui a changé ma vie (et ma shape)
+Bodytime
+ et Alex & PJ
+63 k vues
+•
+il y a 2 mois
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+102 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+35:24
+La famille Le Pen finalement candidate (pour la 9e fois...)
+François Asselineau
+6,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+19:42
+Je teste un restaurant à volonté de BOEUF DE KOBE au Japon (ça pique)
+Louis
+370 k vues
+•
+il y a 7 mois
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+101 k vues
+•
+il y a 6 jours
+Nouveau
+
+1:21:24
+Redouane Bougheraba : des squatteurs ont menacé sa mère | Small Talk S04E30
+Konbini
+ et David Castello-Lopes
+73 k vues
+•
+il y a 1 jour
+Nouveau
+
+Jour 2 pour dire "Adieu" au travail en 90 jours #entreprenariat #automatisation #stress
+659 vues
+
+Ramen japonais au shoyu ! bouillon soja avec oignons hachés flottants
+19 M de vues
+
+Jour 3 pour dire "Adieu" au travail en 90 jours #instagram #manychat #challenge
+1,3 k vues
+
+Consigny : "Hamza, quand il dit ces mots-là sur les femmes, où sont les féministes ?"
+337 k vues
+
+Omelette aux œufs incroyable
+139 M de vues
+
+Commente "Apprendre" pour recevoir le template #apprendre #ecole #etudiant #lycee #college
+669 vues
+
+
+    

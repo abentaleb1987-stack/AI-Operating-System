@@ -1,0 +1,925 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)
+Elliott Pierret
+Elliott Pierret
+108 k abonnés
+
+S’abonner
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+22 juil. 2026  #IA #AI #ClaudeCode
+Je te montre pourquoi tes prompts classiques et tes agents IA limitent tes résultats et comment la nouvelle méthode des Loops changent complètement la donne.
+
+🎁 Mon guide gratuit : https://elliottpierret.com/guide-gratuit
+🌟 Ma Masterclass IA : https://elliottpierret.com/ia-master
+
+Dans cette vidéo, je te montre comment construire des Loops au lieu de simples prompts, avec la structure à suivre, les erreurs à éviter, des exemples concrets et la méthode pour enchaîner les itérations sans perdre le fil.
+
+Tu vas apprendre à structurer tes échanges tes systèmes d’Agents IA pour obtenir des résultats plus précis et 100% automatisés, même si tu débutes, avec des exemples simples et des cas pratiques étape par étape que tu pourras reproduire.
+
+⌚ LES TEMPS FORTS DE CETTE VIDEO :
+00:00 : Arrêtez les prompts, passez aux Loops
+00:50 : Les générations d'IA 
+03:27 : Que mettre dans une Loop
+06:05 : Les briques des Loops
+10:14 : Loop fermé VS Loop ouverte
+12:03 : Faut-il créer une Loop ou pas ?
+14:28 : Comment en créer dans Codex ou Claude Code
+16:57 : Créer une Loop simple avec Claude Cowork
+21:23 : Se former à l'IA à mes côtés !
+23:40 : Créer un système de Loops dans Claude Code
+38:18 : Outro
+
+LES SOURCES DE LA VIDEO :
+Télécharger Claude Code : https://code.claude.com/docs/en/desktop
+Accéder à mon application des Loops : https://claude.ai/public/artifacts/4c...
+Documentation des Loops : https://claude.com/blog/getting-start...
+
+RESTONS CONNECTES :
+Mon site : https://elliottpierret.com/
+TikTok :   / elliottpierret  
+Instagram :   / elliottpierret  
+LinkedIn :   / elliottpierret  
+
+🎬 Monteur : Arnaud Graciet
+
+#IA #AI #ClaudeCode #Claude
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Elliott Pierret
+108 k abonnés
+Vidéos
+À propos
+Accéder au guide !
+Accéder au guide !
+Accéder au guide !
+12 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @elliottpierret
+@elliottpierret
+il y a 14 heures
+Tu connaissais les Loops ?
+
+2
+
+
+
+Répondre
+
+
+1 réponse
+
+@RETRAITE_EQUINE
+il y a 58 minutes
+Super ! Merci Elliot !
+
+
+
+Répondre
+
+
+@Sira-z6i
+il y a 7 heures
+MERCI TOUJOURS AU TOP. JAI UNE QUESTION, SI JE COMPRENDS BIEN POUR CERTAINS CAS DE CONFIGURE ON PEUT SE PASSER DE N8N
+
+1
+
+
+
+Répondre
+
+Elliott Pierret
+·
+
+1 réponse
+
+@Devnoode
+il y a 14 heures
+Super vidéo, merci. Serait-il possible de récupérer ton premier Prompt pour donner à Claude le contexte général ? Merci
+
+
+
+Répondre
+
+Elliott Pierret
+·
+
+1 réponse
+
+@AntraxDz
+il y a 11 heures (modifié)
+je viens de regarder ta video jai donc effacer mon commentaire, je pense que tu te trompe completement sur le sujet de loop ce nest pas fait pour faire du cowork, mais bien du dev en claude code. en lieu et place denvoyer des prompts tu creer des loops que des agent IA vont utiliser et devenir plus autonome quand tu dev et donc eviter les aller retour avec ton IDE quand on tache est fini...cepandant il faut setup pas mal de fichier satellites pour que cela soit puissant sinon cest une feature sans reelle impact.
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Claymore300
+il y a 12 heures
+Très mal fait ta vidéo même toi tu crois pas ce que tu racontes 
+
+On voit que tu récite un script 
+
+Donc tu ne transmets rien et on comprend que dalle 
+
+C'est très très mal tourné 
+
+Tu devrais revoir ta façon de vouloir faire apprendre des choses à une audience
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Sira-z6i
+il y a 7 heures
+MERCI TOUJOURS AU TOP. JAI UNE QUESTION, SI JE COMPRENDS BIEN POUR CERTAINS CAS DE CONFIGURE ON PEUT SE PASSER DE N8N
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+
+ElevenLabs
+Try ElevenLabs Now
+Sponsorisé
+elevenlabs.io/voice-cloning
+
+
+Browse Voice Library
+Discover voices for any use.
+Customize and download today.
+View Pricing Plans
+Flexible plans for all needs.
+Choose yours, and start now.
+Clone Any Voice
+Replicate voices fast.
+Get lifelike results now.
+AI Sound Effects
+Generate sounds in seconds.
+Enhance any audio instantly.
+S'inscrire
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Arrêtez les prompts, passez aux Loops
+0:000 secondeVous devez arrêter de créer des agend et c'est pas moi qui le dit, c'est Boris Chourney le créateur de Claude Code et Peter Steinberger le créateur de Open
+0:099 secondesClow qu'ils disent. Et pour eux, ils ont résumé ça en une phrase. Ils n'écrivent plus de prompt dans Claude à la [musique] place. Ils écrivent des loupes
+0:1616 secondesqui promptent à leur place dans Claude et qui décident des actions à réaliser.
+0:2020 secondesEn gros, leur nouveau travail, c'est d'écrire des loupes. Mais le problème, c'est que le mot loupe, il veut rien dire pour la plupart des gens. À quoi ça sert une loupe ? À quoi ça ressemble ?
+0:2828 secondesquand est-ce qu'on doit donc créer et surtout comment est-ce que ça se construit réellement ? Et bien dans cette vidéo, je clarifie tout ça. Je vais vous définir ce qui est une loupe,
+0:3636 secondesce qu'il faut y mettre à l'intérieur. Je vais aussi vous présenter de nombreux cas d'usage d'application des loopes, mais surtout je vais vous faire des démonstrations sur des cas concrets pour
+0:4444 secondesNike et Trade Republic où je vais créer des loopes et qui vont vous permettre de comprendre tout l'intérêt de cette nouvelle technique qui va totalement changer votre manière de travailler avec
+Chapitre 2 : Les générations d'IA
+0:5353 secondesLia. Allez, c'est parti pour créer vos premières loop. Alors déjà, pour bien comprendre cette notion de loupe, il faut qu'on revienne ensemble sur les générations d'IA qu'on a utilisé jusqu'à
+1:021 minute et 2 secondesprésent. Si vous regardez bien ensemble et on l'a fait sur la chaîne, on a commencé par essayer de générer des meilleures réponses à l'aide des I qu'on
+1:091 minute et 9 secondesva utiliser. Au début, le modèle, il produisait du texte en s'appuyant sur un modèle et à la fin, on avait une réponse et toute la valeur et bien elle résidait
+1:181 minute et 18 secondesdans la qualité de cette réponse. et vous et bien vous étiez responsable d'écrire les bons promptes pour augmenter la qualité de cette même
+1:251 minute et 25 secondesréponse et arrivé l'air des agents. Et là le but c'était plus d'écrire seulement des bons promptes mais c'était de créer des systèmes qui sont capables
+1:341 minute et 34 secondesd'agir parfaitement en fonction d'une demande. Ensuite notre agent il allait appeler des outils, il avait une mémoire et à la fin il était capable de faire
+1:411 minute et 41 secondesdes actions pour nous. Nous on fixait des objectifs, on donnait un environnement de travail à la fin on avait un résultat. Mais maintenant avec cette notion de loupe, on arrive sur une toute nouvelle génération d'agents.
+1:521 minute et 52 secondesL'idée c'est de bâtir des systèmes qui sont capables d'apprendre tout seul.
+1:561 minute et 56 secondesFinalement nous on va lui donner un cadre dans lequel il va pouvoir s'exécuter. Ensuite il va faire des tâches. Il va ensuite évaluer lui-même
+2:032 minutes et 3 secondesou avec notre aide le résultat. Il va ensuite corriger et à la fin et bien il va tellement comprendre les comportements adoptés qu'il va pouvoir faire ça tout seul sans notre
+2:122 minutes et 12 secondesintervention. Au fil des exécutions, il va s'améliorer et le résultat va toujours être de la même ou d'une meilleure qualité. Si vous regardez, on
+2:192 minutes et 19 secondesvoit encore mieux ici. Au début, on tapait des promptes, on appelait le modèle, on avait la réponse. Maintenant, on a un système qui va être en mesure de produire des actions. Quelles actions ?
+2:292 minutes et 29 secondesEt bien ici les actions qu'on aura définies nous-même sous notre supervision où on aura donné la trajectoire, il va produire des actions.
+2:372 minutes et 37 secondesEnsuite, il va évaluer l'écart entre ce qu'il a fourni et ce qu'on avait voulu à la base et à la fin il va se corriger pour s'assurer que la prochaine fois
+2:452 minutes et 45 secondesqu'il produit une action, elle soit cette fois-ci d'une bonne qualité, mais toujours avec de la supervision de notre part, mais aussi sa propre supervision
+2:542 minutes et 54 secondeset son propre contrôle à l'intérieur du système. Donc ce qu'il faut retenir ici, c'est que lorsqu'on va créer des loopes dans cette nouvelle génération d'IA, le
+3:023 minutes et 2 secondesbut ne va plus être de fournir un prompte et d'avoir un résultat, mais d'expliquer tout ce qui va se passer à l'intérieur d'un système. Et ce système
+3:093 minutes et 9 secondesà la fin, il doit pouvoir tourner sans vous et vous vous avez juste à le regarder, à le superviser et ensuite à venir rectifier s'il y a de temps en
+3:173 minutes et 17 secondestemps des écarts. Mais sinon, le système est auto-apprenant, s'autocorrige et vous fournit toujours les résultats dont vous avez besoin à certains moments,
+3:253 minutes et 25 secondessous certaines conditions. Et alors une fois qu'on s'est dit ça, je vous propose de revenir maintenant sur l'architecture de la loupe. Qu'est-ce qu'on doit mettre dans ces loopes pour que cela fonctionne
+Chapitre 3 : Que mettre dans une Loop
+3:343 minutes et 34 secondes? Si vous regardez ici, c'est issu d'une analyse qui a été faite par les équipes d'anthropique et qui nous partage la meilleure architecture possible pour une
+3:413 minutes et 41 secondesloupe qu'on appelle récursive. Donc qui est capable de ne jamais s'arrêter et d'avoir un cycle en continu. On va avoir un planificateur qui va découper
+3:503 minutes et 50 secondesl'objectif en un plan réaliste. Lui finalement, il donne le plan et les étapes à accomplir et surtout il donne le cap avec l'objectif final. Ensuite, on va avoir le builder, le constructeur.
+4:004 minutesLui, il applique le plan et il va aller appeler les bons outils au bon moment.
+4:054 minutes et 5 secondesVous avez besoin d'envoyer un mail, il appelle Gmail, de voir de la donner dans du CRM, de pouvoir aller récupérer une fiche client dans votre RP. C'est lui qui applique le plan et qui appelle les
+4:144 minutes et 14 secondesbons outils. Ensuite, et bien dans ce plan, va peut-être y avoir de la création, des éléments à faire.
+4:184 minutes et 18 secondesFinalement, le gros du travail est fait par le builder. Ensuite, une fois qu'il a fini, on va lui mettre un vérificateur dans la loupe pour s'assurer que le
+4:264 minutes et 26 secondesrendu correspond à nos attentes à la base. Une fois qu'on a ça, il y a un rôle super important dans les agents depuis leur création, c'est la mémoire.
+4:354 minutes et 35 secondesComment est-ce qu'on s'assure qu'à l'intérieur du système, on ait une mémoire qui puisse comprendre les réussites, mais aussi les échecs et
+4:414 minutes et 41 secondesainsi autoaméliorer les éléments à l'intérieur de la loupe. Ensuite, on va voir le gestionnaire qui lui va finalement reprendre le plan et voir si
+4:494 minutes et 49 secondestout a été fait ou non. Et à la fin, on a le contrôleur. Le contrôleur, il est extrêmement important parce qu'il revoit toute la méthode de la Lou. Il va aller
+4:574 minutes et 57 secondesvoir dans la mémoire finalement est-ce qu'il y a eu des échecs, est-ce qu'il y a eu des réussites ? Si oui, est-ce qu'il a manqué des éléments qui ont abouti à un échec ? Est-ce qu'il y a eu
+5:055 minutes et 5 secondesdes éléments qu'on a ajouté qui ont été extrêmement pertinents et qui sont arrivés à une réussite ? Tout ça, c'est des éléments à l'intérieur de la loupe.
+5:135 minutes et 13 secondesEt quand le contrôleur a terminé, le but c'est pas que la loupe s'arrête. Le contrôleur, il reprend toutes ces informations, il les donne au
+5:205 minutes et 20 secondesplanificateur qui lorsqu'il va redécouper l'objectif en un futur plan avec des actions à réaliser, et bien il aura pris en compte tout ça et
+5:285 minutes et 28 secondesnormalement la chaîne, elle est autoaméliorée et pour qu'à la fin on puisse s'assurer d'avoir toujours le meilleur résultat possible. Si vous regardez ici, je vous ai mis une vue
+5:375 minutes et 37 secondesplus détaillée de ces différentes étapes où le planificateur découpe l'objectif en un plan réaliste. Le builder applique le plan, appelle les outils et produit
+5:455 minutes et 45 secondesles résultats. Le vérificateur, il contrôle ce qui a été produit. La mémoire, elle garde la trace de tout ce qui a marché ou pas. Le gestionnaire, il
+5:545 minutes et 54 secondesclasse ce qu'il reste à faire et il réoriente sur la suite des opérations.
+5:585 minutes et 58 secondesEt le contrôleur, il revoit toute la méthode puis il passe le relais au planificateur pour rejouer toute la loupe. Et donc tout ça, c'est la partie théorique de la construction des loupes.
+Chapitre 4 : Les briques des Loops
+6:086 minutes et 8 secondesMais vous allez certainement vous dire comment ça se matérialise tout ça. Et bien juste ici, je vous ai mis les briques d'une loupe qui fonctionne. Si
+6:156 minutes et 15 secondesvous regardez cette loupe, alors elle reprend ici un projet d'encloud. On pourrait avoir une loupe comme c'est indiquée ici et à l'intérieur de cette
+6:226 minutes et 22 secondesloupe, on va avoir des éléments qui sont juste clés à retrouver à chaque fois. Et ça peu importe que vous travaillez dans Cloud ou chez Open AI, on retrouve les
+6:306 minutes et 30 secondesmêmes éléments. Et la première notion, c'est la notion de Hbit. Sans lui, finalement, la loupe ne démarre pas et là, il faudrait une intervention
+6:386 minutes et 38 secondeshumaine. Nous, ce qu'on veut, c'est que ça tourne automatiquement. Ce qui peut lancer une loupe, ça peut être une cadence. Tous les lundis à 9h, ça
+6:466 minutes et 46 secondess'exécute ou une fois par mois, une fois par an. Par exemple, tous les lundis à 9h, c'est ce qui permettrait de déclencher une loupe qui va faire des
+6:536 minutes et 53 secondesactions de reporting. Autre exemple, ça peut être un goal. Un goal, c'est un objectif qu'on va donner à l'intérieur de la loupe qui va continuer en permanence jusqu'à ce que fonctionne.
+7:047 minutes et 4 secondesLà, on est plutôt parti sur des projets long terme. Et ensuite, vous allez avoir les hook. Les hook, c'est ce qui vont déclencher des commandes à certains
+7:127 minutes et 12 secondesmoments. Par exemple, ce qui pourrait déclencher une loupe, c'est un cycle de relance. Vous voulez relancer vos clients tous les 7 jours ou lorsque vous avez pas eu de retour au bout d'un
+7:217 minutes et 21 secondescertain moment, et bien la loupe se déclenche pour aller relancer le client.
+7:247 minutes et 24 secondesImaginez ça aussi sur des cas de support client. À chaque fois vous recevez un nouveau ticket de support, la loupe se déclenche depuis une solution et va
+7:327 minutes et 32 secondesaller exécuter toutes les tâches pour vous. Un autre système de loop, ça pourrait être à chaque fois que vous avez créé un devis, vous le déposez quelque part dans votre drive et bien ça
+7:417 minutes et 41 secondesva enclencher des actions de reporting par exemple. Tout ça c'est des éléments techniques mais qui vont envoyer un signal pour déclencher la loupe et faire
+7:487 minutes et 48 secondesdifférentes actions. Ici la loupe a été déclenchée. Ensuite on va retrouver par exemple à l'intérieur des skills. Ça c'est une notion que vous devriez
+7:557 minutes et 55 secondesnormalement connaître dans l'IA. Les skills, c'est finalement comment est-ce que vous allez mettre des règles qui une fois écrites sont capables d'être rejoué
+8:038 minutes et 3 secondespar Lia. Je veux toujours que tu écris des mails de relance avec ce format. Si tu dois générer un devis automatiquement, voici comment les devis
+8:108 minutes et 10 secondessont rédigés chez nous. Si tu fais du reporting, voici le template de slide à adopter. Finalement, c'est tous les éléments qui à l'intérieur de la loupe
+8:188 minutes et 18 secondesvont permettre de cloisonner la manière dont le travail est effectué dans la loupe. Et pour ça, on va s'appuyer sur les skills qu'on aura entraîné
+8:258 minutes et 25 secondespréalablement. Ensuite, dans la loupe, il va y avoir un ou des agents.
+8:298 minutes et 29 secondesGénéralement, vous allez le voir, on va avoir un agent central en haut qui va ensuite déléguer des tâches à des subagents. L'idée, c'est qu'on va
+8:378 minutes et 37 secondesdiviser les tâches et donc le travail entre les agents. Va y avoir celui qui produit, celui qui valide, celui qui planifie. Ça nous permet d'éviter des
+8:468 minutes et 46 secondeshallucinations et de s'assurer que le travail est bien distribué, que chaque agent puisse appeler différentes skills, différents connecteur. D'ailleurs, en
+8:548 minutes et 54 secondesparlant de connecteur, vous allez bien évidemment mettre des outils, des connexions à l'intérieur de votre loupe.
+9:009 minutesDes outils qui vont vous permettre d'élargir le contexte et le champ d'application de votre loop. Vous voulez envoyer un mail, bah vous allez mettre le connecteur Gmail. Vous voulez pouvoir
+9:089 minutes et 8 secondesvoir vos données clients dans le CRM, vous allez mettre sales force. Vous allez mettre tous les connecteurs ou des MCP serveurs qui vont venir à l'intérieur de la loupe au niveau des
+9:179 minutes et 17 secondesdifférents agents pour appeler votre contexte et l'exécuter d'une certaine tâche à l'aide des skills. Et enfin, je le mentionnais préalablement, il y a
+9:259 minutes et 25 secondescette notion de mémoire qui est extrêmement importante. Pourquoi ? Parce que au fur et à mesure que la loupe va se jouer, et bien la mémoire va
+9:339 minutes et 33 secondess'étendre. La mémoire va permettre de dire comment vous voulez certaines choses, mais surtout la mémoire va récupérer tout ce qui s'est passé dans la loupe à chaque fois pour s'assurer
+9:429 minutes et 42 secondesque par exemple si un subagent a produit deux ou trois fois des résultats erronés et bien il puisse s'automodifier suite
+9:499 minutes et 49 secondesau contrôle d'un autre agent pour améliorer le comportement sans que vous ou moi, on ait à intervenir au niveau de la loupe pour modifier manuellement un
+9:589 minutes et 58 secondesdes agents. Les agents, ils vont discuter ensemble. l'un va voir que l'autre a mal fonctionné et bien au fur et à mesure à l'aide de la mémoire on va
+10:0710 minutes et 7 secondescomprendre pourquoi et qui est-ce qui n'a mal fonctionné pour s'autoaméliorer.
+10:1110 minutes et 11 secondesDonc là normalement vous avez compris ce qui est une loupe et les éléments qu'on doit y mettre à l'intérieur. Mais ensuite il y a une question fondamentale. Est-ce que la boucle je
+Chapitre 5 : Loop fermé VS Loop ouverte
+10:1810 minutes et 18 secondesdois la laisser ouverte ou bien est-ce que je vais la fermer ? Et pour ça juste ici je vous ai mis deux exemples. Les loupes ouvertes sont plutôt des loupes
+10:2610 minutes et 26 secondesque je vous recommande d'utiliser sur des scénarios par exemple grand public.
+10:3010 minutes et 30 secondesvous allez mettre sur vos site web avec un agent qui va répondre à des mails sur un agent qui va traiter des demandes entrantes sur une landing page. L'idée
+10:3710 minutes et 37 secondesc'est que l'agent va avoir un espace de recherche très très large. Le process, il y a tellement de possibilités que on se doit d'avoir la loupe la plus ouverte possible pour traiter les demandes.
+10:4610 minutes et 46 secondesL'agent, il va errer à l'intérieur et il va essayer de trouver le meilleur résultat possible. Par contre, attendez-vous à ce moment-là avoir une grosse consommation de token. L'idée
+10:5410 minutes et 54 secondesici, c'est plutôt sur des gros scénarios avec un héroï tellement fort que derrière le budget, il est quasiment illimité. Donc on peut se permettre au début d'avoir cet apprentissage.
+11:0311 minutes et 3 secondesAttention, c'est pas parce que la loupe elle est ouverte et qu'elle est très large qu'elle va toujours le rester. À terme, l'idée de la loupe encore une fois, c'est qu'elle soit auto-apprenante
+11:1111 minutes et 11 secondeset donc au bout d'un moment et bien on peut imaginer qu'à l'intérieur de la loupe, le champ des possibles se réduisent pour pouvoir apporter des réponses beaucoup plus qualitatives.
+11:2011 minutes et 20 secondesL'idée, on a peu de barrière mais plus de créativité. La loupe fermée, c'est vraiment ce que je vous recommande de faire au début. L'idée c'est que ça va
+11:2711 minutes et 27 secondesvraiment être un processus fermé dans lequel vous vous allez donner les différentes étapes à réaliser. C'est notamment ce qu'on va créer juste après en démonstration ensemble. L'idée à
+11:3511 minutes et 35 secondesl'intérieur, c'est qu'on va avoir une évaluation claire de chaque étape. On va avoir un budget plus restreint parce que ça va consommer moins de token. Mais
+11:4411 minutes et 44 secondessurtout votre loupe, elle est très cadrée. Vous connaissez vous le résultat final que vous allez chercher et donc forcément, vous allez créer la loupe en
+11:5111 minutes et 51 secondesconséquence en partant de ce que vous voulez avoir et tous les éléments qu'il faut dans la loupe à chaque fois. Donc au début, partez beaucoup plus sur des loupes fermées, mais sachez que vous pouvez aussi aller sur des loupes ouvertes en fonction de vos scénarios.
+12:0212 minutes et 2 secondesEt alors vous allez me dire "OK super, mais à quel moment est-ce que finalement je dois créer une loupe ? Pourquoi est-ce que je peux plus du tout utiliser d'agent ou juste chatter avec Lia ?" Ben
+Chapitre 6 : Faut-il créer une Loop ou pas ?
+12:1012 minutes et 10 secondespour ça, j'ai créé une petite checklist que je vais vous partager et qui vous permet de comprendre si votre scénario fonctionne sur une loupe ou pas du tout.
+12:1812 minutes et 18 secondesPour ça, juste ici, vous avez quatre conditions que je vous recommande d'appliquer pour savoir si une loupe est pertinente ou non. La première
+12:2512 minutes et 25 secondescondition, c'est est-ce que votre tâche, elle se répète plusieurs fois ? parce que vous avez besoin de la faire tous les jours, toutes les semaines. En fonction de ça, ben forcément, elle est
+12:3312 minutes et 33 secondesdite récurrente. Donc à partir de là, c'est une bonne condition pour commencer à créer les loup. Ensuite, la deuxième condition, c'est est-ce qu'il y a une
+12:4012 minutes et 40 secondespossibilité d'échec ? Ici, l'idée c'est est-ce qu'on est en mesure de bien identifier quand ça a marché ou quand ça
+12:4712 minutes et 47 secondesn'a pas marché. Pour ça, ici, si vous êtes pas en mesure vous de vous dire ça c'est un échec, ça c'est une réussite à chaque fois de manière très binaire, et
+12:5512 minutes et 55 secondesbien en fait ça sert à rien d'aller sur une loupe. Pourquoi ? parce qu'à la fin, vous allez toujours devoir aller vérifier le résultat final. Donc il y a une intervention de votre part. Vous
+13:0313 minutes et 3 secondesêtes pas tout le temps dans la supervision et la délégation. Non, vous devez venir voir à chaque fois tous les résultats et vérifier. C'est pas du tout
+13:1113 minutes et 11 secondesle but d'une loupe. Donc si vous avez ça, vraiment partez sur un autre scénario. Par contre, si vous êtes capable d'identifier ça marche, ça ça marche pas et ainsi la loupe elle le
+13:2013 minutes et 20 secondesfait à votre place sans supervision, vous êtes sur un scénario pour une loupe. Ensuite, est-ce que la loupe, elle peut faire tout le travail ou bien est-ce qu'il faut un moment que vous
+13:2713 minutes et 27 secondesveniez appuyer sur un bouton ? Euh, il faut un moment que vous rentriez du texte manuellement parce que c'est vous qui avez l'information dans votre tête par exemple ? Et bien ici, super
+13:3513 minutes et 35 secondesimportant, le but c'est que toute la loupe, elle fonctionne de bout en bout sans vous et à ce moment-là, vous avez encore une condition pour créer votre
+13:4313 minutes et 43 secondesloupe. Et enfin, la dernière condition, c'est est-ce que vous êtes en mesure de vous dire "OK, ça c'est terminé, il n'y a pas d'interprétation de jugement
+13:5113 minutes et 51 secondeshumain dans ce qui a été fait et c'est certainement là vous allez avoir le plus de difficultés à identifier une loupe.
+13:5613 minutes et 56 secondesMais par contre, vous allez voir qu'on arrive quand même à des choses où au bout d'un moment, on a fait tellement de tests." C'est sur cette phase là d'ailleurs que la partie de testing est
+14:0314 minutes et 3 secondessuper importante. vous allez tester 10 15 20 fois les résultats. Au bout d'un moment, si à la fin de ces 15 20 résultats, vous êtes pas en mesure de
+14:1114 minutes et 11 secondesvous dire "C'est bon, les 20 sont bons." et bien à partir de là, c'est qu'il y a un jugement humain. Il y a trop d'interprétation pour que ça soit fait par un loop. Et il faudra toujours qu'un
+14:1914 minutes et 19 secondeshumain vérifie à la fin. Et là, c'est pas forcément le but d'une loupe. Si vous vous dites "Là c'est bon, elle a plus besoin de moi." Vous avez les cas de conditions et vous pouvez créer votre
+14:2614 minutes et 26 secondesloupe. Donc là maintenant, vous avez tout ce qu'il faut pour bien savoir quand créer une loupe. Mais pour la créer, il vous faut les bons outils.
+Chapitre 7 : Comment en créer dans Codex ou Claude Code
+14:3214 minutes et 32 secondesPour ça aujourd'hui, moi j'ai choisi deux outils, Codex et Cloud Code. C'est pour moi les deux meilleurs outils aujourd'hui pour créer des loops à l'intérieur. Nous après, dans la partie
+14:3914 minutes et 39 secondesde Zmo, on va aller créer des loops à l'intérieur de Cloud avec Cowork ainsi queavec Cloud Code. Mais je voulais quand même revenir avec vous sur les éléments d'une loop. finalement à quoi
+14:4814 minutes et 48 secondesil ressemble à l'intérieur de ces solutions. Quelles sont les briques que vous allez devoir utiliser dans ces solutions pour créer votre loop ? Et pour ça, j'ai fait ici un petit tableau
+14:5514 minutes et 55 secondesavec les différents éléments pour l'automatisation. Donc ce qui va permettre de déclencher par exemple comme je disais avant l'aspect Hertbit.
+15:0315 minutes et 3 secondesEt bien pour ça, vous avez dans Codex une partie qui s'appelle automatisation qui est disponible dans l'app. Vous avez juste à aller dessus. Vous allez pouvoir créer des petites loupes à l'intérieur
+15:1115 minutes et 11 secondeset mettre des goals. Sinon, côté cloud code, on va le voir, vous allez pouvoir utiliser slash loop ou slashgal pour lancer les différents éléments. Il y a
+15:2115 minutes et 21 secondesaussi toute la partie hook qui va vous permettre de déclencher depuis un comportement dans une application par exemple. Ensuite, vous allez avoir les work. Donc c'est ce qui va vous
+15:2915 minutes et 29 secondespermettre de répartir les éléments à l'intérieur, vos subagent, vos skills pour avoir une vue très détaillée des éléments. Il y en a un par Sade chez
+15:3715 minutes et 37 secondesCodex et côté Cloud Code, vous avez des work au niveau des subagent. Pour ce qui est des skills, ici côté codex, vous avez la possibilité de créer des
+15:4515 minutes et 45 secondesskills.m de même côté cloud code. Les plugins sont directement disponibles avec des MCP et des plugins à
+15:5215 minutes et 52 secondesl'intérieur de Codex. Vous avez aussi la possibilité de mettre des plugins et des MCP côté cloud code. Pour ce qui est des sub agents, ça c'est un point important,
+16:0016 minutesvous allez pouvoir les déclarer dans Codex de même côté cloud code. Et alors ça on va en créer ensemble juste après.
+16:0616 minutes et 6 secondesVous pouvez mettre des agents et créer votre équipe d'agents aussi à l'intérieur de cloud/agent. Et côté cloud, vous allez aussi pouvoir créer des sub agents à l'aide de slashagent.
+16:1516 minutes et 15 secondesÇa je vais vous montrer comment on l'écrit juste après. Et enfin côté state qui reprend tout l'état de votre loop.
+16:2016 minutes et 20 secondesVous avez la possibilité de créer des fichiers point MD chez Codex et aussi chez Cloud Code pour retrouver tous les éléments et la progression à
+16:2716 minutes et 27 secondesl'intérieur. Finalement à la fin, les deux outils ont les mêmes solutions.
+16:3116 minutes et 31 secondesApportent juste des noms un petit peu différents à chaque fois. Et donc normalement à présent, vous avez tout ce qu'il faut pour comprendre ce qui est une loupe, ce qu'il faut y mettre à l'intérieur, quand est-ce qu'il faut
+16:3916 minutes et 39 secondeschoisir entre une loupe ouverte et fermée, les éléments qu'on va mettre à l'intérieur et au niveau des solutions que vous utilisez, comment est-ce que ça se matérialise. Mais moi, je me doute
+16:4816 minutes et 48 secondesque ce que vous avez envie de voir, c'est de la démo. Comment est-ce que je peux vraiment créer des loopes dans ces solutions ? À quoi ça ressemble ? Et est-ce que c'est si puissant que ça ?
+16:5616 minutes et 56 secondesPour ça, moi je vous propose juste ici à l'intérieur de Cloud de créer déjà une première loupe très simple. cette loupe.
+Chapitre 8 : Créer une Loop simple avec Claude Cowork
+17:0217 minutes et 2 secondesImaginez que je travaille pour Nike et l'idée c'est que je vais vouloir suivre toutes les ventes de Nike. Et ici pour créer une première loupe, on va utiliser
+17:1017 minutes et 10 secondesCloud CowerK. Pourquoi ? Parce qu'en fait cloud Cork, il peut déjà répondre à beaucoup d'éléments d'une Lou. En effet, je vais pouvoir aller programmer des tâches à l'intérieur, ce qui va me
+17:1817 minutes et 18 secondespermettre d'avoir un déclencheur, le Hit qui derrière et bien par exemple toutes les semaines va mettre à jour des éléments. Donc la tâche va être planifiée, elle peut se lancer sans moi.
+17:2717 minutes et 27 secondesJe vais pouvoir à l'intérieur aussi connecter des applications, donc mettre des connecteurs ici déjà disponibles, mais aussi des MCP serveur. Je vais
+17:3617 minutes et 36 secondespouvoir adosser à tout ça des skills si j'en ai besoin pour rédiger des éléments d'une certaine manière. Et en plus de ça, à l'intérieur de Cloud, j'ai de la
+17:4417 minutes et 44 secondesmémoire. Donc tous les éléments peuvent être suivis et améliorés. Donc en fait, je peux déjà à un premier niveau très simple créer des premières loopes à
+17:5217 minutes et 52 secondesl'aide de cower. Pour ça, ici, je vous montre un petit exemple. J'ai un dossier. Ce dossier, il est juste ici.
+17:5717 minutes et 57 secondesC'est le rapport de vente Nike. Donc là, j'ai un rapport de vente avec différents fichiers Excel ventes que j'ai pu avoir en 2025. Imaginez par exemple que vous
+18:0518 minutes et 5 secondesdeviez mettre à jour ce fichier toutes les semaines. Et bien pour ça, vous avez ici un PowerPoint. Ce PowerPoint, il est juste ici et il permet d'analyser toute
+18:1218 minutes et 12 secondesla performance e-commerce de Nike chaque semaine. Vous devez le mettre à jour à chaque fois. C'est ennuyeux, c'est rébarbatif, c'est beaucoup de copiers
+18:2018 minutes et 20 secondescollés. Et bien pour ça ici une loupe nous permettrait de le mettre à jour à chaque fois que vous en avez besoin.
+18:2518 minutes et 25 secondesPour ça on retourne dans Cowork, on sélectionne notre dossier, je choisis un dossier et comme ça ici je viens de mettre le rapport de vente de Nike. Et ce que je vais lui demander de faire,
+18:3318 minutes et 33 secondesc'est chaque lundi à 10h, mets à jour la présentation PowerPoint située dans mon dossier en utilisant les données des fichiers Excel présents dans le dossier
+18:4118 minutes et 41 secondes2006. Donc en fait ici, il va aller ouvrir 2006 et prendre toutes les nouvelles données pour mettre à jour mes slides. Donc là, imaginez qu'à chaque
+18:4918 minutes et 49 secondesfois vous deviez mettre vos nouveaux fichiers Excel qui sont mis à jour. Vous avez juste à les déposer et la loupe ensuite, elle travaillera pour vous. Le mieux ici, c'est encore d'être dans du
+18:5718 minutes et 57 secondesdrive parce que vous avez même plus besoin de déposer les dossiers et on est sur une vraie loupe 100 % autonome.
+19:0319 minutes et 3 secondesEnsuite, une fois que la présentation elle est mise à jour, il va générer la nouvelle version du PowerPoint. il va aller rédiger un mail pour moi. Donc là
+19:1019 minutes et 10 secondespar exemple, on pourrait avoir des connecteurs, des outils avec Gmail. Dans le corps du mail, il présente les résultats principaux puis il prépare le mail pour qu'il soit prêt à être envoyé.
+19:1919 minutes et 19 secondesEt de là et bien regardez, chaque lundi à 10h, c'est ce qui va permettre d'avoir toute l'automatisation. Et de là, c'est parti. Et en ayant ici chaque lundi à
+19:2819 minutes et 28 secondes10h, voilà, il voit que c'est une tâche récurrente. Donc à la fin, quand il aura terminé, bah finalement, on va avoir une loupe qui va tourner tous les lundis à
+19:3619 minutes et 36 secondes10h sans mois. Il sait où les fichiers Excel se trouvent, il sait où le PowerPoint se trouve, il sait qu'il doit faire un mail. Et bien ça va tourner en
+19:4519 minutes et 45 secondespermanence et ça permettrait de créer déjà une première loupe très simple ici.
+19:5019 minutes et 50 secondesAprès quelques minutes, si vous regardez bien, il avait donc bien compris comme on l'a vu que c'est une tâche récurrent.
+19:5519 minutes et 55 secondesIl a analysé le dossier ici, il m'a demandé une validation. Est-ce que j'ai besoin d'avoir ça du coup toutes les semaines ? Moi, j'ai donné ma
+20:0220 minutes et 2 secondesvalidation. Il a fait toute l'analyse, il a la structure exacte de tous les graphiques dans le PowerPoint et de comment le mettre à jour. Le script
+20:1020 minutes et 10 secondestourne sans erreur, il a réussi à faire un test lui-même pour voir les résultats et il a bien planifié une tâche pour la faire tourner chaque lundi. Il a analysé
+20:1820 minutes et 18 secondesla structure, il a tous les éléments. La prochaine exécution, elle est prévue le lundi 20 juillet à 10h. Moi, si je reviens ici dans les tâches programmées,
+20:2720 minutes et 27 secondeson peut voir ici que j'ai mon rapport hebdomadaire PowerPoint plus email qui est prévu à chaque fois. Donc, il pourrait mettre à jour comme ça mes tâches et moi, j'aurais juste ensuite
+20:3520 minutes et 35 secondesaller présenter ça par exemple dans un comité de direction. Si je veux, je peux quand même exécuter ici la tâche une fois pour voir le rendu. Ici, on voit
+20:4220 minutes et 42 secondesque la tâche vient de se lancer, ce qui me permet quand même de faire des tests et de s'assurer de la bonne qualité des résultats. Et donc, comme on peut le voir ici, il a terminé toute la mise à
+20:5120 minutes et 51 secondesjour du fichier avec les données de 2026. Donc, en fait, c'est comme s'il se mettait à jour tous les lundis, il vient, il récupère les informations. Et
+20:5820 minutes et 58 secondessi vous regardez ici en haut à droite en sortie, j'ai un PowerPoint qui a été mise à jour. Là, on était sur 2025, on passe sur 2026 et tous les chiffres ici
+21:0721 minutes et 7 secondesont été actualisés, ce qui me permettrait comme ça d'automatiser encore une fois tout ce reporting. Et après, comme je l'ai dit, on peut lui
+21:1421 minutes et 14 secondesfaire générer un email en brouillon avec ce document en pièce jointe et ainsi envoyer l'email avec tous les éléments
+21:2121 minutes et 21 secondeset ça automatische. Je fais juste une très courte pause dans la vidéo de moins d'une minute, mais c'est important pour celles et ceux qui veulent aller encore
+Chapitre 9 : Se former à l'IA à mes côtés !
+21:2821 minutes et 28 secondesplus loin dans leur maîtrise de Lia. À mes côtés, vous retrouvez en description de cette vidéo deux ressources qui peuvent vous aider. La première, c'est vers mon guide les 7 jours de l'IA.
+21:3721 minutes et 37 secondesC'est un guide que j'ai conçu pour vous permettre d'intégrer toutes les bases de l'IA en seulement 7 jours à mes côtés.
+21:4221 minutes et 42 secondesChaque jour, vous recevez une ressource exclusive qui va vous permettre de progresser, que ça soit pour créer vos agents IA, pour comprendre les meilleures techniques de prompt
+21:5021 minutes et 50 secondesengineering, pour avoir accès à ma communauté avec plus de 8000 membres.
+21:5421 minutes et 54 secondesBref, vous recevez chaque jour un contenu exclusif par mail. Pour y avoir accès, ce guide, il est totalement gratuit. Vous avez juste à venir ici,
+22:0122 minutes et 1 secondetaper votre mail, vous cochez cette case et vous appuyez sur ce bouton. Et à partir de là, vous voilà embarquer dans les 7 jours de lire et vous recevrez directement le contenu de la première
+22:1022 minutes et 10 secondesjournée. Mais en plus de ça, je sais que vous êtes nombreux à vouloir automatiser un maximum de tâches à l'aide de l'IA.
+22:1622 minutes et 16 secondesEt comme vous pouvez le voir dans cette vidéo, je suis vraiment en mesure de vous aider. Et bien pour ça, vous retrouvez aussi en description de cette vidéo le lien de présentation de ma
+22:2422 minutes et 24 secondesmasterclass IA Master. Cette masterclass, c'est une référence en France. C'est la seule masterclass qui vous forme à toutes les compétences
+22:3122 minutes et 31 secondesindispensables à l'air de l'IA. Prompt engineering, vibe coding, context engineering, tous ces termes, vous les maîtrisez et vous savez les utiliser. Et
+22:3822 minutes et 38 secondespour les utiliser, il faut maîtriser les meilleurs I du marché. Et bien pour ça, la masterclass vous forme aussi à toutes les meilleures I du marché. Chat JPT,
+22:4722 minutes et 47 secondesJimmy Cloud, Perplexity, Microsoft Copilote. À la fin, vous maîtrisez toutes ces solutions. Mais surtout en ce moment, il y a une énorme révolution.
+22:5522 minutes et 55 secondesles agents et bien à l'intérieur de cette masterclass, vous avez aussi tout un module pour vous permettre de créer à mes côtés vos premiers agents I. Vous retrouvez aussi sur la page de
+23:0323 minutes et 3 secondesprésentation les témoignages des personnes qui ont participé à cette masterclass. Il y a plus de 32000 personnes qui ont participé depuis son lancement. Cette masterclass, faut
+23:1123 minutes et 11 secondessavoir qu'elle est ouverte à tous, peu importe votre niveau technique. La montée en compétence, elle est progressive. On apprend à votre rythme.
+23:1723 minutes et 17 secondesVous pouvez mettre pause, revenir un petit peu plus tard comme sur une série Netflix. Moi par contre, je m'engage à une chose. L'IA ça évolue extrêmement vite. Vous l'aurez sans doute remarqué.
+23:2523 minutes et 25 secondesEt bien pour ça, je m'engage à mettre à jour la masterclass tous les mois avec des nouveaux contenus. Et bien évidemment, à partir du moment où vous la rejoignez, vous en avez un accès à
+23:3423 minutes et 34 secondesvie. Donc vous bénéficiez de toutes ces mises à jour. Donc n'hésitez pas à découvrir ces deux liens en description de la vidéo. Mais je sais, vous voulez certainement aller beaucoup plus loin
+Chapitre 10 : Créer un système de Loops dans Claude Code
+23:4223 minutes et 42 secondesdans les loupes. Et bien pour ça, je vous rassure, j'ai prévu un scénario beaucoup plus poussé. On va pouvoir créer toute une équipe d'agent IA qui va
+23:5023 minutes et 50 secondesfonctionner en parfaite autonomie à l'intérieur d'une loupe. Et pour ça, j'ai choisi un cas client concret. Ce cas client, c'est Trade Republic. Et
+23:5823 minutes et 58 secondespour ça, on va imaginer ensemble qu'on travaille dans l'équipe marketing de Trade Republic et qu'on veut créer une loupe d'agents qui fonctionne
+24:0524 minutes et 5 secondesautomatiquement pour créer nos posts sur Instagram, le texte qui accompagne le poste et ce de manière automatique sur
+24:1224 minutes et 12 secondesles sujets les plus tendants. Pour ça, ici, qu'est-ce que j'ai construit ? J'ai construit ce système que vous voyez là.
+24:1824 minutes et 18 secondesÀ l'intérieur de ce système déjà, qu'est-ce qui va permettre de déclencher la loupe ? Donc d'avoir le heit ici tous les lundis à 9h, je veux une veille du
+24:2824 minutes et 28 secondessecteur de la finance pour identifier l'IPO le plus intéressant de la semaine ou bien un énorme mouvement de marché,
+24:3524 minutes et 35 secondesune crise, une opportunité, un changement politique. Tous ces aspects là, pour moi, ils sont importants pour en faire un post Instagram. Parce que si vous regardez ici sur la page Instagram
+24:4324 minutes et 43 secondesde Trade Republic, il partage les investissements de Donald Trump, les nouveautés de marché ici, un cas sur une entreprise en particulier Samsung, le
+24:5124 minutes et 51 secondesmarché ici du pétrole. Ils prennent des sujets très spécifiques. Ici la croissance de l'action take to qui
+24:5924 minutes et 59 secondesproduit GTA 6, les nouvelles entrées en bourse, par exemple ici avec SpaceX ou bien avec Anthropic. Bref, tous ces
+25:0725 minutes et 7 secondeséléments-là, c'est ce qu'on va essayer de créer à l'aide de ce système pour avoir des posts LinkedIn qui ressemblent exactement à ceux qu'on a juste ici sur
+25:1525 minutes et 15 secondesdes sujets précis de manière 100 % automatisée. À partir de là, à la fin, la loupe qu'on va créer, elle permettrait de poster à chaque fois des
+25:2325 minutes et 23 secondesposts Instagram à ma place sans que j'ai à m'en occuper. Elle fait ça en fait parce qu'ici, j'ai un Instagram manager, c'est mon planificateur, mon orchestrateur à l'intérieur du système.
+25:3425 minutes et 34 secondesLui, il va répartir les tâches sur les sub agents. Pour ça, lui, il se déclenche tous les lundis à 9h pour lancer la veille. Il va appeler à chaque
+25:4225 minutes et 42 secondesfois le Finance Trade Agent qui est en fait un agent connecté avec des outils.
+25:4825 minutes et 48 secondesCes outils, c'est Perplexity. Il va aller voir sur Perplexity quel est le sujet finance le plus pertinent en France à analyser et sur lequel il faut
+25:5725 minutes et 57 secondescommuniquer cette semaine. Pour ça, donc mon orchestrateur lance l'agent. À la fin, il a identifié un sujet. Il donne ce sujet ensuite au copywritter. Le
+26:0626 minutes et 6 secondescopywritter, lui, c'est l'expert pour écrire la description Instagram avec les bons mots clés qui va bien en lien avec ce sujet. Et bien évidemment, il
+26:1426 minutes et 14 secondesreproduit à l'identique les messages qu'on a déjà sur l'Instagram de Trade Republic. Comment j'ai fait ça ? Et bien, vous allez voir, je vais entraîner
+26:2226 minutes et 22 secondesune skill qu'on va appeler ADN text qui comprend basé sur tous les posts Instagram de Trade Republic comment ils sont rédigés. Et enfin, j'ai un dernier
+26:2926 minutes et 29 secondessubagent qui lui est spécialisé dans la création de l'image seulement. Pour ça, lui aussi, il a été entraîné. Il a été entraîné sur les posts Instagram que
+26:3826 minutes et 38 secondesj'ai récupéré directement sur le compte de Trade Republic. Et pour créer l'image, il a un outil, il a un nano banana qui lui permet de comprendre
+26:4626 minutes et 46 secondescomment est-ce qu'il doit créer et d'avoir un bon outil de génération d'images. Une fois qu'ils ont ça, ils sont capables de me générer tous les éléments, ils les remontent à
+26:5426 minutes et 54 secondesl'Instagram manager qui me présente le résultat. Bien évidemment, ici, j'ai choisi de me présenter le résultat. Si on voulait aller encore plus loin, je
+27:0227 minutes et 2 secondespourrais connecter un autre outil qui me permettrait de poster directement ça sur Instagram automatiquement, mais là, j'ai préféré m'arrêter pour pouvoir voir le résultat avec vous avant de le publier.
+27:1327 minutes et 13 secondesEt donc, ce qu'on va faire à présent, c'est qu'on va aller créer tout ce système ensemble et bien évidemment, vous retrouvez tous les promptes pour créer ça à votre tour dans ma communauté
+27:2227 minutes et 22 secondesà l'aide de mon guide gratuit en description de la vidéo, les 7 jours de lire. Alors, afin de pouvoir créer tout ce système de loupe pour Trade Republic ici, automatiser la publication de mes
+27:3127 minutes et 31 secondesposts sur Instagram, j'ai déjà dû faire plusieurs choses. Juste là, si on regarde bien, j'ai créé un dossier qui s'appelle Marketing Trade Republic. Et à
+27:3927 minutes et 39 secondesl'intérieur, si on regarde bien ici, j'ai récupéré des posts Instagram de Trade Republic. J'en ai fait des screenshots et on voit ici à droite la
+27:4627 minutes et 46 secondesdescription du poste et à gauche le type d'image qu'on va vouloir reproduire. Et donc nous, on va avoir juste besoin de ça pour initier la loupe. Et alors
+27:5427 minutes et 54 secondesmaintenant pour initier tout ça, on est dans Cloud Code. Dans Cloud Code ici, vous allez sélectionner un projet. Moi ce projet c'est très simple ici, c'est marketing trade Republic. La première
+28:0228 minutes et 2 secondeschose qu'on va faire c'est qu'on va commencer par initier tout le contexte de ce projet. Pour ça, juste ici, je vais envoyer un premier prompt. Ce prompt, il va me permettre de donner
+28:1028 minutes et 10 secondestoutes les instructions et le contexte général. Je suis l'équipe marketing de Trade Republic. Le but ici du système d'agent, c'est de produire des posts
+28:1828 minutes et 18 secondesInstagram performants pour Trade Republic. La structure, donc je lui explique tous les agents que je vais mettre à l'intérieur de ma structure.
+28:2628 minutes et 26 secondesDonc c'est le petit schéma que je vous ai présenté préalablement. Je lui explique qu'il va y avoir un agent manager et ensuite des sous-agents. Je lui donne aussi des sources de
+28:3328 minutes et 33 secondesréférence, le site web, le compte Instagram de Trade Republic, les objectifs éditorials, les règles fondamentales, ce qui va me permettre de
+28:4128 minutes et 41 secondesdonner tout le cadre d'exécution de mon système d'agent. Et ici, comme vous pouvez le voir, il a créé ce petit fichiermd. Donc ça ça vous permet de
+28:4928 minutes et 49 secondescommencer à utiliser dans CL code juste ici. Mais moi personnellement je préfère l'utiliser directement dans Cursor. Pour ça vous venez juste ici et vous faites
+28:5728 minutes et 57 secondesouvrir dans Cursor. À partir de là, Cursor va s'ouvrir et vous allez voir qu'on va pouvoir utiliser Cloud Code sans être un développeur pour aller au bout du scénario. Si vous regardez ici
+29:0529 minutes et 5 secondesdéjà, on retrouve ce qu'il vient de me générer à l'instant dans Cloud Code et on retrouve ici par exemple les posts Instagram avec les différentes images
+29:1429 minutes et 14 secondespuisqu'on a sélectionné le dossier marketing trade Republic. Ensuite, maintenant on va pouvoir demander ici à droite à Cloud Code de se baser sur tous
+29:2229 minutes et 22 secondesles posts Instagram qui sont dans post Instagram, donc dans le dossier, mais aussi en consultant le dossier.mmd qu'on vient de créer avec tout le contexte
+29:3029 minutes et 30 secondespour me générer une skill qui soit en mesure de comprendre le ton, le format et toute l'atmosphère des images et
+29:3929 minutes et 39 secondesuniquement des images. Pourquoi ? parce que ça va me permettre de concevoir une skill qui soit en mesure d'indiquer ensuite à des subagent voici comment les
+29:4829 minutes et 48 secondesimages doivent être créé. Donc comme ça, vous lancez Claude Code et il va commencer à vous concevoir la skill. Ici à présent, on voit qu'il a terminé. La skill a été générée ici. Elle s'appelle
+29:5729 minutes et 57 secondesADN visuel Instagram. Maintenant ce que je vous propose de faire et bien c'est de faire la même chose mais ici uniquement sur le texte des descriptions
+30:0530 minutes et 5 secondesqui accompagnent chacune des images sur mon poste Instagram. On envoie la demande de génération de skill. Ici, encore une fois, la création du skill
+30:1230 minutes et 12 secondesest terminée. On a ici ADN texte Instagram qui cette fois-ci est une skill qui me permet de générer ce texte.
+30:1930 minutes et 19 secondesMaintenant qu'on a ça, si on regarde ici, si je fais slash MCP serveur, et bien on va pouvoir voir qu'il y a plusieurs MCP serveurs qui sont déjà
+30:2730 minutes et 27 secondesconnectés. En effet, j'ai déjà connecté ici notamment le MCP serveur avec Perplexity parce que si on reprend juste ici le système pour le copywritter, on
+30:3530 minutes et 35 secondesvient de créer cette skill. On a aussi créé ici la skill pour les visuels.
+30:4030 minutes et 40 secondesMaintenant, on va commencer à créer l'agent ici de recherche des sujets finances intéressant. Et pour ça, il doit s'appuyer ici sur Perplexity. Et
+30:4830 minutes et 48 secondesdonc pour ça, ici, vous faites slashagent.
+30:5130 minutes et 51 secondesÇa va vous ouvrir le terminal et à partir de là, vous allez pouvoir créer un nouvel agent pour un projet que vous allez générer avec Claude. Vous lui collez les informations. Ici, on veut
+31:0031 minutescréer un agent spécialisé dans la recherche de sujets d'actualité sur la finance. On lui dit que ces sujets sur la finance, c'est quoi ? C'est des IPO,
+31:0831 minutes et 8 secondesune industrie en croissance ou en décroissance, des secteurs porteurs, des changements politique majeur, tout ça, ce sont des sujets importants pour nous.
+31:1631 minutes et 16 secondesEt ensuite, pour effectuer la recherche, tu passeras obligatoirement par le MCP serveur de Perplexity et il devra automatiquement rechercher des
+31:2431 minutes et 24 secondesinformations sur les trois derniers jours par rapport à la date du jour afin de garantir que les sujets sélectionnés so récents et pertinent. On envoie les
+31:3231 minutes et 32 secondesinfos et l'agent est en train de se générer. Ici, l'agent me demande à quels outils il peut avoir accès. On va tous lui les donner. Il va fonctionner avec sonné et on va lui mettre une petite
+31:4131 minutes et 41 secondescouleur bleue qui nous rappelle Perplexity. On le lit au niveau du projet pour la mémoire. Et c'est parti.
+31:4631 minutes et 46 secondesL'agent est créé. Ici, comme vous pouvez le voir, on a Finance News Coot qui est l'agent qui a été créé. On va à présent lui demander de créer un second agent.
+31:5331 minutes et 53 secondesCette fois-ci, le but ça va être de lui dire de créer un agent spécialisé dans la création d'images de post Instagram.
+31:5931 minutes et 59 secondesSa mission, c'est de produire le visuel et uniquement le visuel. Pour ça, il va aller prendre le sujet d'actualité de la part de notre agent Finance qui aura
+32:0832 minutes et 8 secondesanalysé les infos dans Perplexity. Tu n'identifies jamais toi-même les sujets à traiter. Ensuite, ce subagent, je lui ai mis plusieurs étapes à suivre, mais surtout il respecte l'identité visuelle.
+32:1932 minutes et 19 secondesPour ça, il reprend la skill ADN visuel Instagram qu'on a créé préalablement. Et pour créer l'image, il s'appuie automatiquement sur le MCP Nano Banana.
+32:2932 minutes et 29 secondespour créer l'image. Je lui ai mis quelques contraintes. Il doit seulement créer une image et il ne doit jamais rédiger de texte, écrire un post,
+32:3632 minutes et 36 secondesproposer des hashtags et cetera. Son but à lui, c'est de faire seulement l'image.
+32:4132 minutes et 41 secondesJ'ai volontairement choisi ça. Comme ça, je m'assure qu'à la fin, le résultat, il soit d'une très bonne qualité.
+32:4532 minutes et 45 secondesMaintenant, comme on peut le voir, il a bien créé l'agent. On retrouve ici au niveau des agents l'agent Finance News Scout et ici Instagram Visual Creator.
+32:5532 minutes et 55 secondesDonc du coup, j'ai déjà bien mes deux subagent. Je vais devoir en créer un dernier. Celui-ci, il reprend plus ou moins la même démarche que celui qu'on
+33:0233 minutes et 2 secondesvient de créer pour les images. Par contre, il va être uniquement focalisé sur le texte. Comme ça, j'ai mon subagent qui va aller trouver le sujet pertinent. J'ai mes deux agents pour
+33:1033 minutes et 10 secondescréer l'image ainsi que pour créer le texte. Et une fois qu'on aura fait ça, il va nous rester une seule étape, c'est de créer le planificateur, donc
+33:1833 minutes et 18 secondesl'orchestrateur de ces sub agent juste après. Et donc à présent, j'ai bien mes trois sub agents qui sont prêts. Si on regarde ici une seconde, on a ce sub
+33:2633 minutes et 26 secondesagent qui est prêt. On a les deux autres ici aussi. Ils ont accès à leurs outils ainsi qu'aux différentes skills pour pouvoir s'assurer de la cohérence des
+33:3333 minutes et 33 secondescréations. Maintenant, on va créer l'Instagram manager qui lui va chapauter tout ça. Pour ça, je viens à droite et ici, si vous regardez bien, tu es le
+33:4133 minutes et 41 secondesmanager des agents de mon projet. On lui explique toute sa mission. On lui dit qu'avant toute chose, il vérifie systématiquement le dossier. Et là, on
+33:4833 minutes et 48 secondesva mettre trade republic Instagram agent.md avec tout le contexte.
+33:5233 minutes et 52 secondesL'objectif, c'est de créer des posts Instagram pour Trade Republic. Je lui ai mis ici toute la démarche. En un, il lance l'agent Finance News Scout pour aller chercher le sujet de pertinence.
+34:0334 minutes et 3 secondesEnsuite, il crée le visuel et ensuite, il crée le texte. À la fin, il me fait toute une synthèse, les sujets retenus, les concepts visuels, la légende et une
+34:1134 minutes et 11 secondesexplication. Je lance la création de ce dernier agent. À présent, il a terminé.
+34:1534 minutes et 15 secondesOn voit qu'il m'a créé tous les différents agents. Maintenant, ce qui va nous intéresser, c'est de voir s'ils sont capables de travailler entre eux et de me fournir un bon résultat. Pour ça, moi ici je débute une nouvelle session.
+34:2634 minutes et 26 secondesJe demande à l'agent manager qui est juste ici, Instagram manager, et je lui dis débute le process du prochain post Instagram à créer. Et ici, c'est parti.
+34:3534 minutes et 35 secondesVous voyez que le cycle complet, il a débuté. La première chose qu'il vient de faire, comme je lui ai demandé, c'est de lire tout le contexte qui est dans le fichiermd. Et ensuite ici, il est en
+34:4434 minutes et 44 secondestrain d'appeler l'agent Scoot pour pouvoir aller faire l'analyse sur Perplexity et me ressortir un sujet intéressant à traiter sur un post
+34:5134 minutes et 51 secondesInstagram. Vous voyez au passage que juste ici, je peux voir tout le cycle, donc toutes les étapes qui vont devoir être lancées par l'agent manager jusqu'à
+34:5934 minutes et 59 secondesarriver à l'étape 4 bis pour me ressortir tout le poste Instagram. Et maintenant ici, après quelques minutes, on voit que l'agent a réalisé toutes les
+35:0635 minutes et 6 secondestâches. Si vous regardez ici déjà, il a fait un suivi de toute sa todoo liste.
+35:1135 minutes et 11 secondesIl est allé rechercher ici avec l'agent de finance les informations. Il a ressorti un sujet. Ensuite, il a avancé
+35:1835 minutes et 18 secondesjusqu'à utiliser du copywriting pour écrire le poste et l'agent de création pour créer l'image. Le sujet qu'il a retenu, c'est l'entrée en bourse de la
+35:2635 minutes et 26 secondesmarque le slip français. Donc ça va être extrêmement intéressant. En plus, c'est français, donc c'est vraiment sympa. Et on va aller voir le résultat qu'il a généré ici. À la fin, si vous regardez
+35:3535 minutes et 35 secondesbien, il a fait toutes les modifications et il m'a validé un post Instagram pour le prochain cycle. Ici, l'entrée en bourse du sleep français, elle va avoir
+35:4435 minutes et 44 secondeslieu le 14 juillet, à l'heure à laquelle je tourne la vidéo, on est le 17, donc on est bien dans la fenêtre des tris jours qui ont été imposés, de créer un
+35:5135 minutes et 51 secondespetit caroussel. Là, il m'a préparé la première image, mais après il m'a préparé les cinq prontes pour les prochains visuels si j'en ai besoin. Il
+35:5935 minutes et 59 secondesm'a mis la légende avec le texte à renseigner. Il m'a aussi mis un potentiel de viralité. Maintenant, ce qu'on va aller voir, c'est à quoi
+36:0636 minutes et 6 secondesressemble cette image parce qu'on a déjà le texte juste ici. L'image, la voici.
+36:1136 minutes et 11 secondesElle respecte parfaitement ce que fait le slip français. On a ici le drapeau bleu, blanc, rouge ipo le slip français vient d'entrer en bourse. Voici comment.
+36:2036 minutes et 20 secondesEt là, on reprend bien et on retrouve bien toute l'ADN, toute la structure des postes qu'on a sur Trade Republic. Si vous regardez bien, ici, on a à chaque
+36:2736 minutes et 27 secondesfois le grand texte en haut avec un petit texte juste en bas. Ici, il nous l'a mis en français. Voilà, on a à chaque fois les mêmes patterns. Alors
+36:3536 minutes et 35 secondespas sur ces postes ici, mais ici par exemple, on a à chaque fois les bons éléments. On a le texte qui est prêt aussi. Il y aurait juste à publier.
+36:4436 minutes et 44 secondesMaintenant, la dernière chose qui nous reste à faire, ça va être de réouvrir ici cloud code et de lui dire "Tu vas faire en sorte que ce dossier les agents qui s'y exécutent fonctionne comme une
+36:5236 minutes et 52 secondesloupe afin de livrer le poste tous les lundis à 9h." Et à partir de là, maintenant que j'ai testé la loupe et qu'elle fonctionne, bien évidemment, vous pourriez encore faire des
+37:0137 minutes et 1 secondemodifications s'il y a besoin. C'est cette phase de test. Mais ici, imaginons que je souhaite continuer et bien je peux mettre en place la loupe. Et à
+37:0837 minutes et 8 secondespartir de là, et bien moi, j'ai plus du tout à travailler. C'est directement ce système d'agent qui va fonctionner de manière 100 % autonome. Et voilà, juste
+37:1737 minutes et 17 secondesici. Après quelques minutes, c'est en place. Voici ce qui a été créé. Il a créé toute l'automatisation. Ici, si vous regardez bien à gauche, j'ai
+37:2537 minutes et 25 secondesmaintenant Automation avec ici le weekly prompt qui me permet de débuter la loupe sans moi. J'ai plus à taper de prompt.
+37:3137 minutes et 31 secondesEt ici, on a tout le script de la loupe qui est maintenant en mesure de s'exécuter sans moi. Et donc ici et bien on a réussi à créer en seulement
+37:4037 minutes et 40 secondesquelques minutes ensemble toute une loupe 100 % automatisée qui me permettrait de générer des posts Instagram. Encore une fois, ici si vous voulez aller un tout petit peu plus
+37:4837 minutes et 48 secondesloin, vous ajoutez un outil qui est capable de publier directement pour vous sur Instagram ou de le faire par du computer use comme c'est déjà possible
+37:5637 minutes et 56 secondesde le faire avec l'aud et à partir de là vous êtes sur un processé.
+38:0138 minutes et 1 secondeà l'aide des loupes. Alors, normalement avec cette vidéo, vous avez tout ce qu'il vous faut pour créer vos premières loopes et automatiser toujours plus de tâches avec l'IA. Et vous l'avez vu dans
+38:0938 minutes et 9 secondesla vidéo, à l'intérieur de la loupe, on a créé une petite équipe d'agent IA.
+38:1338 minutes et 13 secondesMais vous voulez peut-être créer une équipe beaucoup plus complète d'agent IA à l'aide de Cloude. Et bien, ça tombe bien parce que juste ici, vous avez une vidéo qui s'affiche où je vous montre
+Chapitre 11 : Outro
+38:2138 minutes et 21 secondescomment créer votre première équipe d'agent à l'aide de cloud. Yeah.
+
+Tout
+
+Source : Elliott Pierret
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+181 k vues
+•
+il y a 2 semaines
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+12:40
+LA WHEY EST VRAIMENT UTILE OU JUSTE MARKETING ?
+Lucas Brosseaux
+59 vues
+•
+il y a 3 jours
+Nouveau
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1,1 M de vues
+•
+il y a 3 mois
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+55 k vues
+•
+il y a 3 semaines
+
+
+39:31
+Tech Sama Show #361 : Fin des Disques? Zen 6 Arrive
+Tech_Sama
+15 k vues
+•
+il y a 7 jours
+
+
+29:01
+Obsidian a fait exploser l'IA avec une MÉMOIRE GRATUITE ILLIMITÉE ! C'est ce que vous pouvez faire 🚀
+Alejavi Rivera
+76 k vues
+•
+il y a 2 mois
+Doublée
+
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+56 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+175 k vues
+•
+il y a 9 jours
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+
+1:41:31
+Jada Pinkett Smith : « Je voulais juste rester en vie jusqu'à 16h ! »
+The Diary Of A CEO
+2,3 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+99 k vues
+•
+il y a 1 mois
+
+2:22:38
+L'homme aux 100M$ avant 32 ans : comment il a brisé ses chaînes | Alex Hormozi
+The Diary Of A CEO
+ et Alex Hormozi
+854 k vues
+•
+il y a 2 jours
+Nouveau
+Doublée
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+15 k vues
+•
+il y a 2 jours
+Nouveau
+
+2:02:28
+🎙️COMPLOTISTE VS ZETETICIEN ! (avec Mr Sam) [Pas Content avec Tabibian !]
+J'suis pas content TV
+154 k vues
+•
+il y a 5 mois
+
+24:00
+Ne plus JAMAIS atteindre la limite de Tokens dans Claude !
+Elliott Pierret
+56 k vues
+•
+il y a 2 mois
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 7 jours
+
+    

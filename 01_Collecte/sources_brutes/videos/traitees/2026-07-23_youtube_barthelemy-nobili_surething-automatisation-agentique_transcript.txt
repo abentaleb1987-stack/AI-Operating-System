@@ -1,0 +1,1270 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+SureThing: L'agence AI qui automatise TOUT. Guide complet !
+Barthélémy Nobili
+Barthélémy Nobili
+149 k abonnés
+
+Rejoindre
+
+
+50
+
+
+Partager
+
+Posez une question
+
+978 vues  21 juil. 2026
+Automatisez votre travail avec SureThing gratuitement 👉  : https://surething.io/invitation?ref=N...
+
+Découvrez SureThing, l'IA agentique qui automatise vos tâches répétitives et gère vos réseaux sociaux sans effort. Fini la complexité de Make ou N8N : avec ses agents autonomes connectés à +1000 outils, SureThing révolutionne votre productivité. Apprenez à automatiser votre veille IA, programmer des posts (LinkedIn/Instagram) avec votre branding, et créer des dashboards YouTube en temps réel. Une solution incontournable pour les entrepreneurs en 2026. Profitez de 1000 crédits gratuits pour démarrer.
+
+SOMMAIRE :
+
+00:00 Introduction
+1:47 INTERFACE
+2:28 CONNECTEURS ET APPLIS
+4:31 EXEMPLE 1
+9:59 EXEMPLE 2
+11:58 EXEMPLE 3
+15:07 AUTRES OPTIONS
+15:53 CONCLUSION
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+
+👉 CG DREAM : https://bit.ly/3CPxtJT 👈
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+👉  EDIMAKOR : https://goo.su/jEG3UD
+► Utilisez coupon pour profiter de 30% réductions instantanées : VE30OFFBD
+
+
+
+Abonnez-vous pour plus de contenus de valeur !!!
+ 
+Barthélémy.
+Barthélémy Nobili présente les fonctionnalités agentiques de la plateforme SureThing. Cette solution permet de connecter près de 1000 outils tiers pour automatiser des routines complexes, allant de la gestion des réseaux sociaux au suivi de statistiques en temps réel, tout en offrant une interface intuitive pour orchestrer ces flux de travail sans compétences techniques avancées.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+149 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+5 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Lion-dragon-k7q
+il y a 1 jour
+Toujours au top
+
+
+
+Répondre
+
+
+@SebastienHanoteaux
+il y a 1 jour
+Bonjour, super découverte, merci. Par contre dommagte que l'on ne puisse pas choisir son provider LLM. Juste du claude. Mais bon, je vais tester ce que ça vaut.
+
+
+
+Répondre
+
+
+@Juni_Or
+il y a 21 heures
+Impossible de lier mais comptez Instagram et TikTok ?
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Introduction
+0:01
+[grognement]
+0:05
+Salut à tous. L'IA que je vous présente
+0:06
+aujourd'hui s'appelle Shink. Je m'excuse
+0:10
+par avance de mon accent anglais. Elle
+0:12
+se présente comme la première General AI
+0:15
+Agency, un agent IA regroupant dans son
+0:18
+écosystème de très très nombreux autres
+0:22
+agents IA totalement dévoués à vos
+0:24
+tâches. Vous allez voir que les
+0:27
+possibilités de connexion avec des
+0:29
+applications externes est vraiment
+0:31
+énorme. CIA été pensé pour les agences,
+0:34
+pour les solopreneurs, pour les
+0:37
+entrepreneurs de tout genre et vous
+0:39
+allez voir que ces possibilités sont
+0:41
+très nombreuses. Vous allez avoir accès
+0:44
+à 1000 crédits gratuits pour l'essayer
+0:46
+lorsque vous vous inscrivez dessus, plus
+0:48
+150 crédits quotidiens et 500 crédits
+0:51
+supplémentaires dès que vous invitez un
+0:54
+ami, un collègue à essayer cette
+0:56
+dernière. Donc c'est un système assez
+0:58
+généreux et vous allez voir qu'avec 1000
+1:00
+crédits, vous allez pouvoir faire
+1:01
+beaucoup de choses, automatiser vos
+1:04
+tâches répétitives pour la rédaction, la
+1:06
+publication et cetera. Vous allez
+1:08
+pouvoir réduire vos coûts opérationnels.
+1:10
+Vous allez pouvoir prendre des décisions
+1:13
+basées sur des données hyper pointues et
+1:16
+vous allez pouvoir libérer du temps pour
+1:18
+d'autres tâches moins répétitives. C'est
+1:21
+Barteléi. Pour ceux qui ne me
+1:22
+connaissent pas, merci de cliquer sur le
+1:24
+bouton de suscription pour m'aider au
+1:25
+développement de cette chaîne. Et moi,
+1:27
+je vous emmène sur l'interface de ce
+1:29
+Show Think.
+INTERFACE
+1:49
+Nous voici sur l'interface de
+1:50
+showfing.io,
+1:52
+le nom exact. Alors, ici, il suffit de
+1:54
+cliquer sur try for free ou get started
+1:56
+for free, de vous inscrire à votre
+1:58
+compte Google. Ici, vous signez
+2:00
+simplement avec votre compte Google.
+2:03
+Ici, vous avez un compte-rendu des
+2:05
+benchmark où cet I obtient des scores
+2:07
+vraiment flatteurs. Ici, on se retrouve
+2:09
+sur l'interface. Donc, vous voyez que
+2:11
+ici, j'ai déjà élaboré quelques projets
+2:13
+dont je vais vous faire part. Comme je
+2:15
+vous l'ai dit, vous pouvez en cliquant
+2:17
+sur ce bouton Share Show thing obtenir
+2:19
+500 crédits supplémentaires. À chaque
+2:21
+journée où vous ouvrez l'application et
+2:23
+bien vous aurez 150 crédits en plus, en
+2:25
+plus des 1000 crédits offerts, qui est
+2:27
+quand même pas mal.
+CONNECTEURS ET APPLIS
+2:30
+Le premier point qui éveille notre
+2:32
+intérêt, c'est le nombre d'agents
+2:34
+impressionnants auquels vous pouvez vous
+2:36
+connecter. Et comme n'importe quel IA
+2:39
+spécialisé dans les traitements via des
+2:42
+agents indépendants, via le mode
+2:44
+agentique, vous avez comme sur Claude
+2:46
+les routines. Alors les routines, c'est
+2:48
+le fait de pouvoir définir à chaque jour
+2:51
+une action répétitive. Par exemple, je
+2:54
+lui ai demandé et je vais vous montrer
+2:55
+ça en détail qu'à chaque jour à 8h du
+2:58
+matin, j'obtienne l'éveil tendance IA
+3:00
+sous la forme de 10 posts déclinés en
+3:03
+cinq posts LinkedIn, trois posts X et
+3:05
+deux posts Instagram. Vous pouvez
+3:07
+définir ça selon un rythme précis par
+3:10
+heure, par demi-journée, par journée.
+3:12
+Vous avez ensuite les intégrations.
+3:14
+Alors ici, je ne vous mens pas. Voyez
+3:16
+ici le nombre de logiciels externes que
+3:19
+vous pouvez lier à cette IA. Alors, on a
+3:21
+les classiques qu'on retrouve dans Cloud
+3:23
+désormais dans chat GPT la Galaxie
+3:25
+Google Notion GitHub LinkedIn mais si
+3:29
+vous descendez on a près de 1000
+3:32
+logiciels externes que vous pouvez
+3:34
+joindre à cette IA. Je n'ai même pas eu
+3:37
+le temps de tous les euh vérifier
+3:39
+tellement leur nombre est conséquent. Et
+3:42
+c'est la première fois que je vois une
+3:45
+IA fonctionnant en mode agentique qui
+3:47
+permet une connexion avec autant de
+3:50
+logiciels. C'est vraiment
+3:51
+impressionnant. On a vraiment toute la
+3:53
+galaxie des logiciels les plus connus du
+3:55
+monde entier, je dirais hein. Vous avez
+3:57
+même ticket master, des trucs auxquels
+3:59
+on aurait jamais pensé. Vous avez
+4:01
+ensuite la fonction brow agents. Ici, il
+4:05
+s'agit d'une bibliothèque d'agents que
+4:07
+vous pouvez choisir qui sont déjà
+4:09
+paramétrés pour vous faciliter la tâche,
+4:12
+un petit peu comme sur make et cetera.
+4:14
+Et l'idée dans cet ensemble, si vous ne
+4:17
+savez pas à quel agent recourir, etth
+4:20
+bien il suffira dans le chat de taper ce
+4:22
+que vous voulez faire et le système
+4:24
+choisira de lui-même les agents les plus
+4:27
+aptes si vous voulez à enclencher à
+4:29
+démarrer votre tâche.
+EXEMPLE 1
+4:34
+L'exemple numéro 1, une fois que vous
+4:36
+êtes dans votre projet, ici vous voyez
+4:38
+le contenu de la conversation. Ici vous
+4:40
+avez le type de page que votre agent a
+4:43
+créé. Bon, dans ce chat, il y avait pas
+4:44
+de page. Donc ici, il y a marqué noget
+4:46
+J. C'est normal. Ici, voici le nom des
+4:49
+agents, le type d'agent que le système a
+4:52
+enclencher pour que je puisse mener à
+4:54
+bien ma requête. Un agent voué à la
+4:57
+publication de poste sur les réseaux
+4:59
+sociaux, un agent nommé success coach
+5:02
+chargé de la mise en route de ce système
+5:04
+et un agent project agent qui permet
+5:06
+donc de lier les différents agents pour
+5:09
+vous fournir ce que vous avez demandé.
+5:11
+Au final, vous avez ensuite les
+5:13
+routines. Donc les routines, c'est ce
+5:14
+que je vous ai dit ici. Je lui ai
+5:16
+demandé que cet agent soit capable de me
+5:19
+fournir les tendances IA à une fréquence
+5:21
+quotidienne. Ici, vous pouvez connecter
+5:24
+vos agents vous-mêmes. Et ici, sous
+5:26
+forme de symbole, vous voyez que ici,
+5:28
+j'ai connecté Shorfing à mon compte
+5:31
+YouTube Studio, à mon compte LinkedIn et
+5:34
+à Canva. J'ai d'ailleurs été
+5:36
+agréablement étonné de la facilité de
+5:39
+connexion de shorfing à l'ensemble des
+5:41
+applications externes. Et l'objet de ma
+5:44
+requête était la suivante : analyse des
+5:46
+sujets qui buzz cette semaine dans le
+5:47
+secteur de l'intelligence artificielle.
+5:49
+Propose-moi un lot de 10 postes. 5 pour
+5:51
+LinkedIn, 3 pour X, 2 pour Instagram qui
+5:54
+reprennent ces tendances tout en gardant
+5:56
+ma voix de marque. Place-les dans ma
+5:58
+file d'attente pour validation sans rien
+6:00
+publier automatiquement. Quand il est
+6:01
+spécifié tout en gardant ma voix de
+6:03
+marque, cela signifie que vous pouvez
+6:05
+confier comme base de connaissance à ce
+6:07
+système un document qui comprend votre
+6:09
+branding, vos couleurs dominantes, votre
+6:11
+police, bref tous les éléments visuels
+6:13
+qui permettent à vos prospects, à vos
+6:15
+clients de vous reconnaître au premier
+6:17
+coup de ici l'agent a commencé son
+6:20
+processus de réflexion en quatre étapes.
+6:22
+La veille, tendance, IA et le lot de
+6:24
+poste. Chaque jour, il repère les sujets
+6:26
+qui buzent dans l'IA. Il rédige 10
+6:28
+postes caliers sur ses tendances. Il
+6:30
+dépose tout dans votre fil d'attente
+6:31
+pour validation. Rien n'est publié
+6:33
+automatiquement. Ça, c'est moi qui ai
+6:34
+préféré d'abord euh vérifier puis
+6:37
+valider les futures publications. Mais
+6:39
+si j'avais voulu que l'argent me me
+6:41
+publie directement les postes, j'aurais
+6:43
+pu le faire. Ce que vous recevez un lot
+6:45
+de 10 postes prêt à relire chaque jour
+6:47
+sans qu'aucun ne parte sans votre feu
+6:48
+vert. Si ça correspond à votre façon de
+6:51
+faire, tapez le le bouton ci-dessous. Si
+6:53
+quelque chose cloche, vos sujets de
+6:55
+prédilection, votre temps des règles à
+6:57
+respecter, écrivez-le et je l'intègre.
+6:59
+Là, je vais répondre ça me va créer mon
+7:01
+agent. Le premier agent créé, c'est le
+7:04
+success coach. Et là, le système me
+7:05
+répond que je vais voir une carte de
+7:07
+confirmation dans la conversation. Un
+7:09
+clic sur créer et votre nouvel agent
+7:11
+sera recruté. Il vous présentera son
+7:13
+plan, vous demandera l'accès à LinkedIn
+7:14
+dont il a besoin et dès que vous lui
+7:16
+donnez le feu vert, il vous livrera un
+7:18
+premier échantillon trois postes t- des
+7:20
+tendances. Donc ici, comme dans
+7:22
+n'importe quel mode agentique, le
+7:24
+système vous fait part de son évolution,
+7:27
+de son processus de réflexion tout au
+7:29
+long du processus. Là, il vous rappelle
+7:31
+sa mission. Chaque jour, je repère un
+7:33
+sujet qui b en l'IA, annonce des
+7:35
+balancements et j'en tire un lot de
+7:36
+poste calé sur ces tendances dans votre
+7:37
+voie de marque. Ma méthode, je scanne le
+7:40
+web et les plateformes pour identifier
+7:41
+les tendances hier de la semaine. Je
+7:43
+rédige les postes adaptés à chaque
+7:44
+plateforme et à votre ton. Je dépose
+7:46
+tout dans votre fil d'attente. Alors
+7:48
+ici, lorsque vous paramétrez ce type
+7:49
+d'agent une première fois, et bien il
+7:51
+conviendra de valider toutes les
+7:53
+connexions nécessaire à l'ensemble.
+7:55
+Alors selon la complexité de la tâche et
+7:57
+bien vous aurez à attendre quelques
+8:00
+précieuses minutes pour que l'agent
+8:01
+puisse valider l'ensemble. Et ici vous
+8:04
+voyez que tous les agents ont commencé à
+8:06
+se connecter à vos applis externes,
+8:08
+LinkedIn, Twitter, Instagram. Je vais
+8:11
+préciser que tous les articles doivent
+8:12
+être en français par mesure de
+8:13
+précaution. L'agent passe au AI Trend
+8:17
+post studio dont le but est de me
+8:19
+fournir les visuels et le contenu de ces
+8:21
+derniers. Et ensuite, j'ai le AI trend
+8:23
+post studio qui va générer l'ensemble,
+8:25
+qui va finaliser les posts que vous avez
+8:28
+soumis, demander au système. Et voilà,
+8:30
+on a un premier poste pour Twitter.
+8:32
+Cette semaine, on y a Open EAI lance
+8:34
+GPT5.6, 6 m dévoile park Google Sini
+8:38
+Omniflash et évidemment les images sont
+8:41
+également créées. Alors à partir de là
+8:43
+si le poste vous plaît, il suffit de
+8:44
+cliquer sur post et ici vous voyez que
+8:46
+le poste sera immédiatement publié sur
+8:48
+Twitter. Ensuite on a la déclinaison
+8:50
+Instagram, l'actuia la plus marquante de
+8:52
+la semaine et ici aussi vous allez avoir
+8:54
+le texte, l'image adaptée. Vous pouvez
+8:56
+ajouter d'autres photos ou d'autres
+8:58
+vidéos et poster l'ensemble. Il nous
+9:00
+reste d'autres itérations. On a un
+9:03
+deuxième poste Instagram. On a le poste
+9:05
+adapté à LinkedIn sous sa forme
+9:08
+brouillon comme il est spécifié ici. On
+9:10
+a un deuxème poste LinkedIn. On a un 3è
+9:13
+poste LinkedIn. Et vous voyez que non
+9:15
+seulement le système répond bien mais
+9:17
+les images sont de très bonne qualité.
+9:19
+Et ici euh l'ensemble des trois projets
+9:21
+que j'ai créé m'ont coûté euh environ
+9:24
+700 crédits. Donc avec les 1000 euh
+9:27
+crédits et des poussières que vous
+9:29
+obtenez, vous avez déjà de quoi faire
+9:31
+beaucoup de choses. Voilà, on a encore
+9:33
+des itérations des posts LinkedIn, des
+9:35
+itérations des posts Twitter, des
+9:37
+itérations des posts Instagram. Et là,
+9:39
+on me précise que LinkedIn étant
+9:41
+connecté, je peux valider et publier ces
+9:43
+cinq posts directement. X et Instagram
+9:45
+ne sont pas encore connectés. Je ne les
+9:46
+ai pas connecté parce que je voulais
+9:48
+déjà tester la publication sur LinkedIn.
+9:50
+J'ai publié le poste sur LinkedIn et
+9:52
+celui-ci a été publié immédiatement.
+9:54
+Donc voilà pour les facilités
+9:56
+d'utilisation de ce premier agent.
+EXEMPLE 2
+10:02
+Deuxième cas de figure, je lui ai
+10:03
+demandé de me construire un dashboard
+10:05
+qui affiche en temps réel tous mes posts
+10:07
+publiés sur YouTube les 15 derniers
+10:09
+jours et un graphique d'engagement, les
+10:12
+likes, les commentaires, les partages
+10:14
+les 30 derniers jours. Ici, c'est la
+10:16
+même chose. Le processus de réflexion
+10:19
+est clairement défini. Mais ici, pour
+10:21
+voir euh la concrétisation de vos
+10:23
+demandes, il faudra sortir du chat de la
+10:26
+conversation et de vous rendre ailleurs,
+10:28
+c'est-à-dire sur les pages. Et ici, sur
+10:30
+les pages, voilà en fait euh une
+10:33
+reconstitution si vous voulez de la page
+10:35
+statistique de YouTube avec les vues
+10:38
+mensuelles, les likes, les commentaires
+10:40
+et lorsque vous passez sur n'importe
+10:42
+quel point, on a les vues, les likes,
+10:44
+les commentaires au jour le jour. Et
+10:46
+lorsque vous descendez, vous avez
+10:48
+également les statistiques vidéo par
+10:50
+vidéo correspondant aux 30 derniers
+10:52
+jours de publication. Et ici, j'ai
+10:55
+laissé cet agent tourner pendant 2
+10:57
+jours. Vous voyez que toutes les 60
+10:59
+secondes, celui-ci émet une nouvelle
+11:01
+recherche pour voir les nouveaux abonnés
+11:03
+et cetera. Ici, le nombre d'agents créés
+11:06
+par ce projet, c'est le YouTube
+11:08
+engagement Dashboard et le Project
+11:11
+Agents. Comme je vous l'ai dit, vous
+11:12
+n'avez pas besoin de spécifier un agent,
+11:14
+le système s'en charge pour vous. Et au
+11:16
+niveau des routines, et bien ici, je
+11:18
+vais avoir des indications relatives, si
+11:20
+vous voulez, à la durée de publication,
+11:22
+c'est-à-dire toutes les références
+11:24
+temporel grâce auxquelles l'agent va
+11:27
+prendre en compte pour les restituer sur
+11:29
+cette page, les nouvelles vues, les
+11:31
+nouveaux clics, les nouveaux likes et
+11:33
+les nouveaux commentaires. Alors, pour
+11:35
+ce type d'agent, vous pouvez prévoir
+11:38
+différents types de programmation. Je
+11:40
+peux lui dire que si je sors de ce chat,
+11:42
+si je quitte ce site, et bien l'agent
+11:44
+s'arrête de travailler. Mais si je lui
+11:45
+dis que l'agent doit créer en continu,
+11:48
+et bien lorsque je reviendrai sur
+11:51
+showing, j'aurai les dernières
+11:52
+statistiques de la date où j'ai quitté
+11:54
+l'application jusqu'à la date où je l'ai
+11:57
+[raclement de gorge][grognement]
+11:57
+réouvert.
+EXEMPLE 3
+12:01
+Cas de figure. Alors celui-ci 3è cas de
+12:04
+3è cas de figure 3è cas de figure. Alors
+12:06
+celui-ci m'a relativement impressionné.
+12:09
+Je lui ai demandé avant de publier
+12:10
+chaque poste Instagram, génère un visuel
+12:13
+adapté avec Canva au format carré 1.1
+12:15
+pour le fil 916e pour les stories et les
+12:18
+re dans un style épuré, coloré,
+12:20
+photoaliste où je dois ensuite je lui ai
+12:23
+demandé de me proposer deux variantes à
+12:25
+valider avant toute publication.
+12:27
+Ensuite, je lui précise le thème. Le
+12:28
+thème d'aujourd'hui est Meta et Studio,
+12:30
+le nouveau générateur d'images
+12:32
+incroyable. Alors ici ce que je voulais
+12:34
+faire c'était de connecter Canva pour
+12:36
+que le système ne me fournisse pas des
+12:39
+images plates si vous voulez mais des
+12:41
+images dans lesquelles je pourrais
+12:43
+intervenir sur le texte. Alors ici
+12:46
+l'agent enclenché c'est le design agent.
+12:48
+Celui-ci me rappelle que la règle
+12:50
+fondamentale est permanente. Et bien,
+12:52
+c'est ce que je viens de vous de vous
+12:54
+signifier hein. Avant chaque poste
+12:55
+Instagram, je génère un visuel canva et
+12:57
+je te propose deux variantes. On a le
+12:59
+rappel du thème et la génération est
+13:01
+lancée. Alors, ici, comme dans le
+13:03
+premier cas, on va me demander de me
+13:05
+connecter à mon canva et ici, voilà ce
+13:08
+que m'a d'abord généré le système. Donc
+13:11
+ça, je trouvais ça trop neutre, trop fad
+13:13
+ça ne me convenait pas. Mais le système
+13:16
+m'a proposé également une deuxième
+13:18
+variante. C'est un peu comme dans chat
+13:20
+GPT, parfois quand vous générez une
+13:23
+photo et bien il vous demande quelle
+13:26
+photo vous préférez. Donc là il y a sans
+13:28
+faire de jeux de mots pas photo entre
+13:31
+cette image et celle-ci. Donc ici, je
+13:33
+lui ai confirmé que je voulais une
+13:34
+itération de ces différentes images.
+13:37
+Ici, le design agent me précise que
+13:40
+l'image B a été validée. Et ici, on me
+13:43
+propose de les ouvrir dans Canva. Alors,
+13:45
+ici, je suis sur l'interface de mon
+13:47
+application Canva où je crée euh mes
+13:50
+vignettes et cetera. Et vous voyez que
+13:53
+le système m'a bien généré les
+13:56
+occurrences, les itérations de chaque
+13:58
+image. Ici, j'ai une itération un petit
+14:01
+peu différente et vous voyez que ce qui
+14:03
+me plaît ici, c'est que lorsque je
+14:05
+clique là, je peux tout à fait moduler
+14:07
+le texte, le modifier, le supprimer. Et
+14:09
+ça c'est vraiment top parce que parfois
+14:12
+vous êtes content des images mais le
+14:13
+texte ne suit pas. On a la première au
+14:16
+format carré. Là c'est pareil, je peux
+14:18
+avoir la main sur l'ensemble. Et ici
+14:21
+cette première enfin ces deux premières
+14:22
+images correspondaient à mes deux
+14:24
+premiers textes et elles sont bien au
+14:26
+format demandé parfaitement compatible
+14:28
+soit pour les posts soit pour les
+14:30
+stories ou les real Instagram ou TikTok.
+14:33
+Et ce qu'il y a de bien c'est que vous
+14:34
+pouvez toujours discuter avec l'agent
+14:36
+celui-ci réagit au quart de tour pour
+14:39
+vous fournir vraiment ce que vous
+14:40
+voulez. Donc là, à partir du moment où
+14:42
+vous avez connecté Canva, vous obtenez
+14:44
+plusieurs itérations, celles que je vous
+14:46
+ai montré, et l'agent ne s'arrête jamais
+14:48
+tant qu'il n'a pas votre validation
+14:50
+finale. Et sur le gâteau, le système
+14:53
+vous fournit également une version au
+14:55
+format PowerPoint des images que vous
+14:57
+allez pouvoir également utiliser dans ce
+14:59
+format et par ce biais. Alors,
+15:01
+évidemment, hein, ici je pourrais vous
+15:03
+montrer des milliers de choses, mais
+15:05
+cette vidéo durerait 3h.
+AUTRES OPTIONS
+15:10
+Ce que vous pouvez faire, comme je vous
+15:11
+l'ai signalé au début, c'est d'aller
+15:13
+jeter un coup d'œil dans cette partie
+15:16
+Brow Agents pour jeter un coup d'œil au
+15:19
+type d'automatisation qui sont déjà
+15:21
+définies par le système. Vous avez des
+15:23
+agents, voilà, pour vous aider à écrire
+15:25
+sur notion. Vous avez des agents de
+15:27
+recherche, vous avez des agents pour euh
+15:29
+par exemple euh chercher tous les mails
+15:32
+contenant le mot facture, vous fournir
+15:34
+ces derniers sous forme de tableau
+15:36
+Excel. C'est vraiment un outil puissant
+15:38
+qui est euh caractérisé par le fait
+15:41
+d'une grande pluralité au niveau des
+15:44
+possibilités, des connecteurs externes
+15:46
+et surtout d'une relative facilité
+15:49
+d'utilisation qui personnellement m'a
+15:51
+séduit.
+CONCLUSION
+15:56
+Alors, on le comprend hein, cette
+15:59
+avancée vers le mode agentique sur des
+16:01
+systèmes tels que sur Shfink, mais
+16:04
+également dans des logiciels plus grand
+16:06
+public tels que Chat GPT, Cloud, voir
+16:09
+Google a complètement mis un coup sur la
+16:12
+tête au système style Make et N parce
+16:16
+que pendant les 6 derniers mois de
+16:19
+l'année 2025, on ne parlait que de ça.
+16:22
+Alors, moi, je les ai longuement testé.
+16:24
+Mais c'est vrai que même en s'y
+16:26
+connaissant, les workflow à créer sont
+16:29
+euh très labourieux. Il suffit qu'il
+16:32
+vous manque
+16:34
+une annotation, un crochet, une
+16:36
+parenthèse pour que tout le système ne
+16:38
+fonctionne pas. Avec ce nouveau type de
+16:40
+mode agentique regroupé dans un système
+16:43
+simple d'utilisation, une variété des
+16:46
+connecteurs et des application que vous
+16:48
+pouvez lier euh à ces derniers et bien
+16:50
+le processus devient facile. Vous n'avez
+16:53
+plus besoin de passer par des circuits
+16:54
+complexes comme M ou ou NN pardon pour
+16:58
+mener à bien vos automatisations. Ceux
+17:00
+qui utilisent Cloud au quotidien avec le
+17:02
+cowork sont au courant de ce que je veux
+17:05
+dire. Avec ce type dia short,
+17:09
+l'ensemble ajoute un côté ludique dans
+17:11
+la mesure où il est très facile de mener
+17:15
+à bien vos processus d'automatisation.
+17:17
+Donc vous avez toutes les clés en main.
+17:19
+Je vous ai mis tous les liens en
+17:21
+description. N'oubliez pas que vous
+17:22
+bénéficiez de 1000 crédits gratuits pour
+17:25
+utiliser Lia plus 500 par euh invité. et
+17:30
+150 crédits qui viennent s'ajouter de
+17:32
+manière quotidienne à l'ensemble. Alors,
+17:34
+voici pour cette vidéo. Vous n'avez plus
+17:37
+aucune excuse. Dites-moi ce que vous en
+17:39
+pensez en commentaire. Moi en tout cas,
+17:41
+j'ai adoré utiliser cette IA et je vais
+17:45
+euh sûrement m'en servir davantage
+17:48
+tantus
+17:49
+et Tisé et l'interface très agréable.
+17:53
+C'était Barté. Je vous souhaite
+17:55
+d'excellents tests et une excellente
+17:57
+journée. Ciao !
+
+Tout
+
+Source : Barthélémy Nobili
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+43:57
+I Analyzed 50 Channels that Hit 1M Subs Here’s What They Have in Common
+Evan Carmichael
+64 k vues
+Sponsorisé
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+181 k vues
+•
+il y a 2 semaines
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+12:40
+LA WHEY EST VRAIMENT UTILE OU JUSTE MARKETING ?
+Lucas Brosseaux
+59 vues
+•
+il y a 3 jours
+Nouveau
+
+
+2:42:13
+Nous créons des hommes dangereux, solitaires et brisés ! – Expert en manipulation, Robert Greene
+The Diary Of A CEO
+1,6 M de vues
+•
+il y a 1 an
+Doublée
+
+
+14:24
+Ce que personne ne comprend au sujet des protéines
+Nassim Sahili
+1,3 M de vues
+•
+il y a 1 an
+
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+55 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+30:03
+Z.AI Chat GLM 5.2 :  la meilleure alternative à Claude. 100% Open Source ! Guide complet .
+Barthélémy Nobili
+5,9 k vues
+•
+il y a 12 jours
+
+
+2:39:50
+Expert anti-âge : lâchez vos tickets de caisse ! L'astuce ultime pour brûler la graisse viscérale
+The Diary Of A CEO
+ et FoundMyFitness
+3,1 M de vues
+•
+il y a 3 mois
+Doublée
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+641 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+175 k vues
+•
+il y a 9 jours
+
+
+38:26
+Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)
+Elliott Pierret
+2,7 k vues
+•
+il y a 14 heures
+Nouveau
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+55 k vues
+•
+il y a 3 semaines
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+376 k vues
+•
+il y a 1 mois
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+99 k vues
+•
+il y a 1 mois
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 6 jours
+Nouveau
+
+1:39:06
+Les Sacrifices d'un Strongman pour avoir un physique hors norme (douleurs, lifestyle, dérives...)
+Biomécanique et tengostrong
+112 k vues
+•
+il y a 1 an
+
+3:13:57
+L’homme qui crée des millionnaires: de 0 à 10k$ avec sa formule. Alex Hormozi
+The Diary Of A CEO
+4,9 M de vues
+•
+il y a 1 an
+Doublée
+
+15:15
+Les Agents IA ont définitivement tué le SaaS (Voici la suite)
+Mike Codeur
+15 k vues
+•
+il y a 2 semaines
+
+    
