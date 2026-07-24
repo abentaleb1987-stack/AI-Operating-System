@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 66b3f16
+- Commit audite : e260bb3
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-24 03:47:15
+- Rapport genere le : 2026-07-24 10:00:12
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,9 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `e260bb3` - 2026-07-24 03:47:15 +0000 - Audit - docs(aos): add daily audit report
 - `66b3f16` - 2026-07-23 21:39:22 +0200 - Knowledge batch - docs(aos): process video source batch
 - `4e5b952` - 2026-07-23 10:06:28 +0000 - Audit - docs(aos): add daily audit report
-- `58547a7` - 2026-07-23 03:48:25 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -45,13 +45,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `e260bb3` - 2026-07-24 03:47:15 +0000 - docs(aos): add daily audit report
 - `4e5b952` - 2026-07-23 10:06:28 +0000 - docs(aos): add daily audit report
-- `58547a7` - 2026-07-23 03:48:25 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `e260bb3` - 2026-07-24 03:47:15 +0000 - Audit - docs(aos): add daily audit report
 - `4e5b952` - 2026-07-23 10:06:28 +0000 - Audit - docs(aos): add daily audit report
-- `58547a7` - 2026-07-23 03:48:25 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -66,7 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-07-23_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-07-24_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-23_youtube_barthelemy-nobili_surething-automatisation-agentique_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-23_youtube_elliott-pierret_loops-codex-claude-code_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-23_youtube_hugo-buisson_gemini-3-6-flash-benchmarks_transcript.txt
