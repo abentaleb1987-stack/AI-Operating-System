@@ -1,0 +1,521 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Pourquoi la fonction "Durée" tant espérée de SUNO n'est pas à la hauteur de nos attentes !
+Barthélémy Nobili
+Barthélémy Nobili
+149 k abonnés
+
+Rejoindre
+
+
+1
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+24 juil. 2026  #SUNO #SunoAI #IAmusicale
+⚙️ Vidéo sponsorisée par **Visual GPT**, la plateforme multimodale tout-en-un (AI Image Editor, AI Video Generator, AI Photo Studio) : https://visualgpt.io?fpr=l21knn
+
+GPT SUNO CREATOR : https://chatgpt.com/g/g-68ea10c9136c8...
+
+🎵 SUNO vient enfin de sortir la fonctionnalité que tout le monde attendait depuis des lustres : la possibilité de préciser la DURÉE de vos morceaux. Sur le papier, une avancée majeure. Dans les faits… c'est une tout autre histoire.
+
+Dans cette vidéo, je teste en profondeur cette nouvelle option et je vous explique sans détour pourquoi elle m'a laissé perplexe : morceaux coupés en plein milieu, durées totalement aléatoires, conflit avec le système de balises de paroles, et surtout une consommation de crédits qui explose. Je vous montre mes tests (un rock progressif façon Yes – *Close to the Edge*, puis un jazz à la Astrud Gilberto) et je vous livre la seule solution qui, à mon sens, rend cette mise à jour réellement exploitable.
+
+
+
+```
+SOMMAIRE :
+00:00 Introduction
+1:02 Sponsor : Visual GPT
+5:34 LA FONCTION "DURÉE"
+9:22 PROBLÉMATIQUE
+12:56 INDICATIONS ALÉATOIRES
+16:33 PROBLÈME DES CRÉDITS
+17:07 LA SOLUTION ?
+18:00 CONCLUSION
+```
+
+#SUNO #SunoAI #IAmusicale #MusiqueIA #IntelligenceArtificielle #BarthélémyNobili
+
+
+👉 LE GUIDE SUNO VISUEL INTERACTIF ENFIN DISPONIBLE 👈
+https://barthelemynobili.formator.io/...
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+👉 CG DREAM : https://bit.ly/3CPxtJT 👈
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+👉  EDIMAKOR : https://goo.su/jEG3UD
+► Utilisez coupon pour profiter de 30% réductions instantanées : VE30OFFBD
+
+
+
+Abonnez-vous pour plus de contenus de valeur !!!
+ 
+Barthélémy.
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+149 k abonnés
+Vidéos
+À propos
+Suivez-moi sur INSTAGRAM !
+Suivez-moi sur LINKEDIN !
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:055 secondesSalut à tous. Grosse nouveauté SUO que  tout le monde espérait depuis des lustres,  
+0:1111 secondesle fait de pouvoir préciser au système la durée  de votre audio. Alors, au départ, j'avoue que  
+0:1919 secondescette option euh m'a séduit, c'est-à-dire que  je me suis dit euh ça y est, Suno évolue dans  
+0:2929 secondesle bon sens du terme. Et bien vous allez voir  tout au long de cette courte vidéo que pour  
+0:3636 secondesma part je trouve ce système particulièrement  aléatoire. Vous savez que sur cette chaîne si  
+0:4343 secondesquelque chose ne me plaît pas je le dis. C'est  en partie le cas ici. Je vais vous montrer la  
+0:4949 secondesrésultante de mes tests et vous signifiez  les motifs de mon relatif mécontentement.  
+0:5757 secondesAvant cela, je vous présente le sponsor de cette  vidéo. La vidéo du jour, comme je vous l'ai dit,  
+Chapitre 2 : Sponsor : Visual GPT
+1:031 minute et 3 secondesest sponsorisée par Visual GPT, une plateforme  multimodale qui vous permet beaucoup de choses.  
+1:101 minute et 10 secondesIl y a trois fonctions majeures. La première,  c'est l'AI Image Editor. Alors, celle-ci,  
+1:181 minute et 18 secondescomme vous le voyez ici, comprend tous les  principaux modèles de génération d'images.  
+1:241 minute et 24 secondesle JPT image 2, le tout nouveau Cdream 5 Pro qui  dans les indices de performance est excellent.  
+1:321 minute et 32 secondesLes différentes versions de Nano Banana avec la  nouvelle version très rapide Nano Banana 2 Lite,  
+1:391 minute et 39 secondeson a le système idéogramme et les systèmes plus  anciens. Vous voyez ici le genre d'image que  
+1:451 minute et 45 secondesl'on peut créer, des images que j'ai testé sur  les différents systèmes. On a ici le S Dream 5,  
+1:521 minute et 52 secondeson a même Mid Journey, ce qui est assez rare sur  les applications de ce type. On a Nano Banana  
+1:581 minute et 58 secondesPro et vous voyez que l'ensemble donne de très  bons résultats. On retrouve ensuite le AI vidéo  
+2:052 minutes et 5 secondesGenérator qui comprend lui aussi les principaux  systèmes de génération de vidéo. Le fameux Sidence  
+2:122 minutes et 12 secondes2.0 0, le Grock Imagine Vidéo 1.5, le Gemini Omni,  le Happy Horse, les différentes versions de VO,  
+2:222 minutes et 22 secondesvous avez les différentes versions de Sidence et  Cling soit un système très complet. Grâce à lui,  
+2:292 minutes et 29 secondesvous pouvez créer des vidéos très sophistiquées  comme celle-ci que j'ai créé avec Sidens 2.0.
+2:492 minutes et 49 secondesAutre élément que j'aime beaucoup, c'est le AI  photo Studio. Alors celui-ci consiste sur la  
+2:552 minutes et 55 secondesbase d'une photo importée à recréer des photos  complètes par rapport à une photo que vous lui  
+3:013 minutes et 1 secondeavez soumise. Ici vous soumettez votre photo.  Vous choisissez parmi les photos styles qui  
+3:083 minutes et 8 secondessont vraiment adaptées à tous les corps de  métier, à toutes les niches. Ici vous avez   des prises de photos professionnelles,  vous avez des photos liées à la santé,  
+3:183 minutes et 18 secondesvous avez des photos liées aux environnements  naturels, aux environnements de studio,  
+3:273 minutes et 27 secondesà tout ce qui est loi. On a des photos également  montrant des personnages dans des des tenues assez  
+3:353 minutes et 35 secondesprofessionnelles. Vous avez vraiment beaucoup  de choix et concrètement comme je l'ai fait ici,   j'ai simplement soumis une photo d'un sujet. Dans  ce premier exemple, je lui ai demandé un clair  
+3:463 minutes et 46 secondesobscur dans le style rambrante avec nano bananana  2 et vous voyez le rendu parfait de l'ensemble.  
+3:533 minutes et 53 secondesOn a un rendu qui correspond à un modèle généré  avec AI portrait Genérator. On a un autre exemple  
+4:004 minutesici avec un sujet éclairé grâce à un éclairage  studio et une déclinaison d'un sujet comme vous  
+4:074 minutes et 7 secondesle voyez ici. Une prise de vue beauté cinématique  photo rééaliste en gros plan extrême format   vertical 9/1/6e ultra haute définition 8K  et voilà donc différentes occurrences de ce  
+4:194 minutes et 19 secondesportrait que vous pouvez décliner jusqu'à obtenir  le portrait souhaité. Vous avez d'autres options  
+4:244 minutes et 24 secondesque vous voyez ici teles que les effets euh IA que  vous avez ici un un rappel de tous les systèmes  
+4:314 minutes et 31 secondeseuh images et vidéos que le système permet. Et  si vous voulez découvrir les différents plans,   vous cliquez ici. Mais je peux vous assurer que  rapport qualité- prix, c'est un système qui est  
+4:414 minutes et 41 secondestrès intéressant et qui comme euh certains de ces  concurrents, vous permet de créer des images et  
+4:494 minutes et 49 secondesdes vidéos de très haute qualité sur la base  de plan accessible. Comme vous le voyez ici,  
+4:554 minutes et 55 secondesje vous ai bien entendu mis un lien en description  pour que vous puissiez accéder à cette IA pour  
+5:035 minutes et 3 secondespouvoir la tester et en savoir plus à son sujet.  C'est Marté pour ceux qui ne me connaissent
+5:145 minutes et 14 secondeset nous on se retrouve sur l'interface de Suno.
+Chapitre 3 : LA FONCTION "DURÉE"
+5:365 minutes et 36 secondesNous voici sur l'interface de Suno. Alors,  cette nouveauté ne présente aucun problème de   compréhension au niveau technique. Vous cliquez  sur create. Pour cela, il faut être abonné à la  
+5:465 minutes et 46 secondesversion pro ou la version plus de Suno. Choisir  l'option advance pour composer votre morceau.  
+5:525 minutes et 52 secondesEntrer vos paroles. Entrer les styles. Et ici,  vous voyez que juste en dessous de Weirness et de  
+5:585 minutes et 58 secondesstyle influence, on a désormais la possibilité de  euh préciser la durée du morceau souhaité. Si on  
+6:056 minutes et 5 secondesreclique sur la petite flèche, le mode automatique  réapparaît comme il était là avant et vous allez  
+6:106 minutes et 10 secondescomprendre pourquoi je dis tant mieux. Alors pour  élaborer un morceau via cette nouvelle option,  
+6:176 minutes et 17 secondesje suis allé dans le GPT alors que j'ai conçu  sur Funo. Alors là, je vous l'ai mis gratuit   dans la description hein, ceux qui me connaissent,  ceux qui ont déjà acquis ce JPT, vous savez qu'il  
+6:276 minutes et 27 secondess'agit d'un JPT très précis qui comprendra tout  à fait le style de musique demandée. Alors, pour   commencer dans le premier test, je lui demandé  un morceau de rock progressif. Vous savez que les  
+6:376 minutes et 37 secondesmorceaux de rock progressif se caractérisent  par une durée assez développée. Alors ici,  
+6:446 minutes et 44 secondesje lui ai demandé un morceau progressif dans le  style de Yesb Close to Edge. Donc l'album Close  
+6:496 minutes et 49 secondestoge pour les connaisseurs la première phase est  composé du morceau du même nom qui s'étend sur une  
+6:566 minutes et 56 secondesdurée de 20 minutes. C'est des morceaux donc  avec des breaks, des longs passages planants  
+7:027 minutes et 2 secondesinfluencés par la musique classique et cetera qui  prouvent également que les gars à l'origine de ces  
+7:097 minutes et 9 secondesmorceaux ne sucsaient pas que des glaçons. Alors  là, je lui ai demandé un morceau long et tendu   commençant la guitare roustique puis progressant  avec des nappes d'org et de synthétiseur à la voix  
+7:197 minutes et 19 secondesperchée style John Anderson. Je lui ai précisé  que le morceau comprenait des passages de piano,  
+7:257 minutes et 25 secondesdes solos, une montée en puissance lyrique et se  finit calmement. Donc ici, le JPT très performant  
+7:327 minutes et 32 secondesm'a livré véritable symphonie. Du fait que je  lui ai précisé que je voulais un morceau du  
+7:387 minutes et 38 secondesstyle close toge, et bien le système m'a fourni  dans un premier lieu le style. Mais là où on  
+7:447 minutes et 44 secondesdoit concentrer notre intérêt, c'est au niveau  des paroles. Donc on a une intro. Alors, vous   voyez que ici, on a des balises très spécifiques  visant à mettre en avant les indications pour les  
+7:547 minutes et 54 secondesinstrumentaux et les paroles. Bon, dans un  premier temps, c'est vrai, j'avais oublié,   il m'a fouroles en français. Bon, je lui ai  simplement dit que je voulais l'équivalent en  
+8:028 minutes et 2 secondesanglais. Et donc là, on a exactement les mêmes  balises, on a les paroles. Donc c'est très   important ce passage de la vidéo parce que vous  allez comprendre pourquoi cette option m'énerve,  
+8:128 minutes et 12 secondesm'agace au plus haut point. On a l'intro, on  a les premières paroles, on a un instrumental,  
+8:188 minutes et 18 secondeson a le couplet numéro 2, on a le précorus,  on a le chorus, on a le mouvement 2. Comme je  
+8:248 minutes et 24 secondesvous ai dit hein, le progressif c'est vraiment un  ensemble de pièces qui euh s'imbriquent les unes   des autres pour créer un morceau euh global. Donc  le mouvement 2, il commence par un instrumental,  
+8:358 minutes et 35 secondesdes pianos, une guitare électrique. On a  le couplet numéro 3, on a un mouvement,   un dialogue euh question-réponse, on a  un interlud au piano, on a le couplet 4,  
+8:468 minutes et 46 secondeson a un bridge, on a le mouvement 3. Donc vous  voyez en fait ce que je vais vous dire et c'est   pas par hasard que j'ai choisi un morceau de rock  progressif, c'est pour obtenir vraiment quelque  
+8:558 minutes et 55 secondeschose de très complexe. On a le mouvement numéro  4 et cetera et cetera. En général, le JPT veille  
+9:029 minutes et 2 secondesà ne pas dépasser les 5000 caractères visant  à créer ce genre de morceau. Donc une fois que   vous avez tout cet ensemble, on se dit ben tout  va bien, on va aller dans SU. Ici, je vais sur  
+9:119 minutes et 11 secondesle morceau en question et vous voyez que pour le  premier essai, j'ai choisi une durée complètement   aléatoire de 5 minutes 47. Ça présente même pas  d'intérêt que je vous fasse écouter le morceau.
+Chapitre 4 : PROBLÉMATIQUE
+9:259 minutes et 25 secondesCe qu'il faut bien comprendre, c'est que selon  les balises, les paroles que vous allez entrer,  
+9:319 minutes et 31 secondesc'est comme ça que fonctionnait le système en  mode automatique avant que cette nouvelle option   n'apparaisse, et bien le système se fonder sur  vos indications, se basait sur vos indications  
+9:419 minutes et 41 secondeset euh à partir de ces dernières, il nous  fournissait un morceau suivant l'ensemble  
+9:479 minutes et 47 secondesde la première à la dernière parole avec les  indications également en terme de balise pour   les instrumentaux pour mettre en place une durée  qui correspondait à vos indications. Alors ici,  
+9:579 minutes et 57 secondesil est évident que le JPT m'a fourni quelque chose  pour une durée supérieur au morceaux et la durée  
+10:0310 minutes et 3 secondesque j'ai choisie comme vous le voyez ici c'est  une durée de 5 minutes 46. Et chose dont je me  
+10:0910 minutes et 9 secondesdoutais, bah le morceau est coupé en fait hein.  Le mec chante et euh au bout de 5 minutes 46,  
+10:1510 minutes et 15 secondesje sais même pas si on en est euh au 3/4  du morceau. Je me suis dit c'est pas grave,  
+10:2010 minutes et 20 secondesje vais choisir la durée maximum, une durée  de 6 minutes. Et à partir de cette indication,  
+10:2710 minutes et 27 secondeslorsque vous choisissez une durée de 6 minutes,  soit la durée maximum qui est comme vous le voyez  
+10:3410 minutes et 34 secondesici permise par cette nouvelle option,  le système s'adapte et vous créez non pas   forcément un morceau de 6 minutes pile poil, mais  un morceau qui dépasse les 6 minutes par rapport  
+10:4410 minutes et 44 secondesaux indications. Donc là, je me suis dit c'est  cool. En choisissant cette option de 6 minutes,   on voit que Tuno m'a créé deux nouvelles  occurrences de 7 minutes 59. Je me suis dit  
+10:5410 minutes et 54 secondesc'est bon, le système a compris mon indication. Il  s'est adapté du fait que les balises de paroles et  
+11:0011 minutesde style dépasser largement les 6 minutes. Je me  suis dit ben à la fin des 7 minutes 59, le morceau  
+11:0711 minutes et 7 secondesest terminé. Et bien que Néi, on a exactement le  même problème. Le système continue enfin rajoute  
+11:1211 minutes et 12 secondesplus précisément 2 minutes supplémentaires au  morceaux. On pense que le morceau va finir par  
+11:1911 minutes et 19 secondesrapport aux indications que je lui ai fournies  ici. Donc ici, il devrait finir par le refrain  
+11:2411 minutes et 24 secondesfinal tel que je l'ai mentionné là. Ben, en fait,  le morceau est coupé là aussi. Donc je me dis et  
+11:3011 minutes et 30 secondesévidemment tout le monde ne va pas demander des  morceaux de rock progressif qui vont s'étendre sur  
+11:3511 minutes et 35 secondesla durée. Mais du coup quelle est la pertinence de  rajouter la possibilité de préciser une durée si  
+11:4311 minutes et 43 secondesle système débloque ? C'est vraiment ça en fait.  Alors ce que j'ai fait pour le dernier exemple,  
+11:5011 minutes et 50 secondesj'ai créé exactement le même morceau en revenant  à l'ancien système au mode auto. Et en mode auto,  
+11:5711 minutes et 57 secondesSuno se limite à des morceaux de 8 minutes. Donc  que vous choisissiez le nouveau mode ou le mode  
+12:0212 minutes et 2 secondesauto, l'ancien mode, le mode initial originel,  ben si vous avez des morceaux complexes comme  
+12:0912 minutes et 9 secondescelui-ci, il va immancablement s'arrêter à 8  minutes. Donc j'ai vu des vidéos où les mecs   sodi great fantastique mais en fait c'est  pas fantastique du tout parce que ça c'est  
+12:2012 minutes et 20 secondesle premier problème fondamental de cette  option. Donc autrement dit vous avez un   morceau complexe qui dépasse les 6 minutes. Vous  utilisez le nouveau système en lui spécifiant 6  
+12:2912 minutes et 29 secondesminutes. Le système comprend que par rapport à vos  indications, balises et texte, ces dernières vont   dépasser les 6 minutes. Donc il vous fournit un  morceau de 8 minutes. Mais en mode automatique,  
+12:3912 minutes et 39 secondesle morceau est coupé ici aussi. Donc dans les deux  cas, ancien régime je dirais et nouveau système,  
+12:4512 minutes et 45 secondesvous vous allez en faire de morceau complexe,  vous serez obligé de détendre le morceau comme   vous le faisiez à l'ancienne. Ça c'est la  première problématique de ce nouveau système.
+Chapitre 5 : INDICATIONS ALÉATOIRES
+12:5912 minutes et 59 secondesDonc pour ceux qui me connaissent, qui euh savent  pertinemment que lorsque je teste quelque chose,  
+13:0613 minutes et 6 secondesj'ai une tendance à m'étendre. Euh je suis  proche des psychopathes qui veulent que tout  
+13:1113 minutes et 11 secondessoit parfait. Et bien je lui ai simplement demandé  une chanson jazz chantée par Astrou Gilberto et et   guitare. Bon, j'aurais dû mettre trompette, je me  suis trompé style mais Davis en anglais sur les  
+13:2113 minutes et 21 secondesfeux, en été, peu importe. Et ici, je ne lui ai  pas demandé d'autres indications. Voilà le morceau  
+13:2613 minutes et 26 secondesqu'il m'a généré. Bon, le style, ça n'a aucune  importance. Ce qui nous importe si vous voulez,   c'est de voir la structure du morceau. Donc là,  on a une structure beaucoup plus classique qui ne  
+13:3613 minutes et 36 secondescorrespond pas au standard étendu d'un morceau  progressif. On a une intro, on a le premier  
+13:4213 minutes et 42 secondescouplé, on a un petit break instrumental, on  a le refrain, on a un interlut de guitare,  
+13:4813 minutes et 48 secondesle couplet numéro 2, on a un précorus, on a le  refrain numéro 2, on a un petit passage de piano.  
+13:5413 minutes et 54 secondesBon bref, grosso modo le morceau s dure 5 minutes,  c'est le bout du monde. Et ben là aussi nouvelle  
+14:0014 minutesproblématique parce que ici lorsque vous concevez  un morceau classique, vous voyez que le premier  
+14:0614 minutes et 6 secondestest je lui demandé un morceau de 3 minutes  25 et ben là aussi le morceau est coupé. Là   on a la problématique inverse. Ça veut dire que  initialement je me répète mais c'est important  
+14:1614 minutes et 16 secondeslorsque vous rentrez vos balises texte instrument  et cetera, on a une idée générale de la durée.  
+14:2214 minutes et 22 secondesMais si vous utilisez le nouveau système et ben  la durée que vous allez spécifié ben ça va être  
+14:2714 minutes et 27 secondesau pif en fait. ça va être totalement hasardeux.  Ça veut dire que là le morceau de 3 minutes 25 que   j'ai créé et ben il se coupe au milieu. Donc là  c'est pas intéressant parce que c'est aléatoire  
+14:3714 minutes et 37 secondeset ça ne vous permet pas de composer le morceau.  Le morceau va être coupé en plein milieu. Et pour  
+14:4414 minutes et 44 secondesun morceau à la durée classique en passant par le  mode auto, et ben Suno se serait adapté et vous  
+14:5014 minutes et 50 secondesaurez fourni le morceau avec le refrain final et  cetera et cetera. Donc là je me suis dit ben je  
+14:5614 minutes et 56 secondesvais faire un autre essai. Donc, j'ai choisi une  nouvelle durée aléatoire de 4 minutes 21 et j'ai   exactement le même problème. Ça veut dire que là,  si je clique sur le morceau, on voit que à la fin  
+15:0515 minutes et 5 secondesle morceau est censé finir de la manière suivante.  Le refrain final avec quatre lignes de parole et  
+15:1215 minutes et 12 secondesune outro avec quatre autres lignes de parole. Et  ben là aussi, si vous allez à la fin du morceau,   c'est même pas la peine que je vous fasse écouter  parce que le morceau est coupé. Donc la question  
+15:2115 minutes et 21 secondesque je me pose, c'est quelle est la pertinence  de ce système ? on est capable de fixer une durée  
+15:2715 minutes et 27 secondesqui va être en fait contrecarrée par l'ancien mode  de génération de morceaux. J'espère que ce que je  
+15:3315 minutes et 33 secondesvous dis est logique parce qu'en fait initialement  avec le mode automatique, c'est vos balises qui  
+15:4015 minutes et 40 secondespermettaient à Suno de forger la durée du morceau  grâce à son adaptabilité. Mais si vous fixez une  
+15:4715 minutes et 47 secondesdurée précise et ben en fait on a les deux qui  s'opposent, on a le feu et la glace. Ça veut dire  
+15:5315 minutes et 53 secondesque le fait de fixer une durée l'emportera  toujours sur les badises qui donnaient les  
+15:5915 minutes et 59 secondesindications précises à SUO. Et dans la plupart des  cas, en tout cas moi c'est ce que j'ai ressenti   dans mes tests, et bien le morceau va être coupé.  Si je reviens en arrière, donc ce morceau de jazz,  
+16:1016 minutes et 10 secondesj'ai commencé avec une durée de 3 minutes 25  morceaux coupés avec 4 minutes 20 morceaux coupés,  
+16:1716 minutes et 17 secondes5 minutes enfin 4,59 morceaux coupés et ce  n'est qu'au bout si vous voulez du 6e ou 7e  
+16:2516 minutes et 25 secondesessai que Suno a daigné en fait me fournir  deux morceaux qui finissent correctement.
+Chapitre 6 : PROBLÈME DES CRÉDITS
+16:3616 minutes et 36 secondesEt là, on a un problème supplémentaire qui  vient se greffer à ça, c'est que si trois   fois sur 5 nous coupe un morceau, et ben en terme  de crédit et bien vous allez cracher au bassinet  
+16:4616 minutes et 46 secondesparce que là à l'époque soit le morceau  ne nous plaisait ou ne nous plaisait pas.   ont créé 2 3 qu occurrences du même morceau  pour que l'IA euh comprenne bien ce que  
+16:5616 minutes et 56 secondesvous vouliez. Mais là si le fait de choisir  euh l'option avec une durée spécifique euh   contrecart vos plans si j'ose dire, et ben  vous allez encore dépenser plus de crédit.
+Chapitre 7 : LA SOLUTION ?
+17:1117 minutes et 11 secondesPour toutes ces raisons, c'est bien en fait que  Suno a élaboré ce système, mais pour toutes les  
+17:1717 minutes et 17 secondesraisons que je viens de vous citer, ben je  pense que c'est pas au point du tout. Alors,  
+17:2217 minutes et 22 secondesla solution serait peut-être dans le JPT de lui  signifier la durée du morceau ne doit pas dépasser  
+17:3017 minutes et 30 secondes5 minutes. À ce moment-là, le JPT va vous fournir  des balises qui correspondent à cette indication.  
+17:3617 minutes et 36 secondescette option en venant de sortir, je  n'ai pas poussé le bouchon plus loin,   mais à mon avis c'est le seul moyen, la  seule solution pour que cette mise à jour  
+17:4617 minutes et 46 secondesvous satisfasse pleinement. Moi personnellement,  elle m'a laissé un peu pantois et c'est vraiment  
+17:5217 minutes et 52 secondespas la mise à jour Tuno que j'ai préféré  dans son histoire récente, si vous voulez.
+Chapitre 8 : CONCLUSION
+18:0418 minutes et 4 secondesVoilà, c'est la première fois que je crée  une vidéo sur Suno sans vous faire écouter  
+18:1018 minutes et 10 secondesle résultat de mes tests. Ici, ce n'était pas  le but, c'était juste pour vous signifier euh  
+18:1618 minutes et 16 secondesla problématique quand même assez importante  voire majeure de cette nouvelle mise à jour.  
+18:2318 minutes et 23 secondesElle est imprécise, elle est aléatoire, elle va  vous bouffer des crédits. Donc comme je voulais  
+18:2818 minutes et 28 secondessignifier tester avec le JPT pour lui signifier  que les indications en terme de balise stistique  
+18:3718 minutes et 37 secondesau niveau des paroles et cetera correspondent  à une certaine durée et faites en sorte que  
+18:4318 minutes et 43 secondesune fois que le JPT vous a fourni la structure à  copiercollé dans les paroles et bien que la durée  
+18:5218 minutes et 52 secondesque vous allez choisir corresponde aux indications  que vous avez transmises au JPT Pour l'instant,  
+18:5818 minutes et 58 secondesje ne vois aucune autre solution que ça si vous  voulez. Et euh il y a aussi quelque chose qui  
+19:0619 minutes et 6 secondespeut également poser problème, c'est le cas  inverse. Ça veut dire que si vous avez par  
+19:1219 minutes et 12 secondesexemple un morceau classique, une intro,  un couplet, un refrain, un autre couplet,  
+19:2019 minutes et 20 secondesun autre refrain et une outro classique que le  morceau est assez court et que vous spécifiez  
+19:2819 minutes et 28 secondesune durée trop longue, comment va réagir Suno  ? Est-ce que il va réduire la durée par rapport  
+19:3519 minutes et 35 secondesau fait que en terme de balise et cetera, le  morceau a été interpréter par Suno ou va-t-il  
+19:4319 minutes et 43 secondescréer des pistes instrumentales ou des répétitions  vocales inutiles qui ne correspondaient pas à  
+19:4919 minutes et 49 secondesvotre demande initiale ? Tester. Dites-moi quelle  est la résultante de vos tests parce que c'est  
+19:5619 minutes et 56 secondesintéressant. Moi, je vais continuer d'utiliser le  mode originel qui ne m'a jamais posé de problèmes  
+20:0520 minutes et 5 secondeset pour le reste advienne que pourra. Je vous  souhaite à tous une excellente journée. Ciao !
+
+Tout
+
+Source : Barthélémy Nobili
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+18:42
+Douleur à l’épaule : Voici comment s’en débarrasser pour de bon !
+Le Musclay
+48 k vues
+•
+il y a 1 an
+
+
+25:46
+Comment Je Lancerais Un Solo Business IA avec Claude en 30 Jours
+NOCT SENSEI
+87 vues
+•
+il y a 2 heures
+Nouveau
+
+
+2:24:14
+Expert du sommeil : Ne pas uriner la nuit et pourquoi le sexe nocturne est mauvais
+The Diary Of A CEO
+ et Sleep Doctor
+10 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+19:22
+L'IA A TENTÉ de TU3R un HUMAIN
+Daniil le Russe
+17 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+31:56
+Comment Créer un Site Web à 10 000 $ avec Claude Code en 20 MINUTES
+Dr. Firas
+28 vues
+•
+il y a 20 minutes
+Nouveau
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+181 k vues
+•
+il y a 11 jours
+
+
+10:23
+La grande arnaque des morphotypes
+Le Musclay
+33 k vues
+•
+il y a 10 mois
+
+
+1:33:09
+Le guide ULTIME pour progresser en MUSCULATION @NassimSahili  : TOUT ce que vous devez savoir !
+Hem Ton Kiné
+141 k vues
+•
+il y a 2 ans
+
+
+28:32
+24H AVEC LES POMPIERS SUR LE PLUS GRAND INCENDIE DE FRANCE !!
+Tibo InShape
+26 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+30:03
+Z.AI Chat GLM 5.2 :  la meilleure alternative à Claude. 100% Open Source ! Guide complet .
+Barthélémy Nobili
+6 k vues
+•
+il y a 2 semaines
+
+
+25:54
+La découverte du FBI dans 10 millions de salons
+Underscore_
+978 k vues
+•
+il y a 2 semaines
+
+
+51:02
+LEAN BEEF PATTY & BRETT WILKIN DEADLY LEG DAY
+Chris Bumstead
+1,8 M de vues
+•
+il y a 3 ans
+Doublée automatiquement
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,9 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+64 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+38 k vues
+•
+il y a 1 jour
+Nouveau
+
+57:28
+Savoir bien débuter en musculation
+Le Musclay
+1 M de vues
+•
+il y a 10 ans
+
+6:14
+Savoir ANNIHILER ses DORSAUX
+Le Musclay
+108 k vues
+•
+il y a 4 ans
+
+    

@@ -1,0 +1,1228 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+SEEDREAM 5.0 vs les Outils Précédents : Quelle Différence ? GUIDE COMPLET !
+Barthélémy Nobili
+Barthélémy Nobili
+149 k abonnés
+
+Rejoindre
+
+
+53
+
+
+Partager
+
+Posez une question
+
+707 vues  23 juil. 2026  #SEEDREAM #IA #GénérationImages
+Formation "Créez vos images grâce au prompt Engineering !" : https://barthelemynobili.formator.io/...
+
+🎨 SEEDREAM 5.0 tient-il vraiment tête à Nano Banana, ChatGPT Image 2.0 ou Meta AI ? Dans cette vidéo, je décortique la dernière mise à jour du générateur d'images de ByteDance (sortie le 8 juillet 2026) et je vous montre pourquoi elle excelle là où on ne l'attend pas : réalisme des visages, finesse des éclairages, qualité du rendu général et surtout une gestion du texte tout simplement bluffante.
+
+À travers de nombreux exemples concrets — text-to-image, image-to-image et l'ensemble des améliorations de cette version — vous allez découvrir tout le potentiel de cette IA encore trop sous-estimée. Pour aller plus loin, j'ai conçu un guide complet de 95 pages qui reprend en détail chaque fonctionnalité et chaque prompt présentés dans la vidéo.
+
+Que vous soyez designer, créatif, entrepreneur ou simplement curieux, vous repartirez avec toutes les clés pour tirer le meilleur de SEEDREAM 5.0.
+
+#SEEDREAM #IA #GénérationImages #IACréative #PromptEngineering #ByteDance #NanoBanana #chatgpt 
+
+SOMMAIRE :
+00:00 Introduction
+1:26 ACCÈS
+5:42 La méthode de prompt SPACE
+6:37 TEXT TO IMAGE
+7:35 Photo produit e-commerce
+7:59 Affiche de film (texte intégré)
+8:52 Infographie éducative
+9:33 Poster actualité / data viz
+10:16 Visuel cinématographique
+11:13 Composition multi-sujets (grille 2x3)
+11:51 Logo / identité visuelle
+12:17 Illustration concept art
+13:00 Photo immobilier / architecture
+13:31 Frame de pré-production vidéo
+14:18 IMAGES RÉFÉRENCES
+16:26 Suppression d'objet
+16:51 Changement de matière
+17:29 Changement de tenue
+17:45 Croquis vers rendu photoréaliste
+18:33 Localisation multilingue
+19:06 Fusion multi-images (produit + mannequin)
+20:02 AMÉLIORATIONS
+20:16 Édition par zone dessinée (boîte / point)
+21:07 Séparation en calques (PNG transparents)
+22:24 Texte arabe droite-à-gauche (RTL)
+23:37 Correction de texte fin sur packaging
+24:14 Édition multi-étapes en une passe (Deep Thinking)
+25:28 Fusion de références multiples (produit + modèle + style)
+26:18 Mise à jour de chiffres (infographie dense)
+27:09 Cohérence du sujet entre variantes
+27:30 Relight réaliste (on garde la géométrie)
+28:33 Reformatage à dimensions pixel exactes
+29:31 Édition par ancrage textuel (anchor editing)
+30:19 Édition guidée par croquis / aplat (sketch editing)
+30:58 Préservation du visage / identité pendant une retouche
+31:35 Rendu réaliste des matières (verre, reflets)
+32:28 CONCLUSION
+
+👉 Abonnez-vous pour soutenir la chaîne et ne rien manquer des prochaines nouveautés IA !
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+👉 PROMEAI : https://www.promeai.pro/?vsource=yout...
+  20 crédits gratuits avec le code : BARTHE, 10 % de réduction avec le code BARTHE10  
+👉 FLEX CLIP : https://www.flexclip.com/fr/editor/
+30% Code de réduction exclusif (valable pour tous les plans) : BN30 👈
+👉 CG DREAM : https://bit.ly/3CPxtJT 👈
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+👉  EDIMAKOR : https://goo.su/jEG3UD
+► Utilisez coupon pour profiter de 30% réductions instantanées : VE30OFFBD
+
+
+
+Abonnez-vous pour plus de contenus de valeur !!!
+ 
+Barthélémy.
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+149 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+true
+32:49
+Meta AI Studio : Le Nouveau Champion des Générateurs d'Images? Le Guide en 30 points clés !
+de Barthélémy Nobili
+4 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @barthelemynobili
+@barthelemynobili
+il y a 1 jour
+Formation "Créez vos images grâce au prompt Engineering !" : https://barthelemynobili.formator.io/le-guide-du-prompt-engineering-pour-la-creation-dimages
+
+
+
+Répondre
+
+
+@Lion-dragon-k7q
+il y a 12 heures
+Toujours au top 👍
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Introduction
+0:01
+[grognement] Salut à tous. après Nano Banana 2 Chat
+0:07
+GPT image 2.0 et le plus récent générateur d'images ultra performant de
+0:16
+Meta et H dont je vous ai fait une vidéo la semaine dernière et dont je vous mets le lien ici. Le dernier mastodonte de la
+0:23
+bande a sorti sa nouvelle mise à jour il y a environ une dizaine de jours. Je
+0:29
+veux parler de l'excellent Sidream 5.0. Alors évidemment, ce n'est pas le
+0:34
+système dont on parle le plus et pourtant celui-ci excelle dans bien des
+0:40
+domaines. Certes, il n'est pas aussi impressionnant sur certains points, je le précise, que Nano Banana
+0:45
+[raclement de gorge] ou Chat GPT 2.0, mais sur d'autres aspects, vous allez voir que celui-ci a toute ma préférence,
+0:54
+notamment pour la qualité des visages beaucoup plus réaliste que
+0:59
+ces concurrents. pour la finesse des éclairages du rendu général et surtout
+1:06
+pour l'excellence dans le traitement de texte. Je ne m'étends pas plus. Pour
+1:11
+ceux qui ne me connaissent pas, merci de cliquer sur le bouton de subscription pour m'aider à développer cette chaîne
+1:17
+et moi je vous invite à la découverte de cette ultime mise à jour concernant CDAMS 5.0.
+ACCÈS
+1:26
+Afin de mettre en avant le potentiel de cette
+1:32
+SIA que j'aime beaucoup, j'ai conçu un guide de 95 pages qui va reprendre
+1:37
+l'ensemble des points précis détaillés de l'ensemble des fonctionnalités permises par ce logiciel. Ce guide
+1:44
+viendra compléter votre formation pour ceux qui l'ont acquise relative à la
+1:49
+création d'images sur le prompt engineering dont je vous ai mis le lien dans la description. Voici l'ensemble
+1:55
+des éléments que nous allons mettre en lumière au sein de cette vidéo. Qu'est-ce que Creams ? Quelles sont les
+2:00
+fonctionnalités clés ? Ce qui change par rapport à la version 4.5. On va comparer un petit peu les modèles, mais surtout
+2:06
+qu'on va voir dans un premier temps, ce sont les images créées en texte ou vidéo puis les images euh générées grâce à
+2:13
+d'autres images de référence. Comme je vous l'ai indiqué, cette mise à jour a vu le jour le 8 juillet 2026. Il s'agit
+2:19
+du logiciel de génération d'image de byte dance. Et ce qu'il fait, ben il
+2:24
+fait plus ou moins ce que font les autres concurrents. Mais comme je l'ai dit en introduction, moi ce que j'adore
+2:30
+dans cette par rapport à ces concurrentes, c'est que le rendu fait
+2:35
+beaucoup plus réaliste, notamment au niveau des images, des textures, de des éclairages et cetera. Et ça c'est quand
+2:41
+même important. Par exemple, on m'a déjà fait part euh de certains défauts, par
+2:46
+exemple liés à chat GPT 2.0. Les images, je sais pas si vous l'avez constaté, génèrent un petit peu de moirée,
+2:52
+c'est-à-dire qu'elles sont hyper euh pixelisées. En tout cas, elles donnent l'impression d'avoir des points qui font
+2:58
+que on a trop de détails dans le détail et à contrario euh tout ce qui est Nano
+3:03
+Banana Pro 2 et cetera génère parfois des images qui au niveau des visages
+3:10
+rendent l'ensemble un petit peu synthétique. Alors, je ne dis pas que si Dreams 5.0 zéro est aussi performant par
+3:16
+exemple pour la génération de personnages célèbres ce genre de choses que les autres. Mais pour les designers,
+3:25
+les gens qui veulent mettre en avant des produits, les gens qui veulent créer des paysages réalistes avec des éclairages
+3:32
+vraiment naturels, je pense que si Dreams peut se targuer de monter sur le
+3:37
+podium par rapport à ses concurrentes. En tout cas, elle n'a pas à rougir par
+3:43
+rapport à un anoban à un chat GPT voire à un MTA et je vais vous le prouver dans
+3:48
+cette vidéo. Donc ce qui change par rapport à la version 4.5 5, vous pouvez vraiment fournir au modèle des
+3:56
+indications très précises au pixel prêt. L'ancrage par texte qui était peu fiable dans la version précédente. Et bien,
+4:02
+vous allez voir que celui-ci va être beaucoup plus précis, beaucoup plus pertinent. L'édition par Froquy n'existait pas aujourd'hui à partir d'un
+4:09
+gribouilli, d'un schéma dessiné à main levée, ben vous allez voir que cela va vous permettre d'obtenir de bons
+4:15
+résultats au niveau des calques. Ça, on y reviendra un petit peu plus tard. Le texte et le multilangage est
+4:21
+parfaitement généré, beaucoup mieux qu'un nano banana par exemple. Au niveau des instructions multiples, et bien le
+4:27
+raisonnement complexe va vous permettre de donner au système des indications qui
+4:32
+va vraiment le guider de la meilleure manière. Les références multiples étaient limitées à 2 3. Maintenant, vous
+4:38
+pouvez mettre jusqu'à 14 images de référence pour générer une image unique. Au niveau des visage qui paraissait
+4:44
+plat, et bien aujourd'hui, on a beaucoup plus de nuances dans la texture, dans la réfraction, dans l'effet de volume lié
+4:51
+au trait. Et au niveau des dimensions, les ratios qui paraissaient approximatifs dans la version précédente
+4:57
+apparaissent aujourd'hui comme ultra [raclement de gorge] précis. Alors, au niveau de l'accès à la plateforme, ça c'est ce qui est un petit peu différent
+5:05
+par rapport aux autres. Et bien soit vous y accédez par la plateforme officielle de Byance, vous pouvez y
+5:10
+accéder par XField, par Crea, par Imagine Art et par Freepick. Personnellement pour l'ensemble des
+5:17
+photos que j'ai généré et bien je les ai généré par Xfield. Je les ai toutes incluses dans le guide. ce qui va nous
+5:24
+éviter en fait de passer par Xfield ou ou de tria pour avoir tout d'un coup
+5:29
+pour rendre cette vidéo beaucoup plus agréable. Et vous allez voir que dans la première catégorie d'exemple les textes
+5:35
+ou vidéo et bien les exemples vont parler d'eux-même. Vous avez aussi la possibilité d'accès via des API. Et en
+La méthode de prompt SPACE
+5:42
+terme de méthode, l'équipe de Cdream 5.0 vous conseille d'utiliser le néologisme
+5:50
+space S pour sujet quoi qui est dans le cadre. Décrire concrètement ce qu'on
+5:56
+veut en évitant les adjectifs trop vagues trop flous. P comme palette et
+6:01
+style. Ici il convient de spécifier en second lieu la direction artistique, les
+6:06
+médiums, l'ambiance colorimétrique a comme arrangement. Comment va être ordonnoncé votre composition ? Quelle va
+6:12
+être le cadrage ? Quelle va être la mise en page ? C'est comme caméra highlight. Là aussi hein, toujours bien décrire les
+6:18
+objectifs, les angles de vue, la direction et la qualité de la lumière. Et là, vous allez voir que les résultats
+6:23
+sont vraiment sensationnels. Et le e comme extra detail, ça c'est euh pour le texte to image, toujours bien spécifié
+6:31
+euh les textures, les finitions souhaitées.
+TEXT TO IMAGE
+6:38
+Première grande partie, les promes de text ou image. Alors, ce guide, je l'ai conçu il y a déjà une semaine, mais pour
+6:45
+des raisons de temps, je n'ai pas encore eu le temps de tourner la vidéo, chose que je fais avec vous aujourd'hui. Et
+6:50
+bien ici, j'utilise la méthode space comme vous le voyez. Pour les détenteurs
+6:56
+de la formation, je vous ai fourni et le prompt en français et le prompt en anglais. Ici, je vais simplement
+7:01
+demander un portrait éditorial d'une femme aux cheveux au beur court. Regarde direct vers l'objectif, lumière chaude
+7:07
+de fin de l'après-midi. Bon, très classique en quelque sorte et voilà le résultat que cela m'a occasionné. Ce que
+7:13
+j'aime bien, c'est que si on regarde bien l'ensemble, les visages paraissent beaucoup moins synthétiques que les I
+7:20
+précédemment cité. Et au niveau de l'éclairage, et bien ici, on se croirait un peu dans un film de David Lynch avec
+7:26
+un éclairage très subtil, une focale floue très intéressante et c'est ce que
+7:32
+j'aime dans ce logiciel, dans cette pour le deuxième exemple, une photo classique
+Photo produit e-commerce
+7:37
+de produits e-commerce. Bon là, c'est pareil que pour ces concurrents. Un mug
+7:43
+en céramique noir et mat sur une table en bois chaud, unique lumière douce de fenêtre venant de la gauche. Légère
+7:49
+vapeur qui s'élève. Bon là, la vapeur, elle a pas été prise en compte, j'avais pas fait gaffe. Premier quak mais
+7:55
+l'ensemble est très réaliste également. Pour le 3è exemple, ici on touche un
+Affiche de film (texte intégré)
+8:00
+petit peu à tout ce qui est un petit peu plus artistique. Ici, je lui ai demandé une affiche de film cinématographique
+8:05
+avec le titre Northwind en lettre sérif épaisse et patinée sur le tiers supérieur. Une silhouette en capuchonnée
+8:13
+seule en bas à droite se découpant sur un ciel orageux. T et orange. Éclairage de contrejour dramatique particule de
+8:20
+poussière. Sous-titre en bas indiquant in cinéma this winter. format d'affiche 2.3 enfin 2/3 plutôt et vous voyez que
+8:28
+l'ensemble est parfaitement ordonnancé. Il correspond exactement aux indications que je lui ai demandé. Les particules
+8:35
+sont très bien restituées. Le texte on nen parle pas et ici je vais radoper
+8:41
+tout au long de cette vidéo mais pour moi, c'est quand même la meilleure génératrice d'imag pour le rendu des
+8:47
+lumières. Ça c'est vraiment indéniable hein. Peut-être que d'autres ne seront pas de mon avis. Autre exemple
+Infographie éducative
+8:53
+infographie éducative. Ici aussi, s'il y a un point sur lequel il faut mettre l'accent, c'est la qualité du rendu des
+9:00
+infographies 2D et surtout de la qualité du texte. Ici, je vais demander une infographie éducative claire expliquant
+9:07
+le cycle de l'eau. Vue schématique de dessus, flèche légende, évaporation, condensation. Bon, pas un coup fin, vous
+9:14
+comprenez mais vous voyez que voilà, ici le texte français est bien respecté et on a bien une illustration plate
+9:20
+minimaliste sur fond blanc avec une légende sans sérif lisible, exactitude
+9:25
+scientifique. Donc là, pour vos enfants qui vont à l'école, pour vos travaux, si vous voulez des infographies, et bien
+9:31
+Sidam. Ici, je lui ai demandé un poster d'actualité euh façon journal télévisé
+Poster actualité / data viz
+9:38
+intitulé Global Renwable Energy 2026 comparant le solaire, l'éolien et
+9:44
+l'hydraulique sur quatre régions avec un simple diagramme en barre, palette bleue marine et orange affirmée, typographie
+9:50
+sans sérif moderne. Spécifiez toujours bien le type de texte que vous voulez pour ne pas être obligé de régénérer
+9:57
+votre image. Pas plus de 6 données. style graphique broadcast professionnel et regardz la qualité de l'ensemble.
+10:03
+Bon, ici, j'aurais pu demander le texte en français, cela n'aurait rien changé, mais vous voyez que l'ensemble est
+10:08
+pertinent et répond parfaitement avec une exactitude absolue ce que je lui ai demandé. Ici,
+Visuel cinématographique
+10:16
+je lui ai demandé un visuel cinématographique. Donc là, on est dans le dobê du créatif. Alors, ici, l'ensemble chaque fois que vous voulez
+10:23
+créer des paysages sur plan large et cetera, ben là, c'est une IA qui excelle. également. Donc là, je vais
+10:30
+simplement demander un plan large d'un astronaute marchant sur une dune martienne rouge au crépuscule à l'eau
+10:36
+d'objectif anamorphique. Focal 35 mm, étalonnage orange, profond et til. Til,
+10:42
+c'est un peu verdade si vous voulez. Grain argentique, rendu pellicule Kodak 2383,
+10:48
+format 21/9e, donc extra large, style photogramme de cinéma. Et regardez comme
+10:53
+l'ensemble est très très bien réalisé. Ici euh il y a beaucoup moins de moiré comme je vous le disais tout à l'heure
+10:59
+que sur Char GPT 2.0. Et vous voyez le petit halo comme il est subtil euh au niveau du soleil. Euh on voit euh la
+11:06
+poussière qui est euh liée au pas de l'astronaute et les couleurs sont ici euh très subtiles également. Alors pour
+Composition multi-sujets (grille 2x3)
+11:13
+cet exemple composition multisujet grille 2/3 bah là il y a aucun problème. Là j'ai demandé un flatelet en grille 2
+11:19
+x 3 sur le fond blanc. En haut à gauche une poire rouge. En haut au centre une poire verte. Bon et cetera. Et vous
+11:25
+voyez que ici cela correspond parfaitement à mes indications. Et ici n'oubliez jamais pour ce genre de plan
+11:32
+de spécifier que vous vouliez un éclairage studio doux et homogène. Spécifier également la direction que
+11:38
+doit prendre l'ombre et photographie culinaire minimaliste sans texte. Et vous voyez que l'ensemble est parfait.
+11:44
+On a vraiment envie avec cette canicule de croquer dans les fruits et l'ensemble est très pertinent, très réaliste. Au
+Logo / identité visuelle
+11:51
+niveau des logos, ben ça c'est ce que je vous ai dit hein. Au niveau du texte, c'est une IAC qui Excel. Là, je lui ai
+11:56
+simplement demandé un logo minimaliste pour une barre de café nommée Amber and Hak. Une icône abstraite, entrée unique,
+12:02
+mêl en flamme, en feu et feuilles rouges rouille profond associé à un logo type sérif élégant centré sur fond crème
+12:08
+style vectoriel, place en dégradé, fort contraste, prêt à imprimer. Donc pour tous les créatifs, vous pouvez tout à
+12:13
+fait utiliser ça, soit pour des photos comme je viens de vous montrer, soit pour des textes. Autre exemple, illustration concept à vous fait pas de
+Illustration concept art
+12:20
+dessin, regardez la qualité, regardez la subtilité comme les couleurs euh sont bien imbibées de l'aspect brumeux de ces
+12:27
+nuages ici. Une illustration de concept A à l'ambiance sombre représentant une bibliothèque flottante au-dessus des
+12:33
+nuages. Hautes étagères reliées par des ponts de corde. Lumière chaude de lanterne émanant de l'intérieur.
+12:39
+peinture numérique, éclairage volumétrique, dramatique, composition cinématographique large made painting
+12:45
+très détaillé. Et ici, si on zoome, on voit quand même que l'ensemble présente vraiment une très grande qualité et on
+12:51
+voit que les personnages au niveau de la perspective de leur taille, ben c'est très réaliste, très bien euh fichu.
+12:59
+Ensuite, bon pour les photos de plan immobilier d'architecture, bah là c'est très facile à réaliser. Un intérieur de
+Photo immobilier / architecture
+13:05
+salon moderne et lumineux bév vitré du sol au plafond donnant sur une forêt table basse en noyé canapé en lin crème
+13:11
+lumière naturelle de midi, photographie immobilière grand angle photoréaliste détail net sans personne sans tech et
+13:17
+voilà encore un exemple de l'excellence du rendu de ce Cream 5.0. Vous voyez que
+13:24
+c'est très très beau, c'est très très fin, les lumières dégagent vraiment un
+13:29
+sentiment de réalisme absolu. Dernier exemple relatif au texte ou vidéo frame
+Frame de pré-production vidéo
+13:34
+de préproduction vidéo. Là, je voulais un plan d'exposition cinématographique d'une ruelle de Tokyo pluvieuse et
+13:39
+éclairée au néon la nuit. Reflet sur l'asphalt mouillé. Une silhouette seule s'éloignant sous un parapluie en papier
+13:46
+rouge prix 135 mm étalonnage cyberpunk sombre brume légère image nette utilisable comme frame de départ pour
+13:52
+animation vidéo 16/9e et ici voilà donc le personnage est parfaitement centré on
+13:58
+a une impression de profondeur les enseignes présentent des textes soignés
+14:04
+qui ne débordent pas comme souvent ici on a une netteté absolue. On voit que les enseignes dans le fond deviennent
+14:10
+plus floues lorsque le personnage s'éloigne et c'est ce profond sentiment de réalisme que j'aime beaucoup par
+14:16
+rapport aux autres.
+IMAGES RÉFÉRENCES
+14:22
+Deuxème grande partie autour de h exemples précis, l'image to image,
+14:28
+c'est-à-dire le fait de créer une image à partir d'une ou plusieurs images de référence. C'est véritablement par ce
+14:34
+biais qu'on jauge de l'évolution d'un tel système. Alors ici, je vous ai fourni pour ceux qui possède ce guide le
+14:41
+prompt visant à créer l'image de référence et le prompt visant à modifier l'image de référence. Alors ici, on a à
+14:47
+faire un grand tacon de parfum en verre brillant sur une surface d'ardoise sombre et mouillée avec une étiquette
+14:53
+blanche et cetera et avec un texte précis. Ce qu'on veut modifier ici, c'est que sur le flacon de cette image,
+15:00
+l'étiquette doit être changée pour qu'elle affiche nuit d'été en lettre sérif dorée élégante sur fond bleue
+15:06
+marine profond en conservant la forme du flacon, l'éclairage, la surface d'ardoise et tout le reste du cadre
+15:12
+strictement identique. Donc ici, on a la première image, une étiquette vierge. Et par rapport aux indications que je viens
+15:19
+de vous lire, voilà comment le texte a précisément effectué ce que je lui ai
+15:24
+demandé avant. Après noter le petit reflet lié à la lumière qui est est
+15:30
+projeté de ce côté. vraiment très grande qualité, très grande finesse. Donc c'est
+15:36
+ce que je vais répéter hein pendant toute cette vidéo hein. Moi j'ai pas de partenariat avec Sim mais vraiment je
+15:41
+trouve que la finesse du rendu est la rend unique. Deuxième exemple, un remplacement de fond. Donc là,
+15:47
+simplement, on a une femme sur fond neutre et on veut remplacer uniquement l'arrière-plan derrière cette personne
+15:53
+par une scène extérieure de fin d'après-midi doucement floutée avec des beauquets chauds en conservant la personne, la pause, l'éclairage et les
+16:00
+teintes de peau strictement identique. Donc là, on a cette fille avec une lumière assez froide et ici, on obtient
+16:07
+donc les modifications demandées. Donc ici aussi très bien fichu. On voit au
+16:13
+niveau des cheveux ici les reflets occasionnés par les bquets en arrière-plan. Donc c'est un système qui
+16:20
+comprend vraiment au millimèt près les indications que vous lui fournissez et ça c'est vraiment très agréable. Autre
+Suppression d'objet
+16:26
+exemple, la suppression d'objets. Alors là, on a un bureau de bois sur lequel traîne un câble et en substance, on veut
+16:33
+simplement retirer le câble que vous voyez entortillé ici. À une certaine
+16:38
+époque, c'était pas évident. Ben maintenant, voilà. Hop, en une simple indication, on a l'avant, l'après, tout
+16:45
+en maintenant constante des objets tels qu'ils étaient positionnés sur le bureau
+16:50
+initialement. Le changement de matière. Alors, le changement de matière, ça peut être n'importe quoi, un liquide, une texture et cetera. Donc, ici, on a un
+Changement de matière
+16:57
+canapé en cuir et je lui demande de modifier le revêtement du cuir vers un velour vert émeraude profond. Et ce qui
+17:04
+est important, c'est qu'à chaque fois, si vous voulez pas que l'IA change tout, c'est de spécifier en conservant
+17:10
+exactement la même forme, les mêmes coutures, le même éclairage, les mêmes ombres et le même arrière-plan de
+17:16
+pièces, ce qui vous permet de passer du canapé en cuir au canapé en velour vert
+17:21
+tel que demandé, sans rien changer si ce n'est la texture du cuir qui passe à
+17:27
+cette matière précise. Ensuite, le changement de tenue. Bon, là, c'est des classiques qu'on retrouve d'un anoban et
+Changement de tenue
+17:32
+cetera. Donc là, il y a pas grand différence si vous voulez. Donc là, je lui simplement demander de changer la
+17:37
+tenue de cette personne par la tenue demandée ici. Donc là, constance absolue, pas de problème. Ça dépasse pas
+17:43
+d'un Yota, tout est nickel. Ici, c'est vraiment une amélioration par rapport à la version 4.5. La version précédente
+Croquis vers rendu photoréaliste
+17:50
+avait une tendance à ne pas respecter les indications que vous lui fournissiez pour interpréter un schéma. Donc là, on
+17:56
+a un schéma, un croquy et je veux que Sidim transforme ce croquy brut en une
+18:01
+photographie d'intérieur entièrement photoréaliste et pareil hein, conserver la même diapositive, la même
+18:06
+disposition, les mêmes positions et cetera. Donc ici, on a un croquy. Donc pour les architectes et cetera qui ont
+18:11
+des croquis qu'il montraient jadis à leurs clients, euh et bien maintenant ils pourront leur montrer ce que
+18:17
+pourrait représenter visuellement parlant leur futur intérieur. Et là c'est vraiment très bien fichu hein. Si
+18:23
+on passe de l'un à l'autre, on voit que rien ne dépasse hein, même les maisons ici au niveau du toit et cetera, les
+18:29
+éléments qui ne sont pas en premier plan, ben tout est parfaitement restitué. Autre exemple, la localisation
+Localisation multilingue
+18:35
+multilin. Ici, cela consiste simplement à modifier un texte d'une langue à l'autre. On a cette affiche où il y a
+18:42
+marqué "Découvrez Paris". Donc qui est très jolie hein, offre valable jusqu'au 30 septembre. Et là, je lui ai simplement demandé de transformer
+18:48
+l'ensemble en japonais. Pas de problème. Et euh le bas, je lui demandé de le transformer en anglais. Et vous voyez
+18:53
+que l'ensemble, ben pas de problème. On a le français français et on a le japonais anglais. Donc là aussi pour le
+19:00
+texte, c'est vraiment très performant. Je vous montrerai un autre exemple un petit peu plus tard. Et pour ce dernier exemple sur cette catégorie d'image to
+Fusion multi-images (produit + mannequin)
+19:07
+image, on a la fusion multi image, le blending si vous voulez. Alors ici, on a
+19:13
+deux images de référence. un flacon minimaliste sérum visage doré avec un comp de wood sur f son blanc uni et une
+19:19
+image B un portrait de beauté studio d'une femme à la peau claire et lumineuse. Le but étant de cumuler de
+19:25
+jumeler les deux pour créer une image unique. Je lui ai à cet effet demandé combine ces deux références, place le
+19:31
+flacon de sérum de la première image délicatement tenu dans la main de la femme de la seconde image en accordant
+19:36
+son éclairage studio et ses teintes de peau conserve son visage, son expression et l'étiquette vierge du flacon
+19:43
+exactement tel que montré. Donc ici, on a les deux premières images de référence
+19:48
+et on a ce que je lui ai demandé. Alors ici, j'aurais très bien pu lui demander de me rajouter du texte et vous
+19:54
+comprenez que si 5.0 se serait parfaitement exécuté.
+AMÉLIORATIONS
+20:04
+Alors cette partie pour être tout à fait claire concerne exactement le traitement des images to image mais en mettant le
+20:10
+point sur les axes d'amélioration occasionnés par cette mise à jour. Le premier exemple, édition par zone
+Édition par zone dessinée (boîte / point)
+20:18
+dessinée. J'ai un plan large de trois meugs en céramique blanche identique aligné côte à côte. Et ce que je veux
+20:24
+c'est que c'est de dessiner une boîte autour du seul mug du milieu. Échanger
+20:29
+uniquement ce mug en une couleur rouge, coctico ou brillante. Ne pas toucher aux deux mugs blancs à la table, aux ombres
+20:35
+et à l'arrière-plan. garde-les identiques au pixel prêt. Donc voilà, on a cela et on a l'encadré demandé avec le
+20:42
+changement de couleur rouge. Alors ici aussi c'est d'une efficacité redoutable. Alors he les exemples que je vous
+20:48
+montre, c'est pas des exemples qui sont impressionnants, mais en terme de
+20:53
+réponse à mes sollicitation aux promptes et à la précision de l'ensemble, ben
+21:00
+j'ai eu très très peu de déchets pour ne dire quasiment aucun déchets pour la
+21:05
+réalisation de ces différentes images. Alors ici par contre la séparation en calque. Alors ici pour les
+Séparation en calques (PNG transparents)
+21:11
+infographistes, pour les utilisateurs de Photoshop Illustrator, vous savez que avant LIA et ben on cré
+21:21
+chaque calque comprenant un objet. Et bien ici l'équipe de Bance nous annonce qu'il est possible sur la base d'une
+21:28
+image de la décomposée en plusieurs calques. Alors sur Xfield, cela est
+21:34
+impossible. J'avais des un essai sur B dance, je lui ai fourni cette image. Donc le but du calque en fait, c'est de
+21:40
+rendre les éléments interdépendants, d'obtenir le calque run faster de manière isolée, le texte fan new pace
+21:47
+sur un autre calque, le logo NB sur un autre calque, la chaussure rouge sur un
+21:53
+autre calque, le fond sur un autre calque et sur la base de ces différents calques, je pourrais modifier les
+21:59
+éléments indépendamment. Malheureusement sur Bance, j'ai essayé euh également, ça
+22:05
+n'a pas fonctionné comme je l'aurais voulu. Donc ça c'est un des rares point d'achoppement de l'ensemble. Mais bon,
+22:11
+on va voir dans le futur si cette technique, cette solution va être
+22:17
+améliorable ou non. Comme c'est cité, j'ai quand même l'honnêteté de vous le
+22:22
+signifier, même si cela ne fonctionne pas. Ici pour le texte. Alors ici, j'ai choisi un texte arabe puisque vous savez
+Texte arabe droite-à-gauche (RTL)
+22:30
+que l'arabe se le dit de droite à gauche et que pour une lui déjà lui demander à
+22:36
+la base de traduire un texte, c'est difficile. Mais en plus si le texte s'écrit dans l'autre sens et bien il y a
+22:43
+encore plus de difficultés [raclement de gorge] si vous voulez de vous restituer ce texte de manière précise. Et bien pour nos amis du
+22:50
+Maghreb qui avaient du mal à obtenir un texte traduit et bien ici il y a plus
+22:56
+aucun problème. Voilà, je lui demandé simplement de traduire le texte Ming menu en arabe et Lia chose qu'il ne
+23:04
+pouvait pas faire il y a quelques semaines, quelques jours et bien le fait directement. Alors malheureusement je ne
+23:11
+suis pas capable de vous dire ne parlons pas la rame si il s'agit du texte morning menu bien traduit. Je l'espère
+23:17
+en tout cas, vous me donnerez la confirmation. Mais en tout cas, voilà encore un point qui est mis en avant par
+23:23
+ce genre d'IA parce qu'il y a pas de raison de ne pas pouvoir traduire tous les textes quel que soit le sens
+23:29
+d'écriture. On est quand même en 2026 et c'est le la moindre des choses désormais que l'on est en mesure en fait de
+23:35
+demander à une IA. Correction de texte fin sur packaging. Ici on a un gros plan
+Correction de texte fin sur packaging
+23:40
+photographique d'une boîte de thé en carton et ce que je lui demande c'est de corriger uniquement le mot mal
+23:46
+orthographié. Grosso modo, vous avez, comme vous le voyez ici sur la première image le texte green leaf. Il y a un f
+23:53
+en trop et ben ici, vous pouvez lui demander de retirer ça. Donc soit classique hein, ça marchait déjà sur
+23:58
+nano banana et cetera, mais ici l'ensemble est affiné et le système n'aura aucun mal dans le processus de
+24:05
+correction du texte quel qu'il soit. Et notez également qu'en zoom la qualité du texte de manière générale posée sur ce
+24:13
+paquet. édition multiétape en une passe. Ça c'est ce qu'on appelle le deep thinking, le raisonnement poussé si vous
+Édition multi-étapes en une passe (Deep Thinking)
+24:20
+voulez. Donc là, on a une photo d'un bureau à domicile. On a un ordinateur portable argenté, une lampe de bureau
+24:26
+blanche éteinte, une plante verte à droite, un mug à gauche et des store de fenêtre fermé à l'arrière-plan de jour
+24:31
+photoréaliste. L'édition multi-étape consiste à communiquer au système des
+24:37
+modifications objet par objet sur une même image. Donc là, ce que je vais demander, c'est d'appliquer toutes ces
+24:43
+modifications d'un coup en gardant tout, le reste identique. Donc 1, on veut allumer la lampe de bureau avec une
+24:49
+lumière chaude. 2, on veut remplacer le meug par un verre d'eau. 3, on veut ouvrir les store pour révéler un jardin
+24:55
+au soleillé. Et 4, on veut ajouter une paire de lunettes posée sur le clavier du portable. Et regardez le rendu final.
+25:02
+Ça y est, on a bien le mug qui est remplacé par le verre d'eau. On a bien, je pousse ma tronche. On a bien la lampe
+25:09
+allumée. On a bien la paire de lunettes posée sur l'ordinateur. Et on a bien les
+25:14
+store levés qui donne accès à un jardin en arrière-plan. Focal légèrement flou.
+25:20
+très subtil euh très concret euh vraiment encore un bel exemple de la
+25:25
+manière dont le système comprend nos indication. Toujours dans le même ordre d'idée mais mais cette fois-ci sur la
+Fusion de références multiples (produit + modèle + style)
+25:31
+base de trois images de référence. La fusion de référence multiple, on a une
+25:36
+paire de basket en cuir blanc sur fond uni, photo de produit. On a une photo en plein pied d'un jeune homme en
+25:42
+streetwear et on a un photogramme de film à l'ambiance chaude de coucher de soleil. L'objectif étant de fusionner
+25:49
+l'ensemble comme nous le voulons. Alors ici, on a les images de référence. Donc
+25:54
+ici on a le mec pied nuus, on a les chaussures. Ici j'ai oublié euh la
+25:59
+troisème photo de référence mais vous avez compris le truc. Et voilà notre jeune qui est désormais chaussure au
+26:06
+pied sur le paysage que je lui ai demandé. Et là aussi noter la qualité du
+26:12
+rendu de la lumière et les ombres parfaitement adaptées à l'ensemble.
+Mise à jour de chiffres (infographie dense)
+26:18
+Autre exemple, la mise à jour de chiffres concernant les infographies très très denses. On a une infographie
+26:24
+business Q1 cell report avec un diagramme à trois barres éticoté. Et
+26:29
+ici, on veut comme un petit peu l'exemple de l'ordinateur recomposer simplement certains éléments. Alors là,
+26:36
+je vous montre, c'est très facile. On a donc des données janvier 40, février 55
+26:41
+et cetera. Et vous voyez que en changeant les références chiffrées ici et bien l'ensemble au niveau des
+26:47
+rectangles s'adapte au niveau de la taille. Donc là, vous avez une infographie précise même qui est pas forcément générée par Silvim que vous
+26:53
+voulez modifier. Vous savez pas comment le faire. Vous importez votre photo de référence, vous lui demandez les indications, vous demandez que les
+27:01
+graphes euh s'adaptent aux nouvelles données et l'ensemble se fait euh en un clin d'œil. Donc là aussi euh chapeau à
+27:07
+l'équipe de Sidwim 5.0. Autre exemple très précis, la cohérence du sujet entre variantes. Bon là c'est classique hein,
+Cohérence du sujet entre variantes
+27:14
+on a une mascotte renard cartoon sympathique au pelage rouge dans une position et là aussi on lui demande de
+27:20
+conserver exactement la même mascotte mais dans une position différente. Ici aussi pas de problème, la constance du
+27:26
+personnage est totalement respectée. Autre exemple, le relight realiste. Donc
+Relight réaliste (on garde la géométrie)
+27:32
+là c'est très très bien fait. On a une photo d'un salon sous une lumière de jour couverte, plate et terne. Et c'est
+27:38
+ce que je vous disais en vidéo. Moi, ce qui m'épate dans cette, c'est vraiment la propension du système à nous fournir
+27:46
+des lumières vraiment réalistes qui mettent en valeur l'ambiance générale sans toucher aux éléments qui composent
+27:52
+l'ensemble si vous voulez. Donc là, ce qu'on lui demande, c'est de rééclairer cette scène exacte en un coucher de soleil chaud et cinématographique.
+27:59
+Lumière dorée traversant la fenêtre par la droite. Longues ombres douces, haute lumière chaude sur le canapé. Conserve
+28:06
+chaque objet, sa forme et sa position exactement identique, chante uniquement la lumière et l'ambiance colorimétrique.
+28:12
+On passe de cette lumière terne, triste ou nette à ce salon éclairé. Et regardez
+28:17
+un peu la finesse de du reflet, si vous voulez, du soleil couchant sur le canapé. À l'intérieur du vase. Si je
+28:24
+zoome, vous voyez que les reflets sont très subtils. Les ombres s'adaptent également à la source lumineuse. Donc
+28:32
+chapeau bas. Ici, on veut un reformatage à dimension pixel exacte. Donc là, on a
+Reformatage à dimensions pixel exactes
+28:38
+la photo d'un bol de ramenè qu'on veut simplement modifier au niveau du format.
+28:43
+Donc on a ça et là vous demandez le redimensionnement de l'ensemble et vous obtenez un recalcul des pixels manquants
+28:50
+pour le pot de ramè dans un plan plus large. Bon là pour être tout à fait franc, si vous utilisez Xfield, c'est
+28:57
+même pas la peine de vous casser la tête. Là vous fournissez à Xfield la photo au format carré. Vous euh tapez
+29:04
+simplement même image en sélectionnant Cdream 5.0 et vous cliquez sur 16/9e. Et
+29:09
+là, vous avez même pas besoin de lui donner des indications supplémentaires, sauf si vous voulez que le système vous
+29:15
+fournisse des baguettes exactement à cet endroit, un pot et d'autres aliments exactement à celui-ci. Bon, ça c'est au
+29:22
+niveau du redimensionnement et du recalcul des pixels manquant comme je vous l'ai dit en terme d'out painting et
+29:28
+bien le système fait très bien le boulot. Ensuite, on a des exemples classiques qu'on appelle l'édition par
+Édition par ancrage textuel (anchor editing)
+29:33
+ancrage textuel. L'encore editing, ça c'est pour modifier simplement certains éléments au niveau de la couleur. Bon là
+29:40
+c'est très simple hein, je lui demandé de changer la couleur du macaron du milieu. On a le macaron vert et je lui
+29:45
+ai demandé d'obtenir ce macaron. Et vous remarquez que le macaron vert, il y a une espèce de petite poudre. Et dans mon
+29:52
+promptte, je lui demande change le macaron brun chocolat brillant. Et du
+29:58
+fait que je lui indique chocolat, ben lui il comprend que le chocolat euh ne comprend pas cette espèce de petite
+30:04
+poudre. Et regardez même la qualité, quoi. Là, on voit que le macaron, je sais pas si c'est la pistache et cetera
+30:10
+et bien l'ensemble est assez brut et le chocolat et bien fait naître des reflets
+30:15
+qui ajoutent un réalisme lié à la texture de mantée. Ensuite, l'édition
+Édition guidée par croquis / aplat (sketch editing)
+30:20
+guidée par Croquy, le sketch editing. Ici, on a un mur de salon beige vide au-dessus d'un buffet en bois, lumière
+30:26
+du jour douce. Là, ce que je lui demande, c'est de marquer un rectangle approximatif sur le mur vide au niveau
+30:32
+du buffet. À l'intérieur de cette zone marquée, rend un grand tableau abstrait encadré avec des coups de pinceau
+30:38
+terracota, chaud et bleu marine en accordant l'éclairage et la perspective de la pièce, laisse tout ce qui est hors
+30:44
+de la zone marqué intact. On a donc une zone neutre comme vous le voyez ici et voilà selon mes indications ce que le
+30:51
+système a donc généré, le tableau terracota. Donc voilà, avant après, rien
+30:57
+ne bouge, tout est impeccable. Autre exemple, bon ça c'est classique, la préservation du visage. Donc là on a un
+Préservation du visage / identité pendant une retouche
+31:03
+portrait d'un homme en studio naturel et là je lui ai simplement dit de conserver le visage, la barbe, les lunettes et l'identité de cet homme. Ne change pas
+31:09
+ses traits, change uniquement la scène. Place le vêtu d'un costume bleu marine debout dans un bureau moderne lumineux
+31:16
+au fond fouté. son visage doit rester parfaitement reconnaissable et identique. On a ce monsieur que nous
+31:21
+transformons en ce monsieur. Donc là, si vous avez des photos de vous euh prise à la maison avec une lumière banale que
+31:28
+vous voulez une photo LinkedIn, ben voilà, vous demandez ça et vous aurez vraiment le rendu souhaité. Dernier
+31:34
+exemple, un rendu réaliste des matières. Donc là, on a une photo de produit d'un pot cosmétique qui paraît jolie mais qui
+Rendu réaliste des matières (verre, reflets)
+31:41
+euh va être maximisé suite à mes indications. Donc là, je vais demander
+31:47
+change uniquement la matière du pot du verre dépoli vers un verre transparent clair avec réfraction réaliste caustique
+31:54
+et reflet fidèle de la Softbox Studio concerne la forme du pot, le couvercle,
+32:00
+la zone d'étiquette vierge et l'arrière-plan strictement identique. Et vous voyez la différence ici. On a une
+32:05
+photo assez banale et regardez par rapport à les indications comme la réfraction de la lumière est incroyable
+32:13
+ici et met votre produit. Et ici bis répétita. Si vous voulez un texte précis
+32:19
+ici, ben vous le demandez au système, vous précisez la police et celui-ci s'effectuera
+32:26
+au doigt et à l'œil.
+CONCLUSION
+32:31
+Voilà les amis, vous l'avez compris hein, évoquer ce Cream 5.0, c'est pas forcément parler de l'IA la plus
+32:37
+impressionnante en terme de génération. Si on doit parler des limites, c'est quand vous voulez créer par exemple des
+32:44
+compositions avec des personnages célèbres et cetera. Ça nano banana et char GPT 2.0 le gère très bien. Ici euh
+32:55
+si Dreams ne vous fournira jamais une constance de personnages connu, mais si vous bénéficiez de d'un abonnement sur
+33:01
+des systèmes qui vous permettent de recourir à différents générateurs d'imagano banana, la GPT, Creams, ben
+33:08
+vous jonglez entre les trois pour obtenir
+33:13
+le rendu souhaité. Bon, pour tout ce qui est science-fiction, pour tout ce qui est affiche et cetera, vous pouvez tout
+33:19
+à fait utiliser Nano Banana et CHGPT. Il vous fournira des images avec des références liées à la pop culture, à
+33:26
+l'art. Bon bref, la base de données est immense hein sur Nano Banana. Donc c'est normal que cette IA soit plus permissive
+33:32
+que Creams. Mais pour tout ce qui est texte, paysage, lumière et cetera, moi
+33:39
+je trouve que ce S Dreams Excelle et vous avez vu dans les nombreux exemples
+33:45
+de ce guide que vous pouvez faire beaucoup de choses en terme professionnel. Ici par exemple, vous
+33:52
+voyez la vignette que j'ai créé pour cette vidéo. Et bien ici, je je lui ai
+33:57
+fourni euh deux ou trois images que vous avez vu dans la vidéo. Je lui ai simplement demandé de créer un paysage
+34:05
+cohérent composé de ces différentes images pour créer une vignette. Et vous voyez que l'image du cosmonaute au
+34:12
+centre de l'image, l'image de la femme en premier plan et euh une lumière impeccable sur l'ensemble de la
+34:18
+composition rendre vraiment l'ensemble intéressant. Un bon focus sur les ombres, tout est vraiment bien agencé.
+34:26
+Alors évidemment hein, comme je le dis toujours, tout dépend de la qualité de vos prontes. Pour les gens intéressés, voici la formation qui peut vous aider à
+34:34
+exceller et à progresser pour obtenir les images pour vos créations
+34:40
+artistiques, pour le monde professionnel, hein. Vous avez 4 heur de vidéo, vous avez plus de 1000 références
+34:47
+graphiques et le prom équivalent. Ceux qui ont déjà acquis la formation, le guide que je viens de vous montrer de 95
+34:54
+pages sera complété. Il s'agit d'une formation avis que je [raclement de gorge] complète à chaque
+35:00
+fois qu'un nouveau système voit le jour. Donc là, vous pourrez vous entraîner grâce au prompt que je vous ai dévoilé
+35:06
+aujourd'hui. Voilà donc pour ce S Dreams qui est un peu pas sous-estimé mais dont on parle moins que les autres systèmes
+35:12
+et qui mérite pour l'ensemble des choses que je vous ai montré beaucoup plus de considération. C'était Barcel. N'oubliez
+35:20
+pas de me dire ce que vous pensez de tout ça en commentaire et je vous souhaite une excellente journée à tous.
+35:26
+Ciao !
+
+Tout
+
+Source : Barthélémy Nobili
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+30 k vues
+•
+il y a 20 heures
+Nouveau
+
+
+18:42
+Douleur à l’épaule : Voici comment s’en débarrasser pour de bon !
+Le Musclay
+48 k vues
+•
+il y a 1 an
+
+
+21:48
+🤖 OpenAI prépare-t-il l'appareil qui remplacera votre smartphone ?
+Zoom Capital
+9 vues
+•
+il y a 14 minutes
+Nouveau
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+664 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,7 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 4 semaines
+
+
+30:03
+Z.AI Chat GLM 5.2 :  la meilleure alternative à Claude. 100% Open Source ! Guide complet .
+Barthélémy Nobili
+6 k vues
+•
+il y a 13 jours
+
+
+1:39:52
+Le docteur Malbouffe : « Cet aliment est pire que le tabac ! » - Chris Van Tulleken
+The Diary Of A CEO
+2,3 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+109 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+31:20
+J'ai gaspillé des milliers d'euros en compléments
+Bodytime
+16 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+42:05
+Censure des réseaux sociaux : grosse blague ou vraie menace (j’ai lu le texte de loi) ?
+Juste Milieu.
+12 k vues
+•
+il y a 19 heures
+Nouveau
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+379 k vues
+•
+il y a 1 mois
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+180 k vues
+•
+il y a 10 jours
+
+
+21:17
+RAG expliqué simplement : la technique derrière les IA qui marchent
+Projets IA
+5,1 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+103 k vues
+•
+il y a 1 mois
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+188 k vues
+•
+il y a 2 semaines
+
+
+2:43:51
+Docteur Insuline et Glucose : Ceci fera fondre votre graisse très vite !
+The Diary Of A CEO
+7,1 M de vues
+•
+il y a 1 an
+Doublée
+
+
+25:17
+Un Québécois découvre Lidl pour la première fois
+Gurky
+1,5 M de vues
+•
+il y a 11 mois
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+9:26
+L'Université d'Été de l'Internationalisation des Entreprises - Interview d'Awa Sagna
+Le Moci, Moniteur du Commerce International
+16 vues
+•
+il y a 28 minutes
+Nouveau
+
+
+28:52
+Je teste la nourriture la plus douteuse d'Amazon
+Gurky
+883 k vues
+•
+il y a 5 mois
+
+15:37
+Qui est malhonnête ? LA RÉPONSE À MARVEL FITNESS
+Le Musclay
+467 k vues
+•
+il y a 6 ans
+
+27:25
+Je teste les recettes de la hess de mes abonnés
+Gurky
+824 k vues
+•
+il y a 1 mois
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+792 k vues
+•
+il y a 2 mois
+
+32:44
+PWNED : il pentest mes SaaS et se fait cramer (gros fail)
+Mike Codeur
+11 k vues
+•
+il y a 1 jour
+Nouveau
+
+57:28
+Savoir bien débuter en musculation
+Le Musclay
+1 M de vues
+•
+il y a 10 ans
+
+14:48
+Si Je Recommençais Un Business En 2026, Voici Exactement Ce Que Je Ferais
+Max Piccinini
+17 k vues
+•
+il y a 4 mois
+
+43:43
+Les secrets que les experts IA ne vous disent pas sur le Loop Engineering ! Nouvelle norme de l'IA !
+Barthélémy Nobili
+7 k vues
+•
+il y a 6 jours
+Nouveau
+
+1:44:42
+🎙️LES INTOUCHABLES DE L'AUDIOVISUEL PUBLIC ! (avec E. Morillot) [PCAT]
+J'suis pas content TV
+108 k vues
+•
+il y a 1 mois
+
+15:01
+Pourquoi Unreal Engine 5.8 est une Révolution
+Tisma
+54 k vues
+•
+il y a 1 mois
+
+20:30
+Comment analyser la concurrence sur Facebook Ads (extrait J7 Académie)
+No Pay No Play
+485 vues
+•
+il y a 1 an
+
+22:58
+Je teste les nouveautés étranges de Fast-Food (juin 2026)
+Gurky Le Murky
+382 k vues
+•
+il y a 1 mois
+
+21:42
+NOUVELLE mise à jour d'Hermes : 10 fois plus puissante
+Dr. Firas
+3,4 k vues
+•
+il y a 1 jour
+Nouveau
+
+33:34
+LA FRANCE A SOMBRÉ DANS LA DICTATURE, ET PERSONNE NE VIENDRA NOUS SAUVER.
+Tatiana Ventôse
+109 k vues
+•
+il y a 20 heures
+Nouveau
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+935 k vues
+•
+il y a 2 mois
+Doublée
+
+4:31
+Chronique Musclée N°1 - Pages facebook, Arnold Classic, Méthode Lafay.
+Le Musclay
+500 k vues
+•
+il y a 12 ans
+
+56:07
+Crée des workflows n8n SANS CODER, juste en parlant à Claude 🤯
+Dr. Firas
+88 vues
+•
+il y a 4 heures
+Nouveau
+
+    

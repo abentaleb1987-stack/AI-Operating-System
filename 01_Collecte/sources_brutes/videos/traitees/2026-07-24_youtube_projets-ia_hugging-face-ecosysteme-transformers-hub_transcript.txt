@@ -1,0 +1,1257 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Hugging Face : Comment une Lib Python a Démocratisé l'IA
+Doublée automatiquement
+Projets IA
+Projets IA
+4,49 k abonnés
+
+S’abonner
+
+126
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+2 224 vues  5 juin 2026  #DeepLearning #Transformers #IA
+🤗 Aujourd'hui, télécharger un modèle d'IA prend dix secondes. En 2018, ça prenait des heures. Voici ce qui a changé.
+
+Dans cette vidéo, on décortique l'écosystème Hugging Face :
+— Pourquoi en 2018 chaque labo distribuait ses modèles en silo (4 frameworks, 4 conventions, poids sur Google Drive)
+— Comment la lib `transformers` et `from_pretrained()` ont standardisé l'interface (200+ architectures aujourd'hui)
+— Pourquoi le Hub est basé sur Git LFS — et ce que ça change pour le versioning des poids
+— Le rôle des model cards (Mitchell 2019) pour rendre les modèles traçables
+— Le format `.safetensors` : sécurité, zero-copy, lazy loading
+— L'effet réseau enclenché par `datasets`, Spaces et l'Inference API
+
+Hugging Face n'a pas inventé un nouveau modèle. Ils ont inventé la plomberie.
+
+📚 Sources
+— Wolf et al. 2019 — HuggingFace's Transformers: State-of-the-Art Natural Language Processing (arXiv:1910.03771)
+— Mitchell et al. 2019 — Model Cards for Model Reporting (FAccT 2019)
+— `safetensors` repo + spec : github.com/huggingface/safetensors
+— Doc Hugging Face Hub : huggingface.co/docs/hub
+— Git LFS : git-lfs.com
+
+👉 Projets IA — pour comprendre l'IA sans bullshit, un concept par vidéo.
+🔔 Abonne-toi !
+
+#IntelligenceArtificielle #MachineLearning #DeepLearning #HuggingFace #Transformers #OpenSource #MLOps #SafeTensors #ModelCards #GitLFS #IAExpliquée #ProjetsIA #IA
+
+---
+
+HASHTAGS
+
+#IntelligenceArtificielle #MachineLearning #DeepLearning #HuggingFace #Transformers #OpenSource #MLOps #SafeTensors #ModelCards #GitLFS #IAExpliquée #ProjetsIA #IA
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+4,49 k abonnés
+Vidéos
+À propos
+20 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@coangajc
+il y a 5 heures
+Continuez comme ça ..! Ne changez rien .. de votre ADN .. l’art du progressing information..! 
+Slowly but efficiently..! 
+Ne déroger pas à la règle..! 
+Restez toujours Didactique..! 
+Comme si même si vous vous adressiez toujours à des débutants Learning .. ! 
+Ne perdez pas votre âme didactique..!
+Sinon vous passeriez dans une niche de Gigs ..!  Merci Cjc
+
+
+
+Répondre
+
+
+@Ram-Fracks-brzz
+il y a 23 heures
+Merci pour cette vulgarisation ! Moi qui utilise tout cela maintenant natif avec les modèles qu’on installe ! Merci pour cet historique ❤
+
+
+
+Répondre
+
+
+@bertrandbrodeau2372
+il y a 52 minutes
+Je ne sais pas comment c'est possible mais toutes vos vidéos me sont très utiles...
+
+
+
+Répondre
+
+
+@farouksouleibrahim1558
+il y a 1 mois
+Merci infiniment pour ta claire voyance.
+Claire ,précise et surtout bien vulgarisé.🎉
+
+1
+
+
+Répondre
+
+Projets IA
+·
+
+1 réponse
+
+@guillaumebaudin1439
+il y a 3 heures
+Merci pour ta vidéo qui est très claire malgré la technologie expliquée !!
+
+
+
+Répondre
+
+
+@guytournois85
+il y a 1 heure
+Merci, ça paraît clair !
+
+
+
+Répondre
+
+
+@josephlustigiermbong5121
+il y a 1 mois
+Très bonne vidéo... Je vais allez creuser
+
+2
+
+
+Répondre
+
+Projets IA
+·
+
+1 réponse
+
+@desynchronisatio
+il y a 23 heures
+Cette chaîne pépite 
+
+
+
+Répondre
+
+
+@emmanueldesirekouadio3568
+il y a 1 mois
+Merciiiiiii trop supeer   , à quand  pour  les  projets IA ....on attend
+
+2
+
+
+Répondre
+
+·
+
+1 réponse
+
+@AlexanderWindwood
+il y a 1 mois
+Merci pour toutes ces explications !! 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@jean-philippemougins1748
+il y a 2 jours
+Très bonne vidéo.
+
+En revanche, concernant Git LFS, si on stocke des pointeurs, cela ne résout pas vraiment le problème des liens morts que vous mentionnez avant. Si la ressource vers laquelle pointe le fichier n'existe plus ou n'est plus accessible, on se retrouve exactement dans la même situation : le pointeur ne mène plus à rien.   non?
+
+
+
+Répondre
+
+
+@guillaume_cervantes
+il y a 3 heures
+Merci !
+
+
+
+Répondre
+
+
+@gobajoseph5064
+il y a 1 jour
+super maintenant comment utiliser un modèle ds une app en production réel ?
+
+
+
+Répondre
+
+
+@Ruqyahguidance
+il y a 2 jours
+je t'adore. Quel moyen pour faire ta connaissance? je suis serieux
+
+1
+
+
+Répondre
+
+
+@rastaquoueres7655
+il y a 7 heures
+Faut arrêter avec les instruments de musique derrière le YouTubeur. Sympa les lunettes de grand mère.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est le Hugging Face Hub. Un million
+0:03
+de modèles d'intelligence artificielle
+0:05
+distribué gratuitement et accessible
+0:08
+avec seulement trois lignes de code. Et
+0:11
+ça c'est ce qui rend tout ça possible.
+0:13
+Aujourd'hui, télécharge un modèle dia,
+0:15
+le lancer et le tester, ça te prend
+0:18
+quelques secondes. Mais en 2018, le même
+0:21
+geste prenait des heures, plusieurs
+0:23
+heures à chercher dans le fichier Redmi,
+0:25
+à retrouver un lien Google Drive cassé,
+0:27
+à deviner la version de Tuner Flow
+0:29
+utilisée et charger tes poids
+0:31
+manuellement dans une architecture qu'il
+0:34
+fallait reconstruire à la main. Pour
+0:35
+autant, cette standardisation n'est pas
+0:37
+tombée du ciel. Elle vient d'une équipe
+0:40
+de cinq personnes basées à Paris et à
+0:42
+New York qui avait dans l'idée de lancer
+0:45
+un chat sur iOS. Mais au lieu de ça, ils
+0:48
+ont fini par devenir le guitub de Lia.
+0:51
+Comment tout cela a-t-il été rendu
+0:53
+possible ? C'est ce qu'on va voir
+0:54
+maintenant. En 2016, une start-up nommée
+0:57
+Hugging Face lance une application de
+1:00
+chat avec Delia, un genre d'ami virtuel
+1:03
+pour ados, mais l'application ne décolle
+1:05
+pas du tout. Alors en 2018, l'équipe
+1:08
+pivote. Il tombe sur le papier de Burt
+1:11
+de Google et il décide de réimplémenter
+1:14
+Burt en P torch pour leur usage interne.
+1:17
+Au départ parce que le code officiel est
+1:19
+en tunerflow et que ce n'est pas
+1:21
+pratique, ils postent leur
+1:23
+réimplémentation sur GitHub pour en
+1:25
+faire bénéficier la communauté et là ça
+1:28
+explose. Quelques mois plus tard, il
+1:30
+publie un papier Hugging Face
+1:32
+Transformers State of the Art Natural
+1:35
+Language Processing. En octobre 2019,
+1:38
+ilise l'interface, il crée un up central
+1:41
+et en moins de 5 ans, il deviennent le
+1:44
+passage obligé de l'IA open source. Dans
+1:47
+cette vidéo, on va voir trois choses.
+1:50
+D'abord, quel était le problème avant
+1:52
+Hugging Face et pourquoi c'était un
+1:54
+obstacle ? Ensuite, on va rentrer dans
+1:57
+les solutions qu'a proposé Hugging Face
+2:00
+de la librairie Transformers, le Hub Kit
+2:03
+LFS, les Model Cards et le format Safe
+2:06
+Tens. Et enfin, les faits réseaux qui
+2:08
+sont enclenchés avec les datasets, les
+2:11
+shapes et l'inference API. Avant de
+2:14
+rentrer dans le vif du sujet, on va
+2:16
+poser un concept parce que ça va revenir
+2:18
+tout au long de la vidéo. Un modèle
+2:20
+d'intelligence artificielle, c'est deux
+2:22
+choses distinctes. D'abord, le code,
+2:25
+c'est-à-dire l'architecture qui est
+2:27
+écrit en Python et qui décrit la
+2:29
+structure de réseau de neurones. C'est
+2:31
+petit, quelques kilos octé et c'est
+2:34
+généralement hébergé sur Gitup. Ensuite,
+2:36
+les poids, c'est-à-dire les milliards de
+2:38
+nombres qui ont été ajustés pendant
+2:40
+l'entraînement. Et ça par contre c'est
+2:42
+énorme. Bird base par exemple c'est 440
+2:45
+MCT. Un LLM moderne c'est plusieurs
+2:49
+GoCT. Ce sont les fichiers
+2:51
+pointbinpthssaf
+2:54
+tensers et c'est ça qui contient le
+2:56
+savoir réel du modèle. Donc code et
+2:58
+poids vivent séparés. Et la question de
+3:01
+comment distribuer les poids, les poids,
+3:04
+pas le code, c'est exactement le
+3:06
+problème que Hugging Face a résolu.
+3:08
+Maintenant que tu as bien ça en tête, on
+3:10
+va commencer. Partie 1, le problème
+3:13
+préhugging face de 2017 à 2018. Première
+3:16
+partie, pourquoi distribuer des modèles
+3:18
+d'IA ? C'était l'enfer avant 2019. Étape
+3:21
+une, chaque club, sa codebase 2018 est
+3:25
+un grand cru pour l'IA. Plusieurs
+3:27
+modèles majeurs sortent. Burt chez
+3:28
+Google en octobre. GPT2 de Open AI début
+3:32
+2019, Roberta chez Facebook AI, Elmo
+3:36
+chez Allen Institute. Chacun publie son
+3:38
+modèle et chacun le publie à sa manière.
+3:42
+Google publie Bird avec un repository
+3:45
+tenter flow. Le code est verbeux, les
+3:47
+dépendances précises et la doc
+3:49
+technique. Pour utiliser le modèle Bur
+3:51
+chez toi, tu télécharges le repository
+3:53
+Tensorflow. Tu installes Tenserflow 1.11
+3:57
+et tu lis les 200 lignes du Redmi. Open
+3:59
+AI publie GPT2 dans un repository
+4:02
+similaire mais avec une convention
+4:04
+différente. Facebook publie Roberta en
+4:07
+pie Torch sur Fec et Allen Ai publie
+4:11
+Elmo sur son framework Allen NLP. Du
+4:14
+coup, si jamais tu voulais utiliser ces
+4:16
+quatre modèles dans ton projet, tu te
+4:18
+retrouves avec quatre environnements
+4:19
+Python différents, quatre conventions de
+4:21
+côtes différentes et quatre formats de
+4:23
+poids différents. Tu passes la moitié de
+4:25
+ton temps à débugger l'installation au
+4:27
+lieu d'utiliser les modèles en
+4:28
+eux-mêmes. En gros, c'était complètement
+4:30
+le Far West. Étape 2, la distribution
+4:32
+des poids, l'autre en fer. Et puis il y
+4:34
+a le problème des poids. Souviens-toi de
+4:36
+notre concept préalable. Un modèle,
+4:39
+c'est le code et les poids. Le code est
+4:42
+généralement hébergé sur GitHub. Ça
+4:44
+c'est simple, mais les poids c'est
+4:46
+plusieurs méga octé voire même des fois
+4:48
+des giga octé et gitup n'apprécie pas
+4:50
+vraiment les gros fichiers. Gitup a une
+4:52
+limite de 100 m par fichier et au-delà
+4:55
+c'est refusé. Alors pour les poids de
+4:57
+Burt à 440 MCT ou les poids de GPT2 à 6
+5:02
+Goct, c'était impossible de les héberger
+5:04
+sur GitHub. Alors, les chercheurs
+5:06
+improvisent. Ils mettent les poids sur
+5:07
+Google Drive, sur Dropbox, sur un
+5:10
+serveur académique de leur université.
+5:12
+Ils ajoutent un lien dans le Redmi et ce
+5:14
+lien casse régulièrement. Par exemple,
+5:16
+l'université déplace le serveur, le lien
+5:18
+Google Drive est rempli, le doctorant
+5:21
+qui manageait ce lienlà s'en va.
+5:23
+Aujourd'hui, des centaines de papiers de
+5:25
+recherche point vers un lien qui
+5:26
+n'existe plus. Tu pourrais reproduire
+5:28
+l'expérience du papier de recherche,
+5:30
+mais tu n'aurais plus les poids. Pas de
+5:32
+versioning, pas de checkum, pas de
+5:34
+garantie que ce que tu télécharges
+5:36
+aujourd'hui correspond à ce que les
+5:38
+auteurs ont publié il y a 6 mois et
+5:40
+certainement pas de modèle card,
+5:43
+c'est-à-dire la documentation structurée
+5:45
+qui indique que ce modèle a été entraîné
+5:47
+sur telle donnée, ses billets connus
+5:49
+sont X ou Y, ses performances sont de
+5:52
+temps. Tout ça n'existait pas avant
+5:54
+2019. Donc en 2018, on a un problème
+5:57
+massif. Distribuer un modèle d'IA, c'est
+6:00
+tellement compliqué que chaque labo
+6:01
+réinvente la roue. Et c'est exactement
+6:03
+sur ce terrain de jeu que Hugging Face
+6:06
+va débarquer. Partie 2, la solution
+6:08
+technique de Hugging Face. Brique 1, la
+6:12
+librairie Transformers et la fonction
+6:14
+from pretrend. Python from Transformers
+6:17
+import automodè modè automodè point from
+6:21
+pretrain ouvre la parenthèse birt based
+6:24
+uncased juste trois lignes première
+6:26
+brique la librairie transformers c'est
+6:28
+le code Python [musique] le pipe install
+6:31
+transformers qui fait l'interface avec
+6:34
+n'importe quel modèle dia et son génie
+6:36
+c'est une seule fonction from printrain
+6:40
+voilà ce qu'elle fait tu lui passes un
+6:41
+nom par exemple birth base uncased elle
+6:45
+va d'abord rechercher si ce modèle est
+6:47
+dans ton cache local. S'il n'y est pas,
+6:50
+elle va se connecter au Huging Faith Hub
+6:53
+et télécharge automatiquement les poids
+6:55
+et la configuration. Elle lit la config,
+6:58
+c'est un fichier Jison qui dit "Ce
+7:00
+modèle est un BERT avec 12 couches, 768
+7:04
+dimensions et 12 têtes d'attention. Elle
+7:06
+instancie l'architecture qui correspond
+7:08
+et elle charge les poids dans cette
+7:09
+architecture. Et au final, tu as un
+7:11
+modèle prêt à l'antemploid." trois
+7:13
+lignes de code là où avant il fallait 2
+7:15
+he et là et c'est ça la vraie révolution
+7:18
+cette interface fonctionne pour
+7:19
+n'importe quel modèle d' GPT2 Roberta T5
+7:23
+et plus tard Lama Mistral Gema Tu
+7:26
+changes juste le nom de la string entre
+7:28
+parenthèses de la fonction et pour le
+7:30
+reste c'est pareil c'est ça le fait
+7:32
+d'avoir standardisé l'interface sous le
+7:34
+capot la librairie gère également le
+7:36
+tokenizer c'est-à-dire le découpage du
+7:39
+texte en token. Pour ça, le même
+7:41
+mécanisme est appliqué. Par exemple,
+7:43
+autotoizer.
+7:45
+Prettrain birdbase uncased et la
+7:47
+communauté contribue. N'importe quel
+7:49
+chercheur peut ajouter le support de son
+7:51
+modèle DI dans la librairie en utilisant
+7:54
+la convention. C'est ce qui fait que la
+7:55
+librairie a aujourd'hui plus de 200
+7:57
+architectures supportées. Brique 2, le
+8:00
+hub basé sur Git LFS. Deuxème brique, le
+8:03
+hub. Une infrastructure pour héberger
+8:05
+les poids, ce que Guitub ne sait pas
+8:07
+faire. Comment ils s'y prennent ? Ils
+8:09
+utilisent Git LFS pour large file
+8:13
+storage. C'est une extension de guit,
+8:15
+pas une réinvention. Au lieu de stocker
+8:17
+un fichier énorme directement dans le
+8:19
+repository, git lfs le remplace par un
+8:23
+pointeur, c'est-à-dire un petit fichier
+8:25
+de texte de quelques kilo qui dit juste
+8:28
+le vrai contenu est ici sur ce serveur
+8:31
+de stockage. Il pointe vers l'endroit où
+8:34
+c'est vraiment stocké. Quand tu clones
+8:35
+le repository, par défaut, tu vas juste
+8:38
+télécharger les pointeurs. Et quand tu
+8:40
+demandes le contenu réel, Git LFS va
+8:43
+chercher le binaire sur le serveur. Ce
+8:45
+système permet de version les poids
+8:47
+quand on version le code. Tu peux commit
+8:50
+une version 1, une version 2, une
+8:52
+version 3 du même modèle. Tu peux
+8:54
+revenir à une version précédente. Tu
+8:56
+peux faire un dif, tu peux fork un
+8:58
+modèle pour le f tuné. C'est-à-dire que
+9:01
+c'est exactement le pattern de guit mais
+9:03
+cette fois-ci appliqué au modèle.
+9:06
+Aujourd'hui, le Hub Hugging Face
+9:08
+contient plus d'un million de modèles et
+9:10
+chacun est un repogit avec ses
+9:12
+métadonnées, ses versions, son
+9:14
+historique, ses contributeurs. C'est
+9:16
+pour ça qu'on dit que c'est le guitub de
+9:18
+l'IA. Troisème brique, les modèles
+9:20
+cards, c'est-à-dire un fichier read.mmd
+9:23
+MD structuré qui décrit le modèle. Pas
+9:25
+un texte libre, un format normalisé qui
+9:28
+répond à des questions précises. Quelle
+9:30
+données ont servi l'entraînement ?
+9:31
+Anglet uniquement ou multilingue ? Quels
+9:34
+sont les usages prévus ? Et lesquels
+9:36
+évités ? Quelles sont les performances
+9:37
+sur les batch park standard ? Quels sont
+9:39
+les biais connus, mesurés et documentés
+9:41
+? Combien d'émissions carbone
+9:43
+l'entraînement a-t-il coûté ? L'idée
+9:45
+vient d'un papier de Margarette Mitchell
+9:47
+de chez Google. En 2019, Model Card for
+9:50
+Model Reporting. Hugging Face l'adopte
+9:53
+rapidement et le rend quasiment
+9:54
+obligatoire pour pouvoir publier sur le
+9:56
+hub. Sans modèle card minimal, ton
+9:59
+modèle est mal référencé. Pourquoi c'est
+10:01
+si important ? Parce que ça transforme
+10:03
+un fichier binaire opaque en un objet
+10:05
+traçable. Tu sais d'où il vient, tu sais
+10:08
+ce qu'il sait et ce qu'il ne sait pas.
+10:09
+Tu sais à quel point lui faire confiance
+10:11
+pour ton cas d'usage. Avant ça,
+10:13
+télécharger un modèle, c'était comme
+10:15
+signer un chaque en blanc sur ses biais
+10:17
+et ses limites. Brique 4, le format
+10:20
+points safe tensers. 4e brique technique
+10:23
+plus récente 2022, le format safe tens.
+10:26
+Avant, les poids étaient distribués en
+10:29
+pickle, c'est-à-dire le format de
+10:31
+sérialisation par défaut de Python. Ça
+10:33
+marche mais ça a un gros problème de
+10:35
+sécurité parce que charger un fichier
+10:37
+pickle, c'est exécuter du code Python de
+10:40
+façon arbitraire. Si quelqu'un a
+10:43
+contaminé le fichier pickle avec une
+10:45
+charge malveillante, ton ordinateur
+10:47
+exécute ce code au moment où tu fais
+10:49
+torch.load entre parenthèses modèle.b.
+10:52
+Tu pensais télécharger des poids et en
+10:54
+réalité tu télécharges une porte
+10:56
+d'entrée. Hugging Face avec Nicolas
+10:58
+Patri comme principal auteur a créé le
+11:00
+format points safe tensers. Un format
+11:02
+pensé spécifiquement pour pouvoir
+11:04
+stocker des tenseurs sans exécuter quoi
+11:06
+que ce soit au chargement. Il a trois
+11:08
+propriétés. Premièrement sécurité. C'est
+11:11
+juste un format binaire structuré comme
+11:13
+un PNG ou un format MP4. Pas de code
+11:16
+exécuté. Deuxièmement, zéro copie. Le
+11:19
+fichier peut être chargé par memory
+11:21
+mapping, c'est-à-dire sans recopier les
+11:24
+octamis
+11:26
+plus rapide qu'un pickle équivalent.
+11:28
+Troisièmement, lazy loading. Tu peux
+11:31
+charger juste les tenseurs dont tu as
+11:33
+besoin sans tout dessérialiser.
+11:36
+Aujourd'hui, c'est le format par défaut
+11:38
+sur le hub. Tous les nouveaux modèles
+11:40
+sont en point safe tone source et c'est
+11:42
+transparent pour l'utilisateur. La
+11:44
+fonction from pretrain détecte le format
+11:46
+et charge correctement. Mais ça résout
+11:49
+un trou de sécurité massif de
+11:50
+l'écosystème machine learning. Quatre
+11:53
+briques. La librairie Transformers qui
+11:55
+standardise l'interface, le Hubit LFS
+11:58
+qui héberge les gros poids, les modèles
+12:01
+cards qui rendent les modèles traçables
+12:03
+et le format points safe tens qui
+12:05
+sécurise les chargements. Mais ça c'est
+12:08
+l'infrastructure. Ce qui rend Hogging
+12:10
+Face vraiment incontournable, c'est ce
+12:12
+qui s'est construit au-dessus. Partie 3,
+12:15
+l'effet réseau. 3e partie, trois briques
+12:18
+additionnelles qui ont enclenché un
+12:19
+effet réseau. Plus de modèles ont attiré
+12:22
+plus de chercheurs. Plus de chercheurs
+12:24
+ont attiré plus d'outils et plus
+12:27
+d'outils ont attiré plus de modèles.
+12:29
+Brique 5 les datasets. Première
+12:32
+extension, la librairie datasets. Même
+12:35
+philosophie que pour la librairie
+12:36
+Transformers, mais cette fois-ci sur les
+12:38
+jeux de données. Une interface unique
+12:40
+pour charger squad, glu, common craw ou
+12:44
+n'importe quel datet publié sur le hub.
+12:47
+Versioning, streaming pour les dataset
+12:49
+trop gros pour la RAM, traitement
+12:50
+parallèle natif. En 2024, plus de 200000
+12:54
+datasets sont disponibles. C'est
+12:56
+exactement le même pattern de
+12:57
+standardisation mais appliqué au jeux de
+13:00
+données. Un chercheur peut maintenant
+13:02
+publier un papier qui dit "On a utilisé
+13:04
+le modèle X sur le dataset Y" et le
+13:07
+lecteur peut reproduire l'expérience
+13:09
+avec quelques lignes de code. Brique 6,
+13:12
+les space. 2è extension Space, une
+13:15
+infrastructure pour déployer une démo
+13:17
+interactive du modèle en quelques
+13:19
+minutes. Tu prends ton modèle, tu écris
+13:21
+une interface radio ou Streamlit,
+13:23
+souvent en moins de 50 lignes, et tu
+13:26
+pushes sur Hugging Face et hop, une URL
+13:29
+publique, une web app interactive et une
+13:32
+démo que n'importe qui peut utiliser
+13:34
+sans rien avoir besoin d'installer. Et
+13:36
+pourquoi ça c'est central ? Parce que ça
+13:38
+comble le fossé entre le chercheur et
+13:41
+l'utilisateur final. Avant space, tester
+13:43
+un modèle de pointe, demander de coder,
+13:46
+d'installer, de configurer. Avec Space,
+13:48
+ça demande juste de cliquer sur un lien.
+13:50
+Quand Stable Diffusion sort en 2022,
+13:53
+l'équipe le met immédiatement en space
+13:56
+et des millions de personnes le testent
+13:57
+en quelques heures. Avant, c'était
+13:59
+inconcevable sans space. Brique 7,
+14:02
+l'inférence API. 3è extension,
+14:05
+l'inférence API, un endp http pour
+14:09
+chaque modèle du hub. Tu envoies une
+14:11
+requête post avec ton input. Tu reçois
+14:14
+la sortie du modèle sans rien installer
+14:17
+côté serveur. C'est pratique pour tester
+14:19
+rapidement pour des prototypes ou pour
+14:21
+des intégrations légères. Avec
+14:22
+l'inference API, le modèle DI devient un
+14:25
+service web standard. Ça abaisse encore
+14:28
+la barrière à l'entrée. Un développeur
+14:30
+web peut intégrer un LLM à son app sans
+14:33
+connaître le moindre détail technique du
+14:35
+modèle. Et voilà la mécanique. Plus il y
+14:37
+a de modèles sur le hub chercheurs sont
+14:40
+attirés. Plus de chercheurs viennent et
+14:42
+plus d'outils sont créés autour, plus
+14:44
+d'outils et plus c'est facile pour les
+14:46
+nouveaux entrants et plus de nouveaux
+14:47
+entrants, plus de modèles. La boucle est
+14:50
+bouclée. Aujourd'hui, en 2026 n'importe
+14:53
+quel modèle dia open source finit par
+14:55
+être publié sur Hugging Face. Pas parce
+14:58
+qu'on les y oblige, parce que c'est
+15:00
+devenu le standard de facto comme GitHub
+15:03
+pour le code. Récapitulons en trois
+15:05
+phases. 1. Avant 2019, distribuer un
+15:09
+modèle d'IA. C'était quatre frameworks
+15:11
+différents, des poids hébergés sur
+15:13
+Google Drive et zéro standard de
+15:15
+documentation. 2. Hugging Face a apporté
+15:19
+quatre briques techniques essentielles.
+15:21
+La librairie Transformers avec la
+15:23
+fonction from pretrained, le hub basé
+15:27
+sur git lfs, les model cards normalisés
+15:30
+et le format points safe tensours. 3.
+15:33
+Par-dessus, ils ont créé des datasets,
+15:36
+des space et de l'inference API qui ont
+15:39
+créé un effet réseau autorenforçant.
+15:42
+Hing Face n'a pas inventé un nouveau
+15:44
+modèle. Ils ont fait quelque chose de
+15:46
+plus rare et de plus structurant. Ils
+15:48
+ont inventé la plomberie, la plomberie
+15:51
+invisible qui rend possible tout ce
+15:53
+qu'on voit aujourd'hui dans l'IA Open
+15:55
+Tour. Et c'est ça qui leur a permis de
+15:57
+devenir incontournable. Pour creuser,
+16:00
+voici deux ressources. D'abord le papier
+16:03
+d'origine Hugging Face Transformers
+16:05
+State of the Artal Language Processing.
+16:09
+Ensuite la doc technique du hub sur
+16:12
+hugging/docs/hub
+16:16
+qui détaille l'architecture GitLFS, les
+16:19
+API et les modèles cards. Retrouve les
+16:21
+liens en description. Et maintenant une
+16:23
+question pour toi. Quelle brique t'a
+16:25
+semblé la plus contreintuitive ? La
+16:28
+standardisation de From pret trrained,
+16:30
+guit LFS pour les modèles, safe tens
+16:33
+pour la sécurité. dis-le-moi en
+16:35
+commentaire pour que je puisse en tenir
+16:37
+compte pour une prochaine vidéo.
+
+Tout
+
+Pour vous
+
+Regardées
+
+20:46
+L'IA vient de se déchaîner (et personne n'en parle)
+Vision IA
+8 k vues
+•
+il y a 4 heures
+Nouveau
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+22:29
+A-Players : Recrutement, Management & SOP’s
+Mathis - Scaling d'Infoproduits
+4 vues
+•
+il y a 55 minutes
+Nouveau
+
+
+1:39:52
+Le docteur Malbouffe : « Cet aliment est pire que le tabac ! » - Chris Van Tulleken
+The Diary Of A CEO
+2,3 M de vues
+•
+il y a 2 ans
+Doublée
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+
+22:17
+J’ai installé mon propre agent IA 24/7 pour 20 €/mois (Installation complète)
+Yoan Ancelly | IA Utile
+247 vues
+•
+il y a 9 jours
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+180 k vues
+•
+il y a 10 jours
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+56:07
+Crée des workflows n8n SANS CODER, juste en parlant à Claude 🤯
+Dr. Firas
+71 vues
+•
+il y a 2 heures
+Nouveau
+
+
+20:09
+Je teste le restaurant de viande japonaise 🥩 à volonté le MOINS CHER de Paris
+Louis
+411 k vues
+•
+il y a 4 mois
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+28 k vues
+•
+il y a 18 heures
+Nouveau
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+103 k vues
+•
+il y a 1 mois
+
+
+19:42
+Je teste un restaurant à volonté de BOEUF DE KOBE au Japon (ça pique)
+Louis
+370 k vues
+•
+il y a 7 mois
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 4 semaines
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+57:28
+Savoir bien débuter en musculation
+Le Musclay
+1 M de vues
+•
+il y a 10 ans
+
+
+20:30
+Comment analyser la concurrence sur Facebook Ads (extrait J7 Académie)
+No Pay No Play
+485 vues
+•
+il y a 1 an
+
+32:44
+PWNED : il pentest mes SaaS et se fait cramer (gros fail)
+Mike Codeur
+10 k vues
+•
+il y a 1 jour
+Nouveau
+
+2:12:33
+Expert en argent : Le hack 7,11,4 qui transforme 1$ en 10 000$/mois ! - Daniel Priestley
+The Diary Of A CEO
+5,1 M de vues
+•
+il y a 1 an
+Doublée
+
+    

@@ -1,0 +1,704 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Lancer 10+ agents en même temps : mes méthodes pour ONE-SHOT tout
+Melvynx
+Melvynx
+62,6 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Enregistrer
+
+Télécharger
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+22 juil. 2026  #ia #ai #intelligenceartificielle
+Ma formation IA : https://mlv.sh/0BI4Iqt
+
+▶ TIMECODES
+0:00 - Introduction
+1:45 - Indépendants vs développeurs pro
+3:30 - Définition du multi-tasking développeur
+5:15 - Gestion des Worktrees Git
+7:00 - Création de Worktrees persistants
+8:30 - Revue de code par IA
+10:00 - Phases de travail des agents IA
+11:30 - Utilisation de la phase vérification
+13:00 - Automatiser les tests visuels
+14:30 - Améliorer les interfaces avec IA
+16:15 - Gérer plusieurs agents simultanément
+17:45 - Debugging sur plusieurs projets
+19:30 - Niveaux de contrôle et automatisation
+21:00 - Conclusion
+
+▶ ME SUIVRE
+Twitter : https://mlv.sh/twitter
+GitHub : https://mlv.sh/github
+Blog : https://mlv.sh/blog
+Discord : https://mlv.sh/discord
+Cours gratuit JavaScript : https://mlv.sh/js
+Cours gratuit React : https://mlv.sh/react
+Cours gratuit NextJS : https://mlv.sh/nextjs
+AI Builder Mobile : https://mlv.sh/fm
+NowStack SaaS : https://mlv.sh/fn
+
+#ia #ai #intelligenceartificielle #chatgpt #claude #cursor #aitools #aitutorial #coding #developper
+Melvynx présente des stratégies avancées pour gérer simultanément de multiples tâches de développement. L'approche repose sur l'automatisation via l'intelligence artificielle et l'utilisation de flux de travail spécifiques pour maximiser la vélocité tout en évitant les conflits de code.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Melvynx
+62,6 k abonnés
+Vidéos
+À propos
+14 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Grahfx
+il y a 21 minutes
+Tu fais quand la vidéo réponse sur le drama avec Benjamin Code ?
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@wesley.armando
+il y a 48 minutes
+Merci Melvyn ca fait plaisir ;)
+
+
+
+Répondre
+
+Melvynx
+·
+
+1 réponse
+
+@Obscu-rium
+il y a 1 heure
+Ouais bah lunettes vertes mais tu as pas commenté la casquette blanche de l’autre video :) faudra nous faire la connexion des autres models sur CCCLI a la meme manière de codex
+
+
+
+Répondre
+
+
+@Malamboo
+il y a 1 heure
+Merci mec t'es le goat c'est exactement les infos que je cherchais cette semaine.  Je suis tombé dans la hype Orca et Superset mais c'est au final overkill et mal opti, je vais définitivement passer sur Codex.
+
+
+
+Répondre
+
+Melvynx
+·
+
+1 réponse
+
+@never92x6
+il y a 21 minutes
+Melvynx, tu mets souvent l’accent sur la « review », mais comment un vibe codeur peut-il développer une vraie mentalité de review de code ?
+
+Il apprend évidemment à développer, mais pour avoir une maîtrise réelle, il doit faire des projets. Pourtant, avec l’IA, est-ce que ce n’est pas un peu contre-productif ? On perd parfois l’envie de faire des projets, puisque l’IA sait déjà les réaliser, et qu’on a l’impression que ce n’est qu’une question de temps avant qu’elle maîtrise tout.
+
+1
+
+
+Répondre
+
+
+@AnatoleMellet-c5u
+il y a 1 heure
+2ème commentaire
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@TCL-e1r
+il y a 45 minutes
+Happy hacking
+
+
+
+Répondre
+
+
+@eusebecapo
+il y a 2 heures
+First comment
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:000 secondeUne des compétences les plus importantes quand tu es développeur maintenant, surtout si tu es indépendant, c'est ta
+0:066 secondescapacité à multitasquer, à travailler non seulement sur une tâche mais sur 2 3 4 5 6 7 8 9 10 tâches en même temps.
+0:1818 secondesAlors la question c'est comment est-ce qu'on fait ça et comment est-ce que je réalise ce genre de multitasking qui me
+0:2727 secondespermet de pouvoir travailler facilement jusqu'à six tâches en même temps et qui
+0:3434 secondesme permet de pouvoir avoir une vélocité qui est vraiment super rapide. Alors déjà disclaimer euh pour commencer tout
+0:4343 secondesde suite, c'est que on a toujours deux types de personnes qui utilise l'IA actuellement. Donc si on va sur mon
+0:5151 secondesécran juste ici, il y a ce qu'on appelle les indépendants ou tout ce qui pourrait s'apparenter. Alors par exemple un
+1:001 minutefreelance qui devrait commencer un projet de zéro, ça pourrait s'apparenter à un SAS indie hacker maker avec la
+1:101 minute et 10 secondestrend qui est plus grande que jamais, j'ai l'impression. Elle est grandit, hein. Donc ça marche aussi. ou un euh
+1:171 minute et 17 secondessolo euh app une une app interne une app interne avec peu de d'importance. Alors
+1:241 minute et 24 secondesmoi qui est travaillé en entreprise, il y a pas mal de fois où tu vas faire des petits projets en tant que développeur euh pour l'entreprise mais qui
+1:331 minute et 33 secondesn'impactent pas la globalité de de l'application et donc tu travailles pas sur la grosse application. Ça aussi ça peut marcher. Et pour faire joujou hein,
+1:421 minute et 42 secondesdonc si tu fais ça pour apprendre et cetera, tu passes aussi dans cette case indépendant ou pour te former et cetera
+Chapitre 2 : Indépendants vs développeurs pro
+1:501 minute et 50 secondeset cetera. Ensuite, on a la case des professionnels. Donc euh on va les appeler les pros dans un sens, qui peut
+1:581 minute et 58 secondesêtre les développeurs CDI euh principalement, donc les gens qui vont travailler en entreprise. Ce que je vais
+2:052 minutes et 5 secondeste dire ici, ça marche pour les indépendants. OK.
+2:092 minutes et 9 secondesEn tant que développeur CDI, il y a un risque qui est beaucoup plus élevé. OK ?
+2:132 minutes et 13 secondesParce que si pour moi LIA est pas du tout en train de remplacer job de dev dans un sens, c'est que on attend
+2:222 minutes et 22 secondestoujours de développeurs qu'ils aient un contrôle qualité. On peut pas laisser un développeur en CDI commencer à démonter la production. OK ? Enfin non, pardon.
+2:332 minutes et 33 secondesSi tu es développeur en CDI et que tu lances 10 agents en même temps, ta capacité de review, elle est elle est
+2:412 minutes et 41 secondesmauvaise. OK ? Elle est à zéro. Et ma théorie c'est que pour des indépendants, donc juste ici, le besoin de review est
+2:512 minutes et 51 secondesnul. Et donc les techniques que je te dis ici part du principe que la review est quasi nulle ou euh surtout et et
+3:003 minuteselle est nulle humainement mais elle est automatisée avec IA. OK, c'est ce qui nous permet ici de pas avoir besoin de
+3:063 minutes et 6 secondesreview. Or, un humain voudra être sûr que son code va fonctionner et donc généralement, il va faire de la review
+3:143 minutes et 14 secondeshumaine. En tout cas, la majorité de mes collègues en entreprise ont toujours peur euh parce que ils se disent "Si mes
+3:223 minutes et 22 secondes10 agents qui font 10 fatures en même temps, il pch un bug en production, c'est de la faute du développeur." La,
+Chapitre 3 : Définition du multi-tasking développeur
+3:303 minutes et 30 secondesl'entreprise ne va pas arrêter son abonnement Claude, mais elle risque d'arrêter de travailler avec toi et donc de te licencier. Bon, évidemment en
+3:383 minutes et 38 secondesFrance, c'est difficile de licencier, mais on pourrait passer ça sur une faute grave. Évidemment, si tu pètes la prod que tu fais perdre 10000 10000 10000
+3:463 minutes et 46 secondes100000 1 million d'euros à la boîte, c'est différent. Donc si tu te satisfaits dans cette case d'indépendant, cette vidéo peut être
+3:543 minutes et 54 secondesplus qu'utile pour toi. Alors qu'est-ce que c'est déjà de multitask ? Alors j'ai fait des démos, je vais pas pouvoir le faire en live parce que déjà quand je
+4:034 minutes et 3 secondesmultitasque, mon ordi est en train de brûler de toutes ses forces. Donc quand si vous avez déjà eu 10 agents IA qui travaillent en même temps, c'est euh
+4:114 minutes et 11 secondesquelque chose de de de très infame. Mais euh j'ai quand même réalisé énormément
+4:184 minutes et 18 secondesde tâches il y a pas du tout la il y a pas du tout de temps afin de pouvoir découvrir pas mal de de enfin faire une
+4:264 minutes et 26 secondesénorme mise à jour de l'email. J'ai j'ai quelques ambitions avec l'umail et j'ai envie de les passer au next Step. Je crois que je l'avais déjà dit dans une autre vidéo mais cette fois c'est vrai.
+4:364 minutes et 36 secondesOK, [grognement] donc ici j'ai dû fixe beaucoup de choses et j'ai créé un nouveau type de workflow. Donc j'ai lancé énormément de tâches. Toutes ces tâches, elles ont été faites hier, tu
+4:444 minutes et 44 secondespeux voir. Alors sauf celle-là, today one day, one day, one day, one day, 23 hour, 22, 11 et cetera. Donc tout ça, ça
+4:524 minutes et 52 secondesa été plein de tâches que j'ai lancé en même temps et sur lesquelles j'ai travaillé en même temps. Comment est-ce qu'on va faire pour travailler ? Alors déjà le premier truc que je vais
+5:005 minutesrépondre c'est est-ce que j'utilise les work ? Généralement non parce que les work demandent une gymnastique de
+5:095 minutes et 9 secondesmigration qui est assez forte. OK ? Si vous avez 10 agents qui travaillent donc
+Chapitre 4 : Gestion des Worktrees Git
+5:165 minutes et 16 secondesagent 1, bon on va faire l'exemple avec quatre agents, ça suffit largement dans notre cas. Donc si je me retrouve ici
+5:235 minutes et 23 secondesavec 10 agents qui viennent travailler sur enfin sur le repo et qui chacun passe par un work tre, ça fait qu' a un
+5:325 minutes et 32 secondesmoment il va falloir merger tout ça, tu vois. Enfin, on va pas pouvoir garder ça comme ça à l'infini. Et donc il y a un moment, on doit passer ça sur main,
+5:415 minutes et 41 secondessinon c'est tout simplement inutile. Et à ce moment-là, on va avoir plein d'emmerdes. Alors moi quand j'ai généralement un work, j'ai plein
+5:485 minutes et 48 secondesd'emmerdes parce que souvent en même temps, je fais des fixur main, en même temps mes agents, en fait j'en lance plein et je me retrouve avec ce ce
+5:565 minutes et 56 secondesspaghetti de work de l'enfer à devoir gérer. Le seul cas où je vais faire un worke, ça va être par exemple pour un seul agent qui va avoir un work tree.
+6:066 minutes et 6 secondesDonc dans mon cas, je vais mettre un agent qui va avoir un word tre. Tous les autres, ils vont travailler sur une branche commune comme ça, eux ils vont
+6:166 minutes et 16 secondestous bosser sur cette branche qui va être mergé. Et le work tre, ça va être des très grosses tâches par exemple, des
+6:236 minutes et 23 secondesénormes refactor, des choses qui euh ou des ou des par exemple quand j'ai refait le système de workflow, je l'ai fait
+6:316 minutes et 31 secondesdans un work parce que ça m'a pris de semaines à faire et donc ça m'a permis ici d'avoir un chat. OK ? Comment est-ce
+6:386 minutes et 38 secondesque j'utilise les work ? Je viens ici, on clique create permanence word tree.
+6:436 minutes et 43 secondesOn fait l'email workflow v2, on fait crecient créer un work tree. Et ça vient de
+6:536 minutes et 53 secondesmanière différente setup l'email workflow V2. Et là ensuite vous allez pouvoir chatter non pas un seul chat
+Chapitre 5 : Création de Worktrees persistants
+7:017 minutes et 1 secondemais autant de chat que vous voulez. Et moi c'est important c'est que je ne peux pas faire de work tre avec qu'un seul agent. Donc généralement ce qui va se
+7:097 minutes et 9 secondesproduire quand je vais utiliser des work, c'est que ça va être du multiagent. Donc ici je vais avoir 1 2
+7:167 minutes et 16 secondeset trois agents qui travaillent tous sur ce work parce que c'est des features qui ont un rapport avec ce workflow V2. Ce
+7:257 minutes et 25 secondesqui me permet ici de pouvoir continuer à travailler sur le projet principal donc juste ici et travailler sur le projet
+7:337 minutes et 33 secondesqui est juste ici. Donc ça c'est ce que je vais faire généralement. Alors ici, on peut remove remove project et c'est parti. dans create permanent work tree.
+7:407 minutes et 40 secondesÇa va ça va permettre de créer un work tree qui te permet de lancer plusieurs chats, donc plusieurs agents. Donc je vais plutôt faire ça. Typiquement ici
+7:487 minutes et 48 secondesdans l'exemple, ce que j'ai fait, c'est pas très c'est pas très très beau hein.
+7:527 minutes et 52 secondesC'est pas très très beau. C'est une PR avec 20000 lignes de tout ce que tu veux avec chat GPT qui review et qui m'a
+8:008 minutespermis de réaliser toutes mes tâches. Et donc là-dedans, j'ai fait activation boarding, import safety, askumel dashboard, workflow V2 template et
+8:098 minutes et 9 secondescetera et cetera. Alors ici, on a ajouté énormément de choses dans la même pool request, ce qui va me permettre d'avoir mon environnement de travail, de pouvoir
+8:188 minutes et 18 secondesajouter mes fatur dedans, l'audité et ensuite le commit. Évidemment, avec ce genre de modification, il devient très
+8:258 minutes et 25 secondesdur de review humainement ce qui se passe juste ici dans cette pool request.
+Chapitre 6 : Revue de code par IA
+8:318 minutes et 31 secondesDonc on ne va pas le faire, on va laisser des agents review le code. Nous ce qu'on va faire principalement c'est
+8:378 minutes et 37 secondesavoir une description juste ici qui est assez précise et qui va te permettre de savoir quoi tester. Ou sinon, tu peux
+8:468 minutes et 46 secondesmême lancer un agent IA, lui demander de savoir quoi tester et toi tester manuellement que les choses ont bien été faites. Ça c'est typiquement ma méthode.
+8:548 minutes et 54 secondesEt là, c'est là où Versel est très pratique, c'est que vous aurez normalement des déploiements Versel qui fonctionnent. Bon, alors là, si mes C
+9:029 minutes et 2 secondesfail, c'est parce que j'ai plus de crédit sur mon compte GitHub. Donc il y a tout qui fail tout le temps, ce qui est pas très grave. Ici, vous allez voir les détails et vous allez exécuter et
+9:109 minutes et 10 secondesvérifier les features qui se produisent directement sur le commit. Sur le commit, vous allez effectuer les tâches, vous allez euh checker, vous allez
+9:199 minutes et 19 secondesregarder ce qui se passe et vous allez ensuite pouvoir commit et p euh la pool request en vérifiant comme ça.
+9:259 minutes et 25 secondesMaintenant, comment est-ce qu'on va lancer nos agents spécifiquement ? Parce que là, euh, on va appeler ça multitasking codex. Comment est-ce qu'on
+9:349 minutes et 34 secondesfait pour s'occuper de du travail principal donc sur notre branche juste ici ? Donc encore une fois, on peut aller sur beaucoup plus que trois
+9:419 minutes et 41 secondesagents. On peut aller sur 6 agents, 7 agents, 8 agents. La difficulté principale, c'est savoir le spending. OK
+9:509 minutes et 50 secondes? Un agent plus il spend des dollars, plus son résultat a de chances d'être fonctionnel. Comment est-ce qu'on fait
+9:599 minutes et 59 secondesspent des dollars à un agent ? On lui fait passer par le workflow complet.
+Chapitre 7 : Phases de travail des agents IA
+10:0410 minutes et 4 secondesDonc on lui fait passer par une phase d'exploration analyse du code pour analyser ce qu'il doit faire. On lui fait passer par une phase de planification.
+10:1410 minutes et 14 secondesEnsuite on lui fait passer par une phase des d'exécution. Puis personnellement je vais leur faire passer parfois suivant
+10:2210 minutes et 22 secondesla complexité de la tâche par une phase de review d'examiner le code ce qui va lancer plusieurs ce badgun pour chercher potentiellement des problèmes dans les
+10:3010 minutes et 30 secondesfichiers modifiés. Puis je vais passer par une phase de vérification. Et finalement, c'est cette phase qui est de
+10:3910 minutes et 39 secondesloin la plus intéressante et la plus complète dans notre cas parce que cette phase de vérification va te permettre de
+10:4610 minutes et 46 secondesmultitasker en laissant l'IA faire le travail. Alors là, tu peux voir qu'on a une magnifique exemple de page qui ne marche plus. Je profite de cette courte
+10:5510 minutes et 55 secondespause et interruption pour te dire que tu peux aller sur mlv.sh/fa pour formation. C'est le meilleur moyen
+11:0311 minutes et 3 secondesde soutenir ce travail, cette chaîne YouTube, ce financement. Et donc juste ici, tu vas pouvoir accéder à une formation gratuite sur l'IA. En sachant
+11:1111 minutes et 11 secondesqu'il y a deux types de formation pour les personnes qui savent coder, les personnes qui savent pas coder. Donc en allant sur mlv.sh/ia, /ia. Ensuite, tu
+11:1911 minutes et 19 secondespeux choisir ton profil, écrire ton email et tu reçois une formation gratuite avec ma configuration de base, un nouveau rôle I Enginer et ma
+11:2711 minutes et 27 secondesconfiguration prête à l'emploi. Donc tout ce que j'explique dans mes vidéos mais sous stéroïde. Inscris-toi immédiatement, c'est le premier lien
+Chapitre 8 : Utilisation de la phase vérification
+11:3511 minutes et 35 secondessous cette vidéo parce que j'ai écrit parce que j'ai écrit exécuter, je pense que c'est à cause de merci app, c'est
+11:4211 minutes et 42 secondespas très grave. Donc ici exécuter, on va avoir examiner et on va avoir vérifier.
+11:4811 minutes et 48 secondesCes deux phases, elles vont coûter pas mal. OK ? Parce que examiner, ça va lancer des sub aggents. Alors, évidemment, tu peux utiliser des subgent
+11:5511 minutes et 55 secondesqui consomment moins et vérifier, ça va aussi consommer pas mal de sub aggents parce que de token parce qu'il va
+12:0312 minutes et 3 secondesfalloir lancer l'app, analyser des screenshots et cetera. Qu'est-ce que ça donne ? Et ben ça donne typiquement ce qui se passe en live juste ici. Donc ici
+12:1012 minutes et 10 secondesje lui demande de faire des SVG et ici je lui ai utilisé le skill verified.
+12:1412 minutes et 14 secondesDonc il y a plusieurs skills que je vais utiliser dans ces cas-là. le skill apex qui bundle toutes les phases que j'ai dit avant ou des skills spécifiques
+12:2112 minutes et 21 secondescomme le skill explore verify qui viennent faire des tâches spécifique. Et là il m'a euh fait la preuve passe les
+12:2912 minutes et 29 secondesaperçus des modèles workflow sont affichés en SVG monochrone environnement local host avec toutes les actions. Et là il me balance trois screenshots.
+12:3812 minutes et 38 secondesWorkflow screenshot. Alors, vous voyez que les les les illustrations sont dégueulasses et me donnent envie de de
+12:4612 minutes et 46 secondesde me tuer. Et donc ici, on veut lui dire euh les illustrations ne sont vraiment pas OK. Elles va elles apportent pas ce touche de modernité,
+12:5512 minutes et 55 secondeselles peuvent être abstraites. Le but, c'est juste de faire communiquer une information simple et efficace. Donc, essaie de refaire ça peut-être juste en
+Chapitre 9 : Automatiser les tests visuels
+13:0313 minutes et 3 secondesHTML en réutilisant le style des notes, c'est pas très grave. et affiche-les aussi en 16/9e pour pas afficher autant d'espace et de hauteur sous le capot.
+13:1113 minutes et 11 secondesDonc hop, on rajoute ça et on le balance. Et là, tu vois que ça m'a pas pris beaucoup de temps de le rediriger
+13:1913 minutes et 19 secondesparce que vu que j'ai la fiture que j'ai demandé juste ici, que j'avais déjà demandé dans un autre chat, mais le chat a crache euh ici m'a fait la fiture et
+13:2713 minutes et 27 secondesmoi quand je viens sur ce chat et qu'il a terminé, je m'en fous de ça. Est-ce que je vais tester manuellement ?
+13:3413 minutes et 34 secondesÇa me prendrait énormément de temps pour chaque agent de devoir lancer le navigateur, aller sur Localos 3002 parce qu'apparemment c'est ici que
+13:4213 minutes et 42 secondesl'application est lancée. Attendre que ce serveur NextGS de dev charge cette page pendant 100 ans parce
+13:5013 minutes et 50 secondesque je sais pas pourquoi Localos NextJs c'est la pire chose qui me soit arrivée et malheureusement je peux pas migrer
+13:5713 minutes et 57 secondescette trappe à Tanstac. J'ai essayé mais bon. Euh ensuite au lieu de tester moi-même et de lancer cette page, je lui
+14:0414 minutes et 4 secondesdis verérify et montre-moi. Donc c'est ce que j'ai fait juste ici. Et là il me montre OK, j'ai travaillé 6 minutes, il
+14:1214 minutes et 12 secondesvient faire des screenshots. Et là il me montre les screenshots. Ce qui me permet moi de checker les screenshots et de lui lancer des followup directement. OK, pas
+14:2214 minutes et 22 secondesbesoin de tester l'app, je lui lance des followup. C'est la même chose que j'ai fait par exemple ici. OK, quand j'envoie des emails, j'ai besoin de savoir ça. Et
+Chapitre 10 : Améliorer les interfaces avec IA
+14:3014 minutes et 30 secondeslà, il me montre un screenshot qui me montre que ça marche. Et moi, je dis commit and push. Tu vois que j'ai pas testé, j'arrive pas à créer plusieurs
+14:3814 minutes et 38 secondesadresses les mêmes. Termine euh et donc là, il me montre que euh ça fonctionne, il a reproduit le cas et cetera.
+14:4614 minutes et 46 secondesAméliorer l'interface des groupes. Donc là, c'est moi qui est lancé avec X à Y.
+14:5014 minutes et 50 secondesDonc là, j'ai dit cet éditeur de groupe est infemme, j'arrive rien à faire.
+14:5414 minutes et 54 secondesModifie-le. Là, il a bossé. Je lui lance le skill verérify. Je lui lance de continuer parce que je m'amusais à tester les trucs. Et là, on se retrouve
+15:0215 minutes et 2 secondesavec l'exemple tous les screenshots de preuve qu'il y a tout qui fonctionne.
+15:0715 minutes et 7 secondesFix element. Donc là, je lui envoie un screenshot. Je lui dis ça c'est dégueulasse, il y a la hate qui est différente. Il travaille, je lui dis
+15:1415 minutes et 14 secondesvérifie. Encore une fois, je le prompte 25 fois parce que je m'amusais avec les agents hier. les différentes chats et là on peut voir que maintenant ça a bien fonctionné. Fix archive item visibility.
+15:2615 minutes et 26 secondesHop, je lui lance veréfy. Il vérify et là je peux bien voir que il a fixé son problème et regarder le screenshot. Fix
+15:3415 minutes et 34 secondesworkflow creation redirect. Donc là je lui dis et ben là je lui ai même dit verérify alors qu'il y avait pas grand-chose à vérifier. Ah parce que je
+15:4215 minutes et 42 secondeslui ai rajouté une feature de full screen qu'il a très bien fait. Et c'est parti. refactor le chat avec chatui bla bla bla bla bla il me balance des
+15:5015 minutes et 50 secondesscreenshots et là sans avoir besoin de tester je peux check les screenshot voir ce que j'aime pas et lui dire fix et là il me refait des screenshots pour
+15:5915 minutes et 59 secondesvérifier que ça correspond bien à ce que je veux déplacer settings dans organisation bah vous voyez c'est un un chat donc là je lui dis voilà il faut faire ça et là en l'occurrence j'avais
+16:0716 minutes et 7 secondestesté manuellement donc il y a des fois où on teste un petit peu manuellement surtout si vous avez déjà la pouverte donc hop ici la même chose vérifier Open
+Chapitre 11 : Gérer plusieurs agents simultanément
+16:1516 minutes et 15 secondesapp Lending. On peut voir qu'ici il a bien vérifié que l'application s'ouvrait toute seule. Est-ce que j'en ai plus ?
+16:2116 minutes et 21 secondesDonc là, typiquement, ça c'est assez cheaté. Je lui dis "utilise Chrome pour fixer ça." Là, on peut voir qu'il me fait un screenshot de mon mail où ça
+16:2916 minutes et 29 secondesmarche pas. Ensuite, il me dit "J'envoie un test email" et il me fait le screenshot de mon mail où ça marche.
+16:3416 minutes et 34 secondesDonc, il a même été aller voir dans mes emails pour vérifier que ça fonctionnait bien. Faut se rendre compte de la folie
+16:4216 minutes et 42 secondesque c'est. Et donc tous ces chats sont directement mergés dans la pool request que tu vois juste ici et qui me permet
+16:5016 minutes et 50 secondesmoi ensuite de venir vérifier et review ce code là. Donc là, tu peux voir que j'ai trois agents qui tournent alors que ça fait 17 minutes que je suis en vidéo.
+16:5816 minutes et 58 secondesOK ? Donc c'est des tâches qui vont être assez lentes et c'est pour ça qu'on a besoin de ces étapesl. Si vous faites des tâches toutes petites monitorées,
+17:0717 minutes et 7 secondesbabbité avec votre agent, on va se retrouver avec un agent qui va euh réaliser cette tâche trop vite et vous
+17:1517 minutes et 15 secondesva vous empêcher de multitasquer assez parce que si l'agent 1 termine en une minute, une minute c'est le temps qu'il
+17:2217 minutes et 22 secondesvous faut pour lancer l'agent 2, vous terminez l'agent 2 et vous devez retourner sur l'agent 1 avec ces skills qui vont consommer de l'argent, certes,
+17:3017 minutes et 30 secondesça va consommer de l'argent mais ça va vous permettre de laisser laisser l'agent travailler et de se retrouver avec un agent qui bosse et qui bosse qui
+17:3917 minutes et 39 secondeseffectue les tâches et qui à la fin infiné vous permet de venir revenir sur l'agent, repartir revenir, repartir
+Chapitre 12 : Debugging sur plusieurs projets
+17:4717 minutes et 47 secondesnaviguer, se balader et d'avoir plusieurs agents qui tournent. Moi, mes agents ici, vous voyez, il y en a deux qui tournent sans s'arrêter depuis
+17:5517 minutes et 55 secondesavant. Et donc là, typiquement, je lui ai fait le verify. On va voir ce que ça donne. Là, je suis avec Cursor Grock.
+18:0218 minutes et 2 secondesDonc là, je teste des modèles un peu différents. On va regarder ce que ça donne. Mais euh c'est un peu ça qui est qui est stylé. Alors ça ça sert à rien.
+18:1118 minutes et 11 secondesOn dégage. Et voilà. Ensuite, normalement j'arrive tous ces chats. He je m'amuse pas à les garder. Là, je l'avais juste renommé pour la vidéo. Et ensuite, on peut évidemment travailler
+18:2018 minutes et 20 secondesaussi sur plusieurs projets. Donc moi, il y a beaucoup de projets sur des petites fatures. Euh par exemple ici, j'ai une erreur. Booum, je peux balancer
+18:2918 minutes et 29 secondesl'erreur, je lui dis de débugger. et est-ce que on va s'amuser à vérifier je n'ai rien modifié ? Tu lui dis de la fixer et c'est parti. Tu vois,
+18:3718 minutes et 37 secondestypiquement, c'est comme ça qu'on va travailler. Mais encore une fois, pour revenir à ce que je disais avant, c'est une méthode de travail qui ne correspond
+18:4518 minutes et 45 secondespas à tout le monde. OK ? il va falloir l'adapter à votre travail et à votre
+18:5218 minutes et 52 secondesrôle dans l'entreprise. Si vous avez envie encore une fois d'avoir le AI scale, al normalement j'ai un graphique
+18:5918 minutes et 59 secondesquelque part donc typiquement on a ça, on a le 100 % manuel qui est le fait de se dire qu'on va laisser LIA faire
+19:0719 minutes et 7 secondesl'intégralité des fitures. Euh non pardon, 100 % manuel, c'est le fait de se dire queon va réécrire et qu'on va faire toutes les fitures. OK ? à la
+19:1619 minutes et 16 secondesmain, on a le 100 % yolo qui est ce que je vous présente juste ici qui est de se dire que l'IA va réaliser 100 % des features elle-même et on a 100 % IA mais
+19:2519 minutes et 25 secondesmonitoré. Donc là, typiquement, c'est le fifty50y d'un développeur en entreprise.
+Chapitre 13 : Niveaux de contrôle et automatisation
+19:3019 minutes et 30 secondesC'est quelqu'un qui va toujours lire le code, comprendre ce que L a fait et la guider petit à petit. savoir que quand je parlais à pas mal de personnes en qui
+19:3819 minutes et 38 secondessont pas sur Twitter, qui sont pas sur LinkedIn, qui s'amusent pas à passer leur pardon afterwk sur internet, c'est
+19:4719 minutes et 47 secondesdes personnes qui vont pas forcément coder 100 % à Cliat, qui sont avec des abonnements copilot, qui ont des abonnements à 100 balles, 20 balles et
+19:5519 minutes et 55 secondesqui codent avec des abonnements à 20 balles. Évidemment, on n'est pas sur la même chose avec ce que je vous ai dit ici dans cette vidéo. Si vous n'avez pas un abonnement à 100 balles, vous ne
+20:0420 minutes et 4 secondesfaites rien en fait. Vous vous ne commencez même pas votre fure.
+20:0820 minutes et 8 secondesC'estàdire que 20 balles, c'est ma phase d'exploration. Faut bien comprendre ça.
+20:1120 minutes et 11 secondesDonc c'est pour ça que c'est pour ça que il faut il faut il faut de l'abonnement.
+20:1520 minutes et 15 secondesBref, voici pour cette vidéo. J'espère vraiment qu'elle vous a apporté beaucoup de valeur. Je me suis vraiment posé tranquille ici pour vous faire ça. Euh
+20:2320 minutes et 23 secondesun peu moins folie que la dernière vidéo. Merci à toutes les personnes qui ont remarqué la casquette blanche. Si vous êtes ici, essayez de me placer dans votre commentaire mais discrètement,
+20:3120 minutes et 31 secondessubtilement lunettes vertes parce que quelqu'un m'a dit "Tu devrais mettre des lunettes vertes." Les voici les lunettes vertes à la codexe. Le bleu, ça fait un
+20:4020 minutes et 40 secondespeu plus gentil. Ça c'est les lunettes vertes. Ça me fait très plaisir parce qu'avec la lumière que j'ai ici dans les yeux en fait ça me fait très mal aux
+20:4820 minutes et 48 secondesyeux si j'ai pas des semiunettes de soleil. Et pourtant je vois très bien mon écran donc ça fait très plaisir.
+20:5420 minutes et 54 secondesMerci à tous pour les retours récents des vidéos. Ça fait plaisir que ça vous plaise et hésitez pas à me dire sous cette vidéo aussi avec les lunettes
+Chapitre 14 : Conclusion
+21:0221 minutes et 2 secondesvertes quelle vidéo vous aimerez bien me voir faire, quel type de contenu vous plaît le plus. Voilà, en ce moment, j'ai beaucoup de temps pour faire des vidéos,
+21:1021 minutes et 10 secondesc'est pour ça que j'en fais une presque par jour. Ouch ! Ouch ! Ouf ! On se positionne. Voilà, en plus maintenant, on a un style vestimentaire très stylé.
+21:2021 minutes et 20 secondesTrès bientôt aussi, je vais vous emmener à Bali dans la dans le nouveau logement et le nouveau bureau que je suis en train de me faire. Ça va être exceptionnel. Yeah.
+
+Tout
+
+Source : Melvynx
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+23:18
+Je vous dévoile mon plan pour passer en dessous de 5% de bodyfat
+Le Musclay
+84 k vues
+•
+il y a 2 ans
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+625 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+16:35
+Les secrets du physique légendaire de Van Damme (1000 coups de pied / jour)
+Nassim Sahili
+52 k vues
+•
+il y a 2 mois
+
+
+13:31
+C'est parti... Un agent IA vient de perpétrer la plus grosse cyberattaque autonome de l'histoire
+AI Revolution en Français
+62 vues
+•
+il y a 1 heure
+Nouveau
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+701 k vues
+•
+il y a 2 mois
+
+
+1:14:52
+J'ai infiltré KFC : ce que j'ai découvert est terrifiant
+Food Story
+159 k vues
+•
+il y a 3 semaines
+
+
+11:34
+Dans la peau d'un musclé #3 : Prise de masse sans riz !
+Le Musclay
+486 k vues
+•
+il y a 8 ans
+
+
+7:21
+Salve de résultats et puces schizophrènes
+Zonebourse
+4 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+2:42:13
+Nous créons des hommes dangereux, solitaires et brisés ! – Expert en manipulation, Robert Greene
+The Diary Of A CEO
+1,6 M de vues
+•
+il y a 1 an
+Doublée
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+173 k vues
+•
+il y a 9 jours
+
+
+1:19:33
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+90 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+44:01
+S'entraîner comme un IFFB PRO avec @Samuel Hartman
+Stephane Matala
+93 k vues
+•
+il y a 5 mois
+
+
+4:23
+Robbie Williams - Supreme
+Robbie Williams
+129 M de vues
+•
+il y a 15 ans
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+50 k vues
+•
+il y a 3 semaines
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+14 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+375 k vues
+•
+il y a 1 mois
+
+
+7:11
+Scaler un e-commerce de vêtements sur Meta Ads : l'approche ultime
+Social Scaling
+26 vues
+•
+il y a 3 heures
+Nouveau
+
+
+24:40
+Voici le modèle chinois qui vient de tuer Claude
+Vision IA
+37 k vues
+•
+il y a 11 heures
+Nouveau
+
+
+8:03
+Ils sont RIDICULES !!! (cette fin de règne est terrifiante) [J'SUIS PAS CONTENT ! #534]
+J'suis pas content TV
+168 k vues
+•
+il y a 2 semaines
+
+    

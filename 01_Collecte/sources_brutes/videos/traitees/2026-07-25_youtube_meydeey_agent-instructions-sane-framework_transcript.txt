@@ -1,0 +1,1967 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+6
+
+Image d'avatar
+Tes règles SABOTENT Claude Code, Codex et Gemini
+Meydeey | Automatisation IA
+Meydeey | Automatisation IA
+31,5 k abonnés
+
+
+51
+
+
+Partager
+
+Posez une question
+
+1 226 vues  16 juil. 2026  FRANCE
+👉 Audit offert (sans engagement) : https://meydeey.com/labo
+
+───
+
+Plus tu ajoutes de règles à ton agent IA, plus tu dégrades tes résultats. Claude Code, Codex ou Gemini, le problème est le même. Après 3 ans d'usage quotidien, 20 apps en production et 120 membres accompagnés, je te montre où se situe le seuil et comment le mesurer avec le framework S.A.N.E. Tu repars avec 4 critères pour trier chaque couche de ton setup et supprimer ce qui ne change aucune décision.
+
+───
+
+🎯 AUDIT STRATÉGIQUE OFFERT
+Ton business tourne déjà ? On cartographie ce que l'IA peut automatiser chez toi.
+→ https://meydeey.com/labo/
+
+👥 COMMUNAUTÉ GRATUITE (+4 000 entrepreneurs)
+Le bon point de départ si tu débutes.
+→ https://meydeey.com/communaute
+
+───
+
+▸ CHAPITRES
+
+00:00 Intro
+01:08 Le seuil de perte
+02:54 Lost in the Middle
+03:52 Contraintes multiples
+04:23 Système A vs Système B
+06:10 Mécanisme 1
+06:38 Mécanisme 2
+07:37 Mécanisme 3
+08:42 Le biais de vanité
+09:25 Débutant vs Intermédiaire vs Expert
+10:30 Aristote, Ockham et la NASA
+12:09 Le framework S.A.N.E
+14:25 En pratique
+15:46 L'échelle
+17:28 Repartir de zéro
+18:53 Conclusion
+
+───
+
+▸ CAS RÉELS D'ÉLÈVES
+→ Comment Christophe automatise sa gestion de patrimoine :    • Il a créé une APP RENTABLE en moins d'un m...  
+→ Comment Stephano intègre l'IA dans la banque d'affaires :    • Ce banquier de 60 ans a tout compris à l'I...  
+→ Comment Tanguy utilise l'IA pour son e-commerce prévention :    • Ce que PERSONNE ne te dit sur l'argent ave...  
+→ Comment Lionel structure ses projets en tant qu'architecte IA :    • Neuralink, Drones t*eurs, Crédit social :...  
+
+▸ À VOIR AUSSI
+→ J'ai tout quitté pour Claude Code (pivot radical) :    • J'ai tout quitté pour Claude Code (pivot r...  
+→ Claude Code : Tout comprendre en une vidéo (démo incluse) :    • Claude Code : Tout comprendre en une vidéo...  
+
+───
+
+▸ OUTILS MENTIONNÉS (liens affiliés*)
+→ Apify (Scraper comme un pro) : https://www.apify.com?fpr=jo41in
+→ Hostinger (-20% sur VPS, hébergement) : https://www.hostinger.com/fr?REFERRAL...
+→ Kie AI (génération image, vidéo, voix, musique) : https://kie.ai?ref=a673f38b1e0fedf853...
+
+───
+
+▸ ME RETROUVER
+→ LinkedIn :   / medhi-el-ouardouni  
+→ Instagram :   / meydeeyai  
+→ Contact : contact@meydeey.com
+
+*Certains liens sont des liens affiliés. Je touche une commission sans surcoût pour toi. Je ne recommande que les outils que j'utilise au quotidien.
+
+#claudecode 
+#codex 
+#promptengineering
+Meydeey explore le seuil invisible de perte de qualité dans les agents IA causé par une accumulation excessive d'instructions. À travers une approche méthodique, Meydeey propose un cadre d'analyse pour évaluer la pertinence de chaque règle, visant à simplifier les configurations pour optimiser les performances, réduire la dette technique et gagner en efficacité opérationnelle.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Meydeey | Automatisation IA
+31,5 k abonnés
+Vidéos
+À propos
+Code avec l’IA : outils, méthodes et workflows
+18
+Code avec l’IA : outils, méthodes et workflows
+de Meydeey | Automatisation IA
+16 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @meydeey
+@meydeey
+il y a 8 jours
+En 45 min, on identifie les 3 automatisations qui te feraient gagner le plus de temps cette semaine.
+
+👉 Audit offert (sans engagement) : https://meydeey.com/labo
+
+
+
+Répondre
+
+
+@ink-man
+il y a 6 jours
+Kimi K3 est maintenant là, ça va changer beaucoup de choses dans notre utilisation de l’IA (puisqu'il est au niveau de Fable 5 et GPT 5.6 Sol d'après les benchmarks), étonnamment il dépasse même DeepSeek V4 PRO.
+Kimi K3 possède plus de 2 trilliards de paramètres(=2 000 milliards)
+
+
+
+Répondre
+
+
+@0xLoops
+il y a 8 jours
+J'ai remarqué que c'est pareil avec les skills, la qualité baisse en ayant trop.
+
+
+
+Répondre
+
+
+@herculesgenesis9719
+il y a 7 jours
+Excellentes recommandations !
+
+
+
+Répondre
+
+
+@Raducki
+il y a 4 jours
+merci pour la video. je men doutais que ca joue mais la methode est cool. jai demande un audit complet de mes fichiers memoire pour nettoyer tout ca, eviter les redondances
+
+
+
+Répondre
+
+
+@Azélie-Santé
+il y a 7 jours
+
+
+
+Répondre
+
+
+@QuentinAuguste
+il y a 5 jours
+Merci
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@gigilamoroso26
+il y a 8 jours
+toujours aussi pédagogue!!
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@gigilamoroso26
+il y a 8 jours
+comment  savoir quoi effacer quand on a pas suffisamment de compétences ou suffisamment de connaissance?
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@ink-man
+il y a 8 jours
+Plus = Mieux ️️
+Merci de nous faire payer de ton expérience.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Intro
+0:00
+Il y a 100% de chances que tes IA contiennent trop d'instructions.
+0:04
+Et dans cette vidéo, je vais t'expliquer pourquoi rajouter plus va finir par réduire la qualité du résultat.
+0:10
+Ça fait plus de 3 ans que j'ai ce même problème.
+0:12
+Il revient encore aujourd'hui.
+0:13
+J'ai fait plus de 450 vidéos sur les IA.
+0:15
+J'ai accompagné plus de 120 membres.
+0:17
+Et j'ai plus de 20 applications en production à ce jour.
+0:20
+Et ce problème, il revient chez tout le monde.
+0:23
+Personne ne l'a résolu.
+0:23
+Ce problème fondamental, il vient des instructions, des règles, des exceptions, des négations,
+0:28
+des routers, de tout ce que vous allez mettre comme instructions dans vos IA,
+0:32
+qui permettent de faire tourner des agents, etc.
+0:34
+Donc, peu importe que tu utilises ChatGPT ou Cloud sur l'interface,
+0:37
+donc sur cloud.ai ou chatgpt.com,
+0:39
+ou que tu utilises Codex, Gemini CLI, ou même Cloud Code,
+0:43
+peu importe, on travaille tous avec des instructions.
+0:45
+Et au fur et à mesure que votre système va grandir,
+0:47
+donc ça peut être une application, votre configuration,
+0:49
+eh bien, vous allez rétrécir, donc réduire l'espace de raisonnement.
+0:53
+Donc ça, on connaît tous.
+0:54
+On va rajouter des règles pour corriger des erreurs, des bugs.
+0:57
+On rajoute des règles, puis on rajoute des règles, puis on rajoute des règles.
+1:00
+Et on se dit, les derniers modèles frontières sont assez puissants,
+1:02
+ils vont comprendre les règles, ils vont pas faire n'importe quoi.
+1:05
+Sauf qu'ils finissent dans tous les cas par faire n'importe quoi.
+Le seuil de perte
+1:08
+Je constate un seuil invisible.
+1:09
+Ça va vous rappeler une courbe.
+1:10
+On va rester sur les instructions.
+1:12
+Voilà, les instructions que vous donnez aux IA.
+1:14
+Au début, vous n'en avez pas assez.
+1:15
+Donc, plus vous tendez vers le haut en abscisse,
+1:17
+plus ça va être de la qualité.
+1:18
+Et vous allez vous en rendre compte si vous avez de l'expérience et beaucoup de pratique
+1:22
+sur ce domaine-là,
+1:23
+qu'au fur et à mesure que vous allez rajouter des instructions,
+1:25
+il y a un moment clé, donc c'est un seuil,
+1:27
+qui va, du coup, non pas augmenter la qualité,
+1:30
+mais faire baisser la qualité.
+1:31
+C'est ce que j'appelle le seuil de perte.
+1:32
+Et ça, Cloud Code, Codex,
+1:34
+c'est des solutions qui créent vos propres promptes,
+1:36
+vos instructions,
+1:37
+vos fichiers de documentation.
+1:39
+Et ça, vous le maîtrisez moins qu'avant.
+1:40
+À l'époque des chat GPT, on faisait des GPTs,
+1:42
+on faisait des projets Cloud.
+1:44
+Maintenant, l'IA est beaucoup plus autonome
+1:45
+et a la tendance à arriver très vite après ce seuil.
+1:48
+Donc, nous faire perdre en qualité.
+1:50
+Donc, comme je te l'ai dit, la zone de gain,
+1:52
+eh bien, quand on démarre, forcément, c'est exceptionnel.
+1:54
+Il y a toujours du gain à rajouter des règles,
+1:56
+des conditions, des instructions, de la négation.
+1:58
+Et après le seuil, downfall, c'est la zone de coût.
+2:00
+Donc là, on a de la dette directement,
+2:02
+ça nous fait perdre du temps et de l'argent.
+2:03
+On doit arbitrer et c'est beaucoup plus rigide
+2:06
+et difficile de maintenir, une fois qu'on dépasse ce seuil.
+2:08
+Et cette complexité, elle a un coût marginal.
+2:11
+Donc, mathématiquement, on peut la retranscrire.
+2:13
+Donc, là, vous avez les explications,
+2:15
+u, utilité nette, g, gain ajouté,
+2:17
+et c, coût ajouté.
+2:18
+L'utilité nette, c'est tout simplement
+2:19
+le gain ajouté moins le coût ajouté.
+2:21
+C'est la formule, pas plus simple.
+2:23
+Et c'est là où ça peut être difficile à jauger.
+2:25
+Le seuil n'est jamais fixe.
+2:26
+Il y a un juste milieu qui est relatif.
+2:28
+Et par définition, le jour où quelqu'un te dit
+2:30
+cette IA est meilleure que celle-ci,
+2:32
+eh bien, c'est totalement faux.
+2:34
+C'est relatif.
+2:34
+Ça, je pense que tu le sais déjà,
+2:35
+tu l'avais déjà compris.
+2:37
+Sauf que là, on ne parle pas de l'IA en elle-même,
+2:38
+on parle de ses instructions, ses règles,
+2:40
+les textes qu'on va lui donner.
+2:41
+Et ça va dépendre du modèle, de la tâche,
+2:43
+du risque d'erreur et de ton propre niveau de maîtrise.
+2:46
+Alors, maîtrise, on peut aussi le mettre avec compréhension.
+2:48
+Bien sûr, sans compréhension, il n'y a pas de maîtrise.
+2:51
+Et maîtrise sans compréhension
+2:52
+est égale à illusion de maîtrise.
+Lost in the Middle
+2:54
+Les plus grands cerveaux de cette planète
+2:55
+ont déjà travaillé sur ce sujet.
+2:57
+C'est ce qu'on appelle, du coup,
+2:58
+Lost in the Middle.
+2:59
+Quand on a une grande fenêtre de contexte,
+3:01
+eh bien, ça ne garantit pas une attention uniforme.
+3:02
+Je pense que ça, vous êtes déjà au courant.
+3:04
+Mais si tu n'es pas au courant, tant mieux,
+3:05
+comme ça t'apprend quelque chose.
+3:06
+Et la position d'une information
+3:07
+a une importance capitale.
+3:09
+Peu importe que le contexte soit long,
+3:11
+la fenêtre soit extrêmement longue,
+3:12
+qu'on ait des modèles frontières,
+3:14
+peu importe.
+3:14
+Cette étude, elle date de 2024.
+3:16
+Et aujourd'hui, on la constate encore empiriquement.
+3:18
+Alors, ça reste relatif.
+3:19
+Mais imaginons que tu as un fichier Markdown d'instruction
+3:21
+qui fait 800 lignes.
+3:23
+Eh bien, tout ce qui va être au début et à la fin
+3:24
+aura beaucoup plus de portée et d'impact.
+3:26
+On a la même chose avec le cerveau humain
+3:28
+lorsque vous passez une journée de travail
+3:29
+ou lorsque vous allez prospecter.
+3:30
+Pour ceux qui sont des snipers de la prospection,
+3:32
+vous le savez certainement,
+3:34
+c'est les premières heures de la journée
+3:35
+de l'ouverture d'une boîte
+3:36
+et les dernières heures, qu'on se rappelle.
+3:38
+Au milieu, eh bien, on a du Lost in the Middle.
+3:40
+Donc, c'est cette étude, Stanford.
+3:41
+Voilà, il y a un PDF qui explique exactement le concept.
+3:44
+Il date de 2024.
+3:45
+Donc, c'est bien intéressant d'aller creuser encore plus.
+3:47
+Donc, j'inviterais à aller creuser les études de 2025 et 2026
+3:49
+sur ce sujet ou des sujets alternatifs.
+Contraintes multiples
+3:52
+On peut aussi parler des contraintes multiples, forcément.
+3:54
+Tout le monde met des contraintes dans ses promptes.
+3:56
+C'est recommandé.
+3:56
+Si tu ne mets pas de contraintes, tu as des problèmes.
+3:58
+Donc, on va appeler ça des contraintes à niveau.
+4:00
+Donc, on va appeler des contraintes par niveau.
+4:02
+Niveau 1, 2, 3, 4, 5, par exemple, pour 5 contraintes.
+4:05
+Eh bien, ça va changer votre test.
+4:07
+Donc, ça va changer le résultat en sortie.
+4:09
+Ce qui est logique.
+4:09
+Vous allez me dire, c'est un travail de recherche qui a été effectué
+4:12
+par tous ces, du coup, chinois.
+4:14
+Followbench, qui date de 2024, qui est assez intéressant.
+4:16
+Pareil, il faut creuser, il faut aller chercher les alternatives.
+4:19
+Si on regarde le PDF, ça a bien été documenté
+4:21
+avec des bonnes formules mathématiques comme on aime bien.
+Système A vs Système B
+4:23
+Si on met deux systèmes à côté, un système A et un système B,
+4:26
+et qu'on pose une seule question, on peut se dire
+4:28
+quelle est la couche qui va changer réellement une décision.
+4:30
+Alors, qui va changer, qui va améliorer, c'est très vague.
+4:32
+Cette vidéo, elle va beaucoup jouer avec la perception.
+4:34
+Parce que forcément, peut-être que toi, ton système à 9 couches
+4:37
+va te convenir mieux que moi.
+4:39
+Peut-être que moi, je préfère la sortie de celui-ci
+4:41
+parce qu'elle sera plus succincte, plus applicable.
+4:43
+Peut-être que toi, tu vas préférer celle-ci
+4:44
+parce qu'elle sera plus technique, elle sera plus creusée.
+4:47
+Donc, à titre d'exemple, le système A,
+4:49
+par exemple, on va rester sur les skills.
+4:51
+On n'a pas encore parlé des skills, mais ça en fait partie.
+4:53
+Tout le monde a des skills, tout le monde construit des skills,
+4:54
+tout le monde se pose des questions sur les skills.
+4:56
+Du moins, si tu es dans ce mouvement.
+4:58
+Eh bien, ça, c'est un système A.
+4:59
+Donc, un skill MD, tout simplement.
+5:01
+Il n'y a pas 10 000 fichiers, c'est pas complexe.
+5:03
+Un seul skill MD.
+5:04
+Et le système B, donc c'est un dossier skill
+5:07
+qui va contenir d'autres dossiers,
+5:09
+donc routeurs, références, schémas, évaluations,
+5:12
+exemples, agents, configs et evaljason.
+5:14
+Donc là, c'est un skill qui est plutôt plus costaud.
+5:16
+On appellerait ça plus un skill 2.0.
+5:18
+Avec, bien entendu, le skill MD
+5:19
+qui peut servir, quand on a un skill comme ça,
+5:21
+de routeur, ce que j'appelle aussi tête chercheuse.
+5:24
+Donc, ce sont deux systèmes, A et B.
+5:25
+A, il est plutôt simple, et B, il est plutôt organisé.
+5:28
+Et si je te disais, dans plus de 90% des cas,
+5:30
+le système A était beaucoup plus pertinent que le système B.
+5:33
+Donc, on a une condition sur la tête,
+5:35
+c'est un petit peu comme une épée de Damoclès.
+5:36
+Est-ce qu'on doit ajouter de la complexité
+5:38
+ou pas dans nos systèmes, nos skills,
+5:40
+nos instructions, nos applications ?
+5:42
+Donc, on va souvent se dire, oui, mais Claude m'a dit ça,
+5:44
+il m'a dit qu'il fallait faire ça, c'était la meilleure solution,
+5:46
+ou charge GPT.
+5:47
+Sauf que ces modèles, par définition,
+5:48
+ils ont tendance à over-raisonner.
+5:50
+La nuance sur un débutant en IA qui va arriver,
+5:52
+qui va être crédule, tout ce qui va lui être sorti,
+5:54
+il va le croire.
+5:55
+Forcément, parce qu'il n'a pas la compétence,
+5:57
+la pratique empirique dont du coup, la maîtrise.
+5:59
+Versus quelqu'un qui connaît déjà son sujet
+6:00
+ou qui travaille sur quelque chose qu'il connaît,
+6:02
+et qui va pouvoir mettre des gardes-fous.
+6:04
+Et pour passer du premier au deuxième,
+6:06
+je peux vous assurer, il n'y a pas de raccourci, en fait.
+6:07
+Vous allez devoir vous manger les IA.
+6:09
+Il n'y a pas de solution miracle.
+Mécanisme 1
+6:10
+On va parler du premier mécanisme,
+6:11
+ce que j'appelle la dilution du signal.
+6:13
+Quand tout est critique,
+6:14
+eh bien, la priorité va disparaître.
+6:16
+Donc, ce que j'appelle critique, ça veut dire important.
+6:18
+Imaginons que tu veux créer un skill
+6:20
+qui va te permettre, du coup, de rédiger des posts LinkedIn.
+6:22
+Eh bien, tu vas ajouter un style,
+6:24
+format, ton, longueur, outils et préférences.
+6:26
+Et entre les deux, ce qu'on appelle le loss in the middle,
+6:29
+la perte au milieu,
+6:30
+eh bien, ça va être secret.
+6:32
+Alors, pas pour toutes les IA.
+6:33
+On est en train de jouer avec les probabilités.
+6:35
+Mais ce que je veux dire,
+6:36
+c'est qu'il y a forcément une dilution du signal.
+Mécanisme 2
+6:38
+Le mécanisme numéro deux,
+6:39
+c'est la collision des contraintes.
+6:41
+Sois concis et aux antipodes de sois exhaustifs.
+6:44
+Pose des questions et aux antipodes de n'interromps jamais.
+6:46
+Et c'est là où c'est important de bien choisir ses mots
+6:48
+et de ne pas tout le temps laisser les IA rédiger
+6:51
+sans supervision, sans relire, sans comprendre.
+6:53
+Parce que des fois, vous vous rendez compte
+6:54
+qu'au final, toute votre configuration,
+6:56
+vous construisez tout sur une base qui est complètement moisie,
+7:00
+qui est obsolète depuis plusieurs mois.
+7:01
+Par exemple, dans un endroit, tu vas lui dire
+7:02
+« Rédige toujours en tutoyant »
+7:05
+et à un autre endroit, tu vas lui dire
+7:06
+« Vous vois parce que j'ai une communauté. »
+7:08
+C'est à titre d'exemple,
+7:08
+parce que ça m'est concrètement arrivé.
+7:10
+Sauf que quand il y a des IA comme 4.7 Opus, 4.8 Opus,
+7:13
+qui ne trouvent pas ces informations
+7:14
+parce qu'elles n'ont pas de bonne tête chercheuse
+7:16
+et qu'on n'a pas une bonne cohérence de configuration
+7:19
+entre chaque élément, chaque pièce,
+7:21
+chaque instruction, chaque négation,
+7:22
+chaque skill, etc., chaque hook,
+7:24
+tout ce qui s'ensuit dans votre environnement de travail,
+7:26
+on a une qualité médiocre sur tout ce qui va en sortir.
+7:29
+Et quand on n'a pas fait l'erreur,
+7:30
+on ne peut pas le jauger.
+7:31
+Ce n'est pas possible.
+7:31
+On ne peut pas faire bon du premier coup
+7:32
+sur une configuration et sur un environnement
+7:35
+de développement et de travail.
+7:36
+Il faut énormément travailler.
+Mécanisme 3
+7:37
+En troisième mécanisme,
+7:38
+ça, je le vois trop souvent,
+7:39
+c'est ce que j'appelle la rigidité précoce.
+7:41
+Et la rigidité précoce, pour te le vulgariser,
+7:44
+je te donne un exemple.
+7:45
+Je prends quelqu'un qui est débutant,
+7:46
+qui voit mes vidéos.
+7:47
+Il rejoint l'accompagnement.
+7:48
+Il me montre ce qu'il a créé.
+7:50
+Super architecture, documentée sur Cloud Code.
+7:53
+On ouvre et je lui dis,
+7:54
+écoute, pourquoi tu as choisi ça ?
+7:55
+Ah, je ne sais pas.
+7:56
+Deuxième question.
+7:57
+Tu es sûr que tu ne peux pas faire mieux avec moins ?
+7:59
+Ah, je ne sais pas.
+8:00
+Et le lendemain, je reçois un message.
+8:01
+Effectivement, mon architecture,
+8:03
+elle était hyper solide.
+8:04
+Ça ne servait à rien.
+8:05
+Pour la dédicace à Iker,
+8:06
+c'est comme louer un camion
+8:07
+pour aller acheter une baguette de pain.
+8:09
+Donc ça, les IA,
+8:10
+elles sont friandes de ça.
+8:11
+C'est-à-dire que vous allez leur donner du contexte,
+8:13
+peu importe, brut, bien structuré.
+8:15
+Donc ça va ouvrir un maximum de problèmes.
+8:17
+Elle va vous imposer,
+8:18
+je dis bien imposer des frameworks,
+8:19
+sauf si vous contre-imposez.
+8:21
+Dans votre configuration,
+8:22
+vous lui dites ça.
+8:22
+Vous avez des méthodes,
+8:24
+mais elle va vous imposer des frameworks,
+8:25
+des solutions.
+8:26
+Et vous allez dire,
+8:26
+c'est génial,
+8:26
+elle m'a proposé ça.
+8:27
+En plus, ça marche.
+8:28
+C'est comme si tu voulais peindre ton mur
+8:30
+et tu dis,
+8:30
+pour que le mur soit plus résistant,
+8:32
+je ne vais pas faire une couche de peinture,
+8:34
+mais je vais en faire 500.
+8:35
+C'est exactement ce qui se passe.
+8:37
+Le temps que tu vas perdre
+8:37
+à mettre les 500 couches,
+8:38
+au final, c'est le même résultat.
+8:40
+Ton mur, il est blanc.
+8:40
+Il ne va pas être plus blanc que blanc.
+Le biais de vanité
+8:42
+Ensuite, nous avons l'erreur de la vanité.
+8:43
+Alors, est-ce que c'est une erreur ?
+8:44
+Ce n'est pas plutôt une erreur.
+8:45
+Je pense que c'est un biais d'ego
+8:46
+et de vanité.
+8:47
+La complexité qui est visible,
+8:49
+ça ressemble à de la maturité.
+8:50
+Et quand on est débutant
+8:51
+et qu'on sait lire notre documentation,
+8:53
+qu'on débute et qu'on dit,
+8:54
+ouais, il m'a créé un projet avec Next.js,
+8:56
+il a pris tel framework.
+8:58
+Là, j'ai mis trois webhooks pour activer ça.
+8:59
+Et si tu n'avais pas besoin de tout ça,
+9:00
+et qu'au final,
+9:01
+tu pouvais le faire avec juste un seul fichier HTML,
+9:03
+ne serait-ce que ça.
+9:04
+Par exemple,
+9:05
+ça, ça arrive trop souvent chez les débutants.
+9:06
+Et en fait,
+9:07
+ça leur fait du bien à leur ego
+9:08
+de dire, ouais,
+9:08
+j'ai créé quelque chose de complexe.
+9:10
+Mais tu n'as pas un 500 fois ton mur.
+9:12
+Une seule couche suffisait largement.
+9:13
+Et pour les 499 autres,
+9:16
+tu aurais fait autre chose.
+9:16
+En plus,
+9:17
+entre-temps,
+9:18
+tu dois attendre que ça sèche.
+9:19
+Donc, je te laisse imaginer le temps que tu perds.
+9:21
+Et je ne calcule pas la friction mentale
+9:22
+de savoir que tu dois faire la 19e,
+9:23
+par exemple, couche.
+9:24
+Et au lendemain, la 20e.
+Débutant vs Intermédiaire vs Expert
+9:25
+Donc, c'est là où je vois la différence
+9:27
+entre les débutants,
+9:27
+les intermédiaires et les experts.
+9:29
+Alors, expert, c'est très vague.
+9:30
+Aucun expert sur cette terre existe.
+9:31
+Ça n'existe pas.
+9:33
+Parce que ça ne veut rien dire par définition.
+9:34
+Et même débutant et même intermédiaire.
+9:35
+Mais on va classifier,
+9:36
+on va vous mettre des étiquettes.
+9:37
+Le débutant, il ajoute toujours.
+9:39
+Il ajoute, il ajoute.
+9:40
+Il est en mode ce que j'appelle le append-only.
+9:42
+Il ajoute, il ajoute des couches.
+9:43
+L'intermédiaire, il protège.
+9:44
+Donc, l'intermédiaire,
+9:45
+il a déjà assez ajouté.
+9:47
+Il n'est pas encore dans la phase d'optimisation.
+9:49
+Par contre, il protège.
+9:50
+Il commence à s'intéresser à la sécurité.
+9:52
+Il veut comprendre comment je peux éviter
+9:54
+de me faire avoir
+9:54
+avec les modèles hyper puissants.
+9:56
+Comment je peux sécuriser mes projets
+9:57
+que j'ai développé, mes applications
+9:59
+et ou celles de mes clients.
+10:00
+Et l'expert, il compresse.
+10:01
+Donc, vous pouvez vous proclamer expert
+10:03
+le jour où vous allez compresser
+10:04
+et que vous allez vous dire
+10:04
+qu'est-ce que je peux dégager
+10:05
+de cette configuration,
+10:07
+qu'est-ce que je peux dégager
+10:07
+qui va alléger pour l'IA et pour moi
+10:10
+pour pouvoir gagner plus en temps,
+10:12
+en argent, en énergie mentale.
+10:13
+Parce que vous avez tout à gagner
+10:14
+et rien à perdre le fait de compresser.
+10:16
+Mais il ne faut pas le faire trop tôt.
+10:17
+Parce que vouloir compresser trop tôt,
+10:18
+c'est un débutant
+10:19
+qui veut directement arriver au dernier niveau
+10:21
+et qui va tomber par terre.
+10:23
+Parce qu'il n'aura pas du tout l'expérience
+10:24
+et il va vouloir monter l'échelle
+10:26
+du barreau 1 au barreau 10 d'un coup.
+10:28
+Il n'a pas l'expérience, il ne va pas tenir.
+Aristote, Ockham et la NASA
+10:30
+On peut aussi rentrer dans le sujet de l'éthique
+10:31
+avec Aristote
+10:32
+pour pouvoir trouver un dosage relatif parfait.
+10:35
+Alors parfait, encore une fois, c'est relatif.
+10:37
+Donc, le juste milieu dépend de la situation
+10:39
+et de celui qui agit.
+10:40
+Quel est ce juste milieu ?
+10:41
+Comment y tendre ?
+10:42
+Comment y rester ?
+10:43
+Avec l'évolution aussi des modèles,
+10:44
+on doit y être pour quel type de tâche ?
+10:46
+Et on a aussi Guillaume Docam.
+10:47
+Ce ne sera pas pour tout le monde,
+10:48
+mais la parcimonie coupe les entités
+10:50
+sans nécessité.
+10:51
+C'est un petit peu plus profond,
+10:52
+ça demande un petit peu de lecture,
+10:54
+de compréhension.
+10:54
+N'hésitez pas à poser des questions,
+10:55
+on les y asserve à ça.
+10:56
+Mais s'il y a deux belles collatérales à faire,
+10:58
+c'est Guillaume Docam et Aristote
+10:59
+sur ce sujet exact.
+11:01
+Et on peut parler aussi de minimalisme,
+11:03
+de moins est égal mieux,
+11:04
+de le mieux est l'ennemi du bien, Voltaire, etc.
+11:06
+Il y en a beaucoup.
+11:07
+On peut aussi se référer à un marché alternatif
+11:09
+qui n'a rien à voir,
+11:10
+c'est le marché de l'aviation.
+11:11
+Et eux, ils fonctionnent avec une checklist.
+11:13
+Qu'est-ce que c'est une checklist ?
+11:13
+Vous allez me dire,
+11:14
+oui, c'est sur une application
+11:16
+ou sur du papier, c'est une checklist.
+11:17
+Sauf que pour eux, non.
+11:18
+C'est une interface de travail.
+11:20
+C'est obligatoire.
+11:21
+C'est documenté directement sur le site de la NASA.
+11:23
+Il y a carrément le scan de la checklist,
+11:25
+la checklist normale de la NASA.
+11:27
+Donc c'est assez costaud.
+11:28
+Ça vous explique à quel point...
+11:30
+Une fois que vous suivez ça,
+11:31
+cette checklist complète,
+11:32
+eh bien vous pouvez piloter un avion par définition.
+11:35
+Donc dans ce PDF, qu'est-ce qu'on a ?
+11:36
+On a la fonction, le format, la longueur et l'usage.
+11:39
+Est-ce que ça ne serait pas la même chose dans le fond
+11:42
+que des instructions,
+11:43
+que des ordres qu'on donne à une IA
+11:44
+pour qu'elle puisse effectuer des tâches ?
+11:46
+Parce que piloter un avion, ça reste une tâche.
+11:48
+On a un input et un output.
+11:50
+On peut aussi faire des collatérales
+11:51
+avec les procédures opérationnelles,
+11:53
+qu'on pourrait appeler aussi les SOP.
+11:55
+Il faut savoir que tout ne mérite pas
+11:56
+le même niveau de procédure.
+11:57
+Donc dans l'ordre, mémoriser, vérifier,
+11:59
+checklist et procédure exceptionnelle.
+12:01
+Et avant la procédure exceptionnelle,
+12:03
+il y a mémoriser.
+12:04
+Et pour mémoriser, il faut pratiquer.
+12:06
+Et pour pratiquer, on ne peut pas pratiquer fois 10.
+12:08
+Ça prend du temps.
+Le framework S.A.N.E
+12:09
+Bon, je vous ai sorti un framework
+12:10
+qui s'appelle le framework SAIN
+12:12
+avec quatre questions à se poser
+12:14
+pour savoir qu'est-ce qui mérite de rester
+12:15
+ou tout simplement de dégager,
+12:17
+pour compresser et passer en expert.
+12:19
+Il y en a beaucoup qui vont vouloir se brûler les doigts
+12:21
+et d'essayer de passer directement au niveau expert,
+12:23
+à compresser ou à vouloir créer des instructions
+12:25
+directement légères par définition.
+12:27
+Mais vous n'allez pas connaître l'autre camp.
+12:29
+Mais si demain, les IA, il y a un inversement,
+12:30
+elles deviennent tellement puissantes
+12:31
+qu'on peut leur donner 5000 instructions,
+12:33
+elles arrivent à les suivre
+12:34
+et qu'on passe à un nouveau cap,
+12:35
+vous ne connaissez pas l'autre côté, l'autre camp.
+12:37
+Donc vous allez avoir un déficit.
+12:38
+Donc S, c'est le signal.
+12:40
+A, c'est l'arbitrage.
+12:40
+N, c'est la nécessité.
+12:42
+Et E, c'est l'effet.
+12:43
+Le signal en une question,
+12:45
+c'est que ferait concrètement le modèle différemment
+12:47
+sans cette règle ?
+12:48
+Alors si vous avez 50 règles
+12:49
+dans un fichier Markdown d'instruction
+12:51
+d'un de vos projets,
+12:52
+se poser la question sur chacune de ces règles, c'est long.
+12:55
+Mais si vous êtes sur quelque chose
+12:56
+qui vous permet de gagner
+12:57
+ne serait-ce que deux ou trois heures par jour,
+12:59
+est-ce que ça ne vaut pas le coup de le faire ?
+13:00
+Je pense que oui.
+13:01
+Encore une fois, à travailler sur des choses rentables.
+13:03
+Là, mon explication, elle est vraiment faite
+13:04
+si vous travaillez sur des choses
+13:06
+qui vont vous rapporter de l'argent, du temps
+13:08
+ou dégager de la masse salariale.
+13:09
+On n'est pas juste pour créer des applications pour s'amuser.
+13:12
+On n'optimise pas jusqu'à là.
+13:13
+À part si vous n'avez vraiment rien à faire de votre vie
+13:15
+et que vous faites ça juste par passion.
+13:17
+Peut-être, il y en a peut-être.
+13:18
+Mais en tout cas, personnellement, non.
+13:19
+Il faut forcément qu'il y ait un gain en sortie.
+13:21
+Ensuite, l'arbitrage.
+13:22
+Quelle autre règle pourrait demander le comportement opposé ?
+13:25
+Donc qu'est-ce qui pourrait, on va dire,
+13:26
+brouiller les pistes,
+13:27
+apporter du flou dans la compréhension
+13:29
+de l'objectif final, de ce qu'on veut en sortie ?
+13:31
+Le N comme nécessité.
+13:33
+Donc quel échec observé justifie cette couche ?
+13:35
+Donc là, ça demande de tester, de faire des batteries de test,
+13:38
+de faire des benchmarks, des évaluations,
+13:40
+du stress testing, du golden testing.
+13:42
+Et ça, c'est très, très, très long.
+13:44
+Et c'est très, très, très pénible
+13:45
+parce que c'est l'œil humain, votre œil d'expert
+13:48
+ou du moins l'œil expérimenté qui va pouvoir définir
+13:51
+si c'est une bonne sortie ou une mauvaise sortie.
+13:53
+Si vous n'avez pas d'expérience sur un marché
+13:55
+et que vous voulez faire un set d'évaluation,
+13:57
+en fait, ça n'a aucun sens.
+13:58
+Et le dernier, le E,
+13:59
+qui est ce qui s'est réellement amélioré après son ajout.
+14:03
+Encore une fois, il faut remesurer.
+14:04
+Donc on peut aussi parler d'AB testing.
+14:06
+Comment on peut jauger ce qui est meilleur ou ce qui n'est pas meilleur ?
+14:08
+Quand on fait une batterie de test, on note sur des critères.
+14:10
+Tes critères ne sont pas mes critères.
+14:12
+Donc vous voyez à quel point ça peut vite être compliqué
+14:13
+de pouvoir avoir une bonne configuration des instructions.
+14:16
+Ce n'est pas juste, ouais, j'ai demandé à Claude
+14:18
+d'analyser les meilleures tendances juillet 2026
+14:20
+et balancer ça et améliorer.
+14:22
+Vous êtes très loin.
+14:23
+Vous êtes à 1% de ce qui est possible de faire.
+En pratique
+14:25
+Donc en pratique, si on utilise le framework SANE
+14:26
+sur l'audit du système B,
+14:28
+on s'en rappelle le système B avec neuf éléments,
+14:30
+peut-être qu'on supprimerait le router sans décision distincte.
+14:33
+Donc vous vous en rappelez le skill.md
+14:34
+qui était le router tête chercheuse.
+14:37
+Et peut-être qu'on garderait le schéma,
+14:38
+donc le schéma consommé par un parser.
+14:40
+Peut-être que le router, c'est trop.
+14:42
+Peut-être qu'il va apporter du bruit, il y a trop d'instructions,
+14:43
+il y a des contradictions et que la sortie, elle est médiocre.
+14:46
+Donc à quoi ça sert d'avoir un gros skill pour faire le malin
+14:49
+si sa sortie, c'est de la merde ?
+14:51
+À rien.
+14:51
+Je préfère avoir juste un skill md qui est performant
+14:53
+mais qui est optimisé
+14:54
+et qui me sort un résultat qui va me faire gagner du temps ou de l'argent.
+14:57
+On peut aussi se poser la question du droit d'entrée.
+14:59
+Comment déterminer le droit d'entrée d'une instruction,
+15:01
+d'un ajout, d'une amélioration ?
+15:03
+Eh bien, on peut tout simplement se dire
+15:04
+une couche, elle va rester seulement si elle paie son coût.
+15:07
+Si par exemple, vous ne lisez jamais vos évaluations
+15:09
+mais vous avez des skills avec des evals.json,
+15:12
+à quoi ça sert de les avoir ?
+15:13
+À rien.
+15:14
+C'est le principe, un système va évoluer, les modèles vont évoluer.
+15:17
+Ce n'est pas parce qu'il y a 6 mois, on a fait des évaluations
+15:19
+et qu'on les a validées
+15:20
+qu'aujourd'hui, elles sont toujours fonctionnelles.
+15:22
+Donc c'est du travail et c'est une dette au final.
+15:24
+C'est une dette que vous avez soit vous
+15:26
+et vous allez dire non,
+15:27
+je n'ai pas cette dette parce que je ne relis pas,
+15:28
+j'ai déjà fait ça il y a 6 mois.
+15:30
+Mais non, en fait, la dette, elle n'est pas à vous,
+15:31
+elle est aux IA, vous donnez la dette aux IA.
+15:33
+Donc, elles vont s'embrouiller
+15:34
+avec des instructions obsolètes, des évaluations obsolètes.
+15:37
+Peut-être qu'un seul exemple qui corrige une erreur récurrente suffira.
+15:40
+Pas besoin de faire un evals.json ou un dossier d'évaluation.
+15:44
+Vous voyez, on n'est pas sur créer, on est sur garder.
+L'échelle
+15:46
+Donc là, en fait, on supprime de manière locale.
+15:49
+Comme je vous ai dit, ça ne sert à rien d'essayer de brûler les étapes,
+15:52
+vous allez vous brûler les ailes.
+15:53
+Et un papillon qui se brûle les ailes, en général,
+15:55
+ce n'est pas recommandé pour arriver à l'effet.
+15:57
+Le niveau suivant, il vient seulement après l'échec du précédent.
+16:00
+Donc, bien sûr, avant l'exemple, il y a quand même une compétence, une expérience.
+16:04
+Quand on arrive et qu'on n'a pas de business et qu'on dit je veux créer une agence IA,
+16:07
+ça n'a pas de sens.
+16:08
+Un exemple, tu es avocat, tu es financier,
+16:10
+tu es juriste, tu es commerçant, tu as de l'expérience,
+16:12
+tu connais ton secteur,
+16:14
+ça fait au minimum 2 ans que tu travailles et que tu travailles bien dessus.
+16:17
+Donc, tu as des exemples.
+16:18
+Ensuite, tu vas pouvoir faire des phrases, des instructions.
+16:21
+On reste sur du textuel.
+16:22
+Ensuite, tu vas apporter des règles.
+16:24
+Ensuite, des sections.
+16:25
+Section 1, 2, 3, 4 dans des instructions.
+16:27
+Ensuite, un fichier complet.
+16:29
+Ensuite, tu vas créer un skill.
+16:31
+Une fois que ce skill sera fait, peut-être que tu vas créer un routeur.
+16:33
+Donc, un routeur à tête chercheuse.
+16:34
+Et à la fin, tu pourras créer un agent.
+16:36
+Mais le gars qui n'a pas d'expérience, qui veut créer une agence IA,
+16:39
+directement, il fait un agent.
+16:40
+Est-ce que vous ne trouvez pas que c'est absurde ?
+16:41
+Le fait de décomposer, on s'en rend compte.
+16:43
+Mais le fait d'avoir pratiqué et de voir tellement de personnes se brûler les ailes
+16:46
+et ne pas avoir de business, c'est de penser qu'en créant des agents IA,
+16:49
+ils vont gagner de l'argent sur le court terme, peut-être.
+16:51
+Mais il n'y a rien qui est solide, qui est stable.
+16:53
+Donc, attention à ça aussi.
+16:54
+Je recommande vraiment de manger toutes les étapes.
+16:56
+Et ça, c'est la pilule rouge.
+16:58
+Bien sûr, après, on peut créer des protocoles de complexité gagnée
+17:00
+pour pouvoir définir, est-ce qu'on a amélioré la complexité,
+17:04
+on va dire, du raisonnement de notre environnement et des prises de décision.
+17:07
+Parce que le raisonnement suit d'une prise de décision.
+17:09
+Et ensuite, action.
+17:10
+Donc, on observe.
+17:11
+Ensuite, on corrige au plus bas.
+17:12
+Donc, on réduit au minimum.
+17:14
+On mesure et on teste la suppression.
+17:15
+C'est un protocole.
+17:17
+Il y a plein d'autres protocoles, bien sûr.
+17:18
+C'est pour ça qu'on dit, commence petit et au fur et à mesure,
+17:21
+petit à petit, l'oiseau fait son nid.
+17:22
+Eh bien, ça, c'est un terme qui peut être con.
+17:24
+On l'entend partout.
+17:25
+On se dit, mais là, en fait, il est crucial, capital.
+17:26
+C'est une constante presque de l'univers.
+Repartir de zéro
+17:28
+Donc ensuite, on passe en reconstruction.
+17:30
+On reconstruit des systèmes où on repart de zéro.
+17:32
+Quand est-ce que c'est rationnel de repartir de zéro
+17:34
+quand on a une configuration qui est énorme ?
+17:36
+J'ai certains membres qui ont tout jeté à la poubelle
+17:38
+et sont repartis de zéro dans le labo IA.
+17:40
+Que ce soit dans un skill ou dans une configuration complète
+17:42
+ou que ce soit dans plusieurs skills,
+17:44
+que ce soit même mentalement,
+17:45
+c'est plutôt difficile mentalement à faire.
+17:47
+Imaginons que là, dans ton architecture,
+17:48
+tu as 9 couches, 12 exceptions, 3 routers.
+17:51
+Eh bien, peut-être que tu ne t'en rends pas compte
+17:53
+parce que tu n'as pas testé ce qui se passait de l'autre côté
+17:55
+et du coup, tu n'as pas mesuré les deux.
+17:56
+Quand en fait, tu pouvais faire la même chose en mieux,
+17:58
+en plus rapide et qui te coûte moins cher
+18:00
+avec un seul problème, une règle et une mesure.
+18:03
+C'est quand même plus intéressant
+18:04
+parce que tu as 9 couches, donc 9 possibilités.
+18:06
+On ne va pas dire d'attaque, mais de bug.
+18:07
+12 exceptions, donc 12 possibilités
+18:10
+et 3 routers, donc encore 3.
+18:12
+Tandis que là, tu as tout simplement 3 possibilités.
+18:15
+Aucun youtubeur ne va vous parler de ça.
+18:16
+Je mets ma main à couper.
+18:17
+C'est ce que j'appelle un audit de soustraction.
+18:19
+C'est-à-dire que vous allez construire un skill
+18:20
+que vous allez bien tester
+18:21
+pour pouvoir auditer les projets existants,
+18:23
+les projets anciens pour soustraire.
+18:24
+Qu'est-ce qu'on doit soustraire ?
+18:25
+Comment on arbitre, comment on teste, on mesure ?
+18:27
+Comment ça va être modulaire ?
+18:28
+Comment ça va être scalable au fur et à mesure ?
+18:30
+Je dis bien des avancées des IA.
+18:31
+Il ne faut pas oublier que les prochains modèles
+18:32
+vont être encore plus puissants,
+18:33
+plus autonomes, plus performants
+18:35
+et que toutes vos instructions vont devoir suivre le mouvement.
+18:38
+Vous allez devoir avoir une approche modulaire.
+18:40
+Donc c'est de l'ingénierie bien plus que dire
+18:42
+« Ouais, t'inquiètes, j'ai demandé à Claude de faire un prompt,
+18:44
+il est super bien optimisé, tu lances.
+18:45
+Il n'y a rien qui marche, ce n'est pas modulaire. »
+18:47
+Et s'il y a 10 mises à jour, le mec,
+18:49
+il doit 10 fois changer sa configuration
+18:50
+et entre-temps, il ne se rend pas compte,
+18:51
+mais tout ce qui sort en output, c'est de la merde.
+Conclusion
+18:53
+Et pour conclure cette vidéo,
+18:55
+je suis sûr que la plupart d'entre vous
+18:57
+peuvent se permettre de supprimer
+18:58
+plus de 70% de ce qu'ils ont dans leurs IA,
+19:01
+dans vos cloud codes, peu importe, dans vos terminaux.
+19:03
+Ça dépend de comment vous travaillez et où vous travaillez
+19:05
+pour pouvoir produire mieux et plus rapide.
+19:07
+Si ça t'a plu, n'hésite pas à liker, partager
+19:09
+et surtout commenter, c'est important.
+19:10
+C'est intéressant de savoir ton avis là-dessus.
+19:12
+En tout cas, c'est plus de 3 ans d'expérience,
+19:14
+plus de 450 vidéos, plus de 120 membres à accompagner
+19:17
+et surtout, ça revient tout le temps.
+19:19
+Qu'il soit pour moi ou pour mes élèves,
+19:21
+c'est quelque chose qui revient.
+19:22
+C'est une constante qui est totalement impossible à régler.
+19:25
+Par contre, en prendre conscience et l'appliquer,
+19:27
+c'est quand même bien.
+19:28
+On se dit à très vite.
+19:29
+C'était Mayday. Ciao.
+
+Tout
+
+Source : Meydeey | Automatisation IA
+
+Applications
+
+Apprentissage
+
+Vidéos similaires
+
+Regardées
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+2:02:00
+Alerte : Plus que 3 ans avant le choc technologique ! - Mo Gawdat
+The Diary Of A CEO
+ et Mo Gawdat
+4,7 M de vues
+•
+il y a 1 mois
+Doublée
+
+
+20:27
+Projet de loi d’urgence agricole : un soulagement pour nos agriculteurs ?
+Sud Radio
+648 vues
+•
+il y a 3 jours
+Nouveau
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+183 k vues
+•
+il y a 11 jours
+
+
+22:42
+Claude vs Codex : tout le monde se trompe (preuves)
+Meydeey | Automatisation IA
+992 vues
+•
+il y a 15 heures
+Nouveau
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,9 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+1:20:39
+Hermes Desktop et Gemma 4 12b, système IA local et gratuit !
+Renaud Dékode
+48 k vues
+•
+il y a 1 mois
+
+
+35:24
+La famille Le Pen finalement candidate (pour la 9e fois...)
+François Asselineau
+10 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+25:54
+La découverte du FBI dans 10 millions de salons
+Underscore_
+986 k vues
+•
+il y a 2 semaines
+
+
+31:20
+J'ai gaspillé des milliers d'euros en compléments
+Bodytime
+17 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+22:02
+Andromeda : la mise à jour qui détruit Facebook Ads ?
+Social Scaling
+32 k vues
+•
+il y a 9 mois
+Doublée automatiquement
+
+
+23:02
+5 vérités pour prendre du MUSCLE sans se prendre la tête
+Major Mouvement
+495 k vues
+•
+il y a 1 an
+
+
+21:17
+RAG expliqué simplement : la technique derrière les IA qui marchent
+Projets IA
+7,4 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+2:43:51
+Docteur Insuline et Glucose : Ceci fera fondre votre graisse très vite !
+The Diary Of A CEO
+7,1 M de vues
+•
+il y a 1 an
+Doublée
+
+
+26:35
+Jensen Huang: Why companies need open agent systems
+LangChain et 2 autre(s)
+123 k vues
+•
+il y a 2 semaines
+
+
+10:05
+La base à connaître pour réussir une sèche
+Le Musclay
+204 k vues
+•
+il y a 4 ans
+
+
+29:48
+J'ai mis GPT-5.6 dans Claude Code (le combo est brutal)
+Meydeey | Automatisation IA
+3 k vues
+•
+il y a 13 jours
+
+
+2:58:49
+Expert anti-âge : Manquer cette vitamine est comme fumer ! La vérité sur la créatine !
+The Diary Of A CEO
+ et FoundMyFitness
+5,6 M de vues
+•
+il y a 11 mois
+Doublée
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+107 k vues
+•
+il y a 1 mois
+
+
+11:36
+On ne se laisse pas impressionner par la canicule ! 💪
+Antoine le Potagiste
+795 vues
+•
+il y a 3 heures
+Nouveau
+
+
+12:23
+ChatGPT HORS de contrôle : Ce que l'on sait vraiment !
+Parlons IA
+187 vues
+•
+il y a 1 heure
+Nouveau
+
+9:42
+Une IA a piraté une boîte juste pour tricher…
+Lucas Morel | IA & Innovation
+13 vues
+•
+il y a 45 minutes
+Nouveau
+
+13:58
+7 Non-Negotiables to Build a Bulletproof Mindset
+Chris Bumstead
+688 k vues
+•
+il y a 3 semaines
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+193 k vues
+•
+il y a 3 semaines
+
+24:16
+DeepSeek V4 DÉTRUIT le rapport qualité-prix
+Meydeey | Automatisation IA
+2,6 k vues
+•
+il y a 2 semaines
+
+15:44
+J'ai branché tous mes Agents IA sur le même Obsidian (Graphify)
+Mike Codeur
+7,5 k vues
+•
+il y a 11 jours
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+46 k vues
+•
+il y a 1 jour
+Nouveau
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+30 k vues
+•
+il y a 23 heures
+Nouveau
+
+2:24:14
+Expert du sommeil : Ne pas uriner la nuit et pourquoi le sexe nocturne est mauvais
+The Diary Of A CEO
+ et Sleep Doctor
+10 M de vues
+•
+il y a 5 mois
+Doublée
+
+14:21
+Votre portefeuille est-il prêt pour la stagflation ?
+Xavier Delmas
+86 k vues
+•
+il y a 2 mois
+
+23:14
+Je Mange Tout ce que Je Veux en Vacances : Comment Je Reste Sec à 44 ans ?
+Julien QUAGLIERINI
+13 k vues
+•
+il y a 5 jours
+Nouveau
+
+24:00
+Ne plus JAMAIS atteindre la limite de Tokens dans Claude !
+Elliott Pierret
+56 k vues
+•
+il y a 2 mois
+
+17:26
+Gemini 3.6 Flash divise ma facture IA par 7 (preuves)
+Meydeey | Automatisation IA
+1,5 k vues
+•
+il y a 1 jour
+Nouveau
+
+25:25
+70% du temps de tes équipes part en fumée (système IA)
+Meydeey | Automatisation IA
+1,6 k vues
+•
+il y a 2 mois
+
+16:52
+7 ans en Norvège, 3 enfants, mariée à un Norvégien…. et pourtant j'ai fui ce pays 🇳🇴
+Elodie 🤍
+796 k vues
+•
+il y a 2 mois
+
+14:48
+Si Je Recommençais Un Business En 2026, Voici Exactement Ce Que Je Ferais
+Max Piccinini
+17 k vues
+•
+il y a 4 mois
+
+43:32
+Les véritables enjeux de 2027 - Jacques Sapir et Pierre-Yves Rougeyron
+Front Populaire
+171 k vues
+•
+il y a 2 jours
+Nouveau
+
+42:05
+Censure des réseaux sociaux : grosse blague ou vraie menace (j’ai lu le texte de loi) ?
+Juste Milieu.
+19 k vues
+•
+il y a 1 jour
+Nouveau
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+383 k vues
+•
+il y a 1 mois
+
+    

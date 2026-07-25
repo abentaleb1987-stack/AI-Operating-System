@@ -1,0 +1,688 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude Opus 5 est tout simplement au dessus.
+Erwan | La MasterClass IA
+Erwan | La MasterClass IA
+14,9 k abonnés
+
+S’abonner
+
+272
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+25 juil. 2026  #ClaudeOpus5 #Opus5
+🧠 Aller plus loin dans l'IA, chaque semaine : https://masterclassia.substack.com
+
+Anthropic vient de sortir Claude Opus 5 et je l'ai testé en long et en large. 
+
+Ce que tu vas apprendre :
+→ La phrase à supprimer de ton harnais, tes projets, tes skills et tes instructions
+→ La phrase à ajouter pour qu'Opus 5 aille à l'essentiel
+→ Quand baisser le curseur d'effort sans rien perdre en qualité
+→ Ce que donne Opus 5 face à Fable 5 sur le même brief, en aveugle
+→ Les trois réglages à changer dès maintenant
+
+Opus 5 est brillant mais bavard, et le juge de paix reste ton usage réel, pas le benchmark.
+
+Chapitres :
+0:00 Opus 5 débarque chez Anthropic
+0:45 Test 1
+2:53 Test 2
+3:15 Test 3
+3:58 Test 4
+5:00 Test 5
+6:08 Test 6
+6:48 Ce qu'Opus 5 coûte vraiment
+7:31 Les trois gestes à retenir
+8:46 Autres benchs
+9:28 2026 : le point d'inflexion ?
+
+Outils et sources :
+→ Claude Opus 5 (Anthropic) : https://claude.ai
+→ Prompting Claude Opus 5, la doc officielle d'Anthropic : https://platform.claude.com/docs/en/b...
+→ Modèles comparés dans la vidéo : Fable 5, GPT-5.6 Sol, Kimi K3
+
+Et si la vidéo t'a servi, le bouton « Booster » juste à côté : c'est gratuit, tu en as 3 par semaine, et ça compte d'autant plus que la chaîne est petite.
+
+#ClaudeOpus5 #Opus5
+Erwan explore les capacités techniques de Claude Opus 5 à travers divers tests pratiques, notamment la génération d'animations 3D complexes. L'analyse détaille les meilleures stratégies de prompting pour optimiser les performances de ce nouveau modèle, tout en examinant son efficacité par rapport aux solutions concurrentes actuelles.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Erwan | La MasterClass IA
+14,9 k abonnés
+Vidéos
+À propos
+31 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@quentin1982
+il y a 4 heures
+Très bonne vidéo merci, j'ai hâte de voir ce que Gemini 3.5 pro va donner, j'espère qu'il va rattraper son retard car pour les grosses tâches Gemini c'est pas opti je trouve de ce que j'ai vu
+
+4
+
+
+Répondre
+
+Erwan | La MasterClass IA
+·
+
+1 réponse
+
+@bineneothnielfranck-lewist3988
+il y a 4 heures
+Ta vidéo est très utile. Des tests suivis des conseils d'utilisations. Merci beaucoup
+
+1
+
+
+Répondre
+
+Erwan | La MasterClass IA
+·
+
+1 réponse
+
+@ladosezoo
+il y a 7 heures
+Merci
+
+1
+
+
+Répondre
+
+Erwan | La MasterClass IA
+·
+
+1 réponse
+
+@funfair-bs7wf
+il y a 2 heures
+Fable 5 aussi est monstrueusement bavard. ça fait un moment que j'ajoute systématiquement "soit concis" à mes prompts.
+
+1
+
+
+Répondre
+
+Erwan | La MasterClass IA
+·
+
+1 réponse
+
+@william_bmr
+il y a 3 heures
+Excellente démo bravo
+Juste un bémol : 2026 n’est rien a côté de 2027 !!! Mais tu ne le sais pas encore
+
+1
+
+
+
+Répondre
+
+
+@bensak773
+il y a 1 heure
+Toi ta lu le guide pour opus 5 paru sur le site de Anthropic :)
+
+Au moins tu connais ton sujet !
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@francoislepron2301
+il y a 2 heures
+Très intéressant comme première évolution. J'aimerais voir le code des applications pour savoir si le retouch/tweaking est accessible pour un software developer.
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@TheStevencalisti
+il y a 3 heures
+On se retrouve dans 1 an pour dire qu'on est à un point d'inflexion 
+
+1
+
+
+
+Répondre
+
+
+@CainLightwood
+il y a 4 heures
+Merci pour cette présentation. On est toujours dans le "Syndrome de Dragon Ball" avec les modèles d'IA !
+Il me semblait déjà avoir remarqué un comportement agentique de vérification. Comment récupères-tu un nombre de relecture ?
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@hioube
+il y a 7 heures
+super, j'ai eu le pop up ce matin et tu as déjà testé, merci. Tu penses que c'est utile de demander à Opus 5 de vérifier et retravailler un design de site web créer avec sonnet 5 cette semaine, le gain peut être intéressant?
+
+1
+
+
+Répondre
+
+·
+
+2 réponses
+
+@OL9245
+il y a 3 heures
+Ca serait instructif d'avoir le coût de chacune des tâches de la vidéo.
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@camillegaming4595
+il y a 1 heure
+Marrant, un nouveau modèle Claude sort et hop video le joue meme 
+et quand 5.6 sol est sortie avec toute la refonte de ChatGPT qui éclate Anthropic, en tous, rien du tout, on voit immédiatement ta préférance
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@dragonlens38
+il y a 2 heures
+sauf que... kimi k3 le poutre mdr
+
+
+
+Répondre
+
+
+@alexandrebout4762
+il y a 6 heures
+Ces modèles sont bien trop chers par rapport à leurs concurrents chinois. le prix demandé par Antropic n’est plus justifiable en rapport avec la qualité des modèles comme K3 ou GLM 5.2
+
+1
+
+
+Répondre
+
+·
+
+6 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Opus 5 débarque chez Anthropic
+0:000 secondeAnthropique vient de sortir Claude Opus 5 et le moins qu'on puisse dire, c'est que ce modèle est tout simplement monstrueux. Il n'y a qu'à voir cette comparaison pour comprendre que OPUS 5,
+0:088 secondesnon seulement il est évidemment une évolution naturelle et remarquable d'Opus 4.8, mais il est également meilleur que Fable 5, autrement appelé
+0:1616 secondesMythos, sur de très nombreuses tâches et bien sûr une performance égale à une fraction du coup, même si on va voir que c'est un petit peu plus nuancé que ça
+0:2525 secondesparce que OPUS 5 demeure quand même à un prix équivalent à Opus 4.8 Et c'est un modèle qui est tout simplement spectaculaire, qui produit des choses
+0:3434 secondessublimes, qui est très versatile à condition de savoir comment bien l'utiliser. Et c'est ce que je vais aborder dans cette vidéo. Et si c'est la première fois que tu tombes sur cette chaîne, je te souhaite la bienvenue et
+0:4242 secondesn'hésite pas à t'abonner pour toujours garder une longueur d'avance dans le domaine de l'IR. Alors qu'est-ce qui donne concrètement ce modèle Opus 5 ? Je vais vous montrer différents tests que j'ai pu faire cet après-midi et qui
+Chapitre 2 : Test 1
+0:5050 secondesm'ont vraiment impressionné, sachant que tous les tests que je vais vous montrer là ont été faits sur la base d'un seul prompt. Donc déjà, j'ai commencé par essayer de lui faire faire des rendus 3D
+0:5858 secondessans lui donner aucune bibliothèque 3D particulière en lui demandant de faire tout tenir à l'intérieur d'un fichier.
+1:031 minute et 3 secondesEt je vais vous montrer le premier résultat, donc la France en relief qui a pris 14 minutes et 46 secondes pour être conçu et qui a été relu 63 fois par Opus
+1:111 minute et 11 secondes5 au cours de sa création. C'est un des attributs d'Oppus 5 qui a tendance à beaucoup vérifier ce qu'il fait et j'y viendrai juste après. Mais avant ça, je vous montre. Voilà. Donc on a cette
+1:191 minute et 19 secondesanimation 3D mais qui est parfaitement fluide, qui est absolument magnifique.
+1:221 minute et 22 secondesDonc je vous montre un peu ce que fait le déplacement. Franchement, c'est redoutablement bien fait et on voit en fait que là on a la France en relief en fonction de la densité, mais on peut
+1:301 minute et 30 secondesaussi le mettre sur la partie population. Et voilà, pour un truc qu'on réalise en imprompte, c'est vrai que c'est assez impressionnant. Même exercice avec le métro parisien, 13
+1:381 minute et 38 secondesminutes 41 de fabrication. Et donc là, on a cette animation qui nous montre les stations qui sont les plus fréquentées en terme de trafic annuel et on a le
+1:461 minute et 46 secondesdétail de chacune de ces stations comme vous pouvez voir là. Encore une fois, réalisé en un seul prompte. l'électricité française heure par heure.
+1:531 minute et 53 secondesDonc là, on a un graphe de consommation.
+1:551 minute et 55 secondesJe trouve que l'effet de zoom sur la partie 3D est franchement très très bien réalisé aussi. Et la France déformée, donc la carte se déforme jusqu'à ce que
+2:032 minutes et 3 secondeschaque département occupe une surface proportionnelle à sa population.
+2:062 minutes et 6 secondesCelui-là a pris 26 minutes et 34 secondes de fabrication. Il a probablement consommé beaucoup trop de token par rapport à l'intérêt qu'il aura pour moi, mais je l'ai fait pour le test. Donc un petit like pour donner de
+2:142 minutes et 14 secondesla force à la vidéo et je vous montre tout de suite à quoi ça ressemble. Euh donc celui-là, ce que j'aime c'est cet effet de déformation qui est assez bien fait où on voit en fait à quoi
+2:222 minutes et 22 secondesressemblerait la carte si on prenait en compte plutôt la population plutôt que la géographie. Donc ça c'est la carte normale et ça c'est la carte avec déformation. Et si on regarde la densité
+2:302 minutes et 30 secondesde population, au-delà de la population même, ici on voit que Paris est effectivement un bassin comme on le sait avec une très forte densité de population. Mais c'est pas forcément
+2:382 minutes et 38 secondesl'objectif de ce schéma qui a plutôt pour but de vous montrer les capacités de ce modèle qui fait quand même un très très bon travail pour réaliser du coup ces animations 3D mais qui comme vous
+2:472 minutes et 47 secondesl'avez vu, se relie énormément. 293 relectures cumulées sur ces différents projets sur parfois des choses qui étaient probablement de la survérification. Dans les bonnes pratiques de prompting sur plus 5, il
+Chapitre 3 : Test 2
+2:552 minutes et 55 secondesfaut faire très attention à ne jamais lui demander de vérifier votre travail.
+2:592 minutes et 59 secondesParce que si vous lui demandez de vérifier votre travail ou si vous avez des skills qui prévoient des relectures, qui prévoient un protocole comme celui-ci, vous allez passer un très
+3:073 minutes et 7 secondesmauvais quart d'heure. Il y a de fortes chances que vous voyez Opus 5 tergiverser et passer énormément de temps à peut-être produire le même résultat que vous auriez eu sans lui
+3:143 minutes et 14 secondesdemander. Et ce que en fait, il vérifie déjà tout seul ce qu'il construit. Donc il est très important de retirer ces instructions explicites que vous avez
+Chapitre 4 : Test 3
+3:213 minutes et 21 secondesdans votre système ou dans votre harné qui lui demanderait de revérifier votre travail. Parce que vous voyez là, j'ai fait ce petit test où en fait en utilisant ce même prompt qui est un
+3:303 minutes et 30 secondesprompte qui va lui demander de créer une application de partage d'addition, un truc assez classique, vous voyez ici le cahier des charge de cette application.
+3:363 minutes et 36 secondesDans un des cas, je lui ai dit vérifie bien ton travail, relie attentivement avant de répondre. Et dans l'autre, j'ai retiré cette demande spécifique. Donc je lui ai pas demandé de vérifier quoi que
+3:453 minutes et 45 secondesce soit, je vais juste demander de construire l'application. Et là, on a 5 minutes de différence et 15 relectures de plus. Donc évidemment beaucoup plus de token pour un résultat qui est comme
+3:543 minutes et 54 secondesvous le voyez là le même puisque dans les deux cas l'application fonctionne et je dirais même que dans les deux cas l'application est assez similaire puisque vous voyez là la version qui a
+Chapitre 5 : Test 4
+4:024 minutes et 2 secondespris 7 minutes et ici la version qui a pris 2 minutes. À contrario, une phrase que je vous recommande vraiment de rajouter quand vous promptez sur O+ 5, c'est une consigne de concision parce
+4:094 minutes et 9 secondesque OP+ 5 parle beaucoup et si vous baissez le curseur de réflexion, ça va pas changer grand-chose parce que c'est simplement les étapes de sinking qui vont se réduire mais la production, la
+4:184 minutes et 18 secondesvolubilité du modèle va rester la même et franchement elle est to much parce que vous voyez ici sur une simple question que je lui ai posé qui était OK, j'hésite entre payer 20 € par mois
+4:274 minutes et 27 secondespour un abonnement il y a grand public et brancher la pay sur mes propres outils, comment je tranche ? Dans l'un des cas, je lui ai posé la question comme ça et dans l'autre cas, je lui ai dit réponds en cinq lignes maximum. Et
+4:354 minutes et 35 secondesvous voyez que quand je ne lui ai pas donné de consigne de longueur, il nous a fait un truc avec 386 mots. Il a mis 23 secondes pour répondre et au final sans
+4:434 minutes et 43 secondesapporter beaucoup plus que la même demande avec la contrainte de concision où je lui dis voilà répond en 5 lignes maximum et là bah il utilise trois fois
+4:514 minutes et 51 secondesmoins de mots et il répond en 7 secondes. Donc trois fois plus rapide, trois fois moins de mots égal trois fois plus efficace et donc trois fois plus heureux. et que serait le test d'un
+4:594 minutes et 59 secondesnouveau modèle sans essayer de générer un peu de AI slop avec. Donc évidemment, je vais vous montrer une page web créée pour un domaine viticle. Bien sûr, on
+Chapitre 6 : Test 5
+5:065 minutes et 6 secondesregarde toujours la capacité frontine d'un modèle. C'est important pour comprendre comment il se situe par rapport aux autres. Et je vais d'abord vous montrer les résultats mais sans vous dire quel est le modèle à gauche et
+5:145 minutes et 14 secondesquel est le modèle à droite. Je vous laisse regarder la page de gauche qui est quand même plutôt bien faite comme on peut le voir avec un effet de scroll très bien réussi. une page bien
+5:225 minutes et 22 secondesorganisée, des icônes qui sont plutôt belles, une carte des produits, un call to action avec un formulaire. Bref, voilà, c'est plutôt quelque chose de solide. Toute façon, les modèles actuels nous ont habitué à ce niveau de qualité.
+5:325 minutes et 32 secondesEn réalité, là où ça aurait pu nous paraître spectaculaire il y a 2 ans à raison, ça allait un petit peu moins aujourd'hui, il faut être honnête. Et à
+5:395 minutes et 39 secondesdroite, on a cette deuxième page qui a vraiment le même prompt comme vous le voyez. Ce que je repère tout de suite, c'est que je trouve que les icônes sont un petit peu moins bien faites. J'aime
+5:475 minutes et 47 secondesun peu moins les couleurs et la police, même si ça se ressemble. le call to action. OK, peut-être un petit peu moins pro également. Et je vois qu'à gauche ça
+5:555 minutes et 55 secondesa duré 13 minutes, là où à droite ça a duré 4 minutes. L'un est faible et l'autre est opus. Et donc là, si vous avez suivi le début de ma vidéo, vous avez compris que 13 minutes et 48 au
+6:036 minutes et 3 secondeslecture, c'est sûrement notre cher Opus 5 qui prend son temps mais qui produit de très belles choses parce que c'est quand même du solide. là où Fable 5 nous a fait ça en 4 minutes 18 mais
+Chapitre 7 : Test 6
+6:116 minutes et 11 secondesprobablement presque au même prix voire plus cher. Ici c'est un démineur. Alors dans les deux cas on a une application qui fonctionne. Je trouve que OP+US 5 a fait quelque chose de légèrement plus
+6:196 minutes et 19 secondesesthétique mais après ça c'est une question de goût. Globalement on pourrait dire que c'est égalité. Là, c'est une affiche de données dans laquelle on avait demandé donc un format
+6:266 minutes et 26 secondesvertical et effectivement bah OPUS 5 alors qui a repris le code couleur de mes chaînes a fait quand même un meilleur travail je trouve de
+6:346 minutes et 34 secondesvisualisation que Fable 5. Mais encore une fois regardez, il a mis deux fois plus de temps. Pareil pour ce tableau de bord du métro où là on lui avait demandé un tableau de bord d'une page sur les
+6:426 minutes et 42 secondes302 stations de métro et on lui avait demandé aussi que toute la page soit lisible d'un coup d'œil. Et là pour le coup, on voit que Fable 5 n'a pas respecté ce brief. Là où Opus 5 l'a
+Chapitre 8 : Ce qu'Opus 5 coûte vraiment
+6:516 minutes et 51 secondesrespecté avec encore une fois 3 minutes de plus et beaucoup de relecture comme vous le voyez ici. Alors, comment faut-il utiliser OPUS 5 pour en tirer le maximum ? Déjà, vous avez bien compris
+6:596 minutes et 59 secondesque vous allez enlever toutes les instructions de vérification que vous avez dans vos projets, dans vos skills, dans tout votre harné. Il faut surtout pas lui demander de vérifier son travail
+7:087 minutes et 8 secondesparce que sinon il va le faire pendant des heures et des heures. Certes, le modèle est moins cher, il est 50 % moins cher que Fable et il est au même prix qu'au plus 4.8 mais en réalité sur les
+7:167 minutes et 16 secondesbatteries de test qu'on l'om mène, on constate qu'il coûte environ un/3 de moins que Fable parce que en fait il travaille beaucoup plus longtemps et donc il est moins token efficient. Par
+7:247 minutes et 24 secondesailleurs, il se relie tout seul et ça franchement c'est assez impressionnant parce que c'est à mon avis ce qui lui permet en one shot de faire des choses de si grande qualité. Mais du coup, il a
+Chapitre 9 : Les trois gestes à retenir
+7:327 minutes et 32 secondestendance un peu à survérifier et euh du coup à surcontrôler tout ce qu'il produit, ce qui est pas forcément très efficace en soi. Et je pense qu'il y
+7:407 minutes et 40 secondesaura probablement un petit peu de marge de manœuvre pour euh construire un skill qui permette à Opus 5 d'être optimal et d'être un petit peu plus économique.
+7:497 minutes et 49 secondesDonc en synthèse, les trois gestes clés à retenir, c'est de bien enlever toutes vos consignes de vérification, de lui demander à Contrario de faire preuve de
+7:567 minutes et 56 secondesbeaucoup de concisions quand il vous répond pour pas devoir attendre indéfiniment que OPUS 5 a fini de travailler. vous recommande de baisser d'un cran sur le niveau d'effort quand
+8:048 minutes et 4 secondesvous n'avez pas besoin de quelque chose de spectaculaire et une petite fiche récap des bonnes pratiques. Lui dire de rester bref, lui dire de rester dans le périmètre demandé, ne faire que ce que
+8:128 minutes et 12 secondesvous lui avez demandé et de manière générale de résumer sauf si vous demandez le détail. Et ça ça vient du guide que Anthopic eux-même a mis à
+8:208 minutes et 20 secondesdisposition sur comment prompter Opus 5 et que je vous mettrai en description.
+8:238 minutes et 23 secondesBref, Opus 5, c'est un modèle qui est brillant mais qui est vraiment très bavarde. Donc bien sûr, comme à chaque sortie de modèle, le juge de paix, ça n'est pas ce que vous allez voir sur ce
+8:328 minutes et 32 secondestest. Ça n'est pas non plus ce que je vais vous montrer dans quelques instants sur Twitter, mais c'est l'intégration dans la vraie vie, l'intégration réelle dans votre harvée, dans vos process,
+8:408 minutes et 40 secondesdans vos projets d'IA. Et dites-moi en commentaire ce que vous en pensez, mais effectivement, moi je trouve que c'est un modèle vraiment très impressionnant.
+Chapitre 10 : Autres benchs
+8:478 minutes et 47 secondesEt donc là, je vais vous remontrer d'autres benchmark où on a comparé Opus 5, Fable 5, GPT 5.6 et Kimica 3. Et Opus 5 est largement au-dessus. Il est plus
+8:548 minutes et 54 secondeséconomique que Fable 5 comme on peut le voir. Il dépasse bien sûr notre cher Kimika 3 également. Et ouais, franchement, c'est une grande surprise.
+9:019 minutes et 1 secondeJe pense que personne n'attendait un Opus 5 aussi fort. On attendait tous que Fable 5 soit encore un cran au-dessus pendant quelques temps, mais finalement
+9:099 minutes et 9 secondesça n'est pas le cas et tant mieux pour nous. On peut quand même se demander quel est l'avenir économique de Fable 5, vu qu'il est beaucoup plus cher et qu'il est pas beaucoup plus performant. Donc là effectivement, on voit que sur une
+9:169 minutes et 16 secondessimulation de ville en fait, on a quelque chose qui a coûté deux fois moins cher Ecopus 5 et qui est plus ou moins pareil que ce que Fable peut produire. Évidemment, la communauté ne
+9:249 minutes et 24 secondesmanque pas de rappeler à Google que effectivement ils prennent un petit peu de retard par rapport à entrei et Open AI en ce moment. Et il y a quelque chose d'assez vertigineux dans le fait de se
+Chapitre 11 : 2026 : le point d'inflexion ?
+9:339 minutes et 33 secondesdire qu'il y a moins de 2 mois d'écart entre Opus 4. Opus 5 et que pourtant, c'est vrai qu'on a aujourd'hui un Opus 5
+9:409 minutes et 40 secondesqui est littéralement deux fois meilleur que Opus 4.8 sur certains benchmarks comme celui-ci qui même sur le Knowledge Work fait un gain de 300 points environ
+9:499 minutes et 49 secondeset qui progresse tellement sur autant d'aspects et qui nous donne cette idée complètement vertigineuse que en seulement 2 mois on a un modèle qui
+9:569 minutes et 56 secondesdevient presque deux fois meilleur. Donc Opus 4.8 était sorti, c'était déjà le roi incontesté. 2 mois plus tard, on a un modèle qui fait deux fois le score
+10:0410 minutes et 4 secondessur un benchmark de coding agentique. Et franchement, moi j'ai le sentiment que cette année 2026 est un point d'inflexion. Je sais qu'on dit ça tous les ans. On se dit tous les ans que on est stupéfait des progrès, des modèles
+10:1210 minutes et 12 secondesde génération de textes, de génération d'images, de génération de vidéos. Mais là, j'ai l'impression que 2026 marque vraiment une rupture. Euh depuis ces modèles comme Mythos devenu depuis
+10:2110 minutes et 21 secondesFable, mais aussi GPT 5.6 sol, mais aussi Kimica 3 et maintenant opus 5. On a une intelligence de très haute gamme qui est en train de se commoditiser. Ça
+10:3010 minutes et 30 secondesveut pas dire que elle va pouvoir être utilisée à tort et à travers dans toutes les entreprises parce que l'équation économique reste à ce jour insoluble.
+10:3610 minutes et 36 secondesMais ça veut dire que on va probablement avoir une commodétisation d'une intelligence de très très haut niveau aux étages les plus élevés de la création de valeur. Et ensuite probablement que dans les prochains
+10:4510 minutes et 45 secondesmois, on va continuer à affiner la manière dont on orchestre les différents modèles ensemble pour que justement l'équation économique ne soit pas intenable pour les organisations ou même
+10:5310 minutes et 53 secondespour les individuels. Bref, j'espère que cette vidéo vous a plu. N'hésitez pas à me dire en commentaire ce que vous pensez de ce modèle. Moi, je vais continuer à le tester. Je pense qu'on va pouvoir produire des choses extrêmement
+11:0011 minutesviolentes avec. Dites-moi en commentaire vos premières impressions et je vous dis à très bientôt pour de nouvelles vidéos. Yeah.
+
+Tout
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+35 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+5:56
+Kimi K3 : Pourquoi cette sortie change la course à l’IA
+Nerdy Kings
+616 vues
+•
+il y a 1 heure
+Nouveau
+
+
+9:42
+Une IA a piraté une boîte juste pour tricher…
+Lucas Morel | IA & Innovation
+84 vues
+•
+il y a 4 heures
+Nouveau
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+108 k vues
+•
+il y a 1 mois
+
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+194 k vues
+•
+il y a 3 semaines
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+306 k vues
+•
+il y a 21 heures
+Nouveau
+
+
+12:23
+À 31 ans, il meurt de sa passion pour le bodybuilding !
+Le Musclay
+68 k vues
+•
+il y a 9 mois
+
+
+15:52
+Ce dont votre corps a BESOIN après un entraînement (5 conseils)
+Nassim Sahili
+511 k vues
+•
+il y a 2 ans
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+46:02
+Chine, le grand bond dans le futur - reportage intégral
+Envoyé Spécial
+510 k vues
+•
+il y a 1 mois
+
+
+31:47
+Pourquoi les Japonais font la guerre aux immigrés ? (la réalité est violente)
+Louis-San
+27 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+13:25
+On s'est ENCORE fait CUCK... [J'suis pas content ! #469]
+J'suis pas content TV
+165 k vues
+•
+il y a 11 mois
+
+
+33:20
+Pourquoi ces 12 objets interdits en France 🇫🇷 sont LÉGAUX au Japon ? (il y a une dr*gue)
+Louis-San
+441 k vues
+•
+il y a 3 semaines
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+
+20:18
+Crash IMMINENT de l'IA ! (et c'est plus grave qu'on ne le croit)
+Nowtech
+117 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+13:58
+7 Non-Negotiables to Build a Bulletproof Mindset
+Chris Bumstead
+689 k vues
+•
+il y a 3 semaines
+
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+
+45:07
+On reçoit Arthur Mensch, PDG de Mistral AI
+Underscore_
+784 k vues
+•
+il y a 1 an
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+184 k vues
+•
+il y a 11 jours
+
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+941 k vues
+•
+il y a 3 mois
+Doublée
+
+    

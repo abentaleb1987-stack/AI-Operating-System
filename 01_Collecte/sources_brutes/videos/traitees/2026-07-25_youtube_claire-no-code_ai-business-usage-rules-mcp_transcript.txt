@@ -1,0 +1,800 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+2
+
+Image d'avatar
+Comment j’utilise l’IA dans mon business ?
+Claire no-code
+Claire no-code
+21,3 k abonnés
+
+S’abonner
+
+13
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+24 juil. 2026
+Pour tester Brevo, c’est par ici : https://get.brevo.com/e4ofp
+
+Merci à eux d’avoir sponsorisé cette vidéo :) Avec le code CLAIRE50, vous pouvez bénéficier de 50 % de réduction pendant 3 mois sur les offres Starter et Standard ! 
+
+____________
+
+Aujourd'hui, je fais quelque chose que je n'ai jamais fait : analyser mes 3 ans d'usage de l'IA, sans filtre. Y compris la période où je m'y suis perdue.
+
+Tout le monde explique comment utiliser l'IA. Personne ne raconte ce qu'elle nous fait sur la durée. Moi, je pensais devenir plus forte grâce à elle. C'est l'inverse qui s'est produit.
+
+Dans cette vidéo, je retrace mes phases d'usage de l'IA, j'analyse ce qui m'a fait dérailler (preuves à l'appui, dont une étude du MIT https://arxiv.org/pdf/2506.08872v1 ) et je détaille le système que j'utilise aujourd'hui pour en profiter sans perdre mes capacités.
+
+Au programme :
+La lune de miel : quand l'IA faisait presque tout, et la première fissure
+La prise de conscience : mon intervention devant des étudiants et l'étude du MIT sur l'activité neuronale
+Le mécanisme de la dépendance : déléguer une tâche, c'est déléguer la compétence qui va avec
+Mon nouveau système en 3 règles : le premier jet, c'est moi, l'IA en relectrice, et le brief au micro
+Mon setup 2026 : pourquoi l'IA que j'utilise le plus n'est ni ChatGPT ni Claude
+
+____________
+
+→ DEVIENS OS DESIGNER ←
+
+Tu veux apprendre mon métier et passer de l'exécution technique à la conception de système ?
+
+À la rentrée de septembre 2026, je lance le Bootcamp OS Designer : 12 semaines, une cohorte de 16 participants maximum sélectionnés sur candidature, pour apprendre mon métier de A à Z : de l'analyse des besoins utilisateurs jusqu'au développement (Notion, Make et vibe coding), avec une certification devant jury.
+
+👉 Si tu as envie d’en savoir plus : https://clairenocode.fr/formation/boo...
+
+___________
+
+CHAPITRES :
+00:00 3 ans et demi d'usage de l'IA : le bilan
+00:39 Merci à Brevo de sponsoriser cette vidéo
+01:27 Mes débuts en 2022 : extraction de données et OCR
+04:19 L'arrivée de GPT-4 et le switch rédactrice → relectrice
+05:51 Le premier effet de bord : moins exigeante avec l'IA
+06:27 Le deuxième effet de bord : la difficulté cognitive sans IA
+07:06 Une machine à contenu qui tournait sans moi
+08:21 Le déclic : mon intervention en école de commerce
+09:25 L'étude du MIT sur l'activité neuronale
+10:37 Déléguer une tâche, c'est perdre une occasion de progresser
+11:09 Mes 3 règles pour bien utiliser l'IA
+11:16 Règle 1 : jamais de premier jet, sauf en déclinaison de contenu
+12:08 Règle 2 : l'IA comme relectrice
+12:52 Règle 3 : le micro, mon usage préféré
+16:38 Mon setup actuel : ChatGPT, Claude et surtout l'IA de Notion
+18:26 Les compétences dans l'IA de Notion
+19:03 Mes instructions personnalisées (et pourquoi je lui ai demandé de me challenger)
+20:03 Mes agents IA et les MCP
+22:32 Le not design, sujet d'une prochaine vidéo
+22:48 Récap de mon évolution en 3 phases
+23:26 J'ai repris la lecture intensément
+24:33 Mon nouvel ordre : j'écris, l'IA relit et me challenge
+
+___________
+
+Vidéo écrite, tournée, montée & filmée par moi 🏄🏼‍♀️
+
+__________
+
+🌸 VIENS ME FOLLOWWW
+🚀 Mes services & produits : https://www.clairenocode.fr/
+📱 Instagram :   / clairenocode  
+🎙️ Podcast : https://podcast.ausha.co/entrepreneus...
+✍🏼 LinkedIn :   / clairenocode  
+✉️ Email : hello@clairenocode.fr
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Claire no-code
+21,3 k abonnés
+Vidéos
+À propos
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+@forcoges1084
+il y a 5 heures
+Bonjour Claire,
+Vidéo intéressante sur ton évolution d'usage de l'Intelligence Artificielle. Très instructif d'avoir ce retour d'expérience de ta part, merci 😊
+Bien d'accord avec toi d'utiliser l'IA comme assistant et non pas comme remplaçant et de toujours avoir bien en tête de garder sa zone de génie pour l'entretenir et la maintenir.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : 3 ans et demi d'usage de l'IA : le bilan
+0:022 secondes[musique]
+0:066 secondesHello à tous, j'espère que vous allez bien. Bienvenue dans cette nouvelle vidéo. Aujourd'hui, je vous propose une petite rétrospective de 3 ans et demi
+0:1414 secondesd'utilisation de l'IA pour vous expliquer un petit peu toutes les étapes par lesquel je suis passée pour en arriver bah au système que j'ai aujourd'hui et aussi en profiter pour
+0:2222 secondesvous présenter comment concrètement j'utilise LIA dans mon business parce que je pense que dans mon apprentissage de LIA, j'ai fait beaucoup d'erreurs et
+0:3131 secondesque si elles peuvent en aider certains à ne pas faire les mêmes, ben écoutez, ce sera plutôt une bonne chose. Petite pause dans cette vidéo pour vous parler
+Chapitre 2 : Merci à Brevo de sponsoriser cette vidéo
+0:3939 secondesdu sponsor de celle-ci qui n'est autre que Brevo qui me suit sur ce projet des cahiers de l'été et je les en remercie.
+0:4646 secondesBrev si vous ne les connaissez toujours pas, c'est la plateforme tout en un française qui vous permet à la fois de gérer votre CRM, l'envoi de vos
+0:5353 secondesnewsletters, l'envoi de séquences email via leur solution d'automatisation ou même des SMS, des messages WhatsApp. Bref, c'est une plateforme tout en un.
+1:001 minuteD'ailleurs récemment, il y a une nouvelle loi qui est passée he sur la protection des données et Brevu sont les seuls à avoir fait quelque chose pour nous permettre de respecter cette loi.
+1:081 minute et 8 secondesDonc on les en remercie. Avec mon code promo clair 50, vous bénéficiez de 50 % de réduction sur les tris premiers mois sur les plans starter et standard. Cette
+1:171 minute et 17 secondesoffre est réservée aux nouveaux clients payants. Vous trouverez le lien pour accéder à l'offre directement dans la première ligne de la barre de description. Merci encore à Brevo pour leur soutien sur les cahiers de l'été.
+Chapitre 3 : Mes débuts en 2022 : extraction de données et OCR
+1:271 minute et 27 secondesEt donc sans plus tarder, on va pouvoir plonger dans mon usage de Lia. Donc déjà pour vous donner un peu de contexte, moi de base je suis développeuse, je suis ingénieure. Donc Lia quand c'est arrivé pour moi, c'était le rêve quoi.
+1:371 minute et 37 secondesC'est-à-dire que c'était encore un nouveau joujou technique avec lequel j'allais pouvoir explorer et m'amuser.
+1:421 minute et 42 secondesEt j'avais les cartes, on va dire, pour comprendre comment fonctionnaient ces outils pour réussir à les prendre en main rapidement. Non, moi ça m'a pas empêché de faire quand même pas mal
+1:501 minute et 50 secondesd'erreurs, non pas forcément dans la prise en main, mais dans la façon dont je l'ai intégré à mon entreprise. Donc j'ai commencé, je pense, un peu comme
+1:581 minute et 58 secondestout le monde en 2022 en utilisant notamment chat GPT parce que voilà, moi je place l'arrivée de Lia dans nos vies avec l'arrivée de chat GPT. Dans la
+2:052 minutes et 5 secondesréalité, ça existait avant LIA, c'est pas né à ce moment-là. Et d'ailleurs euh moi j'utilisais déjà les modèles Open AI
+2:132 minutes et 13 secondespour faire quelques petites tâches dans des automatisations. Mais à l'époque en fait, il y avait pas d'outils grand public, c'était vraiment des outils auxquels on pouvait faire appel par API.
+2:212 minutes et 21 secondesDonc les API c'est ce qui connecte les outils entre eux sur l'internet. Donc en fait, avant ça n'existait pas en chatbot auquel on parle et qui nous répond comme
+2:292 minutes et 29 secondeschat GPT. C'était vraiment les premiers et ça a été très smart et c'est ce qui fait le succès de Lia aujourd'hui. Donc j'ai commencé par chat GPT et au tout début, je vais être honnête même si je
+2:382 minutes et 38 secondesl'utilisait très bien je pense parce que tout de suite j'ai pris la mesure de l'importance de faire un bon prompte.
+2:442 minutes et 44 secondesC'était d'autant plus vrai à l'époque où les modèles étaient bien moins bons. Le niveau de lia était tel que ça ne permettait pas un gain de temps énorme.
+2:522 minutes et 52 secondesAu début, c'était quand même assez gadget pour le grand public et un des premiers usages que j'en ai eu, c'est de l'extraction de données dans des
+3:003 minutescontenus, on va dire non structurés, donc notamment des PDF. En gros, j'ai commencé à utiliser l'IA dans des automatisations notamment pour remplacer
+3:093 minutes et 9 secondesce que je n'arrivais pas à faire avec ce qu'on appelle des expressions régulières. En gros, avant quand il y avait pas l'IA, quand on voulait extraire des données de documents, on
+3:163 minutes et 16 secondesessayait d'identifier des patterns, en gros des modèles pour réussir à récupérer des informations. Par exemple, si tu voulais récupérer une adresse mail
+3:243 minutes et 24 secondesdans un PDF, mais en fait, tu utiliser tout ce qui était une chaîne de caractère, donc une suite de lettre et
+3:313 minutes et 31 secondesde chiffres avec dedans un à rebase et qui termine par point texte. Et en fait, tu extris cette partie-là et en fait, c'était comme ça que tu t'en sortais.
+3:393 minutes et 39 secondesSauf que il y avait des fois par exemple pour les noms prénoms, bah impossible honnêtement de différencier le nom du prénom justement. Et donc on se
+3:483 minutes et 48 secondesretrouvait parfois à faire un travail manuel. Pareil un usage de LIA que j'ai eu assez tôt c'est pour extraire tout simplement du texte d'une image parce que bah aujourd'hui même si ça paraît un
+3:563 minutes et 56 secondespeu un truc de base au tout début quand tu avais une image une photo avec du texte c'était impossible de récupérer le
+4:044 minutes et 4 secondestexte. C'était impossible d'en extraire le texte. Et d'ailleurs, un des premiers outils qui permettait de faire ça, je me souviens, c'était dans note sur iPhone.
+4:114 minutes et 11 secondesEt je trouvais ça incroyable quand tu mettais une photo avec du texte dedans, il faisait l'identification de caractère. Tu pouvais copier le texte de l'image et pas uniquement l'image.
+Chapitre 4 : L'arrivée de GPT-4 et le switch rédactrice → relectrice
+4:194 minutes et 19 secondesPetite astuce que j'utilisais énormément à l'époque. Bref, ça en réalité c'était avant l'arrivée de de chat GBD. Et donc plus je l'utilisais, plus aussi mes
+4:274 minutes et 27 secondesclients existants que j'avais sur des sujets plutôt automatisé Lia. Et c'est un peu par cette porte que
+4:354 minutes et 35 secondesje me suis mise à accompagner des clients à intégreria dans leur entreprise. Et donc à ce moment-là, je formais sur ce qui était que l'intelligence artificiel, les différents chatbots qui existaient à
+4:444 minutes et 44 secondesl'époque, les différents modèles, comprendre ce qui faisait qu'un modèle était plus puissant qu'un autre et comment rédiger un bon prom pour obtenir un bon résultat, tout le process
+4:514 minutes et 51 secondesd'itération. Et certains m'ont peut-être connu à l'époque quand je commençais à parler de ces sujets il y a du coup un peu plus de 3 ans et demi. Et donc dans
+4:584 minutes et 58 secondesmon propre business déjà à l'époque, j'explorais énormément et j'utilisais énormément Lia. Et il y a eu vraiment un moment, il me semble que c'est à la
+5:055 minutes et 5 secondessortie de GPT4 où là il y a eu un switch entre le GPT 3.5 et GPT4 où vraiment le
+5:125 minutes et 12 secondesmodèle a pris en qualité. C'était assez impressionnant où j'ai commencé à réussir à produire des contenus écrits,
+5:195 minutes et 19 secondesque ce soit euh des newsletters ou bien des post LinkedIn ou même des articles de blog qui étaient d'une qualité qui faisait que j'avais même plus besoin de
+5:275 minutes et 27 secondesle faire par moi-même. Donc mes processués à ce moment-là, je me disais bon bah je vais continuer à faire mon calendrier éditorial comme avant, c'est-à-dire que c'est moi qui
+5:355 minutes et 35 secondessélectionne les idées et qui les positionne dans l'agenda. Et après bah je laisse Lia rédiger euh des premiers jets de script et puis j'ai plus qu'à
+5:425 minutes et 42 secondesles relire et à les corriger. Changer le process en passant de rédactrice à relecteur. Ça a eu deux effets. Le premier effet que euh je ne m'en rendais
+Chapitre 5 : Le premier effet de bord : moins exigeante avec l'IA
+5:515 minutes et 51 secondespas compte mais euh c'est vraiment un autre métier qu'être relecteur. Et moi, je n'étais pas du tout aussi exigeante
+5:585 minutes et 58 secondesen tant que relectrice. D'autant plus avec une IA où j'avais le biais d'être impressionnée par une IA parce que enfin tu as ce truc où c'est instantané. Ça
+6:076 minutes et 7 secondesapparaît tout seul. C'est magique. Ce n'est pas magique, c'est statistique.
+6:116 minutes et 11 secondesMais j'avais ce truc de c'est la facilité, donc c'est le petit côté finiant qui ressortait. J'étais beaucoup moins exigeante avec le rendu généré par Unia. Et encore, je pense que par
+6:196 minutes et 19 secondesrapport à d'autres, je le suis pas mal, hein, mais quand même pas assez, pas autant que si c'était moi qui avais créé le contenu. Et le deuxième effet de bord que j'ai vu, c'est que au bout de 6
+Chapitre 6 : Le deuxième effet de bord : la difficulté cognitive sans IA
+6:276 minutes et 27 secondesmois, 1 an, bah quand Lia n'était plus disponible parce que j'étais dans le train ou parce que ma connexion internet était mauvaise, bah en fait, c'était même plus de la flemme que je ressentais
+6:356 minutes et 35 secondesvis-à-vis du fait de faire cette tâche, c'est que j'avais vraiment une difficulté cognitive à la faire. Et là, je me suis fortement inquiétée parce que
+6:446 minutes et 44 secondessi je perds cette capacité, en fait, Lia devient meilleur que moi et là, ça devient très problématique. Cette sensation de ne plus être capable de
+6:516 minutes et 51 secondesfaire certaines tâches par moi-même a été euh pour moi un peu le déclencheur d'un gros changement que j'ai initié.
+6:586 minutes et 58 secondesD'autant plus que moi quand je fais les choses, je les fais pas à moitié. Donc j'avais pas juste changé mes process, je les avais automatisé. Donc en fait, j'avais créé une vraie machine à contenu
+Chapitre 7 : Une machine à contenu qui tournait sans moi
+7:067 minutes et 6 secondesqui fonctionnait sans moi et donc prendre conscience que tout le système que j'avais mis en place bah en fait potentiellement était déjà obsolète parce que j'avais tout simplement pas
+7:137 minutes et 13 secondespris la mesure des problématiques auxquelles j'allais être confrontée en créant ce système bah ça m'enchantait guère quoi. En plus j'étais en train de traverser une phase dans mon business où
+7:227 minutes et 22 secondesje me reconnaissais de moins en moins. À l'époque j'avais pas du tout fait le lien entre les deux. Je me disais que c'était peut-être juste un passage à vide. Voilà tu es lassé un petit peu de ce que tu fais. Peut-être qu'il suffit
+7:307 minutes et 30 secondesde prendre un nouveau client, potentiellement lancer un nouveau programme différent pour apprendre toujours les les mêmes sujets, mais disons changer le format. Bref, je me
+7:387 minutes et 38 secondesdisais, il faut juste que je me renouvelle un peu. Sauf qu'en fait la réalité c'est que je venais sans m'en rendre compte d'arrêter de faire toutes les tâches qui me procurent du plaisir
+7:467 minutes et 46 secondesau quotidien. Et non seulement j'avais arrêté de les faire mais en plus quand je les faisais, elle pouvait difficilement me procurer autant de plaisir puisque j'avais du mal à les
+7:547 minutes et 54 secondesfaire. C'est exactement comme quand tu joues d'un instrument. Moi, j'ai joué 15 ans du violon. En fait, quand tu t'arrêtes et que tu essayes de reprendre
+8:028 minutes et 2 secondesaprès potentiellement 6 mois, 1 an de pause, c'est très difficile, même si ça revient, tu sais toujours lire la musique et cetera, c'est très difficile
+8:108 minutes et 10 secondeset tu te rends compte que tu as régressé parce que en fait, il y a pas de secret.
+8:128 minutes et 12 secondesil y a un moment faut s'entraîner pour maintenir son niveau à minimal maintenir voir continuer à progresser. Donc là déjà je commençais à pas très très bien le vivre et donc dans ce même temps, je
+Chapitre 8 : Le déclic : mon intervention en école de commerce
+8:218 minutes et 21 secondesme suis retrouvée à intervenir dans une école de commerce justement pour les former ONCode en général et également à LIA. Et au moment de faire l'évaluation,
+8:288 minutes et 28 secondesde faire l'examen, et bien j'ai réalisé et ça a été genre vraiment me mettre face à moi-même que il y a pas un élève qui n'a pas pris ma question, qui l'a
+8:378 minutes et 37 secondesmis sur chat GPT et qui a copiercollé la réponse directement dans mon questionnaire. Et j'étais là mais en fait ça ne m'intéresse pas de lire des
+8:458 minutes et 45 secondesréponses générées par Ria. Déjà elles étaient toutes identiques, hein, faut dire ce qui est. Et au-delà de ça, moi ce qui m'intéressait c'était de voir si
+8:538 minutes et 53 secondeseuh les compétences que je leur avais transmises et même la connaissance sur tous les outils et ce que ça permet de faire, bah allait leur apporter des choses à l'avenir et est-ce qu'ils
+9:029 minutes et 2 secondesavaient compris à quel moment ils pourraient faire appel à quel outil et pour répondre à quel besoin. Et donc quand je voyais qu'en fait il laissait Lia répondre à leur place en espérant
+9:109 minutes et 10 secondesavoir une bonne note parce que en vrai c'est quand même pas une si mauvaise solution pour avoir une bonne note. En fait, ça m'a dégoûté et je me suis dit non mais en fait même moi qui suis
+9:189 minutes et 18 secondescensée être la meuf qui gère Lia, j'ai un peu une overdose et je pense que j'ai besoin de prendre un peu de recul sur mon usage parce que je ne suis pas
+Chapitre 9 : L'étude du MIT sur l'activité neuronale
+9:259 minutes et 25 secondescertaine d'avoir fait exactement les choses dans le [musique] bon ordre. À ce moment-là, je tombe sur une étude scientifique du MIC qui explique que justement et bien il y a des études qui
+9:349 minutes et 34 secondesont été menées sur différents groupes de personnes. On leur a donné exactement la même tâche qui était de rédiger un écrit, une étude et le premier groupe
+9:429 minutes et 42 secondesdevait utiliser uniquement l'IA. Le second n'avait aucun outil accessible et le troisième, je crois que c'était uniquement les moteurs de recherche. Je suis plus trop sûre sur les groupes,
+9:509 minutes et 50 secondesmais en tout cas le fait est que le groupe qui pouvait utiliser Lia dès le lendemain n'était plus du tout capable en fait d'expliquer ce qu'ils avaient
+9:589 minutes et 58 secondesécrit dans cette étude. Ils ne se souvenaient même pas d'avoir travaillé là-dessus puisque de toute façon dans les faits est-ce qu'ils avaient vraiment travaillé là-dessus ? C'est plutôt Lia
+10:0610 minutes et 6 secondesqui avait rédigé un document et il s'était contenté de le relire et de le publier tel quel. Dans cette étude, ils avaient également mesuré l'activité
+10:1310 minutes et 13 secondesneuronale. Ils avaient mesuré que bah lorsque le cerveau travaille avec l'assistance du toute façon celui-ci bah travaille moins que un cerveau qui
+10:2110 minutes et 21 secondestravaillerait par lui-même. Et je pense que ça explique aussi pourquoi quand tu fais un travail de relecture et non de rédaction, donc relecture de ce que fait
+10:2910 minutes et 29 secondesune, tu es forcément moins exigeant puisque tu fais moins d'efforts intellectuels pour analyser tout ça. Et donc c'est vraiment là que j'ai pris conscience que déléguer une tâche à une
+Chapitre 10 : Déléguer une tâche, c'est perdre une occasion de progresser
+10:3710 minutes et 37 secondesIIA, c'est pas uniquement me faire assister, c'est aussi perdre une occasion de progresser et de m'entraîner. Et ça c'est important à
+10:4410 minutes et 44 secondesretenir, je pense. Bon, je l'ai répété à plusieurs reprises dans ces cahiers de l'été, mais Lia, ça peut vous assister à partir du moment où vous gardez dans
+10:5310 minutes et 53 secondesvotre quotidien des tâches qui vous permettent de continuer à maintenir votre niveau parce que sinon ça va avant tout vous faire régresser. Et donc c'est en ayant bien en tête ce constat que je
+11:0111 minutes et 1 secondeme suis créé un système intégrant LIA pour mon business qui me permet à la fois de gagner en productivité mais également de continuer à progresser.
+Chapitre 11 : Mes 3 règles pour bien utiliser l'IA
+11:0911 minutes et 9 secondesDonc il y a déjà trois règles que je me fixe, on va dire pour réussir à bien utiliser l'IA. La première règle c'est
+Chapitre 12 : Règle 1 : jamais de premier jet, sauf en déclinaison de contenu
+11:1611 minutes et 16 secondesque je ne fais plus jamais rédiger à une IA un premier get. Donc par exemple, s'il s'agit d'une newsletter ou d'un
+11:2411 minutes et 24 secondespost LinkedIn, c'est-à-dire quand le format final va être un format écrit, plus jamais je ne demande à une IIA de
+11:3111 minutes et 31 secondesrédiger le contenu parce que il va être moins bon que si c'est moi qui le fait.
+11:3711 minutes et 37 secondesLe seul cas où je continue à le faire, c'est quand je fais de la déclinaison de contenu parce qu'on parle d'un contenu que j'ai déjà rédigé, donc par exemple une newsletter que j'ai déjà fait dont
+11:4511 minutes et 45 secondesle premier vient de mon cerveau. Là pour le coup, ça peut être pertinent de la décliner pour en faire un post.
+11:5011 minutes et 50 secondesLinkedIn, elle va reprendre les mêmes mots que moi. C'est juste qu'elle va en faire une version synthétique avec un hook, la bonne structure. Bref, sur de la déclinaison de contenu, LIA, elle est très forte, c'est un modèle statistique.
+11:5911 minutes et 59 secondesDonc factuellement, en parlant d'un contenu que j'estime bon en entrée, elle va te sortir un truc qui est quand même pas trop mal. Ça n'empêche qu'il faudra quand même relire. 2è règle, Lia est
+Chapitre 13 : Règle 2 : l'IA comme relectrice
+12:0812 minutes et 8 secondesavant tout une relectrice. C'est-à-dire que typiquement mes newsletters, déjà la première passe de relecture, je la fait à voix haute parce que je trouve que ça
+12:1512 minutes et 15 secondespermet de mieux se rendre compte si le texte est fluide. Donc une fois qu'elle est rédigée, je la lis à voix haute.
+12:2112 minutes et 21 secondesVoilà, tout simplement. Et enfin, je lui demande de me faire des retours pour l'améliorer. Donc ça passe évidemment par repérer toutes les fautes d'orthographe de grammaire et cetera et
+12:2912 minutes et 29 secondespotentiellement des tournes de phrases qui sont un peu trop lourdes. Mais surtout ce que j'aime beaucoup, c'est lui demander de faire des recherches sur les sujets que j'avance pour
+12:3612 minutes et 36 secondespotentiellement bah enrichir mes propos de sources fiables. Et donc comme ça, ça me permet d'avoir des articles complémentaires vers lesquels vous
+12:4412 minutes et 44 secondesredirigez. Et donc je les lis hein évidemment pour m'assurer que c'est pas débile ce qu'elle partage et je pense que ça ça a plutôt permis d'améliorer mon contenu. Et le troisème usage, la
+Chapitre 14 : Règle 3 : le micro, mon usage préféré
+12:5212 minutes et 52 secondestroisème règle parce que c'est vraiment ce qui pour moi a été game changer cette année et qui me permet vraiment de gagner du temps, c'est d'utiliser
+12:5812 minutes et 58 secondesénormément LIA avec le micro. Donc même sur Liad Notion, je vais vous montrer ça tout de suite. Je viens d'ouvrir une nouvelle conversation pour vous montrer.
+13:0713 minutes et 7 secondesEn fait, je vais utiliser le micro et je vais lui dire par exemple pour ma prochaine newsletter sur les workers de Notion, je t'invite à aller me lister
+13:1413 minutes et 14 secondesdes sources fiables qui présentent le sujet que je présente, typiquement les annonces officielles de Notion. Donc c'est parti, je te laisse faire cette
+13:2213 minutes et 22 secondesrecherche. Et même si là le promptte est très court, ça me permet quand même d'aller beaucoup plus vite que si j'avais fait le travail moi-même. Et
+13:3113 minutes et 31 secondespour le coup là, enfin, il va me proposer pas mal de choses intéressantes, je pense. D'ailleurs, il va me proposer, voilà, je le vois d'ici, il me propose à la fois des sources
+13:3913 minutes et 39 secondesYouTube sur la chaîne officielle de Notion et une source du blog de Notion classique. Sachez que sur Liad Notion, à mon plus grand désespoir, [rires] le mode micro est bloqué à 5 minutes.
+13:5013 minutes et 50 secondesAlors moi, j'utilise énormément les notes de réunion où je fais ma réunion avec moi-même pour justement m'enregistrer parce que ça m'arrive très
+13:5713 minutes et 57 secondessouvent par exemple de rentrer d'un audit avec un client pendant 2 jours et en fait j'ai tout qui est frais dans ma tête, je sais exactement tout ce que je
+14:0414 minutes et 4 secondesveux rédiger et donc parfois bah avant rédiger ce rendu d'audit et et faire le bilan de ces deux jours, ça pouvait me prendre franchement 2 3 jours parce que
+14:1314 minutes et 13 secondesentre le temps où je remets toutes mes idées sur papier, le temps où je regroupe les idées ensemble pour refaire un plan cohérent, Puis ensuite que je repasse dessus pour tout bien rédiger.
+14:2214 minutes et 22 secondesEnfin vraiment c'était un travail qui était quand même assez titanesque.
+14:2714 minutes et 27 secondesMaintenant enfin franchement ça c'est génial. Je m'enregistre. Parfois je parle pendant 2h. Oui oui, c'est plus un podcast. Là on est sur un un film
+14:3414 minutes et 34 secondesd'auteur. Et derrière j'ai une V1 de mon rendu d'audit qui est pour le coup très bien faite. Alors je disais je ne fais plus rédiger des V1 de contenu à à Lia.
+14:4314 minutes et 43 secondesAlors ça dépend quand c'est une newsletter ou un post LinkedIn. Faut pas oublier que moi c'est ce que j'aime faire aussi. Donc je garde, on va dire, des tâches d'écriture et au-delà
+14:5214 minutes et 52 secondes[musique] de ça, bah il faut bien qu'elle parte de quelque chose. Donc si à la limite je la brieff bien à l'oral, peut-être que ce serait pertinent. Mais
+14:5914 minutes et 59 secondeslà en l'occurrence en fait, je fais mes recherches en même temps que j'écris et j'apprends en même temps que j'écris. Je fais des tests d'outils et cetera, je prends des notes. Donc en fait, c'est
+15:0715 minutes et 7 secondespas du tout le même usage. Alors que dans le cas où c'est dans ma tête qu'il y a plein d'idées, donc typiquement 2 jours d'audit et tout est frais dans ma
+15:1415 minutes et 14 secondestête, c'est tellement génial. C'est tellement le meilleur usage, le micro.
+15:1915 minutes et 19 secondesEt donc moi je disais hein, je fais directement ici nouvelle note de réunion, nouvelle note d'IA. Et donc là je m'enregistre et là là c'est illimité
+15:2615 minutes et 26 secondeshein. illimité. Tu tu peux parler avec Notion pendant 4h si tu veux. Enfin je crois que j'ai jamais dépassé 2h donc je sais pas peut-être qu'il y a une limite
+15:3415 minutes et 34 secondeset que je sais pas. Mais en tout cas, dites-vous que dans les discussions classiques de Lia, malheureusement c'est 5 minutes. Dans mon souvenir sur chat,
+15:4115 minutes et 41 secondesc'était 10 minutes. Sur Claude, il m'a encore jamais mis top. Mais j'utilise pas assez puisqueen fait, j'utilise directement Yad Notion maintenant. Mais
+15:4915 minutes et 49 secondesbon, on reparlera de de mes outils juste après. Mais en tout cas, c'est ma troisième règle. Le micro c'est génial.
+15:5515 minutes et 55 secondesVraiment, je trouve que c'est ça qui permet de gagner du temps, c'est le fait que quand tu as plein de choses dans ta tête, tu puisses lui parler pour qu'il rédige le document à ta place. C'est
+16:0316 minutes et 3 secondesexcellent. J'adore cet usage. En gros, c'est moi qui pense, c'est elle qui met en forme. Et d'ailleurs, c'est comme ça que j'ai travaillé ce script de vidéo, c'est que je l'ai briefé. Elle m'a
+16:1016 minutes et 10 secondesproposé un plan, elle m'a rédigé un script. En réalité, je respecte jamais moi mes scripts. C'est-à-dire que mes scripts sont juste là pour être sûr que je ne loupe aucun élément au tournage.
+16:1916 minutes et 19 secondesMais après, moi, c'est de l'impro, je ne sais pas lire un prompteur. Voilà, je vais être honnête. Et en plus, quand je teste des outils, bah de toute façon, enfin, je teste un outil quoi, c'est en
+16:2716 minutes et 27 secondeslive donc c'est de l'impro. Voilà, juste j'aime bien avoir une trame pour que ce soit un minimum structuré et éviter de partir dans tous les sens parce que je pense qu'en plus je suis beaucoup trop
+16:3516 minutes et 35 secondesdouée pour partir dans tous les sens. Et donc ça me permet d'arriver à mon setup actuel. Quels sont concrètement les outils que j'utilise ? Alors j'ai toujours un abonnement de chat GPT, j'ai
+Chapitre 15 : Mon setup actuel : ChatGPT, Claude et surtout l'IA de Notion
+16:4416 minutes et 44 secondestoujours un abonnement Cloud et surtout j'ai liad Notion. Je vais être honnête depuis maintenant 6 mois, je pense que
+16:5116 minutes et 51 secondesj'utilise quasiment à 98 % du temps uniquement [grognement] Liad Notion.
+16:5716 minutes et 57 secondesAlors Liad Notion, elle intègre énormément de modèles. Donc quand je crée une nouvelle discussion ici, il me propose de choisir le modèle. Vous
+17:0417 minutes et 4 secondesvoyez, j'ai énormément de choix. Moi, je passe quasiment ma vie en sonnet. Quand je veux un truc plus avancé, je peux passer sur du Opus 4.8 surtout quand
+17:1117 minutes et 11 secondesc'est plus technique d'ailleurs. Ou du Fable 5 qui est du coup pour l'instant gratuit, mais j'essaie d'éviter de trop en profiter parce que bientôt ça
+17:1817 minutes et 18 secondesnécessait Notion puisque le modèle est hors de prix. Je m'étais même dit que j'en profiterais pour faire deux trois analyses qui vont me coûter une blinde
+17:2717 minutes et 27 secondesparce que en fait enfin faut trop bête de pas en profiter sachant qu'actuellement c'est c'est gratuit.
+17:3317 minutes et 33 secondesVoilà. Mais bref, en tout cas aujourd'hui, j'utilise quasiment que l'adunion et je pense pas que ce soit une bonne idée pour tout le monde.
+17:3917 minutes et 39 secondesC'était une bonne idée pour moi parce que en fait tout était déjà dans notion pour moi. Genre je trouve ça trop dommage quand tu as notion et que donc toute ta connaissance est dedans. Genre
+17:4717 minutes et 47 secondesmoi typiquement je n'ai rien sur mon ordinateur de ne pas utiliser lien intégré à ton outil de base. Donc évidemment si tu es sur la suite Microsoft et que toutes tes données sont
+17:5617 minutes et 56 secondessur Microsoft, même si c'est pas des belles données, hein, bah utiliser Copilot est potentiellement une bonne idée. En plus, je crois avoir entendu dire que bientôt vous aurez également cloud dans la suite copilot. Vous serez
+18:0418 minutes et 4 secondesplus limité au modèle GPT. D'ailleurs, moi j'aime bien les modèles de chat.
+18:0918 minutes et 9 secondesJ'utilise beaucoup aussi les derniers modèles GPT5. C'est juste que j'avoue, je pense que mes usages sont assez basiques et donc [musique] genre soit je mets en sonnet, soit je
+18:1818 minutes et 18 secondesmets en automatique. D'ailleurs en vrai, ça peut être une bonne idée he de vous donner le conseil d'être en automatique parce que je trouve qu'elle choisit assez bien quel modèle sélectionner
+18:2518 minutes et 25 secondesselon votre demande. Donc j'utilise l'IA classique de Notion, c'est-à-dire le chat comme vous pourriez avoir sur chat GPT ou sur cloud, mais j'utilise
+Chapitre 16 : Les compétences dans l'IA de Notion
+18:3418 minutes et 34 secondeségalement les compétences. Donc ici dans fonctionnalité IAD notion, vous avez en fait des [musique] compétences. En gros,
+18:4318 minutes et 43 secondessi avant vous utilisiez potentiellement les agents GPT ou les skills de cloud, et bien vous pouvez ici créer des
+18:5018 minutes et 50 secondescompétences. Et j'avoue, j'ai pas encore eu le temps de faire tout ça bien. J'en ai qu'une que j'utilise mais c'est prévu au mois d'août de me faire toute ma bibliothèque de compétences puisque je
+18:5818 minutes et 58 secondespense que vraiment mon usage de liad notion ne va faire que s'amplifier dans les prochaines années. Autre chose que j'ai mis en place et qui est génial et
+Chapitre 17 : Mes instructions personnalisées (et pourquoi je lui ai demandé de me challenger)
+19:0519 minutes et 5 secondeson pouvait aussi le faire sur un chat ou un cloud, c'est que j'ai mis des instructions de base. Donc en gros, je lui ai demandé de se faire passer
+19:1319 minutes et 13 secondes[rires]
+19:1419 minutes et 14 secondespour Eric l'archevêc. En gros, c'était plus pour une blague de base, pour qu'il se prenne pour Eric, ce que je trouve extrêmement drôle. Mais c'est surtout pour me mettre un peu un coup de pied au
+19:2319 minutes et 23 secondescul quand je lui pose des questions notamment business pour éviter qu'il aille tout le temps dans mon sens parce que c'était le problème que j'avais avec Lia et peu importe laquelle, c'est que
+19:3119 minutes et 31 secondesquand j'avais une idée, elle était forcément exceptionnelle et j'avais intérêt à à la développer très vite parce que enfin franchement je suis une personne exceptionnelle donc ça ne peut
+19:3819 minutes et 38 secondespas échouer. En tout cas, c'est ce que Lia disait et forcé de constater que c'était un problème qu'elle ait tout le temps dans mon sens parce que elle n'avait pas toujours raison et qu'il y
+19:4719 minutes et 47 secondesavait bien des idées que j'avais qui étaient vraiment éclaté au sol. Donc en gros, je lui ai mis plein de consignes pour qu'il sache à chaque fois quand je pose une question comment structurer sa
+19:5619 minutes et 56 secondesréponse et cetera. Et d'ailleurs, c'est très drôle parce que le truc que j'ai fait et que j'adore, à chaque fois que je lui parle, il va terminer par une question. Et en plus de ces instructions
+Chapitre 18 : Mes agents IA et les MCP
+20:0520 minutes et 5 secondesqui me permettent de personnaliser mon usage de l'IA, j'ai des agents IA. Donc je commence à en avoir pas mal. Certains me servent plus que d'autres en toute
+20:1320 minutes et 13 secondestransparence et je pense qu'il y en a que je pourrais retravailler et je pense que ça fera partie de mes tâches de du mois d'août. Là, je voudrais me poser justement sur tous mes agents pour
+20:2220 minutes et 22 secondessavoir lesquels je garde, lesquels j'améliore, lesquels je retire parce que je sais qu'il y en a qui ici sont beaucoup moins utilisés que d'autres. Je vais pas rentrer dans le détail des
+20:3020 minutes et 30 secondesagents IA que j'utilise dans cette vidéo parce que j'ai prévu justement une vidéo dans laquelle je présente mes trois agents IA préférés, comment je les ai
+20:3720 minutes et 37 secondesconstruits et ce qu'ils font. Mais dites-vous que j'ai créé un agent I quand la tâche que je faisais n'avait pas un process fixe. C'est-à-dire que
+20:4620 minutes et 46 secondesc'était compliqué de l'automatiser parce que selon le cas dans lequel j'étais, bah en fait il fallait itérer sur le process et l'améliorer un peu, le
+20:5320 minutes et 53 secondesmodifier et cetera. Donc process pas forcément fixe, néanmoins objectif clair et défini et la tâche est récurrente,
+21:0121 minutes et 1 secondec'est-à-dire que c'est pas un truc que je fais une fois de temps en temps.
+21:0421 minutes et 4 secondesC'est un peu les trois cas pour lesquels j'ai créé des agents IA. Et d'ailleurs, il y a beaucoup d'agents IA qui sont ici qui sont en réalité des évolutions de
+21:1121 minutes et 11 secondesmes anciennes GPTS auquels j'ai ajouté des connexions à mes outils. Mais de base, les GPTs de chat GPT, c'était quand même un peu les débuts des agents
+21:1921 minutes et 19 secondesIA. C'est juste que Claude a eu l'intelligence et c'est très bien et merci de créer ce qu'on appelle les MCP. C'est en gros hein les API pour les IA.
+21:2821 minutes et 28 secondesDonc c'est ce qui permet aux IA de se connecter à nos outils tierces puisqueon travaillit pas uniquement typiquement sur nos chaînes. Et donc du coup c'est ce qui m'a permis de connecter mes GPTS
+21:3621 minutes et 36 secondesd'une certaine façon mes agents aujourd'hui à des MCP donc à des outils tierces. Et aujourd'hui d'ailleurs je les connecte même plus directement à des MCP en tout cas pas tout le temps pour
+21:4421 minutes et 44 secondesdiminuer les coûts. Je les connecte à des workers. Mais ça, je vous invite à aller voir la vidéo sur les workers à ce sujet. Et d'ailleurs, bah comme il y a
+21:5121 minutes et 51 secondeseu toutes ces nouveautés cet été, et en vrai, je fais un peu ça une fois par an, je me poserai sur mon système pour réfléchir aux outils que j'ai créé et
+22:0022 minutesvoir comment je pourrais les faire mieux. et notamment, je pense qu'ici, il y a des agents qui doivent être améliorés, il y a des workers qui doivent être créés, bref, il y a
+22:0822 minutes et 8 secondesbeaucoup de choses qui sont à faire et peut-être que ça fera l'objet d'une vidéo de la rentrée he si ça vous intéresse que je vous montre vraiment concrètement comment j'ai réfléchi mon
+22:1522 minutes et 15 secondessystème, comment je m'y suis prise du coup pour tout cartographier et tous les workers, tous les agents et toutes les automatisations que j'ai créé dans ce sens parce qu'il y a aussi beaucoup
+22:2422 minutes et 24 secondesd'automatisations qui je pense vont sauter. D'ailleurs, il y a une vidéo qui arrive dans les prochains jours où je vous fais le tour de toutes mes automatisations. Ça pourrait permettre de faire un avant après. rentrer parce
+Chapitre 19 : Le not design, sujet d'une prochaine vidéo
+22:3222 minutes et 32 secondesque je pense que je peux potentiellement diviser par deux mon nombre d'automatisation. Bon bref, on aura le temps d'en reparler. J'utilise également pas mal aujourd'hui Lia pour faire ce
+22:3922 minutes et 39 secondesque j'appelle du not design mais de nouveau, ça fera l'objet d'une prochaine vidéo qui arrive dans les prochains jours. Donc abonnez-vous si ce n'est pas encore fait pour ne pas la manquer. Si
+Chapitre 20 : Récap de mon évolution en 3 phases
+22:4822 minutes et 48 secondesje récapitule un petit peu mon évolution sur ces 3 ans, je pense que j'ai vraiment eu une phase d'adoration de la
+22:5522 minutes et 55 secondesnouveauté et donc j'utilisais peut-être mauvaise puisque clairement à ce moment-là, je me suis mise à trop l'utiliser jusqu'à sentir une certaine
+23:0423 minutes et 4 secondesrégression sur certaines des tâches que pourtant j'adorais faire. Puis une phase de prise de conscience, peut-être que vous en êtes à cette phase où je me suis dit en fait c'est pas possible, j'ai pas
+23:1223 minutes et 12 secondesenvie que Lia me remplace sur des tâches que je préfère faire. Donc je prends le partie d'être moins productive mais de ne pas utiliser l'IA sur ces sujets
+23:1923 minutes et 19 secondesparce que c'est aussi penser à l'avenir que de réussir à trouver du temps pour continuer à entraîner mon cerveau. Et d'ailleurs, il y a un truc que j'ai
+Chapitre 21 : J'ai repris la lecture intensément
+23:2623 minutes et 26 secondesrepris qui est vraiment pas euh [rires] on va dire à la mode à l'air de Lia.
+23:3023 minutes et 30 secondesJ'ai repris la lecture mais genre intensément. J'étais une très grande lectrice quand j'étais jeune à base de limite un livre par semaine. Et puis
+23:3823 minutes et 38 secondesdepuis la prépa en fait, j'ai j'ai vraiment réduit mon temps de lecture.
+23:4223 minutes et 42 secondesNon, je crois que quand je suis arrivée sur Paris, comme il y avait beaucoup de métro, j'avais repris la lecture et j'avais lu pas mal, mais ça avait duré 2 3 ans quoi. Et depuis que j'entreprends,
+23:5123 minutes et 51 secondesenfin, je trouvais plus le temps soi-disant, sauf que ça y est, je l'ai repris et en fait, c'est pas compliqué de de lire surtout quand tu aimes ça.
+23:5723 minutes et 57 secondesEnfin, je veux dire, c'est tellement dommage. Et donc maintenant vraiment, j'ai juste qu'une hâte, c'est de me coucher le soir pour pouvoir lire dans mon lit. Je lis dans les transports, je lis partout. Ça y est, j'ai repris
+24:0624 minutes et 6 secondesl'habitude. J'adore. Et je pense que ça m'aide à écrire. Bon, je lis pas de la grande littérature en ce moment mais je pense que ça aide. Et pour le coup, je
+24:1424 minutes et 14 secondespense que ça fait du bien de ne pas lire uniquement du contenu généré par IA.
+24:1824 minutes et 18 secondesDemandez-vous, c'est quand la dernière fois que vous avez lu un contenu généré par un humain ? Je pense que si vous lisez que internet et les réseaux sociaux et chat GPT, bah vous êtes même
+24:2624 minutes et 26 secondespas sûr dernièrement d'avoir lu un contenu généré par un humain.
+24:2924 minutes et 29 secondesD'ailleurs, on pourrait dire écrit par un humain et non généré par un humain.
+Chapitre 22 : Mon nouvel ordre : j'écris, l'IA relit et me challenge
+24:3324 minutes et 33 secondesVous l'avez compris aussi maintenant j'ai un nouvel ordre de dans mon process de travail qui est j'écris, lia relie et me challenge et jit dessus. C'est
+24:4224 minutes et 42 secondesvraiment le truc qui pour moi fonctionne le mieux et quand je lui demande un premier get d'elle-même, je la briefe au micro pour des contenus qui n'ont pas
+24:4924 minutes et 49 secondesvocation à finir écrit genre des notes rapides et cetera ou des scripts de vidéo où en fait de toute façon après je fais de la full impro. Mais demander à
+24:5624 minutes et 56 secondesUnia de rédiger un contenu en premier get directement elle-même sans rien lui donner en plus. Franchement vous perdez toute la réflexion. À partir du moment
+25:0425 minutes et 4 secondesoù il y a une réflexion, qu'elle soit à l'écrit ou à l'oral, je pense que ça va mieux déjà et que votre cerveau continue à à bosser. Elia produira du coup en
+25:1225 minutes et 12 secondesplus quelque chose de plus cali. Mais si vous retirez cette partie réflexion, je pense que c'est là où vous tirez une balle dans le pied. Et enfin, uneia
+25:1925 minutes et 19 secondesintégré à vos données, intégré à votre contexte sera à mon avis toujours meilleur que n'importe quel chat.
+25:2525 minutes et 25 secondesdécorz-les de tout le reste. Alors évidemment si vous avez connecté que ce soit Claude, chat, peu importe Li que vous utilisez à vos données, évidemment
+25:3225 minutes et 32 secondesque c'est une très bonne solution me concernant sachant que j'utilise vraiment Notion 20h/ 24, j'abuse un peu, c'était évident aujourd'hui, sachant qu'
+25:4025 minutes et 40 secondesNotion est gratuite avec le plan business que c'était le choix le plus adapté. Voilà, donc j'ai terminé pour aujourd'hui. J'espère que cette vidéo vous a plu. Je vous souhaite à tous une
+25:4825 minutes et 48 secondestrès belle journée et on se retrouve donc dès demain dans une nouvelle vidéo.
+25:5225 minutes et 52 secondesBye ! [musique] be your biggest fan. And when things are really tough and they're really rough
+26:0026 minutesand nothing's [musique] working, but there's something inside of you that says I just have to follow that because
+26:0726 minutes et 7 secondesyou don't know
+26:1026 minutes et 10 secondes[musique]
+
+Tout
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+34 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+13:58
+7 Non-Negotiables to Build a Bulletproof Mindset
+Chris Bumstead
+689 k vues
+•
+il y a 3 semaines
+
+
+9:42
+Une IA a piraté une boîte juste pour tricher…
+Lucas Morel | IA & Innovation
+84 vues
+•
+il y a 4 heures
+Nouveau
+
+
+28:52
+Je teste la nourriture la plus douteuse d'Amazon
+Gurky
+885 k vues
+•
+il y a 5 mois
+
+
+33:30
+Comment gérer votre argent comme le top 1 %
+Mark Tilbury
+6,4 M de vues
+•
+il y a 1 an
+Doublée
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+108 k vues
+•
+il y a 1 mois
+
+
+20:18
+Crash IMMINENT de l'IA ! (et c'est plus grave qu'on ne le croit)
+Nowtech
+117 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+31:50
+Pourquoi les Japonais font la guerre aux immigrés ? (la réalité est violente)
+Louis-San
+20 k vues
+•
+il y a 2 heures
+Nouveau
+
+
+21:17
+RAG expliqué simplement : la technique derrière les IA qui marchent
+Projets IA
+8,1 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+21:11
+Je teste les repas de fast-food les plus caloriques du monde
+Gurky
+743 k vues
+•
+il y a 2 mois
+
+
+18:58
+Je teste un buffet à volonté pour TOURISTES au Japon 🇯🇵 (ils m'ont fait une surprise)
+Louis
+451 k vues
+•
+il y a 9 mois
+
+
+22:58
+Je teste les nouveautés étranges de Fast-Food (juin 2026)
+Gurky Le Murky
+384 k vues
+•
+il y a 1 mois
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+298 k vues
+•
+il y a 20 heures
+Nouveau
+
+
+59:34
+Conseils d'entraînement et de rencontres avec Sara Saffari
+Chris Bumstead
+953 k vues
+•
+il y a 1 an
+Doublée automatiquement
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+48 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+24:50
+HARD CORNER ft BOB LENNON: ​Le Retour de Chun-li ! @Bob Lennon
+benzaieTV
+117 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+1:49:35
+J'irai dormir chez vous | Salvador [Spéciale]
+J'irai dormir chez vous
+116 k vues
+•
+il y a 7 jours
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+384 k vues
+•
+il y a 1 mois
+
+
+5:56
+Kimi K3 : Pourquoi cette sortie change la course à l’IA
+Nerdy Kings
+273 vues
+•
+il y a 1 heure
+Nouveau
+
+
+14:48
+Si Je Recommençais Un Business En 2026, Voici Exactement Ce Que Je Ferais
+Max Piccinini
+17 k vues
+•
+il y a 4 mois
+
+
+2:06
+25 juillet - Claude Opus 5 : performances proches de Fable 5 à moitié prix
+The Glaneur
+Aucune vue
+•
+il y a 7 heures
+Nouveau
+
+
+33:20
+Pourquoi ces 12 objets interdits en France 🇫🇷 sont LÉGAUX au Japon ? (il y a une dr*gue)
+Louis-San
+441 k vues
+•
+il y a 3 semaines
+
+3:57
+The Supermen Lovers (feat. Mani Hoffman) · Starlight (Official Video)
+LaTebwaRules et The Supermen Lovers
+62 M de vues
+•
+il y a 14 ans
+
+1:35:25
+LES MARCHÉS VIVENT DANS LE MENSONGE...le retour à la réalité va faire mal !  - Philippe Béchade
+ÉLUCID
+193 k vues
+•
+il y a 3 semaines
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+184 k vues
+•
+il y a 11 jours
+
+17:48
+Brian Johnson : Quand l'obsession de la santé parfaite rend malade
+Naj B Fit
+437 k vues
+•
+il y a 3 jours
+Nouveau
+
+21:22
+L'histoire inquiétante du créateur de Claude
+Sébastien Koubar
+12 k vues
+•
+il y a 6 jours
+Nouveau
+
+24:40
+C'est fini pour Claude : Kimi K3 vient de sortir
+Vision IA
+77 k vues
+•
+il y a 3 jours
+Nouveau
+
+42:05
+Censure des réseaux sociaux : grosse blague ou vraie menace (j’ai lu le texte de loi) ?
+Juste Milieu.
+20 k vues
+•
+il y a 1 jour
+Nouveau
+
+15:15
+Les Agents IA ont définitivement tué le SaaS (Voici la suite)
+Mike Codeur
+16 k vues
+•
+il y a 2 semaines
+
+44:54
+Fin de saison chez Yves Gillen !
+Grandiflora
+25 k vues
+•
+il y a 1 an
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+20 k vues
+•
+il y a 4 jours
+Nouveau
+
+19:22
+L'IA A TENTÉ de TU3R un HUMAIN
+Daniil le Russe
+108 k vues
+•
+il y a 20 heures
+Nouveau
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+941 k vues
+•
+il y a 3 mois
+Doublée
+
+43:20
+Potager et Verger en Agroécologie
+permaculture agroécologie etc...
+185 k vues
+•
+il y a 6 ans
+
+1:27:03
+🎙️TOP 10 des PIRES ministres de la Vème République ! (avec P.Y. Rougeyron) [PCAT !]
+J'suis pas content TV
+283 k vues
+•
+il y a 4 mois
+
+1:14:52
+J'ai infiltré KFC : ce que j'ai découvert est terrifiant
+Food Story
+177 k vues
+•
+il y a 3 semaines
+
+    

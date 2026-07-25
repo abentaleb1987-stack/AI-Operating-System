@@ -1,0 +1,661 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Pourquoi les pros utilisent toujours n8n en 2026 ?
+Shubham SHARMA
+Shubham SHARMA
+310 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+24 juil. 2026
+→ 📺 Ma vidéo sur les agents IA n8n
+   • Créer un agent IA avec n8n — Formation com...  
+
+Remplacer n8n, Make et Zapier par un agent IA, tout le monde le fait — et la plupart du temps, c'est l'erreur qui vous fait cramer des milliers de tokens pour rien. Je vous montre quand rester en automatisation, quand vraiment sortir Claude Code, et comment choisir sans vous faire avoir par la hype.
+
+→ 📅 S'inscrire en liste d'attente de mes workshops privés
+https://sharma.fr/masterclass-privees
+
+→ ✉️ Rejoindre ma newsletter
+https://shubham-sharma.fr/newsletter/
+
+00:00 L'erreur : vouloir tout remplacer par des agents IA
+00:47 Déterministe vs agentique 
+01:46 Mon analogie : Leroy Merlin vs la piscine au 5e étage
+03:21 Quel niveau technique pour chaque outil
+03:58 Mes automatisations (Stripe, quittances de loyer)
+05:15 Débuggable même sans être développeur
+06:17 La stack d'avant vs Claude Code
+08:17 Build vs run, tokens vs abonnement
+09:25 Débutant en vibe coding : le chemin à suivre
+10:06 Quand rester sur n8n / Make, quand sortir Claude Code
+11:04 Les agents IA n8n ≠ Claude Code
+
+Si vous voulez aller plus loin, n'hésitez pas à me suivre sur mes réseaux sociaux. J'y partage quotidiennement des conseils sur l'IA, les agents autonomes et les workflows que j'utilise au quotidien.
+
+MES AUTRES COMPTES:
+🌍  Mon site web - https://www.sharma.fr/
+👨‍💻  Linkedin -   / sharmashubham1  
+📱  TikTok -   / shubhamnocode  
+🐦  Twitter -   / shubham_nocode  
+📸  Instagram -   / shubham_nocode  
+
+Ce que vous allez comprendre dans cette vidéo, c'est qu'une automatisation déterministe (n8n, Make, Zapier) et un workflow agentique (Claude Code, Codex, Cursor) font peut-être « la même chose » en apparence, mais ne se choisissent pas selon la hype — ils se choisissent selon votre niveau technique et votre besoin réel.
+
+On commence par la vraie différence entre l'approche déterministe, où vous prévoyez chaque chemin à l'avance, et l'approche agentique, où vous mettez une entrée et vous « espérez » une sortie. Puis je vous donne mon analogie : construire une automatisation à la main, c'est aller à Leroy Merlin monter sa salle de bain pièce par pièce ; lâcher un agent, c'est demander une piscine au 5e étage — génial jusqu'à la fuite au 4e, où vous naviguez à l'aveugle. Ensuite je vous montre mes propres automatisations qui tournent H24 (donner les accès produits après un paiement Stripe, envoyer mes quittances de loyer) et pourquoi je n'ai PAS dégainé Claude Code pour ça : prévisibilité, monitoring visuel, débuggable même par un non-développeur. On parle aussi du vrai coût — build vs run, tokens vs abonnement — puis du piège de Claude Code qui a l'air « niveau 1 » alors qu'en prod il faut un niveau 5-6 (déployer, monitorer, tenir dans le temps). On termine par la règle simple : quand rester sur n8n/Make (prévisibilité, critique business, services déjà connectés, équipe qui maintient) et quand vraiment sortir Claude Code (app 100 % custom, front + back, déploiement que vous savez gérer). Bref : comparer les deux, c'est déjà se tromper de question.
+Shubham SHARMA analyse la distinction entre l'automatisation traditionnelle déterministe et l'approche agentique. L'exposé explore les différences techniques, les impératifs de maintenance, les modèles de coûts et les contextes d'utilisation appropriés pour concevoir des applications robustes en production.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Shubham SHARMA
+310 k abonnés
+Vidéos
+À propos
+
+Linkedin
+true
+43:02
+Créer un agent IA avec n8n — Formation complète
+de Shubham SHARMA
+8 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Shubham_Sharma
+@Shubham_Sharma
+il y a 2 heures
+Quel sujet aimeriez-vous que je traite dans une prochaine vidéo ?
+
+3
+
+
+
+Répondre
+
+
+2 réponses
+
+@ink-man
+il y a 1 heure
+Merci pour la vidéo
+
+
+
+Répondre
+
+
+@XavierNoCode
+il y a 28 minutes
+Y'a pas grand monde qui a envie d'entendre ce que tu viens de dire m'sieur Shubham 
+En tout cas 100% d'accord, j'ai dis la même chose pendant une masterclass et j'ai reçu des commentaires me disant que c'est devenu inutile d'utiliser Make, n8n etc etc...
+Bref, je pense moi qui m'en étais un peu éloigné que au contraire, c'est carrément le meilleur moment pour recommencer à utiliser des outils No-Code d'autom !
+Merci pour cette vidéo
+
+
+
+Répondre
+
+
+@fmangeant
+il y a 37 minutes
+On peut aussi créer / modifier des workflows dans n8n avec un agent IA type Claude Code, grâce au serveur MCP intégré à n8n (et qui d’ailleurs est considéré comme stable depuis la version 2.31, sortie il y a quelques jours). C’est assez bluffant d’efficacité…
+
+2
+
+
+Répondre
+
+
+@monsieurmyx
+il y a 1 heure (modifié)
+Faut pas oublier les 50k annual de license fees si vous utilisez n8n pour autre chose que son projet perso 
+
+2
+
+
+Répondre
+
+
+@lestat9896
+il y a 22 minutes
+Merci pour la vidéo. Il me semble que tu parles pas des workflow N8N créé par Claude code. C’est peut être le meilleur des 2 mondes non ?
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:000 secondeIl y a un truc qui est en train de se passer en ce moment, c'est que tout le monde veut utiliser des ag partout. À l'époque, c'était NN. Avant ça, il fallait mettre du Notion partout et maintenant c'est clocode code Codex.
+0:088 secondesTout le monde ne jure que par ça. Sauf que selon moi, c'est une erreur. Il y a des choses pour lesquelles des outils comme N1, Zapier, Make sont très bien, d'autres pour lesquelles Codex, Cloud Code, Antigravity sont très adaptés.
+0:1919 secondesMais le problème arrive quand les gens font des choix non pas par besoin mais par hype. Alors c'est vrai que traditionnellement sur cette chaîne, j'ai parlé de beaucoup de zapur make et
+0:2828 secondesqu'aujourd'hui je parle souvent de CL code mais c'est pas la raison pour laquelle il faut absolument utiliser l'un ou l'autre. Aujourd'hui, je vais vous montrer l'erreur que beaucoup font à cramer des milliers de tokens juste
+0:3636 secondesparce que les gens font les mauvais choix et dans quel cas il faut rester dans le monde de l'automatisation traditionnelle pour des process qui sont importants, critiques et qu'on veut surtout pas laisser des agents gérer.
+0:4747 secondesSur les outils comme Zappier, MAC, N8N, on est habitué à une approche déterminée. C'est-à-dire que souvent sur ces logiciels, on peut faire des automatisations du genre si tu reçois un
+0:5656 secondesformulaire, alors tu envoies un email, plus tu l'ajoutes dans notion. C'est ce qu'on a été habitué à faire pour automatiser des process. Ça ça marche très bien. C'est ce qu'on appelle une
+1:051 minute et 5 secondesapproche déterministe. Ça veut dire que on voit exactement ce qui va se passer à l'avance et dans le cas où par exemple il y a aucune branche qui est dispo et
+1:131 minute et 13 secondesbien ça va péter. Ça ne va pas marcher, ça va faire un bug. Ce qui fait qu'on prévoit plus ou moins tout à l'avance et on est certain que notre automatisation une fois mise en place et en production elle va bien fonctionner. De l'autre côté, on a l'approche agentique.
+1:231 minute et 23 secondesL'approche agentique, c'est on met quelque chose en entrée et puis on va peut-être avoir quelque chose en sortie, ce qui fait que c'est pas du tout fait
+1:311 minute et 31 secondespour la même chose. Aujourd'hui, des outils comme Cloud code, Antigravity, Cursor et cetera sont des outils géniaux parce que c'est des outils agentiques qui permettent de coder. Donc, on a
+1:391 minute et 39 secondesl'impression qu'ils vont faire exactement la même chose. Sauf que en réalité, on parle pas de la même chose.
+1:441 minute et 44 secondesOn parle de deux mondes qui sont complètement différents. Bah, pour construire une automatisation, on doit le faire à la main. C'est-à-dire qu'on doit aller regarder chaque ingrédient un par un, regarder sa spécification,
+1:531 minute et 53 secondescomment est-ce qu'il fonctionne, qu'est-ce qui lui manque, qu'est-ce qui est possible, pas possible. Et donc c'est vraiment construire les éléments à la main. Un peu comme si pour construire
+2:002 minutesnotre automatisation et bien on devait aller à le roi Merlin ou euh ou par exemple pour construire une salle de bain et ben il faut regarder qu'est-ce qui est compatible avec quoi c'est long,
+2:082 minutes et 8 secondesc'est chronophage, ça prend du temps et surtout bah on doit se casser la tête un petit peu et c'était un peu la la manière de faire d'avant en fait pour automatiser des choses. Et de l'autre
+2:162 minutes et 16 secondescôté c'est un peu comme si à l'entrée du magasin, on avait quelqu'un à qui on demandait dis-moi, est-ce que c'est possible de construire une piscine au 5e étage ? Il va dire ouais carrément. Et puis lui, il va aller dans son atelier,
+2:252 minutes et 25 secondesil va aller construire tout ça et puis dans un premier temps, on est hyper content parce qu'on a une piscine au 5e étage, mais le jour où il y a une fuite au 4e, on est obligé de rappeler cette personne là. Mais surtout, on a aucune idée ce qui est en train de se passer.
+2:342 minutes et 34 secondesAlors, c'est pas très grave pour des tests, pour les prototypes qu'on est en train de construire, mais quand il s'agit d'application qu'on construit pour notre boîte ou pour certains nos clients, et bien ça peut être compliqué.
+2:442 minutes et 44 secondesJe vous raconte pas le nombre de personnes en ce moment qui sont en train de se lancer dans le monter votre agence IA sans compétences techniques. Parce que ces gens-là, ce qui va se passer,
+2:522 minutes et 52 secondesc'est qu'ils vont déployer des choses pour des boîtes. Ils vont pas mettre en place les bonnes pratiques de comment bien monitorer une application en production et cetera. Et quand ça va
+3:003 minutesbugger, bah ils vont juste essayer de demander à plein d'agents IAE excuse-moi, répare et peut-être que ça va marcher. Et j'espère que ça va fonctionner. Mais sauf qu'on navigue à
+3:083 minutes et 8 secondesl'aveugle. Mais là, vous allez me posé la question Shouam, quand est-ce qu'on va utiliser des outils d'automatisation visuelle comme Zapen vs des outils euh
+3:153 minutes et 15 secondesagentiques type cloud code ? Et bien, la réponse va se situer dans votre niveau technique et dans ce que vous voulez faire. En fait, chaque outil a un niveau
+3:233 minutes et 23 secondesrequis nécessaire. Donc typiquement, on prend Zapier, c'est assez simple à utiliser. N'importe qui je dirais avec un niveau 1 peut l'utiliser. Make c'est niveau 2 3. N8N c'est niveau 4 et 5. Et
+3:323 minutes et 32 secondesle risque avec l'autre code, c'est qu'on a l'impression que c'est un outil de niveau 1. On lui dit des choses, il code pour nous, il fait des choses pour nous et on a l'impression qu'on y arrive.
+3:403 minutes et 40 secondesSauf que le niveau réel en prode et bien il faut plutôt un niveau 5 6. Donc en fait ça va dépendre de votre niveau. Bon maintenant je vais vous montrer quelques petits exemples de l'un ou l'autre pour
+3:483 minutes et 48 secondessavoir quand est-ce qu'il faut utiliser un outil d'automatisation visuelle comme N8N make vs utiliser clot code. En sachant que j'utilise beaucoup les deux et j'ai aujourd'hui toujours des automatisations qui sont actives.
+3:583 minutes et 58 secondesCelle-là cette automatisation est une automatisation qui donne des accès au produits que les gens achètent sur mon site internet. J'utilise d'un côté un
+4:064 minutes et 6 secondesoutil comme Stripe qui permet de recevoir le paiement et de l'autre côté une plateforme sur lequelle mes produits de formation sont hébergés. Cette automatisation permet de faire le pont
+4:144 minutes et 14 secondesentre les deux. Entre quelqu'un vient d'acheter, voici les accès qu' vient de recevoir. Pourquoi ça je l'ai fait en automatisation et j'ai pas dégagé que l'autre code ? Déjà premièrement, c'est
+4:234 minutes et 23 secondesparce que mon besoin était d'automatiser un processus qui était répétable, qui était toujours le même et que j'avais besoin qui tourne sans que je sois là et
+4:314 minutes et 31 secondespas que il y ait un assistant, une assistante qui vient cliquer à chaque fois pour donner accès à des gens de ce qu'ils ont acheté. Donc c'est pour ça que j'ai mis en place une automatisation. Chose qui est très cool,
+4:394 minutes et 39 secondesc'est que je peux voir ce qui s'est passé en réalité. Ça veut dire qu'à chaque fois qu'elle se déclenche, je sais quand est-ce que ça s'est bien passé, mal passé, je peux aller regarder
+4:474 minutes et 47 secondespourquoi ça s'est bien ou mal passé. De la même manière, par exemple, j'ai une automatisation pour envoyer des quittances de loyer. Et bien pareil, cette automatisation, je sais quand
+4:554 minutes et 55 secondesest-ce qu'elle a eu lieu, quand est-ce qu'il y eu un problème et cetera. Ça, je l'ai fait en mode automatisation parce que les outils que je veux connecter sont disponibles. Deuxièmement, j'ai pas
+5:035 minutes et 3 secondesgéré le déploiement moi-même. Je dois pas le mettre en ligne moi-même et cetera. C'està-dire que c'est quelque chose qui tourne même la nuit. J'ai une prévisibilité totale, c'est-à-dire que
+5:115 minutes et 11 secondesc'est déterministe. J'ai moi-même prévu les différents chemins de cette automatisation. Mais surtout, vu que c'est une interface visuelle, et ben c'est beaucoup plus facile à débugger.
+5:215 minutes et 21 secondesEn fait, quoi qu'on dise, le debugging, ça fait partie de la réalité de quelqu'un qui fait du code ou du no code. Et donc ça marche aussi pour quelqu'un qui est non développeur.
+5:295 minutes et 29 secondesDemain, si je fais venir quelqu'un dans mon équipe pour gérer ça, même pour quelqu'un qui est non développeur, et bien il va pouvoir comprendre et changer, modifier cette automatisation.
+5:375 minutes et 37 secondesÇa c'est la raison pour laquelle on utilise des outils comme Niten.
+5:405 minutes et 40 secondesMaintenant des outils comme cloud code, quand est-ce qu'on va les utiliser ? En réalité, on peut refaire la même chose.
+5:445 minutes et 44 secondesOn peut faire exactement la même chose sur Cloud Code. La seule différence, c'est qu'il va falloir le déployer, va falloir le monitorer, donc savoir quand est-ce qu'il fonctionne ou quand est-ce
+5:525 minutes et 52 secondesqu'il y a un bug et surtout va falloir monter en compétence techniquement parlant pour pouvoir débugger dans le cas où ça marche pas. Parce que en réalité, il y a un espèce de piège quand
+6:006 minuteson utilise cloud, on a l'impression que au final ça va, c'est pas très compliqué. Sauf qu'une fois en prod et ben ça commence à devenir un truc très compliqué à maintenir. Et donc c'est la
+6:096 minutes et 9 secondesraison pour laquelle je vous suggère pour des automatisations un peu backend, donc c'est-à-dire qui tourne par elle-même, ne pas le faire sur Cloud Code si vous avez pas le niveau
+6:176 minutes et 17 secondestechnique nécessaire. Mais l'autre truc dont personne parle, c'est que NN, Zapper et cetera, ce sont juste des outils de backend, hein. Si on veut par
+6:246 minutes et 24 secondesexemple créer une interface graphique au-dessus pour pouvoir faire cliquer les gens et cetera, à l'époque, fallait utiliser un outil type webflow pour
+6:336 minutes et 33 secondespouvoir y arriver pour créer ses interfaces. N8N servait un petit peu de backend, mais en plus si on voulait faire une vraie application, fallait la
+6:406 minutes et 40 secondesconnecter à un outil qui s'appelait Airtable qui permettait de gérer la partie donnée. Et donc avec cette stack des trois outils, on arrivait à faire
+6:486 minutes et 48 secondesune application. Là où sur Cloud Code, Cloud Code fait tout. Ettant donné qu'il fait du code, et ben il gère les trois parties en lui-même. Du coup, ça donne
+6:566 minutes et 56 secondesencore plus cette impression que c'est facile parce qu'en fait, on peut aller beaucoup plus loin en fait avec l'autre code. On peut faire beaucoup plus de choses et ça marche bien quand c'est un projet simple. Dès que ça commence à
+7:047 minutes et 4 secondesaller en production, avoir des utilisateurs et des bugs, ça commence à devenir assez compliqué. Parce que faut pas l'oublier, ces deux choses-là font la même chose. Ils ne font que générer
+7:127 minutes et 12 secondesdu code. N8 Zap Your M, ce sont juste des interfaces visuelles qui derrière génère du code. Clot code, c'est des interfaces de chat qui derrière génèrent
+7:217 minutes et 21 secondesdu code. On parle de la même chose, sauf qu'il y en a une qui donne une impression de facilité mais qui se révèle être plutôt compliqué une fois qu'elle est déployée. Donc si je résume,
+7:297 minutes et 29 secondeson a une première manière de faire qui est plutôt manuelle où on va construire les éléments un par un et on a du coup cette deuxième manière qui est agentique
+7:367 minutes et 36 secondesoù l'agent va nous construire une automatisation mais c'est juste qu'on va rien du tout maîtriser. Ça va construire du code et on on ne sait pas exactement
+7:447 minutes et 44 secondesce qui va être fait. on va avoir un peu moins de contrôle et donc certes ça va être un peu magique mais derrière il va y avoir pas mal d'inconvénients à ça. Et ça c'est juste pour la partie
+7:537 minutes et 53 secondesconstruction parce que derrière il faut bien déployer ça pour que ça ça tourne.
+7:567 minutes et 56 secondesL'avantage avec NN Make et cetera, c'est que bah une fois qu'on a construit tout ça et bien les appur N8N Make en fait
+8:048 minutes et 4 secondesgénéralement ont des plateformes pour pour faire en sorte que ça tourne H24.
+8:088 minutes et 8 secondesLà où ce code là qui a été généré par CL, Clode code et cetera et ben va devoir être déployé à la main et donc va va falloir le faire, va falloir savoir
+8:168 minutes et 16 secondesle faire. Bon, parlons maintenant un petit peu argent, comment ça fonctionne un petit peu dans les deux mondes. Donc déjà, il faut distinguer une phase de build, donc de construction qu'on a vu
+8:258 minutes et 25 secondestout à l'heure, et une phase de run, donc ce qui va nous permettre de faire tourner un petit peu nos automatiss. La première chose à comprendre, c'est que c'est pas facturé pareil dans le monde
+8:348 minutes et 34 secondesnos codes et dans le monde je dirais agentique. Dans le monde de nos codes, et bien on va payer un abonnement soit à Make, soit à N, soit on va héberger
+8:428 minutes et 42 secondesnotre N. Mais grossièrement, il y a quand même un truc, c'est que on va payer au run. C'est-à-dire que plus on va faire d'opération, plus ça va nous
+8:498 minutes et 49 secondescoûter cher. Donc grossièrement, la construction nous coûte quasiment rien.
+8:528 minutes et 52 secondesC'est le run, donc le fait que ça tourne qui nous coûte. Là où dans le monde agentique, c'est un petit peu différent.
+8:578 minutes et 57 secondesOn va payer la construction parce qu'on va payer en token. Souvent, on va avoir un abonnement à 20 100 € par mois à Cloud code, Codex et cetera. On aura
+9:069 minutes et 6 secondesconstruit notre solution. Cool. Mais une fois qu'on aura construit, bah va falloir l'héberger. Là du coup, va falloir l'héberger soit sur un VPS avec Doc Ploy ou soit sur des solutions comme
+9:149 minutes et 14 secondesVersel. Mais grossièrement, on va avoir un mode de tarification qui est un petit peu différent. D'un côté, on paye pas la construction mais juste l'hébergement, mais c'est simple. De l'autre côté, on
+9:239 minutes et 23 secondespaye à la fois la construction et à la fois l'hébergement. Bon, maintenant que tout ça est dit, euh qu'est-ce qu'on fait ? Si vous êtes tout nouvel utilisateur, vous avez jamais utilisé
+9:319 minutes et 31 secondesZapor, Make N ou quoi que ce soit et vous arrivez directement sur Cloud Code.
+9:349 minutes et 34 secondesC'est le cas de beaucoup de personnes qui ont découvert le vibe coding comme ça et qui du coup découvre un super pouvoir. Et bien sachez que vous allez avoir un premier effet wow assez
+9:429 minutes et 42 secondesrapidement mais que derrière il va falloir monter en compétence sur ce que c'est qu'une base de données, ce que c'est qu'une API, ce que c'est qu'un webhook, comment fonctionne un front-end, un backend, une queue et
+9:519 minutes et 51 secondescetera. Il y a beaucoup de vidéos sur cette chaîne, n'hésitez pas à vous abonner si jamais vous êtes nouveau, mais il y a une réalité qu'il va falloir monter en compétence techniquement si vous voulez mettre ça en production. Et c'est le chemin que je vous conseille.
+10:0110 minutes et 1 secondeSi vous êtes déjà passé par Zapier Make and Witend, ça va être beaucoup plus facile pour vous mais vous allez devoir aussi monter en compétence. Maintenant, même importe votre niveau de compétence,
+10:0910 minutes et 9 secondesil y a des fois vous allez quand même vouloir utiliser une comme c'est mon cas aujourd'hui. Si il y a d'autres personnes qui maintiennent une automatisation, si vous avez un besoin
+10:1610 minutes et 16 secondesde prévisibilité en prod, donc quelque chose de déterminé, si vous avez pas envie de laisser un agent, euh et bien vous allez utiliser des outils comme Zapper Me. Dès que vous avez besoin de
+10:2410 minutes et 24 secondesconnecter à des services externes existants qui sont déjà connectés sur la plateforme, et bien vaut peut-être mieux utiliser Zapure Make ou Nem plutôt que d'essayer de faire de la magie sur Cloud
+10:3310 minutes et 33 secondesCode ou quoi que ce soit. Si c'est critique pour le business, peut-être que Zapper, make and Wien sont des meilleurs outils que Cloud Code. Après, si vous êtes à l'aise en code, il y a aucun
+10:4010 minutes et 40 secondesproblème. Maintenant, si vous avez une application qui a une logique 100 % custom et vous pouvez gérer le déploiement, c'est que vous savez utiliser des outils comme Docploy Versel
+10:4810 minutes et 48 secondesdesquels on a déjà parlé sur cette chaîne, mais qu'en plus vous avez du front end, du back end, vous avez une app compliquée, et bien faut aller sur Cloud Code. Mais ce ne sont pas les
+10:5710 minutes et 57 secondesmêmes outils. Même si on peut faire des choses similaires avec ces deux outils, c'est pas la même chose. Donc je pense que comparer les deux est selon moi une erreur. Avant de finir cette vidéo,
+11:0511 minutes et 5 secondesj'aimerais faire un petit aparté sur ce tru là, sur les agents IA dans le monde des automatisation type NN. Vous avez certainement déjà vu, d'ailleurs, j'ai
+11:1311 minutes et 13 secondesfait une vidéo là-dessus sur comment s'utilisent les agents I dans Nen. En fait, faut faire attention, c'est pas exactement la même chose que euh les
+11:2111 minutes et 21 secondesagents type cloud code euh ou euh Codex qui sont là pour construire du code. Ici dans N8N, ces agents I c'est pas la même
+11:3111 minutes et 31 secondeschose que ce de CL code parce que ces agents IA, ils sont là pour prendre des décisions, exécuter un prompt pour pouvoir savoir quoi faire avec les
+11:4011 minutes et 40 secondesoutils auxquels ils ont accès. En fait, c'est une méthodologie d'ingénierie qui en fait était très très en vogue l'année dernière, mais qui de plus en plus
+11:4911 minutes et 49 secondesmaintenant avec l'avénement de de tous ces nouveaux d'outils d'agantic engineering qui sont arrivés, les codes, les codex et cetera et ben est de moins en moins utile. Donc faut faire
+11:5711 minutes et 57 secondesattention quand je parle d'agent IA, je parle pas de ces agents IA parce que certes c'est un peu la course chez tout le monde, chez Make et cetera, à qui va
+12:0612 minutes et 6 secondessortir un agent, sauf qu'aujourd'hui maintenant la force qu'on a avec de des solutionsque engineering, bah souvent on
+12:1312 minutes et 13 secondesa moins tendance aujourd'hui à aller vers des solutions comme ça. Merci à vous de regarder cette chaîne. Moi ce que je peux faire c'est juste de vous conseiller de pas vous perdre dans le
+12:2012 minutes et 20 secondesbruit. YouTube c'est génial mais pratiquer c'est mieux et mettre en production c'est encore mieux. C'est là où vous avez les meilleurs insights sur ce qui est bon ou pas bon. Vous avez des
+12:2912 minutes et 29 secondesbugs, mais les bugs, c'est la réalité du terrain. Mettez les mains dans le cambouille. Je vous incite même après cette vidéo à aller tester une des applications que je vous ai cité que vous ne connaissez peut-être pas parce
+12:3812 minutes et 38 secondesque sur YouTube, c'est bien, c'est du Netflix, vous avez l'impression d'apprendre mais la réalité se passe sur votre clavier. N'hésitez pas à vous inscrire au workshop que je fais sur ma
+12:4612 minutes et 46 secondesliste email, c'est en description. Et si vous avez apprécié cette vidéo, n'hésitez pas à la liker ou d'aller regarder cette vidéo qui si par hasard vous êtes pas sur votre ordinateur et
+12:5412 minutes et 54 secondesque vous avez quand même envie de regarder une autre vidéo, je pense que celle-là va vous plaire. Ciao. Ciao.
+
+Tout
+
+Source : Shubham SHARMA
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+21:11
+Je teste toutes les variétés de Magnum
+Gurky Le Murky
+5,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+27 k vues
+•
+il y a 1 heure
+Nouveau
+
+
+41:54
+Connexion JDBC Singleton : pourquoi ça ne fonctionne pas en application web
+CodeEnJava
+3 vues
+•
+il y a 49 minutes
+Nouveau
+
+
+25:54
+La découverte du FBI dans 10 millions de salons
+Underscore_
+976 k vues
+•
+il y a 2 semaines
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+396 k vues
+•
+il y a 5 mois
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 4 semaines
+
+
+18:42
+Douleur à l’épaule : Voici comment s’en débarrasser pour de bon !
+Le Musclay
+48 k vues
+•
+il y a 1 an
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+36 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+26:35
+Jensen Huang: Why companies need open agent systems
+LangChain et 2 autre(s)
+121 k vues
+•
+il y a 2 semaines
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,1 M de vues
+•
+il y a 3 semaines
+
+
+13:50
+Problème musclé #1 | Les asymétries musculaires
+Le Musclay
+324 k vues
+•
+il y a 10 ans
+
+
+2:11:19
+Expert en discipline : L’habitude qui fera ou défera toute votre année 2026 !
+The Diary Of A CEO
+2,8 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+31:20
+J'ai gaspillé des milliers d'euros en compléments
+Bodytime
+16 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+23:02
+5 vérités pour prendre du MUSCLE sans se prendre la tête
+Major Mouvement
+495 k vues
+•
+il y a 1 an
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+75 k vues
+•
+il y a 1 mois
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+104 k vues
+•
+il y a 1 mois
+
+
+1:27:38
+L’expert en sécurité de l’IA : Voici les 5 seuls emplois qui resteront en 2030 - Dr Roman Yampolskiy
+The Diary Of A CEO
+ et The Roman Forum with Roman Yampolskiy
+20 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+56:07
+Crée des workflows n8n SANS CODER, juste en parlant à Claude 🤯
+Dr. Firas
+189 vues
+•
+il y a 8 heures
+Nouveau
+
+
+16:15
+Tu ne NE PROGRESSES PAS à cause de ça ! ( conférence )
+Major Mouvement
+1,2 M de vues
+•
+il y a 3 ans
+
+    

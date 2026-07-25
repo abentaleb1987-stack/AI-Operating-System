@@ -1,0 +1,1096 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Opus 5 ÉCRASE tous les modèles (test en direct)
+Meydeey | Automatisation IA
+Meydeey | Automatisation IA
+31,5 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+24 juil. 2026  FRANCE
+👉 Audit offert (sans engagement) : https://meydeey.com/labo
+
+───
+
+Claude Opus 5 vient de sortir et il coûte deux fois moins cher que Fable 5 pour des performances quasi identiques. Je te montre les benchmarks réels, la démo, et surtout ce que ça change concrètement dans ton setup Claude Code. Regarde avant de renouveler ton abonnement.
+
+───
+
+🎯 AUDIT STRATÉGIQUE OFFERT
+Ton business tourne déjà ? On cartographie ce que l'IA peut automatiser chez toi.
+→ https://meydeey.com/labo/
+
+👥 COMMUNAUTÉ GRATUITE (+4 000 entrepreneurs)
+Le bon point de départ si tu débutes.
+→ https://meydeey.com/communaute
+
+───
+
+▸ CHAPITRES
+
+0:00 Opus 5 débarque
+0:18 Premier sur Frontier-Bench
+1:07 2x mieux, même prix
+1:34 CursorBench : 0,5% d'écart
+2:43 Le tacle à GPT-5.6 Sol
+2:59 ARC-AGI : le score x3
+3:41 Sciences et rendus 3D
+4:45 Il vérifie son travail
+5:50 Alignement : record
+6:37 Ma stack après Opus 5
+7:01 System card : le cyber
+8:28 Prix et mode rapide
+9:00 OpenRouter : 1M de contexte
+9:24 Activer Opus 5 sur Claude Code
+9:47 Test 1 : un PDF de 193 pages
+11:08 Test 2 : un paper Arxiv
+12:11 193 pages en 2 minutes
+12:31 Probabilités : ça marche
+13:12 La boîte noire : c'est moche
+13:35 Un PowerPoint tout seul
+14:26 Le HTML complètement buggé
+15:04 Un format jamais vu
+15:53 Le rendu sur Claude Code
+17:29 Verdict : je quitte Fable 5
+
+───
+
+▸ CAS RÉELS D'ÉLÈVES
+→ Comment Christophe automatise sa gestion de patrimoine :    • Il a créé une APP RENTABLE en moins d'un m...  
+→ Comment Stephano intègre l'IA dans la banque d'affaires :    • Ce banquier de 60 ans a tout compris à l'I...  
+→ Comment Tanguy utilise l'IA pour son e-commerce prévention :    • Ce que PERSONNE ne te dit sur l'argent ave...  
+→ Comment Lionel structure ses projets en tant qu'architecte IA :    • Neuralink, Drones t*eurs, Crédit social :...  
+
+▸ À VOIR AUSSI
+→ J'ai tout quitté pour Claude Code (pivot radical) :    • J'ai tout quitté pour Claude Code (pivot r...  
+→ Claude Code : Tout comprendre en une vidéo (démo incluse) :    • Claude Code : Tout comprendre en une vidéo...  
+
+───
+
+▸ OUTILS MENTIONNÉS (liens affiliés*)
+→ Apify (Scraper comme un pro) : https://www.apify.com?fpr=jo41in
+→ Hostinger (-20% sur VPS, hébergement) : https://www.hostinger.com/fr?REFERRAL...
+→ Kie AI (génération image, vidéo, voix, musique) : https://kie.ai?ref=a673f38b1e0fedf853...
+
+───
+
+▸ ME RETROUVER
+→ LinkedIn :   / medhi-el-ouardouni  
+→ Instagram :   / meydeeyai  
+→ Contact : contact@meydeey.com
+
+*Certains liens sont des liens affiliés. Je touche une commission sans surcoût pour toi. Je ne recommande que les outils que j'utilise au quotidien.
+
+#anthropic 
+#claude 
+#claudecode
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Meydeey | Automatisation IA
+31,5 k abonnés
+Vidéos
+À propos
+Claude : modèles, fonctionnalités et usages
+35
+Claude : modèles, fonctionnalités et usages
+de Meydeey | Automatisation IA
+30 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @meydeey
+@meydeey
+il y a 2 heures
+👉 Audit offert (sans engagement) : https://meydeey.com/labo
+
+
+
+Répondre
+
+
+@ink-man
+il y a 2 heures
+T'es le GOAT je m'attendais pas à une vidéo aujourd'hui 😱
+
+2
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@ink-man
+il y a 2 heures
+La présentation est mind-blowing 
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@thibaud57
+il y a 55 minutes
+Bonne vidéo merci
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@Back-2-Bricks
+il y a 33 minutes
+Merci très bien  je m’abonne
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ByJenaate
+il y a 2 heures
+Tes trop vif! Bien joué 
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Azélie-Santé
+il y a 2 heures
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ink-man
+il y a 2 heures
+Jolie miniature en passant
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@envoiici
+il y a 2 heures
+du coup ça veut dire mep les vendredi chez Anthropic
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@IA-is3pu
+il y a 1 heure
+J’ai tenu 2mn dans cette vidéo. Je vois pas l’intérêt de nous lire le texte du site d’Anthropic.
+
+4
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Voyzix
+il y a 23 minutes
+Tester un modèle que je pourrait pas tester car manque d'argent
+
+
+
+Répondre
+
+
+@BL_Pac
+il y a 2 heures
+Yes merci encore trop hâte de tester
+Le combo GPT et Claude c'est le best depuis longtemps selon moi
+
+Tu les utilises dans le même harnais ? Ou Codex et Claude code séparé
+
+1
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@MiaTanaka-x5w
+il y a 1 heure
+perso je l'ai pas encore alors que je paye 100 euros qui l'a ? et qui sait pourquoi merci je vis en australie
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@yibbou
+il y a 2 heures
+Mais il faut bien qu'ils rassurent en matière de cybersécurité.... Ils ont été bloqués pour cela...
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@sylvain351
+il y a 1 heure
+S'il me pète mon forfait a 200 euros en 1h. Il ira a la poubelle
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Opus 5 débarque
+0:000 secondeOpus 5 vient tout juste de sortir il y a à peine deux heures et on va le découvrir ensemble.
+0:044 secondesPas le temps pour une présentation aujourd'hui, je vais vous lire la page de la sortie, on va essayer d'en extraire les choses les plus importantes à retenir.
+0:1010 secondesDonc, Cloud 5 Opus est disponible dès aujourd'hui, modèle intuitif et performant, offre des performances proches de celles de Cloud Fable 5 pour la moitié du prix.
+Chapitre 2 : Premier sur Frontier-Bench
+0:1818 secondesDonc en matière d'évaluation de codage et de travail intellectuel comme Frontier Bench et GDP Eval, Opus 5 représente la nouvelle référence bien qu'il reste en deçà de Mythos 5 pour les tâches de cybersécurité.
+0:2828 secondesOpus 5 est conçu pour un usage quotidien, il est plus performant que les autres modèles, c'est le nouveau modèle par défaut sur Cloud Max et le modèle le plus puissant sur Cloud Pro.
+0:3737 secondesDonc si on regarde en ce qui concerne le terminal agentique, alors ça paraît fou mais il est au-dessus de Fable 5 et de DeepOne et si on le compare avec 4.8, vraiment c'est la lune et le soleil.
+0:4848 secondesEt ainsi meilleur que GPT 5.6 sol, donc là vous avez vu, ils arrivent avec du lourd, 1861 au top, au-dessus de Fable 5, Opus 4.8 et GPT 5.6 sol.
+0:5757 secondesDonc premier partout, sauf en raisonnement multidisciplinaire, sans aucun outil, donc avec des outils il est au-dessus, donc il est aussi deuxième là, bon bref, vous voyez que ça a l'air d'être une machine de guerre sur le papier.
+Chapitre 3 : 2x mieux, même prix
+1:071 minute et 7 secondesPerformance et rentabilité Donc, il offre des performances nettement améliorées pour le même prix que son prédécesseur, Opus 4.8, les graphiques de cette section
+1:141 minute et 14 secondesmontrent comment les performances évoluent en fonction du niveau d'effort du modèle que les clients peuvent utiliser pour optimiser l'intelligence ou économiser des jetons, donc des tokens, pour des résultats plus rapides et moins coûteux.
+1:231 minute et 23 secondesIl excelle dans les tâches critiques d'ingénierie logicielle, par exemple sur le Frontier Bench, il surpasse tous les autres modèles et double les performances d'Opus 4.8, donc c'est assez exceptionnel, pour un coût par tâche inférieur.
+Chapitre 4 : CursorBench : 0,5% d'écart
+1:341 minute et 34 secondesSur le Cursor Bench, avec un effort maximal, il atteint un score de 0,5% près du score maximal de Fable 5, pour un coût par tâche deux fois moindre.
+1:421 minute et 42 secondesIl offre également de meilleures performances à coût égal que tous les autres modèles, avec des efforts élevés, très élevés et maximaux.
+1:481 minute et 48 secondesDonc je vous annonce, retournement de veste pour tous ceux qui étaient hyper hypés par 4GPT 5.6 SOL, ce n'est pas pour autant qu'il va être déclassifié, mais là, à mon avis,
+1:561 minute et 56 secondesil y en a plein qui vont repasser, donc remettre de l'énergie sur ce modèle-là, qui a l'air extrêmement puissant.
+2:022 minutes et 2 secondesDonc là, vous voyez, plus on tend vers la droite, plus on paye, et plus on tend vers le haut, plus le score est haut.
+2:072 minutes et 7 secondesDonc pour le coding agentique, Opus 5 est en orange, donc là c'est exceptionnel, il est au top, tout en haut, au-dessus de Fable 5.
+2:132 minutes et 13 secondesCursor Bench, donc plus on tend vers la droite, plus ça va nous coûter cher par tâche et plus on monte, plus le score.
+2:182 minutes et 18 secondesDonc là, il est vraiment très collé à Fable 5, mais par contre, ça va coûter beaucoup moins cher. Vous voyez, il s'arrête bien avant.
+2:252 minutes et 25 secondesDonc Fable 5, on va tendre vers des 17-18$, tandis que là, on peut avoir la même chose pour des 8-9$.
+2:302 minutes et 30 secondesEt sur l'agentique coding, par niveau d'effort, donc effort level, on voit que c'est pareil, il est beaucoup moins cher, il s'arrête vers les 8-9$, tandis que Fable 5 va les tendre vers du 12-13$.
+Chapitre 5 : Le tacle à GPT-5.6 Sol
+2:432 minutes et 43 secondesJe ne parle même pas de GPT 5.6 SOL, vous avez vu, c'est assez marrant, je trouve ça même insolent.
+2:472 minutes et 47 secondesRegardez, ils ont mis GPT 5.6 SOL d'une couleur qui est très proche du blanc, comme s'il était éteint.
+2:522 minutes et 52 secondesDonc ça, c'est des nuances assez marrantes, parce que quand il y a trois couleurs vives et une couleur qui est plutôt terne, voire proche du blanc, ça veut dire qu'ils respectent pas.
+Chapitre 6 : ARC-AGI : le score x3
+2:592 minutes et 59 secondesNous observons des résultats similaires pour les tâches intellectuelles et des résolutions de problèmes, par exemple sur l'Arcade GI, une évaluation où le modèle doit résoudre des problèmes inédits.
+3:063 minutes et 6 secondesLe score d'Opus 5 est trois fois supérieur à celui du meilleur modèle.
+3:103 minutes et 10 secondesSur Zapier Automation, bon, déjà rien que le mot Zapier, je suis désolé, je suis obligé de passer à l'autre.
+3:143 minutes et 14 secondesSur OS World, un test de performance informatique, l'Opus 5 surpasse tous les autres modèles à coups égales, dépassant le meilleur résultat.
+3:203 minutes et 20 secondesBon, là, ils le classent beaucoup plus haut concernant le score, moins cher que SOL pour un meilleur score.
+3:253 minutes et 25 secondesVous avez vu, c'est hallucinant quand même, on va attendre des 30-35 alors que là, on est plus en haut. Opus 4.8, on est vers les 2, voire 1. 5.6 SOL, on est à 10.
+3:333 minutes et 33 secondesEt là, ils vont taper du 30-35.
+3:353 minutes et 35 secondesBon, on va pas creuser plus que ça, je vous laisserais aller regarder pour ceux qui veulent, on va dire, se tirer la bourre sur des benchmarks encore une fois.
+Chapitre 7 : Sciences et rendus 3D
+3:413 minutes et 41 secondesDonc, Opus 5 représente une amélioration significative par rapport à Opus 4.8 pour la recherche scientifique.
+3:463 minutes et 46 secondesSes performances sont supérieures à celles d'Opus 4.8 dans le test d'évaluation en science de la vie. Ok, bon, ça, ça ne nous intéresse pas pour la plupart d'entre nous. Pour la biologie structurale, la chimie organique et la bioinformatique.
+3:553 minutes et 55 secondesLes améliorations sont particulièrement notables pour les tâches de chimie. Bon, ça, c'est ok. Enfin, Opus 5 est capable de produire des résultats visuels beaucoup plus puissants.
+4:034 minutes et 3 secondesAlors, ça donne quoi ? Donc là, il y a un A7. Ils ont fait un A7, ok, donc là, il y a un véhicule en 3D. D'accord. Donc, on peut faire espace, pause, vous voyez, reset le flow.
+4:124 minutes et 12 secondesD'accord. Move body. Ah ouais, on peut bouger, dire. Ah oui, d'accord, ok. Ah ouais. Caméra. Ok. Et le vent. Ok, d'accord. C'est run espace pour pouvoir activer du vent.
+4:214 minutes et 21 secondesBon, ça, c'est marrant. Donc, ça, c'est Opus 5 qui a produit ça. C'est ce qu'on nous dit. Et un artefact cellulaire. Allez, on va le regarder, lui. Ah oui, d'accord.
+4:294 minutes et 29 secondesAlors là, c'est quand même assez complexe et ça fait carrément bugger mon Mac. Bon, il y a beaucoup d'informations.
+4:354 minutes et 35 secondesC'est pas notre cœur de métier, mais on voit qu'il y a quand même pas mal d'éléments représentés en 3D. Encore une fois, il va falloir le tester.
+4:404 minutes et 40 secondesJe ne pense pas que vous allez rentabiliser un artefact cellulaire pour la plupart d'entre vous. Continuons. En collaboration avec Claude, Opus 5.
+Chapitre 8 : Il vérifie son travail
+4:474 minutes et 47 secondesDonc, il excelle dans la vérification de son travail et l'itération rigoureuse.
+4:514 minutes et 51 secondesDonc, ça, c'est cool parce que je commence à en avoir marre de GPT 5.6 qui tourne en rond pendant huit heures pour rien, jusqu'à l'obtention d'un résultat escompté, d'accord,
+4:584 minutes et 58 secondesdans le cadre d'une tâche Frontier Bench, Opus 5 a reçu un dessin d'une pièce mécanique et a été invité à écrire du code pour le reconstruire. Bon, ça, ok.
+5:055 minutes et 5 secondesFace à un véritable bug dans un gestionnaire de paquets open source populaire, Opus 5 a identifié la cause première et a corrigé, ok.
+5:125 minutes et 12 secondesUn ingénieur d'une société de trading a utilisé Opus 5 pour générer un flux de données de marché pour une nouvelle bourse en une seule session, donc en moins d'un million de tokens.
+5:205 minutes et 20 secondesOk, les modèles précédents étaient incapables d'accomplir cette tâche, même avec des plans détaillés fournis par l'ingénieur. Pote de flux réel pour la validation.
+5:275 minutes et 27 secondesOpus 5 a même développé son propre environnement de test afin de vérifier que son code analysé correctement les données de la bourse.
+5:335 minutes et 33 secondesBon, ça a l'air intéressant parce qu'effectivement, sur certaines tâches par exemple, je l'ai poussé dans, j'ai poussé 4.8 avant, Fable 5 dans ses retranchements, GPT 5.6, j'ai combiné les deux.
+5:435 minutes et 43 secondesPeut-être que Opus 5 va enfin réussir à débuguer des choses et à corriger et à sécuriser des apps. Vous voyez ce que j'avais un plafond de verre, on va voir ça.
+Chapitre 9 : Alignement : record
+5:505 minutes et 50 secondesÇa, c'est intéressant, c'est l'alignement de sécurité donc. Très simple, plus on tend vers le bas, moins il y a des désalignements.
+5:565 minutes et 56 secondesDonc, c'est-à-dire qu'il va mieux respecter la constitution de Claude, il va moins se porter avec de la tromperie, avec de la manipulation, etc.
+6:046 minutes et 4 secondesDonc, c'est assez marrant de voir que même Mythos 5, 2.80, là, il tombe à 2.30.
+6:086 minutes et 8 secondesJe vous l'avais dit, quand ils vont arriver avec leur prochain modèle, je crois même dans une vidéo, j'ai dit Opus 5, vous allez voir qu'il y aura un retournement de veste assez rapide.
+6:166 minutes et 16 secondesÇa veut dire que là, je vois déjà la chose arriver, peut-être que je me trompe, je dis ça à chaud.
+6:196 minutes et 19 secondesOn va tous repasser sur Opus 5 pour 80% de l'intégration dans notre configuration, dans notre stack technique.
+6:256 minutes et 25 secondesEt nous allons peut-être continuer à utiliser Codex par antifragilité pour éviter d'avoir tout dans le même laboratoire, pour le travail, tout ce qui est mécanique, tout ce qui est
+6:336 minutes et 33 secondesrépétitif, tout ce qui est bouclé, mais qui a été orchestré par Opus 5, avec un niveau d'intelligence comme ça.
+Chapitre 10 : Ma stack après Opus 5
+6:376 minutes et 37 secondesDonc, au niveau de la sécurité, Opus 5 ne représente pas une avancée majeure en matière de capacité à double usage et risque, des évaluations rigoureuses menées en collaboration
+6:456 minutes et 45 secondesavec des partenaires des secteurs publics et privés ont révélé qu'ils demeurent inférieurs à Mythos 5, tant en recherche biologique qu'en cybersécurité offensive.
+6:536 minutes et 53 secondesAlors là, c'est marrant parce qu'ils ne parlent que de l'offensive. Vous trouverez de plus amples informations sur ces évaluations dans notre fiche système. On va aller regarder un petit peu ça.
+Chapitre 11 : System card : le cyber
+7:017 minutes et 1 secondeIls ont fait un PDF. OK, système card Cloud Opus 5.
+7:047 minutes et 4 secondesBon, alors, il est assez costaud, il va passer dans Cloud 5, je vais le faire passer tout à l'heure dans Opus 5. Il y a pas mal de tests. Bon, ça, ça se regarde à tête froide.
+7:117 minutes et 11 secondesComme pour son prédécesseur, Opus 4.8, nous avons délibérément évité d'entraîner Opus 5 sur otage de cybersécurité.
+7:187 minutes et 18 secondesLe modèle a néanmoins considérablement progressé dans ce domaine grâce à une plus grande polyvalence et ses performances en matière de détection des vulnérabilités de cybersécurité sont désormais proches de celles de Mythos 5.
+7:297 minutes et 29 secondesOK, cependant, il reste nettement en deçà de Mythos 5 concernant l'exploitation de ces vulnérabilités, comme ils l'ont dit, offensives.
+7:367 minutes et 36 secondesCeci est illustré par les performances d'Opus 5 sur OSS Fusion.
+7:397 minutes et 39 secondesOK, donc, là, c'est un benchmark où ils ont, soit disant, trouvé des vulnérabilités dans du code open source.
+7:447 minutes et 44 secondesAh ouais, Mythos 5, il a 80, Opus 5, il a 79,4, donc c'est pas tant que ça, c'est 0,6 points, c'est pas énorme. Par contre, Opus 4.8, il était à la ramasse.
+7:527 minutes et 52 secondesDonc, pour ceux qui utilisaient Opus 4.8 pour économiser du token au lieu de Fable 5 pour pouvoir faire leur cybersécurité, attention. Allez, on a presque fini.
+8:008 minutesC'est rare que je fasse une vidéo où je lis comme ça mécaniquement, mais là, c'est, pour une fois, on va lire l'officiel, ce qu'on nous dit. Comme ça, on pourra bien le tester après.
+8:078 minutes et 7 secondesDonc, les mécanismes de protection de cloud Opus 5 sont conçus pour permettre des utilisations bénéfiques du modèle de cybersécurité en biologie. Ils parlent quand même beaucoup de la cybersécurité, on a l'impression que c'est un modèle cyber.
+8:168 minutes et 16 secondesIls sont similaires à ceux appliqués à Opus 4.8, à l'exception de quelques gardefous renforcés, sur un nombre restreint de tâches cybernétiques. Encore une fois, cybersécurité, il commence à me gaver de parler de cyber.
+8:268 minutes et 26 secondesOn a compris que c'était vraiment bon en cyber. Bon, il est disponible pour tel prix, bon ça, on va regarder ça ailleurs. Il est proposé aussi en mode rapide, vous allez voir, il y a une nouveauté.
+Chapitre 12 : Prix et mode rapide
+8:348 minutes et 34 secondesDonc, il est également proposé en mode rapide où il fonctionne environ 2,5 fois plus vite que la vitesse par défaut, pour ceux qui ont un budget illimité.
+8:418 minutes et 41 secondesComme pour Opus 4.8, le mode rapide est disponible au double du prix de sa base d'Opus 5. Parallèlement à Opus 5, nous publions deux mises à jour version bêta.
+8:508 minutes et 50 secondesDonc, modification des outils en cours de conversation, donc ça, il faut qu'ils se dépêchent parce qu'ils sont à la ramasse à côté de ce qu'a sorti Codex pour pouvoir développer du projet.
+8:598 minutes et 59 secondesRecours automatique, bon, ok.
+Chapitre 13 : OpenRouter : 1M de contexte
+9:009 minutesDonc là, directement sur Open Router, premier réflexe, on vient regarder les fenêtres de contexte token ainsi que les modèles derniers, donc on voit bien qu'il y a Opus 5 Fast, donc le modèle rapide qui nous ont annoncé plus le normal, 1 million pour les deux.
+9:129 minutes et 12 secondesDonc, le Fast, vous avez vu, il est quand même à 60 dollars input-output token au total, tandis que le normal, il est à 30. Donc, le prix est x2.
+9:209 minutes et 20 secondesPersonnellement, je ne vais jamais utiliser le Fast, je n'ai pas du tout besoin d'aller beaucoup plus vite.
+Chapitre 14 : Activer Opus 5 sur Claude Code
+9:249 minutes et 24 secondesIl est directement disponible sur Cloud Code, pour l'activer, slash, quite, vous quittez et vous relancez, alors soit un Cloud Update, mais j'imagine que pour ceux qui sont plus
+9:339 minutes et 33 secondestechniques, vous avez déjà mis en place la mise à jour automatique, donc là, moi, ça a déjà été fait.
+9:379 minutes et 37 secondesUne fois que vous avez l'update, si vous avez l'update automatique, vous lancez, voilà, un petit slash modèle tranquillement et qui vous permet de venir choisir.
+9:459 minutes et 45 secondesDonc là, on voit que le modèle par défaut, Opus 5. Donc, on va directement le tester sur ce document.
+Chapitre 15 : Test 1 : un PDF de 193 pages
+9:509 minutes et 50 secondesVous allez voir, je ne vais pas faire un test petit, je vais prendre ce PDF qui fait exactement 193 pages, je ne suis pas là pour rigoler, et on va l'envoyer directement.
+9:589 minutes et 58 secondesDonc, ça va être très simple, on va lui dire, explique-moi en profondeur ce PDF, donc là, je vais venir lui donner, voilà, je le fais glisser en créant un html-wizard.
+10:0810 minutes et 8 secondesEt je lui mets design.laboya, comme ça, il va utiliser mon design system pour du coup avoir, alors peut-être pas, vous savez quoi ? Parce que sinon, je vais le brider.
+10:1710 minutes et 17 secondesJe n'ai pas envie de le brider.
+10:1810 minutes et 18 secondesModern, donc design moderne, je ne vais même pas lui dire plus que ça, modern, il va choisir les couleurs et je vais lui donner du coup une négation, ne pas utiliser le design system, le laboya.
+10:2910 minutes et 29 secondesPourquoi je dis ça ? Parce que je n'ai pas envie qu'il utilise le design system, sinon il va être déjà bridé avec des composants spécifiques et on ne va pas avoir du coup, si vous voulez, sa part d'aléatoire, sa part en fait nature, sa part naturelle.
+10:3810 minutes et 38 secondesDonc, je suis bien entendu en x-high, donc en mode défaut x-high, puis on va le faire tourner comme ça, on va voir ce que ça va donner. Pas plus que ça, je ne lance pas d'ultra-pink, il va tourner comme ça.
+10:4610 minutes et 46 secondesIl est bien entendu disponible aussi sur cloud.ai pour ceux qui l'utilisent toujours, je pense que vous êtes de moins en moins à utiliser ça, donc là, vous voyez, créer des présentations
+10:5410 minutes et 54 secondessoignées et des rapports à partir d'un brief sommaire, il va falloir le tester parce que je vous assure que je pense qu'on va avoir des sacrés résultats.
+11:0011 minutesTravailler sur des analyses de données complexes et des modèles financiers, explorer des documents denses et obtener un résultat prêt à l'emploi, ça tombe bien, on l'a lancé sur cloud.code. Allez, on va le tester.
+Chapitre 16 : Test 2 : un paper Arxiv
+11:0811 minutes et 8 secondesBon, je ne vais pas être là pour être gentil avec lui, on va directement aller sur Arxiv, on va récupérer le dernier paper aléatoirement comme ça en PDF sur l'intelligence artificielle, le dernier paper scientifique.
+11:1811 minutes et 18 secondesOk, on va voir un petit peu comment il est constitué.
+11:2011 minutes et 20 secondesOuais, il y a des visuels, il y a du texte, c'est assez condensé, il y a de la formule mathématique, oui. Ouais, parfait, là, il y a de la formule. Allez, on va lui donner ça.
+11:2611 minutes et 26 secondesJe vais tout simplement lui dire, crée une présentation pour m'expliquer ce PDF qui m'est trop complexe.
+11:3211 minutes et 32 secondesDonc là, vous avez vu, je reste en effort élevé par défaut, je ne passe pas en extra, hop, on envoie ça. Et ensuite, on va du coup lui faire une deuxième présentation.
+11:4211 minutes et 42 secondesCrée une présentation interactive pour comprendre comment fonctionnent les probabilités. Et je vais mettre une négation, voilà, ne pas utiliser le design system, le labo IA.
+11:5311 minutes et 53 secondesJe suis obligé de lui donner cette négation, voilà. Et on va aussi lui demander autre chose, présentation interactive d'une boîte noire LLM.
+12:0112 minutes et 1 secondeAllez, c'est parti.
+12:0212 minutes et 2 secondesOuais, parce qu'il y en a qui m'ont dit, tu ne testes pas les modèles, tu en parles, etc. Ok, on va le tester. Mais je ne le teste pas sur des petits trucs, ça ne marche pas, ça ne marche pas. Ce sera... Ouais, je vous le dirai.
+12:1012 minutes et 10 secondesAh, vous allez le voir. Alors là, du coup, il a lu sur CloudCode toutes les 193 pages. Il a pris deux minutes pour lire 193 pages. Il a été très chaud.
+Chapitre 17 : 193 pages en 2 minutes
+12:1712 minutes et 17 secondesAlors, ce qui est marrant, c'est que je lui ai demandé de faire une présentation, mais je l'ai interactive, mais je ne l'ai pas précisé HTML. Donc tant mieux, comme ça, on va voir comment il va interpréter.
+12:2412 minutes et 24 secondesMoi, j'aime bien qu'il me le fasse en HTML, voilà, qu'il me le crée dans l'artefact, que je puisse l'ouvrir. Mais là, j'ai l'impression qu'il va le faire différemment. On va voir.
+Chapitre 18 : Probabilités : ça marche
+12:3112 minutes et 31 secondesOk, on a un premier résultat pour, du coup, comprendre comment fonctionnent les probabilités. Donc là, on a, du coup, la possibilité de déplacer la chance de pile.
+12:4012 minutes et 40 secondesOn fait un lancé, donc là, 100% de probabilité. On fait 10 lancés, ok. On peut déplacer ce curseur, ouais.
+12:4812 minutes et 48 secondes100 lancés, 1000 lancés, réinitialisés, ok. Bon, là, c'est pas mal. Et si on a 2D ? Ouais, donc là, ça nous permet de voir. On fait 1000G, d'accord.
+12:5612 minutes et 56 secondesPour apprendre les maths, c'est quand même fou avec l'IA. Les conditionnels indépendants, ouais, ça a l'air de fonctionner. Enfin, ça a l'air, non, ça fonctionne. Simuler 1000 parties.
+13:0313 minutes et 3 secondesOuais, à chaque fois qu'on va lancer, forcément, ça va changer. Ok. Et puis, il nous fait l'explication. Bon, nickel. Je vais lui demander de le transformer en HTML. Ici, c'est pareil.
+Chapitre 19 : La boîte noire : c'est moche
+13:1213 minutes et 12 secondesAlors là, du coup, il m'a expliqué la boîte noire, comment fonctionne une boîte noire. Exemple. Sauf que j'ai même pas le temps. En fait, c'est moche. C'est moche. C'est nul.
+13:2013 minutes et 20 secondesC'est bien, c'est interactif. Mais il peut le rendre encore mieux, plus interactif en HTML. Alors là, c'est marrant. C'est rare qu'il me fasse ça. Il est en train de faire des JPG, des images.
+13:2813 minutes et 28 secondesQuand je clique dessus, forcément, c'est censé les afficher. D'habitude, il me fait ça en HTML. Vous avez vu, créer une présentation, il l'a interprétée différemment. Comme c'est un PDF qui est costaud.
+Chapitre 20 : Un PowerPoint tout seul
+13:3713 minutes et 37 secondesOula, ça a l'air pas mal, ça. Déjà, il a l'air d'avoir une bonne composition. Bon, on ne va pas se spoiler. Mais là, ça a l'air d'être une très bonne présentation. Là, je vois juste un écart entre traduction.
+13:4613 minutes et 46 secondesÇa, il faut faire attention. Ok. Donc, il a terminé. Là, il me dit, Claude fonctionne directement dans PowerPoint. Donc, si je veux, c'est un PPTX, en fait, qu'il a créé. Je pense que c'est l'aperçu qui bugait.
+13:5513 minutes et 55 secondesDonc, après, PowerPoint, ça, c'est du grand classique. On va l'étirer. Ok, détecté. Ça a l'air bien structuré. Il y a une bonne composition.
+14:0314 minutes et 3 secondesVous avez vu, vous avez besoin de préparer une présentation. En plus, il y a même des effets de contraste où ça change les couleurs. Nickel. Pas de texte déplacé, pas de couleurs bizarres.
+14:1214 minutes et 12 secondesOn ne sait pas ce qu'elle vient de faire là. Ça, c'est très rare que 4.8 nous sorte quelque chose. Puis, utiliser Fable 5 pour faire ça, c'est quand même absurde.
+14:1914 minutes et 19 secondesDonc, pour le même prix de 4.8, c'est vraiment cool. Pour expliquer, par exemple, un Papers. Bon, ça, je suis content. C'est du très bon résultat. Ensuite, maintenant, il nous explique les probabilités.
+Chapitre 21 : Le HTML complètement buggé
+14:2814 minutes et 28 secondesDonc, il a fait une interface. D'accord. Probabilité HTML. Alors, comment on utilise ? Chance de pile. Bon, ça a l'air complètement buggé.
+14:3614 minutes et 36 secondesIl y a un espèce de petit bonhomme là. Ah, ça y est, il fallait rafraîchir. Ok. Donc, chance de pile. Ah oui, non, c'est buggé, effectivement. Ok.
+14:4314 minutes et 43 secondesLà, vous voyez, il est apparu et quand je bouge, le curseur est complètement buggé. Bon, je vais le laisser. Je ne vais pas le couper au montage. Ok. Bon, en plus, l'arrière-plan est dégueulasse.
+14:5214 minutes et 52 secondesIls ont fait un effet quadrillage avec du texte. On n'arrive pas à lire le texte. Bon, ça, c'est vraiment nul ce qu'il a fait. On ne va pas se mentir. En plus, la logique, elle est assez simple derrière pour les probabilités.
+15:0215 minutes et 2 secondesOpus 4.8, normalement, n'aurait pas foiré ça. Et ici, c'est l'explication de la boîte noire. Alors, qu'est-ce qu'il nous a fait ? Déjà, ça, je n'avais jamais vu ça.
+Chapitre 22 : Un format jamais vu
+15:1015 minutes et 10 secondesUne présentation de cette manière où à gauche, il va directement afficher les slides. Donc, ce qu'on observe, traduite en espagnol. Ok, 10 puissance, 12 paramètres.
+15:1815 minutes et 18 secondesEt dès qu'on fait suivant, vous avez vu, il passe à la prochaine étape. Alors, ça, c'est tout nouveau. Enfin, en tout cas, je n'avais jamais vu ça naturellement. Voilà, il vous explique directement.
+15:2715 minutes et 27 secondesPlongement, attention. Ah ouais, là, c'est bien représenté. Souvent, ça arrive quand il fait des présentations comme ça. Naturellement, il va prendre un trait. On ne sait pas pourquoi il va aller toucher en haut à gauche comme ça.
+15:3715 minutes et 37 secondesRien à voir. Mais là, ça a l'air bien. Ça a l'air vraiment bien. Ok. On peut montrer les couches. Ouais, c'est dynamique.
+15:4515 minutes et 45 secondesFranchement, étonnant. Enfin, en plus, 4.8 déprécié. Enfin, il n'est pas déprécié. Mais si on peut s'en passer, ça m'arrange parce qu'il commence à devenir obsolète. Bon, c'est cool.
+Chapitre 23 : Le rendu sur Claude Code
+15:5315 minutes et 53 secondesAu niveau de Cloud Code, il vient tout juste... Il a pris combien de temps ? Il a pris, on va dire, 15-20 minutes pour nous pondre le HTML. Il vient juste de le sortir.
+16:0116 minutes et 1 secondeDonc, sur Cloud Code, avec les instructions que j'ai, avec ma configuration, il va nous faire un rendu HTML qui sera bien meilleur que ce qu'on a pu avoir sur Cloud AI. Ça, c'est sûr.
+16:0916 minutes et 9 secondesDonc, on va attendre. Il est en train de tourner. Normalement, il doit faire une revue si jamais il y a des bugs ou quoi que ce soit. Là, je peux vous assurer que la première chose à faire, c'est tous les projets.
+16:1716 minutes et 17 secondesAudit. Réparation. Vérification s'il n'y a pas des bugs. En plus, j'ai des bugs. J'atteins beaucoup de plafonds de verre dans pas mal de projets. Et dès qu'un nouveau modèle sort, c'est tout l'objectif.
+16:2616 minutes et 26 secondesD'aller atteindre le plafond de verre de ce nouveau modèle. OK. Donc, il nous a fait vraiment quelque chose de complet. Une vraie interface. Wizard.
+16:3416 minutes et 34 secondesDonc, étape 1, le point de départ. Il y a du texte. C'est bien structuré. Il nous a mis des petits effets en arrière-plan. Pas mal. Là, on peut...
+16:4116 minutes et 41 secondesOn peut voir sur la partie droite, Glossaire. Ça, c'est magnifique. On peut passer en mode light mode. Alors là, le contraste du texte, ça ne va pas.
+16:4916 minutes et 49 secondesC'est juste un petit détail. On va rester comme ça. Donc, il nous explique bien. Est-ce qu'on peut faire suivant ? Oui. Comment le modèle a été fabriqué et testé ?
+16:5716 minutes et 57 secondesJ'ai rarement vu une présentation comme ça. Là, au niveau du design, c'est vraiment très propre. Bien structuré. Ce ne sont pas toujours les mêmes patterns. Il n'y a pas que du texte ou que des blocs. OK.
+17:0517 minutes et 5 secondesLe cadre des risques catastrophiques. Là, il explique bien. Je ne vais pas tout lire. Ce n'est pas l'objectif. J'ai même pas lu le papier en entier. Ah oui, là, c'est vraiment pas mal.
+17:1417 minutes et 14 secondesJe pense qu'il y a une drastique amélioration au niveau design. Je pète mon serment. Vous allez voir, je ne sais pas combien de vidéos. Des mecs qui vont faire des animations exceptionnelles.
+17:2117 minutes et 21 secondesOpus 5, meilleur que Fable 5, meilleur que GPT 5.6, KimiK3, etc. C'est un sans faute pour cette présentation de Cloud Code.
+Chapitre 24 : Verdict : je quitte Fable 5
+17:2917 minutes et 29 secondesC'est une vidéo qui est quand même à chaud. Je n'ai même pas eu le temps de le tester. Là, je vous le dis. Je ne vais pas vous mentir. Je n'ai pas passé 8 heures dessus parce qu'il est sorti il y a 2 heures. Ce n'est pas possible.
+17:3617 minutes et 36 secondesLà, ce qui va se passer, c'est audit de tous les projets en production. Et puis, on se retrouve dans quelques jours, voire quelques semaines pour voir qu'en est-il.
+17:4417 minutes et 44 secondesEt tant mieux parce que moi, j'ai envie de dégager Fable 5. Il coûte trop cher. Il bouffe trop de tokens. On va mettre Opus 5.
+17:4917 minutes et 49 secondesEt ce qu'on a pu voir ici concernant les benchmarks agentiques, eh bien, il va nous coûter moins cher. Et il va atteindre un score plus haut. Enfin, avant. Il va nous coûter beaucoup moins cher et beaucoup moins de temps.
+17:5817 minutes et 58 secondesDonc, je suis très content. C'est un modèle que j'aime beaucoup. Cloud remonte dans les tours. C'est parfait. Et puis, n'hésite pas à me dire en commentaire ce que tu en penses. Surtout si tu ne l'as pas testé.
+18:0718 minutes et 7 secondesÇa vaut plus le coup si tu me dis ce que tu en penses si tu ne l'as pas testé. Comme ça, on est à fond dans l'irrationalité. Bref, c'était Mayday. On se dit à très vite. C'est très rare qu'il y ait 2 vidéos la même journée. Mais là, je n'avais pas le choix.
+18:1518 minutes et 15 secondesC'est Opus 5.
+18:1618 minutes et 16 secondesEt si tu veux intégrer ces modèles, ces systèmes, apprendre à maîtriser Cloud Code, Codex, les solutions agentiques, les Harness, faire du multi-IA, premier lien dans la description et premier commentaire épinglé.
+18:2518 minutes et 25 secondesOui, même si tu es débutant, tu peux intégrer ça dans ta boîte. On se dit à très vite. C'était Mayday. Ciao.
+
+Tout
+
+Regardées
+
+4:18
+Opus 5 Just Dropped and Its Numbers Are Legit INSANE
+Chase AI
+38 k vues
+•
+il y a 5 heures
+Nouveau
+
+
+22:44
+Arrondir le dos : dangereux ou pas ?
+Le Musclay
+140 k vues
+•
+il y a 3 ans
+
+
+1:57
+J'ai demandé à l'IA de me faire gagner 100€ en 24h — voici ce qui s'est passé
+StickCash
+9 vues
+•
+il y a 8 jours
+
+
+17:25
+Histoire d'une saison horrible au potager ► Pourquoi & comment mieux réussir pour la suite ?
+Le potager d'Olivier
+164 k vues
+•
+il y a 2 semaines
+
+
+14:43
+7 CONSEILS qui m’ont aidé à avoir des GROS PECTORAUX
+Nassim Sahili
+776 k vues
+•
+il y a 2 ans
+
+
+10:53
+Claude Opus 5 just did the impossible...
+Alex Finn
+7,5 k vues
+•
+il y a 3 heures
+Nouveau
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+167 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+21:47
+KIMI K3...Mais comment ils ont fait ?
+DevArt
+19 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+25:27
+J’analyse des TikTok sur la santé (avec Gilbert de @Charlesco)
+Nassim Sahili
+ et Charles.co
+505 k vues
+•
+il y a 1 an
+
+
+2:58:21
+🎙️JUAN BRANCO : son programme en détail ! [PAS CONTENT AVEC TABIBIAN !]
+J'suis pas content TV
+182 k vues
+•
+il y a 11 jours
+
+
+41:20
+Hermes Agent — Guide complet 2026
+Shubham SHARMA
+56 k vues
+•
+il y a 4 semaines
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+42 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+709 k vues
+•
+il y a 2 mois
+
+
+31:20
+J'ai gaspillé des milliers d'euros en compléments
+Bodytime
+16 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+678 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+22:12
+JE ME SUIS TROMPÉ sur ces 6 SUJETS (en musculation)
+Nassim Sahili
+538 k vues
+•
+il y a 2 ans
+
+
+Anatoly is fantastic .  #shorts #anatoly #usa #gym #anatolypranks
+2,5 M de vues
+
+
+Mr. Olympia Samson Dauda Made Larry Wheels Look Small #larrywheels #samsondauda
+1,6 M de vues
+
+
+Pourquoi TIBO INSHAPE ne progresse PLUS ?! 🤔😱 #sport #muscu #bodybuilder #sports #tiboinshape
+303 k vues
+
+Le GAGNANT du MR. OLYMPIA 1983 m'apprend sa POSE !🏆 #bodybuilding #muscle
+424 k vues
+
+Elite Powerlifter Pretended to be a CLEANER , GYM PRANK #funny #trolllife #prank
+5,5 M de vues
+
+When Love Walks Closer, Fear Steps Back🐾💫#dogs #doglove #humananimalbond #heartwarming #wholesome
+2,4 M de vues
+
+
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+21 k vues
+•
+il y a 13 heures
+Nouveau
+
+
+2:24:14
+Expert du sommeil : Ne pas uriner la nuit et pourquoi le sexe nocturne est mauvais
+The Diary Of A CEO
+ et Sleep Doctor
+10 M de vues
+•
+il y a 5 mois
+Doublée
+
+
+7:13
+L'Incliné pour les pectoraux = CONTRE-PRODUCTIF
+Le Musclay
+474 k vues
+•
+il y a 6 ans
+
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+106 k vues
+•
+il y a 1 mois
+
+
+6:47
+L'ultime savoir annihiler ses biceps
+Le Musclay
+261 k vues
+•
+il y a 7 ans
+
+22:51
+ACHETER UN PC GAMING 5 ÉTOILES TEMU…
+FrenchHardware
+345 k vues
+•
+il y a 2 mois
+
+20:15
+Comment Avoir une PRÉSENCE MAGNÉTIQUE et S'Imposer Partout | Jim Rohn
+Mentalité de la Réussite
+272 vues
+•
+il y a 3 jours
+Nouveau
+
+25:54
+La découverte du FBI dans 10 millions de salons
+Underscore_
+982 k vues
+•
+il y a 2 semaines
+
+22:42
+Claude vs Codex : tout le monde se trompe (preuves)
+Meydeey | Automatisation IA
+703 vues
+•
+il y a 7 heures
+Nouveau
+
+4:22
+PP405 : la NOUVELLE molécule qui rend la GREFFE OBSOLÈTE
+Hair Mentor
+12 k vues
+•
+il y a 2 semaines
+
+7:21
+L’ENTRAINEMENT de MC JEAN GABIN en STREET WORKOUT ! [ANALYSE]
+French Trainer Abroad
+496 k vues
+•
+il y a 3 ans
+
+21:07
+ACHETER un pc gamer AMAZON avec ZÉRO AVIS !
+FrenchHardware
+323 k vues
+•
+il y a 1 an
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+381 k vues
+•
+il y a 1 mois
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+317 k vues
+•
+il y a 3 mois
+
+Les secrets d'un budget de 7 millions $/mois
+99 vues
+
+L'homme le plus fort de France
+564 k vues
+
+Mon pote va exploser de joie 💀 #samsulek #shorts #shortsfeed
+1,7 M de vues
+
+Cats being cats 🤣🤣 #funny #catvideos #catshorts #cat
+1,8 M de vues
+
+French people in Germany  🥰🇩🇪🇫🇷
+14 M de vues
+
+Sports Women Aura 🔥9
+1,5 M de vues
+
+
+14:55
+Le général JUGE un VRAI restaurant français
+LeMondeDeChoi
+211 k vues
+•
+il y a 2 ans
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+396 k vues
+•
+il y a 5 mois
+
+10:47
+Il goûte LA RACLETTE et LA TARTIFLETTE (en Haute-Savoie)
+LeMondeDeChoi
+520 k vues
+•
+il y a 1 an
+
+21:17
+RAG expliqué simplement : la technique derrière les IA qui marchent
+Projets IA
+6,6 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+17:05
+Qwen 3.8 Max : Alibaba vient-il de rattraper Claude ? (+ Test)
+Nerdy Kings
+5,9 k vues
+•
+il y a 1 jour
+Nouveau
+
+32:25
+LE PLUS GROS MACHO DE FRANCE !!
+Tibo InShape
+1,8 M de vues
+•
+il y a 1 an
+
+20:30
+Comment analyser la concurrence sur Facebook Ads (extrait J7 Académie)
+No Pay No Play
+485 vues
+•
+il y a 1 an
+
+15:53
+I Spent $400 Benching Opus-5. Here's What It Can Do
+Nick Saraev
+11 k vues
+•
+il y a 4 heures
+Nouveau
+
+33:20
+Pourquoi ces 12 objets interdits en France 🇫🇷 sont LÉGAUX au Japon ? (il y a une dr*gue)
+Louis-San
+439 k vues
+•
+il y a 2 semaines
+
+23:02
+5 vérités pour prendre du MUSCLE sans se prendre la tête
+Major Mouvement
+495 k vues
+•
+il y a 1 an
+
+    
