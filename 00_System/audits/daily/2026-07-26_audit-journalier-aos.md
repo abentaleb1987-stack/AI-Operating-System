@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : f56cab5
+- Commit audite : 8f6da53
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-26 03:58:59
+- Rapport genere le : 2026-07-26 09:46:50
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,8 +25,8 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `8f6da53` - 2026-07-26 03:59:00 +0000 - Audit - docs(aos): add daily audit report
 - `f56cab5` - 2026-07-25 17:16:41 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `dad09f6` - 2026-07-25 09:21:59 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -44,11 +44,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `dad09f6` - 2026-07-25 09:21:59 +0000 - docs(aos): add daily audit report
+- `8f6da53` - 2026-07-26 03:59:00 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `dad09f6` - 2026-07-25 09:21:59 +0000 - Audit - docs(aos): add daily audit report
+- `8f6da53` - 2026-07-26 03:59:00 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -63,6 +63,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-07-26_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-24_youtube_barthelemy-nobili_seedream-5-image-generation-watch_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-24_youtube_barthelemy-nobili_suno-duration-feature-limit_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-24_youtube_melvynx_multiagent-development-worktrees-review_transcript.txt
@@ -84,7 +85,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-07-25_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
