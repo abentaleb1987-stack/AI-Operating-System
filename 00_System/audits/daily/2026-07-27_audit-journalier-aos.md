@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 81a08a9
+- Commit audite : b15c8ce
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-07-27 04:05:32
+- Rapport genere le : 2026-07-27 10:56:58
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,7 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `81a08a9` - 2026-07-26 09:46:50 +0000 - Audit - docs(aos): add daily audit report
+- `b15c8ce` - 2026-07-27 04:05:32 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -43,11 +43,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `81a08a9` - 2026-07-26 09:46:50 +0000 - docs(aos): add daily audit report
+- `b15c8ce` - 2026-07-27 04:05:32 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `81a08a9` - 2026-07-26 09:46:50 +0000 - Audit - docs(aos): add daily audit report
+- `b15c8ce` - 2026-07-27 04:05:32 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -62,11 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-07-27_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-07-26_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
