@@ -1,0 +1,538 @@
+
+
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Tout le monde parle de Hermes Agent, personne ne comprend ce que c'est
+Dr. Firas
+Dr. Firas
+38,9 k abonnés
+
+Rejoindre
+
+
+2
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+31 juil. 2026  #HermesAgent
+🔗 Hermes WebUI (code : GOHERMES) : https://www.hostg.xyz/SHJTs
+🔗 Accès à mes 36 formations (coupon : FIRAS30) : https://dr-firas.vip
+
+Tout le monde parle de Hermes Agent, mais peu de personnes comprennent réellement ce qu’il fait et pourquoi cet agent IA suscite autant d’intérêt.
+
+Dans cette vidéo, je vous propose une présentation complète de Hermes Agent, bien au-delà d’un simple chatbot. Vous allez découvrir comment l’installer facilement, comment fonctionnent ses modèles d’intelligence artificielle, ses compétences, sa mémoire, sa personnalité et ses automatisations.
+
+Nous verrons également comment Hermes peut exécuter des tâches planifiées, utiliser des Skills, se connecter à des outils externes grâce aux MCP et conserver les informations importantes entre plusieurs conversations.
+
+À la fin de cette vidéo, vous comprendrez clairement :
+
+✅ Ce qu’est réellement Hermes Agent
+✅ Pourquoi Hermes n’est pas un simple chatbot
+✅ Comment installer Hermes en un seul clic
+✅ Comment choisir le modèle IA qui alimente l’agent
+✅ Comment fonctionnent les Skills et les outils
+✅ Comment automatiser des tâches avec la planification
+✅ À quoi servent les serveurs MCP
+✅ Comment utiliser la mémoire et personnaliser Hermes
+
+Cette vidéo est idéale pour les débutants qui souhaitent découvrir les agents IA autonomes, mais aussi pour les utilisateurs avancés qui cherchent une alternative open source aux assistants IA traditionnels.
+
+⏱ SOMMAIRE :
+
+00:00 - Introduction : Hermes n’est pas un simple chatbot
+00:54 - Installer Hermes facilement en un seul clic
+04:58 - Les modèles IA : le cerveau qui alimente Hermes
+09:11 - Les Skills : les compétences qui rendent Hermes puissant
+12:56 - Les tâches planifiées : automatiser Hermes dans le temps
+15:44 - Les MCP : connecter Hermes à des outils externes
+18:48 - Mémoire et personnalité : personnaliser l’expérience Hermes
+23:32 - Télécharger mes 36 formations avec ce code exclusif
+
+#HermesAgent
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Dr. Firas
+38,9 k abonnés
+Vidéos
+À propos
+
+LinkedIn
+Hermes WebUI Docker VPS
+Hermes WebUI Docker VPS
+Hermes WebUI Docker VPS
+true
+25:54
+Arrête de payer ChatGPT ou Claude : Ollama lance Hermes + kimi 2.6 gratuitement 🔥
+de Dr. Firas
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction : Hermes n’est pas un simple chatbot
+0:000 secondeBonjour à tous, j'espère que vous allez bien. Alors aujourd'hui, je viens avec une nouvelle vidéo sur Hermes. Alors vous savez aujourd'hui, il y a plusieurs personnes qui installent Hermes et ils
+0:088 secondesvont se trouver voilà devant une interface donc un petit peu difficile à comprendre pour les débutants. Et la plupart des vidéos qui sont sur internet aujourd'hui sont faites par des experts.
+0:1818 secondesEt quelque part ceux qui les consultent, qui les suivent, ils ont un minimum de connaissance soit en informatique, soit
+0:2626 secondesà l'automatisation, soit aux manipulations des agents. Alors aujourd'hui, je me suis dit tiens, on va faire une vidéo là. On va expliquer
+0:3333 secondesexactement en fait les concepts donc qui composent donc Hermes. On va vraiment comprendre qu'est-ce que c'est les compétences, les outils, la mémoire,
+0:4343 secondestout ce qui est provider, tout ce qui est déclencheur. On va les comprendre petit à petit. On va l'installer, on va les manipuler, on va les comprendre et comme ça tu peux démarrer ton expérience
+0:5252 secondesavec Hermes en toute sécurité. Alors c'est parti. Alors là ici pour utiliser Airs, on a deux façons. Soit on
+Chapitre 2 : Installer Hermes facilement en un seul clic
+0:5959 secondesl'installe sur la machine locale sur notre ordinateur, soit on l'utilise sur un VPS. Mais attention, sur la machine
+1:061 minute et 6 secondeslequel on a deux problèmes. Premier problème, c'est que si je ferme l'ordinateur, l'agent arrête de travailler. Et surtout
+1:141 minute et 14 secondeslorsqu'on travaille avec Hermes, on va le programmer à faire des tâches planifiées, à exécuter, à faire voilà des exécutions. Genre il reçoit un
+1:211 minute et 21 secondesemail, il doit l'exécuter, il doit préparer une réponse et tout. Mais si je faire mon ordinateur, il va pas travailler. Et deuxième chose qui est très importante, c'est le côté sécurité.
+1:311 minute et 31 secondesLorsque j'installe Hermes sur ma machine, n'oubliez pas que Hermes, c'est un agent qui va avoir accès à tout votre
+1:381 minute et 38 secondesdisque dur. Donc, il peut voir les photos, les vidéos. Et si jamais un jour tu auras un ce qu'on appelle un prom injection, ça veut dire que tu
+1:461 minute et 46 secondestélécharges voilà un skills, une compétence, tu l'utilise et à l'intérieur il y a un petit virus qui se cache derrière, il peut avoir accès à
+1:531 minute et 53 secondestes mot de passes, à tes photos, à tes vidéos. Donc du coup du coup nous on essaie de dire toujours il fallait pas travailler sur Hermes version desktop.
+2:032 minutes et 3 secondesAlors la solution c'est quoi ? Est-ce que vous prenez un VPS et vous installez Hermes, vous pouvez choisir n'importe quel VPS sur internet, il y en a
+2:102 minutes et 10 secondesplusieurs. Alors, personnellement, j'utilise celui de de Hostinger vu que d'abord le prix, il est très très intéressant. Regardez là ici, hein,
+2:182 minutes et 18 secondesc'est à 5,49 € par mois le serveur et en plus de ça, j'ai 30 jours he pour tester. Donc du coup, c'est largement
+2:262 minutes et 26 secondessuffisant pour tester, pour travailler, pour apprendre Hermes. En plus de ça, ici sur Hostinger, on a une version qui s'appelle Hermes web UI. Ça c'est une version, c'est celle que moi j'utilise.
+2:382 minutes et 38 secondesC'est une version un peu plus améliorée que celle de Hermes classique. Donc derrière c'est bien Hermes qui tourne bien sûr, mais c'est une interface user
+2:462 minutes et 46 secondesfriendly facile à utiliser. C'est une interface qui me permet voilà de voir mieux en fait les paramètres, de bien en fait voilà toucher à aux différents
+2:542 minutes et 54 secondessystèmes et c'est une interface gratuite disponible sur donc Hermes à partir de ce lienlà. Donc sur Hostinger,
+3:023 minutes et 2 secondesd'ailleurs, je vais vous laisser euh le lien dans la description ou même ici en fait que vous pouvez accéder à cette page. Vous prenez voilà le serveur qui
+3:093 minutes et 9 secondesvous intéresse. Par exemple, je peux prendre le cavier par exemple et à l'intérieur ici, je peux choisir la période soit 12 mois, soit 24 mois. Bon,
+3:183 minutes et 18 secondesplus que vous prenez le nombre de moi, plus que c'est moins cher. Et il y a un coupon qui a été mis sur le site, donc le blog officiel de de Rasting ici. En
+3:273 minutes et 27 secondesfait, si vous allez taper go Hermes, voilà comme ça. J'espère qu'il est toujours valable. On va le tester.
+3:343 minutes et 34 secondesAttention, avant d'appliquer, il fallait se déconnecter de votre compte Hostinger parce que si tu as déjà un compte Hostinger, le coupon ne va pas marcher
+3:433 minutes et 43 secondesparce que c'est uniquement pour les personnes qui achètent pour la première fois Hostinger. Alors l'astuce que je fais, moi je me déconnecte, après
+3:503 minutes et 50 secondesj'applique en fait le coupon et là je crée en fait voilà mon compte Hostinger avec une nouvelle adresse email. Donc du coup ça passe et je gagne en fait les 10
+3:593 minutes et 59 secondes% donc de réduction. Voilà, une fois qu'on a donc cette notre serveur, vous allez vous trouver directement vers
+4:074 minutes et 7 secondesvotre voilà backoffice. Ici le backoffice, il me permet, ça c'est un plus en fait si tu cliques ici sur ou
+4:154 minutes et 15 secondessur ce bouton là, il va te permettre de pouvoir télécharger gratuitement 1000 applications. Là, voilà, 1000
+4:234 minutes et 23 secondesapplications, 107 exactement. Donc là, même si je tape Hermes, je peux trouver plusieurs interfaces d'MS que je peux le mettre en place. Et en plus de ça, en
+4:314 minutes et 31 secondesfait, on a la possibilité de d'installer plusieurs outils que moi j'utilise souvent en fait qui vont m'aider en fait à améliorer Hermes. Ça c'est par la
+4:394 minutes et 39 secondessuite hein, si tu veux vraiment améliorer ton installation, tu auras la possibilité ici d'ajouter beaucoup d'applications comme moi ici par
+4:464 minutes et 46 secondesexemple, j'ajoute NN toujours sur le même serveur et c'est gratuit. Donc là, une fois que vous faites la l'installation de Hermes, on peut passer
+4:544 minutes et 54 secondesen fait pour étudier ensemble l'interface de Herm et comprendre le fonctionnement. Alors, première chose qu'il faut comprendre que Hermes, en
+Chapitre 3 : Les modèles IA : le cerveau qui alimente Hermes
+5:015 minutes et 1 secondefait, c'est comme le corps, il a besoin d'un cerveau. Et pour que RMS puisse fonctionner, on a quelque chose ici, je vais vous le montrer dans les paramètres
+5:105 minutes et 10 secondesqu'on appelle ça les provider. Et tout simplement, c'est ici qu'on va mettre le modèle avec lequel le système il va tourner ou fonctionner. Alors, je
+5:185 minutes et 18 secondesregarde ce schéma là pour que vous comprenez. Donc, il a une mémoire, il a des outils, il a des tâches planifiées, il a des connecteurs, hein, on peut
+5:275 minutes et 27 secondesl'appeler avec Telegram, avec WhatsApp, mais ce qui est très important, il faut avoir un LLM installé à l'intérieur.
+5:335 minutes et 33 secondesC'est comme le cerveau. Donc du coup, généralement, si on lui donne un modèle comme Open Ei, comme Cloud, il en a
+5:415 minutes et 41 secondesénormément d'autres modèles à part ces deux-là, ils sont les plus connus. Alors si je reviens ici dans mon provider, vous allez voir que là ici je peux
+5:505 minutes et 50 secondesmettre une clé de Enropique comme je peux mettre une clé de Open AI. Alors si je vais aller sur Google, vous tapez
+5:575 minutes et 57 secondesjuste Open AI plateforme et là vous pouvez créer votre clé. C'est la clé qui va donner en fait la force à ce système
+6:046 minutes et 4 secondeslà pour fonctionner. Voilà, tu cliques ici sur créer API et tu cliques là pour que tu crées une clé. il va te donner en
+6:116 minutes et 11 secondesfait un code que tu vas l'insérer tout simplement ici en fait sur cloud. Voilà, vous mettez ici votre clé. La même chose
+6:196 minutes et 19 secondesau niveau Open Ei, il a une plateforme lui aussi. Donc tu cliques là, tu accèdes à la plateforme et tu as là la possibilité en fait de créer en fait
+6:286 minutes et 28 secondesvotre clé. Donc lorsque tu cliques là, bien évidemment, tu cliques sur créer une clé et là il va tu donnes un nom, il
+6:366 minutes et 36 secondesva te donner en fait la clé. Alors cette clé là bien évidemment tu dois tout simplement l'insérer ici surique. Bien sûr tous les clés en fait ils s'empillantent avec la consommation.
+6:466 minutes et 46 secondesDonc tu tu alimentes ça avec 5 ou 10 dollars pour que voilà tu consommes. Il y a d'autres façons. Par exemple là moi
+6:526 minutes et 52 secondesj'ai pu connecter Kimi en fait 2.7. Celui-là c'est un open source. Donc si tu entres sur le site de
+7:007 minutesHama, tu cliques ici sur le modèle, vous allez voir qu'il y a plusieurs modèles open source gratuit. Donc ce sont des
+7:077 minutes et 7 secondesmodèles qui sont connus, qui sont très très puissants. Alors si je prends par exemple, je peux prendre celui-là, le
+7:147 minutes et 14 secondesGLM 5.2 par exemple, tu vas voir ici, il est presque comme celui de Enhropic Openia. Donc au niveau de benchmark, il
+7:217 minutes et 21 secondesest très très proche. La seule différence, c'est que celui-là en fait, voilà, tu payes pas la consommation, donc tu le connectes. Il y en a ceux qui
+7:287 minutes et 28 secondesqui demandent un compte pro, mais ça reste toujours très raisonnable hein. Tu payes 20 dollars par mois et tu as un système en illimité. Ça c'est vraiment
+7:367 minutes et 36 secondestrès intéressant parce que avec Cloud hein la la facture monte très rapidement et même chose avec Open Ei, ça veut dire que si tu vas beaucoup travailler avec
+7:447 minutes et 44 secondesHermes, ça peut demander en fait un compte pro sur la main et celui-là, il vous donne accès à tous ces modèles là.
+7:517 minutes et 51 secondesBon, je travaille énormément avec ce modèle, je vais vous le montrer de 2.7.
+7:557 minutes et 55 secondesCelui-là, il est très très bien. Il est extraordinaire. Regardez, il y a un plutôt ça c'est euh 1 ter milliard de
+8:058 minutes et 5 secondesparamètres. C'est énorme. Ça veut dire 1000 milliards de paramètres. Donc c'est un CSM ultra ultra puissant. Regardez là, il a été téléchargé par presque
+8:148 minutes et 14 secondes200000 personnes et la dernière mise à jour, ça fait un mois. Donc c'est très récent. Elle est adaptée en fait sur Armes. Et moi je bosse énormément avec
+8:228 minutes et 22 secondesça. Regardez si je vais aller dans les chats ici je vais le trouver. Alors si tu veux paramétrer au lama, je peux vous laisser ici une vidéo là où je montre
+8:318 minutes et 31 secondescomment paramétrer au lama. Mais si tu veux juste démarrer et prendre la main avec Hermes et et voilà et faire vos premiers en fait opération, faites tout
+8:408 minutes et 40 secondessimplement la connexion avec Open Ei parce que c'est le moins cher aujourd'hui sur le marché celui-là.
+8:448 minutes et 44 secondesVoilà, vous prenez une clé, vous faites tourner euh au 4 mini par exemple parce qu'il y a plusieurs modèles openi. Et tu peux prendre voilà celui-là GPT 4 mini.
+8:558 minutes et 55 secondesEn fait, celui-là, il est très très bien, il est très rapide, pas coûteux du tout et il peut faire la plupart en fait des tâches. Et voilà, donc ça c'est la
+9:039 minutes et 3 secondespartie donc du du cerveau du LLM qui est très importante. C'est la première chose qui de do faire lorsque tu installes
+Chapitre 4 : Les Skills : les compétences qui rendent Hermes puissant
+9:119 minutes et 11 secondesHermes. Alors maintenant, je fais parti sur la ce qu'on appelle les compétences.
+9:179 minutes et 17 secondesAlors les compétences c'est quoi ? Vous savez que Hermes lorsque tu vas lui demander en fait d'exécuter une tâche, il peut l'exécuter mais il va apprendre
+9:249 minutes et 24 secondesen même temps. Alors là parfois il va donner des réponses par exemple qui sont pas correctes. La compétence c'est tout simplement c'est comme si moi je vais
+9:339 minutes et 33 secondesrecruter un employé mais que cet employé là dans son CV là il explique que voilà il a une certaine année d'expérience sur
+9:419 minutes et 41 secondespar exemple le TI XL. Donc pour lui il a la compétence XL. Hermes c'est la même chose. Les compétences, on peut les
+9:499 minutes et 49 secondescharger sur Hermes. C'est exactement comme le film Matrix. Vous rappelez que lorsque Neo il a dit "Je connais pas le Confo." Alors, il téléchargé dans son
+9:579 minutes et 57 secondescerveau le Confo. C'est comme si une petite application et après quelques secondes, il a dit "Je maîtrise le Confo." C'est exactement ça. Comment on
+10:0510 minutes et 5 secondesinstalle en fait ces ces compétences là ? Regardez par exemple là moi j'ai installé les compétences sur un logiciel qui s'appelle Nen bah tout simplement je
+10:1310 minutes et 13 secondesviens ici je lui donne l'URL de cette compétence là sur internet et lui il l'installe. Je vous montre un exemple.
+10:2010 minutes et 20 secondesJe viens là je tape NN skills et j'ai mis Github parce que la plupart des compétences ils sont open source mais faire très attention. Parfois, on peut
+10:2810 minutes et 28 secondestrouver en fait des sites qui sont pas officiels. Il faut éviter d'installer n'importe quelle compulence parce que elle peut contenir peut-être un prjection, peut-être qu'elle peut
+10:3610 minutes et 36 secondescontenir quelque chose qui va détourner en fait votre agent. Attention. Donc là, je prends pas le premier lien parce qu'il n'est pas l'officiel. Le deuxième, c'est celui-là en fait de la société NM.
+10:4610 minutes et 46 secondesÇa, celui-là, c'est officiel et je l'ai vu en fait sur leur page LinkedIn officiel qui ont partagé ça. Et donc voilà. Alors cette compétence là, c'est
+10:5410 minutes et 54 secondesvrai, elle était orientée beaucoup plus vers Cloud, mais vous inquiétez pas, lorsque je prends juste cette URL là et
+11:0111 minutes et 1 secondeje viens à Hermes, euh alors voilà, ici je lui dis euh est-ce que est-ce que tu connais euh cette compétence ?
+11:1311 minutes et 13 secondesEt là, je mets le lien, tu vois ? Alors, il devrait la connaître, hein, parce que je l'ai déjà installé mais généralement, s'il la connaît pas, je lui dis "OK, on
+11:2111 minutes et 21 secondesinstalle." Voilà, il lui dit oui, j'ai le dépôt public. Donc là, il le connaît contrairement au Qué de ce dépôt là. Les qui sont disponibles dans environnement
+11:2811 minutes et 28 secondesHermes ? Donc pour moi, je l'ai déjà dans mon environnement Hermes. Donc tout va bien. Il connaît toutes les informations dedans. Et donc du coup,
+11:3611 minutes et 36 secondesc'est très important d'installer les compétences parce que grâce aux compétences, votre outil herm va être très puissant. Aujourd'hui, on peut installer tous les compétences, hein. Et
+11:4511 minutes et 45 secondesparfois, s'il y a des compétences spécifiques à ton entreprise, à bas là, c'est tout simplement, tu donnes des informations donc à votre hermestre, vous faites toute une discussion avec
+11:5411 minutes et 54 secondeslui, vous lui chargez des documents, des PDF, des liens et tout et à la fin tu lui dis fais-moi crée-moi une compétence
+12:0112 minutes et 1 secondeque je veux que je l'installe ici et à chaque fois que je veux que tu exécutes une tâche, tu t'appuies sur ces compétences là que je viens de te l'apprendre ou bien te les partager. Et
+12:1012 minutes et 10 secondesça lui il va créer une compétence, il va l'installer et je peux même he venir ici cliquer. Voilà, on va cliquer sur plus là et je peux donner un nom à cette
+12:1912 minutes et 19 secondescompétence là, la catégorie et là j'ai mets un contenu en fait qui va lui le mettre dans un fichier qui s'appelle skill.md [raclement de gorge]
+12:2712 minutes et 27 secondespardon. Il a plupart du temps, je peux lui demander en fait de me rédiger en fait ce document là si moi je lui donne plusieurs informations et comme ça donc
+12:3412 minutes et 34 secondesj'aurai donc ma compétence créée comme vous voyez là. Ça c'est un exemple de compétence hein. Donc il connaît les fonctions, il connaît la fusabilité et
+12:4212 minutes et 42 secondesce pour cela lorsqu'il aura besoin de cette compétence là déjà elle s'appelle comment la compétence ? C'est celle-là systématique web application. Donc voilàon c'est dans un domaine
+12:5112 minutes et 51 secondesspécifique. Donc du coup il a tous les compétences nécessaires pour répondre à votre question. Alors ici je vais vous montrer en fait ce qu'on appelle les
+Chapitre 5 : Les tâches planifiées : automatiser Hermes dans le temps
+13:0013 minutestâches planifiées. Donc c'est une option très intéressante, très importante.
+13:0413 minutes et 4 secondesAlors les tâches, je c'est quoi tâche planifier ? que tout simplement RMS doit faire des travaux, doit exécuter des tâches. Voilà, par exemple quand tu dors
+13:1213 minutes et 12 secondesou bien quand il a un déclencheur où tu lui dis écoutez si tu reçois un email de la part de telle entreprise ou bien d'un
+13:2113 minutes et 21 secondesclient, je veux que tu prépares un devis, tu me l'envoies, je le confirme et tu valides. Donc il peut faire le calcul, il peut faire la préparation de
+13:2813 minutes et 28 secondesénormément de tâches. Donc du coup, il fallait tout simplement cliquer sur plus, je peux donner le nom et là je donne le print. Et là ici, voilà. tu lui
+13:3613 minutes et 36 secondesdis ça s'exécute quand ? Donc là, tu donnes un petit peu en fait quand est-ce que ça va être exécuté. Et bien évidemment là, tu vas donner tout
+13:4513 minutes et 45 secondessimplement quel est le modèle en fait qui va l'utiliser. Donc généralement, moi j'utilise le même modèle qui est le Kimi, en fait celui de Hama. Mais si tu
+13:5213 minutes et 52 secondesveux le l'exécuter avec Cloud Fabel 5 ou bien modèle, vous êtes libre de faire la sélection. Alors, je je vous donne un exemple là. Prends celui-là en fait.
+14:0114 minutes et 1 secondecelui bon je les mets en pause. Alors celui-là chaque jour à 9h, donc il m'envoie tout simplement une veille
+14:0914 minutes et 9 secondesconquérentielle pour me donner les dernières actualités en intelligence artificielle dans les 24 dernières heures. Et donc du coup, je lui donne
+14:1614 minutes et 16 secondesdes sujets et m'envoie en fait ces informations là tous les jours en fait je les reçois sur mon télégram
+14:2714 minutes et 27 secondesles trindes. Et là c'est un petit peu en fait il fait en fait exécuter un workflow NUTN que j'ai créé qui s'appelle Fund Prospect from domain.
+14:3814 minutes et 38 secondesDonc je lui donne voilà un domaine et une ville et lui en fait il va chercher en fait les prospects. Donc c'est un
+14:4514 minutes et 45 secondesworkflow N que lui il a créé pour moi et ce workflow là en fait il me permet en fait de faire une sélection parce que l'intérieur de workflow et fait appel
+14:5314 minutes et 53 secondesaussi à d'autres outils comme happifile et tout. Donc ce qui est très intéressant sur les tâches planifiées, c'est ça ce qu'il fait un petit peu la
+14:5914 minutes et 59 secondesforce de Hermes et vous pouvez bien sûr ne pas juste aller manuellement le faire. Tu peux ici venir lancer une
+15:0715 minutes et 7 secondesdiscussion. Voilà, tu ouvres ici, tu lances euh tu ouvres une nouvelle session, tu lances une nouvelle discussion et tu lui dis voilà, je veux faire la prospection, bien je veux faire que tu contrôles tel ou tel outil.
+15:1815 minutes et 18 secondesQu'est-ce que je dois vous fournir comme élément pour que tu puisses exécuter ces tâches-là tous les jours ? Ou bien s'il y a un déclencheur, s'il y a quelque chose qui ça arrive, toi tu l'exécutes.
+15:2915 minutes et 29 secondesEt à ce moment-là, bien évidemment, lui, il va te guider. il va te dire "OK, j'ai besoin de ça, j'ai besoin de cet API, j'ai besoin de tel accès." Et à ce
+15:3615 minutes et 36 secondesmoment-là, tu lui donnes les informations nécessaires et c'est à lui qui exécute. Et c'est là qu'on a donc la tâche planifiée qui est une étape très
+Chapitre 6 : Les MCP : connecter Hermes à des outils externes
+15:4415 minutes et 44 secondesimportante sur Hermes. Alors, il y a une question souvent posée. Comment Hermes, il arrive en fait à se connecter à des logiciels, à des outils ? Est-ce qu'on lui donne un login à mot de passe ?
+15:5515 minutes et 55 secondesEst-ce qu'on lui donne un accès par exemple à notre boîte email ? Alors, la réponse est non. On lui donne pas notre login mot de passe. Aujourd'hui, Hermes
+16:0316 minutes et 3 secondespeut se connecter à la plupart des outils aujourd'hui qui existent sur internet avec ce qu'on appelle le MCP.
+16:1016 minutes et 10 secondesJe vous montre là si je tape MCP Nend par exemple et euh voilà. Donc je gitub comme
+16:1816 minutes et 18 secondestoujours. Toujours il faut vérifier d'aller tout simplement en fait à la partie en fait officielle. On
+16:2616 minutes et 26 secondescherchera sonup. On mettra juste un petit PN, on cherchera la documentation en fait officielle, c'est très
+16:3416 minutes et 34 secondesimportant. Et là, voilà. Alors, MCP c'est quoi ? Bah, tout simplement c'est un protocole qui permet de se connecter
+16:4316 minutes et 43 secondesà des outils sans qu'on leur donne en fait le login de mot de passe. Et aujourd'hui, toutes les applications, il ce qu'on appelle ce MCP là. Et pour
+16:5116 minutes et 51 secondesinstaller le MCP, bah regardez là, le il te montre un chacotier en fait, il a quelque part un espace de MCP et ici
+16:5916 minutes et 59 secondesdonc il te montre voilà comment tu fais et d'une manière générale, tu as pas besoin en fait de suivre toutes ces informations là, tu copies le lien, tu
+17:0617 minutes et 6 secondesviens sur Arames et tu lui dis "Tu peux m'aider par exemple là à installer
+17:1417 minutes et 14 secondesce MCP, mon objectif
+17:2117 minutes et 21 secondeset que tu as la main sur mon instance NN1.
+17:3117 minutes et 31 secondesAlors le MCP aujourd'hui c'est un protocole qui se qui qui col en fait entre deux logiciels pour qu'ils
+17:3917 minutes et 39 secondespuissent se communiquer. Aujourd'hui c'est un petit peu l'outil le plus reconnu en fait au monde et la plupart des outils l'utilisent et Hermes c'est
+17:4717 minutes et 47 secondesjustement ça en fait. et les fait en fait avec il comprend très bien le MCP.
+17:5217 minutes et 52 secondesDonc du coup c'est très facile de lui que donner en fait un accès à MCP.
+17:5717 minutes et 57 secondesSi ton outil n'a pas MCP, ça veut dire le ton outil n'est pas connu. Mais si on regarde les outils qui sont voilà les plus solides aujourd'hui sur le marché,
+18:0518 minutes et 5 secondesles produits Google, les produits Microsoft, les outils hein, donc il y a à peu près plus que 100000 en fait logiciel reconnus qui a son propre MCP.
+18:1518 minutes et 15 secondesEt voilà, donc là il peut charger.
+18:1718 minutes et 17 secondesVoilà, regardez là, il est en train de réfléchir et il regarde l'état et voilà, il me dit "Ton serveur MCPNEL
+18:2518 minutes et 25 secondessemble déjà référencé parce que moi je l'ai fait hein." [rires] Donc du coup, mais ce qui est très intéressant, regardez, il te tout te
+18:3218 minutes et 32 secondestout simplement t'aider étape par étape pour faire cette configuration là. Et c'est pour cela qu'il faut vraiment bien comprendre pour que Hermes prend la main
+18:4118 minutes et 41 secondessur un logiciel, on n' pas besoin de lui donner un login de mot de passe mais on a besoin de lui donner le MCP un accès MCP. Alors maintenant je vais parler de
+Chapitre 7 : Mémoire et personnalité : personnaliser l’expérience Hermes
+18:4918 minutes et 49 secondesla mémoire. Alors vous savez que la mémoire c'est la chose la plus importante sur Hermes et c'est ce qu'il a rendu Hermes un outil très puissant.
+18:5618 minutes et 56 secondesC'est pour cela que les gens utilisent Hermes beaucoup plus que Cloud, beaucoup plus que Chat GPT. Pourquoi ? Parce que Hermes en fait, il n'oublie jamais sa
+19:0419 minutes et 4 secondesmémoire, elle est forte. Et la mémoire en fait à chaque fois que vous travaillez avec Hermes, vous posez des questions, vous faites des sessions, il
+19:1219 minutes et 12 secondesenregistre dans la mémoire et même si tu ouvres une nouvelle session, il se rappelle et il n'a pas limite comme
+19:1919 minutes et 19 secondesClaude en fait dans la session à un certain moment que tu lorsque tu dépasses un nombre élevé de questions ou bien de discussions, il perd
+19:2719 minutes et 27 secondesl'information. tu ouvres une nouvelle session et tu dois parfois être obligé de lui rappeler tes clients, ta méthode, ton métier, ta façon de faire.
+19:3719 minutes et 37 secondesAujourd'hui avec le système de Hermes, tout ce qui est information sur la conversation, les préférences d'utilisateur, les informations
+19:4619 minutes et 46 secondesimportantes, les décisions passées que tu as fait, lui il va les enregistrer automatiquement et du coup il va avoir des réponses encore plus cohérentes au fur et à mesure que tu parles avec lui.
+19:5619 minutes et 56 secondesAu fur et à mesure, tu sens qu'il te comprennent beaucoup plus et tu peux le personnaliser. Ça ce qui est important.
+20:0220 minutes et 2 secondesOn va jeter un petit coup d'œil sur la mémoire. Regardez, la mémoire, c'est là dans ce bouton là. Lorsque je clique, on trouve d'abord ce qu'on appelle les
+20:0920 minutes et 9 secondesnotes. Alors, les notes, à chaque fois que tu parles avec lui, il prend des notes, il va les enregistrer en fait dans son fichier qui s'appelle
+20:1620 minutes et 16 secondesmémoire.mmd. Donc toujours il prend le note, même si tu lui demandes pas, il prend une note. Lorsqu'il voit que tu as pris une décision, lorsque tu il voit
+20:2520 minutes et 25 secondesque tu as résolu un problème, il prend note. Ensuite, on a ce qu'on appelle user profile. User profile, c'est quoi ?
+20:3320 minutes et 33 secondesIl va tout simplement créer un profit.
+20:3520 minutes et 35 secondesC'est comme lorsque tu veux ouvrir ton ordinateur, tu as plusieurs administrateurs et chacun lorsqu'il se connecte avec son augment de passe, il a son propre environnement. Aujourd'hui,
+20:4420 minutes et 44 secondeson peut créer plusieurs environnements en fait avec voilà plusieurs profits sur donc Hermes et lui il va tout simplement
+20:5220 minutes et 52 secondesimaginer en fait votre profit et ça permet de comprendre exactement qui vous êtes et grâce à ça, il va savoir
+21:0021 minutesparfaitement vous répondre. Et on a un fichier qui s'appelle sou.mmd. Ça c'est important. Ça c'est un petit peu l'identité en fait de de cet agent là.
+21:1121 minutes et 11 secondesIl va un petit peu te décrire, il va prendre le rôle en fait, il va prendre le style que toi tu veux que avec lequel
+21:1821 minutes et 18 secondesqu'il va te répondre, les décisions techniques, comment il doit les les prendre donc par priorité. Donc là du
+21:2521 minutes et 25 secondescoup on mettra en fait plusieurs points, plusieurs instructions, il doit les respecter. Et là on a ce qu'on appelle projet contexte. Alors, lorsque tu
+21:3421 minutes et 34 secondesouvres, tu peux ouvrir plusieurs projets et tu peux créer plusieurs projets. Et lorsque je crée un projet, je mets le contexte de ce projet là. Toutes les
+21:4121 minutes et 41 secondesdiscussions qui vont être autour de ce projet, ils vont respecter cette fiche technique de projet. Donc du coup aujourd'hui Hermè il est très très en
+21:5021 minutes et 50 secondesfait cadré et grâce à ça en fait il peut être voilà quelqu'un qui sait bien exécuter. Et là j'aimerais bien vous montrer une information très
+21:5821 minutes et 58 secondesintéressante. Ici vous voyez là il y a ce qu'on appelle children. Donc là c'est comme des enfants mais en réalité ce sont des sous-agents. Ça veut dire quoi
+22:0722 minutes et 7 secondes? Parfois, je peux lui donner en fait une tâche et je lui dis que voilà donc cette tâche là, je veux que tu la
+22:1322 minutes et 13 secondestraites. Mais d'une manière générale en fait, il est il est obligé de la faire avec trois agents différents et chacun
+22:2022 minutes et 20 secondesil est spécialisé dans une tâche spécifique. Donc un je vais lui donner de faire cette tâche de je vais lui donner cette tâche le troisème agent il
+22:2822 minutes et 28 secondesva exécuter cette tâche. Et donc du coup, lui il a cette capacité là en fait comme vous le voyez là ici de voir en fait ces agents là travailler en
+22:3622 minutes et 36 secondesparallèle et chacun il est spécialisé dans cette tâche là. Si comme tu as un projet dans ton entreprise, tu as plusieurs employés, il y a quelqu'un qui
+22:4322 minutes et 43 secondesdans le marketing, dans le commercial, l'autre dans le développement, le projet, il a besoin un petit peu des trois profits. Donc ces trois profits vont être concentrés. C'est mieux de
+22:5222 minutes et 52 secondesdonner juste ça à une seule personne et même s'il est compétent, il va prendre du temps en fait à exécuter trois tâches complexes. Et si on prend trois
+23:0023 minutespersonnes en expert et aujourd'hui Hermes, il peut tout de suite lorsque tu lui poses une question et tu dis je veux mettre trois agents dedans pour qu'
+23:0823 minutes et 8 secondeschacun exécute une tâche et bah il va répartir ça sur son équipe et il va bien évidemment créer plusieurs agents et chaque agent il va lui donner en fait la
+23:1623 minutes et 16 secondesmémoire nécessaire, les compétences nécessaires pour exécuter et comme ça tu crées ton équipe en fait hein parce que ces agents là ils vont rester sur la mémoire et à chaque fois qu'on aura
+23:2523 minutes et 25 secondesbesoin on peut les faire appel. Donc du coup la mémoire elle est très importante. C'est grâce à la mémoire que Hermes il peut manipuler, gérer toute
+Chapitre 8 : Télécharger mes 36 formations avec ce code exclusif
+23:3223 minutes et 32 secondesune équipe. Allez, vous êtes resté jusqu'à la fin de la vidéo. Je pense que tu es intéressé par la technologie, par l'intelligence artificielle et c'est
+23:4023 minutes et 40 secondespour cela que je voulais te donner un petit cadeau. Alors le cadeau c'est simple. Tu vas accéder à mon site internet docteurterfas.vp
+23:4823 minutes et 48 secondeset là en fait j'ai proposé un nouveau pack avec la mise à jour. Donc là ici en fait j'ai mes 36 cours qui sont focus
+23:5623 minutes et 56 secondessur NN, sur Cloud, sur Hermes pratiquement il y a 50 he donc ce sont des cours de débutants experts avec des
+24:0324 minutes et 3 secondessupports du cours avec donc des des use cas, des études de cas et des ateliers de débutants à expert étape à étape.
+24:1224 minutes et 12 secondesPratiquement là ici j'ai toutes les formations qui existent déjà sur Udini mais je l'ai mis sur mon site internet aussi à prix très intéressant surtout
+24:2024 minutes et 20 secondesavec le coupon que je vais vous le donner. Alors vous descendez là ici et donc là c'est sur le pack donc le pack
+24:2824 minutes et 28 secondesdéjà sur Udimi, il est à 497 €. Là il est à 119 99 €. Mais attention je te donne un petit coupon. Tu cliques ici et là tu tapes Firace 30.
+24:4024 minutes et 40 secondesVous cliquez sur appliquer et voilà.
+24:4424 minutes et 44 secondesDonc là, il va te donner pratiquement une remise de 30 %. Donc j'ouvre en fait cette promotion là juste voilà pendant
+24:5224 minutes et 52 secondesdonc ces 3 jours là. Pour ceux qui voient la vidéo peut-être en retard, il se peut que le copo ne soit plus opérationnel, je suis désolé mais pour
+25:0025 minutesceux qui ve en profiter, vous pouvez tout simplement donc ajouter ce coupon là. Il y a aussi le coupon qui est valable aussi sur le pack de 1000 he
+25:0725 minutes et 7 secondesdonc là ici il y a toutes mes formations suri. Donc là pratiquement tu vas recevoir 136 cours parce que ces 36 là ils sont
+25:1625 minutes et 16 secondesici ajoutés gratuitement. J'ai fait ça comme un cadeau. Et la même chose hein.
+25:2125 minutes et 21 secondesTu tu appliques le coupon ici tu mets ferrace 30.
+25:2725 minutes et 27 secondesVoilà appliquer et te fais la réduction de 71 €.
+25:3425 minutes et 34 secondesDonc ça c'est pour donc la communauté.
+25:3625 minutes et 36 secondesUne fois que tu fais donc la commande, tu vas te trouver directement en fait sur donc l'interface de formation. Il y a toutes les questions ici que vous
+25:4325 minutes et 43 secondespouvez les consulter. Il y a la garantie 14 jours parce que je sais que lorsque tu commences à faire un atelier, tu vas adorer, tu vas aimer. Je donne des mises
+25:5225 minutes et 52 secondesà jour, je donne des formations de très haute qualité. Sur ce, je vous dis merci beaucoup et on se voit dans notre interface de formation. Yeah.
+
+Tout
+
+Source : Dr. Firas
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+Accelerate Delivery with AI Coding.
+See how fixed-cost AI coding helps you ship faster with no surprise bills.
+Sponsorisé
+Alibaba Cloud
+
+Visiter le site
+
+17:26
+Le Général Découvre Un Resto Français Sous La Pluie (littéralement)
+LeMondeDeChoi
+ et Choi TCG
+32 k vues
+•
+il y a 16 heures
+Nouveau
+
+
+16:19
+Voici mon NOUVEAU PC GAMER 2025 (ça fait mal)
+Kang et ses PC
+113 k vues
+•
+il y a 1 an
+
+
+6:27
+Mon nouveau setup pour tourner des vidéos... avis ?
+Melvynx
+il y a 18 heures
+Sélection YouTube
+Réservé aux membres
+Nouveau
+
+
+1:47
+Orthogonal  +  Winter  + Numbers and Patterns That Return
+Pause Orthogonale
+5 vues
+•
+il y a 11 heures
+Nouveau
+
+
+10:15
+Les "secrets" qu'on ne t'a jamais dits sur les bras !
+Le Musclay
+88 k vues
+•
+il y a 1 an
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+655 vues
+•
+il y a 1 mois
+
+
+25:37
+Ce PC est unique en France (et probablement le dernier)
+Kang et ses PC
+61 k vues
+•
+il y a 7 mois
+
+
+36:31
+PC Gamer TopAchat à 2000 € : Je ne m’attendais pas à ça
+Kang et ses PC
+73 k vues
+•
+il y a 10 mois
+
+
+10:05
+Sécher et prendre du muscle en même temps : POSSIBLE ?
+Le Musclay
+82 k vues
+•
+il y a 2 ans
+
+
+1:06:14
+Et personne ne parle de la VRAI inégalité créé par les retraites !
+Trouble Fait
+14 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+8:32
+Le réglage Facebook Ads qui fausse vos résultats (et que personne ne touche)
+Social Scaling
+763 vues
+•
+il y a 4 semaines
+
+
+16:02
+J’ai enquêté sur la folie des produits protéinés !!
+Tibo InShape Entrainement
+ et Tibo InShape
+208 k vues
+•
+il y a 7 mois
+
+
+1:30:17
+L'homme qui avertit le monde : Le grand effondrement financier est là ! | Ray Dalio
+The Diary Of A CEO
+1,5 M de vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+31:34
+Qui a besoin d’un PC Portable comme ça ?! 5999€ - AORUS MASTER 18
+Kang et ses PC
+39 k vues
+•
+il y a 11 mois
+
+
+14:49
+Je découvre la RÉALITÉ derrière vos PC (le mystère du XMP)
+Kang et ses PC
+64 k vues
+•
+il y a 1 an
+
+
+20:21
+6 ÉTAPES CLÉS pour réussir (enfin) à sentir son DOS
+Nassim Sahili
+419 k vues
+•
+il y a 3 ans
+
+
+11:47
+La seule métrique qui compte sur Meta Ads en 2026
+Social Scaling
+711 vues
+•
+il y a 2 mois
+
+15:54
+Qui suis-je ? D'où je viens ? Et où irai-je ?
+Sadhguru Français
+346 k vues
+•
+il y a 3 ans
+
+2:49:58
+L'instant Skynet ? OpenAI perd le contrôle d’un agent IA | Octogone Tech #12
+Scanderia
+66 k vues
+•
+Diffusé il y a 1 jour
+Nouveau
+
+31:36
+Vibe Coding en 2026 : je les ai tous testés (et voici le problème)
+Dr. Firas
+299 vues
+•
+il y a 13 heures
+Nouveau
+
+17:59
+Le Pc Gamer Le Plus Cher de BACKMARKET…
+FrenchHardware
+318 k vues
+•
+il y a 9 mois
+
+    

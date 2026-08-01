@@ -1,0 +1,483 @@
+
+
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Kimi K4 est bien plus gros que tout le monde l’imaginait
+AI Revolution en Français
+AI Revolution en Français
+7,16 k abonnés
+
+S’abonner
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+31 juil. 2026  Intelligence Artificielle et le Monde de Demain
+Recevez jusqu'à 350 € de bonus lorsque vous investissez 500 €. Utilisez le code « GO-START » via ce lien : https://directs.me/mintos-july--fr242  Investir comporte des risques. La valeur de vos investissements peut augmenter ou diminuer, avec un risque de perte du capital investi. Les performances passées, prévisions ou simulations ne garantissent pas les rendements futurs.
+
+Vous voulez tout savoir sur la course folle des IA géantes entre Moonshot, Alibaba et DeepSeek, les batailles de puces NVIDIA et les petits secrets des benchmarks OpenAI ? Plongez dans cette vidéo pleine de rebondissements et d’anecdotes croustillantes sur la tech mondiale ! Abonnez-vous à la chaîne et dites-nous en commentaire ce que vous avez préféré ! #IA #Tech #NVIDIA #OpenAI #Innovation
+
+👉 Cette chaîne est réalisée en collaboration avec    / @airevolutionx  
+
+0:02 - Annonce de Kimi K4 et contexte
+1:03 - Défis d'entraînement et réglementations
+2:43 - Modèles chinois et dépendance aux puces NVIDIA
+4:20 - Enjeux géopolitiques et critiques sur l'exportation
+6:41 - Problèmes d'inférence et limitations matérielles
+8:12 - Contexte international et réactions américaines
+9:53 - Évaluation des modèles et limites des benchmarks
+14:12 - Régulation internationale et initiatives récentes
+
+Nous sommes désormais disponibles sur Spotify ! Écoutez maintenant https://open.spotify.com/show/6AChv6K...
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Découvrir le podcast
+Intelligence Artificielle et le Monde de Demain
+170 épisodes
+Intelligence Artificielle et le Monde de Demain
+AI Revolution en Français
+
+Podcasts
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+AI Revolution en Français
+7,16 k abonnés
+Vidéos
+À propos
+
+Original Channel
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @airevolutionx_fr
+@airevolutionx_fr
+il y a 1 minute
+Recevez jusqu'à 350 € de bonus lorsque vous investissez 500 €. Utilisez le code « GO-START » via ce lien : https://directs.me/mintos-july--fr242  Investir comporte des risques. La valeur de vos investissements peut augmenter ou diminuer, avec un risque de perte du capital investi. Les performances passées, prévisions ou simulations ne garantissent pas les rendements futurs.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Annonce de Kimi K4 et contexte
+0:022 secondesTrès bien. Donc Moon Shotia parle déjà de Kimika 4 et le timing est un peu fou parce que K3 est à peine sorti depuis 2
+0:1010 secondessemaines. Deux personnes au courant des plans disent que le prochain modèle sera nettement plus grand que K3 qui est déjà
+0:1616 secondesun monstre et il y a exactement une chose qui bloque. Pour entraîner un tel modèle, Moonchat a besoin de plus de puce IA haut de gamme Nvidia. Or, selon
+0:2626 secondesles règles américaines d'exportation, les entreprises chinoises ne doivent pas en obtenir. Ce qui nous amène à ce dont tout le monde murmure depuis la
+0:3333 secondesmi-juillet. Tim3 est actuellement le plus grand modèle open source existant avec 2,8 billions de paramètres. Et
+0:4141 secondesselon trois personnes, il a été entraîné sur des puces Nvidia, y compris Blackwell, le matériel le plus avancé.
+0:4747 secondesCela confirme en partie ce que Michael Catios, un haut responsable de la Maison Blanche, a publié sur X. Donc ce n'est plus une rumeur qui circule sur un
+0:5454 secondesserveur Discord. Moonshot souhaite désormais un accès élargi à Blackwell notamment pour préparer la prochaine génération y compris K4. Le problème
+Chapitre 2 : Défis d'entraînement et réglementations
+1:031 minute et 3 secondesc'est que la version des faits de la Maison Blanche diffère de ce que disent réellement les sources. Catios a affirmé que 4 avait été entraîné dans un centre
+1:111 minute et 11 secondesde données en Thaïlande et que ce contexte est important car l'accès chinois au plus Nvidia en Thaïlande pourrait être autorisé selon les règles
+1:191 minute et 19 secondesaméricaines actuelles. C'est l'explication la plus simple. Mais une des trois sources dit que K3 a été entraînée en partie en Chine à cause
+1:261 minute et 26 secondesd'un des goulau d'étranglement les plus sous-estimés de cette histoire. Les propres règles chinoises sur le transfert transcontrontalier de données rendent cauchemardesque le déplacement
+1:351 minute et 35 secondesdes énormes ensembles de données de pré-entraînement vers une installation à l'étranger. Donc même si vous vouliez rester à l'étranger et techniquement en
+1:421 minute et 42 secondesrègle, Pékin vous ramène chez vous. Deux gouvernements ont des réglementations opposées et le modèle est entraîné entre
+1:491 minute et 49 secondesles deux. Le comment est selon moi la partie la plus impressionnante d'un point de vue ingénierie. Moons ne pouvait pas aller voir un seul
+1:571 minute et 57 secondesfournisseur et louer un énorme cluster cohérent parce que personne en Chine n'avait assez de Blackwell en stock. Ils ont fait appel à au moins deux
+2:062 minutes et 6 secondesentreprises chinoises de cloud équipées de Blackwell sans que l'on sache comment elles ont obtenu ces puces. probablement en violation des règles d'exportation
+2:142 minutes et 14 secondesaméricaine. Moonshot a finalement utilisé des serveurs Blackwell à 8 puces, formant un ensemble suffisant pour l'entraînement mais bien plus petit
+2:222 minutes et 22 secondesque ce qu'utilisent les grands laboratoires américains pour leurs entraînements de pointe. Pour que cela fonctionne, les ingénieurs de Moonshot ont eux-mêmes perfectionné la conception
+2:302 minutes et 30 secondesdu réseau améliorant la façon dont les puces communiquent entre elles et de façon cruciale entre des centres de données appartenant à des fournisseurs totalement différents. Entraînement
+2:392 minutes et 39 secondesdistribué multifournisseur sur du matériel qu'on n'est pas censé avoir et ils ne sont pas les seuls à jouer à ce jeu. Quelques jours après la sortie de
+Chapitre 3 : Modèles chinois et dépendance aux puces NVIDIA
+2:472 minutes et 47 secondesK3, Alibaba a lancé Quen 3.8 Max, son plus grand modèle à ce jour avec 2,4 billions de paramètres affirmant des performances comparables aux meilleurs
+2:562 minutes et 56 secondesmodèles américains. De source 10, Calibaba a aussi utilisé des puces Nvidia dont Blackwell pour l'entraînement. En décembre,
+3:033 minutes et 3 secondesVinformation a révélé que Dipsic formait son futur modèle sur des puces Blackwell introduites clandestinement dans le
+3:103 minutes et 10 secondespays. Ce modèle, le V4, est sorti plutôt cette année. Nous avons donc maintenant un schéma difficile à contester. Trois
+3:173 minutes et 17 secondesdes laboratoires chinois les plus visibles, trois des sorties de modèles à poids ouvert les plus discutés et du matériel Nvidia derrière les trois.
+3:243 minutes et 24 secondesPartie gênante du récit. Tout le monde aime dire que les start-ups chinoises bouleversent la Silicone Vallée et c'est vrai, mais il reste dépendant de la technologie américaine pour y arriver.
+3:363 minutes et 36 secondesPékin investit massivement depuis des années dans l'industrie nationale des semi-conducteurs. Pour l'inférence, la Chine adopte vite des puces locales pour faire fonctionner les modèles.
+3:453 minutes et 45 secondesL'entraînement reste le principal obstacle. Un chercheur d'une grande entreprise technologique chinoise affirme que le K3 a lancé une nouvelle
+3:533 minutes et 53 secondescourse à l'armement chez les développeurs chinois. Comme d'autres, il insiste sur la stabilité et le réseau haut débit attendu de Nvidia. Réaliser
+4:014 minutes et 1 secondecela avec des puces nationales serait plus complexe. Ils disent que cela se situerait entre très difficile et carrément impossible. Ainsi, la position
+4:104 minutes et 10 secondesgéopolitique de ces entreprises est précaire. Chaque modèle ouvert de pointe entraîné sur Blackwell montre que les restrictions américaines à l'exportation
+4:184 minutes et 18 secondesne fonctionnent pas comme prévu. Et cela arrive à un moment où le fait que des entreprises américaines adoptent des modèles ouverts chinois rend déjà
+Chapitre 4 : Enjeux géopolitiques et critiques sur l'exportation
+4:264 minutes et 26 secondesWashington nerveux quant à la position de la Chine dans l'IA. Ces modèles prenant des parts de marché aux modèles américains de pointe et en piiétant sur
+4:344 minutes et 34 secondesleur potentiel. Certains aux États-Unis affirment que ces modèles reposent plus directement sur le travail américain.
+4:394 minutes et 39 secondesDans ce même poste sur X, Katurs a accusé Moonshot d'avoir utiliser les résultats de modèles américains pour entraîner K3. L'accusation de
+4:474 minutes et 47 secondesdistillation qui revient pratiquement à chaque fois qu'un laboratoire chinois surperforme. Et cette partie de la vidéo d'aujourd'hui est sponsorisée par Open
+4:544 minutes et 54 secondesArt et c'est particulièrement utile si vous dirigez une entreprise, une chaîne, une agence ou si vous vendez en ligne.
+5:005 minutesL'un des usages les plus pratiques de director est la publicité. De bonnes publicités vidéos retirent des plans produits, des clips UGC, une voix off,
+5:095 minutes et 9 secondesde la musique, divers accroches et angles tout en restant cohérente.
+5:145 minutes et 14 secondesDirector est une expérience basée sur le chat utilisant le même modèle linguistique que Claude Opus 4.8. Même
+5:215 minutes et 21 secondesun débutant peut éviter la plupart des compétences techniques nécessaires à la génération et au montage complexe. Vous agissez comme un réalisateur. Expliquez
+5:295 minutes et 29 secondesle produit, le public, le style et le résultat que vous souhaitez.
+5:345 minutes et 34 secondesDiscuter avec directeur pendant qu'il réalise et modifie une vidéo publicitaire publicitaire prennentelle prête à l'emploi. Pour une entreprise individuelle, c'est extrêmement précieux
+5:425 minutes et 42 secondescar tout le processus de création de contenu commercial se déroule au même endroit. C'est ça la direction créative à l'instin. Vous guidez le concept, la
+5:505 minutes et 50 secondesprésentation, le rythme et le montage final à travers la conversation.
+5:545 minutes et 54 secondesDirecteur peut créer des vidéos allant jusqu'à 5 minutes, y compris des publicités UGC, des publicités produits, des campagnes de branding, des vidéos
+6:016 minutes et 1 secondeexplicative, du contenu pour les réseaux sociaux et des variantes de campagne avec des produits, des voies et un style cohérent. Lia automatise la création de
+6:096 minutes et 9 secondescontenu, la recherche et des flux de travail entiers mais beaucoup investissent encore manuellement. Ils surveillent l'actualité, suivant les
+6:186 minutes et 18 secondestendances et décident rapidement. Et cela aide à expliquer pourquoi des études montrent que 66 % des investisseurs regrettent au moins une
+6:256 minutes et 25 secondesdécision d'investissement. C'est pourquoi Mintos a attirer mon attention.
+6:296 minutes et 29 secondesCela vous offre une façon différente d'investir avec Mintos. Au lieu d'essayer de prédire ce qu'une action pourrait faire ensuite, vous pouvez investir dans des prêts et toucher des
+6:376 minutes et 37 secondesintérêts. Le rendement est fixé à l'avance, les paiements pouvant être quotidiens. En tant que revenu passif, vous pouvez filtrer par rendement,
+Chapitre 5 : Problèmes d'inférence et limitations matérielles
+6:456 minutes et 45 secondesrisque, horizon temporel, pays et devise. Pour une configuration plus automatisée, Mintos propose aussi des portefeuilles automatisés. Le taux
+6:536 minutes et 53 secondesd'intérêt moyen actuel sur les prêts est de presque 11 %, ce qui est vraiment élevé pour un revenu passif. Mintos est en activité depuis 2014, compte plus de
+7:027 minutes et 2 secondes600000 utilisateurs et est réglementé dans l'UE sous Miifed. Actuellement, en venant via notre chaîne, recevez un bonus exclusif pouvant aller jusqu'à 350
+7:117 minutes et 11 secondes€ pour un investissement à partir de 500 €. Cliquez sur le lien en description ou scanner le QR code. Des rendements stables, pas de surprise et en plus un
+7:207 minutes et 20 secondesbonus. Ne ratez pas cette occasion et bonne chance. Sigez-le vous-même en utilisant notre lien en description pour 15 % de réduction. Les utilisateurs
+7:297 minutes et 29 secondespassant à l'offre avancée ou supérieure avant le 31 juillet bénéficient jusqu'à 40 % de réduction sur certains modèles jusqu'au 31 décembre, y compris Cheetin
+7:387 minutes et 38 secondes2,5 Nado, Banana 2 Light C, Ciddream 5,0 Projet Mini Omniflash, Cling version 3
+7:457 minutes et 45 secondesOmni, GPT image 2 et Grock image. Très bien, revenons à la vidéo. Maintenant, du côté de l'inférence, la situation est
+7:537 minutes et 53 secondesdifférente mais pas vraiment confortable. Moon s'appuie fortement sur le H20 de Nvidia pour faire tourner 4 sur la plateforme Timy. Selon trois
+8:028 minutes et 2 secondespersonnes directement informées, la H20 est la puce que les règles américaines autorisent les start-ups chinoises à acheter. L'entreprise recommande à toute
+8:108 minutes et 10 secondessociété cloud ou clients hébergant K3 sur ses propres serveurs de connecter au moins 64 puces serveurs rien que pour
+Chapitre 6 : Contexte international et réactions américaines
+8:178 minutes et 17 secondesfaire fonctionner le système. 64 minimum et c'est la recommandation pas la limite maximale. La popularité a ceinturé leur
+8:258 minutes et 25 secondescapacité. Dans les 48 heures suivant la sortie, Moonshot a complètement cessé d'accepter de nouveaux abonnements. Leur
+8:328 minutes et 32 secondespublication sur X disait : "Nos GPU souffrent, une mise à jour assez parlante." Ils ont annoncé rouvrir qu'en plus de puissance de calcul serait
+8:408 minutes et 40 secondesdisponible. Sauf que trouver cette puissance de calcul va prendre du temps et la raison en est un joli petit nœud politique. Pékin a découragé les
+8:488 minutes et 48 secondesentreprise local d'utiliser le H20 et les pousse plutôt vers des accélérateurs conçus en Chine. En théorie, c'est très bien. Le problème est que faire tourner
+8:578 minutes et 57 secondesle K3 demande de grandes configurations de serveurs connectant des dizaines voire des centaines de puces.
+9:049 minutes et 4 secondeset CB utilisant des puces Huawei et similaires ne sont pas encore largement disponibles. Mes clients subissent des
+9:119 minutes et 11 secondesdélais de livraison jusqu'à 6 mois. Donc vous avez un gouvernement qui vous dit de ne pas acheter la puce que vous pouvez obtenir et une chaîne d'approvisionnement national qui ne
+9:199 minutes et 19 secondespourra pas vous fournir l'alternative avant l'année prochaine. Beaucoup d'entreprises chinoises louent déjà de la puissance de calcul à l'étranger comme solution de contournement. Ted par
+9:289 minutes et 28 secondesexemple a loué de la capacité auprès d'un centre de données près d'Osaka rempli de milliers de puces Blackwell appartenant à l'entreprise japonaise Data Section selon le Financial Times.
+9:389 minutes et 38 secondesCe type d'accord n'est pas interdit actuellement. J'insiste sur pour le moment car Washington envisage de renforcer les contrôles sur les entreprises chinoises utilisant à distance des puces américaines avancées.
+9:499 minutes et 49 secondesL'information rapportée la semaine dernière indique que le Bureau de l'industrie et de la sécurité du département du commerce a ouvert une enquête officielle sur l'accès
+Chapitre 7 : Évaluation des modèles et limites des benchmarks
+9:579 minutes et 57 secondesd'entreprise comme Moonshot à des puces d'IA américaines avancé. Donc cette voix est examinée de très près. La réaction
+10:0510 minutes et 5 secondesaux États-Unis a été partagée mais pas comme on l'aurait cru. Le succès de K3 a poussé l'administration Trump à intensifier ses critiques envers les
+10:1310 minutes et 13 secondesmodèles chinois. Mais Jensen Wang s'est exprimé sur Axios et a déclarer que les entreprises américaines devraient absolument être autorisées à utiliser
+10:2110 minutes et 21 secondesdes modèles open source chinois comme K3. À la fin de la semaine dernière, Wang a publié son premier message sur its partageant une lettre signée par
+10:3010 minutes et 30 secondesNvidia et 24 autres entreprises sur l'importance des modèles open source. Il affirmait que le monde a besoin de
+10:3710 minutes et 37 secondesmodèles fermés et ouverts de pointe et l'industrie partage largement cet avis.
+10:4310 minutes et 43 secondesLa grande majorité des entreprises américaines de cloud, des acteurs technologiques établis et des start-ups sont favorables à ce que les entreprises américaines puissent utiliser les
+10:5010 minutes et 50 secondesmodèles open weight chinois. Les opposants sont un petit groupe principalement entre et open qui ont plaidé pour des restrictions ou une
+10:5810 minutes et 58 secondesrulation ou ont autrement découragé les entreprises américaines d'utiliser ces modèles en invoquant ce qu'ils décrivent comme des préoccupations théoriques de sécurité nationale et de cybersécurité.
+11:0911 minutes et 9 secondesSur le sujet de ce que mesurent réellement les benchmarks, Open AI a publié cette semaine un exemple très clair, montrant qu'une grande partie
+11:1611 minutes et 16 secondesd'un score d'évaluation ne dépend pas du modèle lui-même. Dans cette configuration, GPT 5,6 SAL a résolu de
+11:2411 minutes et 24 secondesvieux problèmes mathématiques ouverts, y compris la conjecture du double recouvrement cyclique et il a battu Pokémon version rouge-feu. Ensuite, il
+11:3111 minutes et 31 secondespasse à Arc Agi3, un benchmark de puzzle en deux dimensions et obtient un score de 7,8 %. GPT 5,5 pouvait à peine jouer
+11:4011 minutes et 40 secondesavec seulement 0,4 %. Sur le classement de l'un de ces jeux, aucun modèle de pointe ne dépasse le premier niveau.
+11:4811 minutes et 48 secondesAlors, Open AI a mené l'enquête inspirée par le propre rapport de l'ARC sur les faiblesses de GPT 5,5. Au début, ils ont vu comme l'ARC, le modèle paraissait
+11:5611 minutes et 56 secondeslimité. Il restait là à réfléchir indéfiniment avant chaque action et n'avançait presque pas. Mais deux éléments dans le protocole d'évaluation se sont révélés être la cause du
+12:0512 minutes et 5 secondesproblème. Premièrement, après chaque action de jeu, tout le raisonnement interne du modèle était jeté. Donc à chaque coup, il reconstruisait sa
+12:1312 minutes et 13 secondescompréhension d'un jeu inconnu à partir de zéro. Il pouvait voir l'historique des coups précédents et les courtes notes qui y étaient attachées, mais pas
+12:2112 minutes et 21 secondesles plans ou les idées qui les avaient produits. Deuxièmement, le protocole d'évaluation utilisait une troncature progressive. Donc une fois que la conversation dépassait 175000
+12:3012 minutes et 30 secondescaractères, les messages les plus anciens commençaient à disparaître.
+12:3312 minutes et 33 secondesAucune mémoire de sa réflexion et progressivement aucune mémoire de ses actions non plus. Leurs modèles sont entraînés à raisonner en interne avant
+12:4112 minutes et 41 secondesde répondre ou d'utiliser un outil. Et ces réflexions sont conservées dans l'historique avec un résumé si c'est trop long. C'est ainsi que Chat GPT et
+12:5012 minutes et 50 secondesCodex sont proposés. Ils ont reconstruit l'environnement de test ARC AGI3 sur la PI responde 6 en utilisant l'identifiant
+12:5712 minutes et 57 secondesde la réponse précédente pour conserver le raisonnement entre les tours et les appels d'outils, remplaçant la troncature par la compaction. Deux
+13:0413 minutes et 4 secondeschangements sont survenus aussitôt. Sal passait moins de temps à délibérer par action puisqu'il ne réanalysait pas le jeu à chaque tour et il est devenu
+13:1213 minutes et 12 secondesbeaucoup plus performant pour apprendre au fil d'une partie et maintenir une stratégie cohérente. La suppression progressive du contexte l'obligeait
+13:2013 minutes et 20 secondesaussi à fonctionner avec une fenêtre de contexte plus remplie la plupart du temps, ce qui réduit les performances.
+13:2513 minutes et 25 secondesLes chiffres 13,3 % sur l'ensemble public avec l'environnement de test officiel, 38,3 % avec le raisonnement
+13:3313 minutes et 33 secondesconservé et la compaction. Environ trois fois le score avec six fois moins de jetons en sortie. Le score correspond à l'efficacité relative des actions
+13:4113 minutes et 41 secondeshumaines, mesuré par rapport à une référence humaine. Et d'après les journaux de jeu officiels, Open E estime que le testeur humain moyen a atteint
+13:4813 minutes et 48 secondesenviron 48 %. Il est important de noter que les modèles ne sont jamais informés de la façon dont ils sont notés et ne peuvent pas voir leur score pendant
+13:5613 minutes et 56 secondesl'exécution. Chaque action renvoie simplement une représentation textuelle de l'image et du niveau actuel. Leur implémentation est limitée à 175000
+14:0414 minutes et 4 secondesjetons plutôt qu'à des caractères, ce qui revient à peu près au même puisque les grilles sont tokenisées à raison d'environ un point. Et sur ce jeu où
+Chapitre 8 : Régulation internationale et initiatives récentes
+14:1214 minutes et 12 secondesaucun modèle de pointe ne passe le premier niveau, Sale a résolu les 6.
+14:1614 minutes et 16 secondesPour être juste envers Arc, le choix d'un environnement de test générique est délibéré. Sans outil ni fonctionnalité spéciale, l'idée est qu'une
+14:2314 minutes et 23 secondesconfiguration minimaliste révèle les faiblesses et garantit l'équité tandis que les développeurs commerciaux adaptent les cadres aux spécificités de
+14:3114 minutes et 31 secondeschaque modèle. Il y a aussi des preuves que le cadre compte ailleurs. Sal battu Fire Firehead avec un environnement de test fondé uniquement sur la vision sur
+14:3914 minutes et 39 secondesle stream Pokémon de GPT. a terminé Slay the Spire via l'utilisation de Codex sur le stream d'époque IA et a passé les premiers niveaux de Babau dans le
+14:4814 minutes et 48 secondestravail partagé par Piotre Mcdov et Piotre Grabovski. Et Molic a également montré qu'il réussissait un défi quotidien aléatoire dans Slay the Spire
+14:5614 minutes et 56 secondes2, un jeu sorti après la date de coupure des connaissances du modèle. Les recommandations d'open AI sont simples.
+15:0315 minutes et 3 secondesPréférez l'API responde 6 à l'ancienne API Chat Completions. Bien le raisonnement compacté. Et pour comparer des modèles, basez-vous sur des
+15:1015 minutes et 10 secondesévaluations configurées ainsi. Ils affirment que ce n'est pas la première fois qu'un Scoreb est causé par un système d'exécution supprimant des
+15:1715 minutes et 17 secondesmessages de raisonnement. Si vous voulez essayer les énigmes vous-même, il y a 25 jeux de démonstration disponibles sur arqueprise.org/arqueprise.org/task.
+15:2815 minutes et 28 secondesDernière chose et c'est important.
+15:2915 minutes et 29 secondesMardi, plus de 1100 employés des principaux laboratoires ont adhéré à une initiative appelée Pacing the Front demandant au gouvernement américain de
+15:3715 minutes et 37 secondessoutenir un effort international pour développer les outils techniques et de gouvernance nécessaire afin de réguler délibérément le développement de l'IA
+15:4515 minutes et 45 secondesautomatisé de pointe. Meta Anthopic, Open I et Google sont tous représentés avec le soutien des organisations à but
+15:5215 minutes et 52 secondesnon lucratif Guidelight IA standard et Ncode IA. La liste des signataires ne se compose pas non plus de membres du personnel subalterne. Le PDG
+16:0016 minutesd'Antropique Dario Amodé ainsi que plusieurs cfondateurs, la vice-présidente de la recherche en IA de MTA Don Song et le scientifique en chef
+16:0716 minutes et 7 secondesd'Open AI Jacob Pachoki. Open a répondu sur X en disant qu'à un certain moment l'accélération du développement de pointe pourrait devenir suffisamment
+16:1616 minutes et 16 secondesélevée pour que le monde doive réguler le rythme des avancées. Entropique a cité ses propres recherches sur l'autoamélioration récursive du mois
+16:2316 minutes et 23 secondesdernier comme preuve que ces outils sont nécessaires pour que la société puisse se préparer. Et c'est également qui a appelé le mois dernier les grands
+16:3016 minutes et 30 secondeslaboratoires à envisager une pause coordonnée. Les systèmes d'alerte pourraient s'améliorer plus vite qu'on ne puisse gérer les risques. Par
+16:3816 minutes et 38 secondesailleurs, lundi, Nvidia a annoncé une coalition avec Adobe, Crotstrike et d'autres pour développer des outils de sécurité et de cybersécurité pour l'IA.
+16:4816 minutes et 48 secondesSuite à un récent incident de cybersécurité chez Hug-in Face accentuant les inquiétudes sur des agents autonomes non contrôlés. Article
+16:5516 minutes et 55 secondesde Reuters rédigé par Anatha Rupraille à Bingalourou. Voilà où en sont les choses. Donnez votre avis dans les commentaires. Merci d'avoir regardé et on se retrouve dans la prochaine vidéo.
+
+
+Old Spice
+Sponsorisé
+Old Spice
+Shop now
+
+
+Tout
+
+Source : AI Revolution en Français
+
+Intelligence artificielle
+
+Ordinateurs
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+How to File Probate?
+Probate is just one step. We handle the 150+ estate tasks lawyers leave behind for you.
+Sponsorisé
+Alix
+
+Learn more
+
+9:51
+4 Tests Facebook Ads à copier pour payer moins cher en 2025
+Social Scaling
+1,9 k vues
+•
+il y a 1 an
+
+
+17:26
+Le Général Découvre Un Resto Français Sous La Pluie (littéralement)
+LeMondeDeChoi
+ et Choi TCG
+39 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+5:59
+🤖 La Révolution des Solopreneurs IA : 1 Personne Peut Créer un Empire en 2026 💰
+Le Monde du Business
+Aucune vue
+•
+il y a 25 minutes
+Nouveau
+
+
+19:23
+Je divise mon PC en TROIS (et on joue en même temps)
+Kang et ses PC
+31 k vues
+•
+il y a 1 an
+
+
+10:19
+Les produits dopants les plus dangereux !
+Le Musclay
+111 k vues
+•
+il y a 1 an
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+325 k vues
+•
+il y a 3 mois
+
+
+10:05
+Sécher et prendre du muscle en même temps : POSSIBLE ?
+Le Musclay
+82 k vues
+•
+il y a 2 ans
+
+
+11:47
+La seule métrique qui compte sur Meta Ads en 2026
+Social Scaling
+711 vues
+•
+il y a 2 mois
+
+
+25:40
+Je teste les restaurants châteaux de LUXE 🏰 en France (gardez votre argent)
+Louis
+170 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+36:31
+PC Gamer TopAchat à 2000 € : Je ne m’attendais pas à ça
+Kang et ses PC
+73 k vues
+•
+il y a 10 mois
+
+
+32:31
+Sadhguru 360 – Épisode 2 : Kalabhairava, le Maître de la Vie, de la Mort et du Temps
+Sadhguru Français
+3,4 k vues
+•
+il y a 23 heures
+Nouveau
+
+
+1:30:17
+L'homme qui avertit le monde : Le grand effondrement financier est là ! | Ray Dalio
+The Diary Of A CEO
+1,7 M de vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+2:49:58
+L'instant Skynet ? OpenAI perd le contrôle d’un agent IA | Octogone Tech #12
+Scanderia
+70 k vues
+•
+Diffusé il y a 2 jours
+Nouveau
+
+
+17:26
+IA : Le krach énergétique qui arrive ?
+Xavier Delmas
+64 k vues
+•
+il y a 2 semaines
+
+
+31:34
+Qui a besoin d’un PC Portable comme ça ?! 5999€ - AORUS MASTER 18
+Kang et ses PC
+39 k vues
+•
+il y a 11 mois
+
+16:30
+Pourquoi vous ne devriez pas vous limiter à 30g de protéine / repas
+Nassim Sahili
+222 k vues
+•
+il y a 1 an
+
+16:11
+Je teste le VRAI CASSOULET du Sud de la France🇫🇷 (à Castelnaudary)
+Louis
+220 k vues
+•
+il y a 1 an
+
+2:28:49
+Direct n°121 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+59 k vues
+•
+Diffusé il y a 1 jour
+Nouveau
+
+15:54
+Qui suis-je ? D'où je viens ? Et où irai-je ?
+Sadhguru Français
+346 k vues
+•
+il y a 3 ans
+
+18:29
+La loi qui pourrait tuer l'anonymat en ligne (décryptage)
+VA Plus
+2,3 k vues
+•
+il y a 1 heure
+Nouveau
+
+    

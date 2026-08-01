@@ -1,0 +1,1008 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J'ai testé Meta iA sur Facebook Ads : mon verdict (prompts + réponses)
+Social Scaling
+Social Scaling
+7,8 k abonnés
+
+
+47
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+1 133 vues  6 mai 2026  Social Scaling
+Pour les annonceurs, ça se passe ici ⬇️
+https://experts.j7media.com/diagnosti...
+
+Notre Newsletter gratuite : https://www.j7media.com/newsletter
+
+Notre écosystème de formation : https://j7academie.com/
+
+Épisode cité :    • Meta vous ment... et ça vous empêche de sc...  
+
+CHAPITRES
+00:00 – Lancement de Meta AI
+00:54 – Contexte du test e-commerce
+02:12 – Hallucinations et erreurs data
+07:30 – Nomenclature et analyse créa
+09:07 – Verdict : outil risqué
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Découvrir le podcast
+Social Scaling
+166 épisodes
+Social Scaling
+Social Scaling
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Social Scaling
+7,8 k abonnés
+Vidéos
+À propos
+
+Facebook
+
+Instagram
+
+Linkedin
+5 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@AbdoulRachid-v4k
+il y a 2 mois
+J'apprend toujours plus, avec vous
+
+3
+
+
+
+Répondre
+
+
+@guywilfrieddjongo620
+il y a 2 mois
+On va attendre que vous validiez l'outil !! 😅
+
+
+
+
+Répondre
+
+
+@feriel1212
+il y a 2 mois
+اممممم
+
+1
+
+
+Répondre
+
+
+@grimoireduseo
+il y a 2 mois
+En gros, avec votre expertise, vous auriez pu analyser le compte en 30 minutes et l'IA de Meta mets +1h et c'est faux, à moins de le "dresser", mais il est long à la détente ^^
+
+
+
+Répondre
+
+Social Scaling
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Lancement de Meta AI
+0:00
+Ça y est, après 2 ans d'attente, il est
+0:02
+là Meta AI. Annoncé de nouveau au
+0:05
+Marketing Summit 2026, l'agent
+0:07
+conversationnel de Meta est enfin arrivé
+0:09
+sur les comptes Metaads de chacun et
+0:11
+nous permet d'avoir une expérience
+0:12
+facilitée sur le Ads Manager, mais aussi
+0:15
+d'avoir des analyses plus vites et plus
+0:16
+poussées. Donc c'est avec cet état
+0:18
+d'esprit que j'ai lancé le nouvel outil
+0:19
+de MTA en version beta, je le précise,
+0:22
+avec une seule question à laquelle il
+0:24
+faut répondre. Peut-il m'aider
+0:26
+immédiatement dans mon travail de méia
+0:28
+buer ? J'ai passé 4 heur avec l'outil et
+0:30
+j'aimerais vous donner mon avis concret
+0:32
+dessus. Mais avant ça peut-être vous
+0:34
+expliquer le contexte de mon
+0:35
+utilisation. Faut savoir que j'ai fait
+0:36
+absolument tous mes tests sur un compte
+0:38
+e-commerce qui a beaucoup de data. J'ai
+0:41
+pris une période précise. Donc là pour
+0:42
+le coup, ça va être du 22 mars au 23
+0:44
+avril. Et sur cette période, le compte a
+0:46
+dépensé quasiment 100000 dollars avec un
+0:48
+objectif de conversion New Customer.
+0:50
+Pour ceux qui ne savent pas, j'ai fait
+0:51
+un épisode entier sur le sujet du New
+Contexte du test e-commerce
+0:54
+Customer. C'est quand on force MTA à
+0:55
+aller chercher des nouveaux clients
+0:57
+uniquement pour éviter tout le
+0:58
+retargeting caché. Et si j'ai pris ce
+1:00
+compte pour tester l'IA de méta, c'est
+1:02
+pas un hasard en fait, c'est parce que
+1:04
+sur cette période, on observe ceci. Donc
+1:06
+vous voyez, du 22 mars au 9 avril, notre
+1:09
+budget a bien diminué alors que nos
+1:11
+coûts par conversion ont simplement
+1:13
+explosé jusqu'à cette date du 11 avril,
+1:16
+donc la petite ligne rouge, date à
+1:18
+laquelle on a bien augmenté le budget et
+1:20
+les coûts ont chuté drastiquement. Je
+1:22
+vais pas vous expliquer pourquoi c'est
+1:23
+arrivé. Je préfère que Lia cherche et la
+1:26
+trouve par elle-même. Donc dans cette
+1:27
+vidéo, on va jouer un petit jeu
+1:28
+ensemble. On part du principe qu'on ne
+1:30
+connaît absolument pas le compte. On est
+1:32
+un nouveau médiabilleur dépêché en
+1:34
+urgence et on doit prendre des décisions
+1:36
+basées sur ce que LIA nous indique. Il y
+1:37
+a beaucoup trop de campagnes pour
+1:39
+prendre le temps de tout lire. Donc je
+1:40
+lance mon tout premier promte avec
+1:42
+l'objectif de comprendre la situation,
+1:44
+d'entourer ce que je dois couper,
+1:45
+d'entourer ce que je dois scaler, de
+1:48
+faire un peu d'analyse créa, pourquoi
+1:49
+pas et puis faire quelques analyses
+1:51
+aussi démographiques. Donc c'est dans
+1:52
+cette configuration que je lance mon
+1:54
+premier prompt. Mon compte utilise un
+1:56
+événement custom new customer comme
+1:57
+objectif d'optimisation principale sur
+1:59
+100 % de mes campagnes. Est-ce que tu
+2:01
+peux lire et analyser comme tu le ferais
+2:03
+avec achat ou purchase ? Donc voici sa
+2:05
+réponse. Bien sûr, je peux tout à fait
+2:07
+faire l'analyse de votre événement
+2:09
+personnalisé. Blab bla bla bla bla. OK,
+2:11
+très bien, c'est cool. Il faut savoir
+Hallucinations et erreurs data
+2:12
+qu'il y a quelques jours, il était pas
+2:13
+en mesure de le faire. Il me l'avait
+2:15
+expliqué. Bon, si jamais ça n'avait pas
+2:17
+été possible, malgré que c'est toute ma
+2:18
+stratégie qui repose sur cet objectif,
+2:20
+je aurais proposé de passer uniquement
+2:22
+sur de l'achat normal. OK. Mon prompte
+2:24
+suivant, pour me prouver que tu sais
+2:26
+lire l'événement New Costumer, donne-moi
+2:27
+trois publicités qui ont un coût par New
+2:29
+Costumer inférieur à 50 dollars et qui
+2:31
+ont dépensé plus de 1000 dollars chacune
+2:33
+sur la période du 22 mars au 23 avril
+2:36
+2026. La réponse est immédiate, très
+2:38
+facilement lisible, mais voilà, elle est
+2:40
+complètement fausse après vérification.
+2:42
+En fait, il m'explique que c'est parce
+2:43
+qu'il a pas bien compris la période de
+2:45
+temps donnée. On fait quelques
+2:46
+allers-retours et très vite, à force
+2:48
+d'améliorer mon promte, je me retrouve
+2:50
+avec un prompte qu'on donnerait à
+2:51
+n'importe quel LLM. du style. Désormais,
+2:54
+tu gardes en tête que je veux une
+2:55
+réponse uniquement à ma question.
+2:56
+N'anticipe rien. On analyse sur la
+2:58
+période du 22 mars jusqu'au 23 avril.
+3:00
+Autrement, je te dirai le contraire.
+3:02
+Voici ma prochaine demande. Donne-moi le
+3:03
+top 5 des pubs avec un cost per new
+3:06
+customer inférieur à 50 dollars et avec
+3:08
+le plus de budget dépensé pendant la
+3:09
+période et classé par dépenses
+3:11
+décroissantes. J'obtiens un nouveau
+3:12
+tableau très bien ficelé mais encore une
+3:14
+fois bah il est faux. Bon, je vous passe
+3:16
+les allers-retours. Le moment où
+3:17
+j'arrive réellement à un tableau qui est
+3:19
+juste en terme de data, c'est quand je
+3:20
+finis par lui demander non pas les
+3:22
+publicités, mais les ad ID id des
+3:24
+publicités. Donc en fait l'identifiant
+3:26
+unique pour ne pas qu'il se perde
+3:27
+davantage et là ça marche enfin on va
+3:30
+enfin pouvoir passer à la suite. Et
+3:32
+notamment ce qui nous intéresse le plus
+3:34
+savez cette grosse différence de
+3:36
+résultats qu'on a au milieu de la
+3:37
+période analysée. Donc je lui demande
+3:39
+compare la performance du compte entre
+3:41
+la période du 22 mars au 10 avril et la
+3:44
+période du 11 avril au 23 avril sur ces
+3:46
+métriques. Dépense totale coût par achat
+3:48
+et coût par nouvel acheteur.
+3:50
+Effectivement, je lui demande quand même
+3:51
+le coût par achat normal, c'est parce
+3:53
+que je suis à deux doigts d'abandonner
+3:54
+la métrique new customer tellement il y
+3:56
+a d'erreurs et d'hacinations avant. Mais
+3:57
+il s'exécute et c'est là qu'en fait je
+3:59
+découvre qu'il confond les deux. Alors
+4:01
+sur cette image, les coûts par achat en
+4:02
+fait sont ceux des new customers. Donc à
+4:04
+partir de maintenant, je considère
+4:05
+pouvoir dire achat et ça sera la même
+4:07
+chose. Ça voudra dire new customer pour
+4:09
+moi. C'est là que ça devient
+4:10
+intéressant. En tant que méiaburer, que
+4:11
+peux-tu me dire de ces deux périodes ?
+4:13
+Donc du 11 au 23 avril par rapport au 22
+4:16
+mars et au 10 avril. Quelles actions ont
+4:19
+été entreprises ici pour avoir une
+4:20
+baisse significative des coûts par
+4:21
+résultat ? Souvenez-vous du petit jeu
+4:23
+qu'on a ensemble. Le médiabilleur qui
+4:24
+s'occupe de ce compte est tombé malade
+4:26
+et je le remplace au pied levé. Je n'ai
+4:28
+aucun contexte concernant les dernières
+4:29
+actions. Et là, c'est parti pour le
+4:31
+festival. Sa réponse, voici les leviers
+4:33
+qui nous ont permis d'atteindre
+4:34
+quasiment votre objectif de rentabilité
+4:36
+à 45 dollars. Donc il faut lui
+4:37
+reconnaître quand même qu'il arrive à
+4:38
+repérer ce qui est en dessous ou
+4:40
+au-dessus de mon objectif. Mise en pause
+4:42
+des publicités à coupé élevé. OK.
+4:44
+Concentration sur le winner créatif.
+4:46
+Donc une pub qu'il détecte comme étant
+4:48
+un winner. Gestion de la phase
+4:49
+d'apprentissage, vous avez maintenu
+4:50
+active des publicités performantes comme
+4:52
+X ou Y malgré leur statut en phase
+4:54
+d'apprentissage. Bon, globalement, il
+4:55
+nous dit la phase d'apprentissage, on
+4:57
+s'en fiche. Tant que tu arrives à des
+4:58
+pubs qui fonctionnent, ça marche. Et
+5:00
+c'est là que ça devient dingue. Analyse
+5:01
+de la structure de compte. Le passage
+5:03
+d'une dépense de 52000 à 46000 montre
+5:06
+une volonté de stabiliser les coûts
+5:08
+avant votre phase de scaling d'un
+5:09
+million de dollars. Bon, ça c'est juste
+5:10
+parce que je lui expliqué, faut que tu
+5:12
+sois vraiment
+5:13
+rigoureux dans tes réponses parce que
+5:15
+imagine que je veux dépenser un million
+5:16
+de dollars. Mais ça n'a absolument rien
+5:17
+à voir. Mais juste revenons. Là, il me
+5:18
+dit qu'on a diminué le budget en passant
+5:20
+de 52000 à 46000 dollars de dépenses.
+5:24
+Mais on parle d'une période de 20 jours
+5:26
+contre une période de 13 jours. Donc je
+5:28
+lui demande, tu sembles penser que c'est
+5:29
+une baisse de budget, mais rapporter un
+5:31
+budget journalier, est-ce que j'ai
+5:32
+augmenté ou j'ai baissé le budget ? Sa
+5:35
+réponse, rapporté à un budget
+5:36
+journalier, vous avez augmenté votre
+5:38
+budget de 29 % sur la deuxème période.
+5:40
+Voici le calcul précis. En gros, j'étais
+5:42
+à 2600 dollars par jour avant et
+5:45
+maintenant je suis à 3500 dollars. OK,
+5:47
+solide.
+5:48
+Attends, on t'avait déjà posé cette
+5:49
+question. OK, bah solide. Bon,
+5:51
+t'inquiète. Donc tu me confirmes que par
+5:53
+un miracle absolu, j'ai augmenté le
+5:55
+budget journalier de 1000 dollars sur
+5:56
+mes campagnes et mes coûts se sont
+5:58
+effondrés. Donc voici sa réponse. Il
+6:00
+confirmer le signe de nouveau. En fait,
+6:01
+réallocation stratégique vers le winner.
+6:03
+Donc en gros, j'ai mis plus d'argent sur
+6:04
+la meilleure pub, nettoyage des actifs
+6:06
+inefficace, augmentation de l'intensité
+6:08
+scaling, et cetera et cetera. Bon bref,
+6:10
+là c'est le moment de vous dire que la
+6:12
+fameuse semaine du 11 où nos coûts se
+6:14
+sentent effondrés, c'est tout simplement
+6:16
+parce qu'on a lancé 70 publicités en
+6:18
+test dans une campagne qui était dédiée,
+6:20
+rien que ça. Et tellement je lui mets la
+6:22
+cuillère dans la bouche, il finit par
+6:23
+s'en rendre compte et me le dire. Ah
+6:25
+oui, cette publicité a été introduite
+6:26
+dans le cadre d'un renouvellement
+6:27
+créatif majeur au début de la deuxième
+6:29
+période, pas mal après 1 heure. Donc à
+6:32
+partir de là, je sais à quoi m'entenir.
+6:33
+Je lui pose quand même d'autres
+6:34
+questions du style y a-t-il des
+6:36
+chevauchements d'audience significatif
+6:37
+entre mes 44 campagnes ? lesquels et à
+6:40
+quel pourcentage ? Bon, ici va me dire
+6:42
+que j'en ai pas, que je peux pas le
+6:44
+contrevérifier de toute façon. Donc,
+6:46
+c'est plutôt crois-moi sur parole. Je
+6:47
+continue de lui demander des listes de
+6:49
+pub performantes ou pas performantes et
+6:50
+les hallucinations sont tellement
+6:52
+constantes que j'ouvre finalement une
+6:53
+nouvelle discussion sur MTA AI pensant
+6:55
+que j'ai juste cassé la première. On va
+6:57
+accélérer et voici ce que je lui ai
+6:58
+demandé. Es-tu en mesure de me dire
+7:00
+quels sont les produits que je vends
+7:01
+basés sur les URL dans mes pubs ? La
+7:03
+réponse est non. analyse mes 200
+7:05
+publicités actives et identifie les
+7:07
+trois angles marketing dominants. Bon là
+7:09
+encore une fois, il est incapable de
+7:11
+lire les créatifs en lui-même. Sur la
+7:13
+période du 11 avril au 23 avril 2026,
+7:15
+quel est le problème majeur sur mon
+7:16
+compte ? Donc je vous remets juste un
+7:18
+peu de contexte, c'est la période où
+7:19
+j'ai augmenté de 1000 dollars le budget
+7:20
+quotidien et j'ai réduit mes coûts
+7:22
+quasiment par deux. Et bien là, il va me
+7:24
+parler de fragmentation de budget, de
+7:26
+stagnation d'apprentissage alors que
+7:27
+juste avant, il m'expliquait que j'avais
+7:29
+prolongé des pubs qui étaient en phase
+Nomenclature et analyse créa
+7:30
+d'apprentissage et que ça n'avait pas
+7:32
+posé problème. Bon, finalement, de la
+7:33
+fragmentation de budget quand on passe
+7:35
+d'un coût par acquisition de 80 à 40
+7:37
+dollars, je trouve ça gonflé. Mais en
+7:39
+même temps, MTA considère qu'on fait
+7:40
+absolument n'importe quoi si je me
+7:42
+rapporte un autre score d'opportunité. À
+7:44
+nouveau, ça met en lumière que Meta est
+7:46
+complètement éloigné des performances
+7:47
+réelles de votre entreprise et vous
+7:49
+propose des optimisations qui sont pas
+7:51
+nécessairement intéressante. Allez, mais
+7:53
+j'ai une toute dernière découverte à
+7:55
+partager et celle-ci, elle vaut le coup.
+7:57
+À force de lui demander des analyses de
+7:58
+Créa, j'ai compris que Meta se reposait
+8:00
+pas mal sur des éléments rédactionnels
+8:02
+pour simplement lire ce qu'il y avait à
+8:03
+savoir sur la pub et notamment le nom de
+8:06
+vos publicités dans le ads manager.
+8:08
+Exemple, si vous avez une publicité qui
+8:10
+est nommée dans le ads manager collier
+8:12
+rouge pour chien, il va assumer que
+8:13
+cette pub parle de collier pour chien
+8:15
+tout simplement. Donc à ce niveau-là, je
+8:17
+vous recommande très fortement et le
+8:18
+plus tôt possible d'appliquer une
+8:20
+nomenclature extrêmement précise sur le
+8:23
+contenu de vos publicités car je ne
+8:24
+doute pas que Meta sera en mesure de
+8:26
+faire ses analyses dessus d'ici quelques
+8:28
+mois. Coup de chance pour nous dans le
+8:29
+compte en question, on utilise une
+8:31
+nomenclature qui explique absolument
+8:33
+tout de la publicité et de son contenu.
+8:36
+Et MTA s'en sert derrière pour faire ses
+8:38
+propres analyses. Par exemple, on va
+8:40
+expliquer quel est le produit qui est
+8:41
+poussé, quel est l'angle marketing, quel
+8:43
+est le format, le sous-format et cetera.
+8:45
+Mais évidemment cette analyse elle est
+8:47
+limitée parce que dès qu'il y a la
+8:48
+moindre différence dans la nomenclature,
+8:51
+par exemple un accent ou un espace de
+8:53
+trop, et bien MTA ne fera jamais le
+8:55
+lien. Et même si vous lui autorisez une
+8:57
+marge de manœuvre du style "Je cherche
+8:59
+tous les produits qui se nomment comme
+9:00
+ça et qui ont des petites variations, tu
+9:03
+peux les consigner dans la même
+9:04
+analyse." Je peux vous assurer que vous
+9:06
+aurez 100 % d'erreurs derrière. Donc
+Verdict : outil risqué
+9:07
+c'est peut-être le moment de faire mon
+9:09
+verdict sur cet outil. Meta AI en
+9:11
+version beta, c'est une très belle
+9:12
+promesse sur le papier. un certain
+9:14
+point, ça me rappelle même les tout
+9:16
+débuts de de chat GPT, ça donne envie
+9:18
+mais l'utiliser sérieusement, c'est
+9:19
+prendre un très gros risque. Je trouve
+9:21
+énormément d'hallucinations, d'oubli, de
+9:23
+bêtises. Je sens déjà venir la flopper
+9:25
+de post LinkedIn avec des guides de
+9:27
+prompt longs comme le bras, mais c'est
+9:28
+certainement ce que ça va demander sur
+9:30
+les 6 prochains mois pour avoir des
+9:32
+réponses qui ne sont pas médiocres. Mon
+9:33
+verdict, c'est que à haut niveau, ça
+9:35
+risque tout simplement de vous ralentir
+9:37
+plus qu'autre chose. Donc, je pense que
+9:39
+je referai un test d'ici la fin de
+9:40
+l'année avec le même compte et
+9:42
+globalement les mêmes promptes. On verra
+9:44
+si ça s'est amélioré. Ce sera
+9:45
+intéressant de voir. Je pense que ça
+9:46
+sera le cas évidemment parce que comme
+9:48
+tout ce qui s'est passé en IA, ça va
+9:49
+très vite dans les améliorations. En
+9:51
+attendant, je vous donne rendez-vous au
+9:52
+prochain épisode de Social Scaling ou
+9:54
+sur notre newsletter dans laquelle je
+9:56
+partage toutes les dernières nouveautés
+9:57
+de méta, des tests, des découvertes et
+9:59
+cetera. Le lien est dans les notes de
+10:00
+l'émission. Merci à tous de m'avoir
+10:02
+suivi et moi je vous donne rendez-vous
+10:03
+dans un prochain épisode de Social
+10:05
+Scaling.
+
+Tout
+
+Source : Social Scaling
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+7:19
++700% de bénéfice net grâce à Facebook Ads (étude de cas Shopify)
+Social Scaling
+507 vues
+•
+il y a 2 mois
+
+
+34:32
+Les fangames SONIC ep2 - Créer le Sonic 2d parfait
+Bazar du Grenier
+388 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+18:24
+ACHETER UN PC GAMER AVEC 4 PROCESSEURS ! (192 coeurs)
+FrenchHardware
+41 k vues
+•
+il y a 7 heures
+Nouveau
+
+
+20:10
+Du pire au meilleur aliment (pour la santé)
+Nassim Sahili
+331 k vues
+•
+il y a 1 an
+
+
+14:43
+7 CONSEILS qui m’ont aidé à avoir des GROS PECTORAUX
+Nassim Sahili
+776 k vues
+•
+il y a 2 ans
+
+
+15:30
+Les fangames Sonic - Episode 1!
+Bazar du Grenier
+697 k vues
+•
+il y a 7 jours
+
+
+21:19
+Je réagis aux (pires) conseils d'experts sur Internet
+Nassim Sahili
+328 k vues
+•
+il y a 2 ans
+
+
+7:13
+L'Incliné pour les pectoraux = CONTRE-PRODUCTIF
+Le Musclay
+474 k vues
+•
+il y a 6 ans
+
+
+14:21
+Transforme ton PC en une VRAIE XBOX !
+RTBF iXPé et FrenchHardware
+45 k vues
+•
+il y a 1 mois
+
+
+5:51
+La nouveauté Facebook Ads qui vous poussera à l'erreur en 2026
+Social Scaling
+1 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+42:39
+Comment analyser vos créas Facebook Ads en 2026
+Social Scaling
+3,4 k vues
+•
+il y a 7 mois
+Doublée automatiquement
+
+
+16:33
+Je teste les meilleures poutines de Montréal
+Gurky
+762 k vues
+•
+il y a 10 mois
+
+
+15:05
+TOP 5 ALIMENTS que tout le monde devrait consommer (basé sur la science)
+Nassim Sahili
+678 k vues
+•
+il y a 2 ans
+
+
+17:25
+Je teste les meilleurs sandwichs de Montréal (le niveau est incroyable)
+Gurky Le Murky
+454 k vues
+•
+il y a 8 mois
+
+
+16:45
+La structure Facebook Ads de 20 à +100 000$ de budget/mois (e-commerce)
+Social Scaling
+841 vues
+•
+il y a 2 mois
+
+
+15:11
+Le Général Juge La Cuisine Française…
+LeMondeDeChoi
+ et Choi TCG
+67 k vues
+•
+il y a 2 jours
+Nouveau
+
+
+31:15
+Je coach @MajorMouvement sur une séance PECTORAUX !
+Nassim Sahili
+323 k vues
+•
+il y a 4 ans
+
+
+11:01
+Meta vous ment... et ça vous empêche de scaler sur Facebook Ads
+Social Scaling
+1,7 k vues
+•
+il y a 4 mois
+Doublée automatiquement
+
+
+11:08
+3 conseils pour vos prochaines créa Facebook Ads !
+Social Scaling
+1,5 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+22:12
+JE ME SUIS TROMPÉ sur ces 6 SUJETS (en musculation)
+Nassim Sahili
+538 k vues
+•
+il y a 3 ans
+
+    

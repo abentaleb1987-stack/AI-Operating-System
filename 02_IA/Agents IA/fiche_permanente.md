@@ -5,7 +5,7 @@
 - Nom : Agents IA
 - Type : Systeme logiciel combinant modele IA, instructions, outils, memoire, workflow et controles
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-07-04
+- Derniere mise a jour : 2026-08-01
 
 ## 2. Role principal
 
@@ -51,6 +51,15 @@ Une boucle de travail agentique doit documenter :
 - diagnostic en cas d'echec ;
 - preuve de succes attendue ;
 - limite de cycles ou condition d'arret.
+
+Pour un pipeline RAG auditable, documenter aussi :
+
+- preparation des documents, frontieres de chunks, overlap, metadonnees et references ;
+- modele ou espace d'embeddings compatible entre documents et requetes ;
+- retrieval initial, nombre de candidats et filtres appliques ;
+- reranking eventuel sur un sous-ensemble limite ;
+- passages effectivement injectes au modele et citations attendues ;
+- verification d'ancrage, comportement si les preuves sont insuffisantes et limite de correction.
 
 ## 4. Forces
 
@@ -99,6 +108,17 @@ Workflow documentaire :
 3. Utiliser BM25, TF-IDF ou grep pour les recherches rapides.
 4. Basculer vers un agent semantique si necessaire.
 5. Injecter uniquement les extraits pertinents.
+
+Workflow RAG prudent :
+
+1. Nettoyer les documents, preserver leur structure et joindre metadonnees et references.
+2. Decouper selon les frontieres semantiques et calibrer l'overlap sur un jeu d'evaluation.
+3. Indexer les chunks dans un espace d'embeddings coherent avec celui des requetes.
+4. Recuperer un ensemble de candidats par recherche lexicale, vectorielle ou hybride.
+5. Reranker les candidats lorsque la precision du premier retrieval est insuffisante.
+6. Injecter uniquement les passages retenus et exiger une reponse ancree et sourcable.
+7. Reformuler et relancer le retrieval de maniere bornee si les preuves sont faibles ; sinon refuser de conclure.
+8. Mesurer rappel, precision, ancrage, citations, latence, cout et taux de refus correct.
 
 Workflow de decisions persistantes :
 
@@ -151,6 +171,7 @@ Points a surveiller :
 - suivi de workflow des agents longs.
 - reutilisation d'assets, scripts et procedures audites pour transformer les apprentissages en blocs operationnels plutot qu'en memoire implicite.
 - qualite et maintien d'un registre de decisions (ADR) pour limiter la re-proposition d'options deja ecartees.
+- valeur reelle du multi-query, de HyDE, des rerankers et des boucles RAG correctives sur un corpus AOS evalue.
 
 ## 13. Decisions strategiques
 
@@ -162,3 +183,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 - 2026-07-01 - Ajout - Sections 3, 7, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 3, 7, 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
 - 2026-07-21 - Mise a jour - Sections 8, 12 - Source YouTube Mike Codeur ADR et memoire agentique, batch AOS GO partiel
+- 2026-08-01 - Mise a jour - Sections 3, 8, 12 - Source YouTube Projets IA RAG, batch AOS GO partiel

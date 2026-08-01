@@ -1,0 +1,1581 @@
+
+
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Automatisez avec n8n — Formation Complète 2026
+Shubham SHARMA
+Shubham SHARMA
+311 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+31 juil. 2026
+Dans cette formation complète, je vous prends par la main de zéro : on construit ensemble de vraies automatisations, même si vous n'avez jamais codé. À l'heure où l'IA et le vibe coding s'emparent de tout, n8n reste un outil d'automatisation hyper robuste en production. 
+
+→ 🚀 Héberger votre n8n sur un VPS Hostinger (code SHUBHAMSHARMA -10 %)
+https://sharma.fr/n8n_hostinger
+
+→ 🔗 Télécharger le kit d'accompagnement (templates + checklist pas à pas)
+https://shubham-sharma.fr/ressources/...
+
+→ ✉️ Rejoindre ma newsletter
+https://shubham-sharma.fr/newsletter/
+
+→ 📅 S'inscrire en liste d'attente de mes workshops privés
+https://sharma.fr/masterclass-privees
+
+00:00 Bienvenue : le programme et le kit d'accompagnement
+02:18 L'interface de n8n : le canevas
+03:27 Votre première automatisation (nœuds, schedule, Gmail)
+06:22 Tester une automatisation avant de la publier
+08:02 La notion fondamentale : déclencheur + action
+09:30 Cas d'usage 1 : la photo du jour de la NASA
+10:46 Credentials et clé API
+16:51 L'email en HTML + la notion de variable
+21:13 Planifier, publier et nommer le workflow
+23:38 Récap + trouver et déboguer les erreurs
+26:03 Les types d'installation : le cloud n8n
+28:14 Installer n8n en local (open source, npx)
+30:30 Le VPS : votre propre serveur
+31:19 Installer n8n en un clic sur Hostinger
+34:11 Les types de nœuds : les déclencheurs
+38:00 Les types d'actions : IA, apps
+38:57 Transformer la data
+42:08 Les flows : if, switch, merge, human review
+43:57 Cas d'usage 2 : les annonces immobilières
+46:17 Le flux RSS dans n8n
+51:15 Claude écrit le code JavaScript d'extraction
+53:54 Filtrer les annonces par prix + pin data
+58:18 If et switch : gérer tous les cas
+1:00:31 Les data tables : le tableur intégré de n8n
+1:03:54 Ménage : renommer et documenter le workflow
+1:05:30 Ajouter de l'IA au milieu du workflow
+1:08:07 Le nœud Anthropic rédige l'email
+1:12:41 Écrire la réponse de l'IA dans la data table
+1:16:53 JSON vs schéma vs table
+1:20:54 Comprendre les expressions
+1:24:04 C'est quoi une API ?
+1:25:33 Le nœud HTTP : brancher Granola avec Claude
+1:30:46 Cas d'usage 3 : créer un agent IA
+1:35:17 Brancher l'agent à vos emails Gmail
+1:41:53 Créer les brouillons de réponse automatiques
+1:44:52 Bonus : le MCP de n8n connecté à Claude Code
+1:50:03 Conclusion
+
+Ce que vous allez comprendre dans cette vidéo, c'est comment construire des automatisations robustes avec n8n de A à Z — des fondamentaux qui resteront valables malgré les mises à jour, même si vous n'êtes pas développeur.
+
+On commence par l'interface et le canevas, et votre toute première automatisation : un déclencheur + une action, la machine à café. Puis cas d'usage n°1 : recevoir chaque matin la photo du jour de la NASA par Gmail — l'occasion de comprendre les nœuds, les credentials, les clés API et les variables. Ensuite les 3 types d'installation (cloud, en local sur votre ordinateur, ou self-hosted sur un VPS), les grandes familles de nœuds (déclencheurs, actions, transformation de données, flows if/switch), puis cas d'usage n°2 : filtrer des annonces immobilières depuis un flux RSS avec du code JavaScript écrit par Claude, un switch et les data tables de n8n — avant d'y ajouter une IA qui rédige le message pour l'agence. Après un point essentiel sur le JSON, les expressions et le nœud HTTP (pour connecter n'importe quelle API, même sans nœud dédié — exemple avec Granola), on termine avec le cas d'usage n°3 : un agent IA qui lit vos emails et prépare des brouillons de réponse dans Gmail, et en bonus le MCP de n8n connecté à Claude Code, qui crée un workflow complet tout seul.
+
+
+« Qu'est-ce qu'un Webhook ? » —    • Qu'est-ce qu'un Webhook ? Ce qu'il faut ab...  
+« Créer un agent IA avec n8n — Formation complète » —    • Créer un agent IA avec n8n — Formation com...  
+« Qu'est ce qu'une API ? » —    • Qu'est ce qu'une API ? Ce qu'il faut absol...  
+« Le guide ultime pour comprendre les MCP » —    • Le guide ultime pour comprendre les MCP (+...  
+
+
+Si vous voulez aller plus loin, n'hésitez pas à me suivre sur mes réseaux sociaux. J'y partage quotidiennement des conseils sur l'IA, les agents autonomes et les workflows que j'utilise au quotidien.
+
+MES AUTRES COMPTES:
+🌍  Mon site web - https://www.sharma.fr/
+👨‍💻  Linkedin -   / sharmashubham1  
+📱  TikTok -   / shubhamnocode  
+🐦  Twitter -   / shubham_nocode  
+📸  Instagram -   / shubham_nocode  
+Shubham SHARMA propose un guide pratique pour maîtriser n8n, depuis l'interface utilisateur jusqu'à la création d'automatisations complexes intégrant l'IA et des APIs. Cette formation explique les concepts fondamentaux, les types d'installation et propose des scénarios concrets pour optimiser l'efficacité opérationnelle, adaptés aux profils non développeurs comme aux utilisateurs expérimentés.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Shubham SHARMA
+311 k abonnés
+Vidéos
+À propos
+
+Linkedin
+6 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Shubham_Sharma
+@Shubham_Sharma
+il y a 1 heure
+🚀 Héberger votre n8n sur un VPS Hostinger (code SHUBHAMSHARMA -10 %)
+https://sharma.fr/n8n_hostinger
+
+1
+
+
+Répondre
+
+
+@leximek
+il y a 1 heure
+Super je vais regarder ça ! Merci 🙏
+
+
+
+
+Répondre
+
+
+@salami5056
+il y a 58 minutes
+Merci t'es le goat 👍
+
+
+
+
+Répondre
+
+
+@atchessouVK
+il y a 54 minutes
+Merci boss😊😊😊
+
+
+
+
+Répondre
+
+
+@steedoo
+il y a 1 heure
+Nice !
+
+
+
+
+Répondre
+
+
+@BeOneknky
+il y a 17 minutes
+top
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Bienvenue : le programme et le kit d'accompagnement
+0:000 secondeBienvenue sur cette formation complète sur N. Aujourd'hui, on va aller en détail tellement il y a de contenu. On va à la fin pouvoir construire des
+0:077 secondesautomatisations en tout genre. On va voir en détail comment se construisent les automatisations. Faut savoir qu'en est un outil vraiment très puissant qui
+0:1414 secondesmême aujourd'hui à l'heure où le vibe coding et s'empare un peu de tout, Nen reste un outil de production hyper
+0:2121 secondesrobuste. Et c'est pourquoi j'ai décidé de faire ce guide complet pour vous aujourd'hui qui malgré les mises à jour de NB va rester valable parce qu'aujourd'hui on va aborder les
+0:3030 secondesfondamentaux. Pour ceux qui me connaissent pas, je m'appelle Shubam Charma. J'ai un passé de développeurs en plusieurs start-ups françaises, notamment conto et mais aussi à l'étranger. Aujourd'hui, je passe tout
+0:3838 secondesmon temps à aider des boîtes en interne comment gagner en efficacité opérationnelle grâce à des outils d'automatisation comme Nen mais pas que.
+0:4545 secondesJ'ai formé des milliers de personnes via ma chaîne YouTube, mais aussi dans des entreprises, à utiliser correctement ces outils-là parce que dans un premier temps, ils font assez peur. C'est pourquoi on a passer des dizaines
+0:5353 secondesd'heures à vous concocter vraiment la formation parfaite pour que vous puissiez comprendre NN même quand vous êtes pas développeur. Alors déjà, on va commencer par l'interface de NN puis on
+1:021 minute et 2 secondesva voir un premier cas d'usage qu'on va détailler ensemble avec plein d'éléments et des concepts de base qui seront obligatoires à comprendre pour la suite.
+1:091 minute et 9 secondesOn va voir les types d'installation, les types de nœuds. Puis on va voir un deuxième cas d'usage qui cette fois-ci va faire entrer de l'IA mais aussi du fonctionnel mais aussi du conditionnel.
+1:171 minute et 17 secondesEt là, vous allez voir qu'on va aborder la notion de variable jusque-là qui peut-être vous a causé beaucoup de bugs.
+1:231 minute et 23 secondesAprès, on va parler de Jason. Euh, ça aussi vous en avez certainement entendu parler de API HTTP et enfin voir le cas d'usage numéro 3 et enfin finir avec
+1:321 minute et 32 secondesl'utilisation du MCP de Nen qui connecté à Cloud Code peut vous permettre de faire des folies. Bref, on a un
+1:401 minute et 40 secondesprogramme très chargé aujourd'hui. Donc c'est parti, on commence tout de suite cette formation complète sur NM. Je vous incite à télécharger le kit d'accompagnement de ce guit complet. En
+1:491 minute et 49 secondesgros, dans ce kit, vous allez avoir tous les templates qu'on va faire ensemble.
+1:511 minute et 51 secondesDonc vous allez voir, on va faire pas mal de scénarios ensemble et le but de ce kit, c'est d'avoir les templates, donc les les modèles déjà tout fait.
+2:002 minutesComme ça, vous pouvez comparer avec vous ce que vous serez en train de faire pendant pendant ce guide. et aussi un espèce de une espèce de checklist dans
+2:072 minutes et 7 secondeslaquelle vous allez pouvoir euh suivre pas à pas si jamais à un moment donné vous êtes largué, s'il manque un détail dans ma vidéo et bien il sera dans cette
+2:152 minutes et 15 secondeschecklist et le lien pour télécharger ce kit se trouve en description. Alors commençons déjà par l'interface de NN.
+Chapitre 2 : L'interface de n8n : le canevas
+2:202 minutes et 20 secondesAlors, c'est une interface qui peut qui peut faire un petit peu peur la première fois qu'on arrive dessus parce qu'il y a souvent beaucoup de choses. Là, j'ai toutes mes automatisations qui sont là
+2:292 minutes et 29 secondesquand on va aller sur cette page là et c'est d'ailleurs cette page que vous avez vu sur internet, ce qu'on appelle un un caneva. Donc grossièrement, c'est
+2:362 minutes et 36 secondesun endroit où on va venir peindre et pas du coup littéralement peindre mais créer nos automatis et et cette page, elle peut faire un peu
+2:432 minutes et 43 secondespeur parce qu'elle est vide. Alors que quand on a l'habitude de voir des automatisations sur internet et notamment si on va dans ici template, on va voir que il y a plein
+2:512 minutes et 51 secondesd'automatisations qui sont déjà faites et bien ces automatisations là elles sont bien plus avancées et souvent elles ont tendance à nous faire peur et c'est pour ça que je déconseille l'utilisation
+2:582 minutes et 58 secondesde template quand on commence parce que ça nous envoie directement sur la vitesse 5 alors que nous on a même pas
+3:053 minutes et 5 secondesappris à utiliser la vitesse 1. Et donc qu'est-ce qu'on a dans cette interface ?
+3:103 minutes et 10 secondesEt bien là, on a donc comme j'ai dit le canval là où on va venir dessiner nos automatis parce qu'il va pas beaucoup nous servir.
+3:193 minutes et 19 secondesNous on va surtout s'intéresser à à cette interface là. Alors sur cette interface la première chose qu'on a c'est ce plus qui va nous permettre
+Chapitre 3 : Votre première automatisation (nœuds, schedule, Gmail)
+3:273 minutes et 27 secondesd'ajouter un nœud. Qu'est-ce qu'un nœud ? On va le présenter plus en détail ici là quand on va parler du cas d'usage
+3:343 minutes et 34 secondesnuméro 1 et des différents nœuds. Mais un nœud c'est grossièrement un bloc qui va nous permettre et bien d'effectuer
+3:413 minutes et 41 secondesune action. Donc je donne un exemple. On a par exemple un nœud qui s'appelle on schedule. Donc on va pouvoir faire un un
+3:503 minutes et 50 secondesnœud qui va pouvoir se lancer tous les jours euh donc tous les un jour donc one
+3:573 minutes et 57 secondesday. euh à minuit. Et donc si on ajoute ce nœud-là, et bien si je active cette
+4:044 minutes et 4 secondesautomatisation, si je la publie hein, euh parce que par défaut les automatisations ne sont pas publiées, ce qui va se passer que ce nœud va
+4:114 minutes et 11 secondess'exécuter tous les jours à minuit. Euh et puis évidemment, je peux ajouter d'autres nœuds par-dessus. Donc
+4:194 minutes et 19 secondestypiquement, si j'ajoute un nœud Gmail, et bien je peux tous les jours à minuit m'envoyer un email. Alors, c'est une
+4:264 minutes et 26 secondesautomatisation qui ne sert à rien. Là, je fais send mail. On va aller plus en détail dans tous ces champs. Mais si je m'envoie un email à moi-même en disant
+4:364 minutes et 36 secondesil est minuit, et bien je vais pouvoir euh m'envoyer ce mail là tous les jours en disant il est minuit. Et mon automatisation, ça y est, elle est
+4:444 minutes et 44 secondespubliée. J'ai appuyé sur le bouton publier, je n'ai plus rien à faire.
+4:474 minutes et 47 secondesMaintenant, elle va se lancer par elle-même. Alors, comment est-ce qu'on sait qu'elle s'est lancée par elle-même ? Il y a un petit onglet ici que vous voyez qui s'appelle exécution. Du coup,
+4:554 minutes et 55 secondeson va voir que tous les tous les jours à minuit, elle va se lancer. Alors, vous savez quoi ? On va faire un truc, c'est que là, on va choisir euh seconde et on va la lancer toutes les 10 secondes.
+5:055 minutes et 5 secondesAlors, ça peut être dangereux parce que du coup, tous les 10 secondes, je vais recevoir un email, mais vous savez quoi ? On va voir si ça fonctionne. Donc là, vous voyez, hop là, toutes les 10
+5:145 minutes et 14 secondessecondes, ça va se lancer. Euh chose que je n'ai pas faite ici et c'est d'ailleurs vous allez pas attendre d'avoir une automatisation qui va être publiée. Vous voyez, elle s'est lancée
+5:235 minutes et 23 secondeslà euh pour pouvoir la tester. Euh là, on va voir comment éviter ce genre de truc parce que c'est pas très bon de lancer une automatisation et juste la publier euh parce que en fait on sait pas trop si elle va fonctionner ou pas.
+5:335 minutes et 33 secondesOn sait pas si le mail va m'être envoyé ou pas. On sait pas si le mail il va être envoyé à la bonne adresse ou de la bonne adresse par exemple. Il y a plein de
+5:415 minutes et 41 secondestrucs que j'ai pas configuré. Donc bon, d'ailleurs, on va arrêter le massacre tout de suite. On va aller dans éditeur, hop et on va aller unpublish, donc euh
+5:515 minutes et 51 secondesdu coup dépublier la l'automatisation, ce qui fait qu'elle ne va maintenant plus se lancer. Et d'ailleurs, on va aller regarder dans mes mails si j'ai
+5:585 minutes et 58 secondesbien reçu déjà ce que j'ai lancé. Alors là, je suis dans mes mails. Du coup, je les je les affiche exprès pour pas tout vous montrer, mais voyez, il y a un
+6:066 minutes et 6 secondesemail qui est là qui est coucou, il est minuit. D'ailleurs, il m'a dit euh en bas sent by N8N, chose que je ne voulais pas trop mais bon voilà. Et vous voyez,
+6:136 minutes et 13 secondesil y a 0 minutes, il y a 0 minutes, il y a 0 minutes, il y a une minute. Euh voilà, il m'a envoyé la même chose.
+6:186 minutes et 18 secondesMaintenant euh vous allez voir, je vais faire un petit truc déjà. On va voir comment la tester hein cette automatisation parce que c'est pas terrible d'attendre toutes les 10 secondes. D'ailleurs, on va la repasser
+Chapitre 4 : Tester une automatisation avant de la publier
+6:276 minutes et 27 secondesici en jour ou allez en 1 heure comme ça hop toutes les heures, il va se passer quelque chose. Euh euh vous voyez là ça
+6:356 minutes et 35 secondesserait bien de la tester. Alors j'ai deux manières de la tester. Soit je la teste nœud par nœud, genre je peux tester ce nœud puis ce nœud. Soit je
+6:426 minutes et 42 secondesteste l'exécution complète. Et donc là j'ai testé l'exécution complète et vous voyez tout ça s'est mis en verre et tout. Et là, je vais aller regarder du
+6:506 minutes et 50 secondescoup dans mon dans ma boîte de réception si j'ai bien reçu cet email. Alors, tac tac et là hop voilà, j'ai reçu à 19h44
+7:007 minutescet email. Euh maintenant, je vais faire un truc, c'est j'ai envie de voir euh comment est-ce que je peux ajouter des éléments par exemple dans cet email.
+7:077 minutes et 7 secondesDans dans l'email ici, vous voyez, j'ai juste écrit coucou, mais si je veux, je peux ajouter une chose. Typiquement, je peux peut-être ajouter l'heure à
+7:147 minutes et 14 secondeslaquelle ça a été envoyé. Et là, vous allez voir, je vais glisser, déposer l'heure. L'heure, elle est ici. Ici, ce que j'ai, c'est ce qui vient du nœud
+7:237 minutes et 23 secondesprécédent. Ici, ce que j'ai, c'est ce qui sort du nœud actuel. On va aller plus en détail, vous inquiétez pas. Euh,
+7:297 minutes et 29 secondesmais si je fais exécute euh step, ça m'a envoyé un email. Je vais aller regarder dans mes emails s'il y a pas autre chose.
+7:397 minutes et 39 secondesIl y a un nouvel qui nouvel email qui est arrivé. Coucou 7h44. Et là, vous voyez, j'y ai changé le le contenu de
+7:467 minutes et 46 secondesmon mail. On peut aller beaucoup plus loin évidemment, on va pas le faire tout de suite, mais il y a une chose qu'il faut que vous compreniez qui est déjà assez importante et ça va être la notion
+7:547 minutes et 54 secondesnuméro une fondamentale à comprendre dans n'importe quelle automatisation et j'en parle depuis des années sur cette chaîne, c'est qu'une automatisation se
+Chapitre 5 : La notion fondamentale : déclencheur + action
+8:028 minutes et 2 secondescompose de deux choses. D'un côté, un déclencheur, donc un trigger en anglais et de l'autre côté une action. C'est le
+8:098 minutes et 9 secondesminimum pour qu'une automatisation fonctionne. Si vous n'avez pas de déclencheur, la l'automatisation se déclenche pas. Il vous faut la déclencher à la main, hein. Et dans ces
+8:188 minutes et 18 secondescas-là, ça peut marcher, hein. C'est une un déclencheur manuel. D'ailleurs, ça existe. Si je vais ici, un des premiers déclench déclencheurs, c'est les
+8:278 minutes et 27 secondesdéclencheurs manuels. Je prends ce déclencheur manuel, je le connecte et à chaque fois que je cliquerai dessus, ça se déclenchera. Donc c'est un déclencheur quand même. Donc un
+8:368 minutes et 36 secondesdéclencheur et une action ou alors une suite d'action. Donc je peux aller typiquement lier plusieurs actions comme ça. Et donc
+8:448 minutes et 44 secondesça marche aussi, c'est une automatisation et c'est OK hein.
+8:478 minutes et 47 secondesÉvidemment, je veux pas le faire, je vais pas m'envoyer trois emails de suite, mais chose que vous devez comprendre, c'est déclencheur action.
+8:548 minutes et 54 secondesQuand vous appuyez sur une machine à café euh pour faire couler votre café, le déclencheur c'est votre doigt qui appuy sur le café sur le bouton et les actions, c'est tout ce qui se passe par
+9:029 minutes et 2 secondesla suite. Et donc c'est de la même manière qu'une automatisation sur NN est composée d'un déclencheur et d'une action. Vous allez voir, je vais en parler souvent tout au long de cette
+9:119 minutes et 11 secondescette autour que une automatisation c'est liée à ça mais c'est une notion fondamentale à comprendre. Maintenant qu'on a fait ça
+9:189 minutes et 18 secondeset qu'on a compris que on pouvait avoir plusieurs déclencheurs et plusieurs actions, on va commencer à travailler sur notre premier scénario. Notre
+9:279 minutes et 27 secondespremier scénario, ça va être du coup lié avec la NASA. Alors, pourquoi je parle de la NASA ? C'est que on va faire un exemple hyper simple. Je vous ai fait
+Chapitre 6 : Cas d'usage 1 : la photo du jour de la NASA
+9:349 minutes et 34 secondesl'exemple avec l'envoi du mail, mais ici, on va faire un exemple où tous les jours, j'ai envie de recevoir une photo euh qu'un qu'un des satellites de la NASA a est pris. Alors, du coup, euh on
+9:439 minutes et 43 secondesse dit "Mais comment est-ce que tu vas faire ça, Chouam ? Est-ce que on va aller regarder le site tous les jours et cetera ? Et bien non, parce que dans les nœuds disponibles et donc ça c'est dans
+9:519 minutes et 51 secondesles actions disponibles ici on a une un nœud qui s'appelle NASA. Hop ! Qui est ici et dans lequel j'ai plusieurs
+9:589 minutes et 58 secondessous-actions. Un nœud peut avoir des des des sousactions. Donc ça veut dire qu'il y a un type de nœud qui ici a plusieurs
+10:0610 minutes et 6 secondesactions du genre je veux recevoir plusieurs astéroïdes, je veux recevoir un astéroïde, je veux recevoir la photo par exemple,
+10:1410 minutes et 14 secondeset cetera et cetera. Donc nous on va aller regarder un truc qui est et là du coup on a notre action ici qui est là.
+10:1910 minutes et 19 secondesGet the astronomy astronomy picture of the day.
+10:2410 minutes et 24 secondesSi jamais il y a trop de choses, bah je peux taper ici picture. Voilà, donc j'ai mon action. Donc là, ça filtre pour
+10:3010 minutes et 30 secondesinfo. J'ai mon action, je clique dessus et là vous voyez ça qui s'ouvre. Alors ça c'est c'est une c'est une fenêtre qui
+10:3810 minutes et 38 secondess'est ouverte. Si je veux je la ferme mais pour info, elle s'est automatiquement ajoutée ici. Mais là vous voyez il y a un petit bug dessus.
+10:4410 minutes et 44 secondesIl y a un petit panneau là. Il dit attention credentials for NASA are not set. Qu'est-ce que ça veut dire
+Chapitre 7 : Credentials et clé API
+10:5110 minutes et 51 secondescredentials ? les credentials. Donc c'est un mot anglais.
+10:5610 minutes et 56 secondesCréenals in French. Normalement c'est les informations d'identification. Je savais pas exactement la traduction exacte,
+11:0511 minutes et 5 secondesmais grossièrement c'est tout ce qui va nous permettre à nous identifier auprès d'un nœud. Je vous donne un exemple. euh Gmail euh de tout à l'heure là, j'ai dû
+11:1311 minutes et 13 secondesbah évidemment un jour connecter pour pouvoir envoyer le message connecter euh mes credentials et donc il est connecté à mon adresse ici. On va voir plus en
+11:2111 minutes et 21 secondesdétail quels sont les différents types de credentials, mais sachez que sans credentials, il n'y a pas de connexion à d'outil externe. Donc ici, il me dit
+11:3011 minutes et 30 secondes"Attention, par contre, cool, mais tu as pas de credentials en fait." Euh et là, il y a les paramètres de du nœud. Donc
+11:3811 minutes et 38 secondesen effet, si je exécute step, ça ne fonctionne pas hein. Je peux exécuter le nœud ici comme ça. Ça ne fonctionne pas.
+11:4411 minutes et 44 secondesJ'ai une erreur parce que j'ai pas mes credentials qui sont simples. Donc du coup, je me pose la question tiens moi j'ai jamais été sur la site de sur le site de la NASA, comment est-ce que je
+11:5111 minutes et 51 secondesfais pour setup mes credentials, mes informations d'identification ? Donc je clique ici et là il me dit voilà, il te faut une clé API, une API. Les APIK,
+12:0112 minutes et 1 secondec'est un peu comme la clé qui vous permette d'accéder à un service. C'est littéralement les clés comme une vraie clé hein qui vous permet d'accéder à un service. Donc Open AI par exemple, c'est
+12:0912 minutes et 9 secondesun service. Bah je peux pas utiliser le compte de n'importe qui. Il faut bien que j'utilise mon compte à moi. Donc j'aurais besoin d'une clé API. La même manière la NASA, enfin le site de la
+12:1812 minutes et 18 secondesNASA, j'ai besoin d'une clé API pour que Nen puisse se connecter à cet outil et que cet outil puisse renvoyer des informations vers Nen. Et donc ici,
+12:2612 minutes et 26 secondescomment est-ce que je récupère ma clé API ? Déjà souvent il y a ce truc là audessus.
+12:3112 minutes et 31 secondesIl dit attention si tu as besoin d'aide nous il y a une documentation et d'ailleurs il y a une documentation par nœud. La documentation d'inten, elle est
+12:3812 minutes et 38 secondesextrêmement bien faite d'ailleurs avec un super search. Si je tape NASA, vous voyez il y a NASA qui ressort. Ils ont beaucoup travaillé d'ailleurs sur cette documentation récemment notamment avec
+12:4712 minutes et 47 secondesun copie ici copie in cloud, copie in ll cetera. C'est veut dire que là si je copie, ça copie toute la page et je peux aller me faire aider de cloud ou de chat
+12:5712 minutes et 57 secondesGPT. Mais bon, le but c'est pas d'aller tout de suite là-dedans dans la complexité. Donc là, il dit que attention, si tu veux une clé API de la NASA, bah faut aller ici. Donc je vais
+13:0613 minutes et 6 secondessur le site de la NASA. Euh je fais get started, il dit "Bah déjà, faut que tu donnes ton prénom et ton nom et cetera." Je fais ça. Comment je vais utiliser
+13:1413 minutes et 14 secondescette clé API en testant ? Je fais ça ici. Hop, il dit voilà. For tell us what your API accessing the
+13:2313 minutes et 23 secondesfollowing quick ref. Et là donc j'ai un compte, j'ai une clé API et j'ai generate API key. Je vais dans generate
+13:3013 minutes et 30 secondesAPI key. Il dit attention par contre on t'a envoyé un email euh faut que tu faut que tu ailles regarder d'abord. Donc je vais aller regarder mon email. Donc je
+13:3913 minutes et 39 secondessuis là. Vous voyez tous les emails de il est minuit là qui sont là. Euh je vais ici et hop je copie cette clé API.
+13:4713 minutes et 47 secondesEt maintenant, je vais aller dans mon automatisation et aller la coller. Hop, je fais save.
+13:5413 minutes et 54 secondesEt là, si on fait exécute step, qu'est-ce qui se passe ?
+13:5813 minutes et 58 secondesDéjà, il se passe quelque chose. J'ai pas la même erreur.
+14:0514 minutes et 5 secondesIl se passe que ça continue. H alors soit c'est parce que ça prend du temps, ce qui peut arriver, soit c'est parce que je me suis trompé quelque part. En
+14:1214 minutes et 12 secondesgros, ce qui est en train de se passer là, il est en train d'essayer d'aller récupérer depuis la NASA, depuis ce
+14:2014 minutes et 20 secondesce module là. Et vous voyez ici, j'ai download image. Donc ça veut dire qu'en fait, il va me télécharger l'image et la mettre quelque part derrière. Mais
+14:2814 minutes et 28 secondesderrière, je n'ai rien. Donc si jamais j'ai un doute, ce que je peux faire, hop, je copie ça, je colle ça. Hop, et
+14:3714 minutes et 37 secondesje lance. Et cette fois-ci, je désactive download. OK. Là, ce que je vais faire, c'est que je vais faire stop.
+14:4514 minutes et 45 secondesJe découpe ici et je me mets ici pour essayer de voir si là je teste, est-ce que ça va marcher. Donc là, je lance et là, vous voyez, ça a fonctionné.
+14:5414 minutes et 54 secondesPourquoi ? Parce qu'en fait, tout à l'heure, il essayait de télécharger l'image. Alors, c'est une subtilité.
+14:5914 minutes et 59 secondesVous la première fois que vous avez lancé, vous avez dit ça, vous allez vous dire ça marche peut-être pas. Donc, du coup, qu'est-ce que j'ai comme information ? Et bien cette information déjà, elle est un peu bizarre. aller
+15:0715 minutes et 7 secondesdans un format, ce qu'on appelle le format Jason. Euh c'est un format spécifique qui permet, vous voyez, vous avez déjà vu des accolades, des choses
+15:1615 minutes et 16 secondescomme ça. C'est un format spécial mais si vous aimez pas le voir comme ça, ce qui est le cas de tout le monde, vous pouvez afficher soit sous forme de table, soit sous forme de schéma. Nous,
+15:2315 minutes et 23 secondeson va beaucoup utiliser le le forum schéma parce que ça va être beaucoup plus simple de lire les informations et vous le voyez bien. Donc du coup, ici, j'ai plusieurs informations. J'ai une
+15:3215 minutes et 32 secondesJPEG. Donc je vais faire cette URL, je peux la copier et là j'envoie ça ici. Là vous voyez j'ai cette information. Bon c'est trop
+15:4015 minutes et 40 secondescool. Maintenant je me dis comment est-ce que je la mets dans un email parce que là pour l'instant ce que ce dont je suis sûr ça je ça c'est mon ancien nœud pour pour rappel.
+15:4915 minutes et 49 secondesComment est-ce que je fais pour et bien déjà m'envoyer cette information par email ? Donc ce que je fais c'est que j'ajoute un prochain nœud qui est Gmail.
+15:5715 minutes et 57 secondesJe fais send message, je l'envoie à moi-même et je lui dis ici, voici
+16:0716 minutes et 7 secondesl'image du et là vous souvenez ici ça cette date là elle est dynamique. C'est l'information que je reçois du nœud
+16:1716 minutes et 17 secondesd'avant hein. Je vous ai dit qu'ici ici c'est tous les nœuds de input, donc d'entrée, tous les nœuds de output, de sortie. Et il se trouve que la NASA
+16:2616 minutes et 26 secondesquand elle sort quelque chose ici, vous voyez, c'est les mêmes output d'ici, c'est le input d'ici. Donc l'information
+16:3316 minutes et 33 secondeslà, je peux aller prendre et la mettre là. C'est l'image du Voilà. Vous avez remarqué qu'on est passé de fixe à expression. J'en parlerai plus tard de
+16:4116 minutes et 41 secondesce truclà, mais vous voyez, c'est en vert. Et donc ici, j'ai une prévisualisation de l'information qui va s'afficher.
+16:4916 minutes et 49 secondesEt là, il me demande "Mais attends, tu veux le truc en HTML ou en texte Euh le l'email, tu le veux en HTML ou en texte ? Bah moi, je le veux en HTML.
+Chapitre 8 : L'email en HTML + la notion de variable
+16:5816 minutes et 58 secondesAlors, pour ceux à qui ça ne parle pas du tout le HTML ou le texte, je vais vous expliquer rapidement ce que c'est, mais quand nous on est sur Gmail par
+17:0717 minutes et 7 secondesexemple, donc Gmail, euh vous recevez vos emails en HTML. Pourquoi vous les recevez en HTML ? C'est parce que il y a
+17:1517 minutes et 15 secondesdes images. Et vous avez peut-être déjà vu du code HTML. C'est du code qui est comme ça avec des balises. Euh il y a plein de types de balises qui existent
+17:2417 minutes et 24 secondeset cetera. Évidemment tout le monde avant on apprenait le HTML d'ailleurs.
+17:2717 minutes et 27 secondesSi c'était euh si on disait bonjour comme ça avec un i itallique, et bien notre bonjour devenait euh en italque,
+17:3617 minutes et 36 secondeshein. D'ailleurs, il y a des HTML online viewer qui vous permettent d'éditer du HTML en live. Voilà, par exemple ici, ça
+17:4317 minutes et 43 secondesc'est un c'est du HTML qui est là. Si je vais ici et que j'enlève tout, bah je vois ce que rendrait le truc à gauche.
+17:5017 minutes et 50 secondesDonc si je fais bonjour comme ça, je vois qu'il y a marqué bonjour. Par contre, si j'ajoute des balises de type i et I fermante, et ben bonjour est
+17:5817 minutes et 58 secondesitalique. Bon, on va pas se casser la tête à écrire du HTML. Nous, ce qu'on va faire ici, c'est qu'on va écrire bonjour. Voici ton image du jour.
+18:0718 minutes et 7 secondesVoilà, en italique. Je fais entrer et là je vais mettre une image. La source, bah je vais mettre la source que j'ai eu
+18:1518 minutes et 15 secondestout à l'heure. Hop. Hop. Là, je vais prendre cette image là
+18:2218 minutes et 22 secondeset je vais la mettre ici. OK. Là, c'est superbe. Vous voyez l'image qui s'est affichée, c'est superbe. Je vais la réduire un petit peu. Hop.
+18:3318 minutes et 33 secondesYes. Et je vais dire à demain pour une nouvelle image.
+18:4218 minutes et 42 secondesVoilà, je prends ça. Moi, je vais prendre ce HTML là. Et vous voyez ça, si on avait dû l'écrire nous-même, bah ça aurait été chiant. On nous on ne sait pas écrire le HTML quand qu'on n'est pas
+18:5018 minutes et 50 secondesdéveloppeur. Et donc je fais copier de ça et je colle ça. Je vais le coller en expression.
+18:5718 minutes et 57 secondesPourquoi je vais le coller en expression ? Parce que déjà ça agrandit le truc. Et si je veux, je peux même afficher ça comme ça ici. Ça agrandit encore plus le
+19:0519 minutes et 5 secondesl'endroit euh de ce qu'on va écrire, hein. Euh mais là, je reviens ici. Hop.
+19:1119 minutes et 11 secondesEt là, il y a un truc qui est qui est pas clair. Bon, on va le voir, hein, cela. Si je l'envoie, je fais exécute step, hop, il va se passer un truc là.
+19:1819 minutes et 18 secondesÇa a été exécuté. Normalement, si tout se passe bien, j'ai reçu une image.
+19:2319 minutes et 23 secondesBonjour, voici ton image du jour. C'est top. Je l'ai exécuté à la main. Mais il y a un petit truc que je vous ai pas dit, c'est que ce qui va se passer
+19:3219 minutes et 32 secondesréalistiquement, c'est qu'à chaque fois que je vais cliquer ici, ça va être toujours la même image. Or, nous, on a besoin d'une image différente par jour.
+19:3919 minutes et 39 secondesC'est là qu'intervient la notion de variable. C'est une notion très importante à comprendre. C'est que ici, vous vous souvenez, il y a un truc en vert là. C'est ça qui fait que l'im que
+19:4819 minutes et 48 secondesvoici l'image du et du a été remplacé par le 2607 2024. C'est parce qu'ici l'état est variable. C'est-à-dire que quand ça change, ce qui en sort aussi.
+19:5919 minutes et 59 secondesMais vu qu'ici j'ai collé euh parce que je savais pas écrire du HTML, j'ai collé
+20:0420 minutes et 4 secondesl'URL du euh du lien de manière ce qu'on appelle en dur, et bien ça va pas être variable. Je je vais obtenir toujours la
+20:1320 minutes et 13 secondesmême image. Et donc dans SRC là égal, je vais aller mettre hop glisse et déposer
+20:2120 minutes et 21 secondesl'URL. Et là, vous voyez, il y a un truc assez magique qui se passe, c'est qu'en bas, on a la prévisualisation de ce que ça va donner, de quand la variable sera
+20:3020 minutes et 30 secondesremplie. Donc c'estàdire que cette variable qui varie sera remplie. Voici ce que ça va donner. Et ça donne exactement ce qu'on avait avant.
+20:3920 minutes et 39 secondesD'ailleurs, là on va retester, on va faire exécute WFlow. Hop, hop, ça va chercher l'image et ça va envoyer par
+20:4620 minutes et 46 secondesHil. Et là, si tout se passe bien, on a une nouvelle image. Hop, tac. Qui vient d'arriver. Alors, évidemment, faudrait que j'attende le lendemain pour avoir
+20:5420 minutes et 54 secondesl'image du lendemain. Mais vous voyez un peu le le truc juste, il y a un truc qui
+21:0021 minutesva pas, c'est que ici là, on le lance à la main. Vous souvenez, j'ai changé de trigger alors que nous on veut envoyer
+21:0821 minutes et 8 secondestous les jours ce trucl. Et donc, je vais aller ici et je vais aller sélectionner mon trigger. Et vous voyez, il y a plein de de types de nœuds qui sont là. Nous, on va dire un schedule,
+Chapitre 9 : Planifier, publier et nommer le workflow
+21:1721 minutes et 17 secondesdonc ça veut dire un intervalle de temps régulier. Et j'aimerais que tous les jours à hop 9h du mat, ça m'envoie
+21:2821 minutes et 28 secondescette image de la NASA. Hop et je vais supprimer celle-là. Superbe. Je peux retester si je veux.
+21:3621 minutes et 36 secondesBoum. Voilà, j'ai toujours l'image. Tout va bien. D'ailleurs, ce petit truc là, il me gêne un petit peu. Comment est-ce que je l'enlève ? C'est certainement
+21:4421 minutes et 44 secondesdans les options ici dans les options Gmail je vais dans les options et là où vous voyez il y a marqué append N8N attribut c'est petit malin il laisse ce
+21:5221 minutes et 52 secondestruc pour évidemment se faire de la pub et tant mieux parce que NN c'est un outil génial mais voilà et ça on va l'enlever parce que par défaut il est activé on fait ça et c'est bon c'est
+22:0122 minutes et 1 secondeactivé vous voyez ce petit truc là qui s'est qui s'est enclenché à chaque fois que je modifie quelque chose. Et bien sachez que le mode aut
+22:1122 minutes et 11 secondessauvegarde par défaut est activé. Là j'ai 54 versions parce que j'ai beaucoup bouché en 2 secondes de tout ça. Donc vous êtes pas obligé d'appuyer sur save
+22:2022 minutes et 20 secondesou trouver un bouton save. Contrairement à d'autres applications. Il faut save à chaque fois pour ceux qui connaissent Zapier ou Mak et bien il faut save à
+22:2722 minutes et 27 secondeschaque fois et parfois ça nous arrive de perdre complètement nos workflow donc nos automatisations parce qu'on a oublié de sauvegarder. Donc ça ça y est
+22:3522 minutes et 35 secondessauvegardé. Mais il manque une chose, c'est que cette automatisation, je l'ai pas du tout publié. Alors, il va rien se passer tant que je la publie pas. Donc du coup, je vais aller sur Publish.
+22:4522 minutes et 45 secondesPublish peut nommer une version, je peux l'appeler V1 par exemple. Hop, voilà, maintenant c'est publié. Ça y est, cette
+22:5322 minutes et 53 secondesautomatisation va se lancer. Il manque encore une dernière chose, c'est le fait de la nommer. Et là, je peux l'appeler Daily NASA. Hop. Parce que ici, c'est le
+23:0123 minutes et 1 secondenom de mon automatisation. Si je vais dans mes automatisations personnelles, vous voyez, il y a une nouvelle automatisation qui est là, qui est publiée dans lequel il y a deux
+23:0923 minutes et 9 secondescredentials. Donc c'estàd qu'il y a deux clés qui sont connectées et j'ai Daily NASA qui est ici. Et donc ça, ça y est, bienvenue. Vous avez créé votre première
+23:1723 minutes et 17 secondesautomatisation sur N8N et ça vous permet maintenant de comprendre que même avec juste un trigger et plusieurs nœuds et
+23:2523 minutes et 25 secondesbien vous avez créé une automatisation de A à Z. Bon, où est-ce qu'on en est dans tout ça ? Donc on a vu euh la l'interface. Donc ça c'est OK. Dans le
+23:3423 minutes et 34 secondescas d'usage numéro 1, on a vu comment est-ce qu'on crée un workflow. On a vu euh les nœuds action trigger schedule.
+Chapitre 10 : Récap + trouver et déboguer les erreurs
+23:4223 minutes et 42 secondesOn a lancé notre workflow. Donc ça c'est OK. Les concepts de base de N8N, on les a vu. Les credentials, comment récupérer notre clé API, comment trouver des
+23:5023 minutes et 50 secondeserreurs. Alors c'est vrai que les erreurs, on en a on en a parlé rapidement, mais donc pour pouvoir déclencher une erreur de manière volontaire, ce que je vais faire, c'est que je vais juste enlever le
+23:5823 minutes et 58 secondesdestinataire. Vous voyez, il y a un petit truc déjà qui apparaît. Donc ça c'est pendant l'exécution, il y a une erreur qui s'affiche mais enfin pendant
+24:0624 minutes et 6 secondesl'édition mais si je fais ça, vous voyez, il y a une erreur qui va s'afficher. Et cette erreur d'ailleurs, elle va être ici dans les exécutions aussi. Je l'ai vu, on l'a vu tout à
+24:1324 minutes et 13 secondesl'heure un petit peu quand il y avait des erreurs qui qui s'affichaient. Et donc quand on a une erreur comme ça qui qui s'affiche euh et bien on on peut
+24:2124 minutes et 21 secondesaller ici marquer desbug initor. Et desbug inéditor ça va nous permettre et bien de changer, d'ajouter des choses pour pouvoir faire en sorte de que cette
+24:2924 minutes et 29 secondeserreur ne euh ne revient pas. Donc on va pas trop s'attarder là-dessus. C'était l' histoire de voir si on pouvait voir les erreurs, trouver ces erreurs et on
+24:3724 minutes et 37 secondessait le faire maintenant. Comment est-ce qu'on dézoom zoom ? C'est vrai qu'on vous l'a pas que je voulais pas montrer mais par défaut on a ces petits trucs là
+24:4424 minutes et 44 secondesici qui nous permettent déjà un de nettoyer notre workflow. C'estàd que souvent quand on se retrouve avec des workflow un peu partout et bien ça ça
+24:5224 minutes et 52 secondespermet de faire le ménage. Après on a le zoom des zoom comme ça que moi j'utilise le mod la la molette de la souris avec commande affiché dessus hein ici.
+25:0425 minutes et 4 secondesOu alors faut utiliser un un trackpad ou un ou un Windows avec un trackpad. Et ici c'est zoom to fit in. C'estàdire que
+25:1125 minutes et 11 secondessi jamais on est ici et notre workflow il est un peu partout, bah boum, zoom to fitin. Voilà comment est-ce qu'on utilise ça. Et d'ailleurs, quand on va
+25:1825 minutes et 18 secondesavoir un un workflow qui va être très gros, euh je vais vous donner un un exemple, hein. Je vais ici, je vais sur
+25:2625 minutes et 26 secondesun workflow par exemple un peu plus costaud. Par exemple, ici, vous voyez, c'est un workflow qui est un peu plus un peu plus costaud. Là, ce que vous voyez
+25:3425 minutes et 34 secondeslà en bas, d'ailleurs, hop, je vais mettre ça ici. Ce que vous voyez en bas, il y a il y a un truc qui s'est affiché là. Tac
+25:4125 minutes et 41 secondestac. Ça c'est votre votre workflow, enfin votre pouvez choisir sur votre tableau où est-ce que vous êtes. Donc ça
+25:4925 minutes et 49 secondespermet de le voir un peu plus visuellement. Bref, c'était un détail mais c'était important vous le montrer.
+25:5425 minutes et 54 secondesEt puis est-ce qu'on sait publish ou un publish ? Bah oui, on sait publish et un publish 1 premier workflow. Donc félicitations, vous avez déjà fini le le
+26:0226 minutes et 2 secondescas d'age numéro 1. Maintenant, on va voir les types d'installation parce que c'est vrai qu'on en a pas trop parlé mais là aujourd'hui mon N il est en
+Chapitre 11 : Les types d'installation : le cloud n8n
+26:0926 minutes et 9 secondesversion selfhosted. Ça veut dire que c'est moi-même qui héberge mon N. C'est moi-même sur mon propre serveur qui gère
+26:1726 minutes et 17 secondesmon N. Mais c'est pas la la seule manière de le de le gérer ce NN. Euh la première manière de l'utiliser,
+26:2426 minutes et 24 secondesc'est-à-dire la plupart les gens euh utilisent, c'est d'aller sur Nen et puis de faire get started euh et euh tout simplement de euh d'aller euh mettre
+26:3326 minutes et 33 secondesvotre email et euh lancer Nenden. Il faut savoir que Nuten
+26:4026 minutes et 40 secondesn'importe qui. Souvent, on est on est habitué à des logiciels en mode SAS, c'est-à-dire que une entreprise et je
+26:4826 minutes et 48 secondesvais vous montrer assez assez rapidement.
+26:5126 minutes et 51 secondesDonc une entreprise, je sais pas par exemple l'entreprise qui s'appelle Anthropiic, c'est une c'est une c'est
+26:5926 minutes et 59 secondesune entreprise qui va faire un outil, par exemple Cloud,
+27:0527 minutes et 5 secondeshop là. Et Claude, bah vous allez payer 20 dollars par mois pour pouvoir avoir le droit de l'utiliser. Mais Claude,
+27:1427 minutes et 14 secondeslui, il est hébergé dans les serveurs de Entropique. Ça veut dire que
+27:2227 minutes et 22 secondesClaude quand vous l'utilisez, vous êtes dans un monde software qu'on appelle SAS. Alors, c'est assez euh pas mal de
+27:3027 minutes et 30 secondesjargon pour vous expliquer que grossièrement vous louez l'utilisation de Cloud. Et ben de la même manière, l'entreprise ici euh qui s'appelle N8N,
+27:3927 minutes et 39 secondesils ont un outil qui s'appelle NN qu'on peut payer 20 € par mois d'ailleurs et l'utiliser dans le leur serveur à eux en
+27:4727 minutes et 47 secondesmode SAS. Le seul souci avec ça, c'est que bah évidemment, étant donné que c'est leur serveur, bah eux, ils nous facturent en fonction de combien d'exécutions vous faites.
+27:5627 minutes et 56 secondesOn peut par exemple pas avoir plusieurs projets partagés. on peut pas avoir cinq exécutions en parallèle euh et cetera et
+28:0428 minutes et 4 secondescetera. Donc il y a il y a en plus des crédits et cetera d'utilisation I c'est assez limité. Donc d'ailleurs c'est 24 dollars par mois. Donc ça c'est une manière de l'utiliser, c'est-à-dire en
+28:1228 minutes et 12 secondesmode SAS, mais c'est pas la seule manière. La deuxième manière serait et bien de télécharger le logiciel parce que il y a un truc qui est hyper cool
+Chapitre 12 : Installer n8n en local (open source, npx)
+28:2028 minutes et 20 secondesavec Anwen, c'est que eux leur logiciel et ben ils l'ont rendu open source.
+28:2428 minutes et 24 secondesQu'est-ce que ça veut dire ? Ça veut dire que les sources du logiciel elles sont ouvertes. Ça veut dire qu'on peut nous-même le prendre, ne pas payer
+28:3328 minutes et 33 secondes20 € par mois et juste au lieu de utiliser leur serveur, utiliser notre ordinateur à nous, donc notre votre Mac
+28:4028 minutes et 40 secondesque vous utilisez et cetera, et puis juste venir l'installer directement dans votre Mac. Et ça c'est possible aussi he si on va sur le site de Nen sur GitHub.
+28:5228 minutes et 52 secondesC'est l'endroit où tous les outils Nenfin tous les outils open source sont. On va ici et ben il nous explique que si on
+29:0029 minutesfait NPX NPX NN sur notre Mac, donc je peux aller littéralement dans mon terminal et taper
+29:0829 minutes et 8 secondesNPX N, il va se passer un truc, c'est que il va m'installer N8N
+29:1529 minutes et 15 secondeset il va le lancer sur mon ordi. Et donc c'est super pour l'installer en local.
+29:2129 minutes et 21 secondesEuh et c'est magique et c'est une des raisons pour lesquelles Nen s'est fait beaucoup connaître hein, c'est parce que bah ils sont open source, c'est-à-dire que n'importe qui peut l'installer sur son ordinateur.
+29:3029 minutes et 30 secondesAlors évidemment, faut être un tout petit peu technique pour pouvoir le lancer et cetera. Bah c'est une commande mais il va vous il va vous demander deux trois petites dépendances à installer.
+29:3829 minutes et 38 secondesÇa peut faire un petit peu peur mais très honnêtement il y a juste une commande à taper. Une fois qu'il est qu'il est lancé là, il me dit regarde si
+29:4429 minutes et 44 secondestu veux tu peux aller ici pour lancer ou alors appuyer sur O. Moi j'appuie sur O. et la magie.
+29:5229 minutes et 52 secondesIl me dit il y a vous voyez sur local host donc ça veut dire c'est sur votre ordi là il y a Nen qui qui s'affiche et donc ici il va tout simplement il y a
+30:0130 minutes et 1 secondevous avez installé NBen sur votre ordinateur. Le problème avec ça c'est que en local il est utilisé et il est
+30:1030 minutes et 10 secondesdisponible uniquement quand votre ordi est allumé. Et donc ça c'est c'est ça peut être problématique notamment quand votre ordi est pas allumé tout le temps.
+30:1730 minutes et 17 secondesEt donc c'est pourquoi euh moi ce que je fais c'est que je l'installe sur un serveur. Alors sur un serveur qu'est-ce que ça veut dire ? C'est grossièrement
+30:2430 minutes et 24 secondesun serveur c'est un ordi qui est tout le temps allumé. Euh et d'ailleurs un serveur s'appelle un virtuel private serveur, un VPS. Vous en avez certainement déjà entendu parler. C'est
+Chapitre 13 : Le VPS : votre propre serveur
+30:3330 minutes et 33 secondesce qui me permet du coup moi d'avoir un N8N qui est installé sur mon serveur à moi avec typiquement une adresse qui est la mienne pour pouvoir y avoir accès.
+30:4330 minutes et 43 secondesDonc si si on si on revient un peu sur ce qu'on a dit la version cloud bah elle vous coûte 24 dollars par mois en mensuel ou 20 dollars par mois en
+30:5030 minutes et 50 secondesannuel. Euh la version locale, elle vous coûte zéro, mais le problème c'est que quand euh bah votre ordi est éteint, bah malheureusement il est euh euh
+31:0031 minutesN10 n'est plus disponible, hein. Ça veut dire que là par exemple si mon terminal je le coupe, hop bah ce que ce que
+31:0831 minutes et 8 secondesj'avais tout à l'heure là, hop, ça s'affiche plus. Et donc ça c'est problématique. Moi ce que je fais c'est que je l'installe sur mon VPS c'estàdire que j'ai un serveur sur lequel j'ai
+31:1531 minutes et 15 secondesberge NN et c'est le meilleur moment de vous parler de mon sponsor de cette vidéo qui est Hostinger. Hostinger c'est une des premières plateformes à avoir
+Chapitre 14 : Installer n8n en un clic sur Hostinger
+31:2331 minutes et 23 secondesmis N8N et notamment les agen avec NN dont on parlera à la fin de cette vidéo qui s'installe en un seul clic. Ça veut dire que au lieu de payer 20 €
+31:3231 minutes et 32 secondesdirectement chez NN, on peut l'installer du coup sur un serveur. Pour l'installation de NN, moi je vous suggère de prendre KVM2. c'est celui qui
+31:3931 minutes et 39 secondesa assez de RAM et de CPU pour le lancer de manière plutôt tranquille et pas avoir des problématiques du coup de de
+31:4631 minutes et 46 secondeseuh parce que ce logiciel bah il consomme des ressources et si vous prenez KVM1, c'est un peu short. En tout cas, moi je l'utilise sur KVM2 avec un
+31:5431 minutes et 54 secondesprix qui est nettement inférieur. En plus de ça, ils m'ont donné un code promo, c'est-à-dire que si on est par exemple sur 12 ou 24 mois uniquement et c'est d'ailleurs uniquement pour les
+32:0232 minutes et 2 secondesnouveaux comptes, euh et ben vous avez une réduction supplémentaire qui vous permet d'arriver à un prix à bien mieux que 20 dollars par mois. C'estàd que là,
+32:1032 minutes et 10 secondeson est aux alentours de moins de 10 € par mois. Autre chose, une fois que vous avez un VPS, vous pouvez installer plein de choses dessus. C'est-à-dire que vous pouvez installer des choses comme Open
+32:1732 minutes et 17 secondesClow, Hermes ou juste tout ce qui peut s'installer sur un Docker pour ceux à qui ça parle. Donc une fois que vous êtes ici, vous faites continuer. Ici
+32:2532 minutes et 25 secondesvous regardez bien qui est NN de sélectionné. C'estàd qu'il va venir autoinstaller euh ici. Là on attend que ça s'installe et une fois que c'est fini
+32:3432 minutes et 34 secondesdonc là on vient d'installer N. Vous devez avoir un truc comme ça qui arrive et on va faire ouvrir. Quand on va l'ouvrir bah pour la première fois il va nous demander évidemment bah notre email
+32:4332 minutes et 43 secondeset cetera. Donc là, je vais lui mettre une adresse email, un premier prénom, un nom et un mot de passe. Voilà, je fais next.
+32:5432 minutes et 54 secondesEt là, la toute première fois que je vais le lancer, il va me poser quelques petites questions. Ça, je m'en moque.
+33:0033 minutesOn arrive ici. Get started. Et là, il est en train de dire attention, est-ce que je veux avoir des des
+33:0933 minutes et 9 secondesfonctionnalités d'habitude payantes de manière gratuite ? Et si je veux les avoir, en sachant que d'habitude je suis sur une version de base où j'ai vraiment
+33:1633 minutes et 16 secondesles fonctionnalités de base, si je veux avoir des informations en plus, je peux me faire envoyer une clé de licence qui
+33:2533 minutes et 25 secondesest gratuite, mais une fois que je l'ai, bah ça me débloque des fonctionnalités en plus. Si vous le faites pas, c'est pas très grave, mais ça vous permet juste d'activer des petites
+33:3333 minutes et 33 secondesfonctionnalités qui sont pas males. Donc là, je fais ça. Hop. Et pour activer la licence, du coup je clique ici, je fais
+33:4233 minutes et 42 secondesenter activation key activate et du coup je suis bien ici en registered. Donc ça veut dire je que NN sait que je suis en
+33:5033 minutes et 50 secondestrain de d'utiliser une un VPS. Moi, vous êtes pas du tout obligé de le faire mais ça vous permet d'activer deux trois petites d'activer deux trois petites choses. Voilà, la première fois que
+33:5733 minutes et 57 secondesj'arrive ici, il y a buildflow et du coup ça permet de créer mon premier workflow. Vous avez vu la différence ?
+34:0234 minutes et 2 secondesJ'étais dans un compte qui était en black et tout qui était du coup en dark mode. C'était mon compte perso et là je suis sur un nouveau compte et c'est comme ça d'ailleurs pendant cette vidéo
+34:0934 minutes et 9 secondesqu'on va les différencier. Bon parlons maintenant des types de nœuds présents dans N et vous allez voir qu'il y en a pas mal. On a dit qu'on en avait euh
+Chapitre 15 : Les types de nœuds : les déclencheurs
+34:1734 minutes et 17 secondesprincipalement déjà de deux types, les nœuds qui déclenchent l'automatisation et derrière les nœuds de suite qui font
+34:2334 minutes et 23 secondesdes actions. Alors les actions, on va voir qu'il y en a plusieurs types et d'ailleurs, on va pouvoir manipuler la donnée, on va pouvoir brancher des choses, on va pouvoir utiliser de l'IA.
+34:3334 minutes et 33 secondesDonc on va dire qu'il y a une première catégorie de nœud qui est ici qui déclenche et d'ailleurs on va s'intéresser d'abord à celle-là. Quand on arrive ici dans not et bien on peut
+34:4234 minutes et 42 secondesappuyer sur plus, on le sait. Et là, de manière automatique, il nous ouvre ce panneau-là qui va nous permettre de
+34:4934 minutes et 49 secondeschoisir le type de nœud qu'on veut. Euh, et c'est que des nœuds de type trigger, donc déclencheur.
+34:5634 minutes et 56 secondesEt là déjà, on a la première chose, on a euh manual trigger, donc en fait un déclencheur manuel. Ce déclencheur là, bah c'est dans une automatisation quand
+35:0435 minutes et 4 secondeson veut qu'elle soit manuelle. C'est littéralement la machine à café où on appuie sur un bouton et il va se passer des choses. Jusque là assez simple et on l'avait utilisé tout à l'heure. Après on
+35:1235 minutes et 12 secondesa les app events et là il va nous proposer plein d'applications où il y a des déclencheurs de disponible. Donc je
+35:1935 minutes et 19 secondesdonne un exemple. Si je prends Notion, Notion c'est une application où il y a un déclencheur disponible, il va me dire "écoute j'ai deux déclencheurs dans
+35:2635 minutes et 26 secondesl'application Notion qui sont à chaque fois qu'il y a un élément qui est ajouté à une base de données ou à chaque fois qu'une page est mise à jour." Donc ça c'est un autre type de
+35:3435 minutes et 34 secondesdéclencheur. On a le déclencheur un schedule. Donc à chaque fois que il se passe quelque chose sur l'horloge.
+35:4135 minutes et 41 secondesDonc c'est-à-dire tous les jours, tous les mois, toutes les heures. Ça, on l'a vu tout à l'heure. On a les déclencheurs de type Alors, d'ailleurs, vous avez vu
+35:5035 minutes et 50 secondesdès que j'ai ajouté un déclencheur, j'ai plus eu du tout les mêmes nœuds qui sont affichés. Là, on va on va on est en train de passer sur la catégorie
+35:5735 minutes et 57 secondesd'après. On va on va supprimer ça. Et là, vous allez voir que j'ai re les déclencheurs qui sont affichés, les triggers. Euh donc ça ça peut arriver hein. Parfois vous trouvez plus les
+36:0536 minutes et 5 secondesdéclencheurs, c'est normal. C'est parce que vous avez déjà ajouté un déclencheur. Après, on a les Webbook. On va pas en parler dans cette vidéo, mais
+36:1236 minutes et 12 secondessi ça vous intéresse, j'ai fait une vidéo entière sur les Webbook qui est sur ma chaîne. C'est-à-dire que c'est un outil externe qui envoie une requête.
+36:2136 minutes et 21 secondesAprès, on a les on form et donc ça c'est des déclencheurs qui sont de type formulaire, c'est-à-dire que pour que l'automatisation se lance, il faut que
+36:2936 minutes et 29 secondesquelqu'un ait rempli un formulaire tout simplement. Après, qu'est-ce qu'on a comme autre type de déclencheur ? On a les déclencheurs when executed by
+36:3736 minutes et 37 secondesanother workflow. Ça veut dire que c'est quand un autre N8N est en train de déclencher ce N8N,
+36:4436 minutes et 44 secondescette automatisation N8N. Ça arrive souvent et et ça ça arrive quand notamment on a plein d'automatisations
+36:5236 minutes et 52 secondesqui tournent ensemble. On peut imaginer une automatisation A qui quand elle a terminé et bien vient lancer l'automatisation B. Et ça dans ce
+37:0037 minutescas-là, on va utiliser ce type de déclencheur. C'est-à-dire que c'est un autre workflow, une autre automatisation qui lance cette automatisation.
+37:0937 minutes et 9 secondesEnsuite, on a un chat message. Ça ça peut arriver aussi. C'est-àdire que on a mis un système d'agent IA avec qui on
+37:1637 minutes et 16 secondespeut parler et ça on le verra en 3è use case. Et enfin euh quand on arrive when running evaluation et ça c'est quand on
+37:2337 minutes et 23 secondesest en train de faire des tests. Là on va pas trop s'intéresser mais il faut savoir que dans chaque automatisation normalement faut les tester et les evals, donc les évaluations qui sont là
+37:3237 minutes et 32 secondesnous permettent de les tester. On va pas aller trop dans ces détails là, mais on a compris que il y avait une première catégorie de déclencheurs qui était de nœuds qui étaient des déclencheur.
+37:4237 minutes et 42 secondesEnsuite, une une fois qu'on a ajouté un déclencheur, donc je vais ajouter un déclencheur manuel ici, qu'est-ce qu'on a ensuite ? Et bien, on appuie ici et là
+37:4937 minutes et 49 secondeson a plusieurs types d'action qui existent. Et c'est ça dont on va parler là. D'ailleurs, c'est toujours possible he d'aller regarder les déclencheurs,
+37:5737 minutes et 57 secondesmais ici, on va parler de ça, de quels sont les autres types de nœuds qu'il y a. Et il y en a plein de types. On a
+Chapitre 16 : Les types d'actions : IA, apps
+38:0438 minutes et 4 secondesd'abord les nœuds d'IA d'intelligence artificielle. Ça va être notamment les agents I, ça va être les nœud type chat
+38:1238 minutes et 12 secondesGPT, complession et cetera. On a les actions dans une autre app. Vous savez quoi ? Je vais vous les montrer, hein.
+38:1738 minutes et 17 secondesIci, typiquement bah on a les agents IA, on a l'utilisation de anopique et cetera et cetera. Ensuite, on a faire quelque chose dans une app. Jusque-là, quand on
+38:2538 minutes et 25 secondesutilise des automatisations, c'est ça qu'on utilise quand j'ai fait le "Je veux envoyer un email et ben j'ai utilisé dans Gmail l'application euh
+38:3538 minutes et 35 secondesGmail pour envoyer un email. Euh et puis on a grossièrement toutes les applications euh qui sont disponibles.
+38:4138 minutes et 41 secondesD'ailleurs, si vous voulez voir vos tapis, si vos tapis est disponible, si je veux regarder un truc sur le SEO, je tape SEO ici et vous allez pouvoir le
+38:4838 minutes et 48 secondesvoir. Ça c'est assez classique. C'est l'action ultime euh par essence de euh de ce qu'il y a dans Nen. Après, on a la
+Chapitre 17 : Transformer la data
+38:5738 minutes et 57 secondestransformation de data. Donc par exemple euh je je vais euh et ça on va le voir dans l'exemple juste après hein, mais la transformation de data, c'est je vous
+39:0539 minutes et 5 secondesl'ai dit dans un euh dans une automatisation, il y avait à chaque fois un input, un output. Imaginons un output
+39:1239 minutes et 12 secondeseuh dans mon exemple de tout à l'heure et bien j'ai euh la NASA qui m'envoie un lien. Si ce lienlà j'ai envie d'en faire
+39:2039 minutes et 20 secondesquelque chose et ben je vais pouvoir transformer de la data. Et bien il y a plein de choses pour transformer de la data. Je peux utiliser du code, je peux
+39:2739 minutes et 27 secondeseuh avoir des variables, ce qu'on appelle les sets euh et les edits euh enfin les fields qu'on set et on édit.
+39:3339 minutes et 33 secondesBref, c'est c'est juste pour vous c'est des c'est des mots un peu compliqués, juste pour dire qu'on veut modifier de l'information. On peut modifier de la data, donc de la date et du temps,
+39:4239 minutes et 42 secondespardon. On peut filtrer de l'information, on peut ajouter euh enfin limiter euh le nombre d'éléments qu'il y
+39:5039 minutes et 50 secondesa dans une information. on peut enlever des éléments duplicate, donc des des doublons. Euh, on peut split out, donc
+39:5839 minutes et 58 secondesc'est-à-dire que quand on a un tableau, on peut le l'éclater en plein de sous-éléments et de la même manière, on peut avoir plein de sous-éléments qu'on peut combiner en tableau. Euh, enfin
+40:0840 minutes et 8 secondesdans un élément simple, on peut merge, c'est-à-dire qu'on peut avoir deux branches qui rentrent dans un même dans un même nœud. Bref, il y a plein plein de choses. On peut éditer des images.
+40:1840 minutes et 18 secondesD'ailleurs, par exemple, on aurait pu et je vais aller vous montrer rapidement l'exemple de la NASA tout à l'heure. Là, je suis revenu sur mon compte. Je vais ici. J'ai cet exemple de tout à l'heure.
+40:2840 minutes et 28 secondesJe sais pas si vous souvenez. Si je fais un plus ici et que je vais dans data transformation, je peux ici si je veux faire edit image. Et là, vous voyez,
+40:3740 minutes et 37 secondesj'ai plein de trucs sur l'image. Je peux la rendre blur, c'est-à-dire que je peux ajouter du flou dessus, je peux écrire dessus, ajouter des images
+40:4540 minutes et 45 secondesdessus. Enfin, c'est assez infini tout ce qu'on peut faire en terme de data transformation, de tout types de data. On peut dans du HTML faire des choses.
+40:5240 minutes et 52 secondesOn peut on peut là c'est pas de la crypto comme on entend, c'est pas des cryptos actifs, c'est de la cryptographie au
+41:0041 minutessens utiliser des des modèles mathématiques pour pouvoir encoder des clés et cetera pour les rendre plus sécurisé. On peut créer des fichiers
+41:0841 minutes et 8 secondesZIP. Enfin bref, je vous enlève les détails mais il y a plein de choses qu'on peut faire. Après, on a les modules de base, les modules notamment
+41:1741 minutes et 17 secondesle module HTTP qui est un module assez central qui va nous permettre d'appeler chac. Ça, on va le voir juste après.
+41:2441 minutes et 24 secondesMais en fait, je vous avoue qu'on a euh pas de limite dans tous les nœuds qui existent. On peut attendre d'ailleurs
+41:3141 minutes et 31 secondesdans une automatisation. Là, si je veux, je peux dire écoutez moi entre le moment où l'image arrive et le moment où l'email est envoyé, j'ai envie
+41:4041 minutes et 40 secondesd'attendre. Donc si je lance ça, vous voyez, ça va attendre 5 secondes avant de l'envoyer. Ça va faire ça. Tac ! 1 2
+41:5041 minutes et 50 secondes3 4 et 5. Voilà, vous voyez, c'est donc j'ai plein plein de de de nœuds comme ça qui sont disponibles. Il y a une chose
+41:5741 minutes et 57 secondesque je vous ai pas montré, mais en fait on peut dans les nœuds, on peut bifurquer, hein. On n'est pas obligé de faire un truc linéaire. On peut bifurquer ici et ajouter d'autres nœuds.
+42:0642 minutes et 6 secondesEuh et en parlant de bifurcage, il y a la notion de flow qui arrive. Euh ça veut dire que on peut créer des flots du genre je veux filtrer de l'information.
+Chapitre 18 : Les flows : if, switch, merge, human review
+42:1642 minutes et 16 secondesEuh je peux dire ici je veux uniquement si la date est un mois de juillet par exemple et si c'est uniquement un mois
+42:2442 minutes et 24 secondesde juillet et bien du coup uniquement les mois de juillet vont sortir de ce flow là hein. Et j'ai plein de types de flow différentes. Je peux faire des if
+42:3242 minutes et 32 secondesdonc si ça alors ça je peux faire des loops donc des boucles, des merges, enfin des switch et cetera et cetera. Il
+42:3942 minutes et 39 secondesy a il y a plein de types de de nœud ici et notamment derrière il y a le human review. Ça c'est très intéressant quand je fais une action assez sensible.
+42:4742 minutes et 47 secondesNotamment je peux vouloir ici dire que cet email là je veux l'envoyer uniquement si moi je donne un go et ben
+42:5642 minutes et 56 secondesje peux faire slack ici. Et donc ici ce qui se passe c'est que je ça n'enverra le message uniquement si moi je dis oui
+43:0343 minutes et 3 secondessur Slack. Voilà donc ça c'était un peu les différents types de nœud. C'était important que vous en ayez une une idée de de ce qu'il y a pour après pouvoir
+43:1243 minutes et 12 secondesimaginer toutes les automatisations parce que si vous l'avez pas ça, bah vous allez être un peu dans le flou et vous allez pouvoir uniquement ici poser la question de je sais pas comment je
+43:1943 minutes et 19 secondesfais par exemple pour bifurquer bah vous aurez pas l'information alors qu'en fait il faut aller chercher dans flow et dans flow il y a if ou filter par exemple ou
+43:2743 minutes et 27 secondesmerge ou encore switch n'hésitez pas à aller regarder la documentation si c'est quelque chose où vous êtes pas sûr donc c'està dire que switch moi je je connais pas exactement comment switch fonctionne. Je vais ici dans doc. Hop.
+43:3843 minutes et 38 secondesEt là et ben j'ai le truc de comment switch fonctionne. Et si jamais je suis pas sûr et bien je peux tout simplement copier cette page
+43:4743 minutes et 47 secondesderrière si je vais sur mon chat GPT ou sur mon cloud pour aller lui poser la question. Je explique-moi comme un enfant de 5 ans comment fonctionne ce
+43:5443 minutes et 54 secondesnœud là tout simplement dans NM. Voilà, on a vu les types de nœud. Maintenant, on va passer à l'autre cas d'usage qui est le cas d'usage numéro 2 dans lequel
+Chapitre 19 : Cas d'usage 2 : les annonces immobilières
+44:0344 minutes et 3 secondeson va euh créer une automatisation en utilisant un flux RSS. Alors déjà, petite pause he pour ceux qui sont
+44:1144 minutes et 11 secondesencore là dans cette vidéo. Si jamais vous êtes en train de l'aimer, n'hésitez pas à mettre un like, ça me prend beaucoup de temps et à moi et mon équipe de de de créer ce type de cours en
+44:1944 minutes et 19 secondesentier. Donc n'hésitez pas à mettre un like ou un commentaire pour dire un peu pour me dire un peu où vous en êtes et ce que vous êtes en train d'aimer dans cette vidéo. Et sinon euh pour ceux qui
+44:2644 minutes et 26 secondessont en train de la suivre pas à pas, n'hésitez pas à télécharger le kit compagnon avec euh avec cette euh vidéo qui va vous permettre de continuer à le
+44:3444 minutes et 34 secondessuivre mieux et avec des indications en plus. Donc cas d'usage numéro 2, qu'est-ce qu'on a dedans ? Alors moi déjà avant de commencer à faire
+44:4244 minutes et 42 secondesn'importe quelle automatisation, j'aime bien la créer sur un tableau blanc pour essayer de voir ce que je vais je veux faire. Donc là, ce que j'aimerais faire,
+44:4944 minutes et 49 secondesc'est prendre des annonces immobilières et donc des annonces immobilières, il y en a partout d'ailleurs. Il y a il y a le Bon Coin, se loger et cetera. Et
+44:5844 minutes et 58 secondesc'est pas évident d'avoir toutes ces annonces immobilières, mais j'aimerais quand même avoir un système où il y a des annonces immobilières qui arrivent.
+45:0345 minutes et 3 secondesUne fois qu'elles sont là, et ben derrière moi j'aimerais euh je j'ai un budget, on va dire que j'ai un budget,
+45:1045 minutes et 10 secondesje sais pas, de de 400000 € et euh et j'aimerais filtrer toutes ces annonces
+45:1745 minutes et 17 secondesimmobilières avec uniquement 400000 € et avoir ces annonces qui soient dans un Google Sheet
+45:2545 minutes et 25 secondesici. Voilà, ça c'est ce que j'aimerais faire mais c'est pas à ça que va ressembler mon automatisation et je vais vous montrer pourquoi elle va pas
+45:3245 minutes et 32 secondesressembler à ça. Mais c'est important d'abord quand on construit une automatisation d'imaginer l'automatisation sur comment est-ce qu'un être humain le ferait visuellement
+45:4045 minutes et 40 secondesà la main pour pouvoir derrière l'automatiser. Donc je vais faire ça avec vous et puis on va surtout mettre en pratique les différents nœuds qu'on a vu avant. Le premier nœud, je l'ai dit euh que c'était un nœud RSS. Parquoi ?
+45:5145 minutes et 51 secondesC'est quoi RSS ? Quoi ? Les flux RSS, c'est un truc qui était très à la mode avant, je dirais il y a 10 ans quand les gens faisaient des blogs. Vous avez
+46:0046 minutespeut-être entendu vu ce petit logo. Et en fait, il permet au site de communiquer via un modèle qui s'appelle
+46:0846 minutes et 8 secondesle XML, donc un un langage qui s'appelle le XML qui permet d'envoyer des informations. Alors, il se trouve que il
+46:1446 minutes et 14 secondesy a un site euh qui permet d'avoir un flux RSS. Donc si je tape flu rs imoc,
+Chapitre 20 : Le flux RSS dans n8n
+46:2246 minutes et 22 secondesil y a un site qui s'appelle CP immobilier que j'ai trouvé qui influe RSS et du coup on va l'utiliser pour
+46:2946 minutes et 29 secondespouvoir faire notre notre truc. Donc quand je clique ici, vous voyez, hop, j'ai du RSS qui apparaît. Et il se
+46:3646 minutes et 36 secondestrouve que dans NN, j'ai un flux RSS et d'ailleurs il est avec un petit éclair. Ça veut dire
+46:4446 minutes et 44 secondesque c'est un trigger, c'est un déclencheur hein. Je pouvais le trouver comme ça, mais je pouvais aussi ici aller le trouver en cliquant. Et moi,
+46:5246 minutes et 52 secondesj'ai tapé RSS directement. Je clique ça ici. Hop. Et là, il me dit "OK, mais tu veux le brancher sur quel feed ?" Bah moi, je veux le brancher sur ce feed là.
+47:0147 minutes et 1 secondeDonc je copie l'URL ici et hop, je mets ça ici. Et je vais le tester pour voir. Et là, vous voyez
+47:0947 minutes et 9 secondessi je le mets en schéma, il y a plein de choses qui s'affichent. J'ai un élément qui qui vient de s'afficher ici. Si je le mets en Jason, j'ai ça qui s'affiche.
+47:1847 minutes et 18 secondesDonc voilà. Donc là, je sais que le flux RSS fonctionne.
+47:2347 minutes et 23 secondesComme vous le savez, j'ai quelque chose en input, en output. C'est un trigger, j'ai que de l'input mais j'ai ça maintenant. Bah j'aimerais
+47:3147 minutes et 31 secondeseuh le filtrer avec uniquement les les annonces à 400000 €. Alors du coup, je vais aller regarder dedans et je vais
+47:3947 minutes et 39 secondesregarder où est-ce que se trouvent les les le prix du bien. Et en fait, il se trouve que le prix du bien, ben il se
+47:4747 minutes et 47 secondestrouve il se trouve pas là. Il est pas dans un champ et ça ça va vous arriver souvent. Ça veut dire que vous allez pas avoir un champ pris du bien. Euh, il va être certainement perdu ici.
+47:5847 minutes et 58 secondesBah du coup, moi j'aimerais bien le filtrer. Je sais que il existe un truc qui s'appelle filter par exemple qui permet de dire écoute, si prix du bien
+48:0748 minutes et 7 secondesest euh plus grand, donc is equal to ou end, non, c'est pas is equal to. Donc d'abord, faut que j'aille dans number parce que ça va être un nombre
+48:1548 minutes et 15 secondestechniquement et il est plus grand ou plus petit que 300000 €.
+48:2348 minutes et 23 secondesEt ben dans ces cas-là, je vais par la suite. Mais le problème c'est que là il me manque un truc. La data, la donnée, elle est pas du tout bien structurée
+48:3048 minutes et 30 secondespour pouvoir avoir les 300000 €. Comment est-ce que je fais pour pouvoir faire en sorte que une information ici se filtre et se
+48:3848 minutes et 38 secondesmette dans mon Google Sheet ? Bah, c'est là où je suis bloqué.
+48:4248 minutes et 42 secondeset euh et du coup, je vais devoir faire quelque chose pour pouvoir bah avoir cette information de 300000 €. Pourquoi
+48:5048 minutes et 50 secondesj'ai d'ailleurs un seul élément qui arrive alors que ici j'ai plusieurs éléments ? C'est tout simplement parce qu'ici je l'ai mis en trigger pour info,
+48:5848 minutes et 58 secondeshein, c'est que les informations vont arriver une par une. D'accord ? Si j'avais voulu le faire en mode action, j'aurais pu ajouter une action RSS. Pour
+49:0649 minutes et 6 secondesinfo, je vous le montre. Euh je mets le même lien qui était là-bas. Tac. et je fais exécuter. Et en fait, vous voyez
+49:1349 minutes et 13 secondeslà, j'en ai 96. C'est parce que moi, je veux pas le faire en une fois, je veux le faire en trigger. Donc c'est pour ça que hop, je le mets comme ça. Mais on on
+49:2249 minutes et 22 secondespourrait voir aussi une action manuelle. Mais bon, on va continuer.
+49:2749 minutes et 27 secondesComment est-ce que je fais pour détecter un prix dans quelque chose où à chaque fois il change ? Ça veut dire que si là
+49:3549 minutes et 35 secondesje vais prendre ce ce RSS là, vous voyez dans ma table là, le prix il est jamais
+49:4149 minutes et 41 secondespareil. Hop, je fais ça. Vous voyez le prix il est toujours mis différemment.
+49:4849 minutes et 48 secondesDonc ça veut dire que il y a des fois et d'ailleurs si ça nous gêne, on peut aller là-dessus faire copier et si on
+49:5549 minutes et 55 secondesveut mieux voir l'information, on fait Jason Online Editor, c'est quelque chose que j'utilise très souvent. On fait open a new document. On colle ce document, on
+50:0350 minutes et 3 secondesfait transform. On fait transform comme ça. On met notre truc ici, on fait table. Voilà, on fait tree. Et ce qui se
+50:1150 minutes et 11 secondespasse, du coup, on arrive à mieux voir un peu tout ce qu'il y a. Et donc dans chaque élément, vous voyez, j'ai à chaque fois un titre, un content snipet
+50:2050 minutes et 20 secondeset cetera. On va voir le Jason juste après, mais pour dire que l'information du prix du bien, elle est pas dans un champ, elle est toujours un petit peu prix direct promoteur par exemple ici ou
+50:2950 minutes et 29 secondesalors euh elle va être affichée différemment ou parfois elle va même pas ah si prix de vente 1200 par
+50:3750 minutes et 37 secondesexemple honoraire inclus. Moi, j'aimerais bien que il y ait quelque chose qui me permette de récupérer en fait le prix du bien ainsi que la
+50:4650 minutes et 46 secondessurface. Et du coup ça va ça va être quoi ce truc qui va me permettre de d'aller extraire ces deux informations là ? Et donc vous vous souvenez, on
+50:5450 minutes et 54 secondesavait parlé de data transformation. J'ai envie de transformer la data. Et donc il y a plein de manières de transformer la data. Il y a une des manières dont on va
+51:0251 minutes et 2 secondesnous servir c'est le code. Alors pourquoi le code ? Vous allez me dire Chubam on n'est pas des développeurs.
+51:0751 minutes et 7 secondesOui mais on a cloud avec nous ou chat GPT avec nous. Et du coup je vais je vais faire un truc c'est que je vais dire par exemple j'ai deux choix. Je
+Chapitre 21 : Claude écrit le code JavaScript d'extraction
+51:1551 minutes et 15 secondespeux prendre soit Code JavaScript code in Python. Les deux fonctionnent très bien. Je prends par exemple Code JavaScript.
+51:2251 minutes et 22 secondesJe vais faire un truc, c'est que je vais lancer ce trucl. Je vais aller dans Jason. Je vais copier ce Jason là, hein.
+51:3251 minutes et 32 secondesJe vais le coller ici dans mon cloud et je vais dire hop, voilà, j'ai un nœud code JavaScript. Je
+51:4251 minutes et 42 secondesje vais même faire ça. Hop, je vais copiercoller ce truc.
+51:4551 minutes et 45 secondesJe vais lui donner ça et je vais lui dire je suis sur N8N, j'ai un nœud code JavaScript et j'ai besoin d'extraire le
+51:5351 minutes et 53 secondesprix du bien ainsi que la surface dans euh le nœud code. Comment est-ce que je peux arriver à faire ça ? Parce
+52:0152 minutes et 1 secondeque derrière, j'aurais besoin de filtrer les choses. Je lui dis ça et là il va m'écrire le code parfait pour pouvoir extraire parce qu'il y a des petites subtilités en fait. piège principal,
+52:1052 minutes et 10 secondesc'est que mon dans mon flux RSS, parfois il y a marqué euh euro, FAI ou honoraire inclus et cetera. Et donc lui, il va me
+52:1752 minutes et 17 secondesfaire un parce gros un système qui va me permettre quoi qu'il arrive que ça soit marqué euro, FAI, frais d'agence inclus,
+52:2552 minutes et 25 secondeshonoraire inclus et cetera. Il va me permettre de de faire ça. Il me dit "Attention euh certains items n'auront ni prix ni surface parce que c'est pas
+52:3452 minutes et 34 secondesmarqué et cetera." Et c'est ce qu'on veut en fait. qui fait de notre mieux euh dont il fait de son mieux pardon pour nous donner ça. Et donc là je vais coller cette information là et voir si
+52:4352 minutes et 43 secondesça fonctionne. Et là il me dit euh bah là ça marche pas sur le premier en tout cas.
+52:4852 minutes et 48 secondesAh oui parce que j'ai pas donné d'information, je l'ai pas. Vous avez vu d'ailleurs, c'est c'est assez intéressant. Il m'a dit no input connected, c'estàd que je l'ai juste pas
+52:5652 minutes et 56 secondesdonné d'information. Et là si je le lance, execute step. Booum. Vous voyez ?
+53:0353 minutes et 3 secondesPrix surface prix surface prix surface prix surface.
+53:0653 minutes et 6 secondesEn 2 secondes, il m'a trouvé pour chacun des biens.
+53:1153 minutes et 11 secondesC'est assez magique d'ailleurs. Alors qu'avant je n'avais pas cette information, en 2 secondes, il a été ici
+53:1953 minutes et 19 secondeset vous avez vu par exemple ici, il y a marqué 116 m² sur deux niveaux et il a réussi à comprendre que c'était le 39 et
+53:2553 minutes et 25 secondescetera. Donc là 113 m² et prix au mètre carré. Ah, il m'a sorti un prix au mètr². Alors, je n'avais pas besoin de ça, mais il me l'a dit quand même. Euh, et c'est 54 9990.
+53:3853 minutes et 38 secondesEn tout cas, j'ai cette information maintenant et d'ailleurs, je peux ici mettre ce trucl là. Est-ce que ça va
+53:4553 minutes et 45 secondesfonctionner ? Ça fonctionne et j'ai en effet cette information aussi. Super.
+53:5153 minutes et 51 secondesDonc maintenant, j'ai l'information, je vais pouvoir la filtrer. Donc je peux pouvoir dire euh
+Chapitre 22 : Filtrer les annonces par prix + pin data
+53:5953 minutes et 59 secondesest-ce que mon prix donc vous souvenez, j'avais parlé des filtres. Donc je peux tapeler ici, je peux taper filtre filtre. Je filtrer l'information. Donc là, je peux
+54:0854 minutes et 8 secondesdire par exemple, j'ai envie que le prix soit donc là hop et ça ces champs là, c'est du champ texte. Vous voyez ici, il
+54:1654 minutes et 16 secondesy a un petit une petite diè qui apparaît. Donc c'est faut que ça soit du diè ici. C'estàd faut que faut que ça soit un nombre que j'essaie de comparer.
+54:2454 minutes et 24 secondesDonc faut que le nombre soit less than par exemple 4000. J'avais dit 3000 ou 4000, je me souviens plus. 400000
+54:3254 minutes et 32 secondespardon. Si c'est moins de 400, il me dira euh quelque chose. Si c'est plus de 400, il me dira rien. Donc là, qu'est-ce
+54:4054 minutes et 40 secondesqui se passe ? Vous voyez, il y a marqué kept, donc ça veut dire il l'a gardé ou il l'a discarded, donc ça veut dire
+54:4854 minutes et 48 secondesqu'il l'a supprimé. Et là, en fait, il l'a supprimé. C'estàd que si j'avais mis un nœud après si je lui avais dit écoute, j'aimerais bien avec Gmail ou
+54:5654 minutes et 56 secondesque tu l'ajoutes à un tableau par exemple, il y a des tableaux et bien il l'aurait pas continué. Par contre, si je lui dis
+55:0355 minutes et 3 secondesécoute, j'ai envie qu'il soit supérieur greater than euh 400000 et là il est dans kept. Ça veut dire qu'il l'a gardé.
+55:1255 minutes et 12 secondesEt donc ça me permet de filtrer l'information. Euh on va faire ce tru-là. Mais ici, ici j'ai qu'un nœud, on est d'accord ? Sauf qu'ici, j'en ai
+55:2155 minutes et 21 secondesbeaucoup plus, j'en ai 96. D'ailleurs, il y a un truc qui m'embête et je vais vous en parler, c'est que à chaque fois je dois lancer ce trucl-là, en fait dans
+55:3055 minutes et 30 secondesla réalité, ça ressemble pas à ça. On ne relance pas un nœud pour récupérer l'information. Ici, on a de la chance, c'est du RSS, c'est-à-dire que c'est gratuit. Mais dans les fois où ici par
+55:3955 minutes et 39 secondesexemple c'est la réception d'un email ou c'est une une donnée qui vient du Nia qu'on paye ou
+55:4755 minutes et 47 secondesquoi que ce soit et bien ça coûte très cher. Et donc il y a une une chose que j'ai envie de vous montrer, c'est ce petit bouton là qui s'appelle pin data.
+55:5455 minutes et 54 secondesPin data, ça vous permet de quand vous relancez à ce que ça ne refasse pas la requête. C'est-à-dire que ça ne va pas
+56:0056 minutesaller chercher l'information dans le RSS mais ça va juste la récupérer dans sa mémoire. C'estàd qu'à partir du
+56:0956 minutes et 9 secondesmoment, il la pine la data. Donc ça veut dire qu'il l'a enregistré et donc ça va éviter que ça refasse la requête encore et encore. Et donc je vais ici, je mets
+56:1756 minutes et 17 secondesça là. Donc maintenant il va aller extraire les informations. D'ailleurs, on va les faire petit à petit vu que ça ne coûte plus rien. C'està dire que là
+56:2556 minutes et 25 secondesil va pas aller refaire la requête. On fait exécute workflow. D'ailleurs, il y a un truc, le execute Warflow, ce qu'il va faire, c'est qu'il va aller chercher le trigger. Donc c'est pas bon. Nous, on
+56:3456 minutes et 34 secondesveut mettre un trigger manuel maintenant. Pourquoi mettre un trigger manuel ? C'est que ici, j'ai envie de lancer les choses à la main. Hop, voilà.
+56:4256 minutes et 42 secondesDonc donc là, j'ai deux workflow avec deux triggers d'ailleurs. Là, j'ai un trigger manuel. Je vais faire exécute Warflow. Il va se passer des choses. Donc là, il y a 96 choses qui sortent.
+56:5156 minutes et 51 secondesIci, dans les 96 choses qui sortent, j'ai à chaque fois des prix, des surfaces. des prix des surfaces. Hop.
+57:0057 minutesParfois, j'ai pas de prix quand ça n'arrive pas, mais voilà. Et là, je vais mettre mon filtre et on va voir ce qui va se passer.
+57:0757 minutes et 7 secondesEn sachant que je dis que je veux uniquement les choses qui sont au-dessus de 400000 déjà pour commencer pour pas trop changer
+57:1557 minutes et 15 secondesde 96, il me passe à 31 éléments. Alors que si je le mets en dessous is less than
+57:2357 minutes et 23 secondesdonc voilà ici grossièrement j'ai 65 éléments qui arrivent sauf que il y a un truc c'est que parfois je vais ici et il y a des choses nulles parce qu'il y a
+57:3057 minutes et 30 secondesdes fois il a pas récupéré le prix en fait. Donc ce que je vais faire, c'est que je peux si je veux encore filtrer.
+57:3757 minutes et 37 secondesC'est pas terrible parce que en gros j'aurai plusieurs nœuds qui vont se balader. Mais je peux aussi faire un truc, c'est qu'il y a d'autres types de data transformation ou de flow. Je peux
+57:4657 minutes et 46 secondespar exemple dire euh un if, je peux dire que si
+57:5257 minutes et 52 secondesle prix est en dessous, donc
+57:5957 minutes et 59 secondesnumber is less than 3000 300000 pardon, j'ai envie de faire ça. J'avais mis 400000 je crois. Voilà, j'ai envie de
+58:0858 minutes et 8 secondesfaire ça. Tac. Et du coup, vous voyez, il m'ajoute des des branches. Mais là,
+58:1558 minutes et 15 secondesc'est un if true or false, donc si c'est vrai ou pas. Mais j'ai un autre truc qui existe qui s'appelle switch.
+Chapitre 23 : If et switch : gérer tous les cas
+58:2158 minutes et 21 secondesSwitch, ça permet d'avoir plusieurs branches. Donc on peut dire branche une si le prix
+58:2858 minutes et 28 secondesest lessen 400000.
+58:3658 minutes et 36 secondesMais je peux ajouter une nouvelle branche si le prix est au-dessus ou en dessous par exemple. Ou
+58:4458 minutes et 44 secondesalors je peux ajouter une branche surtout celle que je voulais. c'est que si le prix est nul, en fait, il y a un problème, c'est que ici par exemple, je
+58:5158 minutes et 51 secondesfais ça, il y a 65 éléments qui sortent mais j'ai envie de dire que si le prix enfin si le le le prix est nul, et bien
+59:0059 minutesj'ai envie de faire autre chose. Donc j'ai envie de prendre par exemple price, ajouter une branche,
+59:0759 minutes et 7 secondesle prix number et je peux dire que le number, il
+59:1359 minutes et 13 secondesfaut qu'il existe ou qu'il existe pas par exemple. Et là, dans le cas où il existe pas, on va voir ce qui va se passer. Hop ! Ah, il dit qu'il existe à chaque fois. OK, intéressant.
+59:2459 minutes et 24 secondesAlors qu'il est nul. Hop ! Number is empty. Du coup, est-ce qu'il est vide ? C'est un des deux, ça dépend des fois.
+59:3559 minutes et 35 secondesOK, en fait, c'est parce que le isempty, je l'ai mis au-dessus. Donc il faudrait il faut d'abord que il faut savoir que les roules donc les règles dans un
+59:4259 minutes et 42 secondesswitch arrivent par ordre de passage. Et là la condition numéro 1 capter tout.
+59:4759 minutes et 47 secondesOui, c'était plus grand que 400000 c'était plus petit que 400000 et selon lui nul et plus petit que 400000. Alors que si là je le lance,
+59:5459 minutes et 54 secondesvoilà donc j'ai 51 éléments dans lequel c'est nul, il a pas réussi à récupérer 14 éléments. Et en fait avec ces 14
+1:00:011 heure et 1 secondeéléments, je vais vous vouloir les ajouter par exemple dans un tableau.
+1:00:061 heure et 6 secondesJ'avais dit Google Sheet tout à l'heure, on on va on va pas le faire sur un Google Sheet parce qu'il va il va falloir aller euh mettre les credentials. Si ça vous intéresse qu'on
+1:00:141 heure et 14 secondesqu'on s'intéresse à comment mettre des credentials Google, on pourra le faire dans un second temps et je pour vous faire une vidéo dessus. Mais on va utiliser euh un des trucs que je vous ai
+1:00:221 heure et 22 secondespas montré, c'est les tableaux. Euh j'aimerais bien l'ajouter dans le cas où c'est euh où c'est bon à euh un tableau.
+1:00:281 heure et 28 secondesDonc il y a des tables euh il y a des data table dans euh euh dans NN et donc les data table c'est
+Chapitre 24 : Les data tables : le tableur intégré de n8n
+1:00:371 heure et 37 secondescomme des tableaux. Donc je peux par exemple insérer une colonne dans un data table. Et pour ça il faut que j'ai créé un data table. Donc j'en ai pas encore.
+1:00:471 heure et 47 secondesJe vais créer un data table. Je je vous montre un petit peu où c'est les data table parce qu'il y a quand même un truc génial qui je trouve est pas assez
+1:00:541 heure et 54 secondesutilisé dans Inend. C'est là je peux créer des Google Sheet donc des tables.
+1:00:581 heure et 58 secondesJe peux dire par exemple une table qui va s'appeler IMO. Et donc dans cette table IMO, je vais créer
+1:01:061 heure, 1 minute et 6 secondesdeux colonnes. Donc une colonne prix qui va être de type number, une autre colonne surface par exemple
+1:01:141 heure, 1 minute et 14 secondesqui va être de type number et une autre une autre colonne par exemple contenu, tu vois, content.
+1:01:221 heure, 1 minute et 22 secondesHop, voilà, j'ai ma data table ici. Je vais dans mon workflow et je lui dis écoute, voilà, j'aimerais bien que tu
+1:01:291 heure, 1 minute et 29 secondesajoutes tous ces élémentsl dans ma data table IMO qui du coup est apparu ici. Et voilà où j'ai envie de mettre ces
+1:01:361 heure, 1 minute et 36 secondesinformations tout simplement. Et donc, j'ai envie de mettre la surface ici.
+1:01:411 heure, 1 minute et 41 secondesAlors, pourquoi c'est grisé ici ? Parce que le nœud d'avant n'a pas eu le temps d'aller ici tout simplement.
+1:01:481 heure, 1 minute et 48 secondesJ'ai envie de mettre le prix ici et j'ai envie de mettre le contenu ici. Hop là.
+1:01:541 heure, 1 minute et 54 secondesEt là, vous allez voir, on va on va mettre ça dans deux colonnes différentes exprès.
+1:02:011 heure, 2 minutes et 1 secondeTac. Je vais faire split view.
+1:02:051 heure, 2 minutes et 5 secondesVoilà. Eu et on va aller juste aller regarder la data table pour que vous voyez ce que ça donne. Donc là, j'ai ma table qui est vide et là on va ajouter les 14 éléments.
+1:02:181 heure, 2 minutes et 18 secondesDonc hop, on lance.
+1:02:201 heure, 2 minutes et 20 secondesBam ! Et là je recharge. Et là j'ai 14 éléments. Vous voyez ce qui s'est passé ? C'est que d'un coup il m'a ajouté uniquement les éléments filtrés. Et
+1:02:281 heure, 2 minutes et 28 secondesd'ailleurs, ce qui est génial c'est que bon, je vais fermer ça, mais ce qui est génial c'est que ici j'ai exactement ce qui s'est passé.
+1:02:361 heure, 2 minutes et 36 secondesJ'ai eu un élément avec 96 éléments ici dans lequel j'ai récupéré les informations. 51 étaient pas dispo, 14
+1:02:441 heure, 2 minutes et 44 secondesétaient dispo et les 14 ont été ajoutés par ce qui correspondait à mon ma règle de moins de 400000.
+1:02:521 heure, 2 minutes et 52 secondesVoilà. Et donc maintenant que j'ai testé ça sur 96 éléments, qu'est-ce que je fais ? Je fais ça, boum.
+1:02:591 heure, 2 minutes et 59 secondesEt je l'ajoute ici. C'estàd qu'à partir de maintenant, si l'information Ah oui, parce que du coup mon trigger est encore
+1:03:061 heure, 3 minutes et 6 secondeslà. Je peux changer ici de trigger. Hop, voilà. Boum. Est-ce que c'est ici ? Non, c'est pas allé ici. Boum, je vais là.
+1:03:151 heure, 3 minutes et 15 secondesDonc ça veut dire que il a pas réussi à prendre d'information. Je peux créer un autre data table avec euh élément non réussis par exemple. Donc je peux si je
+1:03:231 heure, 3 minutes et 23 secondesveux ajouter un autre data table qui fait que ça s'ajouterait de ce côté-là.
+1:03:261 heure, 3 minutes et 26 secondesMais vous voyez un petit peu la la manœuvre, c'est on teste d'abord et on rend en production. Ensuite, on a plus qu'à faire publish et ça y est, à partir de maintenant, chaque nouvelle annonce
+1:03:351 heure, 3 minutes et 35 secondesimmobilière qui va sortir, si elle correspond à mes critères, elle va aller directement dans ma table ici et j'ai plus qu'à la pub pour avoir la dernière
+1:03:441 heure, 3 minutes et 44 secondesversion. Ah oui, et petite parenthèse aussi là, vous voyez, c'est un peu le bazar. Si je veux ça, je le supprime. Si je veux ça, je fais un peu un petit coup
+1:03:521 heure, 3 minutes et 52 secondesde ménage. Et aussi, je vous incite à renommer les choses. C'est veut dire que là, si je vais et j'appuie sur espace, je peux renommer. Donc là, par exemple,
+Chapitre 25 : Ménage : renommer et documenter le workflow
+1:03:591 heure, 3 minutes et 59 secondesje peux je peux faire annonce imo. Hop, ici euh je peux mettre code ou ou extraction de prix. Donc, si j'appuie
+1:04:071 heure, 4 minutes et 7 secondessur extraction de prix, je vous incite quand même à à à noter ou en tout cas à bien renommer les choses. Notamment ici,
+1:04:151 heure, 4 minutes et 15 secondesje peux renommer les branches, je fais rename output. Je peux je peux dire nul par exemple ici et là je peux dire - 2 400000.
+1:04:241 heure, 4 minutes et 24 secondesHop là tac. Là vous voyez c'est beaucoup plus beaucoup plus clair. Et là je peux dire insérer
+1:04:311 heure, 4 minutes et 31 secondesune ligne. Hop rename. Voilà vous avez quand même un workflow ici qui est que vous pouvez renommer et du coup qui est
+1:04:401 heure, 4 minutes et 40 secondesbeaucoup plus clair quand quelqu'un va le lire. Et notamment, il y a une chose qu'on peut faire qu'on a pas parlé, c'est addicky notes. C'està-dire que vous pouvez ajouter des des petites
+1:04:471 heure, 4 minutes et 47 secondesnotes comme ça euh si vous voulez, vous l'avez souvent vu d'ailleurs sur YouTube. Euh il y a plein de gens qui ajoutent ce genre de note là. Tout
+1:04:551 heure, 4 minutes et 55 secondesdépend du de votre deà à quel point vous bossez en équipe, mais généralement quand quelqu'un regarde une automatisation qui est bien
+1:05:021 heure, 5 minutes et 2 secondesdocumenté, c'est parfois oui utile ou non selon selon moi d'ajouter une note. Souvent ces notes sont automatiquement ajoutées
+1:05:101 heure, 5 minutes et 10 secondespar les MCP, mais on va on va le voir très très rapidement. Mais voilà, vous avez vu l'exemple numéro 2, vous avez vu un petit peu comment fonctionnait une
+1:05:181 heure, 5 minutes et 18 secondesautomatisation et com quel était le mode de réflexion quand on avait un besoin qui initialement part d'un truc assez
+1:05:241 heure, 5 minutes et 24 secondesvague qui est ici et arrive euh ici dans une automatisation finale. Bon, avant de clore cette partie de l'usage 2,
+Chapitre 26 : Ajouter de l'IA au milieu du workflow
+1:05:331 heure, 5 minutes et 33 secondesj'aimerais quand même ajouter quelque chose parce qu'en réalité, on a vu dans ce workflow, le switch, le fait qu'on
+1:05:401 heure, 5 minutes et 40 secondespouvait ajouter du code et manipuler la data, mais j'aimerais quand même voir quelque chose avant de voir le l'usage 3. Ce quelque chose, c'est quoi ? C'est
+1:05:491 heure, 5 minutes et 49 secondesdes workflow avec de l'IA. Euh les l'exemple 3, il va être complètement porté sur les agents IA. Mais du coup, j'aimerais quand même ajouter ici un
+1:05:581 heure, 5 minutes et 58 secondespetit peu d'IA pour vous montrer comment est-ce qu'on va pouvoir utiliser la force des LLM, donc large language model comme vous utilisez comme GPT ou alors euh sonet opus, c'est peut-être des
+1:06:071 heure, 6 minutes et 7 secondeséléments qui vous parlent que vous utilisez peut-être au quotidien avec Clod et chat GPT. Ici, on va vouloir les intégrer dans notre workflow avec une
+1:06:141 heure, 6 minutes et 14 secondeschose simple, c'est que ici à la fin, on veut ajouter un petit truc qui est que quand on a fini de l'ajouter à notre Google Sheet ou à notre tableau, on
+1:06:231 heure, 6 minutes et 23 secondesaimerait bien et bien créer euh un mail automatisé ou en tout cas une note automatisée qui reprend nos questions
+1:06:321 heure, 6 minutes et 32 secondesqui soient en fonction de l'appartement qu'on a choisi. Donc c'est-à-dire que je vous donne un exemple, j'ai un appartement ici. Donc si je réexécute le
+1:06:411 heure, 6 minutes et 41 secondesworkflow, j'ai un appartement et alors ici ça ne va pas fonctionner du coup parce que euh notre appartement est en
+1:06:491 heure, 6 minutes et 49 secondesdessous de de 400000. Mais imaginons ici, on fait hop, on va le remettre au-dessus. Voilà.
+1:06:571 heure, 6 minutes et 57 secondesVoilà. Donc ici ça va dedans. Très bien.
+1:06:591 heure, 6 minutes et 59 secondesOn a un appartement, c'est une maisonne, surface 113 m² et cetera. J'aimerais bien créer un message automatique pour
+1:07:061 heure, 7 minutes et 6 secondesle l'agence en lui posant des questions, en demandant si c'est possible de visiter parce qu'il correspond à mes critères. Et donc, j'aimerais bien
+1:07:131 heure, 7 minutes et 13 secondesrédiger un email pour ça. Sauf que si je l'avais fait euh dans la vraie vie, j'aurais été voir cette annonce qui est
+1:07:201 heure, 7 minutes et 20 secondesarrivé ici. J'aurais été sur le site euh et puis j'aurais lu l'annonce en question euh et j'aurais posé mes
+1:07:291 heure, 7 minutes et 29 secondesquestions directement et peut-être appelé la personne. Alors qu'ici, j'aimerais bien envoyer un message directement. En tout cas, rédiger le
+1:07:371 heure, 7 minutes et 37 secondesmessage automatiquement. Comment est-ce que je veux faire ça ? Et bien tout simplement, on va ici ajouter un nœud, un nœud qui va être un nœud un peu
+1:07:451 heure, 7 minutes et 45 secondesspécial car ça va être un nœud IA qui va prendre l'information en entrée, donc l'information de ce qu'il y a dans le
+1:07:541 heure, 7 minutes et 54 secondescontenu de l'annonce et rédiger un email pour nous. On va pas aller l'envoyer encore mais on va juste le rédiger. Donc
+1:08:011 heure, 8 minutes et 1 secondeet bien pour utiliser les nœuds IA, il y a tout ce qu'il y a ici IA. Et là il y a plein de types de N IA. les agents hier, on se les garde pour plus tard parce
+Chapitre 27 : Le nœud Anthropic rédige l'email
+1:08:101 heure, 8 minutes et 10 secondesqu'ils sont un peu spéciaux. En revanche, on a ici en Tropic, Google Gemini, Min Max et cetera. On a Olama si
+1:08:171 heure, 8 minutes et 17 secondesjamais on veut utiliser notre directement des LLM plutôt locaux. Bref, on va pas trop dans les détails, mais
+1:08:251 heure, 8 minutes et 25 secondesvoilà, on a plein de choses. Euh moi ici, je vais utiliser euh un des modèles qui est là. Donc là, dans le cas, je
+1:08:321 heure, 8 minutes et 32 secondesvais utiliser en tropique parce que c'est lui que j'utilise et je vais utiliser le fait de message
+1:08:381 heure, 8 minutes et 38 secondeset model. Alors petit rappel euh ici pour pouvoir utiliser Entropiic, il faut des credentials. Donc faut aller créer
+1:08:461 heure, 8 minutes et 46 secondesune nouvelle clé API dansic aller ici là dans Entropic console,
+1:08:531 heure, 8 minutes et 53 secondescréer une clé. Et une fois qu'on a créé cette clé, et bien va falloir la copiercoller ici, ce qui va nous donner un nouveau compte pour pouvoir
+1:09:001 heure et 9 minutesl'utiliser. Voilà. Si par exemple je fais coucou ici euh c'est le message, c'est le prompt que je tape et que je fais execute step, qu'est-ce qui se
+1:09:081 heure, 9 minutes et 8 secondespasse ici ? Il me dit "Ah attention euh tu m'as pas mis le paramètre du modèle.
+1:09:121 heure, 9 minutes et 12 secondesVoyez, il y a une erreur." Il m'a dit, "Tu m'as pas dit quel modèle tu veux utiliser. Imaginons, on veut utiliser son5." On fait exécute step et vous voyez à coucou, il va me répondre
+1:09:211 heure, 9 minutes et 21 secondes"Coucou, comment ça va ? Comment je peux t'aider ?" C'est comme si j'avais C'est exactement la même chose comme si j'avais écrit coucou ici hein. C'est exactement la
+1:09:291 heure, 9 minutes et 29 secondesmême chose par que là j'utilisais pas le le même modèle mais voilà un petit peu comment comment je peux l'utiliser.
+1:09:361 heure, 9 minutes et 36 secondesAlors coucou. Euh moi je vais pas mettre coucou. Je veux dire voilà je suis à la recherche d'un bien immobilier à Ancy
+1:09:431 heure, 9 minutes et 43 secondesCentre. J'aimerais bien que tu m'aides à rédiger un email qui pose des questions
+1:09:511 heure, 9 minutes et 51 secondesau propriétaires en fonction du contenu de l'annonce. Voilà, je vais pas dire un 6 centre ici parce que cette annonce
+1:09:591 heure, 9 minutes et 59 secondesc'est pas directement un 6 centre mais voilà. Et donc ici si je fais ça, qu'est-ce qui se passe ?
+1:10:051 heure, 10 minutes et 5 secondesBah, il va certainement me dire "OK, bah soit voici l'email, soit il va me dire "Attends, mais il me manque le contenu là de ton annonce, tu m'as pas donné le contenu."
+1:10:151 heure, 10 minutes et 15 secondesAvec plaisir. Pour reger l'email, j'ai besoin que vous me con communiquez le contenu de l'annonce. Bah oui, on l'a pas donné. Et donc pour le donner, vous souvenez l'histoire des variables ? Et
+1:10:231 heure, 10 minutes et 23 secondesben là, on va venir mettre cette variable ici.
+1:10:261 heure, 10 minutes et 26 secondesVoilà. Et là, il y a un truc qui se passe à chaque fois, Jason, vous inquiétez pas, on va le voir juste après. Mais on va ajouter ça. Et là, cette fois-ci, ce qu'on va faire, hop.
+1:10:371 heure, 10 minutes et 37 secondesEt c'est comme s'il avait eu le contenu de l'annonce ici. Et là, on va le lancer. Et là, il va écrire un message.
+1:10:441 heure, 10 minutes et 44 secondesAlors, voilà, il dit texte.
+1:10:481 heure, 10 minutes et 48 secondesVoici un modèle d'email structuré objet et cetera et cetera.
+1:10:531 heure, 10 minutes et 53 secondesVoilà. Donc nous si on peut on peut faire je suis à la recherche d'amien, j'aimerais un email. On peut on peut dire écrit ou on peut faire genre format de sortie.
+1:11:071 heure, 11 minutes et 7 secondesjuste l'email HTML.
+1:11:101 heure, 11 minutes et 10 secondesDonc le fait qu'il soit en HTML, je sais pas si vous vous souvenez, et bien on va pouvoir derrière le brancher à un Gmail qui va pouvoir envoyer l'email
+1:11:191 heure, 11 minutes et 19 secondesautomatiquement et ça ça va être très intéressant pour nous. D'abord, nous on va juste créer le brouillon et voilà, il y a l'email HTML qui est juste là. Donc
+1:11:281 heure, 11 minutes et 28 secondeslà, vous voyez, c'est un nœud un peu spécialin. D'ailleurs, il y a des outils qu'on peut ajouter à ce nœud. On va pas nécessairement aller aller chercher ça.
+1:11:361 heure, 11 minutes et 36 secondesEuh hop. Et du coup ici, on peut ajouter Gmail euh ou alors n'importe quel outil email
+1:11:441 heure, 11 minutes et 44 secondeshein. J'utilise Gmail mais on peut ajouter Outlook ou ou ce qu'on veut.
+1:11:501 heure, 11 minutes et 50 secondesCe que je vais faire là c'est quand vous voyez ça tac si je prends le contenu du message et d'ailleurs je peux le prendre
+1:11:571 heure, 11 minutes et 57 secondessous format Jon. Je peux prendre hop ce contenu là comme ça
+1:12:041 heure, 12 minutes et 4 secondeset que je vais par exemple dans HTML online editor, je sais pas si vous vous souvenez.
+1:12:111 heure, 12 minutes et 11 secondesHop ! Et je mets ça ici. Bah ça me fait ça. C'est pas exactement ce qu'on veut, hein. Alors ça ça fait ça parce que il y a le back slashn, ça veut dire sauter
+1:12:201 heure, 12 minutes et 20 secondesune ligne. Mais là vous voyez le le type d'email qui me fait pour pas se prendre la tête et pour éviter parce qu'on a déjà vu le comment
+1:12:281 heure, 12 minutes et 28 secondesme brancher et comment ajouter ça en Gmail, ce qu'on va faire c'est on va directement venir insérer dans la ligne en question l'email en HTML. Donc du
+1:12:361 heure, 12 minutes et 36 secondescoup, ce qu'on va faire, c'est qu'on va ajouter dans le tableau data table.
+Chapitre 28 : Écrire la réponse de l'IA dans la data table
+1:12:441 heure, 12 minutes et 44 secondesLà, on a déjà ajouté une ligne, on va ajouter juste une colonne dans le tableau ou en tout cas, on va remplir cette colonne. Donc du coup, ce que je
+1:12:511 heure, 12 minutes et 51 secondesvais faire, c'est que je vais aller euh hop dans mon tableau overview data tableau
+1:12:591 heure, 12 minutes et 59 secondeset je vais aller ici ajouter une colonne qui va être le message qui est un message, ça va être un message de type string. Donc euh alors
+1:13:071 heure, 13 minutes et 7 secondesc'est vrai qu'on a pas beaucoup parlé des types mais les types c'est les les différents types de
+1:13:141 heure, 13 minutes et 14 secondesdata qu'il y a. Donc il y a string, il y a numbers, il y a les bouléens, il y a plein de types de de types qui existent.
+1:13:221 heure, 13 minutes et 22 secondesEt d'ailleurs, on a le choix quand on ajoute un un type, il y a ces quatre types qui existent. Mais bon, nous on a ajouté à un moment donné
+1:13:311 heure, 13 minutes et 31 secondesla possibilité d'avoir le message. Ici, il y a nul parce que jusque là on a aucun message mais c'est juste que nous on va aller le remplir. Et donc à chaque
+1:13:391 heure, 13 minutes et 39 secondesfois qu'on va ajouter là, hop, on revient ici dans Imodelli, on aimerait bien ajouter une dans notre dans notre colonne
+1:13:481 heure, 13 minutes et 48 secondesd'ailleurs dans data table, on aimerait bien ajouter alors où est-ce que c'est ?
+1:13:531 heure, 13 minutes et 53 secondesC'est update update browe. Donc on met à jour le
+1:14:021 heure, 14 minutes et 2 secondesla ligne qu'on a insérée. Et donc du coup où est-ce qu'on retrouve cette ligne ? Donc pour update rollo, bah quel est le le truc dans lequel on veut le faire ? Euh on veut ajouter le message.
+1:14:121 heure, 14 minutes et 12 secondesDonc message c'est plutôt clair. Hop le message on va l'ajouter depuis euh bah depuis ici et il est dans le texte. Hop.
+1:14:211 heure, 14 minutes et 21 secondesJuste parce que c'était le texte qui avait. Si jamais on sait pas trop, on fait juste ça, on le lance.
+1:14:271 heure, 14 minutes et 27 secondesEt le fait qu'il soit lancé, d'ailleurs, je vais éviter que le format de sortie soit de l'HTML d'ailleurs, comme ça je peux le relancer. Hop.
+1:14:371 heure, 14 minutes et 37 secondesMais voilà, le fait que il soit lancé ici en fait et bien ça va permettre de prévisualiser quel est le type de données qui vont sortir, quelle est
+1:14:461 heure, 14 minutes et 46 secondesexactement la composition des différents champs. Et là, comme vous le voyez, la composition des différents champs, hop, je peux la mettre ici. Bah, je l'avais
+1:14:531 heure, 14 minutes et 53 secondesdéjà mis en fait. Donc donc voilà. Bon, maintenant, on ne sait pas quelle euh ligne choisirait. Et donc pour ça, euh on devrait ajouter une condition. Et
+1:15:011 heure, 15 minutes et 1 secondecette condition, c'est que la ligne qu'on choisit, c'est la ligne dans laquelle on a ajouté notre élément tout à l'heure. Donc il faudrait que ce ID
+1:15:101 heure, 15 minutes et 10 secondessoit égal à l'ID dans lequel on a ajouté. Alors on va prend on va voir si ça fonctionne, hein. Donc c'est-à-dire que je vais prendre hop ça ici. Je vais
+1:15:191 heure, 15 minutes et 19 secondesaller regarder dans data table. Hop et voilà. Donc a priori c'est la dernière ligne, la ligne 17 dans laquelle ça a été ajouté. Vous savez quoi ? On va tout
+1:15:271 heure, 15 minutes et 27 secondessupprimer comme ça ça va être plus simple. Hop. Delete. Voilà, je lance ça.
+1:15:361 heure, 15 minutes et 36 secondesLà, il y a la première ligne qui est ajoutée. Dans message, c'est nul. Je recharge. Je recharge. Toujours rien. Je recharge. Toujours rien. Je recharge.
+1:15:451 heure, 15 minutes et 45 secondesC'est encore en train d'être exécuté. Toujours rien.
+1:15:481 heure, 15 minutes et 48 secondesAh, c'est fini d'être exécuté. Et là, vous voyez, il y a un message. Il y a un message de de demande d'information
+1:15:561 heure, 15 minutes et 56 secondescomplémentaire. maison mitoyenne à VJ euh Vieji pardon 549000 €. Bonjour, je me permets de vous contacter suiv suite à votre annonce et cetera et cetera. Et
+1:16:051 heure, 16 minutes et 5 secondesc'est grossièrement la même chose qu'on nous aurait donné si j'avais mis ici le euh contenu de l'annonce et si j'avais
+1:16:111 heure, 16 minutes et 11 secondesmis ici le notre prompt initial de de ce que je voulais faire là de rédiger
+1:16:181 heure, 16 minutes et 18 secondesun message. Exactement. Donc voilà ce que ça donne à peu près dès qu'on veut ajouter de l'IA. Il y a une manière
+1:16:261 heure, 16 minutes et 26 secondesd'ajouter de l'IA. C'est celle, comme je vous l'ai dit hein, de d'avoir de l'IA en plein milieu d'un workflow. Mais sauf que nous, c'est pas la seule manière
+1:16:341 heure, 16 minutes et 34 secondesqu'on va voir. On va aussi voir comment ajouter de l'IA en tant qu'agent. C'est d'ailleurs comme ça que Nen s'est beaucoup fait connaître. C'est peut-être comme ça que vous avez connu NN, c'est
+1:16:421 heure, 16 minutes et 42 secondesavec les agents I dans NN. Mais avant de parler de ça, il faut qu'on voit deux choses. Deux choses que je vous avais promis. Alors, on a vu le cas d'usage
+1:16:511 heure, 16 minutes et 51 secondesnuméro 2, c'est top. Mais il nous voit, il nous faut voir deux choses avant de voir le cas d'usage numéro 3. Le premier c'est Jason vs Skima vs Table. Alors, on
+Chapitre 29 : JSON vs schéma vs table
+1:16:581 heure, 16 minutes et 58 secondesl'a un peu parcouru, mais c'est une notion très importante, notamment le Jason parce que tout est en Jason et après on verra API et HTTP. Du coup, le
+1:17:071 heure, 17 minutes et 7 secondesJason, parlons-en. Vous avez vu que quand on a une information ici, on peut la voir de trois manières différentes.
+1:17:141 heure, 17 minutes et 14 secondesEt ces trois manières sont assez importantes de comprendre qu'est-ce que ça change ici. Alors, sur ces trois manières, vous l'avez vu, hein, on a
+1:17:211 heure, 17 minutes et 21 secondestable, Jason et Skima. Table, c'est qu'on voit les éléments sous forme de table, surtout quand il y en a beaucoup.
+1:17:291 heure, 17 minutes et 29 secondesDonc, on l'a vu, quand on a table, là, il y a un élément et on le voit sous forme de table. schéma,
+1:17:361 heure, 17 minutes et 36 secondesc'est quand on voit la manière dont le Jason est construit. Et Jason, c'est quand on voit le Jason de manière brute.
+1:17:441 heure, 17 minutes et 44 secondesAlors, vous allez me dire "Oui, Chubam, superbe, tu me l'as déjà plus ou moins dit." À quoi ça ne sert tout ça ? Et bien, il y a un truc qu'il faut bien comprendre que ce n'est que ces trois vues ne sont pas fait pour la même
+1:17:521 heure, 17 minutes et 52 secondeschose. En fait, il faut savoir que la raison pour laquelle on fait du Jason, c'est parce que c'est une c'est une manière structurée d'afficher de
+1:18:001 heure et 18 minutesl'information. C'estàd que s'il y a de l'information comme ça, informatiquement, on n'est pas capable d'aller chercher quoi ou comment.
+1:18:051 heure, 18 minutes et 5 secondesC'estàd qu'informatiquement, on ne sait pas où est le nom, où est la date, où est le contact, où est l'email, où est le numéro de téléphone. Alors qu'ici, si jamais c'est rangé dans des champs, bah on le voit beaucoup plus facilement. Et
+1:18:141 heure, 18 minutes et 14 secondesc'est la raison pour laquelle on utilise le Jason. Sauf que c'est Jason, il est utilisé partout dans notre dans notre
+1:18:221 heure, 18 minutes et 22 secondescas parce que en fait ce Jason en question, donc si je viens ici, vous voyez ici à gauche, j'ai du Jason. Et
+1:18:291 heure, 18 minutes et 29 secondesbien ce Jason, il est très euh facile à utiliser aussi. Enfin, en tout cas, il est très agréable à utiliser aussi dans Nen parce que il nous permet beaucoup
+1:18:381 heure, 18 minutes et 38 secondesplus facilement de quand on glisse des pauses des choses de savoir où est quelle chose. En gros, je vais je vais
+1:18:451 heure, 18 minutes et 45 secondesvous en parler. Donc d'abord parlons des trois choses là, des trois types de choses. On a d'abord le schéma. Donc un Jason, c'est un schéma. On peut pas mettre tout dans n'importe quoi.
+1:18:561 heure, 18 minutes et 56 secondesC'est-à-dire que s'il y a un prix, une surface et un contenu, bah il faut que les éléments soient dans prix, surface et contenu. Ils peuvent pas être dans surface avec un S ou contenu avec un S.
+1:19:041 heure, 19 minutes et 4 secondesDe la même manière, le fait d'avoir le schéma le schéma ID, le fait d'avoir le schéma ici me permet de voir quel est la
+1:19:131 heure, 19 minutes et 13 secondesmanière dont je devrais insérer le contenu. Ça c'est la première chose. Le fait de le voir en table, ça me permet de voir et bien toutes les tables qu'il
+1:19:211 heure, 19 minutes et 21 secondesy a, donc toutes les lignes dans cette table qu'il y a. Et le JSON de le fait de le voir ici, ça me permet de voir le contenu brut. Alors, chose que je vous ai peut-être pas montré, c'est que quand
+1:19:291 heure, 19 minutes et 29 secondeson a du Jason comme ça et vous savez quoi ? pour vous montrer, je vais prendre le RSS de tout à l'heure dont on avait parlé. Donc hop, je vais le mettre
+1:19:381 heure, 19 minutes et 38 secondesici et je vais le run seul. On va reprendre le RSS ici. On prend ça. Tac. Et on le met là.
+1:19:471 heure, 19 minutes et 47 secondesVoilà. Alors, ce RSS là, vous voyez, il y a 96 éléments. Si je prends les 96 comme ça, c'est illisible. Vous voyez,
+1:19:551 heure, 19 minutes et 55 secondesil y a tous les éléments un par un. Et c'est pour pourquoi j'utilise un truc qui est JSON online editor. Quand je fais open a new document, je fais create
+1:20:031 heure, 20 minutes et 3 secondesenfin je vais dans texte et je colle le texte. Et là si vous voyez, il y a marqué tree table.
+1:20:101 heure, 20 minutes et 10 secondesEt donc en fait en tree en dans tree donc arbre, je vois très bien du coup tout ce qu'il y a dans cet arbre ici. Je
+1:20:171 heure, 20 minutes et 17 secondesm'en rends compte de de ce qu'il y a dans cet arbre, de quels sont les champs de ce Jason et cetera.
+1:20:241 heure, 20 minutes et 24 secondesEt donc ça c'est une super manière quand vous avez beaucoup d'éléments pour pouvoir voir tout ce qu'il y a. Le schéma pourtant vous voyez il le montre comme un seul élément. Donc quand il y a
+1:20:331 heure, 20 minutes et 33 secondesbeaucoup d'éléments, le schéma c'est pas forcément la meilleure chose à utiliser parce que vous savez pas ce que vous glissez déposer d'un côté ou d'un autre et table ça permet d'avoir la liste de
+1:20:411 heure, 20 minutes et 41 secondesmanière dans une tablure de tout ce qu'il y a. Donc ça c'est un peu comment il faut l'utiliser. Mais le truc principal qu'il va falloir aujourd'hui
+1:20:501 heure, 20 minutes et 50 secondescomprendre c'est quand on glisse des pauses quelque chose, c'est quoi qui a ici ? Ça, c'est une expression. Donc je
+Chapitre 30 : Comprendre les expressions
+1:20:581 heure, 20 minutes et 58 secondesreexécute ce qu'il y avait avant. Et en fait, il y a un truc qui se passe ici, c'est que quand par exemple ici dans la valeur, je veux mettre un champ
+1:21:071 heure, 21 minutes et 7 secondesdynamique, quand je passe de fixed à expression, il se passe un truc. Si je mets fixe, c'est plus une variable. Si c'est une expression, là c'est du
+1:21:151 heure, 21 minutes et 15 secondesJavaScript qui s'exécute. C'est-à-dire que je vais pouvoir mettre de l'information ce qu'il y avait avant. Et là vous voyez insérer une ligne pointitem.jonjason.id.
+1:21:261 heure, 21 minutes et 26 secondesÇa c'est le chemin pour aller parcourir euh le le l'élément que je veux. Donc ici c'est insérer une ligne. Donc ça
+1:21:341 heure, 21 minutes et 34 secondessort de insérer une ligne point Jason point. Et donc ça là comment est-ce que je le je l'ai ? Et bien c'est vous voyez
+1:21:431 heure, 21 minutes et 43 secondesgrâce au cheba insérer une ligne point jon. Le fait que je glisse des pauses, j'ai pas à le taper à la main. On pourrait le taper à la main également.
+1:21:511 heure, 21 minutes et 51 secondesIl y a un truc qu'il faut comprendre c'est que quand on prend dans les valeurs quelque chose qui vient de juste avant comme ici si j'avais pris ça et
+1:21:591 heure, 21 minutes et 59 secondesben j'ai pas besoin de mettre le nom du nœud. C'est Jason Dollarjason.Cex content.text et cetera et cetera.
+1:22:071 heure, 22 minutes et 7 secondesPourquoi je vous parle de tout ça ?
+1:22:081 heure, 22 minutes et 8 secondesC'est tout simplement pour que vous compreniez un peu le c'est quoi cette expression. En fait, cette expression c'est donc c'est une expression dans
+1:22:161 heure, 22 minutes et 16 secondeslequel on peut mettre des variables et souvent cette variable, elle est en Jason point quelque chose. Jason de l'élément et quand c'est Jason, c'est
+1:22:231 heure, 22 minutes et 23 secondesl'élément juste avant. Sinon, c'est le nom de l'élément et l'élément qu'on va chercher à l'intérieur. Donc je je vais vous donner un autre un autre exemple.
+1:22:321 heure, 22 minutes et 32 secondesImaginons, je suis ici, j'exécute le truc. Bon, super. Maintenant, admettons, j'ai envie de faire un filtre ou un on va faire un filtre.
+1:22:441 heure, 22 minutes et 44 secondesEt là, bah pour donner le filtre, j'ai besoin de donner le contenu. Selon vous, qu'est-ce qu'il y aura ? Et ben Jason.
+1:22:511 heure, 22 minutes et 51 secondesContent parce que c'est le champ content du Jason d'avant. Si je vais ici,
+1:22:581 heure, 22 minutes et 58 secondesJason. Content snipet parce que c'est le champ du de l'élément qu'il y avait avant. Vu qu'il est avant, c'est OK. Mais si on
+1:23:071 heure, 23 minutes et 7 secondesprend un élément de pas juste d'avant mais mais de
+1:23:131 heure, 23 minutes et 13 secondesd'un voisin, c'estàdire que de du n- 1, et bien on va si on relance cette partie là, alors là il y a rien qui sort mais
+1:23:221 heure, 23 minutes et 22 secondessi je hop je prends le link selon vous qu'est-ce que ça va être ? Bah ça va plus être Jason link, ça va être rssfit.jon.
+1:23:321 heure, 23 minutes et 32 secondesPourquoi RSS fit ? parce que vu que c'est pas l'élément d'avant et ben en fait on va aller taper le nom de l'élément. Et d'ailleurs ce qui est
+1:23:391 heure, 23 minutes et 39 secondesassez marrant c'est que si je change ce nom bah en fait il va être automatiquement changé ici. C'est hyper dynamique et ça il faut le comprendre
+1:23:471 heure, 23 minutes et 47 secondesparce que souvent il y a plein de gens qui se perdent un petit peu là-dedans.
+1:23:491 heure, 23 minutes et 49 secondesDonc c'était assez important de vous expliquer ça euh cette histoire-là. Mais une fois que vous avez compris ça, vous avez compris grossièrement que quand
+1:23:571 heure, 23 minutes et 57 secondesvoilà soit c'est le nom RSS feed trigger soit c'est Jason le truc juste avant.
+1:24:031 heure, 24 minutes et 3 secondesMais euh c'est un truc qu'il faut absolument comprendre. Parlons des API.
+Chapitre 31 : C'est quoi une API ?
+1:24:071 heure, 24 minutes et 7 secondesAlors les API, j'ai une j'ai fait une vidéo euh qui date d'un petit moment sur ce que c'est qu'une API. Elle date de 2021. Si ça vous intéresse d'aller la
+1:24:141 heure, 24 minutes et 14 secondesregarder sur ce que c'est. Mais grossièrement, il faut savoir que aujourd'hui quand on utilise NN, il y a plein plein de choses qui sont connectées dans Nen, c'est les nœuds.
+1:24:251 heure, 24 minutes et 25 secondesMais parfois, il y a pas les nœuds qui sont connectés dans Nen. Les app n'existent pas. Donc je prends un exemple. Euh moi, peut-être que
+1:24:321 heure, 24 minutes et 32 secondesj'utilise laura ring. Bah il est connecté. Alors je prends un exemple d'un truc qui n'existe pas. Je sais pas par exemple euh la
+1:24:411 heure, 24 minutes et 41 secondeson va prendre un outil euh que j'utilise par exemple granola. Granola, ça n'existe pas. Hop.
+1:24:511 heure, 24 minutes et 51 secondesVoilà. Granola n'existe pas. Granola et aï, c'est un outil de prise de note. Il n'existe pas. Comment je fais ? Et bien,
+1:24:581 heure, 24 minutes et 58 secondeson est bloqué. Mais heureusement qu'il y a les API. Les API, c'est une manière d'accéder à un service. Donc Gmail, pour
+1:25:061 heure, 25 minutes et 6 secondesle coup, il y a déjà un branchement API qui est fait. Donc on n pas besoin de de le de le configurer nous-même. Mais dans le cadre de Granola euh et bien le
+1:25:151 heure, 25 minutes et 15 secondesbranchement API, il est pas fait. Donc comment est-ce qu'on fait ? bien on le branche nous-même. Ça veut dire qu'il y a un champ qui existe. Donc je vais
+1:25:231 heure, 25 minutes et 23 secondesrevenir ici et je vais créer un nouveau workflow dans lequel je vais mettre un trigger
+1:25:301 heure, 25 minutes et 30 secondesmanuel. Voilà, il y a un nœud qui existe qui s'appelle HTTP request qui permet de faire une
+Chapitre 32 : Le nœud HTTP : brancher Granola avec Claude
+1:25:361 heure, 25 minutes et 36 secondesrequête API un n'importe quel outil qui dispose d'une API. et la granola,
+1:25:431 heure, 25 minutes et 43 secondesils ont une API et du coup je peux connecter N8N à la main, c'est-à-dire en branchant des câbles moi-même. Et donc
+1:25:511 heure, 25 minutes et 51 secondesça demande à ce que on puisse utiliser euh on on sache quand même un petit peu comment s'utilise une une
+1:26:011 heure, 26 minutes et 1 secondeAPI pour pouvoir brancher des éléments ensemble et ça va vous arriver bien plus que vous ne le pensez parce que tous les nœuds dans la réalité n'existent pas. Et
+1:26:091 heure, 26 minutes et 9 secondesdonc maintenant qu'on a l'IA, on peut par exemple faire des choses du genre euh parce qu'avant ce qu'on devait faire c'est comprendre la PI, savoir que là il
+1:26:181 heure, 26 minutes et 18 secondesy a une URL, donc on utilise euh l'URL ici euh qu'on ajoute dans ici l'URL de
+1:26:251 heure, 26 minutes et 25 secondesla de granola et puis qu'on sache quel est notre token API. Donc là par exemple, le token ça va être comme ça et
+1:26:321 heure, 26 minutes et 32 secondesil va être dans les headers. Donc il faut que j'aille chercher les headers ici, mettre autorisation
+1:26:411 heure, 26 minutes et 41 secondeset après mettre ber hop et l'espace et ensuite mettre mon token. Euh quand quand je ne savais pas comment utiliser
+1:26:501 heure, 26 minutes et 50 secondesles API et ben il fallait que j'apprenne à utiliser les API et que j'apprenne à configurer un nœud. Maintenant, ce qu'on peut faire, c'est faire clic copier
+1:26:591 heure, 26 minutes et 59 secondescomme ça. On va dans Cloud, on dit configure-moi euh le nœud HTTP pour la PI Granola.
+1:27:121 heure, 27 minutes et 12 secondesEt là, qu'est-ce qu'on donne ? Bah, on donne déjà notre notre workflow, hein. La manière dont je de le
+1:27:191 heure, 27 minutes et 19 secondesdonner, c'est que je peux par exemple aller ici le télécharger. Hop, une fois que je l'ai téléchargé, donc voilà, là j'ai mon euh Warflow Jan.
+1:27:281 heure, 27 minutes et 28 secondesJe peux le prendre ici. Hop, je vais dans Cloud, je le colle. Et après, je colle aussi la documentation de granola
+1:27:371 heure, 27 minutes et 37 secondesparce que maintenant la plupart des documentations, vous voyez d'ailleurs ici hein, je fais copie page et ça copie la page. Je donne les deux à manger à
+1:27:461 heure, 27 minutes et 46 secondeseuh Claude et je lui dis "Refais-moi ce scénario pour la payola."
+1:27:551 heure, 27 minutes et 55 secondesEt là, il va me créer un scénario que j'aurais plus qu'à importer pour pouvoir être certain que Granola est bien
+1:28:031 heure, 28 minutes et 3 secondesconfiguré ici. Parce qu'en fait, en réalité ce nœud HTTP, c'est un peu un nœud magique parce que c'est le nœud qui
+1:28:101 heure, 28 minutes et 10 secondesa derrière tous les nœuds ici parce que au final la connexion à un outil ce n'est rien de plus qu'une API
+1:28:191 heure, 28 minutes et 19 secondesqui est connectée. Et une fois que vous avez compris ça, bah Sky de limite parce que vous pouvez connecter n'importe quel compte en fait. Et surtout quand vous avez close aujourd'hui avec vous parce que regardez euh hop, vous voyez ça ?
+1:28:321 heure, 28 minutes et 32 secondesTac, c'est le c'est le Jason qui m'a construit pour aller l'ajouter dans euh Claude. Donc
+1:28:391 heure, 28 minutes et 39 secondesj'efface ça et voilà. Voilà ce que vous avez. Donc là il vous a j'ai collé, j'ai fait un collé un command V et il m'a prérempli.
+1:28:491 heure, 28 minutes et 49 secondeschose que je j'aurais pas su faire là le query parametter le ce trucl j'aurais pas su le faire et là il me l'a prérempli pour moi. Par contre ce qu'il
+1:28:571 heure, 28 minutes et 57 secondesva falloir faire et c'est ce qu'il m'a dit. Il m'a dit par contre attention va falloir faire en sorte que tu mettes ton authentification et il faut que tu mettes ta clé ici. Voyez ? Donc moi, je
+1:29:071 heure, 29 minutes et 7 secondesvais aller chercher ma clé granola. Je vais dans mes clés ici. Je crée une clé personnelle temporaire.
+1:29:131 heure, 29 minutes et 13 secondesHop. Voilà, je la copie.
+1:29:201 heure, 29 minutes et 20 secondesTac. Et je vais dans mon truc ici. Je colle ma clé ici et disons que je veux
+1:29:291 heure, 29 minutes et 29 secondespar page juste 5 c 5 notes. J'exécute. Et là, il dit quoi ? Bad request.
+1:29:381 heure, 29 minutes et 38 secondesAh, il me dit "Please check your parameters". Il a peut-être fait une erreur. Ça arrive. C'est qu'en fait ici, il me met please check your parametter.
+1:29:471 heure, 29 minutes et 47 secondesJe pense qu'il a buggé sur ce tru-là, sur le created AT. En fait, il lui demande des éléments qui sont euh enfin
+1:29:551 heure, 29 minutes et 55 secondescette date est malheureusement mal gérée, je pense. Et si je fais ça là, du coup ça fonctionne. Vous voyez, j'ai mes notes
+1:30:031 heure, 30 minutes et 3 secondesoff de mes meetings et en plus lui ce qu' m'a fait c'est qu'il m'a fait un bout de code automatiquement qui split les notes. Donc ça veut dire qu'il va les euh éclater en plus en plusieurs.
+1:30:141 heure, 30 minutes et 14 secondesDonc là, j'ai 30 notes qui sont arrivées et là, je peux par exemple pour chacune des notes faire des choses. Et là, vous voyez le nœud granola n'existe pas mais
+1:30:221 heure, 30 minutes et 22 secondesc'est parce que j'ai le nœud API et je l'ai enfin le nœud HTTP et que je l'ai utilisé avec
+1:30:301 heure, 30 minutes et 30 secondesavec l'ADE que j'ai pu construire beaucoup plus facilement. Il faut savoir que ça c'était pas forcément simple avant avant l'arrivée de Lia et que maintenant on peut construire ses nœuds
+1:30:371 heure, 30 minutes et 37 secondesbeaucoup plus facilement. Je vous incite vraiment à aller regarder ma vidéo sur les API. Ça va vous permettre de comprendre un truc assez fondamental sur la manière dont ça a été fait. On arrive maintenant vers le cas d'usage numéro 3.
+Chapitre 33 : Cas d'usage 3 : créer un agent IA
+1:30:481 heure, 30 minutes et 48 secondesEnfin, dans ce cas d'usage numéro 3, on va voir euh beaucoup plus en détail les trois types de workflow qui sont les agents IA. Alors, les agents I, c'est
+1:30:571 heure, 30 minutes et 57 secondescomme je l'ai dit la raison pour laquelle ils se sont fait connaître. Euh mais je dirais que c'est un c'est une utilisation plutôt avancée. C'est une
+1:31:031 heure, 31 minutes et 3 secondesutilisation qui qui requère une certaine compréhension du pourquoi on le fait.
+1:31:101 heure, 31 minutes et 10 secondesparce que c'est on n'est plus dans de l'automatisation euh qui va être euh qui va qui va être
+1:31:181 heure, 31 minutes et 18 secondesdéterministe, c'est-à-dire c'est plus A puis B puis C puis D. On est dans un truc un peu au milieu où on va laisser l'agent faire des choses. Donc
+1:31:261 heure, 31 minutes et 26 secondesaujourd'hui ce qu'on va d'abord tester, c'est comment ça marche ce truc. On va aller dans Create WFlow. Pour pouvoir créer un agent,
+1:31:341 heure, 31 minutes et 34 secondeset ben faut déjà aller ici et puis taper AI. Et vous voyez qu'il y a AI agent qui arrive. Hop. Et quand il y a AI agent
+1:31:431 heure, 31 minutes et 43 secondesqui arrive, il y a forcément tous ces nœuds qui arrivent. On va voir comment l'utiliser de manière minimal. Déjà, on va connecter un cerveau à cet agent là.
+1:31:491 heure, 31 minutes et 49 secondesC'est la première chose à connecter. Il lui faut un cerveau. Il lui faut un modèle de connecté. Donc nous, on va utiliser Entropique étant donné que Entropique, je l'avais déjà connecté ici. Hop, là avec l'autre 4.
+1:32:001 heure et 32 minutesEuh, il lui faut une mémoire pour qu'il puisse retenir ce qu'on lui dit.
+1:32:041 heure, 32 minutes et 4 secondesEt puis il lui faut voyez une mémoire et puis des outils. Le qu'est-ce qu'il a le droit de faire ? Dans un premier temps, on va rien faire. On va rien lui donner le droit de faire. On va juste donner la
+1:32:131 heure, 32 minutes et 13 secondescapacité de discuter. On va voir s'il répond à hello. Alors attention, il m'a dit attention, j'ai pas pu t'envoyer la réponse. Donc je vais le publish.
+1:32:221 heure, 32 minutes et 22 secondesPeut-être que c'est ça. Hop, got it. Je pense que ça ne fonctionne pas parce que j'ai plus de crédit dans ce compte entropique. Ouais, c'est ça. Il me reste
+1:32:301 heure, 32 minutes et 30 secondes16 centimes et il s'est pas encore mis à jour. Je pense qu'il me reste plus rien.
+1:32:351 heure, 32 minutes et 35 secondesC'est pas grave, je vais passer sur l'autre compte du coup. Mon autre compte que j'ai qui est ici. Donc bah on va démarrer un nouveau workflow. Ici, on est hop new workflow.
+1:32:461 heure, 32 minutes et 46 secondesEt du coup, je fais AI agent.
+1:32:501 heure, 32 minutes et 50 secondesHop, on fait la même chose. Ici, je mets entre piic.
+1:32:571 heure, 32 minutes et 57 secondesVoilà. Avec n'importe quel modèle, il son5 4.6. Très bien. Et là, une mémoire. Très bien. Et là, je fais bonjour.
+1:33:061 heure, 33 minutes et 6 secondesEt là, ça fonctionne. Dis bonjour, qu'est-ce que je peux faire pour toi ?
+1:33:091 heure, 33 minutes et 9 secondesLà, vous voyez ici en entrée, j'ai mis du chat. Donc cet agent réfléchit et me répond et garde une réponse au chat.
+1:33:191 heure, 33 minutes et 19 secondesDonc c'est littéralement la même chose qu'un qu'un cloue avec qui on parle, sauf que il a une mémoire. Et puis on peut lui mettre des instructions
+1:33:271 heure, 33 minutes et 27 secondessystème. Donc c'est veut dire qu'on peut lui dire écoute système message, je veux que tu
+1:33:361 heure, 33 minutes et 36 secondesj'aimerais que tu me parles en écrivant à l'envers.
+1:33:391 heure, 33 minutes et 39 secondesDonc là, c'est juste pour vous montrer que ça fonctionne bien. Donc là, on fait ça. Est-ce que je l'ai bien enregistré ?
+1:33:461 heure, 33 minutes et 46 secondesOuais. Voilà. Donc je teste avec les informations tout à l'heure, le bonjour.
+1:33:511 heure, 33 minutes et 51 secondesEt là, vous voyez bonjour, comment allez-vous ? Je suis là pour vous aider.
+1:33:531 heure, 33 minutes et 53 secondesQu'est-ce que je peux faire ? Donc ça c'était ce qu'il y avait dans l'ancienne mémoire mais là si je lance là vous voyez comment il m'écrit il m'écrit à
+1:34:001 heure et 34 minutesl'envers. Donc c'està dire que le message système que je donne une certaine personnalité. Moi je voulais dire par exemple tu es un gestionnaire
+1:34:081 heure, 34 minutes et 8 secondesd'email et tu es mon assistant perso dont le but c'est de répondre aux emails que je reçois. Est-ce que tu as bien compris ?
+1:34:171 heure, 34 minutes et 17 secondesDonc là hop je donne un système message et je lui dis "Tu as compris ? Je vais juste lui dire hello.
+1:34:241 heure, 34 minutes et 24 secondesVoilà, il me dit "Ouais, je suis là, je suis votre assistant personnel." Donc vous comprenez bien qu'on peut donner des personnalités à ces agents. Bon là en entrée, je mets des messages mais je
+1:34:331 heure, 34 minutes et 33 secondespeux mettre plein d'autres choses et vous avez raison. On peut mettre par exemple du WhatsApp, on peut mettre des mails.
+1:34:401 heure, 34 minutes et 40 secondesDonc là, ça devient intéressant. On se dit "Ah tiens, je peux faire répondre à mes mails". Pour pour ceux qui veulent aller plus loin, euh euh j'ai fait une
+1:34:481 heure, 34 minutes et 48 secondesvidéo un peu dans le même genre, très avancée sur le l'utilisation des agents
+1:34:541 heure, 34 minutes et 54 secondesI sur N8N. Donc créer des elle a fait quasiment 1 de million de vues, pas quasiment, même plus. Et j'explique comment est-ce qu'on crée ces agents I.
+1:35:031 heure, 35 minutes et 3 secondesSi ça vous intéresse d'aller voir plus loin. Alors, l'interface a un petit peu changé mais le modèle est le même. Mais je vais juste faire un petit exemple en en et bien en entréant un email que je
+1:35:131 heure, 35 minutes et 13 secondesrecevrai. Donc Gmail on message received. Donc quand je reçois un message, je fais je teste ce trigger. Voilà, j'ai reçu un message.
+Chapitre 34 : Brancher l'agent à vos emails Gmail
+1:35:241 heure, 35 minutes et 24 secondesC'est un message de Shopify. Donc je reçois ce message.
+1:35:321 heure, 35 minutes et 32 secondesHop. Imaginez ce qui va se passer si je fais ça. Ah là il dit par contre parce que la mémoire pour qu'elle fonctionne,
+1:35:401 heure, 35 minutes et 40 secondesil faut lui donner un une un ID. Je vais lui donner un ID qui est l'ID de la mémoire. Alors ça c'est c'est juste pour que la mémoire fonctionne bien. Mais j'exécute et là ce qui me dit attention.
+1:35:531 heure, 35 minutes et 53 secondesAh oui parce que il a il a pas de session non plus. Donc en fait ce qu'il faut c'est faire define below. Voilà. Et hop. Il faut mettre ça ici. Ça c'est
+1:36:011 heure, 36 minutes et 1 secondejuste pour lui donner du coup son ID de mémoire et son contex widow length. On peut mettre ce qu'on veut ici. Je fais
+1:36:091 heure, 36 minutes et 9 secondesça et là vous voyez ce qui se passe ? Il part en erreur. Mais il part en erreur
+1:36:151 heure, 36 minutes et 15 secondespourquoi ? Il me dit exp Ah oui il me dit je sais pas où mon où mettre mon mon output parce que tu m'as configuré comme
+1:36:231 heure, 36 minutes et 23 secondesun chat. Bon, c'est vrai que j'avais oublié que je que je veux plus discuter en tant que chat avec lui, je veux discuter en tant que vrai agent IA. Et
+1:36:301 heure, 36 minutes et 30 secondesdonc le message que j'ai envie de lui donner, c'est euh du coup ça c'est son système input, mais j'ai envie de lui
+1:36:381 heure, 36 minutes et 38 secondesdonner l'information en entrée de de mon email. Et l'information en entrée, c'est quoi ? C'est from.
+1:36:461 heure, 36 minutes et 46 secondesHop. Donc de qui est envoyé cet email, quel est le sujet ? À qui il est envoyé ? il a envoyé à moi.
+1:36:551 heure, 36 minutes et 55 secondesVoilà. Et je vais donner du coup le contenu. Donc par exemple le snipet de cet email. Je fais une version très très simple juste pour vous expliquer.
+1:37:051 heure, 37 minutes et 5 secondesIl va aller regarder dans le modèle anthropique et il va me créer une réponse.
+1:37:111 heure, 37 minutes et 11 secondesHop, voilà. Oui, j'ai bien compris le rôle. Je suis votre assistant.
+1:37:151 heure, 37 minutes et 15 secondesCependant euh il s'agit d'un email marketing automatisé que je vous présente mon analyse expéditeur Shopify ma recommandation. Ce type d'email ne
+1:37:231 heure, 37 minutes et 23 secondesnécessite pas de réponse. Très malin mais on va essayer de trouver un email avec une réponse. Hop, je vais voir s'il
+1:37:311 heure, 37 minutes et 31 secondesy en a pas d'autres. Oh, vous savez quoi ? Je vais supprimer ce mail tout simplement. l'email Shopify,
+1:37:381 heure, 37 minutes et 38 secondesje supprime. Ça c'est l'image euh Ah bah tenez, c'est l'image du jour parce que oui, ce que je vous ai pas dit, c'est que vous avez bien vu que j'ai changé de
+1:37:451 heure, 37 minutes et 45 secondesde t-shirt. On est passé à un autre jour. Donc évidemment, l'image du jour n'est pas la même que tout à l'heure.
+1:37:501 heure, 37 minutes et 50 secondesEuh voilà, par exemple, il y a ce monsieur qui me dit "Je souhaite vous parler." Très bien.
+1:37:551 heure, 37 minutes et 55 secondesHop, je fais ça. Ah, il me dit, "J'ai pas réussi." Qu'est-ce qu'il fait ? Il me dit "Multiple items will be returned
+1:38:041 heure, 38 minutes et 4 secondesevery minute." OK, donc là c'est il se lançait toutes les minutes, c'est pas envie de ça. Donc alors il ne se lance pas parce que j'ai utilisé un trigger
+1:38:131 heure, 38 minutes et 13 secondesici mais en réalité moi je veux surtout lire mes emails. Donc je vais aller chercher dans Gmail et ça vous permet de de voir aussi ça c'est que je vais aller
+1:38:221 heure, 38 minutes et 22 secondeschercher tous mes emails au lieu d'en chercher. Au lieu de faire en sorte que ça se lance à chaque donc là il était configuré pour toutes les minutes,
+1:38:291 heure, 38 minutes et 29 secondestoutes les secondes. Je vais aller plutôt faire un truc, c'est que je vais aller en trigger mettre un trigger manuel parce que je l'ai lance à la main là. J'ai pas besoin euh de de que ça
+1:38:381 heure, 38 minutes et 38 secondessoit Gmail qui le lance. Et par contre, je vais aller lire ici mes emails. Donc, comment est-ce qu'on fait ça ? Soit on fait un search pour aller chercher tous
+1:38:461 heure, 38 minutes et 46 secondesles emails, soit on fait list ou get all email. Alors, qu'est-ce qu'on a ? Get many messages. Donc, get many messages.
+1:38:531 heure, 38 minutes et 53 secondesJe veux dire que allez, je vais en choper que deux. Euh, je veux voir si ça fonctionne. Est-ce que ça marche déjà ?
+1:39:001 heure et 39 minutesDonc oui, voilà, ça marche. J'ai mes deux emails. Ça, je le branche à mon agent. à mon agent, je dis eh voici
+1:39:081 heure, 39 minutes et 8 secondesl'info. Mais sauf qu'au lieu de donner juste le snipet, ben j'aimerais le donner le contenu. Mais sauf que le contenu, vous voyez bien, il est pas vraiment dispo ici. Donc je vais devoir aller chercher le contenu.
+1:39:191 heure, 39 minutes et 19 secondesJe fais get gmail get message. Le message lequel ? Bah le message de celui d'avant.
+1:39:301 heure, 39 minutes et 30 secondesEt là, si je le lance, je vois bien que j'ai tout le contenu du message du coup. Donc ça c'est top.
+1:39:401 heure, 39 minutes et 40 secondesJe valide.
+1:39:421 heure, 39 minutes et 42 secondesAh non, alors c'est pas exactement ce module là.
+1:39:461 heure, 39 minutes et 46 secondesAlors c'est assez important que vous voyez aussi quand est-ce que je me trompe pour vous dire que je suis pas un magicien que moi aussi je tâtonne. Moi
+1:39:541 heure, 39 minutes et 54 secondeslà il m'a donné le message mais j'ai envie de voir le contenu du message.
+1:39:571 heure, 39 minutes et 57 secondesDonc comment est-ce qu'on a le contenu du message ? Je vais aller regarder. Get is read. Get man is read. Add label n na pourtant marque get a message.
+1:40:081 heure, 40 minutes et 8 secondesAh, peut-être parce que j'avais ce simplify là. Qu'est-ce que j'ai maintenant ? Ah
+1:40:191 heure, 40 minutes et 19 secondesvoilà, là j'ai le contenu. C'était ça le problème que si j'avais le simplify, je n'avais pas le contenu du message. Et le simplify, je dois regarder s'il existe
+1:40:271 heure, 40 minutes et 27 secondespas directement ici, hein. Ah et ben voilà. Voilà. Donc je n'ai même pas besoin d'aller regarder ça. J'ai ici
+1:40:351 heure, 40 minutes et 35 secondesdirectement le contenu en HTML ou en texte de la personne. Donc c'est parfait. Je vais aller ici. Hop. Et je vais juste
+1:40:441 heure, 40 minutes et 44 secondeseuh voilà ici en fait au lieu de donner le from to et cetera, je vais tout
+1:40:501 heure, 40 minutes et 50 secondessimplement donner le du coup le sujet, le tout, la date, qu'est-ce que j'ai du message ?
+1:41:001 heure et 41 minutesJ'ai plein de choses. Le from Ah, le texte.
+1:41:051 heure, 41 minutes et 5 secondesVoilà. Alors, j'arrive pas exactement à trouver. Quand j'arrive pas à trouver, je fais ça. Texte. Voilà. Bonjour. Donc
+1:41:121 heure, 41 minutes et 12 secondeslà, il y a le texte du jour et je sais pas à qui je l'ai qui l'a envoyé. Donc je vais mettre le from ici.
+1:41:191 heure, 41 minutes et 19 secondesVoilà, ça c'est ce que va recevoir le modèle tout simplement. Et quand il reçoit ça, on va voir ce qu'il va répondre.
+1:41:261 heure, 41 minutes et 26 secondesL'agent y a donc s'il a un gestionnaire d'email et qui reçoit ça, qu'est-ce qui se passe ? Lui, il va vouloir y répondre. Et voilà.
+1:41:341 heure, 41 minutes et 34 secondesEt là, il dit donc c'est bon, il a il a il m'a répondu et voici ce qu'il m'a dit. Il m'a dit "Voici la réponse proposée. Euh, merci de votre réponse.
+1:41:411 heure, 41 minutes et 41 secondesPourrirez-vous me donner plus de détails et cetera." Et donc, elle vient en réponse à du coup cette personne qui euh qui m'a écrit tout à l'heure ici. Voilà.
+1:41:511 heure, 41 minutes et 51 secondesMaintenant, je peux aussi répondre à ce brouillon. Enfin, je peux créer un brouillon à qui vient répondre.
+Chapitre 35 : Créer les brouillons de réponse automatiques
+1:41:571 heure, 41 minutes et 57 secondesDonc, je peux faire Gmail, draft, create a draft.
+1:42:041 heure, 42 minutes et 4 secondesHop. et derrière euh créer ce ce que me sort l'agent IA, je peux le mettre en
+1:42:121 heure, 42 minutes et 12 secondesdraft. Donc là aussi, j'ai le choix entre HTML email et email normal et cetera. Donc là, je vais le mettre en email normal. Et le sujet, bah je peux
+1:42:201 heure, 42 minutes et 20 secondesprendre le même sujet que le Hop. Donc je vous donne cet exemple là. Voilà. Euh
+1:42:301 heure, 42 minutes et 30 secondeset je peux faire la la création du draft ici. Hop. Et par contre ce que je peux faire c'est donner aussi le SRAD ID.
+1:42:381 heure, 42 minutes et 38 secondesC'est important ça pour que ça le mette bien en dessous de du strade en question. Donc là, il a créé de draft.
+1:42:461 heure, 42 minutes et 46 secondesSi je viens ici, vous voyez, il y a un brouillon qui a été créé. Et voilà. Bien sûr, voici l'email proposé. Donc il me l'a proposé
+1:42:541 heure, 42 minutes et 54 secondescomme ça. C'est pas terrible. Et du coup, pour pas avoir ça, qu'est-ce qu'il faut que je fasse ? Normalement, vous connaissez peut-être la réponse, c'est que je le mette en HTML et que ici dans
+1:43:031 heure, 43 minutes et 3 secondesmon agent IA, je lui dise pour pouvoir me répondre, il faut que tu répondes uniquement en HTML
+1:43:121 heure, 43 minutes et 12 secondesavec rien d'autre car je vais coller ta sortie directement dans un brouillon d'email.
+1:43:211 heure, 43 minutes et 21 secondesVoilà, je fais ça. Je supprime ce bruyon. et on essaye.
+1:43:281 heure, 43 minutes et 28 secondesDonc là, il reçoit le message pour les deux emails en question. Il va essayer de voir ce qu'il y a dans sa mémoire. Il va essayer de créer. Voyez, il y a du HTML qui est sorti. Là, on regarde,
+1:43:361 heure, 43 minutes et 36 secondeshein, qu'est-ce qu'il a pris. Il a pris deux emails euh du coup l'email de la personne de tout à l'heure. Je vais ici.
+1:43:441 heure, 43 minutes et 44 secondesHop, voyez, il y a deux brouillons qui sont apparus. Voilà, ici. Je serais ravi d'apprendre. Alors, il y a ce petit truc au début qu'il faudra lui dire d'enlever
+1:43:531 heure, 43 minutes et 53 secondesparce que lui, il sait pas exactement que il faut pas mettre ça. Quel est le type de site que tu recherches ? Blab bla bla, n'hésite pas à me partager ça.
+1:43:581 heure, 43 minutes et 58 secondesEt là, vous voyez là, il fait "Bonjour monsieur, bonjour, quel est comment je peux vous aider Vous voyez euh en quelques minutes et sans beaucoup de
+1:44:061 heure, 44 minutes et 6 secondesconnaissance, on a quand même réussi à construire un système qui vient dès qu'on clique, à lire deux messages non
+1:44:131 heure, 44 minutes et 13 secondeslus et et créer des drafts. Si je veux ici, j'enlève ça et je mets un trigger de type un schedule. Donc du coup, il va
+1:44:221 heure, 44 minutes et 22 secondesse lancer tous les X. Voilà un petit peu comment est-ce que vous pouvez construire ce genre de d'agent. Euh
+1:44:301 heure, 44 minutes et 30 secondesencore une fois, je vous envoie vers mon guide que j'ai déjà fait sur les agenas.
+1:44:331 heure, 44 minutes et 33 secondesIl est vraiment très complet. il dure 43 minutes et il va en détail et on fait beaucoup beaucoup d'exemples notamment avec WhatsApp dedans, c'est-à-dire qu'on
+1:44:431 heure, 44 minutes et 43 secondesqu'on branche WhatsApp, on on branche des outils et cetera et ça ça va nous permettre d'aller beaucoup plus loin. Je vous laisse là-dessus avec cet exemple
+Chapitre 36 : Bonus : le MCP de n8n connecté à Claude Code
+1:44:521 heure, 44 minutes et 52 secondesnuméro 2. Il y a un dernier truc que je voulais voir avec vous, c'était l'utilisation du MCP
+1:45:011 heure, 45 minutes et 1 secondedans N8N. Alors, les MCP, qu'est-ce que c'est ? Là aussi, j'ai fait une vidéo là-dessus, mais le but c'est de vous dire que les MCP, c'est un moyen de
+1:45:081 heure, 45 minutes et 8 secondesconnecter N8N directement à votre cloud ou quoi que ce soit. Donc je vous fais très rapidement une démo de de comment
+1:45:171 heure, 45 minutes et 17 secondesça c'est possible. Si ça vous intéresse qu'on aille beaucoup plus loin avec C MCP, n'hésitez pas à me le dire en commentaire. C'est vraiment un bonus de cette de cette mini formation, c'est que
+1:45:251 heure, 45 minutes et 25 secondesune fois que vous aurez connecté un peu votre MCP, vous pourrez utiliser des outils comme cloud code. Et ici du coup, je peux lui dire à mon cloud code est-ce
+1:45:331 heure, 45 minutes et 33 secondesque tu peux me créer une automatisation qui tous les jours va aller chercher un une image sur le nœud de la NASA et va
+1:45:411 heure, 45 minutes et 41 secondesme l'envoyer par email. Il faut que ça se lance toutes les heures. Je vais lui dire ça. Et parce que il y a un skill
+1:45:491 heure, 45 minutes et 49 secondesN8N et parce qu'il y a un MCP NN et si skill ou MCP ne vous parle pas, bah allez regarder ma chaîne et je parle de ces deux choses-là de manière extensive.
+1:45:581 heure, 45 minutes et 58 secondesEt bien il va pouvoir lui aller créer une automatisation directement dans Nuten. Il dit je vais te créer
+1:46:061 heure, 46 minutes et 6 secondesl'automatisation et c'est un peu magique parce que vous allez dire non mais Chouam tout ce qu'on a fait ne sert à rien. Pas du tout. C'est parce que vous comprenez comment ça fonctionne que ça ça va être beaucoup plus simple. Voyez,
+1:46:141 heure, 46 minutes et 14 secondesj'ai j'ai tous ces workflow mais lui vu qu'il est connecté en fait à mon à mon N8N. Donc grossièrement ce qui se
+1:46:231 heure, 46 minutes et 23 secondespasse c'est que d'un côté j'ai mon cloud de code, de l'autre côté j'ai mon instance N8N.
+1:46:301 heure, 46 minutes et 30 secondesEt bien grâce au MCP, il va pouvoir lui hop aller directement
+1:46:371 heure, 46 minutes et 37 secondesconnecté parler à moin et parce qu'il sait parce qu'il a un skill euh qui lui dit un peu c'est les recettes de
+1:46:461 heure, 46 minutes et 46 secondescomment faire des workflow et tout, il sait comment faire, ben il va pouvoir discuter avec lui et faire en sorte de créer des scénarios directement. Et donc
+1:46:531 heure, 46 minutes et 53 secondessi je vais ici, bon pour l'instant il est encore en train de bosser normalement si tout se passe bien si je regarde il dit alors il va il va essayer
+1:47:011 heure, 47 minutes et 1 secondelui-même. Donc grossièrement ce qui ce qui se passe c'est qu'il envoie du Jason, il fait plein de choses. Il dit "Attends, je vais regarder comment se définit le nœud le nœud de la NASA, je
+1:47:101 heure, 47 minutes et 10 secondesvais valider le workflow et cetera." Donc il va tourner et ça prend quand même pas mal de token. Mais une fois qu'il aura fini, vous allez voir ce qui
+1:47:181 heure, 47 minutes et 18 secondesva se passer. Hop. Donc il a pas encore commencé.
+1:47:221 heure, 47 minutes et 22 secondesIl se fait juste valider un petit peu son son nœud. Voilà, il crée le workflow. Il a il me dit "Ça y est, j'ai créé un workflow
+1:47:311 heure, 47 minutes et 31 secondessur ton Voilà, il me dit envoyer l'image NASA du jour par email." Donc il a bien et là vous voyez créé le 5 juillet là
+1:47:391 heure, 47 minutes et 39 secondesjuste avant par MCP. Quand je vais dedans, oh c'est magnifique.
+1:47:441 heure, 47 minutes et 44 secondesEn gros, il nous met une note en disant voilà ce que ça fait. Ça envoie l'image du jour tous les jours à ça. Toutes les heures récupérer l'image de la NASA.
+1:47:511 heure, 47 minutes et 51 secondesDonc il a utilisé grossièrement la même chose que ce qu'on avait fait. Il dit image ou vidéo parce que ça peut envoyer une image ou un vidéo ou une vidéo. Et
+1:47:591 heure, 47 minutes et 59 secondeslà et ben il me l'a créé en quelques secondes. Je passe tout le test si ça marche bien. Donc il teste lui-même le
+1:48:051 heure, 48 minutes et 5 secondesworkflow et du coup si je recharge je peux aller dans évaluation dans exécution et il teste lui-même. Attends
+1:48:141 heure, 48 minutes et 14 secondesil a il m'a envoyé un message en tout cas il me fait c'est fait. Le workflow envoyé leimage été publié. Toutes les heures, tu récupères une photo. Vérifier
+1:48:211 heure, 48 minutes et 21 secondesvalidation. OK, donc il a testé. Deux points à connaître. La NASA ne publie qu'une image par jour. Vérifie qu' credential sont dans les bons nœuds. Je
+1:48:301 heure, 48 minutes et 30 secondesvais aller juste vérifier parce que c'est assez magique là ce qu'il a fait.
+1:48:331 heure, 48 minutes et 33 secondesIl a envoyé un email ID. Ah oui, parce qu'il a écrit les messages les il a écrit les trucs à la main. Je pense que
+1:48:411 heure, 48 minutes et 41 secondesc'est une des raisons pour lesquelles je ne l'ai pas reçu. Envoyer send. Ah, regardez ! Oh ! Waouh ! OK, donc déjà il
+1:48:501 heure, 48 minutes et 50 secondesm'a OK, c'est juste il me l'a mis en piège jointe alors que moi je l'avais mis dans le corps. Il me dit ce que c'est. Euh,
+1:48:591 heure, 48 minutes et 59 secondesil met un lien haut définition, il met un petit emoji.
+1:49:031 heure, 49 minutes et 3 secondesClairement les amis, euh c'est bien mieux ce que j'avais fait en en beaucoup plus de temps. Mais en fait, il y a un truc qu'il faut que je vous dise, c'est que le fait qu'on comprenne un peu la
+1:49:111 heure, 49 minutes et 11 secondescomplexité de ce qu'il fait nous permet d'être bien plus précis dans son utilisation. Donc là, je peux lui dire par exemple ajoute un agent IA au milieu
+1:49:171 heure, 49 minutes et 17 secondespar exemple qui m'aide à récupérer ailleurs sur le web plein d'autres images. Voilà, donc là il va se lancer,
+1:49:241 heure, 49 minutes et 24 secondesil va faire plein de choses pour pouvoir y arriver. Bon, je vais éviter de gâcher des tokens, mais voilà, le but c'était de vous montrer face à cette ces
+1:49:321 heure, 49 minutes et 32 secondesplusieurs exemples et finir en beauté avec celui-là que N10, c'est un outil qui est hyper complet, qui vous permet d'arriver à à faire des choses vraiment
+1:49:411 heure, 49 minutes et 41 secondesincroyables. Sauf que le problème que la plupart des gens ont, c'est que il est assez complexe à prendre en main. Mais une fois que vous avez compris la base
+1:49:491 heure, 49 minutes et 49 secondesde certains éléments, les types de nœuds, les flows, le fait de pouvoir gérer la data différemment que vous avez compris qu'il y a trois types de workflow, là vous allez commencer à
+1:49:581 heure, 49 minutes et 58 secondesmieux utiliser une et d'avoir des des process qui vont être robustes pour vous, votre boîte ou encore vos clients.
+Chapitre 37 : Conclusion
+1:50:031 heure, 50 minutes et 3 secondesMerci à tous. Merci. Si vous avez apprécié cette vidéo et cette cours complet qui est clairement assez long, n'hésitez pas à mettre un like. Euh n'hésitez pas à vous inscrire sur mes
+1:50:121 heure, 50 minutes et 12 secondeseuh ateliers privés. Je fais plein d'ateliers. notamment si vous mettez en commentaire, je ferai peut-être un atelier sur le MCP que vous venez voir ici ou plein d'autres ceux si vous
+1:50:191 heure, 50 minutes et 19 secondesintéressent. Et quant à moi, je vous retrouve dans cette vidéo dans laquelle j'explique ce que c'est qu'une API ou alors dans celle-là dans laquelle je vais en détail sur ce que c'est qu'un MCP. À très vite.
+
+Tout
+
+Source : Shubham SHARMA
+
+Intelligence artificielle
+
+Ordinateurs
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+Drag. Drop. Done. Woo.
+Omnisend’s Woo integration works so smoothly, it’s almost suspicious.
+Sponsorisé
+Omnisend
+
+Learn more
+
+22:11
+Kimi peut hacker n'importe quel SaaS : comment t'en protéger AUJOURD'HUI ?
+Melvynx
+315 vues
+•
+il y a 1 heure
+Nouveau
+
+
+31:34
+Qui a besoin d’un PC Portable comme ça ?! 5999€ - AORUS MASTER 18
+Kang et ses PC
+39 k vues
+•
+il y a 11 mois
+
+
+1:12
+Qu’est ce que le GEO ?
+Codaza
+1 vue
+•
+il y a 2 heures
+Nouveau
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+657 vues
+•
+il y a 1 mois
+
+
+8:32
+Le réglage Facebook Ads qui fausse vos résultats (et que personne ne touche)
+Social Scaling
+763 vues
+•
+il y a 4 semaines
+
+
+32:31
+Sadhguru 360 – Épisode 2 : Kalabhairava, le Maître de la Vie, de la Mort et du Temps
+Sadhguru Français
+3,4 k vues
+•
+il y a 22 heures
+Nouveau
+
+
+17:26
+Le Général Découvre Un Resto Français Sous La Pluie (littéralement)
+LeMondeDeChoi
+ et Choi TCG
+38 k vues
+•
+il y a 23 heures
+Nouveau
+
+
+36:31
+PC Gamer TopAchat à 2000 € : Je ne m’attendais pas à ça
+Kang et ses PC
+73 k vues
+•
+il y a 10 mois
+
+
+25:40
+Je teste les restaurants châteaux de LUXE 🏰 en France (gardez votre argent)
+Louis
+170 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+11:47
+La seule métrique qui compte sur Meta Ads en 2026
+Social Scaling
+711 vues
+•
+il y a 2 mois
+
+
+1:05:09
+Comment MONTER son PC GAMER en 2026
+FrenchHardware
+239 k vues
+•
+il y a 4 mois
+
+
+2:49:58
+L'instant Skynet ? OpenAI perd le contrôle d’un agent IA | Octogone Tech #12
+Scanderia
+70 k vues
+•
+Diffusé il y a 2 jours
+Nouveau
+
+
+52:08
+J'irai dormir chez vous - Croatie [Épisode complet]
+J'irai dormir chez vous
+839 vues
+•
+il y a 1 heure
+Nouveau
+
+
+1:30:17
+L'homme qui avertit le monde : Le grand effondrement financier est là ! | Ray Dalio
+The Diary Of A CEO
+1,7 M de vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+
+25:37
+Ce PC est unique en France (et probablement le dernier)
+Kang et ses PC
+61 k vues
+•
+il y a 7 mois
+
+
+35:36
+Je Teste La Force de Ragnar Le Breton !!
+Tibo InShape Entrainement
+ et Tibo InShape
+397 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+1:06:14
+La retraite n’est ni un droit... ni un Ponzi ! (Et les jeunes auront une retraite)
+Trouble Fait
+20 k vues
+•
+il y a 22 heures
+Nouveau
+
+
+2:28:49
+Direct n°121 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+59 k vues
+•
+Diffusé il y a 1 jour
+Nouveau
+
+
+20:18
+Bulle IA : L'analyse qui dérange
+Xavier Delmas
+77 k vues
+•
+il y a 1 mois
+
+
+28:03
+Comment j'ai créé ma marque de PC en partant de ZÉRO - STRAFE PC
+Kang et ses PC
+88 k vues
+•
+il y a 7 mois
+
+
+6:02
+L'annonce de Facebook Ads dont personne ne parle en 2026
+Social Scaling
+783 vues
+•
+il y a 1 mois
+
+25:30
+Comment on vous manipule pour acheter un PC ?
+Kang et ses PC
+177 k vues
+•
+il y a 11 mois
+
+9:17
+Comment progresser en Informatique
+Minimuss
+31 vues
+•
+il y a 2 jours
+Nouveau
+
+31:36
+Le meilleur outil de Vibe Coding en 2026 (je les ai tous testés)
+Dr. Firas
+441 vues
+•
+il y a 20 heures
+Nouveau
+
+19:18
+LE PC GAMER LE PLUS VENDU sur CDISCOUNT !
+FrenchHardware
+288 k vues
+•
+il y a 11 mois
+
+10:05
+Sécher et prendre du muscle en même temps : POSSIBLE ?
+Le Musclay
+82 k vues
+•
+il y a 2 ans
+
+4:05
+Survivor - Eye Of The Tiger (Official HD Video)
+Survivor Band
+1,2 Md de vues
+•
+il y a 16 ans
+
+20:00
+Claude Code GRATUIT À VIE ?
+Dr. Firas
+4,4 k vues
+•
+il y a 1 jour
+Nouveau
+
+13:52
+on vous explique comment on s'est mis en couple ?
+Louis
+1 M de vues
+•
+il y a 3 ans
+
+27:03
+Je teste toutes les variétés d'Oreo
+Gurky Le Murky
+207 k vues
+•
+il y a 1 mois
+
+17:59
+Le Pc Gamer Le Plus Cher de BACKMARKET…
+FrenchHardware
+318 k vues
+•
+il y a 9 mois
+
+13:12
+On souffre parce qu'on ne comprend pas ce qu'est la vie
+Sadhguru Français
+1,6 M de vues
+•
+il y a 4 ans
+
+25:59
+Tout le monde parle de Hermes Agent, personne ne comprend ce que c'est
+Dr. Firas
+406 vues
+•
+il y a 7 heures
+Nouveau
+
+19:23
+Le Général FOUT DES RAMEN dans son tacos !!
+LeMondeDeChoi
+ et Choi TCG
+56 k vues
+•
+il y a 11 jours
+
+1:48:07
+Agentic Dev : je remplace n'importe quel SaaS à 2 000 € avec cette méthode (formation complète)
+Mike Codeur
+3,6 k vues
+•
+il y a 1 jour
+Nouveau
+
+3:50
+Spiller - Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor] (Official Music Video)
+Defected Records
+5,2 M de vues
+•
+il y a 5 ans
+
+9:23
+Pourquoi est-il préférable de ne pas s'exprimer ?
+Sadhguru Français
+264 k vues
+•
+il y a 3 ans
+
+7:07
+Kato Feat. Jon - Turn The Lights Off (LOVEIN Remix)
+LOVEIN
+10 M de vues
+•
+il y a 3 mois
+
+20:43
+J'ai testé les desserts les plus populaires des réseaux
+Gurky
+330 k vues
+•
+il y a 3 jours
+Nouveau
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+402 k vues
+•
+il y a 5 mois
+
+    

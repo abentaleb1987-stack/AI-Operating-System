@@ -1,0 +1,1211 @@
+
+
+Découvrez la communauté des batteurs et batteuses
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+8
+
+Image d'avatar
+Agentic Dev : je remplace n'importe quel SaaS à 2 000 € avec cette méthode (formation complète)
+Mike Codeur
+Mike Codeur
+82,4 k abonnés
+
+
+0
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+30 juil. 2026  #claudecode #ia #dev
+🎁 killer-saas — le pipeline agentique pour cloner un SaaS
+Les 3 schémas du pipeline + le guide d'installation et d'utilisation de la méthode.
+https://mkc.sh/the-agentic-dev?lead=k...
+
+⭐ ShipSaas : Boierplate FullStack SAAS (offre en cours)
+https://ship-saas.now/?offer=launch
+
+Dans cette vidéo :
+00:00 – 2 000 € pour Teachable, 4 000 € pour Mailchimp
+02:32 – Le plan : les 4 parties de cette vidéo
+04:30 – J'ai testé les méthodes agentiques — ce qui cloche
+07:30 – Les 3 règles de killer-saas
+08:21 – Le pipeline en un coup d'œil 
+08:21 – l'installation (Claude Code, Codex)
+14:39 – Étape 1 — PRD : Cadrage et Cimetière
+22:12 – Étape 2 — Découper en stories agentic-ready
+28:44 – Étape 3 — User Stories Review
+31:29 – Étape 4 — Architecture et loi du repo
+44:20 – Étape 5 — Design system
+56:20 – Status
+58:16 – Étape 6 — Design Stories - Dynamic Workflow (Research / Design)
+1:15:00 – Étape 7 — Agentic Loop Dynamic Workflow (Plan, Execute, Review Ship)
+1:34:00 – PR MERGE
+1:17:00 – Résultat
+1:39:20 – Production
+1:41:22 – Backlog et amélioration
+1:45:10 – Bilan
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+
+#claudecode #ia #dev #agenticdev #saas
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+82,4 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : 2 000 € pour Teachable, 4 000 € pour Mailchimp
+0:000 secondeAlors, il y a quelques semaines, je t'ai enregistré cette vidéo dans laquelle je t'annonçais la fin des sas, des petits
+0:077 secondessas monofiture, tu sais, c'était un petit peu euh le grand dada de Marc Lou, l'idée de développer des petits sas monofiture quand on est développeur et
+0:1515 secondesbien ça permettait de générer un petit peu d'argent et cetera. Bref, tout ça aujourd'hui comme tu le sais probablement c'est mort parce que
+0:2222 secondesn'importe qui avec l'autre code avec les agent et bien ils peuvent redévelopper en gros tous ces petits s monofitur et
+0:2929 secondeson s'était dit pendant même temps que les s un petit peu plus avancés et cetera et bien étaient à l'abri et bien c'est pas forcément le cas puisque aujourd'hui avec les bonnes méthodes et
+0:3838 secondesbien tu vas pouvoir reproduire quasiment n'importe quel type de sas et c'est ce que je vais te montrer dans cette vidéo puisque je vais te montrer par exemple
+0:4646 secondesque ici et bien j'ai une plateforme vous allez montré ça récemment dans une vidéo où je vous expliqué que je paye plus de 1800 dollars chaque année pour héberger
+0:5555 secondesmes formations euh tu sais les formations Next Mastery, React et cetera. Mais le problème c'est que je vous les ai donné gratuitement.
+1:031 minute et 3 secondesAujourd'hui ces formations ne me coûtent me me génèrent plus de revenus. Par contre, elle me coûte 1800 dollars par an. Et bien aujourd'hui ça va être
+1:111 minute et 11 secondespossible de remplacer tout simplement ce type de sas. Alors le but c'est pas de construire un sas et d'aller rentrer en concurrence avec les podias, les petit
+1:191 minute et 19 secondeschable et cetera mais le but et bien ça va être d'avoir des outils internes qui vont te permettre d'économiser de
+1:261 minute et 26 secondesl'argent puisqueaujourd'hui et bien on va pouvoir ça faire ça assez rapidement et je vais te montrer ce que ça donne jusqu'à la fin. Tu vas pouvoir avoir une application relativement simple comme ça
+1:341 minute et 34 secondesqui génère tout ça. Tu vas pouvoir avoir ton système de cours de formation et cetera. Et bien pour ça, j'ai développé une méthode qui s'appelle Killer SAS qui
+1:431 minute et 43 secondesva te permettre de en quasiment une journée reproduire n'importe quel type de ça. Je te montrerai ça par la suite.
+1:491 minute et 49 secondesPourquoi ? Parce que j'ai utilisé comme tu le sais probablement tout un tas de méthodes. Je t'en parle assez souvent.
+1:551 minute et 55 secondesMoi, j'ai dû tester euh toutes ces méthodes là, que ça soit super Power, every single code, Matob, les Gstack,
+2:032 minutes et 3 secondesles SPC kit, les agences, enfin toutes voilà, j'ai quasiment testé toutes les méthodes et c'est des très bonnes méthodes qui permettent de faire du vrai développement engineering, mais c'est
+2:112 minutes et 11 secondespas orienté justement sur le fait d'aller reproduire des sas, d'aller killer des sas. Donc justement, j'ai une méthode qui s'appelle Killer SAS qui va
+2:192 minutes et 19 secondesdroit au but dans le fait d'avoir une idée de SAS, de prendre les fonctionnalités importantes et de le reproduire en moins d'une journée. Et
+2:282 minutes et 28 secondesbien, je vais te présenter tout ça dans cette vidéo. Alors, comme tu sais, ça fait plus de 8 ans que je suis dans le business en ligne sur internet et quel s'il y a quelque chose que je me suis
+Chapitre 2 : Le plan : les 4 parties de cette vidéo
+2:362 minutes et 36 secondesinterdit de faire depuis le début, c'est tout simplement de développer des plateformes de formation ou développer des outils. Quand on est développeur et
+2:432 minutes et 43 secondesqu'on se lance dans le business et bien on va développer nos outils et finalement on va faire mumuse, on va kiffer, on va s'amuser, mais on va jamais se confronter à la à la réalité,
+2:512 minutes et 51 secondesc'est-à-dire d'aller vendre des produits à des clients. Et moi, pendant longtemps, ça a été un petit peu ma philosophie, c'est-à-dire ne pas perdre de temps à développer des plateformes,
+2:592 minutes et 59 secondespayer pour tout ce qui est teachable, liste email, j'envoie de liste email et cetera, même page de vente. C'estàd je développais même pas mes pages de vente,
+3:073 minutes et 7 secondesj'utilisais des lead pages, des choses comme ça. Je payais relativement cher L PGES aussi c'était presque presque 800 ou 900 € l'année. Donc ça revenait quand
+3:153 minutes et 15 secondesmême plutôt cher. Mais en fait j'ai était gagnant puisque tout le temps économisé et bien c'était de l'argent économisé sur lequel et bien j'ai pu en
+3:233 minutes et 23 secondesfait me concentrer sur le développement de mon business, de mes formations.
+3:273 minutes et 27 secondesComme tu le sais, j'ai vendu presque plus de 2 millions d'euros de formation et ça a été très efficace et je recommandais pas ça. Pourquoi ? parce
+3:343 minutes et 34 secondesque il y a 2 ans, remplacer ça, ce genre d'outil en interne, c'était des projets assez chiffres. C'est vrai he si tu regardes le coût d'un développeur par
+3:423 minutes et 42 secondesmois, remplacer un teachble il y a quelques temps, et bien ça pouvait coûter presque 50000 ou 100000 €. Et si tu le développais toi-même et même si
+3:503 minutes et 50 secondesc'est gratuit, et bien c'est quand même un coût d'opportunité. Aujourd'hui, comme je te disais, tout a changé puisque développer ce genre de chos avec des bonnes méthodes et les méthodes que
+3:583 minutes et 58 secondesje vais te présenter aujourd'hui et bien ça va prendre que quelques jours et tu vas voir ça va être hyper rapide. Ce qu'on va voir dans cette vidéo et bien
+4:064 minutes et 6 secondeson verra ce que tu vas faire à la fin, c'est qu'en fait on va on va construire l'in directement. On va construire le remplaçant de petit chable étape par étape. Alors ça va être une vidéo qui va
+4:134 minutes et 13 secondesêtre plutôt longue. Donc prends ton prends un café et cetera mais tu vas voir que c'est tout à fait possible puisque je vais te le démontrer en fait dans cette vidéo. On verra le pourquoi
+4:224 minutes et 22 secondesen fait quel sas mérite d'être tué et cetera. Je un petit peu ma méthode euh une méthode avec les trois règles et cetera, les règles à surtout éviter
+Chapitre 3 : J'ai testé les méthodes agentiques — ce qui cloche
+4:304 minutes et 30 secondesparce qu'en fait l'idée c'est qu'il existe ici comme je te disais euh des des dizaines et des centaines de méthodes. Mais en fait toi aussi euh si
+4:374 minutes et 37 secondestu as un insight, c'est tu tu as l'habitude de construire des choses, et bien moi je te recommande aussi tu peux tout à fait créer ta propre méthode. Ça te permet en fait de gagner du temps. Ce qu'on va faire, je te montrerai le live.
+4:484 minutes et 48 secondesC'estàdire qu'en fait je vais essayer de j'ai essayé j'aimerais bien que ça rentre dans 40 minutes mais en fait c'est relativement long. Je pense que je vais laisser tourner les agents, revenir le lendemain et te montrer où on en est
+4:564 minutes et 56 secondeset cetera puisque c'est relativement long et enfin on verra rapidement le résultat à la fin en production. Donc c'est ce qu'on va faire. Je vais éviter de rester trop longtemps. Allez,
+5:055 minutes et 5 secondespourquoi une méthode de plus ? Je te disais parce que justement j'en ai testé plein. J'ai testé des BM, des machins, tout ça et cetera. Le problème c'est que
+5:125 minutes et 12 secondesc'est assez généraliste. Donc ça fonctionne pour tout type de développement logiciel, on va dire. Là ici c'est une méthode killer sas. de
+5:215 minutes et 21 secondestuer du SAS rapidement. Ça veut dire que il y a une idée de sas, il y a un sas, ça te coûte un bras, boum, on applique cette méthode et on a un résultat direct. Il y a tout ce qui est
+5:295 minutes et 29 secondescérémonieuse avec les et des documents, des trucs qui savent pas grand-chose.
+5:335 minutes et 33 secondesFinalement, c'est déclaratif et ça s'arrête en fait avant la prode et moi je pars du début et je vais jusqu'à la production. Les principes que j'ai repris, c'est le principe de spec first.
+5:435 minutes et 43 secondesEn gros, la spec au centre avec les user story et cetera. le découpage en tranches livrables tel que l'habitude avec les tel que tu as l'habitude avec
+5:505 minutes et 50 secondesles users story et cetera et la relecture surtout par des contextes séparé. Et là où vraiment euh j'ai mis l'accent dessus, c'est sur la partie des
+5:585 minutes et 58 secondesagents séparés qui vont travailler en parallèle et surtout qui vont faire des revues et cetera, vont faire des planifications des revues avant de euh
+6:066 minutes et 6 secondesde de d'implémenter tout ça. Ce que je rajoute et bien un objectif unique, tuer un SAS et des règles que l'agent ne peut pas contourner. L'idée c'est d'être
+6:156 minutes et 15 secondesassez stricte et tu vas que plus tu es strict après quand tu exécutes et bien l'agent va droit au but. Alors ceux qui protégeaient le sas avant c'était quoi ?
+6:256 minutes et 25 secondesQuel sas tué ? Alors je crois que je me suis trompé de slide ici hein. C'est ça.
+6:286 minutes et 28 secondesQuel sas tué ? Oui ben c'était le premier. Bon quel sas tué ? Qu'est-ce qu'on a dire ? La bonne cible et bien les outils que tu payes ou tu payes un maston pour un besoin simple typiquement
+6:376 minutes et 37 secondesteachable. plateforme de formation 1800 € par an pour héberger des formations ou c'est des vidéos des choses comme ça.
+6:446 minutes et 44 secondesDonc pourquoi payer 1800 € sur un sens comme ça ? Euh ça ne veut pas dire que tout ça c'est remplaçable. Un outil dont tu utilises 80 % des fitures, tu les
+6:536 minutes et 53 secondesgardes au-delà tu possèdes tes données et cetera et cetera. Je veux dire, il y a des choses euh tu vas pas t'amuser à aller remplacer je sais pas post qui un
+7:027 minutes et 2 secondespetit d'analyse de trafic sur ton site si vraiment il y a un gros truc. tu développé une énorme usine à gaz, ça va marcher moins bien et cetera. Mais pour
+7:097 minutes et 9 secondestoutes les tous les choses assez assez relativement basique, pas besoin de que ça soit non plus monofature mais pour
+7:177 minutes et 17 secondestous les sas il y a il y a j'ai envie de dire je pense a plus de 50 % 60 70 % des s qui peuvent être en fait tout simplement et remplacés par un outil
+7:267 minutes et 26 secondesinterne. Je pourrais donner plein plein d'exemples de d'outils que j'ai remplacé ces dernières années. Euh trois règles de la méthode. Euh je te la montre
+Chapitre 4 : Les 3 règles de killer-saas
+7:347 minutes et 34 secondesrapidement. et tu vas tout le reste en découle. C'est un petit peu le principe de la méthode interdit de coder en direct. Ça veut dire que la commande
+7:427 minutes et 42 secondesd'exécution n'a pas les outils d'écriture. Le contexte principal ne peut pas côter, il délègue. Ça veut dire que à chaque fois on fait des bonnes
+7:507 minutes et 50 secondesplanifications et ensuite on délègue et les revues et cetera, c'est des agents différents pour éviter qu'on que l'agent s'autoonfirme et cetera. Donc le
+7:587 minutes et 58 secondescontexte qui écrit ne se relie jamais. Ça veut dire que c'est des agents indépendants qui vont relire.
+8:048 minutes et 4 secondesEt à la fin et bien si le plan est pas validé et bien en fait on s'arrête, on a des choses qui bloquent, on évite de laisser l'agent tourner qu'à la fin il nous fasse un truc un petit peu à sa
+8:128 minutes et 12 secondessauce. Ça veut dire que on clarifie, on met les choses carrées et ensuite enfin et bien on va pouvoir exécuter. Ensuite
+Chapitre 5 : Le pipeline en un coup d'œil
+8:228 minutes et 22 secondeset bien je vais te présenter directement ici les cinq étapes du projet.
+8:278 minutes et 27 secondesAlors, les cinq étables du projet, je dirais qu'il y a deux grandes phases. Il y a une phase qui est séquentielle ici et toute cette phase là, elle est elle
+8:348 minutes et 34 secondespeut être exécuté en parallèle. Et c'est là où tu vas voir qu'on va gagner énormément de temps, c'est qu'au lieu de développer feature par feature, et bien on va pouvoir en fait une fois que tout
+8:428 minutes et 42 secondesest cadré, tout balancer en parallèle et tu vas laisser tourner tes agents toute la nuit. Alors ça va te consommer vénère mais à la fin, tu es quasiment assuré de
+8:508 minutes et 50 secondespas avoir cramé des tokens et d'avoir quelque chose de fonctionnel. Si tu veux aller voir, bien sûr, dans la description, tu auras accès à ce euh à ce Ripo qui va te donner accès à tout
+8:598 minutes et 59 secondesça. Et en gros, et bien tu verras que euh ça se découpe sous cette forme-là.
+9:039 minutes et 3 secondesUn PRD, des stories, l'architecture, le design système et ensuite la recherche et cetera. C'est plus ou moins ce que j'ai mis ici. Donc je vais pas le refaire. Allez, je la parcours. Est-ce
+9:119 minutes et 11 secondesque je le mets dans le détail par la suite ? Bon, je te montrerai ça. Mais en gros, l'idée c'est de faire un PRD. En gros, le PRD, tu vas le laisser dérouler. Alors, bien sûr, tout ça, ça
+9:209 minutes et 20 secondessera sous forme de commande à chaque fois. Ici, une fois que tu vas l'installer, je te montrerai ça. Tu auras commande PRD, commande research,
+9:289 minutes et 28 secondescommande story, commande euh statut, commande story review et cetera. Donc en gros, tu as toutes les commandes qui
+9:349 minutes et 34 secondesseront directement utilisables, mais je te parcours rapidement ce que ça fait.
+9:409 minutes et 40 secondesL'idée, c'est d'avoir un bon cadrage une fois pour le produit. Par exemple, perd product requirement document. C'estàdire qu'en gros, qu'est-ce que tu veux faire
+9:499 minutes et 49 secondes? C'est quoi tu aimes ça, c'est quoi les fonctionnalités et cetera ? Qu'est-ce qu'on ne va pas faire ? Qu'est-ce qu'on va faire ? Enfin bref, c'est le cahier des charges entre guillemets. Ensuite,
+9:589 minutes et 58 secondeson va découper tout par story histoire de de bien de bien avoir exactement ce qu'on veut dans le produit, tel écran et
+10:0610 minutes et 6 secondescetera et cetera. Ensuite, on va faire tourner ça dans un story review parce que lorsque l'agent il va créer des des stories, tu es pas à l'abri qu' a des euh petits problèmes. Bien évidemment,
+10:1410 minutes et 14 secondesdans cette phase-là, il y a rien de technique, hein, ça reste des choses fonctionnelles. Ensuite, la phase architecture ici. Donc, en fait, moi j'ai envie de dire, les développeurs,
+10:2210 minutes et 22 secondesils sont souvent euh uniquement sur cette phase, je sais même pas s'ils la font. Eux, ils développent direct. En fait, j'ai l'impression que les problèmes des développeurs, c'est qu'ils
+10:3110 minutes et 31 secondesils sont là. En fait, tu prends un développeur vac codeer ou quelqu'un qui fait des choses qui qui un peu dans sa boîte, j'ai l'impression qu'ils font que du exécute. C'està dire, fais-moi ce
+10:3910 minutes et 39 secondesbouton, fais-moi ce machin. Donc il perd du temps à faire des petites choses.
+10:4310 minutes et 43 secondesOui, fais-moi ce formulaire, exécute-moi ça, exécute-moi c, exécute-moi ça. Sauf qu'en fait, moi la phase exécute, je la fais même plus en fait. Tu vois, il y a
+10:5110 minutes et 51 secondesmême plus, ça va être ça va être délégué. Et et en fait le gros du truc c'est euh une fois que tu as défini tes
+10:5810 minutes et 58 secondesuser story, tu as défini l'architecture et que tu as défini le design système qu'on va faire avec l' design et bien et que tu auras toutes tes stories et bien
+11:0511 minutes et 5 secondestout ce cycle làà et bien il va se s'exécuter tout seul. Ça veut dire que ici tu vas faire une tu auras une phase
+11:1411 minutes et 14 secondesde recherche. Donc il va prendre c'est par user story, il va prendre il va rechercher, il va faire une recherche approfondie sur la user story parce que
+11:2111 minutes et 21 secondesl'architecture bien sûr l'architecture il faut qu'elle soit définie. Est-ce que c'est je sais pas c'est du next, c'est du React, c'est du Python, c'est du je sais pas ce que c'est, tu vois. Mais
+11:2911 minutes et 29 secondesaprès, une fois qu'il a ça, pour chaque user story, il va faire une recherche, je sais pas, de qu'est-ce qu'il a besoin, des routes, des composants. Il va il va faire une recherche en
+11:3611 minutes et 36 secondesprofondeur. Ensuite, il va faire le design, c'est-à-dire les écrans et cetera qu'on va envoyer avec le design.
+11:4111 minutes et 41 secondesEnsuite, il va faire une planification détaillée, il va exécuter et il va faire une revue. Et enfin, il va chipper,
+11:4911 minutes et 49 secondesc'està-dire qu'il va créer la pool request et cetera, il va merger et cetera et normalement après ça va partir directement en production. Ce qui est
+11:5711 minutes et 57 secondesbien c'est que à tout moment dans le workflow et bien tu vas pouvoir exécuter un KS statut. KS c'est ça Killer SAS Killer SAS statut et tu vas pouvoir voir
+12:0612 minutes et 6 secondesen fait où on en est directement. Donc ça t'inquiète pas ça paraît un peu large un peu vu mais tu vas voir on va le voir en direct ici puisque on va aller directement installer ça dans le projet.
+12:1812 minutes et 18 secondesAlors pour installer ça, tu vas dans la description, tu rejoins ma newsletter et je t'enverrai le lien vers le repoitub et surtout des instructions sur comment
+12:2612 minutes et 26 secondesl'utiliser. Mais tu peux aller directement sur mon Rippo Killer Sasf ici. Et donc pour l'installer, c'est relativement simple. Tu vois ici, j'ai créé un nouveau projet. Euh le projet il
+12:3412 minutes et 34 secondesest vide. C'est un projet, je l'ai appelé Podiad Teacher, teachable killer.
+12:3912 minutes et 39 secondesVoilà, projet vide, répertoire vide. Et à partir de là, et bien tu vas dans le repoot et ben tu vas tout simplement
+12:4612 minutes et 46 secondesexécuter cette commande pour installer à l'intérieur euh tout ce qu'on a besoin.
+12:5212 minutes et 52 secondesDonc là, il va récupérer les fichiers de Kia Versarsas et il vient de d'installer tout ça. Maintenant, on va pouvoir lancer euh cloud ou là, je suis écrit en
+12:5912 minutes et 59 secondesgrand cloud agent. Je peux utiliser l'agent ici pour pas [ __ ] le bordel. Ici, on va être en mode cloud direct.
+13:0713 minutes et 7 secondesAllez, donc là, je suis sur Cloud. Et là, ce que tu peux voir, c'est que tu as accès normalement ici à toutes les
+13:1513 minutes et 15 secondescommandes. Alors, tu peux les installer pour le projet pour le projet en cours.
+13:1913 minutes et 19 secondesDonc là, par exemple, ici, ça vient d'être installé sur le projet en cours.
+13:2213 minutes et 22 secondesDonc, tu as un dossier cloud code ici qui vient de se mettre, un petit dossier template et ici le fichier cloud.md,
+13:3013 minutes et 30 secondesagent.md, mais ça reste tout simplement un dossier vide. Allez, on peut initialiser un petit guide si jamais en fait tu veux bien sûr que ça soit
+13:3813 minutes et 38 secondesversionné et mis sur un ripo. Et c'est ce qu'on va faire ici directement. Donc l'installation maintenant c'est fini. Et donc à tout moment et bien on va tu vas
+13:4713 minutes et 47 secondespouvoir exécuter ça. Alors si tu sais pas où on en est, tu fais un KS statut ici et ici il va te dire où on en est.
+13:5313 minutes et 53 secondesProbablement il va te dire que bah il y a pas grand-chose qui a été fait et cetera et cetera. Allez on va le laisser tourner. Et voilà. Bref, tu auras
+14:0014 minutescompris que ça le projet il est vide. Tu vois, il va regarder un petit peu ce qu'on a. Allez, qu'est-ce qu'il nous dit
+14:0714 minutes et 7 secondes? Voilà ce qu'il nous dit. Donc là, état du pipeline, projet non démarré, le repo ne contient que ça et les documents et
+14:1414 minutes et 14 secondescetera. Donc absent, PRD, absent, story absent, review absent, architecture absente, design système absent et aucune story. Donc voilà, on est au point de
+14:2314 minutes et 23 secondesdémarrage. Donc ça c'est le point de départ pour initialiser ton projet. Et maintenant et bien on va tout simplement exécuter notre superbe Pip. Donc on va
+14:3214 minutes et 32 secondescommencer ici. Alors est-ce qu'on peut le voir mieux ici ? On va commencer par un KS PRD et on va faire donc le PRD.
+14:3814 minutes et 38 secondesAlors l'idée du PRD c'est de se dire à quoi ça sert, quel s'assentue, quel périmètre et cetera. Pourquoi c'est bien ? On commence par le cimetière et
+Chapitre 6 : Étape 1 — PRD : Cadrage et Cimetière
+14:4614 minutes et 46 secondescetera. Les fonctions qu'on va pas reprendre. On va donner les limites et concrètement on va dire on garde 7 et cetera. Qu'est-ce qu'on doit faire et cetera. Donc là, je vais le faire
+14:5514 minutes et 55 secondesdirectement ici. Donc KS PRD ici. Et tu vas lui dire par exemple target of the SAS product. Ici, je souhaite remplacer
+15:0415 minutes et 4 secondesma plateforme de formation teachable et aussi Podia afin d'en faire un sas interne personnel.
+15:1315 minutes et 13 secondesVoilà. Donc là, on va le laisser tourner. Il devrait normalement me poser certaines questions. Allez, on va agrandir un petit peu. Cadrage du kill.
+15:2315 minutes et 23 secondesDonc, quelle est la cible existence ?
+15:2515 minutes et 25 secondesPourquoi il me donne les dieux ? Moi, je vais dire plutôt teachable seul, c'est plutô la même chose. OK, pour moi teable pour dire, c'est la même
+15:3315 minutes et 33 secondeschose. Je sais pas pourquoi je l'ai mis là ici. Donc, remplacement interne, tu vois. Donc, il te propose est-ce que c'est un remplacement interne, un produit concurrent, interne d'abord ?
+15:4015 minutes et 40 secondesDonc après, tu peux te dire j'en fais un interne et plus tard, je l'ouvre à la concurrence si ça t'amuse. Mais on comme on sait construire un produit maintenant, c'est pas ça le plus dur, c'est le marketing et l'amende derrière.
+15:4915 minutes et 49 secondesSi tu veux te lancer là-dedans, moi ici c'est pas le but. Moi, dans mes cas interne. Alors, qu'est-ce qui te fait quitter teachable ? Alors, premièrement,
+15:5815 minutes et 58 secondesle coût évidemment. Donc le coût, on va mettre le coût, ça coûte cher. Les datas non maîtrisées, effectivement, on est enfermé chez eux. Ne colle pas à ton
+16:0716 minutes et 7 secondesworkflow. Ouais, non, ça ça je m'en fous. Le design running est l'unité. Et si tu veux rajouter quelque chose d'autre, et bien tu peux mettre ça. On
+16:1516 minutes et 15 secondesva mettre et on va faire submit. Allez, c'est parti. Alors là, il me pose cette question. Quelle boucle de cœur cette valeur pour machin pour 20 % appliqué ?
+16:2416 minutes et 24 secondesAlors il me demande en gros est-ce que je veux la bou complète vente plus apprentissage euh hébergement des cours existants. Alors en gros, est-ce que je rajoute la plateforme de paiement ?
+16:3316 minutes et 33 secondesAlors en vrai maintenant j'en vends plus mais je suis pas obligé mais je vais le faire jusqu'au bout si jamais je veux revendre une formation je m'interdis rien. Donc en fait je bou complète de
+16:4016 minutes et 40 secondesvente plus paiement en fait on fera les deux. Alors qu'est-ce qui part explicitement au cimetière ? Donc en
+16:4716 minutes et 47 secondesgros effectivement tout ce qui est marketing, croissance et cetera, c'est-à-dire je veux pas avoir de plateforme d'email marketing intégré, ça
+16:5516 minutes et 55 secondesje pourrais développer mon propre maching, les funels, les upsell, order bomb, affiliation, coupon, promo, page de vente, builder, tout ça en fait ça va
+17:0317 minutes et 3 secondesêtre trop complexe et j'en ai pas forcément besoin. Donc ça, ça part au cimetière. Pédagogie avancée, est-ce que je veux avoir des quiz, examens, tout ça
+17:1117 minutes et 11 secondes? Franchement, j'en ai pas besoin. C'est du bonus, personne l'utilise. Communité live, ça j'en ai pas besoin non plus.
+17:1917 minutes et 19 secondesMultiinstructeur, rôle, fin, permission, marque blanc, tu vois, tout ça, c'est des trucs de qu'il y a de probablement dans teachable. Franchement, tout ça,
+17:2717 minutes et 27 secondeshop, on n pas besoin. Euh, ça part à la poubelle. Je vais pas me rajouter une marque blanche, une application mobile, les abonnements récurrents, les plans, le multidevis, gestion des ta, tu vois.
+17:3717 minutes et 37 secondesDonc là, tu vois ce cette méthode, elle permet justement sa skiller d'aller droit au but et de mettre au cimetière tout ce qui sert à rien. Et donc c'est ce qu'on vient hop d'enlever. On va se
+17:4617 minutes et 46 secondesconcentrer directement sur le cœur du SAS. Alors, où est-ce combat te chable au-delà de la parid ? Euh effectivement
+17:5517 minutes et 55 secondesl'expérience de mar je vais pouvoir appliquer mon design système à toute la marque. Donc ça c'est cool. Data ouverte. Exactement. J'auraiis accès à ça. Coût marginal zéro abnement. Ouais.
+18:0418 minutes et 4 secondesVitesse de mise à jour effectivement. Donc ça c'est on va on va mettre submit.
+18:0818 minutes et 8 secondesVoilà. Allez. Alors là, chose intéressante, il pose déjà ses questions pour les l'hébergement des vidéos.
+18:1618 minutes et 16 secondesAlors, il propose une technique de YouTube non répertorié. Je pense que je vais pas aller là-dessus. Mux, donc Ulot plus streaming et cetera. Benny Stream
+18:2518 minutes et 25 secondesqui est une plateforme de de de de formation avec accès token et cetera.
+18:3018 minutes et 30 secondesfaudrait que je regarde combien ça coûte, mais euh moi personnellement, j'ai déjà en fait un compte Vimeo euh
+18:3818 minutes et 38 secondespuisque bah j'ai déjà tout ce qui est, tu sais, j'avais déjà une plateforme de de questions-réponses et je mettais les questions-réponses sur Vimeo. Donc je pense que ça devrait très bien la faire.
+18:4618 minutes et 46 secondesJ'ai déjà un abonnement chez eux. Euh voilà. Bon, allez, je vais pas m'amuser à killer vidéo parce que là, en terme d'infra, c'est quand même autre chose.
+18:5418 minutes et 54 secondesLes plateformes de vidéo en ligne. Faut que ça faut que ça débite derrière.
+18:5918 minutes et 59 secondesProcesseur de paiement. Euh, qu'est-ce qu'on va faire ? Bah ouais, Stripe Stripe checkout, ça c'est très bien.
+19:0519 minutes et 5 secondesAlors, critère de bascule, à quel moment tu coupes l'abonnement Tchable ?
+19:0919 minutes et 9 secondesMigration complète plus une vente réelle. Euh, une formation pilote en vente. Non, je vais lui dire ma fait. Je
+19:1619 minutes et 16 secondesme casse à Zap. Euh nom du produit Mike Coder Academy. Euh ouais Mike Coder. Moi
+19:2319 minutes et 23 secondesj'ai je crois qu'il s'appelle les formations de je crois je partout pareil les formations de les formations de My
+19:3219 minutes et 32 secondesCoder comme ça bon ça c'est rien. Et voilà donc tu vois que le PRD quand même il te permet de mettre des choses au
+19:4019 minutes et 40 secondescimetière de cadrer un petit peu où tu veux aller en terme de de fonctionnalité. Là, on n'est toujours pas dans les user story, mais on est dans cette première phase euh de cadrage
+19:4919 minutes et 49 secondesorienté encore une fois sur euh Killer SAS. Voilà. Donc là, il nous dit qu'il a le cadrage complet, il a voilà, il a les idées. Donc il va tout simplement
+19:5719 minutes et 57 secondescommencer à nous rédiger le PRD, hein, le PRD qu'on devrait commencer à voir ici, justement apparaître ici là dans
+20:0720 minutes et 7 secondesnotre projet qui est qui est vide. On devrait le voir arriver. Allez, qu'est-ce qu'il fait ? On va laisser travailler. Donc voilà, il nous dit OK
+20:1520 minutes et 15 secondesqu'il a écrit dans doc PRD. Donc tout va dans doc à chaque fois, il y a vraiment une une arborescence particulière dans doc et cetera. Donc cadrage verrouillé,
+20:2420 minutes et 24 secondesteachable polécardé, remplacement interne, monotenant, c'est vrai qu'on a pas multinéenant, récurrent, commission, branding et cetera. Donc donc créer
+20:3320 minutes et 33 secondescatalogue, achat espace étudiant, leçon vidéo, progression. Ouais, c'est relativement simple. Tout ce qu'on met au cimetière, pas de marketing, pas de
+20:4020 minutes et 40 secondespédagogie avancée, pas de communauté, pas de future entreprise, vraiment on va à droite au but. On n'est pas là pour développer des choses qui seront pas
+20:4820 minutes et 48 secondesutiles. On kill des sass angle, marque, data ouvert, coût marginal, vitesse de mise à jour, Vimeo strip checkout,
+20:5520 minutes et 55 secondesboucle hasab. Donc ça c'est parfait. Si tu veux aller voir ce qu'il a fait et bien normalement on peut aller le voir ici. Doc PRD. Et donc là normalement et bien on a notre PRD qui va être là.
+21:0621 minutes et 6 secondesEst-ce que je peux l'afficher ? ici plus simplement. Donc tu vois euh on a euh qu'est-ce qu'on veut euh qu'est-ce qu'on
+21:1521 minutes et 15 secondesveut qu'il est ? Donc my coder, qu'est-ce qu'on veut qu'il est ?
+21:1921 minutes et 19 secondesPourquoi on le kill ? Le problème et cetera, le target user, le périmè donc des 20 % qui comptent en gros. Donc là,
+21:2721 minutes et 27 secondesil commence à bien définir ce qu'il faut et cetera, stripe machin. Donc voilà, en gros, tu as un petit peu un petit peu
+21:3621 minutes et 36 secondestout ça sur le PRD. Critères de succès, une formation peut être structurée, un catalogue publi, achat visuel. Donc là, tu as les critères de succès, l'angle
+21:4521 minutes et 45 secondesdoc design system et cetera et cetera en dehors. Donc c'est quoi ça ? Zéro écran hors design système, aucun composant ni token inventé, étudiant, progression
+21:5321 minutes et 53 secondesinterrogable et bon ça c'est des petits détails. Il aurait pas dû mettre des choses normalement techniques ici mais bon écoute, c'est là. Donc du coup, ça c'est fait. On va pouvoir maintenant
+22:0222 minutes et 2 secondespasser à la phase donc là on était à cette phase là et on va pouvoir passer à la phase de découpe en ici user en user
+22:1022 minutes et 10 secondesstory. Voilà. Alors les user story avec la commande KS Story. Derrière il aura bien sûr une commande KS Story Review parce que chaque étape qu'on fait
+Chapitre 7 : Étape 2 — Découper en stories agentic-ready
+22:1822 minutes et 18 secondessurtout les étapes au démarrage euh c'est les plus importantes et plus tu vas faire des revues en début et bien en bout tu auras plus en bout tu auras de
+22:2722 minutes et 27 secondesla meilleure qualité. Donc à quoi ça sert ? L'idée c'est de transformer le BRD en une story égale une tranche livrable sur une branche avec une pool
+22:3422 minutes et 34 secondesrequest. L'idée c'est vraiment d'isoler chaque chose. Si tu es développeur et que tu connais la gestion de projet avec les méthodologies agile scram et cetera,
+22:4222 minutes et 42 secondesje pense que c'est des choses que tu connais déjà. Pourquoi c'est bien critères d'acceptation sont écrits pour devenir des tests. Donc on a déjà on va avoir des critères d'acceptation qui
+22:5022 minutes et 50 secondesseront décrits pour devenir des tests et tu verras que ça sera développé après en TDD automatiquement. les agents le contexte qu'un humain devine tout seul qu'un agentique doit lire sur noir sur
+22:5822 minutes et 58 secondesblanc une story scorée 5 et découper avant d'être planifié. Il faut vraiment que la story elle soit bien scorée en terme de bah de notes hein. Si elle a
+23:0723 minutes et 7 secondesune sale note, on la revoit et on itère dessus jusqu'à avoir une bonne story. Il y a quand même des limites. Euh découpe bien découpe bien le fonctionnel mal le
+23:1623 minutes et 16 secondestransverse, ça peut arriver qu'on découpe bien le le fonctionnel puis le transverse, c'estàdire les thèmes et cetera, ça marche pas. l'ordre des dépendances et ça reste quand même à vérifier à la main et une story
+23:2523 minutes et 25 secondessous-évaluée ne se voit pas à l'exécution. Donc voilà un petit peu pour ça. Donc là on va y aller directement, on va lancer la commande KS
+23:3323 minutes et 33 secondeseuh story. Il y a même pas besoin de lui spécifier en gros euh de de de breakdown euh le PRD. Il va le faire tout seul
+23:4223 minutes et 42 secondesici. Alors on laisse tourner. Qu'est-ce que j'ai d'autre à dire là-dessus ? Et donc concrètement le design système passe en story numéro Z0. sympa. Bon, ça
+23:4923 minutes et 49 secondesc'est des choses techniques. Donc en gros, allez, c'est parti pour ce découpage ici en user story. Donc là, tu
+23:5723 minutes et 57 secondesvois euh il a lancé un skills agentic story. Il a le skills. Pendant qu'il mouline, vu que c'est un petit peu long,
+24:0524 minutes et 5 secondesje peux peut-être te partager ça. C'est sera des choses qui peuvent être intéressantes pour toi si jamais tu as
+24:1224 minutes et 12 secondesenvie de te développer tes propres méthodes. Moi, je travaille pour des entreprises. Je développe aussi d'autres méthodes. À chaque fois, c'est du custom des méthodes en fonction des besoins.
+24:2324 minutes et 23 secondesIci, par exemple, c'est vraiment une méthode pour le killer SAS, le SAS Killer. Et en gros, ce que je peux te montrer et bien c'est que c'est basé sur cloud. Alors, ça fonctionne aussi
+24:3224 minutes et 32 secondesderrière sur la documentation, c'est décliné bien sûr pour Codex. Ici, on est où ? Avec ce genre de commande,
+24:4124 minutes et 41 secondestu retrouveras toutes les commandes avec la target. De base, c'est cloud. Mais si tu veux Codex en projet, en global et cetera, euh tu as toutes les commandes
+24:4924 minutes et 49 secondeseuh qui vont bien. Qu'est-ce que je voulais te montrer là-dessus ? c'est que je fonctionne souvent sous forme de commande. C'està-dire que je t'avais
+24:5724 minutes et 57 secondesdéjà montré plusieurs fois comment je fonctionne. C'est j'aime bien découper sous forme de commande. Par exemple, si on prend le bah là, on est en train
+25:0425 minutes et 4 secondesd'exécuter le le le le le il est où notre story ici. En gros, on on explique comment et bien ça fonctionne, les tools
+25:1425 minutes et 14 secondesautorisées et surtout on lui dit d'aller checker le template de story. J'aime bien fonctionner avec des templates ici.
+25:2025 minutes et 20 secondesEuh où sont les templates ici ? Voilà, j'aimerais reprendre des templates par commande et ensuite on lui dit surtout
+25:2825 minutes et 28 secondesc'est où que j'ai mis ça ? Je lui avais dit tt de il le met pas
+25:3625 minutes et 36 secondesparce que là il lance il lance il lance le agent story. Fais voir. J'ai pas si agent. Voilà ici agent agent agent.
+25:4525 minutes et 45 secondesVoilà ici apply agent story skill for the breakdown. Donc normalement il va Ah oui, c'est le skills ici et la commande et l'agent ici. Non, c'est la revue.
+25:5525 minutes et 55 secondesDonc il utilise pas de sous-agent, c'est le style le skill plutôt directement agent story ici. Donc on a un skill
+26:0226 minutes et 2 secondesspécialisé qui explique en gros euh comment en fait et bien on crée des
+26:0926 minutes et 9 secondesstories, on découpe en story à travers à partir de à partir de à partir justement de du PRD. Donc là mouline il mouline,
+26:1826 minutes et 18 secondeson va le laisser. C'est un peu long hein parce que là c'est la chose la plus quand même assez importante. Donc on va le laisser mouliner et je reviens vers toi quand c'est fait. Ben voilà, il a
+26:2726 minutes et 27 secondesfini ici. Donc tu vois, il nous fait en gros il nous lance un une story pour le thème créer de course. Voilà donc la la
+26:3526 minutes et 35 secondesuser story pour créer une une formation, l'espace étudiant, comment ça fonctionne une leçon vidéo, le progress, l'admin,
+26:4326 minutes et 43 secondesl'espace admin pour gérer les users, le gift accessd pour donner l'accès à une formation, acheter une formation dans l'administration pour les paiements, l'import pour importer les trucs ça.
+26:5526 minutes et 55 secondesL'admin shell, je pense que c'est le layout, je suis pas sûr. Les leçons ressources, révoquer un accès course cover. Ouais, je sais pas pourquoi il
+27:0327 minutes et 3 secondesm'a fait ça. Et enfin euh formation catalogue, à mon avis, ça doit être sur le front pour pouvoir euh payer. Il te
+27:1027 minutes et 10 secondesmet une petite note ici de complexité et bien évidemment, alors là, on va pas aller tout revoir sinon on va perdre pas mal de temps. Euh alors, c'est pas cette
+27:1927 minutes et 19 secondesici, c'est ici. Donc, il nous a créé les stories. Et donc, on a toute notre liste ici. Allez, est-ce qu'on peut le revoir ici ? Comme ça, ce sera plus simple. On
+27:2727 minutes et 27 secondesa la liste donc des users story ici. Tu les as, ils te mettent la dépendance.
+27:3227 minutes et 32 secondesDonc on voit un peu la dépendance. On sait par exemple que euh cette user story 6 7 est dépendant de 6. Alors
+27:3927 minutes et 39 secondesc'est marrant qu' qu'il fasse aussi le 5 euh la 6 elle est dépendante de 5. La 5 elle est dépendante de 2 donc des leçons vidéos. Donc voilà. Oui, il t'explique quand même la dépendance des user story.
+27:4927 minutes et 49 secondesDonc ça c'est plutôt pas mal. Les critères alors pour chaque il te met pour chaque user story, il te met les critères d'acceptance et cetera et cetera.
+27:5927 minutes et 59 secondescreate course critères d'acceptance depuis l'admin on peut pouvoir faire ça réordonner une formation si un slug existe déjà donc tu vois tu as fait
+28:0828 minutes et 8 secondestoutes les user story avec les la complexité critères d'acceptance dépendance et les notes. Voilà il te donne des notes et cetera par la suite.
+28:1728 minutes et 17 secondesDonc là tout ça c'est écrit dans un document on va dire succin où il y a que les critères d'acceptance. Et ensuite,
+28:2628 minutes et 26 secondesce qu'on va voir par la suite, c'est comment et bien on va découper euh pleinement ces user story. Alors, maintenant qu'on a toutes les user
+28:3328 minutes et 33 secondesstory, euh avant de les découper et de d'exécuter chaque user story, on va plutôt relancer une petite review euh parce que parfois et bien ça peut être
+28:4228 minutes et 42 secondesimportant de revoir tout ça. On va relancer un petit KS User review et tu vas voir que normalement il
+Chapitre 8 : Étape 3 — User Stories Review
+28:4928 minutes et 49 secondesdevrait peut-être voir des petites incohérences et du coup et bien on va le laisser faire ça. Donc il mouline, il nous lit les documents. On voit qu'il
+28:5728 minutes et 57 secondesnous a lancé un sous-agent de story reviewer hein. Comme je te disais, ici, j'ai des sous-agents et j'ai un agent
+29:0429 minutes et 4 secondestext story et j'ai un story review où il explique en gros que il doit revoir le périmètre des petits guard la les techniques col layer déguisé à story.
+29:1429 minutes et 14 secondesDonc ça c'est vrai que c'est un problème de développeur d'avoir des des trucs techniques déguisés en story et cetera et cetera. Donc là on va le laisser travailler. Donc là il mouline toujours.
+29:2529 minutes et 25 secondesIl lance notre agent story reviewer. Il est un petit peu long là. On voit qu'il tourne hein déjà depuis euh depuis
+29:3129 minutes et 31 secondesplusieurs minutes. Allez, il mouline, il mouline, il mouline. Alors, tu vois qu'il a fini et tu vois justement que
+29:3929 minutes et 39 secondesd'avoir un review, c'est hyper important puisque le reviewer vient de voir effectivement des choses des choses assez bloquantes. Par exemple, il te dit
+29:4729 minutes et 47 secondesque le bloqueur C1, le premier bloqueur en gros, c'est que la boucle S07 S14 S07 veut lancer l'achat depuis une page de
+29:5629 minutes et 56 secondesformation qui n'existe que en S14. dans laquelle d'écart dépendre de S7 et cetera. Donc ça c'est le premier point.
+30:0130 minutes et 1 secondeDonc remonter la page de formation publique et le catalogue S7 et cetera. Et ensuite il te donne trois majeurs.
+30:0830 minutes et 8 secondesEuh S1 n'a aucun critère de modification. On peut créer et ordonner ni euh ni corriger une description, l'angle corriger une leçon et cetera.
+30:1830 minutes et 18 secondesDonc c'est pas dedans. Ensuite S09 la progression te est renvoyée à une note conditionnelle sans critère. Il faut minimum assez conditionnel. Donc tu vois
+30:2730 minutes et 27 secondesqu'il revient là-dessus, exploitable et cetera et cetera. Et enfin S07, S14 spécifie deux fois le prix de l'état déjà acheté, résoudre avec S1 et cetera.
+30:3830 minutes et 38 secondesDonc tu vois là la story, elle vient de bloquer critical et en gros si tu fais un KS statut, on va voir le statut ici,
+30:4730 minutes et 47 secondeset bien on est bloqué. il te force euh mon workflow en fait va te forcer à corriger ça avant tout simplement euh
+30:5630 minutes et 56 secondesavant tout simplement de passer à la suite. Et vaut mieux passer du temps justement, parfois on est développeur, on a envie de développer hyper rapidement, sauf que il vaut mieux
+31:0531 minutes et 5 secondespasser du temps directement euh il faut mieux passer du temps justement à à bien cadrer dès le départ puisque sinon et bien tu es un petit peu après tu vas
+31:1431 minutes et 14 secondesaller vite et tu vas aller un petit peu vite. Donc là, en gros, ce qui te dit bah en gros là que on a que les stories
+31:2231 minutes et 22 secondesbloqués sur C1 en haut et puis ça c'est pas encore fait, ça c'est pas encore fait. Donc ce qu'on va faire, on va coger et on reviendra à la suite. OK, maintenant que tu as tout ce qui est
+Chapitre 9 : Étape 4 — Architecture et loi du repo
+31:3031 minutes et 30 secondesfonctionnel, user story et cetera, et bien une étape hyper ici importante, c'est la partie architecture du ripo.
+31:3931 minutes et 39 secondesDonc en gros, à quoi ça sert ? Ça sert à décider le socle, technique, les conventions et cetera à chaque story.
+31:4531 minutes et 45 secondesEuh, ça sert en gros à avoir toutes les décisions et cetera, les décisions immeubles et cetera en place et cetera.
+31:5031 minutes et 50 secondesCe qu'on remplit pas, les limites du projet et concrètement et cetera. Moi ce que je fais, la partie technique ici, j'utilise mon beror plateas ici que je peux te remontrer ici chipsas.
+32:0232 minutes et 2 secondesPourquoi ? Parce que en gros ici cette architecture contient tout ce qui est contient d'architecture full stack basé
+32:1032 minutes et 10 secondessur Next avec Drizzle, Superbase, Injest, recent pour les emails, stride, Telwin et cetera. C'est une architecture
+32:1732 minutes et 17 secondesqui est faite, c'est un baller plate en fait qui est faite pour supporter déjà c'est tout le squelette, toute l'architecture avec les fonctionnalités
+32:2632 minutes et 26 secondesde base, l'authentification avec better hood et cetera. Euh moi je pars de ça.
+32:3232 minutes et 32 secondesTu es pas obligé de repartir de ça. Moi je pars de ça parce que c'est hyper sécurisé et cetera. Tu l'as vu récemment, on a plein de petits euh
+32:3932 minutes et 39 secondespetit euh développeurs, youtubeurs qui s'amusent à aller peine tester euh ton application qui pourrait être vibe codée et cetera. Si tu veux pas prendre de
+32:4832 minutes et 48 secondesrisque et si tu veux avoir quelque chose de de carré, ça c'est testé régulièrement par des pen testers et en gros c'est quelque chose de carré. Donc
+32:5532 minutes et 55 secondessi tu veux partir de ça, tu peux partir de ça. Sinon et bien tu peux directement on va lui on va lui lancer, on va lui
+33:0133 minutes et 1 secondefaire un KS- architect et on va lui dire on va lui dire tu peux lui dire par exemple architecte et tu peux lui dire en gros de le laisser faire ou tu peux
+33:1033 minutes et 10 secondeslui dire quel type d'architecture tu veux. Et donc par exemple là on va lui dire je veux une architecture full stack
+33:1733 minutes et 17 secondesnext react super base et drzle pour la base de données avec Postgr SQL par exemple. Ça c'est si tu as une si tu as
+33:2633 minutes et 26 secondesça c'est si tu as une vision. Ça veut dire si tu sais euh si tu sais déjà ce que tu veux, tu peux déjà un petit peu
+33:3333 minutes et 33 secondesle laisser architecturer. Si tu lui dis rien, il va te proposer des choses. On va voir ce qu'il va te proposer ici.
+33:3933 minutes et 39 secondesMais c'est une phase, c'est une c'est une phase finalement assez importante.
+33:4433 minutes et 44 secondesMoi, je vois souvent les développeurs euh vous êtes là et vous partez. OK, fais-moi un site Next React. OK, rajoute le login, rajoute le logout. et vous construisez comme ça sur des briques.
+33:5533 minutes et 55 secondesLà, on fonctionne différemment. C'est on a les on définit bien le fonctionnel, ensuite on définit une stack carré. Tu
+34:0334 minutes et 3 secondespeux la définir, tu peux utiliser mon baller plate mais il faut vraiment que tu réfléchisses, faut vraiment que tu aes cette vision et cetera. Donc là, il dit il y en a rien, il dit qu'il y a
+34:1134 minutes et 11 secondesrien et cetera. Euh qu'est-ce qu'il dit ? Il te dit euh où le code le répôt est vide. Donc il existe ailleurs, je te donne le chemin. Il te dit chipsas. Tu
+34:2034 minutes et 20 secondesvas te propose d'utiliser mon mon baller plateas, un scaffold maintenant. Donc en gros, un scaffold, il va te proposer une coquille de next reat et cetera ou il va te laisser un ripo blanc par exemple.
+34:3034 minutes et 30 secondesMoi ce que je vais faire dans mon cas et bien je vais aller directement récupérer chipsas et le mettre à l'intérieur de ce
+34:3834 minutes et 38 secondesripo tout simplement. Euh donc là, j'ai copie mon Bower plate, il va me demander de fusionner un petit peu tout ça. Il fusionne mon Bower plate et l'idée c'est
+34:4634 minutes et 46 secondesqu'à la fin, tu vois, maintenant on a donc euh le ballor plate directement intégré. Mais encore une fois, tu peux toi-même redéfinir ton architecture si
+34:5534 minutes et 55 secondestu es développeur et que tu es habitué avec tout ce qui est euh, je sais pas les un minimum de découpage en présentation, service, OFM et cetera. tu
+35:0335 minutes et 3 secondesas l'habitude avec ça. Si tu veux gagner du temps, tu passes par rapport à ça.
+35:0635 minutes et 6 secondesMaintenant, on a la couche architecte ici. Donc, je vais lui dire ici, on va revenir sur la la course architecte. Lui faire C, pardon, architect. Et je vais
+35:1535 minutes et 15 secondeslui dire alors architect ici, je vais lui dire j'utilise mon beror plateas.
+35:2335 minutes et 23 secondesVoilà, chipsas. Voilà, ça il est au courant. Et qu'est-ce qu'il va faire dans cette arch dans cette dans ce process ici, dans ce flow là ? Et c'est
+35:3235 minutes et 32 secondesune étape importante, il suffit pas juste de mettre chipsas, c'est qu'en gros et bien là il va se dire OK, il va pas le définir, il va dire "OK, tu
+35:4035 minutes et 40 secondesutilises un baller plate." Et bien ce qu'il va faire c'est qu'il va aller analyser Bower plate. Il va regarder un petit peu comment il est construit. Il va se dire "OK, il est découpé en
+35:4935 minutes et 49 secondesprésentation service layer. Il fait du multitenant, il a l'autorisation, elle est comme ça.
+35:5635 minutes et 56 secondesStripe, il est ready to use, il y a du workflow synchrone avec Injest. Ah ok, on a un espace admin, le CCD il est prêt. La base de données, c'est du
+36:0436 minutes et 4 secondesdrzle. Ah, on peut envoyer des mails avec Resend. Ah, on a des notification. Ah, on peut faire des pages et cetera.
+36:1136 minutes et 11 secondesEuh, ah, le support du multilangue est là. On peut faire des articles de blog, euh on a des dashboards et cetera et cetera, on a la documentation. Et en
+36:1936 minutes et 19 secondesgros, au lieu d'aller réinterpréter, redéfinir tout ça, et bien il va dire "OK, le baller plate est comme ça, c'est ici qu'on va développer euh je sais pas
+36:2636 minutes et 26 secondesles écrans, c'est ici qu'on va développer les services, c'est ici qu'on va modéliser avec Drizzle euh toute la base de données de notre SAS. Et une fois qu'il a ses informations, et bien
+36:3536 minutes et 35 secondesil va les garder. Regarde, tu vois, il est en train de mouliner, tu vois qu'il regarde un petit peu tout ça et il regarde, je sais pas trop ce qu'il fait, mais normalement il devrait comprendre,
+36:4336 minutes et 43 secondesil voit perdre. Donc ça, il recontinue là-dessus. OK.
+36:4836 minutes et 48 secondesEuh donc tu vois, il regarde le boller plate. Tac tac tac. Donc il voit le baller plate. On le laisse faire. On le
+36:5536 minutes et 55 secondeslaisse faire. OK. Donc là il est en train de travailler. Donc tu vois qu'il écrit les règles d'architecture. Dans le document ici et il est où notre document
+37:0437 minutes et 4 secondesarchitecture.m ici que tu retrouver ici. Donc tu vois il repose l'architecture, il a détecté
+37:1237 minutes et 12 secondesframework next UI et cetera. On a le telwin le thème l'ORM. On utilise Drizzle base de données PG better avec
+37:2037 minutes et 20 secondesles plugins API Stripe SDK autorisation on se base sur CASL euh la validation c'est du zode i18N avec TexL pour le le
+37:3037 minutes et 30 secondesmultiform euh multilangue plutôt les formulaires super base pour le storage des images recent rectil les job injest les tests unitaires. Donc tu vois tu as
+37:3837 minutes et 38 secondesvraiment tout qui est intégré les tests unitair les tests N2N. Alors les tests N2N c'est vraiment important de les avoir. Pourquoi ? parce que avant je les
+37:4637 minutes et 46 secondesfaisais pour par acquis de conscience mais je me disais bon ouais voilà mais en fait ce qui est cool une fois que tu as setup les tests end to end et cloud il sait très bien les utiliser et
+37:5537 minutes et 55 secondesjustement il est capable de se connecter de de faire des cap test créer des données en mode end to end et c'est vraiment hyper important bref il te met un petit peu tout ça il te met structure
+38:0438 minutes et 4 secondesdu ripo avec la les couches que je t'ai déjà montré hein si c'est du grand classique ici que ça soit src app donc
+38:1138 minutes et 11 secondestu as les couches serv ici donc découpé par authentification autorisation, les façades, les validations, les validateurs, toutes les couches services
+38:1838 minutes et 18 secondeset la couche DB ici, modèle, repository et cetera. Bref, tout ça c'est là. Donc il a accès à tous les patterns, tout ce
+38:2538 minutes et 25 secondesqui concerne la sécurité, les hautes et cetera. Donc à partir de ça, à partir de cette architecture, il va pouvoir
+38:3338 minutes et 33 secondesvraiment découper. Donc il est au courant comment on peut upload des images. Bref, il a accès littéralement à
+38:4038 minutes et 40 secondestout. Ensuite, ce qui est cool, tu vois, il te met il te crée des ADR pour les vidéos. Je t'invite à aller voir d'ailleurs si tu l'as pas vu cette vidéo
+38:4838 minutes et 48 secondesici qui s'appelle euh on va la retrouver. Tiens, on passe le bonjour à notre super clown pen tester ici. C'est
+38:5738 minutes et 57 secondespas ça. Elle est où notre ADR ? Le code, il est pas mort. L'automatisation, la grande aussi.
+39:0339 minutes et 3 secondesIl est où le ADR ? J'avais fait une vidéo sur ADR ici. Ici, je t'invite à aller la voir sur en gros any decision
+39:1139 minutes et 11 secondesrecord. Alors pas forcément architecture decision record. Et en gros ici moi c'est setup dans mon projet et là tu vois qu'il crée ici DOP décision ADR
+39:2039 minutes et 20 secondespour les vidéos décision ADR pour le Payment Strike one shot. Donc il crée les ADR pour le stockage de fichiers et
+39:2739 minutes et 27 secondescetera. Bon on le laisse faire. Il recrée l'agent ici. Donc tu vois, il recrée l'agent pour MD. Bon bref, il il
+39:3539 minutes et 35 secondestravaille il travaille tout ça. Le ripo contient le baller plate. Double fusion.
+39:4039 minutes et 40 secondesOui, ça c'est la fusion. J'ai oublié de le changer mais quand tu copies bah tu vois il te met les deux. Le baller plate n'est pas versionné, on va le versionner
+39:4739 minutes et 47 secondeset cetera. Donc là c'est parti. On vient donc d'avoir terminé cette phase de de d'architecture. Encore une fois, tu peux
+39:5439 minutes et 54 secondesle faire toi-même ou tu peux utiliser un boller plate. Et encore une fois, c'est hyper important de bien découper d'un côté les choses techniques. Donc tu
+40:0240 minutes et 2 secondesdéfinis le technique, euh tu définis le fonctionnel. Pour la partie technique, c'est pareil, tu laisses pas lier à coder. C'est tu l'as
+40:0940 minutes et 9 secondesdéfinis en amant. C'est-à-dire que c'est pas tu as des user story et tu dis à Claude va coder. C'est tu as des users story et avant de dire à Claude d'aller
+40:1840 minutes et 18 secondescoder, c'est tu définis l'architecture technique. Et ce qu'il faut savoir dans mon cas, si tu reprends par exemple euh définir une architecture technique, soit
+40:2640 minutes et 26 secondestu as les compétences de le faire. Mais euh si tu as pas les compétences, si tu regardes, c'est défini par des rules ici, des rules qui par exemple ici qui
+40:3440 minutes et 34 secondesreprésentent les rules, les helper, l'architecture, le CICD, les environnements variables et cetera. Par exemple, il y a une roule pour comprendre comment fonctionn
+40:4240 minutes et 42 secondesfonctionnent les variables d'environnement et qu'on utilise par exemple cette librairie T3 avant et cetera. Euh, il y a des roues pour le loger. C'est quoi un loger côté client,
+40:5040 minutes et 50 secondescôté serveur et cetera. Donc ça, soit tu utilises un bower plate qui est déjà tout prêt et carré, soit tu redéfinis toi-même tes propos rules si tu as la
+40:5940 minutes et 59 secondescapacité de le faire. les routes général techniques sur la présentation layer, le service layer, la persistance layer,
+41:0841 minutes et 8 secondescomment on récupère les données d'API et cetera. Donc tout ça c'est défini le top down design, en gros les règles à appliquer. C'est la méthode top down ici
+41:1741 minutes et 17 secondesquand tu dois quand tu as des fonctions trop complexes, comment tu le redécoupes en sous-fonction un peu un peu mieux découpé. Ensuite déroule par
+41:2541 minutes et 25 secondesprésentation. Comment tu définis une AP route ? Comment tu définis les charges ?
+41:2941 minutes et 29 secondesformulaire back and front formulaire les pages de layout la présentation le react cash react query safe rout pour faire des routes safe et cetera comment tu
+41:3741 minutes et 37 secondescomment tu fais une translation comment tu fais un table ui avec la pagination l'internationalisation les autres clients internationalis
+41:4441 minutes et 44 secondesvraiment ça va pousser loin la couche service comment ça marche l'autorisation le casl autorisation l'email service les
+41:5241 minutes et 52 secondesrôles euh le site de user rôle et cetera bref comment tu testes et cetera tu as même un schéma. Donc il est capable de
+42:0042 minutessavoir ici est-ce qu'on voit un peu mieux euh c'est quoi les rôles, les owners, les admins et cetera. Donc voilà et encore une fois la persistance c'est
+42:0842 minutes et 8 secondesbeaucoup plus simple comment tu gères les DAO et cetera, comment tu crées tes fonctions avec Drizzle pour aller requetter en base de données. Donc ça
+42:1742 minutes et 17 secondessoit tu utilises un B play qui te le fait, soit tu te prends une stack prêt ou soit tu t'aides avec lui pour qu'il te fasse ta phase d'architecture. Mais j'insiste dessus, d'un côté le
+42:2542 minutes et 25 secondesfonctionnel, de l'autre côté la stack technique et uniquement quant à ça, tu peux développer. Et justement ici, si tu
+42:3442 minutes et 34 secondesregardes, on reprend ici, on reprend la phase de cadrage ici. Là, c'est uniquement quand tu as le PRD, les stories, les reviewes, l'architecture.
+42:4342 minutes et 43 secondesEt là, on va passer à la phase design système parce que quand il faut un design système parce que le le baller plate de base, il a un design système qui est qui est le design système du du
+42:5142 minutes et 51 secondesShilas. Et une fois que tu as ça, et tu vas pouvoir développer les fonctionnalités. Alors voilà, maintenant on a l'architecture, on va passer au design system. Alors maintenant qu'on a
+42:5942 minutes et 59 secondesrepris le baller plate ici, alors peut-être que toi tuas tu t'es défini ton propre il est peut-être parti sur un scaffold et cetera et bien on va faire
+43:0743 minutes et 7 secondesun PN i PNPM install. Donc on va installer toutes les dépendances et cetera. Allez on va le laisser mouliner.
+43:1543 minutes et 15 secondesJe vais lui initialiser la base de données. Donc j'ai inscrit pour ça DB reset and seat. C'est-à-dire qu'il va réinitialiser une base de données et ensuite il va mettre des données, un jeu de données pour pouvoir se connecter.
+43:2443 minutes et 24 secondesAllez, allez, il mouline, il mouline nous fait ça et nous créer notre base de données ici avec Drizzle et il va nous insérer des données. Et donc là, il nous
+43:3343 minutes et 33 secondesa mis donc notre jeu de données, des emails et cetera. Alors, attends, je vais cli et ensuite, on va lancer notre serveur de dev ici. Et c'est parti. Donc
+43:4243 minutes et 42 secondeslà, hop, on a un autre serveur et donc hop, ici, on va pouvoir se connecter directement sur le BPL. Donc le blle, tu
+43:4943 minutes et 49 secondesvois, il est vide. C'est une coquie vide ici qui terme. On va y mettre admin ici.
+43:5443 minutes et 54 secondesBor play tout vide mais sécurisé. Là tu verras que c'est une coquille vide. Il y a rien, il y a pas de c'est un design de
+44:0244 minutes et 2 secondesbase de chat CN. On a de quoi gérer le compte, les paramètres. Donc tout ça, tu as pas à le refaire hein, tu vois, c'est déjà défini mais tu vois qu'on est sur
+44:1044 minutes et 10 secondesune interface tout ce qu'il y a de plus basique standard. Il y a pas de design CL, design system de base de chat CL.
+44:1744 minutes et 17 secondesAlors, il y en a qui se disent "Bah, ça suffit, on peut s'arrêter là, on a le dark mode et cetera, mais je pense que c'est intéressant de redéfinir un son propre design système pour son SAS afin
+Chapitre 10 : Étape 5 — Design system
+44:2544 minutes et 25 secondesd'avoir quelque chose de plus sympa." OK, donc c'est parti pour le design system. On va lui dire, bah on va utiliser notre super méthode KS
+44:3344 minutes et 33 secondesdesign system ici. Et alors, moi j'aime bien lui rajouter, c'est optionnel, moi j'aime bien lui rajouter par exemple là c'est un une plateforme de formation.
+44:4444 minutes et 44 secondesDonc et ce que je vais lui rajouter que c'est que ça va être fait avec Cloud Design.
+44:4944 minutes et 49 secondesC'est une plateforme de formation petit chable podia et cetera. Je vais passer par Cloud Design pour générer ça. Donc prépare-moi le brief.
+45:0045 minutesPourquoi je dis ça ? Parce que si tu veux générer directement le design système ici, tu peux. Je trouve que passer par Cloud Design, c'est plutôt un
+45:0845 minutes et 8 secondesworkflow sympa. Donc on va le on va le laisser on va le laisser aller sur Clou Design. le design si tu connais pas, on va aller dessus et je vais te montrer un
+45:1745 minutes et 17 secondespetit peu tout ça. Voilà. Donc là, je suis sur cloud design. Là par exemple, c'est un exemple que je te montre, c'est avec ça que par exemple j'ai fait euh
+45:2545 minutes et 25 secondesmon euh mon SAS mon agentique OS, tu vois, par exemple, est basé justement là-dessus, tu vois. Donc tu définis un
+45:3345 minutes et 33 secondesdesign système puis après tu rajoutes au fur et à mesure les pages, les composants dont que tu as besoin. Donc pour ça ce que je vais faire, je vais le
+45:4145 minutes et 41 secondeslaisser inventaire fait. Donc il va faire le brief. Euh j'aime pas qu'il me donne le blur plate sur le thème chat scène et cetera. Euh j'aime bien lui
+45:5045 minutes et 50 secondesdire j'aime bien lui dire euh attention, je veux complètement pas réutiliser le
+45:5945 minutes et 59 secondesthème du bower plate. On fait un gros
+46:0646 minutes et 6 secondesreset de thème frais. Donne-moi seulement les instructions pour cloud
+46:1546 minutes et 15 secondesdesign. En vrai, je pourrais même sauter cette étape et aller directement dans Cloud Design créer un nouveau projet. Ça ça fonctionne aussi. OK, donc là il nous
+46:2446 minutes et 24 secondestravaille sur design system brief. Donc on va avoir le design system brief ici.
+46:2946 minutes et 29 secondesOn est où ? Allez, on retourne dans là, ça devient le bordel ce document. Design système brief. Voilà, design system brief. Euh je j'aime pas quand il donne
+46:3746 minutes et 37 secondestrop d'éléments techniques. J'aime bien laisser clign faire ici. Ah, j'ai mal affiché. Donc appliquer à la story S0.
+46:4546 minutes et 45 secondesl'étudiant, le formateur est un écran à reproduire. Donc on parle d'écran à reproduire. OK. Mais là euh il m'a pas
+46:5346 minutes et 53 secondesparler de design system. OK. Ah si parle de système token imposé sur la forme.
+46:5846 minutes et 58 secondesOK. Point de départ le baller plate aujourd'hui. Quasiment radius machin.
+47:0447 minutes et 4 secondesAucune identité. C'est prément ce qu'on remplace. On veut pas son inspirant servir. OK. Bon là j'ai peur qu'il le bon il parle des composants disponibles
+47:1147 minutes et 11 secondesde chat CN qu'on a repris. Euh à voir des fois j'ai j'ai ça fait plusieurs fois que j'ai teste cette méthode et c'est vrai que ça fait deux trois fois
+47:1847 minutes et 18 secondesque je me dis bon est-ce que j'aurais pas pu directement le brompter dans dans truc ? Bon après ce qui est bien c'est
+47:2547 minutes et 25 secondesqu'il définit le nombre d'écran et tout alors bon on va on va on va on va suivre le le workflow. Allez c'est bon tu as fini ? Oui voilà il est il est sorti
+47:3247 minutes et 32 secondesattendue. Donc il donne les pages le multiformateur abonnement membership vend one shot page
+47:4047 minutes et 40 secondesbuilder et cetera et cetera. Donc on va on va le laisser mouliner. OK, le truc est prêt. Il parle des écrans à faire et
+47:4747 minutes et 47 secondescetera. OK. OK. On va on va le laisser faire. Super. Donc là, on a notre document et on va pouvoir le passer avec le design. Alors après, ça c'est pas
+47:5547 minutes et 55 secondesobligé hein. Ça tu peux utiliser directement Gini. Euh tu peux utiliser OK, on va lui dire design system et
+48:0548 minutes et 5 secondesmaquet app. maquette app euh
+48:1148 minutes et 11 secondesplateforme vente formation en ligne. Bom ! Allez, on va le laisser travailler. On va voir ce qui nous ce qui nous fait.
+48:1948 minutes et 19 secondesEuh oui, je te disais qu'est-ce que je te disais ? Moi, j'utilise Cliser Gémini. Il y en a qui préfèrent Gini, il y en a qui utilisent des outils internes. Donc bref, on va le laisser.
+48:2948 minutes et 29 secondesAlors là, il est il est il est là, je suis en train de Claude, il est overload là. Donc euh ouais, je suis en train de Peut-être c'est moi qui l'allume là. On
+48:3648 minutes et 36 secondesva regarder un petit peu les tokens. Il est overload. Il est overload. C'est un peu dommage. Il m'avait jamais fait ça.
+48:4448 minutes et 44 secondesÀ quoi qu'il repart là ? Il a l'air de repartir. Écoute, on va voir si ça repart. Espérons que ça repart. OK, il continue. Il continue en train de mouliner. Donc qu'est-ce qu'on a là ? On
+48:5348 minutes et 53 secondesa un premier, je crois qu' l'appelle Kata à chaque fois ce truc. On a un premier donc design system qui m'a l'air
+49:0249 minutes et 2 secondesrelativement simple et propre et puré. OK. Euh OK.
+49:0849 minutes et 8 secondesOK. On va le laisser on va le laisser tourner. C'est pas le plus amazing hein bien sûr. Euh mais c'est un premier G.
+49:1749 minutes et 17 secondesC'est un premier G. Alors c'est bizarre.
+49:2049 minutes et 20 secondesAlors, c'est peut-être monte qui qui a fait qu'il a sorti le design system tout de suite parce que ce que j'aime bien faire,
+49:2749 minutes et 27 secondesc'est le laisser faire. Il me propose trois thèmes normalement. Donc voilà, la partie la partie ici, la partie design
+49:3449 minutes et 34 secondessystem ici euh elle est faite si tu veux, on va dire si tu veux que Cloud te fasse le design
+49:4249 minutes et 42 secondessystème directement. Je pense que si tu passes par Cloud Design, tu as besoin de demander de design système, éventuellement les écrans en fonction
+49:5049 minutes et 50 secondesdes stories, mais euh mais voilà. Bon là c'est basique, c'est pas moche, c'est
+49:5949 minutes et 59 secondesbasique, c'est voilà, c'est c'est pas ouf, hein. On va lui demander de faire proposer deux deux trois autres thèmes.
+50:0750 minutes et 7 secondesIl galère, il est un petit peu lent.
+50:0950 minutes et 9 secondespas encore fini hein. Ça reste basique quoi. C'est ça reste basique. Bon ce qu'il faut bien comprendre bon je pense que tu sais déjà mais si jamais tu sais
+50:1750 minutes et 17 secondespas c'est que cette phase de design système ça n'a rien à voir avec la phase de design de chaque feature la la phase de design écrans. C'estàdire que le
+50:2550 minutes et 25 secondesdesign système, c'est en gros tous les tokens, tous les composants, tous les espaces, tout la police,
+50:3450 minutes et 34 secondesles espacements, le le texte, les titres, les sous-titres, euh les petits boutons achetés
+50:4450 minutes et 44 secondesprimaires, secondaire, voir le catalogue, des petits composants, les boutons radio et cetera. Euh le design système, c'est ça. Ça ne définit pas
+50:5250 minutes et 52 secondesencore ici euh ça ne définit pas normalement alors normalement c'est pas censé définir le détail des euh c'est
+51:0151 minutes et 1 secondepas censé définir le détail des des des des de chaque écran, mais il a l'air de le faire là. Donc il fait design system
+51:0951 minutes et 9 secondeset je pense que c'est mon compte qui a fait ça. Il fait design système plus il commence à faire les écrans. Normalement
+51:1651 minutes et 16 secondesfaut vaut mieux découper le design système et chaque écran après par la suite. Moi je préfère découper chaque écran. On peut tout faire d'un coup.
+51:2551 minutes et 25 secondesMais bon là les écrans ici dans cette phase là en fait euh comme on n pas encore lancé le cycle complet pour chaque user story qui est research donc
+51:3451 minutes et 34 secondesune recherche de vraiment les routes, les écrans et cetera, créer un design.
+51:3951 minutes et 39 secondesSi on n pas fait une recherche, ça veut dire qu'on a pas on sait pas exactement le nom des champs, le nom et le détail des champs, le nombre de champs parce
+51:4651 minutes et 46 secondesque là c'est de la maquette un peu bidon mais après il y a des vraies données en fonction de données en base de données.
+51:5351 minutes et 53 secondesÇa ça passe par un truc un peu spécial.
+51:5651 minutes et 56 secondesC'est c'est pas moche. On va dire que c'est pas moche. Il continue sur la liste des des étudiants. C'est c'est pas moche. C'est basique quoi. OK, donc là
+52:0452 minutes et 4 secondesil a l'air d'avoir fini. Il nous propose le thel light d'arc. Qu'est-ce que ça donne le com design system ?
+52:1152 minutes et 11 secondesFranchement, c'est pas c'est pas dégueu.
+52:1352 minutes et 13 secondesC'est pas dégueu. Catalogue de formation. Euh, comment il fait les formations ?
+52:1952 minutes et 19 secondesDonc là, pour lire, pour acheter avec le détail, c'est pas mal. On a espace étudiant avec la reprise et cetera, le
+52:2752 minutes et 27 secondeslecteur et cetera et cetera. Donc là, c'est un exemple. Donc si tu es satisfait de ça, tu lui dis exporte
+52:3652 minutes et 36 secondesen HTML. Bom et là tu vas pouvoir le récupérer et le donner le donner à cloud. Ça c'est une autre variation.
+52:4452 minutes et 44 secondesAlors tu peux demander une autre variation là parle. Je vais te montrer ce que ça fait une variation. Je lui ai demandé de faire un peu plus sur le thème de
+52:5252 minutes et 52 secondesYou know you know egged egg heads je crois les des des Américains là qui font qui ont une chaîne un peu tech. Et du
+52:5952 minutes et 59 secondescoup, il m'a refait ça. C'est un petit peu plus orienté tech. Bon, c'est pas non plus exceptionnel. Ici, on a il nous a fait un petit exemple d'AP, mais
+53:0753 minutes et 7 secondesouais, c'est pas mal. Tu vois, ça te permet alors tu fais un truc relativement simple, tu vois. Je trouve que c'est propre. Euh, tu as le petit menu sur le côté par exemple qui te permet de voir l'avancement des modules.
+53:1853 minutes et 18 secondesLe la page de détail du cours, elle est relativement sympa avec du MarkD pour les pour le code et cetera. C'est
+53:2653 minutes et 26 secondesrelativement bien présenté avec les vidéos. le petit player et cetera, les commentaires, les petits boutons pour passer suivant précédent, c'est pas mal.
+53:3553 minutes et 35 secondesEt aussi ici le le petit euh le petit truc, le fil d'Arian, mais de droite là, je sais plus comment on appelle ça.
+53:4153 minutes et 41 secondesMarquer, compléter, sauvegarder euh le profil. Donc ça c'est aussi sympa. Donc en fait l'idée de la phase de design, ça ça dépend des goûts des uns et des
+53:5053 minutes et 50 secondesautres. Euh voilà, moi je crois ce que je vais partir sur ça. Comme ça, je te montrerai et puis on va on va faire ça.
+53:5653 minutes et 56 secondesDonc une fois que tu as ça, et bien tu peux la télécharger et la mettre directement dans le design.
+54:0354 minutes et 3 secondesDonc voilà, une fois que tu as exporté ta maquette et ton design système, tu l'as. Hop, attends, est-ce que je peux te le montrer ici ? Hop, là, design
+54:1254 minutes et 12 secondessystem. HTML et ici, tu cliques. Est-ce que je peux te le montrer là ? Donc, tu le récupères en maquet. Donc tu as tout tout le design système, tu lui demandes
+54:2054 minutes et 20 secondesde te générer tout le design système du site. Tu peux lui demander aussi plus de détails sur la main. Et comme ça bah tu as tous les composants. Et ensuite à
+54:2954 minutes et 29 secondespartir de là et bien on va pouvoir passer à la phase suivante. Ici donc on a le design system. Moi ce que j'aime
+54:3654 minutes et 36 secondesbien faire, c'est de passer par une phase où je lui dis je lui dis euh je lui dis applique le design système du
+54:4454 minutes et 44 secondessite euh sur euh sur le bowler plate parce qu'en fait le bowler plate ici hein, le bowler plate ici hop là local
+54:5354 minutes et 53 secondestu vois qu'il est il est c'est le brawler plate de base qui a le thème un petit peu un petit peu basique et moi
+54:5954 minutes et 59 secondesj'aime bien repasser par une phase où je lui demande ici de de refaire ça. Donc c'est ce qu'on va
+55:0755 minutes et 7 secondeslui demander avant de passer par les users forc. Je peux le faire, je le ferai en parallèle puisque en fait c'est ça va être long euh et c'est indépendant. Par contre, ce qu'on peut
+55:1655 minutes et 16 secondesfaire aussi donc là on va lui dire de de d'appliquer ça en parallèle. Je vais lui dire plutôt ça. Euh attends, on va lui
+55:2355 minutes et 23 secondesdire ici qu'il comprenne bien. On a le fichier design. HTL designsystème. HTML ici.
+55:3255 minutes et 32 secondesAllez, il est où notre agent ? Je viens d'exporter le design system ici.
+55:4355 minutes et 43 secondesLance un sous-agent qui va appliquer ce design système au thème du baller plate.
+55:5055 minutes et 50 secondesÇa veut dire euh tout le fichier global.css et aussi les composants dans les
+55:5855 minutes et 58 secondescomposants de chat CN et cetera et cetera.
+56:0156 minutes et 1 secondeVoilà, comme ça pendant qu'il travaille, on va le laisser travailler et on va passer à la suite. Donc la suite, c'est quoi maintenant ? Ici, on va le laisser
+56:0956 minutes et 9 secondesappliquer le design system. Et donc maintenant, la chose en fait qui a le plus de de valeur, on va dire, c'est de
+56:1656 minutes et 16 secondesd'appliquer un plan de research sur chaque story, c'està-dire les stories.
+Chapitre 11 : Status
+56:2256 minutes et 22 secondesAlors, on va lui demander al je sais pas si on va pouvoir Non, on va pasir faire on va faire un KS statut là qui tourne
+56:3156 minutes et 31 secondesici. Euh ouais, j'aurais dû lancer un deuxième agent. Voilà, lancer un deuxième agent. Le design système, il est déjà là.
+56:4156 minutes et 41 secondesPourquoi il a pas compris ? Je pense que c'est ça qui l'a fait bugger.
+56:4756 minutes et 47 secondesAllez, pendant qu'il applique ici, on va laisser on va lancer deux agents. On va laisser ici appliquer le truc au design system et nous on revient donc excusez-moi pour cette petite embrouille
+56:5656 minutes et 56 secondesici. On va donc réappliquer chaque user story en mode research. Alors, comment ça ça se passe ? On va lancer un mode research. Je vais lancer plein de
+57:0457 minutes et 4 secondesresearch en parallèle et il va me sortir un brief de design pour que je puisse en fait
+57:1157 minutes et 11 secondesredesigner les écrans plus proprement avec avec cl design parce que je rappelle qu'ici
+57:1857 minutes et 18 secondeshe bien sûr c'est c'est une maquette mais il y a pas le détail vraiment des écrans. Ça c'est juste une approximation
+57:2657 minutes et 26 secondesde la réalité. Nous ce qu'on veut c'est générer le détail des écrans. On veut on veut avoir des des écrans avec le nombre de champs exact et cetera. On veut on
+57:3557 minutes et 35 secondesveut tout parfait. Donc euh on peut pas lancer tout le cycle en parallèle puisque je passe par cloud design. Si si le design était fait par cloud, on pourrait lancer tout le cycle en
+57:4357 minutes et 43 secondesparallèle. Là ce que je vais faire, je vais lancer toutes les user story en parallèle pour avoir tous les briefs de
+57:5057 minutes et 50 secondesdesign en parallèle. OK, donc comme c'est assez long, je le laisse travailler ici lui sur le euh design et
+57:5857 minutes et 58 secondesje lance une 2e euh session ici. Alors là, c'est pas le bon projet.
+58:0558 minutes et 5 secondesFermer ça. Est-ce qu'on est ici dans teachable killer ? Oui, c'est bien ça.
+58:0958 minutes et 9 secondesAlors, ça, je vais le faire pas m'embrouiller. OK, donc on va lancer un agent Cloud.
+58:1558 minutes et 15 secondesEt là, je vais lui dire euh tac lance euh KS KS KS KS. OK.
+Chapitre 12 : Étape 6 — Design Stories - Dynamic Workflow (Research / Design)
+58:2558 minutes et 25 secondesJe veux que tu lances plusieurs dynamique agent. Dynamic workflow, pardon. Alors, non, tu vois, Dynamic
+58:3358 minutes et 33 secondesWflow, en fait, c'est que tu spécifies euh un nombre de sous-agents et il va déléguer ça. Tu peux en lancer jusqu'à
+58:4158 minutes et 41 secondes1000 et cetera. Donc ce que je veux faire ici c'est comme on a je te rappelle je sais que je suis un peu je répète plusieurs fois mais c'est pour c'est pour bien comprendre si tu
+58:4958 minutes et 49 secondesregardes bien story ici on a 1 2 on est story 6 7 8 9 10 11 12 13 donc on a
+58:5758 minutes et 57 secondesénormément de story ici et donc dans toutes ces stories je veux lancer le research en parallèle le research en
+59:0559 minutes et 5 secondesparallèle et le design brief en parallèle comme ça je vais tout envoyer à cloud design et il va me générer toutes les maquettes Allez, c'est parti.
+59:1459 minutes et 14 secondesUtilise dynamique morph. [ __ ] j'aurais plus à parler. Dynamique workflow
+59:2259 minutes et 22 secondespour lancer la phase euh KS research
+59:2959 minutes et 29 secondeset KS design en parallèle sur toutes les user story.
+59:4059 minutes et 40 secondesS'il y en a qui sont dépendantes d'autres, je te laisse gérer ça.
+59:4659 minutes et 46 secondesCe que je veux avoir à la fin, c'est tout le brief de design de tous les user
+59:5559 minutes et 55 secondesstory que je vais envoyer à Cloud Design.
+1:00:001 heureTous les briefs de design à Cloud Design. Voilà. Donc là ce que je veux c'est travailler en parallèle. Donc là ça ça bouffe du token.
+1:00:091 heure et 9 secondesÇa bouffe du token. Mais euh voilà.
+1:00:121 heure et 12 secondesVoilà. Là, en gros, je vais pouvoir revenir dans 1 heure ou deux et te dire où on en est, hein. Mais au moins ça, on aura tout ça. Et ça sera la dernière
+1:00:201 heure et 20 secondesétape puisque une fois que j'aurai tous les designs, je vais toutes les envoyer dans plot design et avec toutes les maquettes, je vais tout exécuter et
+1:00:271 heure et 27 secondesc'est et ça sera la dernière ligne droite. Allez, je le laisse mouliner.
+1:00:321 heure et 32 secondesToi, tu vois pas toutes ces étapes, mais je crois je vais aller manger ou faire autre chose puisque ça risque de tourner un petit peu long. Allez, c'est parti.
+1:00:391 heure et 39 secondesJe te montre peut-être avant. Je te montre un petit peu avant peut-être le Dynamic Warflow. Est-ce qu'il va nous montrer ça ?
+1:00:511 heure et 51 secondesComme je m'en vais, ce que je vais faire, je vais lancer le remote control comme ça je pourrais je pourrais contrôler ça aussi depuis depuis mon
+1:00:591 heure et 59 secondestéléphone et voir où ça en est. C'est quand même utile de pouvoir contrôler ça.
+1:01:061 heure, 1 minute et 6 secondesDonc tu vois qui va lire euh le document de template de research, le document de template pour faire le design brief et
+1:01:141 heure, 1 minute et 14 secondesle design screen et le template design system et cetera. Donc on le laisse on le laisse travailler.
+1:01:221 heure, 1 minute et 22 secondesAllez, il est encore un petit peu long. Il vient de me bouffer déjà 140 token. Il a à peine démarré.
+1:01:301 heure, 1 minute et 30 secondesjuste à indexer un petit peu tout ça.
+1:01:341 heure, 1 minute et 34 secondesEn fait, il relie le design système HTML généré. Allez, c'est parti.
+1:01:401 heure, 1 minute et 40 secondesOK, donc il a analysé tout ça. Il nous reste il nous dit des affirmations machin. Donc Workflow lancé en parallèle 30 agents quand même tu vois qui nous a
+1:01:481 heure, 1 minute et 48 secondeslancé 30 agents et il nous pose deux trois trucs et cetera. Donc on va aller voir ici. Tu peux aller voir. Donc là, tu vois quand tu vois ça ici, tu peux
+1:01:561 heure, 1 minute et 56 secondesrentrer dans le dynamic workflow. Euh je sais pas d'où on voit les 30 agents, mais en tout cas tu vois qu'on a la
+1:02:041 heure, 2 minutes et 4 secondesphase de design system, de research, de brief et de cohérence. Donc là, il rentre là-dedans et je sais pas d'où. Et
+1:02:131 heure, 2 minutes et 13 secondesalors, on va on va lancer la commande workflow pour voir un petit peu où on en est. Voilà. Donc ça c'est pour le voir comme ça.
+1:02:231 heure, 2 minutes et 23 secondesOK OK OK. Bon il a l'air il taffe. Alors ce qui est chiante avec le la vue dynamic Warflow ici c'est que bah elle est pas l'com il est pas il est pas ouf.
+1:02:331 heure, 2 minutes et 33 secondesOn voit pas des masses ce qu'il fait. Et là on est bloqué en fait. Oui on est un petit peu bloqué. Donc on le laisse euh
+1:02:401 heure, 2 minutes et 40 secondestac tac tac. On le laisse on le laisse faire. OK. Bah laissons le faire. Mais euh je vois pas en parallèle là, je vois
+1:02:491 heure, 2 minutes et 49 secondespas ces 30 agents en fait parce que j'ai capture ici normalement on le voit un petit peu mieux. OK. Bon, on va le laisser.
+1:02:591 heure, 2 minutes et 59 secondesOn va le laisser. En tout cas, il nous dit que il nous le dit bien qu'il y a les les les les Ils sont où là ? Les où ? Les où ? Il est où ? Les les 30 agents ? Il nous l'a dit tout à l'heure. OK.
+1:03:091 heure, 3 minutes et 9 secondesBon, bref, on va le laisser tourner.
+1:03:111 heure, 3 minutes et 11 secondesDynamic Warflow. Allez, on laisse tourner. Et euh je reviens parce que ça c'est le genre de tâche qui est un petit peu loin.
+1:03:211 heure, 3 minutes et 21 secondesC'est effectivement un petit peu long hein puisque il a fini la capture du design système 9 minutes et là il est en train de vérifier que tout est bon sur
+1:03:291 heure, 3 minutes et 29 secondesle design système et en fait effectivement il peut pas lancer les autres agents en parallèle tant qu'il a pas qu'il est pas sûr du design système parce que si le design système est
+1:03:371 heure, 3 minutes et 37 secondesfoireux après et bien on aura on aura d'autres problèmes. Donc là on en est où ? qui nous dit euh regarde, il est en
+1:03:451 heure, 3 minutes et 45 secondestrain de lancer la phase de sur le design system. Ensuite, il va vérifier le design system. Il va faire la phase
+1:03:531 heure, 3 minutes et 53 secondesde research et de brief. Voilà un peu où on en est. Je peux te montrer un petit peu ici. Comme je disais, ici on va être
+1:04:001 heure et 4 minutesen phase de de de research ici. Tout ça, ça va se répéter par story. La phase de recherche, qu'est-ce que ça fait ?
+1:04:081 heure, 4 minutes et 8 secondesétabli le code réel et cetera avant la story. C'estàd que là, on va faire une une
+1:04:151 heure, 4 minutes et 15 secondeson va regarder un peu vraiment l'état du code. C'estàd qu'à chaque fois, par exemple, pour une story, je sais pas, création d'une formation, on va regarder
+1:04:221 heure, 4 minutes et 22 secondesle code et cetera, on va regarder où ça s'intègre, on va regarder un peu les API, on va regarder la la dog, les revues et cetera. On va regarder s'il y
+1:04:301 heure, 4 minutes et 30 secondesa des des problèmes, les limites et cetera. Donc là, on va lancer la phase de research et la phase de design. ici,
+1:04:371 heure, 4 minutes et 37 secondesça sert euh ça sert en fait à avoir un un brief en fonction de la maquette que j'enverrai euh que j'enverrai à Claude.
+1:04:451 heure, 4 minutes et 45 secondesMais là, c'est un petit peu long puisque j'attends effectivement euh j'attends qu'il me le fasse en parallèle sur les 14 maquettes, sur les 14 user story là,
+1:04:541 heure, 4 minutes et 54 secondesles 14 user story. Mais il est long, il est long, il est long, il est long. Il attend qui le ça finit. Donc
+1:05:011 heure, 5 minutes et 1 secondeeffectivement c'est long et Neno c'est long. En attendant, lui le premier agent là qui devait travailler sur en gros
+1:05:091 heure, 5 minutes et 9 secondesretravailler un petit peu toute la toute la tout le design systeme. Donc tu vois, il a redesigné le design système du baller plate. Donc là, il a customisé un
+1:05:171 heure, 5 minutes et 17 secondespetit peu plus façon façon proche de de ce qu'on avait avec le design ici.
+1:05:221 heure, 5 minutes et 22 secondesAlors, il adorait pas non plus sauter aux yeux puisquis qu'on a pas refait tous les écrans. Il a pour de simplement ça c'est des écrans qui vont sauter
+1:05:301 heure, 5 minutes et 30 secondesnormalement. Voilà. Donc là, il là, il y a le petit boutons, il y a la couleur, il y a la police, il y a les espacements.
+1:05:361 heure, 5 minutes et 36 secondesEuh qu'est-ce qu'on a ici ? Donc on voit que les formulaires ont un petit peu changé, mais c'est c'est c'est voilà,
+1:05:451 heure, 5 minutes et 45 secondesc'est pas folichon ici. Il devrait aller plus loin dans la phase euh dans la phase de design système des
+1:05:521 heure, 5 minutes et 52 secondesmaquillettes. Allez, allez, on y va. 14 minutes à vérifier. OK, c'est un petit peu long mais bon. OK, il vient de finir
+1:06:011 heure, 6 minutes et 1 secondedonc la phase de euh design system ici et là normalement voilà. Donc là, tu
+1:06:081 heure, 6 minutes et 8 secondesvois qui lance en parallèle cette fois-ci hein. C'est du parallèling.
+1:06:121 heure, 6 minutes et 12 secondesC'est ça que je voulais te montrer en fait. C'est je voulais te montrer toutes les users story ici. Toutes les users
+1:06:191 heure, 6 minutes et 19 secondesstory et bien il est fait en parallèle afin de nous gêner. Alors si tu vois un peu mieux ici, on va aller là, on va
+1:06:281 heure, 6 minutes et 28 secondeslancer workflow ici. Voilà, ça on le verra un peu mieux. Et donc là, il va mouliner en parallèle
+1:06:351 heure, 6 minutes et 35 secondessur toutes les user story. L'idée, on revient ici. Hop, je remonte pour être sûr qu'on capte bien la même chose et
+1:06:431 heure, 6 minutes et 43 secondesc'est que ici et bien dans les phases euh de research et design. Alors, je peux pas comme je te disais, je peux pas
+1:06:521 heure, 6 minutes et 52 secondesje pourrais lancer tout ça en mode automatique euh avec dynamic workflow. Le problème c'est que la partie design ici elle doit
+1:07:011 heure, 7 minutes et 1 secondepartir hop dehors, aller sur Cloud design et ensuite revenir. Donc encore une fois, si tu veux le faire travailler
+1:07:091 heure, 7 minutes et 9 secondespar un euh un par Cloud directement, tu pourrais tout faire d'un coup, mais je préfère valider les visuels et dans Cloud Design avant qu'il aille au bout.
+1:07:171 heure, 7 minutes et 17 secondesMais déjà de pouvoir faire toutes les user story en research et le brief et la cohérence. Déjà, on va pouvoir avoir
+1:07:261 heure, 7 minutes et 26 secondesun bon brief à donner effectivement à notre Cloud Design. Allez, encore une fois, j'espère que ça va pas être trop long aujourd'hui. En plus, Claude est un
+1:07:351 heure, 7 minutes et 35 secondespeu à la ramasse. C'est un petit peu long.
+1:07:381 heure, 7 minutes et 38 secondesDonc je te préviens quand c'est terminé, encore une fois le but c'est d'avoir les briefs de design que je vais pouvoir hop
+1:07:471 heure, 7 minutes et 47 secondesimporter design. Donc dès que j'ai ça et bien je passe à la suite.
+1:07:531 heure, 7 minutes et 53 secondesRegarder quand même un peu ce qu'il y a dedans si ça t'intéresse.
+1:07:561 heure, 7 minutes et 56 secondesOn voit pas des masses hein. Tu vois que c'est c'est dommage que tu vois il exécute là. Il exécute la command research comme prévu. C'est comme ce qu'on voit ici effectivement.
+1:08:081 heure, 8 minutes et 8 secondesla commande research ici KS research il exécute cette commande on le voit mais tu vois on voit pas et tu vois c'est le
+1:08:161 heure, 8 minutes et 16 secondesil est vraiment mal fait leur dynamique workflow là devrait avoir des vrais des vrais log agentsents cool cool mais bon on va laisser tourner donc là c'est
+1:08:251 heure, 8 minutes et 25 secondesquand même moi je trouve c'est la partie quand même hyper important c'est quand même puissant de pouvoir se dire que boum tout part quoi. Alors ça y est, on a nos fichiers pour chaque donc dans
+1:08:341 heure, 8 minutes et 34 secondesdesign pour chaque user story, on a les briefs. Donc le son, progresse, admin user et cetera. Donc on a le brief qui explique tout ça. C'est ce qu'on va
+1:08:431 heure, 8 minutes et 43 secondesenvoyer à Cloud Design. Comme en fait j'ai envie de gagner du temps, je vais pas les envoyer un par un. J'ai fait concaténer. Donc là j'ai tout dedans.
+1:08:521 heure, 8 minutes et 52 secondesDonc tu vois là S03, S04 et cetera. Donc j'ai tout d'un coup et je vais pouvoir aller voir donc je vais tout copier. Je
+1:08:591 heure, 8 minutes et 59 secondesvais pouvoir aller voir Cloud Design ici et je vais lui demander à notre ami Cloud Design de tout réexécuter ici.
+1:09:081 heure, 9 minutes et 8 secondesDonc on va lui dire mon autre agent, il y a m'a donné tous les briefs de toutes les user story de tous les écrans. Je
+1:09:171 heure, 9 minutes et 17 secondesveux que tu me crées un fichier HTML par user story numéroté avec le numéro de la
+1:09:261 heure, 9 minutes et 26 secondesuser story par exemple S01, S02, S03 et cetera. Donc là, je lui dis ça et ici qu'est-ce que je fais ? Je colle boum ce
+1:09:351 heure, 9 minutes et 35 secondesqu'on a vu. Et c'est parti. On va le laisser donc travailler. Voilà. Donc il a mouliné. Il a mouliné. et il nous a
+1:09:431 heure, 9 minutes et 43 secondesgénéré donc tout ça et si tu peux le voir d'ailleurs ici là donc on a notre user story de base et on a ici donc si
+1:09:501 heure, 9 minutes et 50 secondeson revient allez nous elle a pas mis la S01 voilà S01 donc par exemple si on veut voir la S01 qui est donc la
+1:09:571 heure, 9 minutes et 57 secondescréation d'une nouvelle c'est pas le truc le plus ouf mais voilà donc là c'est sur la partie admin donc pour l'admin ici qu'on puisse comme dans
+1:10:051 heure, 10 minutes et 5 secondesteachable pouvoir dupliquer et cetera ça je sais pas à quoi ça sert publier dépublier oublié. Bon voilà, c'est pas
+1:10:131 heure, 10 minutes et 13 secondesce qu'il y a de plus ouf. Allez S0 S02. Après là bien sûr tu peux éter dessus. Là je vais au plus vite parce que voilà je te montre ça. Donc S02 donc
+1:10:221 heure, 10 minutes et 22 secondeslà espace mes formations. Donc une carte avec ça c'est la pour la partie utilisateur. Donc un utilisateur sur le
+1:10:291 heure, 10 minutes et 29 secondesfront, il verra ça. Alors j'aurais aimé qu'il me mette peut-être un peu de un
+1:10:351 heure, 10 minutes et 35 secondespeu plus de de qu'on voit un peu le qu'on voit un peu le truc. Alors, est-ce que s'il n'a pas fait S02 parce que je
+1:10:431 heure, 10 minutes et 43 secondeslui demandé de retoucher voilà Studient Space plutôt S02 Studient Space. Donc on est ici. Commencer la formation.
+1:10:521 heure, 10 minutes et 52 secondesEuh tout à l'heure il y avait le il y avait le il y avait le le player là il y est pas. Bon c'est pas grave. Allez S003
+1:11:001 heure et 11 minutesla suite. Elle est où notre S03 ? J'en ai créé pas mal. S03 leçon vidéo. Voilà c'était la poche de leçon vidéo. Donc j'ajoute ici.
+1:11:101 heure, 11 minutes et 10 secondesOK. Donc ça c'est sur l'admin. OK. S04 progresse. Qu'est-ce que c'est progress ? Ouais, le fait d'avancer continuer.
+1:11:201 heure, 11 minutes et 20 secondesEuh bon bref, tu auras compris un petit peu le truc. Catalogue. Qu'est-ce qu'on a ici ? Catalogue. Voilà, on a ça. OK.
+1:11:291 heure, 11 minutes et 29 secondesEuh voilà. Après, je aussi alors j'ai fait plusieurs variations que je t'ai pas montré. J'ai je refais en mode cata une application un petit peu plus
+1:11:361 heure, 11 minutes et 36 secondescomplète ici. Bon voilà, pas ça le détail des petites cartes de cours par
+1:11:441 heure, 11 minutes et 44 secondesexemple ici les leçons il m'a combiné un petit peu tout ça avec le player et cetera. Donc une fois que tu as ça, tu les exportes. Donc tu exportes tous les
+1:11:521 heure, 11 minutes et 52 secondesfichiers HTML et on va les remettre dans notre fichier doc. Ici on est où ? Donc dans doc design. et on va mettre toutes
+1:12:001 heure et 12 minutesles euh stories ici dedans, HTML, et comme ça, on va pouvoir euh démarrer l'implémentation.
+1:12:061 heure, 12 minutes et 6 secondesOK ? Donc, tu vois qu'à la fin, une fois qu'on a bien dans notre dossier design euh les fichiers HTML, le brief ici, et
+1:12:131 heure, 12 minutes et 13 secondespuis tu peux en extraire un fichier MD pour plus de tu vois pour voir exactement quand s'applique les choses et cetera, quel composant et cetera.
+1:12:231 heure, 12 minutes et 23 secondesDonc une fois qu'on est arrivé à cette étape-là, donc on a euh on a à peu près tout. On a à peu près tout ici.
+1:12:331 heure, 12 minutes et 33 secondesQu'est-ce qu'on est ? Alors, attends, on va on va continuer ici. On va reprendre ici. Donc là, on a sur le car research. Je vais revenir ici. Donc là, on a tout.
+1:12:401 heure, 12 minutes et 40 secondesOn a le on a le research, on a le design. Et enfin, la dernière ligne droite, ici, on va préparer un plan,
+1:12:481 heure, 12 minutes et 48 secondesc'est-à-dire euh un plan d'implémentation, c'est-à-dire qu'est-ce qu'on quels sont les composants les composants React, la partie React server
+1:12:571 heure, 12 minutes et 57 secondescomponent, la modélisation en base de données, quelle table, quelle table, quel champ, quel fichier de migration,
+1:13:041 heure, 13 minutes et 4 secondesc'est vraiment le le plan par fonctionnalité. Si on reprend par exemple, je sais pas cette fonctionnalité ici, par exemple si tu
+1:13:121 heure, 13 minutes et 12 secondesreprends cette fonctionnalité ici et bien euh il y a un plan. Alors, plutôt on va reprendre celle qui est dans
+1:13:201 heure, 13 minutes et 20 secondesl'administration. On le voit pas ici, mais il y a un plan qui va définir que il y a une table court qui contient des
+1:13:271 heure, 13 minutes et 27 secondesleçons, qui contient du Mark, qui contient telle données en base de données, telle données à valider côté
+1:13:361 heure, 13 minutes et 36 secondesserveur en respectant bien sûr toute la couche du baller plate, couche de présentation DAO et cetera et cetera, le
+1:13:431 heure, 13 minutes et 43 secondesCASL, la sécurité. reprend tout le workflow classique que je peux te remontrer ici mais je veux voilà je pas
+1:13:501 heure, 13 minutes et 50 secondeste remontrer 10 fois mais en fait en respectant toutes les couches architecture la présentation donc UI la couche
+1:13:581 heure, 13 minutes et 58 secondesservice la persistance comment ça fonctionne les react server compos les les actions et cetera, la validation
+1:14:051 heure, 14 minutes et 5 secondesenfin tout le truc technique derrière c'est vraiment cette partie là c'est la partie qui va vraiment planifier qu'est-ce qu'on fait en terme en terme
+1:14:141 heure, 14 minutes et 14 secondesterme de d'exécution, tu vois, on a fait une première recherche. Là, on va replanifier vraiment ce qu'on va faire.
+1:14:211 heure, 14 minutes et 21 secondesDonc là, c'est la planification avant l'exécution. C'est onxécute toujours pas direct. C'estàd qu'on va planifier
+1:14:281 heure, 14 minutes et 28 secondesl'exécution et enfin en dernier tour et bien cette exécution faut la revoir, vérifier qu'elle est correcte, pas des
+1:14:351 heure, 14 minutes et 35 secondeschoses. Et enfin la livraison. OK ? Donc là, à partir de là, ça pareil, on va pouvoir faire un dynamic workflow de
+1:14:431 heure, 14 minutes et 43 secondestoutes ces étapes ici. Donc là, ce qu'on va faire pour être sûr qu'il travaille tout seul, on va utiliser la commande.
+1:14:491 heure, 14 minutes et 49 secondesAlors, est-ce que j'étais là là ou là ?
+1:14:521 heure, 14 minutes et 52 secondesOn va voir. Donc là, il utilise la goal et je vais lui dire en fait condition euh toutes les user story terminé en passant par les phases euh les phases.
+Chapitre 13 : Étape 7 — Agentic Loop Dynamic Workflow (Plan, Execute, Review Ship)
+1:15:081 heure, 15 minutes et 8 secondesDonc KS KS plan KS euh execute, c'est ça ? KS
+1:15:151 heure, 15 minutes et 15 secondesplan KS execute. [ __ ] je voyais même plus mon premier plan execute KS review et KS ship. Voilà. Ship.
+1:15:251 heure, 15 minutes et 25 secondesVoilà. Donc là, en gros, boum, on va lui on va lui setter ce goal. Donc là, l'agent il va travailler tout seul.
+1:15:311 heure, 15 minutes et 31 secondesAlors, attends. Hop. J'ai oublié de lui dire. Est-ce que je peux lui refaire dispatch dispatch proprement
+1:15:411 heure, 15 minutes et 41 secondesavec dynamique workflow en parallèle je veux que ça aille vite
+1:15:481 heure, 15 minutes et 48 secondesen parallèle gère toi-même la séquence normalement
+1:15:551 heure, 15 minutes et 55 secondesj'ai pas besoin de spécifier bien sûr tu passes par des work tre pour pouvoir travailler en parallèle proprement
+1:16:041 heure, 16 minutes et 4 secondesVoilà. Donc normalement il a bien compris. L'idée hein, c'est de se dire ici c'est bon, on a tout là. Normalement à cette phase là, il y a plus à
+1:16:121 heure, 16 minutes et 12 secondesdiscuter. On a quasiment tout. Donc là, ce qu'il va pouvoir faire, il devrait pouvoir donc planifier tout ça en parallèle. Ça, il peut le faire
+1:16:201 heure, 16 minutes et 20 secondesquasiment avec tous les les les user story en parallèle. Boom. Ça, il va le faire en mode dynamic workflow.
+1:16:281 heure, 16 minutes et 28 secondesensuite exécuter, il va regarder ceux qui sont dépendants d'autres parce que par exemple comme je te disais ici cette
+1:16:361 heure, 16 minutes et 36 secondesuser story ici qui là par exemple qui une user story de d'afficher un une leçon cette user story va être
+1:16:451 heure, 16 minutes et 45 secondesdépendante de la user story euh d'administration de création d'un cours.
+1:16:521 heure, 16 minutes et 52 secondesComme l'administration de création d'un cours et ben nécessite la modélisation en base de données du cours et cetera et cetera. Bon bah faut que cette story elle soit exécutée, remer et ensuite
+1:17:001 heure et 17 minutesboum, il va pouvoir appliquer derrière euh il va pouvoir appliquer derrière la partie euh la partie ici le front. Donc
+1:17:081 heure, 17 minutes et 8 secondesça c'est euh c'est lui qui qui est capable, tu es pas obligé de le faire, il est pas il est plutôt bon sur ça. Il est capable de gérer
+1:17:171 heure, 17 minutes et 17 secondesde gérer en gros tout ce qui est en parallèle et cetera. Donc ça il va pouvoir le faire proprement. Et ensuite je terminer. Donc il va pouvoir faire
+1:17:251 heure, 17 minutes et 25 secondesça, il va gérer l'ordre, il va l'exécuter, il va faire donc c'està dire en haut il va coder, il va développer, il va faire la revue et il va faire une
+1:17:341 heure, 17 minutes et 34 secondesp request, il va l'envoyer sur il va merger et à la fin on devrait avoir ce cet espace là ce site qui fonctionne.
+1:17:441 heure, 17 minutes et 44 secondesLà, je pense que je vais faire une pause, je vais le laisser tourner et je pense que euh
+1:17:521 heure, 17 minutes et 52 secondesje verrai, je vais te montrer demain parce que ça risque d'être un petit peu long. OK. En attendant, c'est vrai qu'il me dit que pour la commande K ship, il pourra pas ouvrir de pool request. Donc
+1:18:001 heure et 18 minutesc'est ce qu'on va faire. Et bien là, on va aller l'associer à notre compte ditub, hein. Comme ça, on va faire ça propre. Allez ditub et on va lui créer
+1:18:081 heure, 18 minutes et 8 secondesun repository. Donc nouveau repository, je l'ai appelé podia podia te chableable
+1:18:171 heure, 18 minutes et 17 secondeskey killer ici. Voilà. Bon là je vais le mettre en privé créer repository et on
+1:18:241 heure, 18 minutes et 24 secondesva pouvoir initialiser the repo ici. On va lui me [ __ ] le remote ici. Appuie tac. Il est où notre code ? Ici, on va
+1:18:331 heure, 18 minutes et 33 secondeslui basculer le remote et on va lui faire un git push sur main. Comme ça, on aura la branche main et pourra se
+1:18:411 heure, 18 minutes et 41 secondesdémarre. Alors, normalement, il va lancer comme on vient de notre boller plate, normalement il y a toute la
+1:18:491 heure, 18 minutes et 49 secondesséquence de test qui va de test et de ligne qui devrait passer qui va bloquer si jamais il y a il y a il y a un problème. Là, c'est bon, c'est créé. Je
+1:18:581 heure, 18 minutes et 58 secondesvais lui dire que le ripo le ripo le remote est attachement. C'est
+1:19:061 heure, 19 minutes et 6 secondesbon. Voilà, il devrait comprendre. Auto je merge. Euh je bascule auto je merge.
+1:19:111 heure, 19 minutes et 11 secondesManuel tu merge. Euh on va le laisser émerger. Allez, on va lui faire confiance. Hop, on va le laisser émerger. Qu'est-ce qu'il nous fait là ?
+1:19:181 heure, 19 minutes et 18 secondesIl y a des choses. OK, nous on revient vers notre guide. On va poucher abstream. Il bouge coucher comme ça. On
+1:19:281 heure, 19 minutes et 28 secondesa bien notreub hein. On a bien notre branché couché. Normalement, il peut le faire aussi. Comme ça, on va avoir un repos. L'idée, c'est d'avoir un guitub,
+1:19:371 heure, 19 minutes et 37 secondesd'avoir euh bon là pour pusher le baller plate m'oblige à lancer tous les tests et je peux pas poucher si j'ai pas tous
+1:19:451 heure, 19 minutes et 45 secondesles tests. Donc les tests passent. Là, j'ai été rejeté. Je sais pas si c'est un build en cours. Qui build ? C'est notre
+1:19:531 heure, 19 minutes et 53 secondesami ici qui build ou quoi ? notre ami build ici en parallèle. Donc il nous bloque le il nous bloque le il nous bloque le il nous bloque le truc. Euh on
+1:20:021 heure, 20 minutes et 2 secondesva le laisser faire et on va regarder un petit peu la vague de voilà et de de tout ce qui nous a lancé. Design
+1:20:091 heure, 20 minutes et 9 secondesOK, je vais lui dire de bah là il relance.
+1:20:141 heure, 20 minutes et 14 secondesOK, je vais le bloquer. Ça sera plus simple. Moi ce que je veux c'est m'assurer que j'ai bien pouché mode
+1:20:211 heure, 20 minutes et 21 secondespremière version afin qu'il puisse avoir une référence de base pour faire les pull request et ceterain. Allez, on y va. On va lancer notre build. NPM build.
+1:20:321 heure, 20 minutes et 32 secondesOuais, j'en profite pour te montrer un point et c'est vrai que je suis passé à côté tout à l'heure, c'est que dans la phase précédente, je suis allé un peu
+1:20:391 heure, 20 minutes et 39 secondesvite, je l'ai laisser travailler, l'idéo est longue et donc du coup, j'accélère un peu. Mais dans la phase ici de research et design ici. Donc
+1:20:461 heure, 20 minutes et 46 secondeseffectivement en output, on voulait avoir tous les designs et les briefs MD et cetera et cetera. Et la phase de research, faut pas l'oublier. Euh, elle
+1:20:541 heure, 20 minutes et 54 secondesétait elle était ici, tu dois la voir apparaître ici, hein. Donc la phase de research, c'est vraiment je te montre que c'est une phase de research. C'est
+1:21:021 heure, 21 minutes et 2 secondespar exemple, si on prend la phase de create pour créer en fait la story de créer une une course. Donc là, c'est en
+1:21:091 heure, 21 minutes et 9 secondesanglais. Donc, il fait du franglis. Euh il me connaît, moi je fais beaucoup de franglis aussi mais il dit en tant que formateur donc tu vois c'est euh c'est
+1:21:181 heure, 21 minutes et 18 secondeseuh le langage d'une user story hein, tu vois. Donc en tant que formateur je fais ça. Les critères d'acceptation euh c'est ça.
+1:21:261 heure, 21 minutes et 26 secondesÇa se base donc sur le baller plate na na et cetera. Et là clairement, tu vois qu'il est rentré euh la phase de
+1:21:341 heure, 21 minutes et 34 secondesresearch, hein, il est rentré dans euh le fait de créer un nouveau domaine qui s'appelle course, donc qui représente
+1:21:411 heure, 21 minutes et 41 secondesles formations. Donc tu vois qu'il a spécifié la création du modèle, donc diesel, la base de données, en gros le
+1:21:491 heure, 21 minutes et 49 secondesrepository, donc toutes les fonctions de get, create, delete et cetera et cetera.
+1:21:541 heure, 21 minutes et 54 secondesDonc tu vois, il est bien repassé par la couche service passade comme le spécifie mon boiler plate si toi tu avais défi ta
+1:22:011 heure, 22 minutes et 1 secondepropre architecture et serait passé par ton truc. le système de CASL course autorisation. Donc pour éviter que et
+1:22:101 heure, 22 minutes et 10 secondesbien n'importe quel user puisse faire n'importe quoi, hein. Du coup voilà, ça respecte ce système de CSL qui a été mis en place dans le baller plate euh les
+1:22:191 heure, 22 minutes et 19 secondestypes, la validation, le DAL pour les personnes qui ont suivi ce que c'est dans mes formations React
+1:22:261 heure, 22 minutes et 26 secondesMastery, Next Mastery, je t'invite, ça aller gratuite. Donc tu peux la retrouver euh data access layer, la route pour les courses,
+1:22:351 heure, 22 minutes et 35 secondesle les composants euh les composants admin euh le layout pour ça et cetera et
+1:22:421 heure, 22 minutes et 42 secondescetera, le workflow et cetera, les euh API function. OK, donc tu vois les fonctions administration et cetera, get
+1:22:501 heure, 22 minutes et 50 secondesuser et cetera et cetera. Créate post DAO, en gros, il te dit tout ce qu'il y a à faire. Donc tu vois, tout est bien détaillé dans la research.
+1:22:591 heure, 22 minutes et 59 secondesEt a priori c'est bon. Donc là éventuellement tu peux éventuellement valider et les trappes et contraintes éventuellement donc les les points et
+1:23:081 heure, 23 minutes et 8 secondescetera l'histoire du V4 donc ça il a bien compris et des questions ouvertes et cetera Gener service donc ça il l'a
+1:23:151 heure, 23 minutes et 15 secondesfait. Donc tu vois, et c'est très très proche, c'est très très proche de la technique hein. Bien sûr, c'est très très proche de la technique mais encore
+1:23:231 heure, 23 minutes et 23 secondesune fois pour te dire à quel point on exécute pas du premier coup hein, c'est très très proche de la technique mais c'est un plan de recherche avec ce plan
+1:23:311 heure, 23 minutes et 31 secondesproche de la technique vu qu'on a les les les champs en base de données et cetera. Pour ça que à partir de là, on peut faire le design parce qu'on a les
+1:23:391 heure, 23 minutes et 39 secondeschamps, on sait qu' a nom le nom du cours, ça le fond, on connaît la modélisation. Donc à partir de cette modélisation, on peut faire des écrans
+1:23:481 heure, 23 minutes et 48 secondesmais on a toujours pas planifié vraiment le code. C'està dire que avant même de créer le code, on va après refaire une planification exécution relip. Donc
+1:23:571 heure, 23 minutes et 57 secondesvraiment pour je veux vraiment que tu tu vois un peu ce changement un peu de de paradig d'être vraiment en mode développeur. Je dis bah tiens développe ça. Là on est vraiment sur des phases de
+1:24:051 heure, 24 minutes et 5 secondesrecherche design exécut et cetera. Donc ça peut paraître fastidieux et long mais à la fin finalement on va sortir unas
+1:24:121 heure, 24 minutes et 12 secondessans une journée quoi, tu vois. Donc voilà. Donc là on laisse on laisse tourner, on le laisse tourner. Donc là il il lance notre pas de dynamic
+1:24:191 heure, 24 minutes et 19 secondesworkflow. Donc là il nous relance le plan plan execute review. Donc là il va nous faire ces trois étapes.
+1:24:271 heure, 24 minutes et 27 secondesPlanification. L'exécution va être faite en TDD. Donc il va lancer les tests Ren et cetera. Et ensuite, il va faire la
+1:24:361 heure, 24 minutes et 36 secondesrevue. La revue, la revue. Allez, on le laisse faire. En espérant que ça ne soit pas trop long, mais ça risque d'être long. Donc, je reliendrai tout à
+1:24:441 heure, 24 minutes et 44 secondesl'heure. Bon, ça a été un petit peu long. J'ai eu le temps de faire ma marche. J'ai eu le temps même d'aller manger et il vient de venir ici. Et
+1:24:521 heure, 24 minutes et 52 secondescomme tu vois, alors attends, je reviens, je suis pas sur le bon dynamic workflow ici. Donc là, qu'est-ce qu'il nous dit ici ? Comme tu peux voir, il
+1:25:011 heure, 25 minutes et 1 secondenous dit donc revue de très haute qualité, elle a trouvé trois défauts réels de l'implémentur, on n'avait pas vu et cetera et cetera. Bon bref,
+1:25:091 heure, 25 minutes et 9 secondesI1M cassé, bon ça c'est des c'est pas grand-chose. Une liste de 70 requêtes pour afficher deux compteurs. Euh ouais,
+1:25:161 heure, 25 minutes et 16 secondesça c'est un peu chaud. Amplifié par une recherche des booms machin. Donc là effectivement il y a il y a un gros problème. Et réordonnancement en échec
+1:25:251 heure, 25 minutes et 25 secondessilencieux. Résultat l'action n'est jamais lu. Elle optimise le reste affiché et cetera et cetera.
+1:25:301 heure, 25 minutes et 30 secondesLe gars le gate autorise le ship. Aucun critical mais je ne merche pas dans main. 13 stories vont être hérités de ce sole. Donc il préfère corriger d'abord.
+1:25:391 heure, 25 minutes et 39 secondesDonc tu vois, il prend la décision parce que comme c'est une comme c'est tu as beaucoup de user story qui vont être dépendantes de celle-là parce que c'est
+1:25:461 heure, 25 minutes et 46 secondesla principale avec euh avec bah du jeu la modélisation de données, le fait de créer des des formations et cetera, il
+1:25:531 heure, 25 minutes et 53 secondespréfère la corriger et ensuite euh il y aura donc là qu'est-ce qu'on a ? Qu'est-ce qu'on a ? Qu'est-ce qu'on a ?
+1:26:001 heure et 26 minutesIl nous a fait ça, donc il nous corrige ça et il passe un truc. Donc euh où on en est sans OGV S01 est fonctionnellement complet parce qu'il le
+1:26:081 heure, 26 minutes et 8 secondesteste bien évidemment et cetera et cetera. Deux enseignements structurels sur cette première vague qui va la suite. La revue antiallucination n'est
+1:26:161 heure, 26 minutes et 16 secondespas décorative. Elle a trouvé des trucs et cetera. Les bloqueurs déclarés par la valent de l'or. C'est en lisant le sien qu'on a découvert les migrations aurait
+1:26:241 heure, 26 minutes et 24 secondesfait échouer de à si vag en cascade et cetera et cetera. Bref, le verdict revie
+1:26:301 heure, 26 minutes et 30 secondesvers 0101. Donc là, il passe euh il passe en correction de create course.
+1:26:391 heure, 26 minutes et 39 secondesIci, correction de la story et on attend la revue. Voilà. Donc là, il tourne et on va l'attendre. Donc il est là. Donc
+1:26:471 heure, 26 minutes et 47 secondestypiquement pour comprendre, on est ici, on est passé donc de cette phase. Alors, attends, je vais peut-être le montrer là, ce sera plus simple sur ce workflow
+1:26:551 heure, 26 minutes et 55 secondeslà. tu vas pouvoir le comprendre un petit peu mieux. En fait, on était donc dans cette phase d'exécution
+1:27:041 heure, 27 minutes et 4 secondesde revue et en fait, on a vu que c'était pas bon. Donc, on va rexécute après la revue et en fait, ça nous génère juste pour capter un document comme ça qui
+1:27:121 heure, 27 minutes et 12 secondess'appelle review. Dans review, on a create course, donc sur la story et on peut voir ici qu'est-ce qui pose
+1:27:191 heure, 27 minutes et 19 secondesproblème. Donc ça, toute la revue en fait, plan compliance et cetera et cetera. Euh donc tout ça c'est bon. Le
+1:27:281 heure, 27 minutes et 28 secondesdesign il a l'air de pas être moyennement chaud hein. C'est ça. Et aucun ce qu'il nous dit pour le moment c'est qu'aucun test ne couvre la couche
+1:27:361 heure, 27 minutes et 36 secondesde présentation et cetera et cetera, régression et cetera. Donc là il nous met en gros tout ce qu'il nous a dit tout ce qu'il doit faire euh tout ce
+1:27:441 heure, 27 minutes et 44 secondesqu'il doit faire sur la review. Voilà donc on le laisse tourner ici et il nous fait le fix en courant. OK. Une petite
+1:27:531 heure, 27 minutes et 53 secondeschose intéressante à voir ici, c'est que c'est plutôt long. hein, on est sur 21 minutes et ce que j'avais pas bien vu.
+1:27:591 heure, 27 minutes et 59 secondesDonc là 300000 tokens mais c'est des tokens de sonet 5 ici qui est pas un mauvais modèle en soi qui suffirait en
+1:28:071 heure, 28 minutes et 7 secondesfait pour une phase d'implémentation puisqueen fait tout le travail a déjà été fait, a été très mâché, a été analysé, la logique euh a été euh a été
+1:28:161 heure, 28 minutes et 16 secondesdite. C'estàd qu'en gros on lui a dit bah voilà modifie tel fichier et fais telle chose. comme si en gros tu prenais un développeur junior et que tu lui avais écrit tout le code en amé et tu
+1:28:241 heure, 28 minutes et 24 secondeslui disais bah recopie ce code et implément-le. Donc c'était ça un peu la logique. Par contre, je trouve que c'est un poil long et dans ce cet agent ici
+1:28:321 heure, 28 minutes et 32 secondeseuh d'implémentur, je vais le repasser en opus he c'est ce que je lui ai dit.
+1:28:371 heure, 28 minutes et 37 secondesDonc pour la méthode je repasserai en opus et là c'est ce qu'il m'a fait pour les autres développements des autres stories. Euh ici il m'a repassé en opus
+1:28:451 heure, 28 minutes et 45 secondespour les autres sous-agents du dynamique workflow. Pourquoi je l'ai pas vu dans mes autres implémentations où j'ai fait précédemment ? Parce que j'ai laissé
+1:28:531 heure, 28 minutes et 53 secondestourner la nuit. Euh là on n'est pas la nuit donc du coup je trouve ça long.
+1:28:561 heure, 28 minutes et 56 secondesMais quand tu laisses tourner la nuit en fait tu vois si tu décides de faire tourner tout ça en parallèle de nuit bah ça vaut le coup d'utiliser Sonnet. Ça va
+1:29:041 heure, 29 minutes et 4 secondesêtre un peu long euh pour l'implémentation mais ça c'est pas gênant. Si tu as le temps, ça te consomme pas de beaucoup de token. Tu as pas autant de token que au+ 8.
+1:29:141 heure, 29 minutes et 14 secondesMaintenant là tu vois on est dans une vidéo, j'aurais aimé que ça soit un peu plus long. Donc pour la pour la suite et bien je vais repasser en fait je vais
+1:29:211 heure, 29 minutes et 21 secondesrepasser je vais repasser sous Opus. Bon c'était un petit peu long et du coup et bien euh bah il est parti, il a fini la
+1:29:301 heure, 29 minutes et 30 secondesla première story hein. Donc tu vois S01 chipé la PR n na prouvé. Donc ça a été ça a été ça a été envoyé émergé et
+1:29:381 heure, 29 minutes et 38 secondescetera. Et du coup et bien il va lancer les story en parallèle. Allez, on va aller voir ça ici avec la commande/wflow ici ou là, qu'est-ce qui se passe là ?
+1:29:501 heure, 29 minutes et 50 secondesIl a l'air de C'est quoi ça ? Pourquoi c'est comme ça ? Oui, c'est dire c'est pas lancé. Marrant qu'il me l'affiche comme ça. Marrant. Hop, on va l'afficher
+1:29:591 heure, 29 minutes et 59 secondesplutôt comme ça. Donc là, tu vois que il va lancer tous les plans en parallèle de toutes les stories. Là, ça y est, c'est
+1:30:071 heure, 30 minutes et 7 secondesparti. Ça être le gros gros gros du boulot.
+1:30:101 heure, 30 minutes et 10 secondesIl va lancer tout ça en parallèle. S'il y a un problème et bien il va revenir, il va réexcute et cetera et cetera et il
+1:30:191 heure, 30 minutes et 19 secondesva review à la fin et à la fin il va tout cher. Donc là gros gros boulot ici
+1:30:271 heure, 30 minutes et 27 secondespasse à tout ça. Donc tu vois qu'il crée à chaque fois je vais te montrer. Est-ce que je peux te le montrer là ? Ici, il devrait créer dans les work ici, tu vois
+1:30:341 heure, 30 minutes et 34 secondesqui crée à chaque fois ici il nous va créer un work par feure. Un work, c'est une branche mais isolée pour pouvoir
+1:30:421 heure, 30 minutes et 42 secondesexécuter avec un agent. Donc là, du coup, il va créer toutes les stories d'un coup, il va euh les tester, les
+1:30:511 heure, 30 minutes et 51 secondesvalider et cetera. Bref, tu connais le workflow, je te le remets ici si jamais tu as pas suivi. Ici, on refait ici
+1:30:581 heure, 30 minutes et 58 secondescette fameuse phase ici de execute. Ici, on est où là ? Voilà. Donc là, il
+1:31:061 heure, 31 minutes et 6 secondesrelance en fait le plan execute review et à la fin, il devrait envoyer chip. Et une fois que tu as là, bah là, ça va
+1:31:121 heure, 31 minutes et 12 secondesêtre long. Tu peux euh partir dormir, faire autre chose puisque ça risque d'être un peu long et à la fin et bouffer du token aussi. Euh mais il
+1:31:221 heure, 31 minutes et 22 secondesdevrait euh il devrait y arriver tranquillement. Je te montre un peu execute. Je te montre un peu la revue
+1:31:281 heure, 31 minutes et 28 secondesaussi. Euh pendant qu'il tourne le chip, qu'est-ce que ça fait ? Euh ouais, ça va
+1:31:351 heure, 31 minutes et 35 secondesbah ça va lancer la la p request. Ça, je t'en ai déjà parlé. Tu as une commande orchestrator aussi si tu veux orchestrer
+1:31:441 heure, 31 minutes et 44 secondesici. Et tu as ça, c'est avec un goal aussi si tu veux. Mais bon, là c'est ce qu'on a fait hein. J'avais mis le goal.
+1:31:501 heure, 31 minutes et 50 secondesIl est où le set de goal ici ? Est-ce qu'on voit toujours ici le goal il est actif ici. Le goal il est actif depuis 2 heures. C'est vraiment d'implémenter
+1:31:581 heure, 31 minutes et 58 secondesles 12 stories d'un coup. Donc je vais le laisser faire et je reviens vers toi quand il a tout fait et tout mergé. Ça
+1:32:071 heure, 32 minutes et 7 secondessera probablement de 20 au passage, je te montre quand même la phase ici, je te disais de de de chip ici hein, concrètement pour que tu puisses bien voir. Ça te fait une pool request ici.
+1:32:171 heure, 32 minutes et 17 secondesDonc là, elle était déjà mergée. Donc tu vois tous les commits qu'il a fait. Donc tu vois qu'il a fait toutes les choses liées en fait bah tu vois à tout ce
+1:32:261 heure, 32 minutes et 26 secondesqu'il avait prévu dans son plan de planification. Euh bah tout hein, le CASL, le soc, le machin, la publication et cetera. Et tu vois donc tous les
+1:32:351 heure, 32 minutes et 35 secondesfichiers qu'il a créé, donc le fichier de documentation, le drizzle et cetera.
+1:32:411 heure, 32 minutes et 41 secondesIl a fait des tests ici. Il a fait des tests end to end. Il a fait donc là dans dans la route admin course, il a créé le
+1:32:491 heure, 32 minutes et 49 secondescurriculum, le donc tu vois les composants. Donc il a créé tous les composants dans la partie modèle modélisation. Donc tu vois, on voit donc
+1:32:561 heure, 32 minutes et 56 secondesla modélisation des courses ici, courses, section euh leçons et cetera.
+1:33:031 heure, 33 minutes et 3 secondesDB, je sais pas trop ce qu'il allait faire làdedans. Oui, pour mettre à jour les choses. Il a fait les tests, les tests d'autorisation. Donc, il a fait
+1:33:111 heure, 33 minutes et 11 secondestout ça. Le service interceptor, il a bien suivi les le pattern façade, il a suivi et cetera. Donc, il a bien suivi le pattern du baller plate. Ça a été
+1:33:201 heure, 33 minutes et 20 secondesdonc livré, mergé directement en fait sur la branche principale. Et le Dynamic War continue avec la story numéro 2 3 4
+1:33:291 heure, 33 minutes et 29 secondes5 6 7 en parallèle. Ça c'était vraiment celle qui l'a fait en premier parce que derrière bah toutes les stories sont dépendantes de cette modélisation. Donc il a été intelligent de comprendre que
+1:33:371 heure, 33 minutes et 37 secondesc'est celle-là à faire en premier et après boum, il a tout envoyé derrière en parallèle. Bon, le truc qui est cool, comme tu peux voir, je t'ai activé le
+1:33:441 heure, 33 minutes et 44 secondesremote contrôle et pour les tâches longues comme ça. Et maintenant, ce qui est bien, c'est que tu peux voir directement euh dans euh close euh
+1:33:531 heure, 33 minutes et 53 secondesmobile euh tu peux voir donc le cloud agent principal travailler et comme tu peux voir ici, je te le mets à l'écran,
+Chapitre 14 : PR MERGE
+1:34:001 heure et 34 minutestu peux voir tous les euh dynamic workflow, donc tous les sousagents, tu veux voir ce qu'ils font, tu veux voir s'il plantent, si s'il y a des problèmes
+1:34:081 heure, 34 minutes et 8 secondeset cetera et tu peux tout relancer. Donc là, je me fais une petite marche, je surveille, je monitoring, on va dire, entre guillemets et
+1:34:171 heure, 34 minutes et 17 secondesje rentre et je t'enregistre la suite une fois que c'est terminé. Bon, il est un petit peu tard mais finalement on a j'ai réussi à terminer le le process.
+1:34:271 heure, 34 minutes et 27 secondesDonc ici, on est arrivé donc tu vois ici les les les pool request, donc plus de 20 pool pool plus de 20 pool request qui
+1:34:341 heure, 34 minutes et 34 secondesont été mergé avec aussi des bub des des des choses liées à d'autres sujets et cetera. Donc tu vois un peu donc tout ça
+1:34:421 heure, 34 minutes et 42 secondesça a été fait automatiquement, tu vois, ça a été généré par Claude hein. C'est Claude ici direct qui qui génère tout ça. Euh qu'est-ce que j'allais dire ? Et
+1:34:501 heure, 34 minutes et 50 secondesben, je vais pouvoir te le montrer ici puisque je viens de le démarrer ici.
+1:34:551 heure, 34 minutes et 55 secondesVoilà. Donc il est démarré. on va pouvoir se connecter, voir un petit peu les tendus des fonctionnalités. Donc tu
+1:35:021 heure, 35 minutes et 2 secondesvois déjà ça ressemble un peu à ce qu'on avait ici. Je te remontre le thème light et dark ici avec mes cours le profil ici. Donc là on a notre plateforme ici.
+1:35:151 heure, 35 minutes et 15 secondesDonc euh bon, il y a des petites, tu vois, ça reste encore un petit peu slop ici. Il va falloir mettre les images. C'est des données un petit peu bidons.
+1:35:211 heure, 35 minutes et 21 secondesOn a le thème ici euh light et dark. On a les formations ici. Je peux acheter
+1:35:281 heure, 35 minutes et 28 secondesdirectement donc la formation euh via Stripe. Si tu mets la fameuse carpe de test ici, ça va fonctionner ici. Donc je
+1:35:371 heure, 35 minutes et 37 secondesreviens. Donc ici ça a échoué, on va dire parce que voilà euh je peux me connecter. Allez je vais me connecter ici avec un compte admin ici pour voir
+1:35:461 heure, 35 minutes et 46 secondesun petit peu ce que ça donne. Donc là on va se mettre en light plutôt en dark. Ça va être plutôt sympa. Euh bien sûr, tu
+1:35:531 heure, 35 minutes et 53 secondespourras mettre des images dessus. On a donc l'accès aux formations, on a l'accès donc au profil, on va pouvoir
+1:36:011 heure, 36 minutes et 1 secondemodifier le profil et j'ai aussi l'accès donc sur tout ce qui nous intéresse ici chez nous, c'est l'administration. Donc formation, ici on a accès aux formations. Donc là, tu vois, on voit que les il a lancé des tests end to end.
+1:36:131 heure, 36 minutes et 13 secondesJe sais pas si tu vois ici, il a test il a lancé des des tests endto pour pour
+1:36:201 heure, 36 minutes et 20 secondesfaire passer euh bah pour faire passer des formations, hein. C'est ce qu'on voit avec des tests en draft et cetera.
+1:36:271 heure, 36 minutes et 27 secondesEuh Nexttery, ici, tu vois que j'ai testé aussi des petites petites vidéos.
+1:36:321 heure, 36 minutes et 32 secondesDonc on peut déplacer machin, on peut éditer. Alors après ça s'améliore hein, c'est pas la meilleure interface qu'on est au jour à ce jour-ci mais ça pour un premier G c'est fonctionnel, ça marche.
+1:36:431 heure, 36 minutes et 43 secondesPour migrer des clients, ça suffit.
+1:36:441 heure, 36 minutes et 44 secondesAprès tout après j'aurai le temps de de migrer ça, d'améliorer ça et cetera. Ici on a des utilisateurs de test. Il y a une fonction aussi qui a été testée d'import donc d'utilisateur.
+1:36:561 heure, 36 minutes et 56 secondesDonc je vais pouvoir récupérer les utilisateurs de de la barre. Et en même temps, tu vois aussi je les tests, les paiements et cetera. On pourra faire un
+1:37:031 heure, 37 minutes et 3 secondestest après euh tout à l'heure. On va pouvoir retourner sur le compte ici.
+1:37:081 heure, 37 minutes et 8 secondesDonc mes formations, enfin le tableau de bord ici. Et disons que si on a une formation next mastery, un petit bug
+1:37:151 heure, 37 minutes et 15 secondesici, tu vois en bas, un petit bug sur le sur le module de enfin sur le le squelettin. Ici, on va se mettre comme
+1:37:241 heure, 37 minutes et 24 secondesça. Euh, allez, le son. Donc, on voit qu'on a les leçons. Peut démarrer la leçon. Ici, on a système de vidéo.
+1:37:311 heure, 37 minutes et 31 secondesEst-ce que ça va fonctionner ? ici. Bah voilà, j'ai une vidéo qui démarre.
+1:37:351 heure, 37 minutes et 35 secondesAlors, j'ai pas j'ai pas la gueule la plus joyeuse euh du du truc. Qu'est-ce qu'on a d'autre ? Donc, on a les formation qui fonctionne. Il me semble
+1:37:421 heure, 37 minutes et 42 secondesque j'avais fait des tests avec du Markd aussi avec des codes parce que c'est quand même important. Je sais plus où j'ai mis ça. Voilà, on peut la marquer
+1:37:511 heure, 37 minutes et 51 secondesen terminé, on peut avancer, on peut revenir et cetera. Bon, ça rame un peu.
+1:37:551 heure, 37 minutes et 55 secondesC'est un environnement euh c'est un environnement euh de dev donc qui n'est pas forcément le meilleur euh environnement.
+1:38:021 heure, 38 minutes et 2 secondesOn a euh le profil avec les formations.
+1:38:061 heure, 38 minutes et 6 secondesEst-ce qu'on peut attribuer ou pas ? Je me souviens qu'il fallait attribuer ou désattribuer. Est-ce qu'on peut alors modifier ? C'est sur la partie
+1:38:141 heure, 38 minutes et 14 secondesutilisateur. Alors, tu vois, il y a un petit bug, hein. Tout ça, sera corrigé parce que c'est calé sur le boiler plate et en même temps, il a fait les choses.
+1:38:201 heure, 38 minutes et 20 secondesDonc là, oui, chaque utilisateur a parci lui il a des formations ici. Donc lui, il a quatre formations. Franck, notre
+1:38:291 heure, 38 minutes et 29 secondessuper admin et on peut effectivement petit bug encore, tu vois. Petit bug.
+1:38:351 heure, 38 minutes et 35 secondesEst-ce qu'on voit ici ? Peut-être sur le thème et si on va se passer en moins là c'est ça va mais ouais en en en light en thème light c'est un peu moins beau.
+1:38:431 heure, 38 minutes et 43 secondesVoilà. Mais tu vois que globalement c'est fonctionnel bien sûr tous ces petits bugs après on va pouvoir donc les corriger. Donc si je lui supprime l'accès à la formation. Donc ça a l'air ça a l'air de fonctionner. OK.
+1:38:551 heure, 38 minutes et 55 secondesOn va revenir dessus. On revient sur le compte. Voilà. On peut éventuellement se déconnecter. Est-ce qu'on a se
+1:39:041 heure, 39 minutes et 4 secondesdéconnecter ? Et on revient donc sur la home ici. Est-ce qu'il y en a la home ?
+1:39:091 heure, 39 minutes et 9 secondesBah ça revient pas sur la home on pourra le corriger directement.
+1:39:141 heure, 39 minutes et 14 secondesici. Voilà. Bon, tout ça pour te dire quoi ? Ben, je crois qu'on a fait un petit peu le tour aussi pour te dire aussi que regarde, hop, c'est déployé
+Chapitre 15 : Production
+1:39:221 heure, 39 minutes et 22 secondeseffectivement en production. Donc là, ça sert à rien de de de voir enfin, il y aura pas grand-chose mais voilà, on est allé jusqu'à la mise en production.
+1:39:311 heure, 39 minutes et 31 secondesDonc, on voit des choses qui se passent là. Tu vois, on peut analyser tous les logs. Il y a un agent qui va pouvoir euh vérifier tout ça en production. Quoi te
+1:39:411 heure, 39 minutes et 41 secondesdire d'autre ici ? Oui, je peux te dire éventuellement euh une fois que tu as fait ce premier G qui est quand même la partie là, je veux dire le but du jeu en
+1:39:491 heure, 39 minutes et 49 secondesfait là-dedans, c'est en one shot. Là, on essaie de faire one shot. Quand je dis one shot, bien sûr, tu pars pas
+1:39:571 heure, 39 minutes et 57 secondesforcément. Hop, je remets la méthode. Le one shot, ça veut pas dire que tu pars d'ici et que tu as un site en
+1:40:041 heure, 40 minutes et 4 secondesproduction. Le one shot, je veux dire, c'est premier G, première version, premier, tu vois, NVP. slash quelque
+1:40:121 heure, 40 minutes et 12 secondeschose qui fonctionne. Ça veut dire que là, tu vois, ça a pris même pas une journée, ça a pris quelques heures en one shot entre guillemets. Et bien, tu as une version là moi ça me suffit. Je
+1:40:211 heure, 40 minutes et 21 secondesvais remettre mes utilisateurs dessus et le truc il va fonctionner. Bon, il y aura peut-être quelques bugs et cetera mais ça va être ça va être quelque chose qui est basé sur mon B play. Donc c'est
+1:40:291 heure, 40 minutes et 29 secondessolide, c'est carré et ça va fonctionner et ça va me faire économiser plus de 2000 dollars, enfin plus de 1800 1800 dollars par an et ça m'a pris une
+1:40:381 heure, 40 minutes et 38 secondesjournée en gros une journée de une journée de travail. Donc qu'est-ce que je voulais dire par là ? Oui, ça c'est du forcément du one shot. Bien sûr, une
+1:40:461 heure, 40 minutes et 46 secondesfois que tu as ce tru là, tu vas forcément euh découvrir peut-être des petits bugs. Tu auras probablement des
+1:40:531 heure, 40 minutes et 53 secondespetites améliorations à faire, des choses comme ça. Tuas tu vas découvrir des bugs anomalies. Moi, ce que je fais quand c'est comme ça, et bien euh par
+1:41:031 heure, 41 minutes et 3 secondesexemple ici, ben je vais ici, je vais lancer un petit euh un petit un petit un petit cloud. Et par exemple, moi j'ai un
+1:41:101 heure, 41 minutes et 10 secondesj'ai un skills que j'aime bien ici. Il a du mal ici. Qu'est-ce qu'il nous fait ?
+1:41:141 heure, 41 minutes et 14 secondesVoilà, il a j'ai un skills que j'aime qui s'appelle guitub issuit gitub gitub backlog. Voilà le gitub backlog ici.
+Chapitre 16 : Backlog et amélioration
+1:41:221 heure, 41 minutes et 22 secondesGitub backlog. Et en gros ici euh ce que je fais, bon je suis pas obligé de l'utiliser comme ça, mais en gros par exemple je peux dire euh je peux dire
+1:41:311 heure, 41 minutes et 31 secondespar exemple euh je viens de trouver une erreur lors de la création d'une leçon.
+1:41:401 heure, 41 minutes et 40 secondesEuh peux-tu me créer une issue par rapport à ça ? J'ai un message d'erreur incorrect. Euh je vérifierai plus tard.
+1:41:491 heure, 41 minutes et 49 secondesC'est un truc bidon. Pourquoi je te montre ça ? Parce que normalement, si tout se passe bien,
+1:41:561 heure, 41 minutes et 56 secondesmoi je j'aime bien gérer comme ça. Ça veut dire j'aime bien j'aime bien avoir mon projet, avoir le premier G,
+1:42:051 heure, 42 minutes et 5 secondesaller jusqu'au bout du périmètre, user stories et cetera et ensuite ben je vais pas gérer mes anomalies à la main comme
+1:42:111 heure, 42 minutes et 11 secondesça. Bien sûr, il est connecté à mon GitHub et normalement et bien on va le voir tout simplement ici commencer en
+1:42:201 heure, 42 minutes et 20 secondesfait à créer des issues dans notre projet. Ici on va voir les issues. Donc là il y a rien, tu vois, il y a rien. Et
+1:42:281 heure, 42 minutes et 28 secondesen fait ça va être notre backlog he de d'issue directement. Et ça on va pouvoir le prompter. On va pouvoir savoir là où on en est directement. Allez, qu'est-ce qu'il nous fait ? Euh ta tac. Euh,
+1:42:371 heure, 42 minutes et 37 secondesvas-y, va nous créer le Alors, je sais pas pourquoi il rescan toute la code base, lui. Ah oui, parce que je l'ai lancé, j'ai lancé une nouvelle session, c'est pour ça. Voilà, donc je crée l'ichou. OK.
+1:42:471 heure, 42 minutes et 47 secondesDonc là, il va créer une isou ou pas ?
+1:42:491 heure, 42 minutes et 49 secondesIl en est où ? Voilà, donc là il vient de créer une isou. Non, attends, c'est pas ça. Non, mais il est un peu long. On va le laisser. Allez, mon ami. Voilà.
+1:42:591 heure, 42 minutes et 59 secondesDonc là, il te met le lien de l'ichou, tu vois ici. D'ailleurs, il l'a créé dans quoi ? Pourquoi il me l'a mis Isou 21 ? J'en ai eu autant des issou 21 euh
+1:43:091 heure, 43 minutes et 9 secondesnon et là mais 21 je sais pas trop pourquoi mais bon voilà en tout cas 10 21 parce que ouais bon 21 donc là par exemple création il te il t'affiche là
+1:43:181 heure, 43 minutes et 18 secondesdirectement donc création d'une leçon message d'erreur incorrect donc là tu vois il te met le repro il te met machin
+1:43:251 heure, 43 minutes et 25 secondesil te met le fichier concerné il te dit il te donne des pistes ici. Bon là, c'est moi qui je viens de créer un truc
+1:43:321 heure, 43 minutes et 32 secondesun petit peu un petit peu bidon. Bien sûr, après quand tu travailles avec lui, tu fais des tests et cetera, lui va tu lui informes si tu crées un skill, c'est
+1:43:401 heure, 43 minutes et 40 secondescomme le mien. Je pourrais te le mettre dans la je pourrais te le mettre dans la dans la description avec bien évidemment ce ce le lien vers ce repois
+1:43:501 heure, 43 minutes et 50 secondesce cette méthode plutôt. Je suis un petit peu cette vidéo est un peu long, je commen d'être fatigué. Euh je te mettrai tout ça et je te mettrai peut-être aussi ce skills qui s'appelle
+1:43:591 heure, 43 minutes et 59 secondesGitHub backlog. En gros euh c'est une manière de dire de gère le backlog pas dans des fichiers Maron et cetera, mais dans le repository gitub en question. Et
+1:44:071 heure, 44 minutes et 7 secondesdu coup moi ce que j'aime bien faire ici euh c'est j'aimerais lui mettre un label. Est-ce que je l'ai ici sur ce projet ? Pas encore c'est tout nouveau.
+1:44:161 heure, 44 minutes et 16 secondesJ'aime bien créer un un label cloud ici.
+1:44:191 heure, 44 minutes et 19 secondesBooum. J'aime bien éditer le label. Je sais pas pourquoi mais le becloud, j'aime bien edit lui mettre une couleur
+1:44:281 heure, 44 minutes et 28 secondesplutôt plutôt proche plutôt proche du orange. Est-ce qu'on va nous sortir un petit orange là ? Je suis désolé pour ce genre de petite petit détail.
+1:44:381 heure, 44 minutes et 38 secondesVoilà. Bon bref, je vais le laisser rouge, hein. Tu auras compris. Bref, pourquoi je te dis ça ? parce que voilà, une fois que généralement une fois qu'il a labellisé bug priorité 2 et cetera,
+1:44:481 heure, 44 minutes et 48 secondesmoi généralement ce que je fais je l'affiche, je l'ass enfin je mets le label ensuite l'ad je sais pas pourquoi il me l'a pas proposé
+1:44:561 heure, 44 minutes et 56 secondesil me l'a pas proposé il a pas proposé alors oui on va peut-être refresh hein ils sont pas très forts chez à gérer les
+1:45:041 heure, 45 minutes et 4 secondesles states voilà donc là je vais l'affecter donc à Claude et je vais lui mettre un commentaire par exemple
+Chapitre 17 : Bilan
+1:45:111 heure, 45 minutes et 11 secondesbah à à corriger le lisbeté à mettre et blab blabla et il va faire directement
+1:45:181 heure, 45 minutes et 18 secondesla correction. Tu vois, tu pilotes Lia mais c'est pas toi qui fait les corrections. Bon, dans mon cas, je vais mettre hop test close with test. Voilà,
+1:45:271 heure, 45 minutes et 27 secondescomme ça c'est terminé. Je vais l'enlever de cloud he parce que j'ai pas envie qu'il me pose problème et cetera.
+1:45:341 heure, 45 minutes et 34 secondesDonc voilà un petit peu pour cette vidéo qui est un peu longue mais voilà, je trouve que cette méthode
+1:45:421 heure, 45 minutes et 42 secondesen quelques étapes pour moi c'est le raccourci le plus ça ça peut te paraître long mais je te garantis que si tu es en mode développeur, moi les développeurs
+1:45:501 heure, 45 minutes et 50 secondesque je vois leur problème c'est qu'ils sont en phase execute. Donc moi le problème je vois je vois beaucoup de de dev. peut-être il planifient un peu,
+1:45:571 heure, 45 minutes et 57 secondespeut-être ils utilisent le mode plan de le mode plan de de de de Claude ou de Cursor ou de je sais pas quoi et en mode
+1:46:041 heure, 46 minutes et 4 secondesexécute. Donc en fait, ils passent leur temps à faire ça et puis toute la journée, tu es concentré, plan exécute, je corrige sur des petits des micros
+1:46:121 heure, 46 minutes et 12 secondesajustements et aujourd'hui je pense qu'un développeur c'est quelqu'un qui doit être capable de créer un projet comme ça de bout en bout. Alors ça c'est une méthode qui est vraiment orientée sur la création de SAS from Scratch.
+1:46:241 heure, 46 minutes et 24 secondesBien sûr, si tu es dans une boîte et cetera, ça peut bouger un petit peu.
+1:46:281 heure, 46 minutes et 28 secondesC'est pas forcément exactement le le le meilleur des process, mais en tout cas, c'est le process pour moi le plus efficace lorsque tu veux qu'il ait un
+1:46:371 heure, 46 minutes et 37 secondessas entre guillemets. C'est pour ça que j'ai appelé donc cette méthode et bien s killer que tu pourras retrouver dans la
+1:46:451 heure, 46 minutes et 45 secondesdescription. Ici, tu vas ici tu vas sur my coder. Ici my coder ici. Et bien tu
+1:46:531 heure, 46 minutes et 53 secondesje te mettrai tout ça, toutes les informations euh pour euh rejoindre cette méthode, l'utiliser et cetera. Euh
+1:47:011 heure, 47 minutes et 1 secondebref, j'espère que tu auras compris. Euh je vais m'attaquer à un autre sas parce que par exemple, je pense que je vais peut-être m'attaquer à Menchim ou un autre. Je sais pas si je te le
+1:47:081 heure, 47 minutes et 8 secondespartagerai. En tout cas, si tu as aimé si tu as aimé, pardon, euh cette méthode, alors elle a été un petit peu accélérée, mais ça parce que la vidéo
+1:47:151 heure, 47 minutes et 15 secondesest quand même longue, je t'ai pas laisser dérouler les 12 agents en parallèle parce que voilà, ça aurait été sans fin. Mais voilà, si tu as aimé cette vidéo, n'hésite pas à me le dire.
+1:47:241 heure, 47 minutes et 24 secondesSi tu veux que je que je répète un petit peu euh ce type de vidéo longue sur le fait de développer des projets de bout
+1:47:331 heure, 47 minutes et 33 secondesen bout, des des projets de de remplacement de sas et cetera et cetera, de méthodes et cetera. N'hésite pas à me le dire, n'hésite pas à t'abonner à la
+1:47:401 heure, 47 minutes et 40 secondeschaîne bien sûr, je te partagerai plus d'infos par rapport à ça. Bref, m'arrête ici. Et si tu avais pas vu la vidéo
+1:47:471 heure, 47 minutes et 47 secondesconcernant quoi ? Bah concernant comment elle s'appelle la méthode ADR qui est très utile. Je sais que c'est pas une vidéo qui a été très vue mais elle est très importante. Je te la remets ici.
+
+Tout
+
+Source : Mike Codeur
+
+Informatique
+
+Présentations
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+2:09:57
+For Vibe Coder
+Visual Kernel
+235 k vues
+Sponsorisé
+
+
+21:44
+Ce test change tout sur Meta Ads (déjà appliqué pour tous nos clients)
+Social Scaling
+951 vues
+•
+il y a 5 mois
+
+
+2:17:39
+#168 Tengo - Strongman : des hommes à part
+Biomécanique
+119 k vues
+•
+il y a 3 ans
+
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+91 k vues
+•
+il y a 5 jours
+Nouveau
+
+
+1:01:32
+Your company wiki is a mess. Here's what I built instead.
+Evariste BONKOUNGOU
+7 vues
+•
+il y a 12 heures
+Nouveau
+
+
+1:10:27
+On nous ment sur le jeûne intermittent - experte nutrition : Pauline Budinsky
+Major Mouvement
+57 k vues
+•
+il y a 3 semaines
+
+
+35:36
+Je Teste La Force de Ragnar Le Breton !!
+Tibo InShape Entrainement
+ et Tibo InShape
+359 k vues
+•
+il y a 4 jours
+Nouveau
+
+
+32:38
+24H Dans Ma Vie D'Entrepreneur Millionaire au Panama (Trading, Immo, Karting,..)
+Andrew Berhin
+3,1 k vues
+•
+il y a 6 jours
+Nouveau
+
+
+1:55:05
+Formation Complète FACEBOOK ADS : Mes Stratégies Expliquées (2026)
+Baptistin
+50 k vues
+•
+il y a 1 an
+
+
+1:24:02
+De BON À RIEN à ACTEUR, l'épopée de @FromHumanToGod - Efkan Kurnaz
+Là On Discute
+153 k vues
+•
+il y a 1 an
+
+
+22:14
+THÉORIES DE COMPLOT LES PLUES FOLLES (VRAI)
+Daniil le Russe
+92 k vues
+•
+il y a 15 heures
+Nouveau
+
+
+7:07
+Kato Feat. Jon - Turn The Lights Off (LOVEIN Remix)
+LOVEIN
+9,7 M de vues
+•
+il y a 3 mois
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,6 M de vues
+•
+il y a 7 mois
+Doublée
+
+
+8:32
+Le réglage Facebook Ads qui fausse vos résultats (et que personne ne touche)
+Social Scaling
+756 vues
+•
+il y a 4 semaines
+
+
+23:04
+J'ai testé Qwen 3.7 Flash pour tout automatiser (c'est presque gratuit)
+Meydeey | Automatisation IA
+1,6 k vues
+•
+il y a 17 heures
+Nouveau
+
+
+1:33:52
+Coach sportif : Vous vous entraînez sûrement pour les mauvaises raisons - @Najbfit​
+Là On Discute
+393 k vues
+•
+il y a 1 an
+
+
+1:09:39
+Sam Altman - Comment lancer une startup
+Relentless
+234 k vues
+•
+il y a 4 jours
+Nouveau
+Doublée automatiquement
+
+
+2:28:49
+Direct n°121 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+28 k vues
+•
+Diffusé il y a 10 heures
+Nouveau
+
+
+2:07:43
+8000 KCAL par JOUR - La Vie d'un Strongman - Tengo Strong
+Les Bâtisseurs
+189 k vues
+•
+il y a 2 ans
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+654 vues
+•
+il y a 1 mois
+
+20:00
+Claude Code GRATUIT À VIE ?
+Dr. Firas
+2,3 k vues
+•
+il y a 14 heures
+Nouveau
+
+    

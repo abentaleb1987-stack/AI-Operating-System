@@ -1,0 +1,635 @@
+
+
+Découvrez la communauté des batteurs et batteuses
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+Elon Musk choque : il vient de diviser le prix de l'IA par 5
+Vision IA
+Vision IA
+283 k abonnés
+
+Rejoindre
+
+S’abonner
+
+215
+
+
+Partager
+
+Posez une question
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+30 juil. 2026
+🚀 Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA !  https://vision-ia.teachizy.fr/formati...
+
+📧 Rejoignez la newsletter vision ia - https://vision-ia.beehiiv.com/subscribe
+
+🔥Rejoignez la communauté Vision IA pour bénéficier d'avantages exclusifs -    / @visionia-fr  
+
+🤯 X.com - https://x.com/vision_ia
+
+00:00 Intro
+01:40 Benchmarks et prix Grok 4.5
+03:55 Le rachat de Cursor pour 60 milliards
+07:04 Colossus le monstre à 2 gigawatts
+09:58 GrokBuild en open source et un modèle par mois
+11:46 L'intelligence devient une commodité
+13:24 La vitesse de libération de l'IA
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Personnes mentionnées
+
+1 personne
+
+Elon Musk
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Vision IA
+283 k abonnés
+Vidéos
+À propos
+
+Ma 2ème chaîne Vision Science
+17 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @VisionIA-FR
+@VisionIA-FR
+il y a 53 minutes
+🚀 Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA !  https://vision-ia.teachizy.fr/formations/formation-ia?REF-ref411
+
+
+
+Répondre
+
+
+@Abokor
+il y a 33 minutes
+J'espère que la Chine continuera a sortir des modèles opensource et que Grok baissera encore en prix. Mais je reste assez déçu de Google, eux qui pouvaient faire plus sont assez à la ramasse....
+
+1
+
+
+Répondre
+
+
+@LEveil-q8y
+il y a 41 minutes
+Toujours des meilleurs videos.
+
+
+
+Répondre
+
+
+@Diaslerpgiste
+il y a 12 minutes
+Merci mon gars Elon, tu nous offre un bel outil
+
+
+
+Répondre
+
+
+@Feelifenow
+il y a 35 minutes
+La vraie révolution ne sera peut-être pas de savoir quelle IA occupe la première place d’un classement, mais de décider à qui bénéficiera cette intelligence devenue presque gratuite.
+L’IA, les robots et l’automatisation pourraient progressivement libérer l’être humain du travail contraint et permettre un meilleur partage de l’abondance produite. Une IA cinq fois moins chère peut enrichir quelques entreprises… ou contribuer à rendre l’éducation, la santé et les connaissances accessibles à tous.
+C’est probablement là que se joue le véritable choix de société.
+
+
+
+Répondre
+
+
+@Yabastacosi
+il y a 1 minute
+L'IA n'est pas un effet de mode qui va passer en effet, plutôt une totale absurdité dans laquelle on investit toutes nos ressources à l'infini jusqu'à l'effondrement. Attendons maintenant de voir l'ampleur de la crise économique qui va suivre quand les centaines de milliards investis auront disparus en fumée. Et je ne parle même pas de l'absurdité de construire des data centers consommant l'équivalent en énergie et en eau d'une ville d'un million d'habitants quand la planète brûle. Le plus vite tout ceci s'effondrera le mieux ce sera pour tout le monde.
+
+
+
+Répondre
+
+
+@toutounnis
+il y a 31 minutes
+pour avoir tester grok 4.5 dans leur cli "grok build" (et aussi cursor un peu)
+alors oui clairement. fable5, opus 5, gpt sol, etc.... ils sont meilleurs.
+mais clairement avec un simple abonnement a 30$  on as presque autant de quota que les abonnements a 200$ des autres....
+et sa perso je trouve sa TRES intéréssant.
+des projets perso ou tout les gros modéles étaient clairement assez puissant mais surtout trop cher pour le faire vus la taille du projet. bah la j'ai pus les tenter ces projets énormes. avec un budget raisonnable plutot que de devoir prendre 7-10 abonnement max x20 de chez anthropic (avec le risque de ban lol)
+et vraiment sa fonctionne.
+
+ce n'est clairement pas le meilleur modéle. vraiment pas. son harnais n'est pas le meilleur.
+mais avec ce prix et cette quantité dispo....
+
+bah grok 4.5 fait pour moi partis des 3 modéles (fable 5, gpt sol, grok) que j'utilise le plus a présent dans mes projets
+
+
+
+Répondre
+
+
+@KikFantastik
+il y a 49 minutes
+Déolsé mais pour des questions morale, je le déteste sincèrement.
+
+3
+
+
+Répondre
+
+
+6 réponses
+
+@OME-AME
+il y a 39 minutes
+De toute façon les data center s'en vont dans l'espace ! À
+    Pour moi c'est claire que je les fou à la porte de la terre !
+        Comme Y'a la fusé pour monté là-haut pas autour de terre nannn assez loin .,. Ouinn.
+             Ben y'a la lune qui a besoin de data center alors .,. voilà la logique .
+
+1
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Timeline
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Intro
+0:000 secondeBonjour à tous. Alors, [musique] il y a 1 an, je vous parlais de Grock 4. Les chiffres étaient fous. Il afficha à l'époque le double de [musique] toute la
+0:077 secondesconcurrence d'un coup. Une claque monumentale, vous l'aviez vu. Et voilà que Grock 4.5 vient de sortir. Elon Musk a sorti l'artillerie lourde pour rester
+0:1616 secondespertinent dans ce domaine. Un domaine qui est ultra concurrentiel. Lia, vous le savez, c'est ultra concurrentiel. Et je vais être direct. Cette fois,
+0:2424 secondesl'histoire est complètement différente, beaucoup plus complexe, beaucoup plus stratégique à long terme et à certains éges beaucoup plus flippantes pour la concurrence que la précédente. Parce que
+0:3333 secondesaujourd'hui, Grock 4.5 n'est pas le meilleur modèle du monde, il est 4e en réalité. C'est justement pour ça qu'il fait trembler tout le monde. Vous allez comprendre pourquoi.
+0:4545 secondesOn va voir tout cela en détail aujourd'hui. Mais d'abord, si vous aimez ce type de contenu, au fil de la vidéo, un abonnement ça soutient énormément à la chaîne. Je vous rappelle aussi que
+0:5353 secondesnous avons une newsletter gratuite avec les meilleurs résumés de toute l'accue IA et technologique pour que vous ne perdiez plus rien. Les liens sont sous la vidéo. Ceci étant dit, on y va.
+1:021 minute et 2 secondesAlors, le 9 juillet 2026 restera dans les livres d'histoire de Lia. Ce jour-là, Openai lance GPT 5.6 Sol au
+1:101 minute et 10 secondesgrand public pendant que Space Xi sort Grock 4.5 de son côté. Pour la première fois, tous les grands labos dia frontières ont un modèle disponible en
+1:181 minute et 18 secondesmême temps. Une semaine plus tard, Mchote lance Kimi K3, un modèle open source de 2800 milliards de paramètres.
+1:251 minute et 25 secondesTrois bombes en 8 jours. On dit ça souvent mais cette fois c'était des bombes lâchées au niveau de Fable 5 qui sont ressorties de tous les côtés. euh
+1:331 minute et 33 secondesGPT GPT 5.6 sol Kim K3 euh on entend parler de GPT6 qui fait n'importe quoi.
+1:391 minute et 39 secondesBref, ça va dans tous les sens. Alors parlons de Grock 4.5 sur le classement mondial de l'intelligence, donc l'artificial analysis intelligence
+Chapitre 2 : Benchmarks et prix Grok 4.5
+1:461 minute et 46 secondesindex. Fable 5 est devant, euh donc euh pas 1er, pas 2e, mais il est 4e. Grock 4.5 se classe 4e avec un score de 54. Il
+1:551 minute et 55 secondescoûte 2 dollars par million de tokens en entrée et 6 dollars en sortie. C'est cinq fois moins cher que les modèles classés au-dessus de lui. Et ça ce n'est
+2:032 minutes et 3 secondespas anodant du tout hein. En fait, petit àarté, ça me fait penser qu'il y a un phénomène en économie que j'adore, que beaucoup d'analystes dia utilisent et
+2:122 minutes et 12 secondesdont dont j'ai déjà parlé sur la chaîne euh qui s'appelle le paradoxe de Gevants. En gros, au 19e siècle, un économiste anglais observe que les
+2:202 minutes et 20 secondesmachines à vapeur deviennent beaucoup plus efficaces. Elles consomment moins de charbon. Tout le monde se dit alors ouais, super, on va consommer moins de charbon au total. Sauf que c'est
+2:292 minutes et 29 secondesl'inverse qui s'est produit parce que les machines étant moins chères à faire tourner, tout le monde s'est mis à en utiliser. Résultat, la consommation
+2:372 minutes et 37 secondestotale de charbon a explosé. Avec Lia, c'est exactement la même chose. Plus le prix baisse, plus les gens l'utilisent
+2:452 minutes et 45 secondeset donc plus le marché grossit. Grock 4.5 à ce prix-là pour les revenus de SpaceX, c'est une stratégie d'extension massive en réalité. D'autant plus que
+2:532 minutes et 53 secondessur certains tests de code, il bat tous les modèles au-dessus de lui dans le classement. Sur le SWE Marathon, par exemple, un benchmark qui mesure la capacité du Nia à résoudre de vrais
+3:023 minutes et 2 secondesproblèmes d'ingénierie logicielle dans de vrais projets par des exercices de fac donc du vrai code en conditions réelles. Grock 4.5 finit premier avec 29
+3:103 minutes et 10 secondes% devant en plus 4.8 à 26 %. Sur le terminal bench 2.1, un test d'utilisation avancée du terminal, il tape dans les 83,3 %. Ce qui est encore
+3:193 minutes et 19 secondesplus frappant, c'est sa frugalité. Là où Opus 4.8 consomme 67000 tokens de sortie pour accomplir une seule tâche, Grock
+3:273 minutes et 27 secondes4.5 en utilise à peine 15000, c'est quatre fois moins. Donc on n'est pas juste face à un modèle moins cher, ce qui correspond bien à la philosophie
+3:353 minutes et 35 secondesElon Musk, hein. Il a fait pareil pour les fusées chez SpaceX, il a fait pareil chez Tesla. C'est tout le paradoxe de Grock 4.5 et c'est précisément ce qui
+3:433 minutes et 43 secondesrend cette sortie si intéressante à décortiquer car les benchmark ne racontent qu'une partie de l'histoire.
+3:483 minutes et 48 secondesLa vraie histoire, celle qui va avoir de des conséquences sur les cinq prochaines années, c'est celle qu'il y a derrière ce modèle et c'est ce dont je veux vraiment vous parler. Le 16 juin 2026,
+Chapitre 3 : Le rachat de Cursor pour 60 milliards
+3:573 minutes et 57 secondesSpaceX a racheté Coursor pour 60 milliards de dollars en action. C'est beaucoup. Pour ceux qui ne connaissent pas, Coursor c'est un éditeur de code
+4:044 minutes et 4 secondesutilisé par 4 millions de développeurs de développeurs actifs dans le monde en ce moment même. Un des plus gros éditeurs de code. Donc c'est la plus
+4:124 minutes et 12 secondesgrosse acquisition d'une start-up jamais enregistrée. 60 milliards pour un éditeur de code, ça peut paraître délirant hein. C'est c'est pas un logiciel très poussé, c'est pas très
+4:204 minutes et 20 secondesgrand. On ne paye pas 60 milliards pour un logiciel, on paye pour les données qu'il génère. C'est la même logique que quand Facebook rachète Instagram en 2012
+4:294 minutes et 29 secondespour 1 milliard de dollars. À l'époque, tout le monde crie au scandale.
+4:334 minutes et 33 secondesInstagram n'a que 13 employés ainsi que 0 € de revenu. Aujourd'hui, Instagram vaut plus de 100 milliards de dollars.
+4:404 minutes et 40 secondesCe que Mark Zuckerberg avait compris avant tout le monde, c'est que on nachète pas un produit, on achète une position stratégique.
+4:484 minutes et 48 secondesBon, dernièrement dernièrement, il a un peu de mal, hein, sur la direction à prendre, mais quand on réfléchit à ce qu'il a fait, c'était un vrai génie. Et quand je dis un peu de mal, c'est que
+4:564 minutes et 56 secondesvraiment le domaine est ultra concurrentiel. Il n'arrive pas à débaucher les chercheurs Ania qui sont payé des fortunes. Ils sont payés des
+5:045 minutes et 4 secondesmillions et des millions dans les laboratoires chez Open AI, chez Anthopic, chez chez Elon Musk, donc chez XAI, Space XAI. euh ils sont vraiment
+5:115 minutes et 11 secondespayés tellement que ils arrivent pas à les débaucher et donc ils n'arrivent pas à innover là-dedans. Avec Coursor, c'est encore plus radical parce que les
+5:195 minutes et 19 secondesdonnées de 4 millions de développeurs qui codent en temps réel aujourd'hui, ça se transforme directement en intelligence artificielle. Ce n'est pas un investissement spéculatif, c'est du
+5:275 minutes et 27 secondescarburant pour de vrai. Ce n'est donc pas un hasard si Grock 4.5 est sorti 3 semaines après cette acquisition. Une
+5:345 minutes et 34 secondespartie de Grock 4.5 a été entraînée sur les données de Coursor. Des milliers de milliards de tokens issus de sessions de développeurs réels. On ne parle pas de
+5:435 minutes et 43 secondescode propre aspiré par GitHub cette fois. Tout ça Grock l'a incurgité. Alors prenons du recul une seconde pour comprendre ce que SpaceX AI vient de
+5:505 minutes et 50 secondesconstruire. Ils ont les ressources de calcul avec un des plus gros data centers au monde jamais construit donc le Colossus. Ils ont le modèle Dia avec
+5:585 minutes et 58 secondesGrock. Maintenant, l'outil de code avec Coursor qui est une base de données inestimable pour entraîner des I 60 milliards de dollars. Ce n'est pas rien
+6:066 minutes et 6 secondesquoi. C'est pour vous dire la valeur des données aujourd'hui. Donc ici, il se passe quoi exactement ? Coursor nourrit Grock en données d'entraînement. Grock
+6:156 minutes et 15 secondestourne sur Colossus et Colossus finance le tout. C'est une boucle fermée. Aucun autre laboratoire di au monde ne possède
+6:236 minutes et 23 secondesces trois éléments à même temps. Open n'a pas son propre éditeur de code. En Tropic n'a pas un super calculateur de
+6:306 minutes et 30 secondescette taille et Google des deux mais pas sous cette forme, du moins beaucoup plus réduit. SpaceX a donc tout sous un même
+6:386 minutes et 38 secondestoit. C'est une position stratégique qu'aucun concurrent ne peut répliquer sans racheter un éditeur de code à son tour ou sans racheter un data center et
+6:456 minutes et 45 secondescetera. D'ailleurs, un ingénieur de XAI a reconnu lors d'un lancement que les données de course n'avaient été intégrées que lors d'un entraînement supplémentaire et non pas dès le départ.
+6:546 minutes et 54 secondesDonc c'est pas un vrai entraînement sur ces données-là. Le prochain modèle les intégrera dès le pré-entraînement, ça nous a été annoncé. On a donc pas encore
+7:017 minutes et 1 secondevu le plein potentiel de cette boucle d'IA. En parlant de Colossus, justement, tout ça tourne sur ce monstre. L'année dernière sur la vidéo Grock 4, je veux
+Chapitre 4 : Colossus le monstre à 2 gigawatts
+7:107 minutes et 10 secondesparler de 200000 cartes graphiques qu'ils avaient construits. Aujourd'hui, Colossus a complètement changé de dimension. Le complexe regroupe maintenant plus de 250000 GPU répartis
+7:197 minutes et 19 secondessur trois bâtiments dont 30000 plus GB 200 de dernière génération pour une capacité totale de 2 GW. 2 GW dit comme
+7:277 minutes et 27 secondesça, ça peut vous paraître abstrait mais pour vous donner un ordre de grandeur, c'est la puissance de deux réacteurs nucléaires. Rien que ça, c'est assez
+7:357 minutes et 35 secondespour alimenter une ville d'un million d'habitants. Toute cette énergie, elle sert à une seule chose, faire tourner des puces qui multiplient des matrices euh pour rendre une ia plus
+7:447 minutes et 44 secondesintelligente. On brûle l'équivalent énergétique d'une ville entière pour entraîner un cerveau numérique et pas une petite ville, hein, une grande
+7:517 minutes et 51 secondesville. C'est vertigineux et ça donne la mesure de ce qui se joue ici.
+7:587 minutes et 58 secondesVous savez, j'entends encore des gens dire que l'IA c'est un effet de mode et que ça va passer.
+8:048 minutes et 4 secondesIl suffit de regarder les chiffres, ce qu'il se fait, l'argent qui est investi.
+8:088 minutes et 8 secondesC'est du lourd. Ce n'est pas une blague et ce n'est pas une mode qui va passer.
+8:118 minutes et 11 secondesC'est l'avenir qui est là. Parce qu'en plus de ça, il y a 1100 GPU supplémentaires en cours d'installation dans un second centre de données juste collé à côté. L'objectif d'un million de
+8:208 minutes et 20 secondesGPU n'a pas changé. Elon Musk veut créer le plus gros data center au monde et il accélère avec Colossus 2. Mais le chiffre le plus marquant, c'est
+8:278 minutes et 27 secondescelui-ci. Le 5 juin 2026, Google a signé un contrat pour louer 1100 GPU chez SpaceX. Écoutez bien la suite, le
+8:358 minutes et 35 secondesmontant de ce contratlà est de 920 millions de dollars par mois jusqu'en
+8:418 minutes et 41 secondesjuin 2029. On parle bien de Google, le même Google qui développe Gemini qui vient de louer du compute, donc de la puissance de calcul chez Elon Musk.
+8:518 minutes et 51 secondesC'est un peu comme si Boeing louait des hangars chez SpaceX. D'ailleurs, ce genre de dépendance entre concurrence, c'est pas nouveau. Dans les années 90, Apple était au bord de la faillite.
+9:009 minutesC'est Microsoft qui injecte 150 millions de dollars pour les sauver. Pas par générosité hein, parce que sans Apple,
+9:079 minutes et 7 secondesMicrosoft se retrouvait tout seul sur le marché et risquait donc un procès antitrust fatal aux États-Unis. Parfois
+9:159 minutes et 15 secondesdépendre de son rival ou le maintenir en vie fait partie du jeu. Sauf qu'ici, c'est encore plus brutal parce que Google ne sauve pas Space Xi. Google a
+9:249 minutes et 24 secondesbesoin de SpaceX pour entraîner ses propres modèles. On vit dans un monde où même vos concurrents direct dépendent de votre infrastructure. C'est quand même
+9:319 minutes et 31 secondesassez dingue quand on y pense. Ça vous donne une idée de la position de SpaceX aujourd'hui et puis ça explique aussi en
+9:399 minutes et 39 secondesgrande partie pourquoi ils peuvent vendre GR 4.5 cinq fois moins cher que la concurrence. Quand votre infrastructure est tellement massive que
+9:469 minutes et 46 secondesvos rivaux lalou, vos coûts marginaux ne sont plus du tout les mêmes. Donc on a les benchmark, la stratégie, l'infrastructure.
+9:549 minutes et 54 secondesL'histoire devrait s'arrêter là sur une note triomphale. Sauf que non. SpaceX ne s'est pas arrêté au modèle. D'ailleurs, mi-juillet, ils ont aussi open sourcé
+Chapitre 5 : GrokBuild en open source et un modèle par mois
+10:0210 minutes et 2 secondesGrock Build, donc leur outil de code en ligne de commande sous licence à page 2.0. Tout ça a été rendu public d'un coup avec imprime la suppression de
+10:1010 minutes et 10 secondestoutes les limites d'utilisation. Grock build, c'est la c'est le cloud code ou le codex de musk, hein. Concrètement, ça veut dire que n'importe quel développeur
+10:1810 minutes et 18 secondespeut aujourd'hui utiliser un agent de code propulsé par Grock 4.5 de manière illimitée et gratuite. Quand on sait que GitHub Copilot plafonne ses utilisateurs
+10:2610 minutes et 26 secondesgratuits à 2000 compétitions par mois à peu près, c'est un sacré coup de pression sur l'industrie de code assisté par Ria. Musk a aussi annoncé que Space
+10:3310 minutes et 33 secondesX pluirait un nouveau modèle fondation entraîné 2 chaque mois jusqu'à la fin de l'année. L'ambition est assez élevé. Ça
+10:4010 minutes et 40 secondesparaît fou dit comme ça et il faut reconnaître sa réputation sur les délais. Bien sûr, il est souvent beaucoup trop optimiste et beaucoup trop
+10:4710 minutes et 47 secondestôt mais avec le Colossus derrière et le système de données de Coursor, la base de données de Coursor qui tourne en continu, ce n'est plus du bluff.
+10:5610 minutes et 56 secondesD'ailleurs, comme je vous l'ai dit plus tôt, un ingénieur de XAI a confirmé que le prochain modèle intrigègrerait les données de course dès le pré-entraînement et pas en entraînement
+11:0511 minutes et 5 secondessupplémentaire comme Grock 4.5. Donc le Grock 4.
+11:1011 minutes et 10 secondesParler car c'est là qu'on va exploiter le vrai potentiel des données de course à fond et on risque de voir un gros bon dans la capacité de Grock. Pendant ce
+11:1711 minutes et 17 secondestemps, bien sûr, la concurrence n'a pas à dépasser les trains. Le 16 juillet, par exemple, 8 jours après Grock 4.5, Moon Shotayai a lancé Kimika 3. Vous
+11:2511 minutes et 25 secondesconnaissez déjà 2800 milliards de paramètres, open source, open weight. Je ne vais pas m'y attarder trop longtemps car je vous en ai déjà dédié une vidéo.
+11:3311 minutes et 33 secondesEuh si elle vous intéresse, vous la trouverez sur la chaîne. Mais c'est en gros le plus gros modèle ouvert jamais publié au monde. Si Dipsic avait été le premier séisme de l'open source en n
+11:4111 minutes et 41 secondesKimika 3, c'est la réplique plus forte et cette fois personne ne peut dire qu'on ne l'avait pas vu venir. En 8 jours entre le 8 et le 16 juillet 2026.
+Chapitre 6 : L'intelligence devient une commodité
+11:4911 minutes et 49 secondesDonc l'industrie de Lia a vécu ce que d'autres secteurs vivent en 5 ans. Trois modèles frontières lancé. Un scandale de
+11:5611 minutes et 56 secondesdonnées massif. Open sourcing d'urgence modèle ouvert de presque 3 trillions de paramètres donc de 3000 milliards de
+12:0512 minutes et 5 secondesparamètres et le prix de l'intelligence de pointe divisé par 5. Vous savez j'ai regardé la vidéo que j'avais faite il y a 1 an sur
+12:1412 minutes et 14 secondesGrock 4 et la question c'était à l'époque de savoir je vous je vous posais la question quelle IA était la plus intelligente ? Aujourd'hui cette
+12:2112 minutes et 21 secondesquestion ne suffit plus. Être la plus intelligente ne sert à rien si vous êtes cinq fois plus cher et que votre avance ne dure que 3 semaines. On est en plein
+12:2912 minutes et 29 secondesdans la destruction créatrice en temps réel sous nos yeux. Les positions acquises ne tiennent plus.
+12:3412 minutes et 34 secondesL'intelligence, elle est en train de devenir une commodité comme prévu par Dario Amode ou Samman qui parle de bain de sang ou même Elon Musk qui avait dit
+12:4212 minutes et 42 secondescela. Ce qui va compter demande, c'est la capacité à utiliser cette intelligence-là, à la combiner, à l'intégrer dans de vrais systèmes qui créent de la valeur et qui tourne sans
+12:5012 minutes et 50 secondesarrêt. En 12 mois, le paysage a entièrement été redessiné et ce n'est que le début. Musk promet un nouveau
+12:5812 minutes et 58 secondesmodèle chaque mois jusqu'à la fin de l'année. Open qui prépare GPT6, Moon Shot qui ouvre ses poids au monde entier. Tout s'accélère donc. Alors certes, vous pourriez me dire que on dit
+13:0713 minutes et 7 secondesque tout accélère chaque semaine, mais j'aimerais vous poser une question. Quel autre terme vous utiliseriez pour décrire ce qui se passe en I ? Car
+13:1413 minutes et 14 secondesobjectivement, si on regarde la progression de l'index d'intelligence entre deux dates données, effectivement les modèles deviennent plus intelligents, chaque fois plus vite.
+13:2213 minutes et 22 secondesC'est la définition d'accélération.
+Chapitre 7 : La vitesse de libération de l'IA
+13:2413 minutes et 24 secondesD'ailleurs, il y a un concept en physique qui s'appelle la vitesse de libération. C'est le seuil à partir duquel un objet va assez vite pour échapper à la gravité terrestre. Il ne
+13:3313 minutes et 33 secondesretombe plus, il file littéralement. Lia est peut-être en train d'approcher sa propre vitesse de libération.
+13:3913 minutes et 39 secondesLe point où les progrès s'autoalimentent tellement vite qu'aucune régulation, aucune planification humaine ne peut vraiment suivre le rythme. On n'y est
+13:4813 minutes et 48 secondespas encore, mais quand vous voyez trois modèles frontières sortir en 8 jours et un modèle open source rivalisé avec les meilleurs modèles fermés de la planète,
+13:5613 minutes et 56 secondeson commence à sentir cette trajectoire là. C'est la définition même d'une accélération et c'est pour ça que la formation continue n'est plus
+14:0414 minutes et 4 secondesoptionnelle, elle est vitale. Je vous conseille vraiment de rester au courant de ce qui se passe dans ce domaine. Dans ce contexte, il y a une ligne de
+14:1114 minutes et 11 secondesfracture nette qui se dessine. D'un côté, il y a ceux qui comprennent ces outils, qui savent les utiliser au quotidien et les brancher dans des systèmes automatisés qui leur font
+14:1914 minutes et 19 secondesgagner des heures chaque jour. De l'autre, il y a ceux qui regardent tout ça de loin en se disant que ça va se calmer. Je vous le disais en début de
+14:2514 minutes et 25 secondesvidéo. Et bien spoiler, ça ne va pas se calmer. Je vous le dis à chaque vidéo, Lia n'est pas une menace pour ceux qui s'y préparent. C'est l'opportunité la
+14:3414 minutes et 34 secondesplus massive de notre génération. Mais il faut s'y mettre maintenant, pas dans 6 mois, pas quand ça sera plus stable.
+14:4014 minutes et 40 secondesMaintenant dames, si vous regardez cette course entre les labos, cette chute libre des prix, euh cette explosion des capacités
+14:4814 minutes et 48 secondessemaine après semaine et que vous vous dites qu'il est temps de prendre ces outils en main avant qu'il ne vous dépasse, vous avez raison. Et j'ai quelque chose pour vous. J'aimerais vous
+14:5714 minutes et 57 secondesdire que depuis quelques mois déjà, j'ai construit un programme d'apprentissage unique. Je vous apprends l'IA sur tous ces aspects. C'est un parcours que j'ai
+15:0515 minutes et 5 secondescréé et pensé pour vous transmettre tout ce que je sais. Alors, non seulement sur les modèles DI comme Chat GPT, Gemini de Google, Grock de Elon Musk, Cloud et
+15:1415 minutes et 14 secondescetera, je vous montre en fait et surtout la manière de les intégrer concrètement dans votre vie, dans votre travail, dans vos projets et ce que vous
+15:2215 minutes et 22 secondessoyez salarié, indépendant, entrepreneur ou même à la retraite. Car oui, nous avons beaucoup beaucoup de retraités dans la communauté et ils utilisent l'IA
+15:3015 minutes et 30 secondesau quotidien. J'ai récemment sorti la plus grosse mise à jour à ce jour de la formation. Euh ça fait un petit moment que j'en parlais mais ça y est, elle est
+15:3815 minutes et 38 secondeslà, elle est en ligne. Euh c'est un module entièrement dédié à l'automatisation par IA, donc à un utilisant N8N. Autrement dit, la
+15:4615 minutes et 46 secondescréation d'agents IA, donc des espèces de salariés virtuels qui vont travailler pour vous et tout faire pour vous.
+15:5315 minutes et 53 secondes[grognement] En somme, vous faire gagner des heures et des heures et des heures.
+15:5715 minutes et 57 secondesVous êtes déjà plus de 6 à 7000 à avoir rejoint ce programme. Donc merci pour tout ce soutien. Et enfin, sachez qu'il n'y a pas besoin d'être développeur, pas
+16:0516 minutes et 5 secondesbesoin d'avoir un profil technique. Je vous prends par la main et pas à pas avec des leçons vidéo clair, des cas concrets et pratiques, on voit tout ce
+16:1316 minutes et 13 secondesqui touche à Lia. Dernier point, mais pas des moindres bien sûr, si vous nous rejoignez aujourd'hui, vous aurez accès à toutes les évolutions du futur, sans
+16:2216 minutes et 22 secondessurcoup accès illimité à vie, à tout ce que je veux vous apprendre. Donc aujourd'hui, c'est un paiement unique. Ce n'est pas un paiement mensuel, hein.
+16:2916 minutes et 29 secondesC'est juste un paiement unique et vous aurez accès à vie à toutes les mises à jour que je vais faire en permanence et que je fais en ce même d'ailleurs. Donc
+16:3716 minutes et 37 secondessi cela vous intéresse, vous avez les liens en dessous de la vidéo. Donc soit en description, soit en commentaire épinglé pour nous rejoindre. Dans tous les cas, moi je serais très heureux de
+16:4616 minutes et 46 secondesvous accueillir dans le programme Vision. Si vous êtes encore là, merci d'avoir regardé cette vidéo jusqu'au bout et je vous dis à très très vite pour la prochaine vidéo. À bientôt.
+
+Tout
+
+Source : Vision IA
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+7:40
+Le Nasdaq se fait corriger
+Zonebourse
+623 vues
+•
+il y a 41 minutes
+Nouveau
+
+
+21:44
+Ce test change tout sur Meta Ads (déjà appliqué pour tous nos clients)
+Social Scaling
+951 vues
+•
+il y a 5 mois
+
+
+1:01:32
+Your company wiki is a mess. Here's what I built instead.
+Evariste BONKOUNGOU
+7 vues
+•
+il y a 12 heures
+Nouveau
+
+
+10:05
+La base à connaître pour réussir une sèche
+Le Musclay
+204 k vues
+•
+il y a 4 ans
+
+
+12:33
+Le vastu peut-il vraiment changer votre vie ? | Sadhguru
+Sadhguru Français
+6,2 k vues
+•
+il y a 3 semaines
+
+
+7:40
+Accalmie en Iran avant une avalanche de résultats
+Zonebourse
+4,7 k vues
+•
+il y a 3 jours
+Nouveau
+
+
+2:00:50
+Alerte IA : il a tout risqué pour nous avertir, et personne n'est prêt !
+The Diary Of A CEO
+5,9 M de vues
+•
+il y a 2 semaines
+Doublée
+
+
+8:32
+Le réglage Facebook Ads qui fausse vos résultats (et que personne ne touche)
+Social Scaling
+756 vues
+•
+il y a 4 semaines
+
+
+10:37
+5 exercices bizarres que tu dois essayer !
+Le Musclay
+72 k vues
+•
+il y a 3 ans
+
+
+1:25:07
+L'interview intégrale d'Elon Musk | The Economist
+The Economist
+1 M de vues
+•
+il y a 21 heures
+Nouveau
+Doublée automatiquement
+
+
+19:42
+Comment le MONDE entier s'est fait avoir sur la RAM (et vous aussi)
+Kang et ses PC
+514 k vues
+•
+il y a 3 mois
+
+
+2:17:39
+#168 Tengo - Strongman : des hommes à part
+Biomécanique
+119 k vues
+•
+il y a 3 ans
+
+
+2:28:49
+Direct n°121 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+28 k vues
+•
+Diffusé il y a 10 heures
+Nouveau
+
+
+1:36:30
+Dr Tim Spector : la vérité choquante sur le poids et les régimes | E209
+The Diary Of A CEO
+4,9 M de vues
+•
+il y a 3 ans
+Doublée
+
+
+17:31
+Le CARDIO a complètement changé mon physique en 8 mois
+Nassim Sahili
+186 k vues
+•
+il y a 5 mois
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+654 vues
+•
+il y a 1 mois
+
+31:14
+100 Ans Qui Filent Comme des Minutes | Sadhguru
+Sadhguru Français
+52 k vues
+•
+il y a 2 mois
+
+1:22:41
+ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !
+LEGEND
+91 k vues
+•
+il y a 5 jours
+Nouveau
+
+31:42
+Pourquoi les Japonais font la guerre aux immigrés ? (la réalité est violente)
+Louis-San
+374 k vues
+•
+il y a 4 jours
+Nouveau
+
+9:30
+Voilà pourquoi vous ne PERDEZ PAS de gras avec le CARDIO
+FITMASS
+219 k vues
+•
+il y a 9 mois
+
+    

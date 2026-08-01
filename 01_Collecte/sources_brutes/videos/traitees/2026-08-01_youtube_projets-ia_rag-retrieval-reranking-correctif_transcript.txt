@@ -1,0 +1,1425 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+RAG expliqué simplement : la technique derrière les IA qui marchent
+Doublée automatiquement
+Projets IA
+Projets IA
+7,68 k abonnés
+
+S’abonner
+
+877
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+17 191 vues  14 mai 2026  #IA #IntelligenceArtificielle #ChatGPT
+Tu donnes à une IA un document qu'elle n'a jamais vu. Et elle répond parfaitement à toutes tes questions dessus. Comment c'est possible ? La réponse s'appelle le RAG, pour Retrieval Augmented Generation. C'est la technique utilisée par toutes les boîtes qui déploient de l'IA en 2026 — de la startup au grand groupe.
+Dans cette vidéo, on va voir comment ça marche, étape par étape, sans une seule ligne de code. Et surtout pourquoi le RAG basique se plante en production — et comment les ingénieurs le rendent enfin fiable.
+
+🔔 Abonne-toi à Projets IA pour les prochaines vidéos sur les agents IA, les bases de données vectorielles et la mise en pratique du RAG.
+#RAG #IA #IntelligenceArtificielle #LLM #ChatGPT #MachineLearning #VulgarisationIA #ProjetsIA
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Projets IA
+7,68 k abonnés
+Vidéos
+À propos
+82 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@andr386
+il y a 1 jour
+Ca fait du bien de voir du contenu de qualité sur la question quand la majorité des vidéos surfent sur la hype.
+
+2
+
+
+Répondre
+
+
+@matthieulabas
+il y a 2 semaines
+Plein de concepts mathématiques simples, applicables dans d'autres domaines, c'est top, merci 🙏
+
+5
+
+
+
+Répondre
+
+
+@moustaphagarba1025
+il y a 8 jours
+J'ai beaucoup apprécié cette présentation du RAG. Ayant travaillé en profondeur sur ce sujet, aussi bien en entreprise que dans le cadre de la recherche, je la recommande vivement à toutes les personnes qui souhaitent découvrir le RAG et faire leurs premiers pas dans ce domaine.
+
+4
+
+
+Répondre
+
+
+@jean-philippemougins1748
+il y a 10 jours
+Vraiment top , cette vidéo. Je suis très content d'avoir découvert votre chaîne!!! Merci.   
+
+5
+
+
+Répondre
+
+
+@fabrice230
+il y a 7 jours
+Bonjour. Toutes mes félicitations pour ce contenu ! Votre pédagogie est d'une clarté tout à fait rare et remarquable. Merci beaucoup pour ce super travail. Vous avez un nouvel abonné.
+
+3
+
+
+Répondre
+
+
+@tjeanneret
+il y a 6 jours
+Très bien structurée, très claire, très clairement présentée, cette vidéo est un petit bijou. Continuez, merci !
+
+3
+
+
+Répondre
+
+
+@pierresoubeille631
+il y a 9 jours (modifié)
+C'est absoument génal. Dit par une personne qui a travaillé et testé le sujet à fond en s'appuyant sur des specs ! Et qui montre les pièges d'un RAG  construit sans comprendre comment il marche de l'intérieur. Y a beaucoup de vidéos YT qui survollent le RAG en moins de 10 mn mais qui restent supeficielles et restent très trés loin derrière Projets IA 
+
+2
+
+
+Répondre
+
+
+@GuilhemRibart
+il y a 2 jours
+Fabuleux ! C’est très clair ou comment expliquer simplement des concepts compliqués. Un immense merci 
+
+1
+
+
+
+Répondre
+
+
+@contactfranck1921
+il y a 1 jour
+C'est clair, synthétique, didactique . pas de charabia. c'est rare ; bravo
+
+1
+
+
+Répondre
+
+
+@Matisla-68
+il y a 2 jours
+Merci pour ta vidéo. C'est exactement ce que je cherchais comme contenu à propos de l'IA. 
+Enfin une vraie vidéo sur l'IA qui explique clairement un concept, qui rentre dans le détail, structuré, et qui est vraiment plaisant à suivre.
+Continue comme ça ! À titre personnel, le ton et la voie sont un vrai avantage, qui donne envie de prendre le temps de se poser et d'apprendre, sans être soporifique.
+
+1
+
+
+Répondre
+
+
+@antoinenomad1566
+il y a 3 jours (modifié)
+Des concepts tres profonds dit de manieres tres simples, du grand art
+
+1
+
+
+Répondre
+
+
+@bapi9398
+il y a 17 heures
+Très bon exposé du sujet pas simple, bien décrit, bravo.
+Une petite remarque d'amélioration : ce serait bien d'expliciter tous les acronymes utilisés dans ce sujet, tu le fais pour certains, mais pas pour d'autres, et, notament...RAG ou KNN. Ca aide à mieux assimiler (et oui je sais on peut chercher par soi-même )
+
+1
+
+
+
+Répondre
+
+
+@patrickkayemba23
+il y a 8 jours
+Une explication très claire du RAG, merci beaucoup 
+
+1
+
+
+Répondre
+
+
+@alanonulkahen6673
+il y a 3 jours
+Excellente vidéo, merci pour ton travail  on apprend plein de choses, continue comme ça 
+
+1
+
+
+Répondre
+
+
+@olivierfournier5844
+il y a 6 jours
+Bravo et félicitation pour cette explication claire et compréhensible d'un sujet difficile à expliquer ! vous avez la patience qu'il faut et êtes très pédagogue. Je suis heureux d'avoir vu votre vidéo car j'ai vraiment le sentiment d'avoir appris enfin quelque chose d'important sur le sujet ! Bravooo !
+
+
+
+Répondre
+
+
+@olivierpavilla
+il y a 9 jours
+J'ai découvert cette chaîne par hasard. La première vidéo avait hard. En cause le rythme de diction. Ça ne laissait pas le temps de comprendre le concept. Là. C'est top. C'est bien expliqué. En plus, je me demandais ce que pouvait bien être le RAG. Ça tombe super bien parce que je dois faire un boulot et on m'a conseillé le RAG. Bin. Maintenant, voilà. J'ai compris. Merci. Mais ça doit vous demander un boulot de dingue.
+
+
+
+Répondre
+
+
+@lionelmartin8062
+il y a 2 semaines
+J'aime beaucoup ta façon d'expiquer.
+
+1
+
+
+
+Répondre
+
+
+@El_Houari
+il y a 6 jours
+Merci pour ton partage,explication pédagogique d'une brique essentielle.
+
+
+
+Répondre
+
+
+@JawharBenFredj
+il y a 2 jours
+Merci. J'utiliser les RAG de OpenAI et celui de Vertex (Gemini)
+
+1
+
+
+Répondre
+
+
+@deltableu6053
+il y a 8 jours
+Merci pour le travail et la simplification du sujet pour le rendre accessible.
+
+
+
+Répondre
+
+    
+Transcription
+
+
+Rechercher dans la vidéo
+0:00
+Ça c'est Chat GPT face à un document
+0:03
+qu'il n'a jamais vu. Et ça c'est Chat
+0:06
+GPT face au même document mais avec du
+0:09
+rag. Mamia même document mais une
+0:12
+technique au milieu qui change tout.
+0:15
+Cette technique c'est le rag et toutes
+0:17
+les boîtes qui déploient LIA en 2026
+0:20
+l'utilisent. Sans elle, Chat GPT serait
+0:24
+incapable d'exploiter tes données
+0:26
+privées. Mais voilà le truc qu'on ne te
+0:28
+dit jamais. Le rag basique, celui qu'on
+0:32
+voit dans tous les tutos, ne tient pas
+0:34
+la route en production. Il a des modes
+0:37
+d'échec bien identifié que personne ne
+0:40
+montre. On va voir lesquels et comment
+0:42
+les ingénieurs les rendent enfin
+0:45
+fiables. Petit rappel rapide, les LLM
+0:48
+comme JGPT, [musique] Claude ou Jemini
+0:52
+sont entraînés sur des données
+0:53
+publiques. Tout le web, des livres, des
+0:57
+articles, des milliers de milliards de
+0:59
+mots. Mais 90 % des données qui comptent
+1:02
+vraiment sont privées. tes mails, les
+1:05
+docs internes de ton entreprise, tes
+1:07
+notes notion, les rapports que personne
+1:10
+n'a jamais publié. Ces données là, le
+1:13
+modèle ne les a jamais vu. Avant le rag,
+1:16
+c'était un mur. Soit tu réentraîné un
+1:19
+modèle sur tes données, ce qui coûte des
+1:21
+millions, soit tu te débrouillais sans
+1:24
+le rag à tout cassé. Pour cette vidéo,
+1:28
+je me suis renseignée auprès de
+1:29
+plusieurs sources, notamment le travail
+1:32
+de Lance Martin, ingénieur chez
+1:35
+Longchain, qui est l'une des références
+1:37
+sur le sujet. J'ai pris le temps de
+1:39
+digérer tout ça pour te le rendre simple
+1:42
+et clair. Mon objectif, rendre
+1:44
+accessible un truc qui peut paraître
+1:47
+mathématique et rébarbatif. Promis, tu
+1:50
+n'auras besoin d'aucune compétence
+1:52
+technique. On va voir trois choses.
+1:55
+Comment on transforme des documents en
+1:57
+quelque chose que Lia peut chercher,
+1:59
+comment on retrouve les bons morceaux et
+2:02
+pourquoi le rac basique se plante si
+2:04
+souvent et comment le rendre robuste.
+2:07
+Avant d'attaquer, deux notions à poser.
+2:10
+C'est rapide mais ça te servira pour
+2:12
+tout le reste. Premier concept, un LM.
+2:16
+C'est juste un modèle qui prédit le mot
+2:18
+suivant. Tu lui donnes un texte en
+2:19
+entrée, il continue. Chat GPT, Claude,
+2:23
+Gémini, tous fonctionnent comme ça. Rien
+2:26
+de plus. Deuxème concept et celui-là, il
+2:29
+faut vraiment le retenir. Un vecteur, un
+2:32
+vecteur c'est une liste de chiffres,
+2:35
+c'est tout. Par exemple, 0,2 - 0,5 0,7
+2:41
+trois chiffres. Pourquoi c'est utile ?
+2:43
+parce que tout l'orage.
+2:46
+Transformer du texte en chiffre pour
+2:48
+pouvoir le manipuler. On va voir comment
+2:51
+juste après. Partie 1. Transformer une
+2:54
+montagne de texte en carte. Imagine, tu
+2:58
+as 10000 documents internes dans ton
+3:00
+entreprise. Du PDF, du Word, des notes,
+3:04
+du brut. Tu veux qu'un puisse répondre à
+3:07
+toutes les questions dessus. Petit
+3:09
+problème, tu peux pas tout lui balancer
+3:11
+d'un coup. Trop long. [musique] Même les
+3:14
+modèles à très long contexte ont une
+3:16
+limite. Deuxème problème, même si tu
+3:19
+pouvais tout lui passer, comment saurait
+3:21
+quoi chercher dans ce magma
+3:23
+d'information ? La solution c'est de
+3:26
+transformer ces documents en quelque
+3:28
+chose de cherchable. C'est ce qu'on
+3:31
+appelle l'indexing. C'est le travail
+3:34
+invisible, celui qu'on fait une fois à
+3:37
+l'avance et qui rend tout le reste
+3:40
+possible. Sous étape 1, le découpage.
+3:44
+Première chose, on découpe les documents
+3:46
+en petits morceaux. C'est le chunking.
+3:49
+Pourquoi on coupe ? Parce que les
+3:51
+modèles d'embedding qu'on va voir juste
+3:53
+après ont une limite de taille. Ils
+3:56
+peuvent traiter 500 mots à la fois,
+3:58
+parfois 2000, pas plus. Donc on coupe.
+4:02
+Mais voilà la vraie question. Couper en
+4:04
+morceau de combien et où ? Sur la taille
+4:08
+des morceaux, c'est un compromis. Trop
+4:10
+petit, genre 50 mots et tu perds le
+4:14
+contexte. Un morceau de 50 mots, ça peut
+4:17
+être une phrase isolée [musique]
+4:19
+qui ne veut rien dire sortie de son
+4:21
+paragraphe. trop grand, genre 5000 mots
+4:25
+et c'est l'inverse. Ton morceau contient
+4:27
+trop d'idées différentes. Quand le
+4:29
+modèle d'embedding va le résumer en un
+4:32
+seul vecteur, il va mélanger toutes ses
+4:35
+idées et le résultat sera flou. La
+4:37
+recherche derrière sera imprécise. En
+4:40
+pratique, la plupart des gens
+4:42
+choisissent quelque chose entre 500 et
+4:45
+1000 mots. C'est le sweet spot. Sur où
+4:49
+on coupe, c'est encore plus subtil. Tu
+4:52
+peux couper bêtement tous les 500 mots
+4:54
+mais tu vas tomber au milieu des
+4:56
+phrases, au milieu d'idées. Du coup, on
+4:59
+essaie de couper aux frontières
+5:01
+naturelles. Fin de paragraphe, fin de
+5:04
+section, fin de chapitre. On ajoute
+5:07
+souvent ce qu'on appelle un overlap.
+5:10
+C'est une astuce de chevauchement. Le
+5:13
+morceau 1 va de 0 à 500 mots. Le morceau
+5:17
+2 va de 450 à 950 mots. Le morceau 3 va
+5:22
+de 900 à 1400 mots. Et ainsi de suite.
+5:25
+Comme ça, [musique] si une idée est à
+5:27
+cheval sur la frontière des deux
+5:30
+morceaux, elle apparaît dans les deux.
+5:32
+Au moins un des deux la capture
+5:34
+correctement. Il existe même des
+5:36
+techniques plus malines comme le
+5:38
+chunking sémantique. [musique] Au lieu
+5:40
+de couper sur la longueur, on coupe
+5:43
+quand le sujet change vraiment dans le
+5:45
+texte. Mais ça commence à être
+5:47
+technique. On garde ça pour une autre
+5:49
+vidéo. Le truc à retenir, c'est ça. Le
+5:52
+chunking, c'est pasin du tout. Mal fait,
+5:56
+c'est une des sources principales
+5:58
+d'échec du rag basique. Bien fait, c'est
+6:01
+déjà la moitié du boulot. Sous étape
+6:03
+numéro 2, la transformation en vecteur.
+6:06
+Maintenant qu'on a nos morceaux, on les
+6:08
+transforme en vecteurs. Ces vecteurs
+6:11
+s'appelle des embedding. Un embedding,
+6:15
+c'est ça, une liste de chiffres qui
+6:18
+capture le sens du texte. Mais qui
+6:20
+produit ces embedding ? Un modèle
+6:23
+d'embedding. Et ce truc, il faut bien
+6:26
+comprendre ce que c'est parce qu'on en
+6:28
+parle tout le temps en ragu. C'est un
+6:31
+modèle DIIA mais différent d'un LLM. Un
+6:34
+LM lui génère du texte mot après
+6:36
+[musique] mot. Un modèle d'embing lui ne
+6:39
+génère rien du tout. Il prend du texte
+6:41
+en entrée et il sort un vecteur.
+6:44
+[musique] C'est tout ce qu'il sait faire
+6:46
+mais il le fait très bien. Comment il a
+6:48
+appris à faire ça ? Il a été entraîné
+6:50
+sur des milliards de textes avec un
+6:52
+objectif simple. Deux textes qui parlent
+6:55
+de la même chose doivent finir avec des
+6:58
+vecteurs proches. Deux textes sans
+7:00
+rapport avec des vecteur [musique]
+7:02
+éloigné et ça marche super bien. Les
+7:05
+modèles les plus connus aujourd'hui
+7:07
+s'appellent Text embedding 3 d'open AI
+7:11
+ou BGE en open source. Tu n'as pas
+7:14
+besoin de retenir les noms, juste de
+7:16
+savoir que c'est ce genre de modèle qui
+7:18
+fait le boulot. Concrètement, chaque
+7:20
+morceau devient une liste d'environ 1500
+7:23
+chiffres. Pourquoi 1500 ? Parce que
+7:25
+chaque chiffre représente une dimension
+7:28
+du sens. Tu peux imaginer 1500 curseur
+7:32
+chacun réglé sur une valeur précise. Un
+7:35
+curseur capture peut-être à quel point
+7:38
+le texte parle de cuisine, un autre à
+7:41
+quel point le texte parle d'émotion. un
+7:44
+autre, à quel point il est technique et
+7:46
+ainsi de suite sur 1500 dimensions. Et
+7:50
+voilà la propriété magique dont je te
+7:52
+parlais. Deux textes qui parlent de la
+7:54
+même chose auront des embedding très
+7:57
+proches. Deux textes sans rapport auront
+8:00
+des embeddings très éloignés. C'est
+8:02
+cette propriété qu'on va exploiter dans
+8:05
+la deuxième partie. sous étape 3, le
+8:08
+stockage. Une fois qu'on a tous nos
+8:10
+embedding, on les stocke. Pas dans une
+8:12
+base de données classique parce qu'elles
+8:14
+ne savent pas chercher des vecteurs. On
+8:16
+les stock dans une base de données
+8:18
+vectorielle. Tu as peut-être entendu
+8:20
+parler de pinecone, Chroma ou weviate.
+8:24
+Ce sont les noms qui reviennent partout.
+8:26
+Ces bases sont optimisées pour une seule
+8:28
+chose. Retrouver vite les vecteurs
+8:30
+proches d'un autre vecteur. À la fin de
+8:33
+l'indexing, tu as quelque chose de
+8:35
+précieux, une carte sémantique de tes
+8:38
+documents. Chaque morceau a une position
+8:42
+dans un espace à 1500 dimensions. Et
+8:45
+plus deux morceaux parlent de la même
+8:47
+chose, plus ils sont proches sur cette
+8:49
+carte. OK, tu as la carte, très
+8:52
+[musique] bien. Sauf qu'une carte ne
+8:53
+sert à rien si tu ne sais pas comment
+8:55
+t'en servir. Maintenant, la vraie
+8:57
+question. Comment tu retrouves le bon
+8:59
+morceau quand quelqu'un pose une
+9:01
+question ? Partie 2, retrouver les bons
+9:04
+morceaux et répondre. Tu as tes 10000
+9:07
+vecteurs stockés dans ta base. Quelqu'un
+9:09
+te pose une question. Quelle est notre
+9:11
+politique de remboursement ? Quelque
+9:14
+part dans tes 10000 morceaux, la réponse
+9:16
+existe. Mais comment la trouver ?
+9:19
+Sachant que cette question, elle n'est
+9:21
+pas dans ta base. L'astuce est belle de
+9:24
+simplicité. On transforme la question en
+9:26
+vecteur avec [musique] exactement le
+9:29
+même modèle d'embeding qui a servi pour
+9:32
+les documents. Et là, je m'arrête 2
+9:34
+secondes parce que c'est crucial. Chaque
+9:37
+modèle d'embeding crée son propre espace
+9:40
+avec ses propres dimensions et ses
+9:42
+propres conventions. Un modèle range le
+9:45
+concept chien à une certaine position
+9:48
+dans son espace. Un autre modèle le
+9:51
+range complètement ailleurs. Donc si tu
+9:54
+un textes un document [musique]
+9:56
+avec un modèle puis que tu la question
+9:59
+avec un modèle différent, les vecteurs
+10:01
+ne vivent pas dans le même monde. Tu
+10:03
+peux pas les comparer. C'est l'une des
+10:05
+erreurs les plus classiques quand on
+10:07
+débute. Règle d'or, un seul modèle
+10:10
+d'embeding pour tout le système du début
+10:13
+à la fin. Bon, ça c'est dit. [musique]
+10:16
+On reprend. On a notre question
+10:18
+vectorisée. On cherche les morceaux dont
+10:20
+les vecteurs sont les plus proches du
+10:22
+vecteur de la question. Sous étape 1, la
+10:26
+recherche par voisinage. [musique] Cette
+10:28
+technique s'appelle la recherche par cas
+10:31
+plus proche voisin. En anglais, KNN. Le
+10:35
+cas, c'est juste le nombre de morceaux
+10:38
+qu'on veut récupérer. En général, on
+10:41
+prend tr ou 5. Visualise un instant.
+10:44
+Imagine un espace à trois dimensions.
+10:47
+Chaque morceau de document est un point
+10:51
+dans cet espace. Ta question, c'est
+10:54
+aussi un point. Tu cherches les points
+10:56
+les plus proches du point question. Tu
+10:58
+en sors trois. Voilà tes morceaux
+11:00
+pertinents. [musique] Sauf qu'en vrai,
+11:02
+on n'est pas en trois dimensions, on est
+11:05
+en 1500. Mais le principe est
+11:08
+strictement le même. Et là, une question
+11:11
+qui mérite qu'on s'y attarde. Comment on
+11:14
+mesure la proximité entre deux vecteurs
+11:17
+? Parce que proche, ça veut dire quoi
+11:20
+quand tu es dans un espace à 1500
+11:23
+dimensions ? La méthode la plus utilisée
+11:25
+s'appelle la similarité cosinus. Au lieu
+11:29
+de mesurer la distance entre deux
+11:31
+points, on mesure l'angle entre deux
+11:34
+flèches. Tu vois ? Chaque vecteur, tu
+11:38
+peux l'imaginer comme une flèche qui
+11:40
+part du centre de l'espace et qui pointe
+11:44
+dans une direction précise. Deux flèches
+11:47
+qui pointent dans la même direction, ça
+11:49
+veut dire deux textes qui parlent de la
+11:52
+même chose. Deux flèches
+11:54
+perpendiculaires,
+11:56
+ça veut dire deux textes qui n'ont aucun
+11:58
+rapport. Deux textes qui pointent dans
+12:01
+des directions opposées, ça veut dire
+12:04
+deux textes contraires. La similarité
+12:07
+cosinus, c'est juste ça. Un nombre entre
+12:11
+-1 et 1 qui mesure cet angle. Proche de
+12:15
+1, c'est similaire. Proche de 0, ça n'a
+12:18
+rien à voir. Proche de -1, c'est
+12:21
+l'inverse. Pourquoi on mesure l'angle
+12:23
+plutôt que la distance brute ? parce que
+12:26
+la longueur de la flèche en pratique n'a
+12:29
+pas vraiment de sens par rapport au
+12:31
+contenu du texte. Ce qui compte, c'est
+12:34
+où la flèche [musique] pointe, pas si
+12:36
+elle est longue ou courte. Concrètement,
+12:39
+quand tu poses une question, le système
+12:41
+calcule la similarité cosinus entre le
+12:44
+vecteur de ta question et tous les
+12:46
+vecteurs de la base. Il les classe, il
+12:49
+garde les trois ou cinq meilleurs. C'est
+12:52
+ça le KNN. [musique]
+12:54
+Sous étape 2, le prompt qui fait le
+12:57
+boulot. On a nos cinq morceaux
+13:00
+pertinents. [musique] Que faire avec ?
+13:02
+On les colle dans un prompt qu'on envoie
+13:04
+au LLM. Ça ressemble à ça. Réponds à la
+13:07
+question suivante en te basant
+13:09
+uniquement sur le contexte ci-dessous.
+13:12
+Contexte, tu y mets ici les cinq
+13:14
+morceaux que tu as sélectionné.
+13:16
+Question. Tu mets ici la question de
+13:18
+l'utilisateur. Le Llm lit le contexte.
+13:21
+Il lit la question. Il génère une
+13:23
+réponse ancré dans ses morceaux, pas
+13:26
+dans ses connaissances générales. Dans
+13:29
+tes documents. C'est ça la magie. Sous
+13:32
+étape 3, la chaîne complète.
+13:34
+Récapitulons le flux du rag basique.
+13:37
+L'utilisateur pose une question. Oned la
+13:40
+question. On cherche les cinq morceaux
+13:42
+les plus proches dans la base
+13:44
+vectorielle. On les colle dans le
+13:46
+prompt, on envoie au LLM, on récupère la
+13:49
+réponse. Six étapes, c'est tout. Tu as
+13:53
+maintenant un système complet, UNIA qui
+13:56
+peut répondre à des questions sur des
+13:58
+documents qu'elle n'a jamais vu pendant
+14:00
+son entraînement.
+14:02
+C'est ce qu'on appelle le rag vanille.
+14:05
+Et techniquement ça marche. Sauf qu'il y
+14:08
+a un problème, un gros problème. Dans la
+14:12
+vraie vie, ce système se plante souvent,
+14:16
+très souvent. Tu déploies ton beau rac
+14:18
+vanille en production et tu te retrouves
+14:21
+avec des réponses à côté de la plaque,
+14:23
+des hallucinations, des morceaux
+14:26
+récupérés qui n'ont rien à voir avec la
+14:28
+question. Et c'est là que les choses
+14:29
+commencent à devenir intéressantes.
+14:31
+[musique] Partie 3. Pourquoi le rac
+14:34
+basique échoue et comment le sauver ? Le
+14:37
+rac basique a trois grosses faiblesses.
+14:40
+Elle se trouve à trois étapes
+14:42
+différentes du processus et chacune peut
+14:45
+faire foirer la réponse. Voyons-les une
+14:48
+par une. La bonne nouvelle, c'est que
+14:50
+pour chaque problème, des chercheurs ont
+14:52
+trouvé une parade. [musique] C'est ce
+14:54
+qu'on va voir maintenant. Le problème de
+14:56
+la question mal formulée. Premier
+14:59
+problème, les utilisateurs posent
+15:01
+souvent des questions vagues ou
+15:03
+ambigues. Et comme on cherche par
+15:05
+similarité, si la question est mal
+15:07
+formulée, [musique] on récupère les
+15:09
+mauvais morceaux. Carbage in, carbage
+15:12
+out. La solution s'appelle la query
+15:15
+translation. L'idée avant de chercher,
+15:19
+on demande au LLM de réécrire la
+15:21
+question plusieurs fois sous différents
+15:24
+angles. [musique] Cette technique
+15:25
+s'appelle le multiquery. On lance la
+15:28
+recherche sur chacune des reformulations
+15:32
+et on combine les résultats. [musique]
+15:34
+Une variante encore plus audacieuse
+15:36
+s'appelle hide pour hypothetical
+15:40
+document embedding. Au lieu de chercher
+15:43
+avec la question, on demande au LM
+15:46
+d'inventer une réponse hypothétique.
+15:49
+Concrètement, prend la question "Quelle
+15:51
+est notre politique de remboursement ?
+15:53
+C'est court, sec, abstrait." Maintenant,
+15:56
+on demande au LM, imagine la réponse
+16:00
+même si tu ne la connais pas. et le LLM
+16:03
+va inventer un texte du genre : "Notre
+16:06
+politique de remboursement permet aux
+16:08
+clients de retourner leurs produits dans
+16:10
+un télé de 30 jours après l'achat. Pour
+16:12
+bénéficier d'un remboursement, le
+16:14
+produit doit être dans son emballage
+16:15
+d'origine et accompagné d'une preuve
+16:18
+d'achat." Trois petits points, cette
+16:19
+réponse est totalement inventée. Le LM
+16:22
+ne connaît pas ta politique de
+16:24
+remboursement. Mais ce qui est génial,
+16:26
+c'est qu'on s'en fout complètement. On
+16:28
+ne va pas la donner à l'utilisateur, on
+16:30
+va l'utiliser comme clé de recherche. On
+16:33
+embê cette fausse réponse et on cherche
+16:36
+les vrais documents les plus proches
+16:38
+dans la base. Pourquoi ça marche mieux
+16:40
+que de chercher avec la question
+16:41
+directement ? Parce qu'une question fait
+16:43
+5 mots alors qu'un vrai document de
+16:45
+politique de remboursement en fait 200.
+16:48
+La fausse réponse, elle a la même forme,
+16:51
+le même vocabulaire et la même longueur
+16:54
+qu'un vrai document. Sa signature dans
+16:56
+l'espace vectoriel ressemble plus à
+16:58
+celle des vrais documents. Donc la
+17:01
+recherche par similarité cosinus
+17:03
+fonctionne beaucoup mieux. C'est tout
+17:05
+bête mais c'est diablement efficace.
+17:08
+Mais même avec une question parfaite, on
+17:10
+n'est pas à l'abri du deuxième problème.
+17:12
+Le problème de la pertinence. Deuxième
+17:14
+problème, même quand on récupère cinq
+17:16
+morceaux, ils ne sont pas forcément tous
+17:19
+pertinents. Parfois deux ou trois sont à
+17:22
+côté de la plaque et ces morceaux
+17:23
+pourris polluent la réponse. Le Llm les
+17:27
+lit, en tient compte et part dans la
+17:29
+mauvaise direction. La solution
+17:31
+s'appelle le ranking. Et pour comprendre
+17:34
+pourquoi ça marche, il faut comprendre
+17:36
+pourquoi le système initial est
+17:38
+imparfait. Quand on fait la recherche
+17:41
+par similarité cosinus, on compare deux
+17:43
+vecteurs qui ont été calculés
+17:45
+séparément. Le vecteur de la question et
+17:48
+le vecteur du document. Chacun a été
+17:50
+calculé sans connaître l'autre. C'est
+17:52
+rapide, [musique] ça permet de chercher
+17:54
+dans des millions de documents en
+17:56
+quelques millisecondes, mais c'est aussi
+17:58
+grossier. Le modèle d'embeding n'a pas
+18:00
+vraiment lu la question et le document
+18:02
+ensemble pour décider s'ils vont bien
+18:04
+ensemble. Il les a juste résumé chacun
+18:07
+de leur côté puis on a comparé les
+18:09
+résumés. Le ranking, c'est l'inverse. On
+18:11
+prend la question et le document
+18:13
+candidat et on les passe ensemble dans
+18:16
+un autre modèle qu'on appelle un cross
+18:19
+encoder. Ce modèle, lui lit vraiment les
+18:22
+deux en même temps, mot par mot. Il peut
+18:25
+faire des liens fins entre tel mot de la
+18:27
+question et tel mot du document. Il sort
+18:30
+un score de pertinence beaucoup plus
+18:31
+précis. Le compromis, c'est que c'est
+18:34
+lent.
+18:35
+très lent. Tu peux pas faire ça sur des
+18:37
+millions de documents. C'est pour ça
+18:39
+qu'on fait les deux étapes en cascade.
+18:42
+Étape une, un bending plus similarité
+18:44
+cosinus. Rapide mais grossier. On sort
+18:47
+50 candidats sur des millions de
+18:49
+documents. Étape 2, cross encoder. Lent
+18:53
+mais précis. On prend ces 50 candidats
+18:56
+et on les classe finement. On garde les
+18:59
+cinq meilleurs. C'est un tri en deux
+19:02
+temps. D'abord, un gros tami pour
+19:04
+éliminer le grossier. Ensuite, un tami
+19:07
+fin pour ne garder que la qualité.
+19:10
+Enfin, le rag qui se corrige tout seul.
+19:13
+Et c'est là qu'on arrive au truc le plus
+19:15
+puissant, le rag correctif ou adaptive
+19:19
+rag. L'idée est simple à formuler. À
+19:22
+chaque étape, on vérifie les documents
+19:25
+récupérés sont-ils pertinents ? Sinon,
+19:28
+on reformule la question. Si toujours
+19:30
+rien, on va chercher sur le web la
+19:32
+réponse générée estelle ancrée dans les
+19:34
+documents ou est-ce que le modèle
+19:36
+hallucine ? Si elle hallucine, on
+19:39
+régénère. Ce n'est plus une chaîne
+19:41
+linéaire qui passe dans un sens. C'est
+19:43
+un système qui boucle, qui se corrige,
+19:45
+qui sait quand il se trompe et qui se
+19:48
+rattrape. Et c'est exactement la
+19:50
+direction prise par les papiers de
+19:52
+recherche les plus cités sur le sujet.
+19:54
+Self frag, corrective rag.
+19:57
+Adaptive rag. [musique] Tous publiés ces
+19:59
+dernières années, tous portés par la
+20:01
+même idée. Le rag vanille ne suffit pas.
+20:04
+Il faut ajouter de l'autovérification.
+20:06
+Avec ces trois améliorations, on passe
+20:08
+d'un rac fragile à un système qui marche
+20:11
+dans la vraie vie. Les boîtes sérieuses
+20:13
+qui déploient l'A aujourd'hui font tout
+20:15
+ça. Le rag vanille, c'est pour les
+20:17
+démos. Le rac correctif, c'est pour la
+20:20
+production. Trois points à retenir. 1,
+20:23
+le rag, c'est trois étapes. Indexer tes
+20:26
+documents en vecteur, retrouver les
+20:29
+morceaux les plus proches d'une
+20:30
+question. Générer une réponse ancrée
+20:33
+dans ces morceaux. 2. Le rac basique se
+20:36
+plante souvent à cause de questions mal
+20:38
+formulées, de récupération imprécise et
+20:41
+d'hallucination. C'est pas une
+20:43
+défaillance, c'est une étape normale. 3.
+20:46
+Le RAC moderne, c'est un système
+20:48
+intelligent qui boucle et qui se
+20:50
+corrige. Reformulation type hide,
+20:53
+reranking avec cross encoder.
+20:56
+Vérification à chaque étape. [musique]
+20:58
+C'est ça qui fait la différence entre
+20:59
+une démo et un produit. Une question
+21:02
+pour toi en commentaire. [musique]
+21:03
+Est-ce que tu utilises déjà du rag dans
+21:05
+tes projets ou est-ce que tu te poses
+21:07
+des questions précises sur sa mise en
+21:09
+place ? Si cette vidéo t'a aidé à y voir
+21:12
+plus clair, abonne-toi à Projet IA.
+
+Tout
+
+Pour vous
+
+Regardées
+
+11:47
+La seule métrique qui compte sur Meta Ads en 2026
+Social Scaling
+711 vues
+•
+il y a 2 mois
+
+
+44:19
+4 jours de camping, chasse aux morses morts et pêche à l'ours à la traîne
+Outdoor Boys
+19 M de vues
+•
+il y a 8 mois
+Doublée automatiquement
+
+
+42:27
+L'IA va changer le monde plus vite que prévu | Le tournant d'Anthropic
+Kévin et Jérémy Sagnier
+13 vues
+•
+il y a 11 heures
+Nouveau
+
+
+25:22
+Le même client IA peut te payer 5 fois plus
+Meydeey | Automatisation IA
+673 vues
+•
+il y a 1 jour
+Nouveau
+
+
+1:05:09
+Comment MONTER son PC GAMER en 2026
+FrenchHardware
+240 k vues
+•
+il y a 4 mois
+
+
+9:12
+Que faut il manger AVANT et APRÈS un entraînement en musculation ?
+FITMASS
+82 k vues
+•
+il y a 8 mois
+
+
+12:17
+Comment développer (enfin) le HAUT des PECTORAUX
+Nassim Sahili
+787 k vues
+•
+il y a 2 ans
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+660 vues
+•
+il y a 1 mois
+
+
+1:06:14
+La retraite n’est ni un droit... ni un Ponzi ! (Et les jeunes auront une retraite)
+Trouble Fait
+26 k vues
+•
+il y a 1 jour
+Nouveau
+
+
+8:32
+Le réglage Facebook Ads qui fausse vos résultats (et que personne ne touche)
+Social Scaling
+768 vues
+•
+il y a 4 semaines
+
+
+17:26
+IA : Le krach énergétique qui arrive ?
+Xavier Delmas
+65 k vues
+•
+il y a 2 semaines
+
+
+12:15
+EXERCICES ÉPAULES : du MEILLEUR au PIRE exercice (classement)
+Nassim Sahili
+1 M de vues
+•
+il y a 3 ans
+
+
+19:10
+C'est le moyen le plus rapide de brûler les graisses autour de vos organes.
+The Diary Of A CEO Clips
+975 k vues
+•
+il y a 3 mois
+Doublée
+
+
+31:42
+Pourquoi les Japonais font la guerre aux immigrés ? (la réalité est violente)
+Louis-San
+412 k vues
+•
+il y a 6 jours
+Nouveau
+
+1:30:17
+L'homme qui avertit le monde : Le grand effondrement financier est là ! | Ray Dalio
+The Diary Of A CEO
+2,1 M de vues
+•
+il y a 1 jour
+Nouveau
+Doublée
+
+17:26
+Le Général Découvre Un Resto Français Sous La Pluie (littéralement)
+LeMondeDeChoi
+ et Choi TCG
+47 k vues
+•
+il y a 1 jour
+Nouveau
+
+11:38
+EXERCICES DOS : du MEILLEUR au PIRE (classement)
+Nassim Sahili
+1,3 M de vues
+•
+il y a 3 ans
+
+38:34
+Reconstruction d'une cabane hors réseau dans notre ferme abandonnée (préparation pour l'hiver en ...
+Outdoor Boys
+15 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+20:00
+Claude Code GRATUIT À VIE ?
+Dr. Firas
+4,9 k vues
+•
+il y a 2 jours
+Nouveau
+
+19:52
+L'incroyable histoire du génie derrière Claude
+theyo
+121 k vues
+•
+il y a 1 mois
+
+    
