@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : dd57fab
+- Commit audite : cb67281
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-02 03:56:25
+- Rapport genere le : 2026-08-02 09:45:04
 - Alertes prioritaires Aion : 1
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `cb67281` - 2026-08-02 03:56:25 +0000 - Audit - docs(aos): add daily audit report
 - `dd57fab` - 2026-08-01 23:35:37 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
 - `69587e8` - 2026-08-01 09:45:15 +0000 - Audit - docs(aos): add daily audit report
 
@@ -44,15 +45,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `cb67281` - 2026-08-02 03:56:25 +0000 - docs(aos): add daily audit report
 - `69587e8` - 2026-08-01 09:45:15 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `cb67281` - 2026-08-02 03:56:25 +0000 - Audit - docs(aos): add daily audit report
 - `69587e8` - 2026-08-01 09:45:15 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -63,6 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-08-02_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-26_youtube_social-scaling_meta-ai-ads-manager-fiabilite_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-28_youtube_parlons-ia_claude-opus-5-agent-workflow-costs_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-07-30_youtube_mike-codeur_agentic-dev-killer-saas-workflow_transcript.txt
