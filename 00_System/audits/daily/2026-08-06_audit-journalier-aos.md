@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 9a028f6
+- Commit audite : a8a5ebe
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-06 03:42:38
+- Rapport genere le : 2026-08-06 10:18:04
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,7 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `9a028f6` - 2026-08-05 10:16:24 +0000 - Audit - docs(aos): add daily audit report
+- `a8a5ebe` - 2026-08-06 03:42:38 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -43,11 +43,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `9a028f6` - 2026-08-05 10:16:24 +0000 - docs(aos): add daily audit report
+- `a8a5ebe` - 2026-08-06 03:42:38 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `9a028f6` - 2026-08-05 10:16:24 +0000 - Audit - docs(aos): add daily audit report
+- `a8a5ebe` - 2026-08-06 03:42:38 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -62,11 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-08-06_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-08-05_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
