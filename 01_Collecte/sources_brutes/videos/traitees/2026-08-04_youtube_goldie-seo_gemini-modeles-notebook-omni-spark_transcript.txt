@@ -1,0 +1,741 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+Les NOUVELLES mises à jour de Google Gemini sont DÉMENTES !
+IA
+Doublée automatiquement
+Goldie SEO
+Goldie SEO
+4,43 k abonnés
+
+S’abonner
+
+6
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+182 vues  29 juil. 2026
+Accédez à la Masterclass Google 👉 https://www.skool.com/ai-profit-lab-7...
+
+Envie de gagner de l'argent et du temps grâce à l'IA ? Rejoignez-nous ici : https://www.skool.com/ai-profit-lab-7...
+
+Notes vidéo + liens vers les outils 👉 https://www.skool.com/ai-profit-lab-7...
+
+Cours d'IA GRATUIT + Communauté + 1 000 agents IA 👉 https://www.skool.com/ai-seo-with-jul...
+
+Séance de stratégie SEO IA GRATUITE → https://go.juliangoldie.com/strategy-...
+
+Plus de 200 suggestions SEO IA gratuites → https://go.juliangoldie.com/chat-gpt-...
+
+Procurez-vous notre livre sur le netlinking SEO ici : https://go.juliangoldie.com/opt-in?ut...
+
+Mises à jour Google Gemini : 3 nouveaux modèles et agents IA expliqués
+
+Google vient de publier trois nouveaux modèles. Les modèles Gemini et Spark, un agent d'IA révolutionnaire, optimisent votre productivité. Cette vidéo explique comment utiliser ces nouveaux outils pour automatiser vos flux de travail et accélérer vos recherches comme jamais auparavant.
+
+00:00 Intro : La semaine mouvementée de Google
+
+00:15 Gemini 3.6 Flash : Une efficacité à toute épreuve
+
+01:13 Présentation de Gemini 3.5 Flash-Lite
+
+02:51 Gemini Notebook : Nouvelles collections
+
+03:32 Gemini Omni : La magie de l'IA pour la vidéo
+
+04:09 Gemini Spark : L'avènement des agents d'IA
+
+05:10 L'IA au service de l'action
+Comment ce contenu a été créé
+Créé avec l'IA
+Des sons ou des images ont été modifiés ou entièrement générés. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Goldie SEO
+4,43 k abonnés
+Vidéos
+À propos
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@happy-icebear
+il y a 6 jours
+Wonderful workflow 👍✨️
+
+
+
+Répondre
+
+
+@goldieagencyseo
+il y a 7 jours
+Get the Google Masterclass 👉 https://www.skool.com/ai-profit-lab-7...
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about
+
+Video notes + links to the tools  https://www.skool.com/ai-profit-lab-7462/about
+
+Get a FREE AI Course + Community + 1,000 AI Agents  https://www.skool.com/ai-seo-with-julian-goldie-1553/about
+
+Get a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian
+
+Get 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts
+
+Get our SEO link building book here: https://go.juliangoldie.com/opt-in?utm=julian
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Intro: Google's Wild Week
+0:00
+New Google Gemini updates are wild.
+0:02
+Google just shipped three new AI models
+0:05
+in one week, gave its research tool a
+0:07
+total glow up, and its AI agent Spark
+0:09
+just got more useful. Let's break it all
+0:11
+down. Three new models landed at once
+0:13
+called Gemini 3.6 Flash, Gemini 3.5
+Gemini 3.6 Flash: Pure Efficiency
+0:17
+Flashlight, and Flash Cyber. Three in
+0:19
+one week, not one, not two. Here's why
+0:21
+that's a big deal. Even if you've never
+0:23
+touched AI in your life, Google isn't
+0:25
+racing to build the smartest model
+0:26
+anymore. It's racing to build the model
+0:28
+that gets things done fast with fewer
+0:30
+steps at the lowest to run. That's the
+0:32
+real story behind this release. Let's go
+0:34
+through what each one actually does in
+0:36
+plain words. Gemini 3.6 Flash is the new
+0:39
+everyday model built for coding,
+0:41
+writing, reading long documents, and
+0:43
+looking at images. But the interesting
+0:45
+part isn't that it got smarter, it's
+0:46
+that it got more efficient. It uses
+0:48
+fewer words to land on the same answer,
+0:50
+which means faster replies and way less
+0:52
+wasted effort. That shift matters. A
+0:55
+year ago, every new model release
+0:57
+bragged about raw intelligence. Now, the
+0:59
+brag is about how little it takes to do
+1:01
+the job well. That's a totally different
+1:02
+race. Picture two people answering the
+1:05
+same question. One rambles for 5 minutes
+1:07
+with detours. The other gives the same
+1:08
+answer in 90 seconds. Just as good.
+1:10
+Gemini 3.6 Flash is built to be that
+Gemini 3.5 Flash-Lite Explained
+1:13
+second person. Here's a way you'd
+1:14
+actually use this. Ask it to write a
+1:16
+short welcome message for a new AI
+1:18
+profit boardroom member. One that
+1:19
+explains the weekly coaching calls and
+1:21
+the daily tutorials in three lines. That
+1:23
+kind of oneline prompt turns into a
+1:25
+finished draft in seconds. Gemini 3.5
+1:28
+flashlight might matter even more than
+1:30
+the first one. It's Google's fastest,
+1:32
+cheapest model to run. It's not built to
+1:34
+be the smartest model in the room. It's
+1:36
+built for the stuff you do a thousand
+1:38
+times a day. Sorting messages, reading
+1:40
+through documents, answering simple
+1:42
+repeat questions. Think of it like this.
+1:44
+You don't need a surgeon to hand you a
+1:46
+glass of water. You need someone fast,
+1:48
+reliable, and available all day. That's
+1:50
+flashlight. Here's a practical one. Set
+1:52
+up a flow where every new sign up to a
+1:54
+community triggers a prompt like this.
+1:56
+Read this person's stated goal. Then
+1:58
+write a short personal welcome pointing
+2:00
+them to the right resource for their
+2:01
+situation. That's the exact kind of
+2:03
+onboarding automation you'd want running
+2:05
+in the background. Quick note on the
+2:07
+third model, Flash Cyber. That one's
+2:09
+built to find and patch security holes
+2:11
+in software. It's not open to the public
+2:13
+right now. Only trusted partners and
+2:15
+government groups can use it. So, we
+2:16
+won't spend long here since it won't
+2:18
+touch your day-to-day. But it tells you
+2:20
+something. Google is racing to build
+2:22
+specialized AI for serious problems, not
+2:24
+just chat. Let's pause here for a second
+2:26
+because I want this to land for the
+2:28
+people who need it most. If you're
+2:29
+trying to save time and actually put
+2:31
+these tools to work in your business,
+2:32
+the same way we just walked through with
+2:34
+Flashlight, this is exactly what we
+2:35
+cover inside the IP profit boardroom.
+2:37
+We've already built a road map around
+2:39
+using Gemini's Flash models for real
+2:40
+workflows like sorting leads, writing
+2:43
+follow-up messages, and organizing
+2:44
+client documents. There are four live
+2:46
+coaching calls every week where you
+2:48
+bring your exact use case and get direct
+2:50
+help, daily tutorials that break down
+Gemini Notebook: New Collections
+2:51
+releases like this one the moment they
+2:53
+land and a prompt library built around
+2:55
+real workflows, plus a community already
+2:57
+running these exact tools for their own
+2:59
+businesses. Link in the description if
+3:00
+you want the full walkthrough. Now,
+3:02
+let's talk about something people have
+3:03
+been asking Google for for a long time.
+3:05
+Better organization inside its research
+3:07
+tool, now called Gemini Notebook, used
+3:09
+to be called Notebook LM. Google just
+3:11
+added something called collections.
+3:13
+Before this, if you used a notebook a
+3:15
+lot, your research turned into a pile.
+3:17
+Dozens of notebooks with no order.
+3:19
+Collections fix that. Think of it like a
+3:21
+music playlist. One notebook can live
+3:23
+inside more than one collection. No
+3:25
+rigid folders, just flexible groups that
+3:27
+make sense to you. Here's a practical
+3:28
+way to use it. Build one collection just
+3:30
+for content ideas. Drop in every
+Gemini Omni: AI Video Magic
+3:32
+testimonial, every case study, every
+3:34
+coaching call recap you saved. Then ask
+3:36
+Notebook to pull it all into one clean
+3:38
+summary you can turn into next week's
+3:39
+posts. Next update, Google Vids just got
+3:41
+a serious upgrade with something called
+3:43
+Gemini Omni. Here's what it does. You
+3:45
+drop in a rough sketch, a product photo,
+3:47
+or a logo. Then type a simple sentence,
+3:50
+something like, "Turn this into a short
+3:51
+product video." And Google builds themed
+3:54
+video clips for you automatically.
+3:55
+Here's how you'd actually use this one.
+3:57
+Design a short promo video that shows
+3:59
+real community members getting help on a
+4:01
+coaching call, highlights the daily
+4:03
+tutorials, and ends with one simple line
+4:05
+about joining. Drop in a logo and a few
+4:07
+screenshots and let Omni build the first
+Gemini Spark: The AI Agent Shift
+4:09
+draft before you touch an editor. Now,
+4:12
+here's the one I think is the biggest
+4:13
+long-term story out of everything
+4:15
+Google's shipped this year. It's called
+4:17
+Gemini Spark. Spark isn't a chat window.
+4:19
+It's an agent that keeps working after
+4:21
+you walk away. Sundar Pichai described
+4:23
+it as a personal AI agent, one that
+4:25
+takes action on your behalf under your
+4:27
+direction and runs without needing your
+4:29
+laptop open. Notice the shift in
+4:31
+language here because it matters. You
+4:32
+don't tell Spark to do this one thing.
+4:34
+you tell it to watch this or keep
+4:35
+checking on that or handle this every
+4:37
+week without me asking again. That's the
+4:39
+agentic shift everyone in AI keeps
+4:41
+talking about. Let's zoom out because I
+4:43
+don't want you to just remember five
+4:44
+separate updates. I want you to see the
+4:46
+pattern underneath all of them. If
+4:48
+you're running a business, here's what
+4:49
+actually matters for you. You don't need
+4:51
+the most powerful model available. You
+4:53
+need the right tool for the right job,
+4:54
+fast and cheap for repeat tasks, sharper
+4:57
+reasoning for the complex stuff, an
+4:59
+agent running in the background for the
+5:00
+things you keep forgetting to follow up
+5:02
+on. Here's the honest part I want to
+5:03
+leave you with. Tools like this move
+5:05
+fast. New models, new agents, new
+5:07
+features almost every single week. You
+5:09
+don't need to master all of it
+Putting AI to Work
+5:11
+overnight. You just need one small
+5:12
+habit. Pick one update, one tool, one
+5:14
+workflow, and actually use it this week
+5:16
+instead of just watching another video
+5:18
+about it. That's genuinely the
+5:19
+difference between falling behind and
+5:21
+staying ahead right now, not knowing
+5:22
+everything, just applying one thing
+5:24
+consistently. That's everything from
+5:25
+Google this week, new models, smarter
+5:28
+organization, better video, and an agent
+5:30
+that never really clocks out. If you
+5:32
+want help doing exactly that, this is
+5:34
+what we do every week inside the AI
+5:36
+profit boardroom. Everything we walk
+5:37
+through today, the welcome message
+5:39
+prompt for Flash, the onboarding flow
+5:41
+for Flashlight, the notebook collection
+5:42
+for content, the promo video idea for
+5:44
+Omni, the Spark workflow for follow-ups,
+5:46
+those are the exact kinds of builds we
+5:48
+help you set up step by step. We take
+5:50
+releases like this one the same day they
+5:52
+happen and turn them into workflows you
+5:54
+can use to save hours on repeat tasks
+5:56
+and grow your own community or business.
+5:58
+four coaching calls a week where you ask
+6:00
+about your exact setup, daily tutorials
+6:02
+the moment new tools like Spark or
+6:04
+Flashlight roll out and a full community
+6:06
+of people building with these exact
+6:07
+tools right now sharing what's actually
+6:09
+working for them. Link in the
+6:11
+description. And if you want the full
+6:13
+breakdown from today, plus the notes and
+6:15
+prompts, come join the AI success lab.
+6:17
+It's free. You'll get the full write up
+6:19
+from this video and access to a
+6:20
+community of people already deep into
+6:22
+using AI like this every single day.
+6:24
+Links in the description for that one,
+6:25
+too. See you in the next one.
+
+Tout
+
+Regardées
+
+22:24
+FERGIE : La popstar des années 2000 tombée dans l'oubli
+NostalgicKid
+208 k vues
+•
+il y a 10 jours
+
+
+7:41
+La nouvelle mise à jour de Gemini Spark change la donne !
+Goldie SEO
+18 vues
+•
+il y a 9 heures
+Nouveau
+Doublée automatiquement
+
+
+26:15
+Vous avez 45 jours pour faire vos stocks avant que cela n'arrive...
+Sam's Shiny Stocks
+2,4 k vues
+•
+il y a 2 jours
+Nouveau
+Doublée automatiquement
+
+
+8:07
+LE MONSTRE DU VILLAGE DE 160 KG - L'ANOMALIE que personne ne peut expliquer - LE SUPERHUMAIN ANDR...
+RAIDEN ϟ MOTIVATION
+1,2 M de vues
+•
+il y a 1 mois
+
+
+26:35
+Buzz de Jack Dorsey DÉTRUIT Slack ?
+Dr. Firas
+72 vues
+•
+il y a 1 heure
+Nouveau
+
+
+8:43
+La nouvelle mise à jour de Google Gemini Workspace change tout !
+AI News Daily
+217 vues
+•
+il y a 4 jours
+Nouveau
+Doublée automatiquement
+
+
+14:24
+Android 17, c'est nul. Du coup, j'ai installé Linux sur mon téléphone.
+Switch and Click
+1,2 M de vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+26:46
+J'ai entraîné un côté LOURD et l'autre LÉGER pendant 60 jours (mauvaise idée)
+Jeremy Ethier
+4,9 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+28:50
+Apprenez 95 % du Codex en 30 minutes
+Riley Brown
+359 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+408 k vues
+•
+il y a 5 mois
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+671 vues
+•
+il y a 1 mois
+
+
+Le fils de Luke a appelé à l'aide sous une pluie glaciale en Alaska
+6,1 M de vues
+
+
+40 YEARS AGO, WE ALL ARE CHILDREN ONCE🔥 #MJ #wearetheworld #nostalgia #throwback #80smusic #star
+3,2 M de vues
+
+
+Un point important pour avoir un bon physique #essannfc #shorts
+140 k vues
+
+Michael Jackson - Stop In The Name Of Love (Reprise)
+1 M de vues
+
+Détermination, discipline, travail #essannfc
+191 k vues
+
+Ce que ta tenue a la salle dit sur toi
+4 M de vues
+
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+776 k vues
+•
+il y a 2 mois
+
+
+26:41
+Pawn Stars est l'émission la plus truquée de la télévision. Voici les preuves.
+Patrick Cc:
+3,6 M de vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+34:57
+J'ai construit un supercalculateur IA avec 5 Mac Studios
+NetworkChuck
+2,1 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+
+20:39
+Puis-je survivre à l’hiver en Alaska sans sac de couchage, sans tente et sans bâche ?
+Outdoor Boys
+27 M de vues
+•
+il y a 4 ans
+Doublée automatiquement
+
+
+12:49
+Pourquoi tu ne regardes plus Yomi Denzel
+Wizness
+58 k vues
+•
+il y a 9 jours
+
+15:36
+La malédiction des gènes à 1 %
+Arijus
+430 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+418 k vues
+•
+il y a 2 mois
+
+8:50
+Ce qu'Outdoor Boys a dit aux diplômés en droit que les professeurs n'ont pas osé dire
+Daily Wire News
+5,1 M de vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+32:52
+Dragon Ball Z: Frieza Saga - Multiverse | Epic Action Short Film
+J2-industries
+2,7 M de vues
+•
+il y a 1 mois
+
+    

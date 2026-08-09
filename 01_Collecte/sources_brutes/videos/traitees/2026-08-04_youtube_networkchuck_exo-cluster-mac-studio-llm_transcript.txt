@@ -1,0 +1,1064 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+2
+
+Image d'avatar
+J'ai construit un supercalculateur IA avec 5 Mac Studios
+Doublée automatiquement
+NetworkChuck
+NetworkChuck
+5,35 M d’abonnés
+
+Rejoindre
+
+
+52 k
+
+
+Partager
+
+Posez une question
+
+2 190 406 vues  17 févr. 2025  #AI #MacStudio #ExoLabs
+Obtenez l'abonnement NordVPN 2 ans + 4 mois supplémentaires + 6 mois supplémentaires : https://nordvpn.com/networkchuck. C'est sans risque avec la garantie satisfait ou remboursé de 30 jours de Nord !
+
+Je viens d'acheter 5 Mac Studios pour remplacer mes PC de montage vidéo… mais avant de les confier à mes monteurs, il fallait que je les teste. J'ai donc fait une folie : je les ai regroupés pour créer un cluster d'IA ultra-puissant. Mon objectif ? Exécuter Llama 3.1 405B, l'un des plus grands modèles d'IA du marché. Normalement, il faudrait un serveur d'IA plus cher que ma MAISON pour faire fonctionner un tel système. Dans cette vidéo, je vous montre comment j'ai regroupé mes Mac Studios avec Exo Labs.
+
+RESSOURCES ET LIENS
+
+🖥️ Projet Exo Labs : https://github.com/exo-explore/exo
+
+🔧 Vidéo où j'ai créé Terry, mon serveur d'IA local :    • host ALL your AI locally  
+
+📺 Regardez la vidéo Mac Cluster d'Alex Ziskind :    • M4 Mac Mini CLUSTER 🤯  
+
+🔥🔥Rejoignez la NetworkChuck Academy ! : https://ntck.co/NCAcademy
+
+**Sponsorisé par NordVPN
+
+SOUTENEZ NETWORKCHUCK
+---------------------------------------------------
+➡️Abonnement à NetworkChuck : https://ntck.co/Premium
+☕☕ CAFÉ et PRODUITS DÉRIVÉS : https://ntck.co/coffee
+
+Découvrez ma nouvelle chaîne : https://ntck.co/ncclips
+
+🆘🆘 BESOIN D'AIDE ? Rejoignez le serveur Discord :   / discord  
+
+ÉTUDIEZ AVEC MOI SUR TWITCH : https://bit.ly/nc_twitch
+
+PRÊT À APPRENDRE ? ---------------------------------------------------
+-Apprendre Python : https://bit.ly/3rzZjzz 
+-Obtenir sa certification CCNA : https://bit.ly/nc-ccna 
+
+SUIVEZ-MOI PARTOUT
+---------------------------------------------------
+Instagram :   / networkchuck   
+Twitter :   / networkchuck   
+Facebook :   / networkchuck   
+Rejoindre le serveur Discord : http://bit.ly/nc-discord 
+
+AFFILIÉS ET PARRAINAGES
+---------------------------------------------------
+(MATÉRIEL QUE J'UTILISE... MATÉRIEL QUE JE RECOMMANDE)
+Mon matériel réseau : https://geni.us/L6wyIUj 
+Boutique affiliée Amazon : https://www.amazon.com/shop/networkchuck 
+Acheter un Raspberry Pi : https://geni.us/aBeqAL
+Envie de savoir comment je dessine à l'écran ? Rendez-vous sur https://ntck.co/EpicPen et utilisez le code NetworkChuck pour bénéficier de 20 % de réduction !
+Unifi rapide et fiable dans le cloud : https://hostifi.com/?via=chuck
+
+J'ai construit un supercalculateur d'IA avec 5 Mac Studios
+Mac Studios peut-il exécuter Llama 3.1 405B ?
+Exo Labs vous permet de transformer vos Mac en cluster d'IA
+Clustering d'IA sur Mac Studio (Tutoriel)
+Oubliez l'IA cloud : exécutez-la sur vos Mac Studios !
+Comment créer un cluster d'IA avec Exo Labs
+Exécuter des modèles d'IA massifs en local (Expérience sur Mac Studio)
+Que se passe-t-il lorsque vous connectez 5 Mac Studios ?
+L'expérience d'IA la plus folle que j'aie jamais réalisée…
+Ce modèle d'IA coûte plus cher que ma maison !
+Mac Studio vs serveurs d'IA : qui gagne ?
+Le matériel grand public peut-il rivaliser avec les centres de données d'IA ?
+DeepSeek R1 vs Llama 3.1 405B : confrontation entre clusters d'IA
+Mac Studios pour le montage vidéo ? Non, créons un cluster d'IA.
+Ce n'est pas comme ça qu'on est censé utiliser Mac Studios.
+J'ai transformé mon Mac Studios en une véritable centrale d'IA (Guide Exo Labs).
+Clustering d'IA à petit budget : 5 Mac vs le cloud.
+Comment exécuter de grands modèles d'IA sans supercalculateur.
+Exécuter l'IA localement : tout ce que vous devez savoir.
+J'ai forcé 5 Mac Studios à exécuter un modèle d'IA de 405 B.
+
+#AI #MacStudio #ExoLabs
+NetworkChuck explores the capabilities of the new EXO Labs software to create a unified AI cluster using five Apple Mac Studios. The project aims to test the limitations of shared memory architecture for running large language models locally instead of relying on cloud services.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+NetworkChuck
+5,35 M d’abonnés
+Vidéos
+À propos
+
+Twitter
+
+Instagram
+
+Twitch
+true
+24:20
+host ALL your AI locally
+de NetworkChuck
+true
+13:41
+AI Networking is CRAZY!! (but is it fast enough?)
+de NetworkChuck
+Deep Research.....but Open Source
+de NetworkChuck
+the ONLY way to run Deepseek...
+de NetworkChuck
+NetworkChuck Coffee
+NetworkChuck Coffee
+NetworkChuck.coffee
+Effectuer des achats dans le magasin NetworkChuck
+
+
+Default Route 12 oz / Whole Bean
+Zones de livraison limitées
+NetworkChuck
+ 
+
+On-call 12 oz / Standard
+Zones de livraison limitées
+NetworkChuck
+ 
+
+200 Ok 12 oz / Standard
+Zones de livraison limitées
+NetworkChuck
+3 019 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @NetworkChuck
+@NetworkChuck
+il y a 1 an
+Get NordVPN 2Y plan + 4 months extra + 6 MORE months extra:   https://nordvpn.com/networkchuck It’s risk-free with Nord’s 30-day money-back guarantee! 
+
+
+I just bought 5 Mac Studios to replace my video editing PCs… but before I hand them over to my editors, I had to play with them first. So, I did something crazy– I clustered them together to build a super powerful AI cluster. My goal? Run Llama 3.1 405B, one of the biggest AI models out there. Normally, you’d need an AI server that costs more than my HOUSE to run something like this. In this video, I’ll show you exactly how I clustered my Mac Studios together using Exo Labs.
+
+
+
+
+
+RESOURCES & LINKS
+
+
+ Exo labs project: https://github.com/exo-explore/exo
+
+ Video where I built Terry, my LOCAL AI server: https://www.youtube.com/watch?v=Wjrdr0NU4Sk
+
+ Watch Alex Ziskind’s Mac Cluster Video: https://www.youtube.com/watch?v=GBR6pHZ68Ho
+
+
+
+
+Join the NetworkChuck Academy!: https://ntck.co/NCAcademy 
+
+
+
+**Sponsored by NordVPN
+
+187
+
+
+Répondre
+
+
+32 réponses
+
+@Sammitche
+il y a 1 an
+If you cluster them together, does that make them a Big Mac?
+
+10 k
+
+
+Répondre
+
+
+177 réponses
+
+@clemensrh
+il y a 1 an
+You didn’t need to flex on me like this
+
+1,5 k
+
+
+Répondre
+
+
+7 réponses
+
+@Harmxn
+il y a 1 an
+0:13 Deepseek R1: I'm about to destroy this whole man's career
+
+364
+
+
+Répondre
+
+
+8 réponses
+
+@h.e.pennypacker4728
+il y a 1 an
+Imagine 5 Mac studios come into the office and then you have to wait for the boss to stop playing with them
+
+381
+
+
+Répondre
+
+
+2 réponses
+
+@streamstudiosllc
+il y a 1 an
+This didn't age well, can you return them for the M3 Ultra
+
+669
+
+
+Répondre
+
+
+16 réponses
+
+@AZisk
+il y a 1 an (modifié)
+Great video! I did a similar experiment a while back, clustering Mac Minis using EXO for AI inference. It’s interesting to see how the Mac Studio performs in this setup compared to the Mini. EDIT: Just watched the whole thing, thanks for the shoutout Chuck!!
+
+774
+
+
+
+Répondre
+
+
+15 réponses
+
+@woodstocktc
+il y a 10 mois
+i built a frog out of lego.
+
+92
+
+
+Répondre
+
+
+2 réponses
+
+@mtxben
+il y a 1 an
+Now buy the M3 Ultra with 512Gb of RAM and TB5 and try again. Please
+
+820
+
+
+Répondre
+
+
+18 réponses
+
+@glusiator
+il y a 1 an
+If I am not mistaken, this kind of clustering does not use the compute power of all nodes in parallel; instead, it uses memory in parallel when working on a single prompt.
+
+The model split distributes layers among nodes sequentially. For example, if you have 100 layers, then layers 1–20 go to node 1, layers 21–40 go to node 2, and so on, with layers 81–100 assigned to node 5.
+
+Execution runs sequentially: first, node 1 processes its assigned layers, then its result is passed to node 2, and so forth. This means the nodes in such a cluster are utilized in sequence rather than in parallel.
+
+Parallel compute capacity becomes available when running multiple prompts simultaneously. Up to five prompts can be processed in a pipeline—for instance, when the first prompt moves to node 2, node 1 begins working on the second prompt, and so on.
+
+Given this, this type of clustering does not accelerate small models that fit within a single node's memory. Additionally, for larger models, you won't see significant acceleration when running a single prompt at a time. However, this clustering approach allows you to run large models that wouldn't fit into a single node’s memory and potentially achieve better compute efficiency when processing multiple prompts in parallel.
+
+307
+
+
+Répondre
+
+
+23 réponses
+
+@DindyalSahani-e3z
+il y a 1 an
+This AI thing is scary but the thing about 12 Codes of Collapse is that it doesn’t just scare you. It changes how you look at everything. Every news headline, every AI tool launch, every global incident — it all starts to feel like echoes of the book. And you can’t tell anymore if Velin predicted the future or if we’re just slowly catching up to what he already knew. And that realization… that’s the part that truly haunts you.
+
+955
+
+
+Répondre
+
+
+9 réponses
+
+@roarchestra
+il y a 1 an
+You should put all your raspberry pis together and see the biggest model they can run!
+
+129
+
+
+Répondre
+
+
+1 réponse
+
+@Magnetardo
+il y a 1 an
+15 years in the future his video will be titled, "I built an AI superbot with 3 Apple Watches".
+
+18
+
+
+Répondre
+
+
+@Zephyrdynamics
+il y a 1 an
+1:43 - SO I'm NOT THE ONLY ONE WHO DOES THAT!
+
+51
+
+
+Répondre
+
+
+2 réponses
+
+@AA-rc8uy
+il y a 1 an (modifié)
+The entire video, I kept checking if the coffee spilled or not. I couldn't focus on the video and need to watch it again. Especially 6:08
+
+7
+
+
+Répondre
+
+
+@adrianc8140
+il y a 1 an
+Just a heads up, internal memory speed and network speed are measured using different units. Internal memory and unified memory speed is measured in gigabytes per second, whereas networks are measured in gigabits per second. That means your 10gig networking runs at 1.25 gigabytes per second max.
+
+9
+
+
+Répondre
+
+
+@merion297
+il y a 1 an
+Yes, yes, please, let's see a PC cluster! 
+
+29
+
+
+Répondre
+
+
+@its_ot
+il y a 1 an
+I'm patiently waiting for Project DIGITS and your video on them. can't wait!
+
+28
+
+
+Répondre
+
+
+@badazzmorris
+il y a 1 an
+The ADD production cuts in these videos are insane and fry my head. Can’t argue with his views and subs though
+
+4
+
+
+Répondre
+
+
+@silverwolf6236
+il y a 1 an
+These videos will always be crazy to me. Whenever I see people talk about running AI locally I think they have an old retired server somewhere in their house, but here you are with a small stack of Macs in your kitchen doing it lol
+
+88
+
+
+Répondre
+
+
+3 réponses
+    
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+0:000 seconde1, 2, 3, 4, 5 Max studios. I'm connecting them together and forming a super powerful AI cluster. Why?
+0:088 secondesI want to run the biggest and baddest AI models I can find. We're throwing everything at it and my goal is to run the biggest of them all.
+0:1414 secondesThe llama 3.1405 B model. This thing is scary.
+0:1919 secondesIt's normally run by super powerful AI clusters in the cloud with servers that cost more than our houses, but we're going to try it now with five Mac Studios.
+0:2929 secondesCan we do it? I don't know, but we're going to try get you coffee ready?
+0:3232 secondesLet's go and thank you to nor VPN for sponsoring this video and making it possible. Yes, they are paying me to play with AI and show you cool stuff.
+0:4040 secondesIt's kind of awesome. We'll talk more about them later. Now lemme get this out there.
+0:4343 secondesI did not just buy five Mac Studios to use it for an AI cluster. I mean it's not beyond me. I would do that, but here at Network Chuck Studios, we're switching from PC to Mac for our video editing pipeline.
+0:5454 secondesComment below if you think that's a good idea. I'm sure we all agree, but when these beautiful, powerful machines arrived, I'm like, you know what? I can't give it to these guys yet. I want to play with them first.
+1:031 minute et 3 secondesAnd I just found this software called XO Labs. It's new, it's beta, but they're all about AI clustering. Check this out.
+1:101 minute et 10 secondesYou can take any type of computer hardware. I'm talking a raspberry pie, a spare laptop, a super powerful gaming PC with a 40 90, and you can connect them together and just have them run AI models.
+1:211 minute et 21 secondesThey share the resources. It's actually kind of easy to do.
+1:241 minute et 24 secondesI'm going to show you how to do it in this video, but first I got to open up all these Mac studios and honestly, this was probably my favorite part of the video. I don't know what it is.
+1:311 minute et 31 secondesThere's something about opening new tech, unboxing new hardware that just makes you feel joy and it's anything, a network switch, a router. It just makes me happy. Are you the same way?
+1:411 minute et 41 secondesAnyways, I unbox them. They're beautiful. I did smell them one time.
+1:441 minute et 44 secondesThey smelled amazing. But before we get crazy, I first want to talk about AI clusters. Why do this now? I already have a dedicated AI server. His name is Terry.
+1:521 minute et 52 secondesI built him in this video here and he's awesome.
+1:541 minute et 54 secondesHe enables me to run local AI models here in my studio, meaning I don't talk to the cloud and rely on scary giant companies like Open AI to run things like chat, GPT. Everything's local. They don't get my data.
+2:052 minutes et 5 secondesBut the reason I had to build Terry who's rocking 2 40 90 GPUs is because running AI models, it's resource intensive sometimes because right now your computer,
+2:142 minutes et 14 secondesthe one you're watching me on, can probably run an AI model in moments. You could download O lama, run LAMA 3.21 B, and it works really well.
+2:212 minutes et 21 secondesYou can talk to it like Chad GPT, but it's not going to feel like chat GPT, it's not as smart. And you'll notice that really quickly.
+2:272 minutes et 27 secondesThe difference is kind of crazy. To get the quality of chat GPT, you'll have to use a bigger, more sophisticated local model and this is where your laptop isn't going to cut it. And when I say larger, I'm mainly talking about a thing called parameters.
+2:382 minutes et 38 secondesSo I mentioned LAMA 3.21 B. Let's break that down.
+2:412 minutes et 41 secondesThis is a relatively small model and that one B stands for 1 billion, 1 billion parameters. When you think about a parameter in the context of ai, each one represents learned knowledge.
+2:522 minutes et 52 secondesEach of these parameters is a numerical value or weight in a neural network. And they help the model make predictions and then that's what a model's doing.
+2:592 minutes et 59 secondesWhen you're talking to it, it predicts what the response should be.
+3:023 minutes et 2 secondesBased on what you're saying, you can actually think of a parameter as learned knowledge and the more parameters the model has, the more patterns, relationships and nuances.
+3:093 minutes et 9 secondesIt can learn from data or essentially the more parameters it has, the smarter it is. Now a 1 billion parameter model like LAMA 3.2, it's good for simple tasks. You can talk to it.
+3:183 minutes et 18 secondesIt does basic sentence completion. It can summarize stuff and you can run it on things like CPU. GPU is going to be better, but it has weaker reasoning and factual accuracy.
+3:273 minutes et 27 secondesI'm kind of using llama 3.2 as our baseline. We could go lower.
+3:303 minutes et 30 secondesThey have lower parameter models that get dumber, but they have their use cases and if you want to run it on a raspberry pie, you'll have better performance. I think there's one called Tiny Llama. Lemme go find it actually.
+3:393 minutes et 39 secondesAnd that is the Tiny Llama. It's pretty cute. Now check this out.
+3:413 minutes et 41 secondesTiny Llama is actually a 1.1 billion parameter model, but because of quantization, we'll talk more about that later.
+3:473 minutes et 47 secondesYou can run it with less resources. 638 megabytes of vra vra, what is that? That's video ram.
+3:543 minutes et 54 secondesSo this is not your typical memory or RAM on your computer.
+3:573 minutes et 57 secondesThis is memory that your GPU has. And yes, when we're talking about running local ai, GPU is the name of the game. If you have one, your life will be better.
+4:054 minutes et 5 secondesIt doesn't mean you can't run LLMs like Tiny Llama on A CPU. You can, but the inference or having the conversation will be slower.
+4:124 minutes et 12 secondesNow of course we can go up. So with LAMA 3.2 as our baseline, I'll give you some recommended vra, like what kind of GPU you might need for each Model LAMA 3.21 billion
+4:214 minutes et 21 secondesparameters. It's recommended you have four gigabytes of vra. Again, you can use CPU, it'll be slow LAMA 3.2, three B, 3 billion parameters.
+4:284 minutes et 28 secondesYou'll need six gigabytes of vra, so think a 2060 GPU Lama, 3.18 B 8 billion parameters, 10 gigabytes of V ramm.
+4:364 minutes et 36 secondesThat's going to be a 30 85 4 from Microsoft, 14 billion parameters. You'll need 16 gigabytes of V ram. That's going to be a 30 90.
+4:424 minutes et 42 secondesAnd then here's my favorite local AI model. Right now, the LAMA 3.3 70 B 70 billion parameters for this.
+4:494 minutes et 49 secondesThere is not a consumer GPU that can do it right now. You'll need 48 gigabytes of vra. For me to run that I have to use two 40 nineties. And then let's get crazy.
+4:574 minutes et 57 secondesIf we go one more up, we've got the llama 3.1, 4 0 5 B 405 billion parameters. Now real quick,
+5:055 minutes et 5 secondesone thing you might be wondering, you saw me jump from llama 3.2 then to LAMA 3.1, then to 3.3 and then to 3.1. Again, what's happening?
+5:135 minutes et 13 secondesThose are the different generations of models trained on newer data and having a few new features. But just because LAMA 3.21 B is newer, it doesn't mean it's more intelligent or has better reasoning than LAMA 3.18 B.
+5:245 minutes et 24 secondesAnyways, getting back to the 4 0 5 B to run this sucker, they recommend one terabyte of vra. That's unreal.
+5:315 minutes et 31 secondesThat's going to be an AI cluster and it's not regular GPUs you're going to be using.
+5:355 minutes et 35 secondesYou'll be using NVIDIA's H one hundreds or a one hundreds and this is what I'm aiming for with my cluster. Think about the best GPU on the market right now.
+5:425 minutes et 42 secondesA 40 90, it has 24 gigabytes of vra.
+5:455 minutes et 45 secondesI would need 42 40 nineties to run that. Now just so you know, for those of you who might know a thing or two about running LLMs,
+5:525 minutes et 52 secondesthese numbers probably look a little off and that's because a lot of these already have quantization built into our metrics. What is that?
+5:595 minutes et 59 secondesQuantization could be its own video. We're not going to do that right now.
+6:016 minutes et 1 secondeJust know what makes big models fit on smaller GPUs. Now, it doesn't come without a cost.
+6:066 minutes et 6 secondesThey do have to reduce some precision to get that to fit on a smaller GPU, but they do it in a way to try and maintain accuracy.
+6:126 minutes et 12 secondesYou'll know a model is quantized, is that how you say it? Quantized? Yeah.
+6:166 minutes et 16 secondesThat's what you do when you see certain notations. So for example, FP 32, that's full precision, no alterations FP 16 half.
+6:256 minutes et 25 secondesNow when I say half precision, it doesn't mean it's like half is bad. We're talking a zero to 2% loss in precision.
+6:306 minutes et 30 secondesBut then we get into integer based quantization, and this is where it's fun for us because we can run stuff on our GPUs, our consumer GPUs.
+6:376 minutes et 37 secondesThe first big one is ENT eight. This will make the model four times smaller with about a one to 3% loss in precision. Now I say that with a giant asterisk.
+6:456 minutes et 45 secondesIt depends. It depends on how they ize that model.
+6:496 minutes et 49 secondesThere are different ways you can do that and those different methods change how they try to reduce the loss. Again, that's a whole other video, but just know as we go down to N four, which is as low as you really want to go.
+7:007 minutesThis is eight times smaller than the full FP 32 model, but the loss is pretty big, 10 to 30%.
+7:057 minutes et 5 secondesAnd you'll probably notice the degradation for complex task like coding or logical reasoning or creative text go any lower and it loses its mind.
+7:137 minutes et 13 secondesWe're talking ARCA asylum.
+7:147 minutes et 14 secondesSo many of these models over here are actually using N to eight to make themselves smaller so they can fit on consumer level GPUs. And four is what I'm going to try and use with LAMA 3.1, 4 0 5 B.
+7:247 minutes et 24 secondesNow I'm not going to ize it myself. Someone's already done that for me.
+7:287 minutes et 28 secondesI'm just going to try and run it. But even with that quantization, it's a tall order.
+7:337 minutes et 33 secondesSo how do I expect five max studios to run this model when it would take 42 40 nineties to do this? Well, the new M series max have a trick up their sleeve.
+7:417 minutes et 41 secondesIt's a thing called unified memory or unified memory architecture.
+7:447 minutes et 44 secondesSo in most systems you have your system memory and you have your V ram, your GPU memory. The new Macs don't do that.
+7:497 minutes et 49 secondesThey have one pool of memory for everything and that unlocks something pretty cool because you can get a Mac. For example. In my Mac studios,
+7:567 minutes et 56 secondeseach one of these has 64 gigabytes of ram that's shared RAM that can be used for the GPU. So in my mind I'm thinking 64 times five.
+8:068 minutes et 6 secondesWhat does that give me? 320 gigabytes of RAM that can be used for the GPU.
+8:098 minutes et 9 secondesAnd it's not just the amount of ram but it's the transfer. In a typical system, you've got the system memory that has to transfer data between itself and the GPU memory. With unified memory, there's no transfer.
+8:208 minutes et 20 secondesIt's just all using that memory. One of these max studios is $2,600 and that's for the entire computer. 1 40 90,
+8:268 minutes et 26 secondesjust one piece of your gaming PC will cost you 1600 bucks and I get way more RAM to use from my GPU with the Mac. Not to mention it's extremely power efficient.
+8:358 minutes et 35 secondesIt's ridiculous.
+8:368 minutes et 36 secondesThe power consumption on a 40 90 versus a Mac studio you're about to see, but it's not apples to apples, it's apple to pc.
+8:428 minutes et 42 secondesWhat I mean is that if you put a 40 90 gaming PC head to head with a Mac studio, the PC is going to win every time Nvidia GPU like the 40 90 have dedicated
+8:508 minutes et 50 secondestensor cores. They're optimized for cuda. What does all that mean? Well, those are the things that AI models have been optimized for a long time.
+8:578 minutes et 57 secondesSER Max have not been thought of as AI machines up until now.
+9:019 minutes et 1 secondeIt's just been Nvidia. So whenever someone makes a new model, they're making that model to run on Nvidia GPUs, you're going to have a better time. Now,
+9:079 minutes et 7 secondesapple does have something called MLX or Machine Learning Acceleration, and I'll actually be using that with XO labs, but Kuda still wins out because of support.
+9:249 minutes et 24 secondesOkay, here we go. We're about to test. We have our five max studios, which by the way, here are the specs. They're M two Ultras, 64 gigabytes each of Ram Unified ram.
+9:329 minutes et 32 secondesNow the first big thing we have to figure out is how do we connect these Macs together? They're going to be clustered, which means they're going to be talking a lot and that's a lot of bandwidth for our scenario. I went with the built-in 10 gigabit ethernet connection.
+9:429 minutes et 42 secondesSo over here I have a unified XG six POE 10 gig switch connecting these five Macs together. This however, will be our biggest bottleneck, not ideal. Now,
+9:519 minutes et 51 secondes10 gig sounds like a lot, but with AI networking, they normally have extremely high speed connections.
+9:589 minutes et 58 secondesI'm talking 400 gigabits per second. In fact, last year I did a video on AI networking working with Juniper, and they were about to come out with 800 gigabit per second connections, which I'm pretty sure is out. So my 10 versus their 800.
+10:1010 minutes et 10 secondesAnd it's not just that AI networking and we're talking enterprise AI networking.
+10:1410 minutes et 14 secondesThey eliminate a ton of the networking overhead that you might see with ethernet and T-C-P-I-P. In many situations we're doing GPU to GPU access,
+10:2210 minutes et 22 secondesskipping a lot of the OS overhead, but for us, we've got our MAX studios and they have to go through the entire TCP IP stack.
+10:2910 minutes et 29 secondesNow, the reason this matters so much is that our Macs, when I install the EXO software, it will actually take whatever model we're going to use.
+10:3610 minutes et 36 secondesSo let's say for example, llama 3.28 B, it won't download the entire model on each individual Mac.
+10:4310 minutes et 43 secondesIt'll actually split up the download. And when we're running our AI model, each Mac will be running part of the job.
+10:4810 minutes et 48 secondesBut like any good team that depends on efficient communication, they're going to be talking a lot back and forth, extremely large amounts of data. In fact, I'm going to try and see that as we're testing it,
+10:5710 minutes et 57 secondeswe're going to be tracking the amount of power we're using and bandwidth. Now, there is a way with my Mac studios to get more bandwidth, and that's with Thunderbolt. Alex Ziskin, I think it's how you say his name, another YouTuber I just started watching.
+11:0611 minutes et 6 secondesHe did this with a bunch of M four Mac minis.
+11:0811 minutes et 8 secondesThunderbolt is powerful because you get direct PCIE access and bandwidth up to 40 gigabits per second. Ideally, the only problem is when you get to where you want to cluster together, five,
+11:1811 minutes et 18 secondesyou only have so many connections and you can't daisy chain all of them. Now, the way you can solve this is by using a thunderbolt hub or bridge,
+11:2411 minutes et 24 secondesand that's what he did. But you still will have some bottlenecks. By the way, you should watch this video to see how Thunderbolt performs versus ethernet, which we're about to do right now. Hey, network truck from the future here.
+11:3311 minutes et 33 secondesI actually ended up testing Thunderbolt because I just had to, the 10 gig was such a bottleneck, you'll see. And yeah, that's all I got back to me. But now we're finally at the point to install xo.
+11:4411 minutes et 44 secondesI'll have a link to the project below and I will demo how to install XO on a Mac for Linux. They do have documentation, but the install is pretty much the same. Really, I think the Mac is the harder version.
+11:5311 minutes et 53 secondesA couple of things you want to make sure you have Python three point 12 installed. I'll go and do that right now.
+11:5811 minutes et 58 secondesI like to use PI ENV to manage my Python versions. And then with PI ENV, I can install Python three point 12 and I'll do this on all Macs.
+12:0512 minutes et 5 secondesAnd by the way, let's get home assistant up. I'm actually using a smart plug to measure the amount of power I'm drawing with all five Macs.
+12:1112 minutes et 11 secondesSo right now at a kind a baseline, we're pulling 46 watts and that's for all five Maxs. Isn't that crazy? Alright, Python 12 installed. I'll set it is my global PI EMV global three point 12.
+12:2112 minutes et 21 secondesAnd I'll just verify real quick with python dash dash version. Oh, I probably need to refresh my terminal. I'll do a source ESH rrc, try it once more. Perfect.
+12:3012 minutes et 30 secondesThe first thing I'll do is install MLX machine learning acceleration for M1 max.
+12:3512 minutes et 35 secondesI'll do that with PIP install MLX. Keeping in mind, this is very specific to MAC deployments. Notice it is very quick.
+12:4112 minutes et 41 secondesAnd by the way, if you find that you don't have PIP installed, you can get PIP in all the things you need installed with the X code dash select dash install command. Okay, MLX installed on all my Macs.
+12:5112 minutes et 51 secondesNow time to install xo. This will be the easiest part. Just going to grab a gate clone command to clone their repo. I'll do that on every one of my Macs here.
+12:5712 minutes et 57 secondesJump into that XO directory and then we'll use the command PIP install dash e dot and take a little coffee break. Now while it's doing that,
+13:0513 minutes et 5 secondesa couple of cool things you'll want to know about xo. First, you're about to see this when we run xo, the max will just discover each other through magic, I mean through networking stuff, right?
+13:1513 minutes et 15 secondesBut they will automatically discover each other and recognize that they're on a cluster. XO will also launch a GUI for us, a web interface so that we can look at it, play with it, and test some LLMs.
+13:2413 minutes et 24 secondesSpeaking of LLMs, they also have a chat GBT compatible or open AI compatible API, which means that if you actually want to use xo,
+13:3213 minutes et 32 secondeseven though it is still in beta, still fairly new, you can integrate this into anything that also uses the open AI API, which is many tools I use. In fact, I just reached out to Daniel Mesler,
+13:4113 minutes et 41 secondesthe guy who runs the fabric project. I use fabric every day and I'm like, Hey, can you add XO labs to this? He's like, yes, I'm on it. Actually, by the time you watch this video, it's probably already there. Alright, it looks like our installation is complete. Now this is very max specific.
+13:5413 minutes et 54 secondesIf I ls the directory, I'm currently in the XO directory.
+13:5713 minutes et 57 secondesYou'll see I have a script called configure ml x sh running that will tune up your max a bit to run xo. So I'll run that on each Mac.
+14:0414 minutes et 4 secondesI might want to put pseudo in front of that so you don't have to put your password in either way. Notice it did some things, honestly, I have no idea what that's doing.
+14:1114 minutes et 11 secondesAnd now we're at the point where we can just run xo. So I'll run it on the first one here. Xo, xo, xo, xo.
+14:1914 minutes et 19 secondesAnd then there's one behind it. There we have five.
+14:2114 minutes et 21 secondesI can't get to the other terminal. Where yet, buddy? Oh, there he is. Xo, are you seeing this?
+14:2714 minutes et 27 secondesSo immediately XO discovered that there are five nodes in its cluster. Just auto discover. Actually I'm going to stop them real quick.
+14:3414 minutes et 34 secondesSo I want you to see how it rates each machine.
+14:3714 minutes et 37 secondesSo I'll just run one instance of XO right here, a cluster of one. Alright, so notice here we got 26.98 tariff flops. We're closer to the GPU pore side than the GPU Rich.
+14:4614 minutes et 46 secondesI'll show my 40 90 performance right here. I'm normally right around here, but when I start running the rest of the cluster here, it'll discover the other nodes. And now when I operate one more, we'll see it.
+14:5514 minutes et 55 secondesDiscover two nodes even shows the connection down here and it increases or doubles my tariff flops. Now I'm going to only operate one right now and let's
+15:0315 minutes et 3 secondestest an LLM just to get our base performance for one Mac. Alright, we're down to one cluster. Now when you want to access your gui, it'll be port 5 2 4 1 5 and this is for 10 72 and 1 6 9.
+15:1215 minutes et 12 secondesSo I'll launch my browser here and there we go. Notice on the left here we can select our model. It won't download it just by selecting it.
+15:1815 minutes et 18 secondesIt's like if I click on seven db it want to do seven db, but I'll click on one B and when I start typing, it'll try and download it.
+15:2315 minutes et 23 secondesSo I'll just say, Hey, how are you doing? Downloading it now and cool, it's working now. And then notice right here we have our performance.
+15:3215 minutes et 32 secondesIt's documenting for us. And what you want to focus on is the tokens per second.
+15:3515 minutes et 35 secondesLet's say, tell me a scary story about computers. So averaging about 117 tokens per second just by itself,
+15:4515 minutes et 45 secondesgiven that this is a small model and one of these Mac studios can run that, no problem, no sweat. Now what I want to test now is the network bottleneck.
+15:5215 minutes et 52 secondesIf I introduce the other four Mac into a cluster and we divide up the jobs, what will happen? What will it look like? Let's do that now.
+16:0016 minutesSo I'm actually going to delete the model here and go add my other Macs. That's what I'm, watch 'em come up here. We got two, three.
+16:0716 minutes et 7 secondesClustering together is so easy. Four and five notes. Let's test it out. Now I'll go ahead and start talking to it to download the model.
+16:1516 minutes et 15 secondesIt's downloading. It looks like the entire model on each one. So maybe I was wrong about that or maybe there's a bug, I don't know.
+16:2216 minutes et 22 secondesBut either way, we can see our clusters working because it's obviously downloading on every one.
+16:2616 minutes et 26 secondesLet's try and do that same prompt as before, telling me a scary story about computers.
+16:3216 minutes et 32 secondesSo wow, the bandwidth limitations are massive 29 tokens per second versus the 117 we were doing before. So speed is not going to be our friend here. I expected that.
+16:4316 minutes et 43 secondesWhat I'm more excited about is the amount of RAM we have and being able to run bigger models. Hey, guess what time it is? Coffee break time. During this break,
+16:5016 minutes et 50 secondesI want to tell you about my sponsor nor VPN. Now hold on, before you click that little fast forward button, just know they make videos like this possible.
+16:5716 minutes et 57 secondesSo please show them some love because I want to tell you three ways I use A VPN right now. Number one, I use it to give me a bit of anonymity.
+17:0417 minutes et 4 secondesWhen you're accessing a website, many websites will use your public IP address to identify who you are. They'll use different tracking techniques.
+17:1017 minutes et 10 secondesEssentially when you're stepping around on the internet, you're leaving a footprint and they're tracking that.
+17:1417 minutes et 14 secondesSo I'll use North PN to hide me and also kind of tricking websites to think I'm someone else. It's a great tool for IT people to quickly change who you are, your identity online. Number two, watch a ton of movies.
+17:2517 minutes et 25 secondesDid you know that Japan, Netflix looks different from American Netflix, same goes for UK and other regions, but if you're using nor VPN,
+17:3317 minutes et 33 secondesyou can quickly put yourself in the uk in Japan, and suddenly Netflix thinks you're in Japan and they show you Netflix, Japan.
+17:4017 minutes et 40 secondesNow, you may have heard this before, but then my producer Alex did something insane. He uses this app called Letterbox. In fact, Alex throw it up right here.
+17:4617 minutes et 46 secondesBut one thing it will show you is when you're looking up a movie, it'll you where you can watch that movie on all the streaming services. But he added all the streaming services for every single country.
+17:5517 minutes et 55 secondesSo now when he wants to watch a movie, he can watch that movie before he would just simply rent it when it wasn't available in the us. Now he just turns on VPN changes his location, boom.
+18:0418 minutes et 4 secondesAnd yeah, you can run more VPN on things like an Apple tv. And number three, I'll use A VPN to protect myself and my family when we're away from the house when we're using our devices. And yes, that does include connecting to weird wifi networks.
+18:1518 minutes et 15 secondesNot many VPN haters will say you don't need a VPN anymore on the internet because most websites are HTT BS, meaning your connection between yourself and the website server is secure.
+18:2318 minutes et 23 secondesAnd that's true for a lot of the internet. That's awesome.
+18:2618 minutes et 26 secondesBut what if you get to a website that does have SSL, but it's not a good website. It doesn't matter if it's encrypted.
+18:3118 minutes et 31 secondesOne way that people do this is a thing called typo squatting typing of your website. So it might be netflix.com instead of Netflix,
+18:3818 minutes et 38 secondeswhich in an ideal world would go nowhere. But people buy these websites, bad people and put up a Netflix feeling place. But with nor VPN, they do have things like threat protection probe.
+18:4718 minutes et 47 secondesThey'll tell you when websites you're visiting are bad. Also, they'll protect you from ads. Ads suck except for this one.
+18:5318 minutes et 53 secondesThis one's awesome and you know it, but I put a lot of effort into blocking ads on my home networks and my business networks. But when we're out and about them, ads are looking at us getting hungry, turn on nor VPN, it will block ads.
+19:0319 minutes et 3 secondesSo yes, using a VPN is very much a valid thing to do in 2025. I highly recommend it. I use it all the time. So check off the link below nor vpn.com/network.
+19:1219 minutes et 12 secondesCheck or scan this new fancy QR code. Is the QR code safe? I don't know. Scan it, get nor vpn and then scan it again to see if you are safe.
+19:2019 minutes et 20 secondesAnd of course if you use my link, you get a special deal. What are you waiting for? Check this out. Actually it's a New Year's big savings plus four extra months.
+19:2619 minutes et 26 secondesI'm going to get it three bucks a month. Anyways, thanks to nor VPN for sponsoring this video and making stuff like this possible.
+19:3319 minutes et 33 secondesNow back to clustering AI stuff. Now let's see what Thunderbolt does.
+19:3719 minutes et 37 secondesI'm going to go connect my Thunderbolt stuff right now. Alright, Thunderbolt connected. Now how did I connect these hosts? I'll show you a video of it right now. Here's some B-roll.
+19:4319 minutes et 43 secondesBut essentially we're doing kind of a spoken hub situation. We got one Mac connected to all the other Macs, obviously a less than ideal situation because this guy does become a bottleneck,
+19:5319 minutes et 53 secondesbut we're talking about 40 gig get per second networking between these guys at a nice little thunderbolt bridge here.
+19:5819 minutes et 58 secondesThunderbolt networking isn't quite as advanced as regular T-C-P-I-P based networking or ethernet.
+20:0320 minutes et 3 secondesSo this is the best I could do without pulling my hair out with advanced configs because I don't want to do that. So I assign static ips to all of them.
+20:1020 minutes et 10 secondesAnd XO by default should choose the fastest connection. Let's see if it does. And sure enough, we can see that the bridge zero thunderbolt is monitored.
+20:1820 minutes et 18 secondesAnd before we run all of them, I do want to test one host. Well, not one host.
+20:2320 minutes et 23 secondesWe already know how one host performs. Let's test two first. Alright, we got Thunderbolt connection between two hosts should be very, very quick. Let's feed it a prompt and have some fun. Okay,
+20:3220 minutes et 32 secondesit is slightly faster. I think before with 10 gigabit networking, we're talking about 50 tokens per second. So it's significant. Let's add three.
+20:3920 minutes et 39 secondesJoin the party friend. Yeah, let's do the same prompt.
+20:4220 minutes et 42 secondesStill it's better than it was before, but notice even with Thunderbolt, we're hitting that now why is Thunderbolt better, more bandwidth?
+20:5020 minutes et 50 secondesThat's obvious, but it also has a more direct access to PCIE. Less overhead, more direct. Let's add the team. Come on in guys. Alright,
+20:5920 minutes et 59 secondeswe got a cluster of five. Let's see how we do. Okay, that's actually not bad. It's like, wait, you just told me and then you're telling me you can't make up your mind.
+21:1021 minutes et 10 secondesLet's try this one. Okay, so all hosts are being used. Let's try this prompt and watch the networking happen.
+21:1721 minutes et 17 secondesSo bandwidth usage is obviously pretty much the same. We expected that right now. Let's test a bigger model. The LAMA 3.3 70 B.
+21:2421 minutes et 24 secondesMy favorite model actually deep seek R one just came out.
+21:2721 minutes et 27 secondesI haven't played with that yet, but I'm going to go disconnect the Thunderbolt connections and we'll run 10 gigabit on the first test. Okay, running XO on just one host running the LAMA 3.37 db.
+21:3621 minutes et 36 secondesI expect it to be pretty good. This is a quantized model four bit, should be able to run everything. And let's see how this performs. Here's the host right here. Watch the RAM usage. Just go crazy.
+21:4621 minutes et 46 secondesAnd the seconds to first token are taken a bit and then the GPU takes off.
+21:4921 minutes et 49 secondesSo 15 seconds to the first token, it was just loaded and the performance is less than great. Now I will say this, we're going to test llama after this. For whatever reason, the models and llama are better. I'm not sure what they're doing.
+22:0022 minutesAnd when I say better, they seem to perform better. I'm not actually sure if they are better. Okay, let's stop this nonsense. Let's try two 70 B. We'll ask the same question.
+22:0922 minutes et 9 secondesTake a look at our metrics here and let's go.
+22:1222 minutes et 12 secondesGot to download part of it to the other host. Alright, memory's coming in hot, you know it's not doing too bad. Better than I expected.
+22:1922 minutes et 19 secondesLet's check the networking. All right, networking testing.
+22:2222 minutes et 22 secondesNow is it just me or is it using less bandwidth than before? That's funny. Alright, let's add 'em all in.
+22:3322 minutes et 33 secondesAll five are having a party. Got our monitoring up, asking a question. Now let's see how it performs. Oh, got to download one more bit. Two minutes.
+22:4122 minutes et 41 secondesKilling me. Now this honestly is the most painful part of making this video.
+22:4622 minutes et 46 secondesAnd probably for you if you're ever going to use this, it's waiting for these models to download. This video took me way too long. I anticipated one day for this video. Oh no, no, no, no, no. Foolish Chuck.
+22:5622 minutes et 56 secondesI wish, and I think it's coming.
+22:5822 minutes et 58 secondesI saw a few pull requests on GitHub that you could host the models locally and then pull those down.
+23:0323 minutes et 3 secondesI do love the fact that they break up the model across your network, but it would be so much faster if the model was local if we didn't have to pull it from hugging face each time. Alright,
+23:1123 minutes et 11 secondesnow we can finally try it. I think here we sneaking go, Hey, that's actually not bad. We're using all hosts, 15 tokens a second.
+23:1923 minutes et 19 secondesMemory usage is good. GPU spread across all our hosts.
+23:2323 minutes et 23 secondesI'm happy with this. Not the fastest thing in the world, but it's stinking working. I love this. Let's test networking. All right,
+23:3023 minutes et 30 secondeswe got our networking monitoring set up. We'll launch XO once more, five nodes up and let's test it out and watch the networking go crazy,
+23:3923 minutes et 39 secondesI'm assuming. Yeah, here we go. Okay, so we're distributing the network traffic across all the hosts.
+23:4323 minutes et 43 secondesWhat's funny though is, I dunno if it's just IF top, that's acting kind of crazy, but it's showing like Deb two is my computer and it's showing me being the
+23:5023 minutes et 50 secondeshighest bandwidth receiver. It's kind of weird, but looking at the cumulative, I mean 64 megabits per second, that's bites. And we're getting about 10 tokens a second. Let's test Thunder Bowl.
+23:5923 minutes et 59 secondesWe'll test two hosts, just as we did before. Let's see how we do.
+24:0224 minutes et 2 secondesSo watch two hosts just go crazy. And performance is, I mean we are using Thunderbolt, right? Yeah. Using Thunderbolt performance is meh. We're not using any swap are we?
+24:1224 minutes et 12 secondesSo no swap ram meaning. So if we ran out of ram, it would switch over to swap, which means it would start to borrow Ram space from the hard drives. The SSDs,
+24:2124 minutes et 21 secondeswhich are less performant, not as fast ran is extremely fast, which is why it costs so much. Alright,
+24:2724 minutes et 27 secondeslet's test the team. Alright, five hosts, Thunderbolt bridge 70 B. Let's see how we do. Hey,
+24:3624 minutes et 36 secondesthat's not too bad that actually I'm happy with 11 tokens per second steps being spread across. Man, if we could figure out this bandwidth issue, that would be killer.
+24:4324 minutes et 43 secondesI don't know how exo labs are going to solve that though because we're at the mercy of what hardware we have. Maybe they'll figure out something clever.
+24:5124 minutes et 51 secondesLet's check the networking and then we'll jump into our final test.
+24:5424 minutes et 54 secondesCan we run the 4 0 5 B? Now at the beginning of this video, I did say the 4 0 5 B is the biggest baddest of 'em all deep seek R one just came out a local model supposed to outperform O one in a reasoning.
+25:0625 minutes et 6 secondesAnd their biggest one is the 6 71 B, which is just a behemoth. And no, I cannot run that.
+25:1225 minutes et 12 secondesThat's way too big. I like doing the thunderbolt run because on the networking side, it's very obvious that the hosts aren't talking to me because they're on their own little private network. Full thunderbolt bridge connection.
+25:2525 minutes et 25 secondesLet's ask it a fun question. Let's see if it'll do this. Ready, set, go. Okay, so still 10 tokens per second watching the networking.
+25:3325 minutes et 33 secondesIt's funny and we're not seeing a lot, are we? That's weird. Is it not using the Thunderbolt bridge? They're definitely connected in that way. Am I losing my mind here? I'm monitoring these interfaces, right?
+25:4225 minutes et 42 secondesWhy is the scale all the way up here to 19 megabits when I'm not seeing the progress go, I'm probably just doing something wrong. It's kind of strange.
+25:5025 minutes et 50 secondesOkay, enough of that. So 70 B, we know we can run this, but now I want to run the biggest, baddest model of them all.
+25:5725 minutes et 57 secondesWe'll see if we can run it on 10 gig first. Now I will say this, to run this model, it took me a bit because to download that model,
+26:0526 minutes et 5 secondesit is so stinking large. And yes, it's amazing that I can just click on say something.
+26:1326 minutes et 13 secondesWhen I went to the 4 0 5 B up here, let's see, because they have it sitting right here and it would start to download to all my hosts, but it took forever. And when it finished, it was still kind of buggy.
+26:2226 minutes et 22 secondesI didn't trust it. So I wanted to download it locally and run it locally.
+26:2626 minutes et 26 secondesBut that involved me finding a pull request that allowed that a feature that wasn't involved yet. So I did that. I checked it out.
+26:3226 minutes et 32 secondesI'm currently on that branch. And looking down here, you'll see I have a local 4 0 5 4 bit model.
+26:4026 minutes et 40 secondesNow I'm not even going to try around this on one host. It'll kill itself. Actually, you know what?
+26:4326 minutes et 43 secondesWe should just do that for fun just to see it happen. So running one host, and by the way, I did have to download the entire model,
+26:5026 minutes et 50 secondeswhich I think is roughly 200, almost 200 gigs, and then put it on each host, which was way more efficient than downloading it from hugging face. Alright,
+27:0027 minutesto tell me a story, watch this ram load up. It's like, ah, ah, it's about to scream. And then you'll probably see the swap.
+27:0927 minutes et 9 secondesI mean you'll definitely see it, I believe. Watch the swap right here. We're at 50. Here comes the swap. There it goes.
+27:1427 minutes et 14 secondesWe're going to use all the hard drive space and this is, it will end up working I think eventually, but it's just, I mean we're at 20 gig swap. I don't want to use it.
+27:2327 minutes et 23 secondesI think I'm almost out of hard drive space. I want to stop that right now. Get out of here. It'll probably end up timing out. Let's see if it goes back down. Okay, cool. That was scary.
+27:3227 minutes et 32 secondesThat's the reason we don't do that. But if we share RAM between all of our hosts, it should be a bit better. Let's make that happen right now. Let's get our cluster running.
+27:4027 minutes et 40 secondesWe're still on 10 gig ethernet. Cool. All the hosts are up.
+27:4327 minutes et 43 secondesIt does have the model running on each. You know what, actually I need to run kind of a special version of the command. I need to specify MLX as the inference engine just like this.
+27:5227 minutes et 52 secondesIt should auto discover that and run that. But I want to make sure I don't screw this up. Okay, we're active.
+27:5827 minutes et 58 secondesLet's stink and monitor and see what happens. Again, this was our goal to run the biggest and baddest model if you ignore the recent news. But here we go
+28:0828 minutes et 8 secondesand run. Alright, let's watch the RAM fill up across the board. So it's filling up the bottom guy here, bottom left.
+28:1528 minutes et 15 secondesHopefully it doesn't get to swap, it'll just start to disperse it across all the nodes. Is it filling it up here? Yep. It's doing the top right guy for now. So swap is inactive still.
+28:2728 minutes et 27 secondesOkay. It's just slowly filling up the cups of each node. Alright, now we're filling up this guy.
+28:3328 minutes et 33 secondesStill haven't gotten to a point where we started generating text. Alright, filling up the top left. It's just taking a minute to load the model and memory.
+28:4128 minutes et 41 secondesAnd I think we're almost there just to fully distribute the sucker. It's taking forever. Well evenly distribute, swap.
+28:4728 minutes et 47 secondesI'm curious about that network error. But it did start, it gave a word it said here, but so far I don't see any swap memory used.
+28:5528 minutes et 55 secondesLet's refresh our page and try it again.
+28:5928 minutes et 59 secondesIt should keep the model loaded so we don't have to wait again in one paragraph. Okay, here we go.
+29:0829 minutes et 8 secondesGenerate something for me. Let's go. It's doing it.
+29:1429 minutes et 14 secondesIt only took five seconds to get to that first token and we're rocking a blazing speed of 0.8 tokens a second. But you know what? We did it.
+29:2129 minutes et 21 secondesWe're running the biggest, baddest model of them all on local hardware. What would normally take an entire data center of stuff?
+29:2929 minutes et 29 secondesWe're doing it right here. Slow, but we did it. Take that Zuckerberg, take that musk. We don't need you, although we're using your model.
+29:3729 minutes et 37 secondesSo we're rocking 0.5 tokens a second. Will it be faster on thunderbolts? Let's see. Alright, I'm going to stop this nonsense.
+29:4529 minutes et 45 secondesI got Thunderbolt up and running or connected.
+29:4929 minutes et 49 secondesLet's run XO now. Oh wait, I got to do my MLX version. Alright, five notes. We're on Thunderbolt. Here we go. I'm excited to see what this does.
+29:5829 minutes et 58 secondesSo right now it's currently not loaded in Rams, so it might take a bit here. We stinking go. Ram's going nuts.
+30:0430 minutes et 4 secondesHere we go. I wish you'd fill them all up at once. Man, it takes forever to load this model. Goodness. Coffee break. Haven't taken one of those in a while.
+30:1330 minutes et 13 secondesIt's going to time out before it loads it all up. Yep, and it timed out.
+30:1630 minutes et 16 secondesLet's try it again. Okay, GPU is spiking. We're getting some stuff, but we're not using all the GPU. So again, our bottleneck here is the networking.
+30:2630 minutes et 26 secondesI would love to know what the experience would be with some serious connectivity between the GPUs of these five max studios.
+30:3430 minutes et 34 secondesNow performance is not any better. We're talking 0.6 tokens per second.
+30:3830 minutes et 38 secondesWe kind of froze at that. But as far as RAM goes, this is supportive, very exciting, very slow, but exciting.
+30:4630 minutes et 46 secondesLet's check the network activity. Alright, let's get time down on me.
+30:5130 minutes et 51 secondesSo networking, I mean it's not using a lot of bandwidth, it's just not, okay, old man, let's put you to sleep. You're too slow. Okay, so what I want to show you real quickly though is the performance of Alama.
+31:0331 minutes et 3 secondesSo llama, if you don't know what that is, is probably one of the best ways to run AI models locally on your machine. Any machine, it's so easy to install. So Alama lists.
+31:1231 minutes et 12 secondesI'll see what I have right now installed. Alma's not running. Let me jump into the gooey real quick with Russ desk.
+31:1931 minutes et 19 secondesI forgot I wasn't using Linux, which is why I love Max.
+31:2231 minutes et 22 secondesSometimes you forget you're not using Linux. We'll run the 70 B 3.3, it'll take a minute to download. It's 42 gigs, but you'll see how much better this is now while it's downloading.
+31:3131 minutes et 31 secondesI was talking with Daniel Misler, the creator of the Fabric project and he, he's such a great guy, I love him. I texted him and said, Hey, please add this support for XO Labs. I want to test it for fabric. He did it.
+31:4231 minutes et 42 secondesSo let's update fabric real quick. Alright, so here it is and it's going to go pretty quick. Oh, look at that. It's fast.
+31:5231 minutes et 52 secondesSo the model is definitely loaded up. No swap though. GPU usage.
+31:5631 minutes et 56 secondesIt's using the full GPU. So here's the thing with xo, I think that maybe MLX performance with Mac isn't quite there, but we'll see something different on non Mac computers.
+32:0632 minutes et 6 secondesSo things actually running Invidia, GPUs, I'm replacing my video editor's, PCs, the ones that have Nvidia GPUs with these Macs.
+32:1632 minutes et 16 secondesShould I do another video where I cluster all these extra computers together?
+32:1932 minutes et 19 secondesLet me know, but it's doing great. Now, as you can tell, it would not go well if I tried to run a larger model like the 4 0 5 B.
+32:2732 minutes et 27 secondesBut this model with my 64 gigs of RAM on my Max Studio runs like a dream, which is pretty amazing. The 70 B model is awesome.
+32:3532 minutes et 35 secondesThe new model from Deep Seek, we got to try that. They have 70 B as well. Let's see how much space we have on our machine here. Yeah, we got space.
+32:4432 minutes et 44 secondesSo let's try and run this 42 more gigs. Whilst doing that, I'm going to run fabric. Okay, let's test this out real quick. Hey,
+32:5432 minutes et 54 secondeshow are you? And we're not using SWAP and we're running deep seek.
+32:5932 minutes et 59 secondesThat's huge on a Mac Studio. That's amazing. Okay, I've got fabric updated to this branch. I'm so excited to try this.
+33:0633 minutes et 6 secondesAnd by the way, I'm able to use Fabric or rather, Daniel Meer is able to implement fabric with XO because XO uses Chad gcp T compatible APIs. That's not the command. Let's run this set up.
+33:1833 minutes et 18 secondesWe'll do xo, make sure I'm at least real. Lemme run all my stuff here.
+33:2333 minutes et 23 secondesAnd every one of these hosts should run its own little API and I'll run off the main one here. So Echo, tell me a story.
+33:3333 minutes et 33 secondesPipe that into fabric. Okay, not working. Oh, there we go. No. Oh, it's working here.
+33:4233 minutes et 42 secondesI want it to stream to me though. Will it stream? It may not support streaming. Oh, there it goes. Oh, that's sick.
+33:5233 minutes et 52 secondesI'm using fabric with this. This is so cool. Okay, that's so cool Daniel, thank you so much and let's test it up. Okay, things are happening. Ah, yes,
+34:0134 minutes et 1 secondefabric. Let's take in a minute, but here we go. Oh my gosh, that was a quick story. Lemme have it summarize something.
+34:0834 minutes et 8 secondesLet's go to bleeping computer. Let's take all this text, pee paste, summarize. Boom. Okay,
+34:2034 minutes et 20 secondesso we're sending it a lot of text and there it goes. Oh my gosh, this is awesome. Yes, this is having a, anyways, that's stinking cool.
+34:2934 minutes et 29 secondesAlright, let's bring this video home. It's been way too long.
+34:3234 minutes et 32 secondesXO Labs is very cool. I'm excited about it. For the Mac with MLX, I think there's still more work that has to be done.
+34:3834 minutes et 38 secondesCurrently networking is still a bottleneck, although I dunno how it's going to perform on an Nvidia based cluster.
+34:4534 minutes et 45 secondesLet me know if you want to see that below. Also, I was kind of thinking about doing a raspberry pi AI cluster with Exo Labs. Lemme know if you want me to do that. That's all I got.
+34:5334 minutes et 53 secondesI'll catch you guys next time.
+
+Tout
+
+Source : NetworkChuck
+
+Macintosh
+
+Matériels informatiques
+
+Intelligences
+
+
+33:14
+L'Ethernet est mort ? Mac Studio est 100 fois plus rapide !
+NetworkChuck
+970 k vues
+•
+il y a 7 mois
+Doublée automatiquement
+
+
+32:39
+Vous devez utiliser Hermes DÈS MAINTENANT !! (adieu OpenClaw !!)
+NetworkChuck
+1,3 M de vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+7:26
+Cours C++ avec unreal engine 5 : 2. 6 OnComponentBeginOverlap : Delegate
+TryKTel Studio
+4 vues
+•
+il y a 1 jour
+Nouveau
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,6 M de vues
+•
+il y a 8 mois
+Doublée
+
+
+1:30:17
+L'homme qui avertit le monde : Le grand effondrement financier est là ! | Ray Dalio
+The Diary Of A CEO
+3,3 M de vues
+•
+il y a 5 jours
+Nouveau
+Doublée
+
+
+10:50
+Le système d'IA à 50 000 $ que j'ai construit avec Fable 5 (qui dirige toute mon entreprise)
+Bennett Spooner
+938 vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+
+27:32
+Le véritable problème de l'AI Act
+IA et Stratégie | Le SamourAI
+8,6 k vues
+•
+il y a 20 heures
+Nouveau
+
+
+31:42
+Pourquoi les Japonais font la guerre aux immigrés ? (la réalité est violente)
+Louis-San
+455 k vues
+•
+il y a 10 jours
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+413 k vues
+•
+il y a 2 mois
+
+
+22:13
+Exécutez votre propre IA (mais privée)
+NetworkChuck
+2,5 M de vues
+•
+il y a 2 ans
+Doublée automatiquement
+
+
+21:31
+N'achetez pas ce PC du Futur
+Tech_Sama
+17 k vues
+•
+il y a 20 heures
+Nouveau
+
+
+38:40
+Vous devez apprendre le protocole MCP (Model Context Protocol) dès maintenant !
+NetworkChuck
+1,6 M de vues
+•
+il y a 10 mois
+Doublée automatiquement
+
+
+26:39
+Pirater l'IA est TROP FACILE (cela devrait être illégal)
+NetworkChuck
+1,2 M de vues
+•
+il y a 11 mois
+Doublée automatiquement
+
+
+17:36
+Apple vient de tuer les abonnements IA pour de bon (Mac Mini M4 Pro)
+AI Master
+ et Arthur Winer
+133 k vues
+•
+il y a 13 jours
+Doublée automatiquement
+
+
+22:24
+FERGIE : La popstar des années 2000 tombée dans l'oubli
+NostalgicKid
+187 k vues
+•
+il y a 8 jours
+
+
+2:00:50
+Alerte IA : il a tout risqué pour nous avertir, et personne n'est prêt !
+The Diary Of A CEO
+7,4 M de vues
+•
+il y a 3 semaines
+Doublée
+
+
+12:02
+J'ai fondu, mais il est temps de redevenir énorme !
+Le Musclay
+146 k vues
+•
+il y a 3 ans
+
+
+25:30
+Comment on vous manipule pour acheter un PC ?
+Kang et ses PC
+180 k vues
+•
+il y a 11 mois
+
+
+34:40
+L'effondrement du mouvement LGBTQ+ (décryptage)
+VA Plus
+320 k vues
+•
+il y a 10 jours
+
+
+55:40
+SECRET : je ship ce SaaS en 1 heure sans coder
+Melvynx
+1,7 k vues
+•
+il y a 20 heures
+Nouveau
+
+
+34:44
+OpenClaw......RIGHT NOW??? (it's not what you think)
+NetworkChuck
+1 M de vues
+•
+il y a 4 mois
+
+
+24:00
+Tu es NUL en matière de génération d'incitations pour l'IA (Voici le secret)
+NetworkChuck
+761 k vues
+•
+il y a 8 mois
+Doublée automatiquement
+
+10:11
+Les notions Linux que vous DEVEZ connaître
+The Coding Gopher
+1,9 k vues
+•
+il y a 20 heures
+Nouveau
+Doublée automatiquement
+
+15:04
+I Thought DGX Spark Was Slower… Until I Changed ONE Thing
+Alex Ziskind
+311 k vues
+•
+il y a 6 mois
+
+20:41
+The Rock : Les mensonges qui ont détruit sa carrière
+Naj B Fit
+953 k vues
+•
+il y a 1 an
+
+1:47:00
+PYRAMIDES : ET SI TOUT CE QU'ON NOUS A APPRIS ÉTAIT FAUX ? LES SECRETS INCROYABLES
+LEGEND
+1,2 M de vues
+•
+il y a 9 jours
+
+19:01
+Notre méthode en 4 étapes pour scaler n’importe quel compte Facebook Ads en 2025
+Social Scaling
+1,3 k vues
+•
+il y a 1 an
+Doublée automatiquement
+
+19:46
+La vraie vie d'un bodybuilder
+Brut
+ et Stephane Matala
+516 k vues
+•
+il y a 8 mois
+
+30:47
+La Chine est sur le point de faire éclater la bulle de l'IA
+Andrei Jikh
+1,9 M de vues
+•
+il y a 3 semaines
+Doublée automatiquement
+
+36:00
+Je suis passé TOTALEMENT à Linux... mais vais-je y rester ?
+Hardware Haven
+298 k vues
+•
+il y a 8 jours
+Doublée automatiquement
+
+14:18
+CEUTA : LA GUERRE SECRÈTE CONTRE L’ESPAGNE ?
+Le Monde Moderne
+76 k vues
+•
+il y a 2 jours
+Nouveau
+
+26:36
+Vous DEVEZ utiliser n8n MAINTENANT ! (Gratuit, local, privé)
+NetworkChuck
+2,5 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+7:13
+L'Incliné pour les pectoraux = CONTRE-PRODUCTIF
+Le Musclay
+475 k vues
+•
+il y a 6 ans
+
+15:34
+12 applications auto-hébergées pour enfin quitter les géants de la tech
+Switch and Click
+504 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+12:49
+Pourquoi tu ne regardes plus Yomi Denzel
+Wizness
+54 k vues
+•
+il y a 7 jours
+
+21:22
+Déballage, configuration et premières impressions de la carte graphique NVIDIA DGX Spark - Une se...
+Daniel Bourke
+254 k vues
+•
+il y a 7 mois
+Doublée automatiquement
+
+2:49:58
+L'instant Skynet ? OpenAI perd le contrôle d’un agent IA | Octogone Tech #12
+Scanderia
+91 k vues
+•
+Diffusé il y a 5 jours
+Nouveau
+
+19:42
+On achète le PIRE PC Gamer ASUS chez BOULANGER
+FrenchHardware
+181 k vues
+•
+il y a 1 mois
+
+30:40
+Bloqué dans la forêt tropicale d'Alaska - 3 jours de camping en solo
+Outdoor Boys
+67 M de vues
+•
+il y a 2 ans
+Doublée automatiquement
+
+33:50
+la feuille de route du hacker (comment démarrer dans l'informatique en 2025)
+NetworkChuck
+1,5 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+    

@@ -5,7 +5,7 @@
 - Nom : Orchestration IA
 - Type : Discipline de coordination d'agents, outils, workflows, memoires et validations
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-07-04
+- Derniere mise a jour : 2026-08-09
 
 ## 2. Role principal
 
@@ -85,6 +85,22 @@ Workflow de preparation documentaire :
 6. Importer dans l'outil de recherche uniquement apres structuration.
 7. Verifier les citations avant integration permanente.
 
+Workflow de contexte multi-outils :
+
+1. Conserver un contexte projet canonique, local et versionne.
+2. Deriver ou lier les fichiers d'instructions propres a chaque outil afin d'eviter leur divergence.
+3. Separer les instructions durables, l'etat courant, les decisions et le journal de session.
+4. En fin de session, mettre a jour l'etat et les decisions utiles avant de versionner les changements.
+5. Recharger ce contexte au debut d'une nouvelle session et verifier qu'il correspond encore au depot.
+
+Workflow de supervision operationnelle :
+
+1. Centraliser les evenements, resultats, erreurs et metriques necessaires au pilotage.
+2. Relier chaque metrique a une decision, un responsable et un seuil d'alerte.
+3. Produire des vues courtes par role plutot qu'un tableau de bord unique et surcharge.
+4. Distinguer la disponibilite technique, la qualite du resultat et l'impact metier.
+5. Transformer les incidents et retours verifies en corrections, backlog ou evolution de workflow.
+
 ## 9. Prompts & methodes
 
 Les instructions d'orchestration doivent definir :
@@ -139,3 +155,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 - 2026-07-01 - Ajout - Sections 1 a 13 - Sources YouTube Parlons IA, batch AOS GO partiel
 - 2026-07-01 - Ajout - Sections 8, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
+- 2026-08-09 - Mise a jour - Section 8 - Sources YouTube NetworkChuck et Meydeey, contexte multi-outils et supervision operationnelle, batch AOS GO partiel

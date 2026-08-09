@@ -1,0 +1,575 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Le workflow COMPLET pour des vidéos pro sans dépenser un centime en 2026, en six étapes clés !
+Barthélémy Nobili
+Barthélémy Nobili
+158 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+6 août 2026  #IA #CréationVidéo #IAgénérative
+Créer un film complet avec l'intelligence artificielle, de l'idée jusqu'au montage final, sans dépenser un seul centime : c'est le défi de cette vidéo !
+
+Je vous partage mon workflow complet en 6 étapes pour fabriquer un mini-film ou un clip vidéo professionnel entièrement gratuit en 2026 :
+
+1. L'histoire — Construire une histoire solide avec Notebook LM (rebaptisé Gemini Notebook) : recherche approfondie, sources, script détaillé scène par scène.
+2. Les images — Générer toutes les images de vos scènes d'un seul coup avec Google Flow et Nano Banana 2 Lite, en gardant un personnage et un style cohérents.
+3. Les vidéos — Animer chaque image en séquence vidéo avec Vibes.ai (le successeur de Meta AI), extension automatique ou manuelle jusqu'à 9 secondes et plus.
+4. La voix off — Créer une voix humaine et expressive avec Google AI Studio et Gemini 2.5 Flash Preview TTS.
+5. La musique — Composer une bande originale libre de droits avec Treblow, pour pouvoir exploiter votre film sans souci.
+6. Le montage — Assembler le tout gratuitement sur CapCut et exporter votre film en haute qualité.
+
+Chaque outil présenté est gratuit au moment du tournage de cette vidéo (attention, ces plateformes évoluent vite, vérifiez la date de publication avant de me dire que ça ne marche plus !).
+
+Abonnez-vous pour ne rater aucune astuce IA gratuite et continuer à créer sans limite ! 🎬
+
+SOMMAIRE :
+00:00 Introduction
+1:53 1.L'HISTOIRE
+8:55 2.LES IMAGES
+12:44 3.LES VIDÉOS
+16:14 4.LA VOIX OFF
+18:35 5.LA MUSIQUE
+20:44 6.LE MONTAGE
+23:06 LE FILM
+24:56 CONCLUSION
+
+Google Flow — https://labs.google/fx/fr/tools/flow
+Google AI Studio (voix off Gemini 2.5 Flash TTS) — https://aistudio.google.com/
+Meta AI / Vibes (animation vidéo) — https://ai.meta.com/meta-ai/vibes/
+Treblo (musique libre de droits) — https://treblo.com/
+CapCut (montage) — https://www.capcut.com/my-edit?from_p...
+Notebook / Histoire et sources —  https://notebook.google.com/
+
+#IA #CréationVidéo #IAgénérative
+
+👉 LES GUIDES SUNO 👈
+https://barthelemynobili.formator.io/...
+
+👉 👉  Plateformes +Ressources  : https://barthelemynobili.formator.io/ 👈👈
+
+🐙🐙🐙 Mes créations sur Instagram  :    / barthelemynobili   🐙🐙🐙
+
+📌📌📌 Linkedin :   / barthelemynobili   📌📌📌
+
+Les outils que j'utilise :
+
+
+👉 CG DREAM : https://bit.ly/3CPxtJT 👈
+👉 HOSTINGER : https://www.hostinger.fr/barthelemy
+ Coupon BARTHELEMY offrant une réduction de 10% sur les plans de 12 mois ou plus, cumulable avec les promotions en cours 👈
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+158 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+true
+32:49
+Meta AI Studio : Le Nouveau Champion des Générateurs d'Images? Le Guide en 30 points clés !
+de Barthélémy Nobili
+true
+17:40
+Gemini 3.1 TTS : Les vrais résultats en direct
+de Barthélémy Nobili
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction
+0:044 secondesSalut à tous. Dans cette vidéo, je vous montre un  workflow complet pour créer des films, des clips  
+0:1212 secondesvidéo gratuits, de la phase de conception  du scénario jusqu'au montage final. Alors,  
+0:2020 secondesvous êtes nombreux à me dire dans les commentaires  que je dois absolument vous montrer des systèmes,   des thèmes gratuits pour les images, pour les  vidéos. Et bien, sachez que c'est ce que je fais  
+0:3030 secondesquand je peux, c'est-à-dire que ces derniers se  raréfient, ne sont plus légion. Et ici, si vous  
+0:3737 secondesregardez cette vidéo dans quelques mois, peut-être  que ce que je vous dirai aujourd'hui n'aura plus  
+0:4343 secondeslieu d'être. Je ne suis pas responsable de  la décision de systèmes proposés initialement  
+0:5151 secondesgratuitement qui évoluent dans le temps vers une  solution payante. Mais en tout cas, si vous suivez  
+0:5757 secondeschaque point de cette vidéo, comme je vous l'ai  dit, de la phase de conception de votre scénario,  
+1:031 minute et 3 secondesen passant par la création d'images, les voix,  etc., jusqu'au montage final et la création en  
+1:091 minute et 9 secondestant que tel des vidéos, vous pourrez créer des  films complets sans débourser un centime d'euros.  
+1:191 minute et 19 secondesEt je vous propose de ne pas perdre de temps  et de foncer directement vers ces techniques.  
+1:261 minute et 26 secondesC'est Barthélémy, pour ceux qui ne me connaissent  pas. Merci de cliquer sur le bouton pour m'aider à  
+1:311 minute et 31 secondesdévelopper cette chaîne. Et nous, on se retrouve  sur l'interface de Notebook LM pour commencer.
+Chapitre 2 : 1.L'HISTOIRE
+1:571 minute et 57 secondesDans cette première phase, consistant à trouver  une bonne histoire, on sait que le vrai problème  
+2:032 minutes et 3 secondesn'est pas l'outil. Créer une vidéo par l'IA  donne souvent l'impression de devoir choisir   entre passer des heures en manipulation manuelle,  payer un abonnement mensuel ou se contenter de  
+2:132 minutes et 13 secondesrésultats courts et peu maîtrisés. Pourtant,  on sait qu'un bon résultat ne vient pas du   prix de l'outil, il vient de la stratégie et  de la continuité du récit. C'est pour ça que  
+2:232 minutes et 23 secondescette vidéo va suivre une seule histoire,  du premier prompt jusqu'au montage final.
+2:302 minutes et 30 secondesIci, j'ai utilisé Notebook LM. Alors,  pour la petite histoire, Notebook LM,  
+2:362 minutes et 36 secondesc'est rebaptisé Gemini Notebook. Et ce  que je vous propose de faire, c'est de  
+2:412 minutes et 41 secondespasser par ce biais pour élaborer la structure  narrative de votre histoire. Donc, évidemment,  
+2:482 minutes et 48 secondesici, l'ensemble est totalement gratuit. Vous  vous connectez à votre compte Google. Vous   allez sur le site notebook.google.com.  Vous créez un nouveau notebook. Moi,  
+2:572 minutes et 57 secondesévidemment, je l'ai déjà créé et je vais vous  montrer comment procéder de la même façon.
+3:023 minutes et 2 secondesIci, voilà les six étapes que nous allons  respecter pour pouvoir monter un film  
+3:093 minutes et 9 secondesgratuit : construire l'histoire, générer les  images des scènes, animer les scènes en vidéo,   créer les voix off, composer la musique et  monter le tout. Ici, je vais dans l'espace   dans lequel j'ai créé ça et je vais vous  montrer le processus que j'ai effectué.
+3:243 minutes et 24 secondesDonc le notebook s'appelle Phare. Voilà ce que  j'ai demandé à Notebook : « Fais une recherche   approfondie sur l'histoire des gardiens de phare,  leur quotidien, les tempêtes qu'ils affrontaient,  
+3:343 minutes et 34 secondesles grandes dates de l'automatisation des  phares au XXe siècle et ce que sont devenus   les derniers gardiens en activité aujourd'hui. Je  veux construire l'histoire d'un mini-documentaire  
+3:433 minutes et 43 secondessur la disparition de ce métier. » Donc  ici, on comprend que je demande à Notebook,  
+3:493 minutes et 49 secondesau-delà du fait de me construire une histoire,  un recueil de sources. Et vous savez que,  
+3:553 minutes et 55 secondesdepuis la dernière mise à jour de ce dernier,  il y a quelques mois, voilà l'ensemble des  
+4:024 minutes et 2 secondesressources sur les phares, etc. Donc là, vous  voyez que c'est quand même énorme. À l'époque,  
+4:084 minutes et 8 secondesrappelez-vous que Notebook consistait simplement  à importer vos propres références, et aujourd'hui,   il vous trouve de manière très détaillée  un ensemble substantiel de ressources.
+4:194 minutes et 19 secondesUne fois ces ressources trouvées, elles sont  quand même au nombre de 75, comme vous le   voyez ici. Voilà ce que me signale Notebook  : « Ces sources explorent diverses manières  
+4:284 minutes et 28 secondesdont l'humanité interprète et communique avec son  environnement, qu'ils soient naturels, techniques   ou extraterrestres. Un premier volet examine la  cinématographie, analysant comment les tempêtes  
+4:374 minutes et 37 secondeset le brouillard servent de moteur narratif ou  de symboles moraux dans les shaders du 7e art.   Un second volet se concentre sur la recherche  spatiale, détaillant les tentatives historiques  
+4:464 minutes et 46 secondesde détecter des signaux de vie intelligente et  les protocoles de communication avec le cosmos.   Enfin, un document administratif définit  les règles strictes du balisage maritime,  
+4:554 minutes et 55 secondesencadrant la signalisation nécessaire à  la sécurité de la navigation sur les côtes   françaises. Ensemble, ces textes illustrent  la quête humaine pour décoder l'incertitude,  
+5:045 minutes et 4 secondesqu'elle se manifeste par un signal radio lointain,  une météo capricieuse ou des balises en mer. »
+5:105 minutes et 10 secondesDonc, ici, le système est au courant de ce que  nous voulons en termes d'histoire. Il se base  
+5:165 minutes et 16 secondessur 75 références qui peuvent être, évidemment,  différentes selon votre demande initiale. Et une  
+5:255 minutes et 25 secondesfois que vous avez obtenu ces ressources et que  le système vous a confirmé cet ensemble de choses,  
+5:325 minutes et 32 secondesvoilà comment il va falloir procéder. Rendez-vous  ici, sur le bouton personnaliser. On clique  
+5:385 minutes et 38 secondesdessus. Et c'est dans cet espace que vous  allez demander par défaut la direction que  
+5:465 minutes et 46 secondesdevra prendre Notebook. Ici, vous allez attribuer  le nom à votre Notebook. Et vous allez pouvoir   choisir de cocher ceux-là. Bon, ça, c'est un  résumé d'actualisation, ça a peu d'importance.
+5:585 minutes et 58 secondesEt c'est ici, dans ce chat, que vous  allez lui demander les instructions. Donc,   les instructions que j'ai demandées au système  sont les suivantes : « Rôle, tu es réalisateur,  
+6:066 minutes et 6 secondeschef opérateur et directeur artistique  d'un court-métrage généré par l'IA. Tu   ne discutes pas et tu ne commandes pas. Tu livres  un document de production prêt à l'emploi fondé  
+6:146 minutes et 14 secondesuniquement sur les ressources de ce notebook.  Le projet, titre, le dernier phare. Format,  
+6:206 minutes et 20 secondescourt-métrage de science-fiction contemplatif.  12 scènes, ratio 16/9e, durée cible 2 minutes 30,  
+6:256 minutes et 25 secondesune scène égale un plan de 8 secondes. La ligne  narrative, c'est un gardien seul, un phare menacé   par la mer, un signal venu d'ailleurs et le choix  de répondre ou de se taire. Le traitement visuel,  
+6:366 minutes et 36 secondesphotoréaliste, cinématographique, pellicule  35 mm, grain fin, palette froide, bleu nuit,   gris ardoise, écume blanche, versé par l'ambre  et le rouge de la lampe du phare, aucun texte,  
+6:456 minutes et 45 secondesaucun logo, aucun sous-titre dans l'image.  Le personnage unique, c'est le gardien,   homme de 68 ans, visage buriné, barbe  blanche courte, yeux gris clair,  
+6:536 minutes et 53 secondesbonnet de laine gris foncé, ciré jaune délavé,  au cou usé, et la structure de sortie. » Et ici,  
+7:017 minutes et 1 secondeje lui ai demandé le design de la voix,  la direction musicale, les scènes, etc.   Les règles impératives : ne recopie jamais un  paragraphe entier d'une source, synthétise. Les  
+7:117 minutes et 11 secondesdouze paramètres images doivent partager la même  grammaire visuelle. Les paramètres mouvement ne   redécrivent jamais le décor, aucun visage  de personne réelle, aucune œuvre protégée.
+7:237 minutes et 23 secondesEt à partir de cela, voilà ce que me fournit  le système : l'ensemble des scènes avec la  
+7:307 minutes et 30 secondesdescription de la voix off, la description des  images à créer et la description des vidéos.  
+7:377 minutes et 37 secondesEt à partir du fait que vous ayez entré une  bonne indication à partir des ressources,   vous avez déjà votre histoire  clé en main, si vous voulez.
+7:467 minutes et 46 secondesEnsuite, ce que je vous conseille de faire pour  éviter qu'à chaque fois vous deviez revenir sur  
+7:537 minutes et 53 secondesNotebook, vous allez sur Partager. Et ensuite,  une fois obtenu l'ensemble, pour éviter à chaque   fois de revenir sur Notebook, vous cliquez sur  Enregistrer dans une note. La note va apparaître  
+8:048 minutes et 4 secondesici, le gardien du signal. Vous cliquez  dessus et voilà donc la note entière qui  
+8:108 minutes et 10 secondesservira de carnet de bord, en quelque sorte, de  votre ensemble. Et une fois cette note obtenue,  
+8:178 minutes et 17 secondesce que je vous conseille, c'est de cliquer sur  les trois petits points. Exporter vers Doc,   exporter vers Sheet, ce que vous voulez. Mais  en fait, l'idée, c'est de l'obtenir. Voilà,  
+8:288 minutes et 28 secondesdonc ici, elle est en ligne sur Google Doc. Et  à chaque fois que vous allez avoir une image,  
+8:358 minutes et 35 secondesune vidéo ou une voix off à déterminer,  vous aurez tout. Vous avez la voix off ici,   vous avez les paramètres pour chaque image  et vous avez les paramètres du mouvement.
+8:468 minutes et 46 secondesDonc, maintenant, il n'y a plus qu'à  se diriger vers la deuxième étape,  
+8:518 minutes et 51 secondesla création d'images d'un seul coup. Pour la  deuxième phase, la création d'images, alors là,  
+Chapitre 3 : 2.LES IMAGES
+9:009 minutesévidemment, vous pouvez utiliser n'importe  quel chatbot, ChatGPT, Images 2.0, Nano Banana.  
+9:079 minutes et 7 secondesPersonnellement, je choisis Google Flow parce  que celui-ci ne vous coûtera également aucun   denier. Et en plus, il va vous permettre de créer  les images d'un coup grâce à Nano Banana Lite.
+9:209 minutes et 20 secondesDonc, ici, on se retrouve sur l'interface  de labs.google. À l'image d'un notebook,  
+9:279 minutes et 27 secondesj'ai créé un projet. Je clique dessus. Et  ici, vous voyez que le système m'a créé   toutes ces images d'un seul coup.  Hormis celles que vous voyez ici,  
+9:379 minutes et 37 secondesparce qu'après, j'ai procédé à des itérations.  Vous pouvez créer, en cliquant sur personnage,  
+9:439 minutes et 43 secondesle personnage constant qui figurera  dans certaines des séquences du film.   Vous voyez que la constance du personnage est  conservée. On a toutes les images d'un seul coup.
+9:569 minutes et 56 secondesDonc, la question qui vous taraude, qui vous  brûle les lèvres, c'est comment faire pour  
+10:0210 minutes et 2 secondesobtenir toutes les images d'un coup ? Alors, pour  procéder à la création d'images d'un coup, veillez  
+10:0710 minutes et 7 secondesà ce que le mode agentique ici soit sélectionné.  Sinon, cela ne fonctionnera pas. Ensuite, cliquez  
+10:1310 minutes et 13 secondessur l'instruction pour l'agent. Ensuite, vous  cliquez ici et dans le système proposé par défaut,  
+10:2010 minutes et 20 secondesvous trouverez NanoBanana 2. Ici, choisissez  Nano Banana 2. Lite, qui se caractérise par  
+10:2610 minutes et 26 secondesson efficacité et une très grande vitesse. Ici,  les 12 séquences sont générées en moins d'une  
+10:3210 minutes et 32 secondesminute. Choisissez 16/9e, choisissez le nombre  d'images souhaitées, c'est-à-dire, si vous voulez,  
+10:4010 minutes et 40 secondesdeux occurrences de la même image et enregistrez.  À partir d'ici, le système est pris en compte.
+10:4710 minutes et 47 secondesJe retourne dans mon document, dans ma note.  Ici, je clique sur Command A ou CTRL A si vous  
+10:5310 minutes et 53 secondesavez un PC. Moi, j'ai un Mac, donc je clique sur  Command A, Command C. Je retourne dans Google Flow  
+10:5910 minutes et 59 secondeset je colle l'ensemble. Mais ici, il va falloir  donner l'instruction au système qu'il ne prenne  
+11:0411 minutes et 4 secondespas l'ensemble en compte, mais qu'il ne me traite  uniquement que les images. Donc, avant de lancer  
+11:1011 minutes et 10 secondesl'ensemble, vous allez taper une phrase du style  « Extrait uniquement le texte situé après « Ponte  
+11:1611 minutes et 16 secondesimage » pour chaque scène, ignore le reste et  génère une image par scène au format 16/9e, tout  
+11:2111 minutes et 21 secondesen conservant un style photoréaliste cohérent sur  l'ensemble des scènes. » Et ensuite, il ne vous  
+11:2711 minutes et 27 secondesreste plus qu'à appuyer là, et le processus va  se mettre en branle et vous fournir toutes les  
+11:3311 minutes et 33 secondesimages. Bon, là, il va sûrement me créer des  images en doublon. C'est vraiment pour vous   montrer le process. Et comme je vous l'ai dit, en  quelques secondes, vous allez obtenir, vous voyez,  
+11:4411 minutes et 44 secondesles images sont en train de se créer. Alors,  c'est le doublon de celle que j'ai déjà créée.   Il y aura peut-être des différences. Mais vous  voyez qu'à partir d'ici, ça y est, mes images  
+11:5411 minutes et 54 secondessont déjà créées. Donc, quand je vous ai dit moins  d'une minute, on est encore loin du compte. Vous   voyez, là, tout est créé. Les nouvelles images qui  sont un peu différentes de celles que j'avais déjà  
+12:0412 minutes et 4 secondescréées sont bien là. Et en quelques secondes, à  partir du moment où vous avez bien respecté ce  
+12:1012 minutes et 10 secondesque je vous ai dit, vos 10, 12, 14 séquences  sont créées en moins de 20, 30 secondes et  
+12:1612 minutes et 16 secondesprêtes à l'emploi. Si vous voulez procéder à des  itérations et créer par exemple le modèle de votre  
+12:2212 minutes et 22 secondespersonnage, vous cliquez sur nouveau personnage,  vous décrivez le personnage si celui créé par  
+12:2812 minutes et 28 secondesdéfaut ne vous convient pas et vous le réutilisez  pour l'ensemble des séquences restantes. Voilà  
+12:3512 minutes et 35 secondesdonc le secret pour créer plusieurs images en  bloc de manière très facile et ultra rapide.
+Chapitre 4 : 3.LES VIDÉOS
+12:4712 minutes et 47 secondesPour créer les séquences vidéo, il y a quelque  temps, j'ai fait une vidéo sur l'IA, Meta et AI  
+12:5412 minutes et 54 secondesde Mark Zuckerberg qui permet de créer des photos  de manière très rapide et gratuite, mais qui a  
+13:0113 minutes et 1 secondemis fin à sa fonction de génération de vidéo. Et  bien, désormais, l'équivalent, également développé  
+13:0813 minutes et 8 secondespar l'équipe de Zuckerberg, qui s'appelle  Vibes.ai. Ici, j'ai créé un projet dans lequel  
+13:1613 minutes et 16 secondesj'ai importé l'ensemble des images. Donc, quand  vous êtes là, quand vous avez créé votre projet,  
+13:2213 minutes et 22 secondesvous cliquez sur Upload Media. J'ai téléchargé  toutes les images. Et à partir du moment où  
+13:2713 minutes et 27 secondesmes images sont ici, voilà la manière dont vous  allez pouvoir créer vos animations vidéo. Donc,  
+13:3313 minutes et 33 secondesici, comment ça fonctionne ? Vous avez « décrivez  une vidéo ». Donc, ici, je vais choisir parmi  
+13:3913 minutes et 39 secondesl'un des médias, l'une des images importées. Je  vais choisir celle-ci. Ici, je vais cliquer sur  
+13:4513 minutes et 45 secondesAnimation manuelle, Manual animate. Libre à vous  de choisir si vous voulez une musique ou pas. Bon,  
+13:5113 minutes et 51 secondesje vais même cliquer sur Auto animate. On verra  bien. Là, c'est vraiment une image basique. Sinon,  
+13:5713 minutes et 57 secondesvous cliquez sur Manual animate et vous tapez le  prompt visant à créer votre vidéo. On voit qu'ici  
+14:0614 minutes et 6 secondesle système a pris en considération ce que je vais  demander. Alors, parfois, il faut être franc,   c'est un système qui plante un petit peu,  il faut recommencer. Mais vous voyez qu'ici,  
+14:1414 minutes et 14 secondesça y est, j'ai bien ma vidéo de ce phare envahi  par les vagues. Et si vous voulez aller au-delà  
+14:2314 minutes et 23 secondesdes 5 secondes, là, vous avez également  deux possibilités : soit l'auto-extend,  
+14:2914 minutes et 29 secondessoit le manual-extend. Là, on va cliquer sur  auto-extend, parce qu'ici on n'a pas à faire  
+14:3414 minutes et 34 secondesun prompt complexe. Et là, vous allez obtenir  une extension de la vidéo jusqu'à 9 secondes et  
+14:4014 minutes et 40 secondesvous pouvez la rallonger plusieurs fois. Alors  en principe, le système vous crée plusieurs  
+14:4714 minutes et 47 secondesoccurrences de la même image, mais si vous  voulez procéder rapidement, il vous suffit donc  
+14:5214 minutes et 52 secondesde sélectionner l'image, de choisir Manual Extend  pour un prompt plus complexe au niveau du grain,  
+14:5914 minutes et 59 secondesdu mouvement de caméra, etc. Ici, vous constatez  que l'extension a bien été prise en compte,   on a désormais une vidéo de 9 secondes et  vous pouvez continuer cela plusieurs fois,  
+15:0915 minutes et 9 secondessoit en mode automatique, soit en Manual  Extend. Vous avez ici un bouton télécharger et   vous obtiendrez vos différentes séquences animées  prêtes à être montées dans votre logiciel préféré.
+15:2315 minutes et 23 secondesÀ l'heure où je vous parle, en ce début du  mois d'août 2026, ces vidéos sont tout à  
+15:3115 minutes et 31 secondesfait gratuites, sans aucune limitation,  avec possibilité de les étendre au-delà  
+15:3715 minutes et 37 secondesdes 9 secondes comme je vous l'ai montré. Il y  a une semaine, lorsque j'ai testé le système,  
+15:4415 minutes et 44 secondesMeta AI faisait apparaître un filigrane  qu'aujourd'hui il a fait disparaître. Donc,  
+15:5015 minutes et 50 secondesça, c'est une bonne nouvelle. Bon, il y avait  une méthode pour détourner le truc, mais ici ce  
+15:5615 minutes et 56 secondesn'est pas le cas. Vous pouvez télécharger sans  aucun filigrane. Comme l'IA de Meta.ai, il y a  
+16:0216 minutes et 2 secondesquelques mois, avant que Meta ne mette fin à cette  application et ne la substitue par ce vibes.ai.
+Chapitre 5 : 4.LA VOIX OFF
+16:1616 minutes et 16 secondesPour le quatrième point, la voix off, pour avoir  une voix qui sonne humaine, je vous convie à  
+16:2116 minutes et 21 secondesaller sur AI Studio Google, qui est totalement  gratuit, dans la partie Playground. Ici, dans  
+16:2716 minutes et 27 secondesla barre latérale de droite, cliquez sur l'encart  que vous voyez là, choisissez Audio et choisissez  
+16:3516 minutes et 35 secondesle système gratuit Gemini 2.5 Flash Preview TTS.  Pour plus de détails, je vous mets un lien vers  
+16:4216 minutes et 42 secondesune vidéo ultra complète que j'avais conçue il y  a quelques mois sur le sujet. Et à partir de là,  
+16:4816 minutes et 48 secondesil suffit de cliquer sur cette grande phrase :  « Turn Text into Natural Sounding Speech ». Ici,  
+16:5416 minutes et 54 secondesau niveau de la scène, vous pouvez nommer  ça comme vous voulez. Ce qui est important,  
+16:5916 minutes et 59 secondesc'est que dans le Simple Context, vous précisiez  le type de voix souhaitée. Ici, je vais coller ce  
+17:0617 minutes et 6 secondesque j'ai écrit pour que le système me fournisse  l'intonation souhaitée : « Voix d'un homme de  
+17:1217 minutes et 12 secondes60 ans, timbre grave, légèrement rocailleux comme  celui d'un ancien marin. Ton nostalgique et posé,  
+17:1817 minutes et 18 secondesdébit lent avec de longues pauses, sensation de  sagesse tranquille. » Ensuite, vous retournez  
+17:2317 minutes et 23 secondesdans votre notebook dans lequel figurent toutes  vos voix. Pour tester, je colle la phrase que je  
+17:2917 minutes et 29 secondesveux faire prononcer à mon personnage. Et ici, je  vais choisir parmi les nombreuses voix proposées  
+17:3617 minutes et 36 secondescelle qui me convient le mieux. De préférence,  dans ce cas-là, une voix d'homme. Je vais   choisir Al-Ghenip, comme ceci. Celle-ci est donc  confirmée ici et je clique sur le bouton « Run ».
+17:4917 minutes et 49 secondes« La vraie leçon des gardiens de phare  n'était peut-être pas la lumière elle-même,  
+17:5617 minutes et 56 secondesmais la promesse que quelqu'un, quelque  part, restait éveillé pour nous. » Donc,  
+18:0218 minutes et 2 secondesvoilà la phrase générée en quelques  secondes ou autre type de production.
+Chapitre 6 : 5.LA MUSIQUE
+18:4018 minutes et 40 secondesPour le cinquième point, la musique. Alors  là, il existe de nombreux sites. Vous pouvez   aller sur Suno, utiliser la version gratuite.  Mais si vous voulez commercialiser votre film,  
+18:4918 minutes et 49 secondesle fait d'utiliser la version gratuite de Suno  vous bloquera au niveau des droits d'auteur.  
+18:5518 minutes et 55 secondesC'est pour ça que je vous convie à visiter  le site Treblow. C'est une IA génératrice de   musique complètement gratuite qui vous permet  de créer des morceaux avec licence. Donc, ici,  
+19:0519 minutes et 5 secondesça marche comme celui-là au studio. Je clique  sur le prompt pour indiquer le type de musique   souhaitée : « Musique orchestrale minimaliste,  piano et corde grave, tempo lent autour de 60 bpm,  
+19:1619 minutes et 16 secondesprésence discrète de son d'ambiance  marine, atmosphère nostalgique et digne,   montée émotionnelle, timide vers la  fin. » Et je clique sur Generate.
+19:2419 minutes et 24 secondesIci, comme l'ensemble des autres IA de génération  musicale, on a donc deux occurrences. Alors ce que  
+19:3119 minutes et 31 secondesj'ai oublié, c'est de cocher instrumental, parce  qu'ici on ne veut pas de parole. Qu'importe,   je relance une nouvelle génération. Et  vous voyez que les quatre occurrences  
+19:4119 minutes et 41 secondesse créent sous vos yeux en même temps. Au bout  d'environ deux minutes, du fait que j'ai généré  
+19:4619 minutes et 46 secondesles morceaux d'un coup, j'obtiens quatre  morceaux. Ce sont de très bons morceaux.  
+19:5219 minutes et 52 secondesAlors pour le film, j'ai retenu le premier, «  Les dernières vagues ». Ici, vous pouvez cliquer  
+19:5719 minutes et 57 secondessur le bouton lecture pour écouter votre morceau.  Bien sûr, je vous ferai écouter le film en entier  
+20:1120 minutes et 11 secondesavec ce morceau. Si le début ne vous convient  pas, vous pouvez cutter ce dernier sur votre  
+20:1620 minutes et 16 secondestable de montage. On voit qu'ici, les balises  correspondent à peu près à ce que j'ai demandé.   Pour récupérer le morceau, on clique sur les  trois points, download, et là, bonne nouvelle,  
+20:2620 minutes et 26 secondeson peut télécharger le morceau dans de nombreux  formats. On va privilégier le format web pour  
+20:3220 minutes et 32 secondesla qualité sonore. Et voilà donc un problème de  réglé avec la possibilité de télécharger votre  
+20:3820 minutes et 38 secondesmorceau tout à fait gratuitement et avec un droit  d'exploitation accordé par l'équipe de Treblow.
+Chapitre 7 : 6.LE MONTAGE
+20:4820 minutes et 48 secondesOn en revient donc à la dernière étape, celle du  montage final. Pour les personnes ne disposant pas  
+20:5420 minutes et 54 secondesde logiciel dédié, vous savez que vous pouvez  aller sur CapCut. Ici, vous cliquez sur Create  
+21:0121 minutes et 1 secondeNew, Black Canvas en 16/9e. Vous avez donc un  nouveau projet. Ici, en cliquant sur Upload,  
+21:0921 minutes et 9 secondesvous allez télécharger toutes les séquences vidéo  et audio que nous avons générées jusqu'à présent.   On les retrouve ici : la séquence où  on voit le vieux marin du phare. Ici,  
+21:1821 minutes et 18 secondesje télécharge la musique. Sur ce point, je ne  m'étendrai pas. Là, il suffit donc de placer  
+21:2521 minutes et 25 secondesbout à bout l'ensemble de vos séquences,  de procéder à des cuts. Donc pour les cuts,  
+21:2921 minutes et 29 secondessi par exemple vous voulez couper cette partie,  vous pouvez procéder de cette manière : vous  
+21:3721 minutes et 37 secondespouvez cliquer sur Command B ou Control B,  qui est le raccourci universel, pour couper  
+21:4321 minutes et 43 secondesdes séquences dans l'ensemble des logiciels de  montage. Ici, j'ai ma musique, je la fais glisser  
+21:4921 minutes et 49 secondesici. Et comme je vous l'ai dit il y a quelques  minutes, vous pouvez donc, si la musique ne vous  
+21:5521 minutes et 55 secondesconvient pas à un moment donné, caler votre  curseur et procéder à un Command-B sur Mac  
+22:0122 minutes et 1 secondeou un Control-B sur PC pour couper et supprimer  le début de la séquence que vous ne voulez pas.  
+22:0622 minutes et 6 secondesDonc ça, je ne vais pas rentrer dans le détail, il  s'agit d'un logiciel de montage gratuit en ligne   où vous retrouvez l'ensemble des possibilités  proposées par ce type de logiciel de montage.
+22:2022 minutes et 20 secondesÀ ce moment-là, il ne vous reste plus qu'à  cliquer sur Upload pour importer l'ensemble  
+22:2522 minutes et 25 secondesdes séquences nécessaires à votre film,  votre voix off. Vous avez des éléments,  
+22:3222 minutes et 32 secondesdes audios ici, du texte si vous voulez enrichir  votre film en entier. Vous avez les effets,  
+22:3822 minutes et 38 secondesvous avez les transitions. Vous cliquez  sur export, download, je vous recommande  
+22:4522 minutes et 45 secondesune résolution minimum de 1080, une qualité high  quality au format MP4, et votre vidéo est créée  
+22:5722 minutes et 57 secondesclé en main sans que vous n'ayez eu à débourser  un seul euro de la phase du début jusqu'à la fin.
+Chapitre 8 : LE FILM
+23:0823 minutes et 8 secondesLa mer gagne du terrain chaque jour.  Bientôt, la tour ne sera plus qu'un souvenir  
+23:1623 minutes et 16 secondesen boutique, comme tant d'autres avant elle. J'ai trouvé ici mon lieu,  
+23:2523 minutes et 25 secondesentre l'eau furieuse et le ciel vide. Le mécanisme tourne, imperturbable. Ce bain  
+23:3423 minutes et 34 secondesde métal lourd annule toute friction, portant des  tonnes de verre d'une simple pression du doigt. 
+23:4323 minutes et 43 secondesCe n'était pas le bruit du vent,  c'était une impulsion de lumière. 
+23:5023 minutes et 50 secondesPrécis, artificiel, un murmure  cosmique glissé dans la tempête. 
+23:5823 minutes et 58 secondesNous avons dressé ces murs pour  repousser la peur. Mais face à cet appel,  
+24:0624 minutes et 6 secondesl'isolement prend une autre dimension. Les prismes concentrent notre lumière  
+24:1424 minutes et 14 secondesvers l'horizon. Et si on l'utilisait pour  répondre ? Un faisceau pointé vers les étoiles. 
+24:2324 minutes et 23 secondesLe signal se répète. Ce n'est pas  une étoile qui meurt. Quelqu'un,  
+24:3124 minutes et 31 secondeslà-haut, sait que nous sommes ici. J'ai le pouvoir de dévier le réflecteur,  
+24:4024 minutes et 40 secondesde renvoyer notre clarté dans la  nuit. Mais l'humanité est-elle prête ?
+Chapitre 9 : CONCLUSION
+24:5824 minutes et 58 secondesVoilà donc, les amis, le meilleur moyen  d'établir un protocole, un processus,  
+25:0425 minutes et 4 secondesun workflow de A à Z pour élaborer un film de  toute pièce sans dépenser un euro, de la phase  
+25:1425 minutes et 14 secondesde la conception de l'histoire, de la création des  images, la création des séquences, la création de   la voix off, les voix, les sons et le montage  final. Ici, vous avez un processus clé en main.
+25:2825 minutes et 28 secondesAlors, comme je vous l'ai dit, si vous regardez  cette vidéo quelques semaines ou quelques mois  
+25:3425 minutes et 34 secondesaprès sa conception, merci de vérifier la date et  d'éviter de me tomber dessus en me disant « oui,   la génération des vidéos ne marche plus  ». Ça, je n'y peux rien, moi je vous donne  
+25:4425 minutes et 44 secondesune méthode au jour J. Si, par exemple, dans  quelques mois, Vibes.ai ne fonctionne plus,  
+25:5025 minutes et 50 secondesrendez-vous sur Meta.ai dont j'ai fait  une vidéo ici. Vous savez que Meta.ai,   c'est le générateur d'images développé par  Zuckerberg. Celui-ci fonctionnait il y a  
+26:0126 minutes et 1 secondequelques mois pour la création de vidéos, on est  passé à Vibes. Alors, dans les pays étrangers,  
+26:0826 minutes et 8 secondesici on est toujours en France, la dernière  roue du carrosse, et bien la conception de   vidéo ne fonctionne pas, mais peut-être que  dans quelques mois celle-ci refonctionnera  
+26:1726 minutes et 17 secondesvia Meta.ai. Il y a toujours des solutions, mais  en tout cas dans une perspective globale, vous   avez toutes les clés de A à Z pour concevoir vos  films tout à fait gratuitement de manière rapide.
+26:3026 minutes et 30 secondesEt comme je le dis, il ne vous reste plus qu'à  regarder, revisionner cette vidéo pour vous  
+26:3926 minutes et 39 secondesperfectionner sur les points qui vous posent  encore quelques problèmes. C'était Barthélémy,   je vous souhaite d'excellents tests et  une excellente journée à tous. Ciao."
+
+Tout
+
+Intelligence artificielle
+
+Apprentissage
+
+Pour vous
+
+Regardées
+
+
+34:07
+J'ai passé une journée avec des géants (les hommes les plus forts du monde)
+Joe HaTTab
+ et 2 autre(s)
+5,8 M de vues
+•
+il y a 2 mois
+Doublée
+
+
+31:58
+J’ai Essayé La Plus Saine vs La Moins Saine Diet Du Monde
+Will Tennyson
+7,2 M de vues
+•
+il y a 9 mois
+Doublée
+
+
+30:31
+5 jours de survie en solitaire sur une île (sans nourriture, eau ni abri)
+David Rule
+2,8 M de vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+675 vues
+•
+il y a 1 mois
+
+
+8:33
+Clavicules COURTES : Désastre ou Avantage ?
+Kilian Hagen
+285 vues
+•
+il y a 2 heures
+Nouveau
+
+
+25:55
+Exercices de gym classés (du meilleur au pire !)
+ATHLEAN-X™
+2 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+
+50:37
+LES LIMITES DE MA VOITURE | ÉPISODE 7
+Zoef on the Move
+3,8 M de vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,7 M de vues
+•
+il y a 8 mois
+Doublée
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+419 k vues
+•
+il y a 2 mois
+
+
+24:53
+Comment le « roi du kebab » enfume les investisseurs
+Le Parisien
+1,2 M de vues
+•
+il y a 1 mois
+
+
+34:08
+What Every Body Fat % Actually Looks Like (50% to 5%)
+Jeff Nippard
+15 M de vues
+•
+il y a 8 mois
+
+
+1:06:27
+ON MANGE 50 ALIMENTS DE LUXE (et on les juge) (c’est indécent)
+Amixem
+7 M de vues
+•
+il y a 10 mois
+
+
+17:21
+LA FEATURE QUE TU DOIS METTRE DANS TON SAAS MAINTENANT
+Melvynx
+265 vues
+•
+il y a 2 heures
+Nouveau
+
+
+38:30
+Ce que vous ne savez pas sur Coca-Cola, le Foie Gras et les Antibiotiques
+Votre Santé - Votre Alimentation
+785 k vues
+•
+il y a 4 mois
+
+
+16:02
+24 Heures Dans La Ville La Plus Obèse Du Monde (La fin m’a choqué)
+Ruhi Çenet Français
+786 k vues
+•
+il y a 2 mois
+
+
+37:57
+J'ai fabriqué le PC que je ne pouvais pas acheter
+Christian Selig
+8,4 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+
+22:24
+FERGIE : La popstar des années 2000 tombée dans l'oubli
+NostalgicKid
+214 k vues
+•
+il y a 11 jours
+
+
+46:33
+J'ai mangé TOUS les burgers d'Amérique
+Max the Meat Guy
+3,4 M de vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+38:55
+UN CORPS PARFAIT À TOUT PRIX : plongée dans le monde extrême du bodybuilding 🇺🇸
+Progetto Happiness
+1,1 M de vues
+•
+il y a 7 mois
+Doublée
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+975 k vues
+•
+il y a 11 mois
+
+    

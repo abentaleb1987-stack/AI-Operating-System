@@ -1,0 +1,2331 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+9 compétences IA gratuites qui ressemblent à des codes de triche
+Doublée automatiquement
+Matt Wolfe
+Matt Wolfe
+992 k abonnés
+
+
+4,6 k
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+123 449 vues  24 juin 2026  #ClaudeCode #FreeAITools #AIAgents
+9 skills et plugins gratuits qui rendent Claude Code, Codex et autres agents de programmation IA bien plus performants. Et oui, ils sont tous gratuits !
+
+Les skills et plugins sont des fichiers d'instructions réutilisables qui permettent à votre agent IA d'adopter un comportement reproductible, évitant ainsi de repartir de zéro à chaque fois. Dans cette vidéo, je vous présente 9 de mes outils préférés, je les installe en direct et je compare plusieurs d'entre eux pour que vous puissiez constater précisément les différences.
+
+J'aborde GStack (qui transforme Claude Code en une véritable équipe d'ingénierie virtuelle), Stop Slop (qui supprime les annotations de l'IA dans votre code), Graphify (qui transforme n'importe quel code source ou base de connaissances en un graphe interrogeable utilisable comme mémoire par votre agent), Understand Anything (des cartes d'intégration visuelles pour tout code source), Last 30 Days (une analyse des sentiments en temps réel sur Reddit, X, YouTube et autres plateformes), les skills Front End Design et Taste d'Anthropic (des tests de conception comparatifs), et ReMotion vs HyperFrames (des animations générées par l'IA à partir d'une simple commande).
+
+Chaque compétence est compatible avec Claude Code, Codex, Cursor, OpenClaw, Hermes, VS Code et GitHub Copilot. Vous trouverez les liens vers chacun d'eux ci-dessous.
+
+Pour en savoir plus :
+
+🛠️ Explorez les outils et actualités de l’IA : https://futuretools.io/
+
+📰 Newsletter hebdomadaire : https://futuretools.io/newsletter
+
+Réseaux sociaux :
+
+❌ Twitter/X : https://x.com/mreflow
+
+🖼️ Instagram :   / mr.eflow  
+
+🧵 Threads : https://www.threads.net/@mr.eflow
+
+🟦 LinkedIn :   / matt-wolfe-30841712  
+
+👍 Facebook :   / mattrwolfe  
+
+Compétences et plugins mentionnés :
+
+GStack : https://github.com/garrytan/gstack
+
+Stop Slop : https://github.com/hardikpandya/stop-...
+
+Graphify : https://github.com/safishamsi/graphify
+Comprendre n'importe quoi : https://github.com/Egonex-AI/Understa...
+30 derniers jours : https://github.com/mvanhorn/last30day...
+Conception front-end (Anthropic) : https://www.skills.sh/anthropics/skil...
+Maîtrise du goût : https://github.com/Leonxlnx/taste-skill
+ReMotion : https://github.com/remotion-dev/remotion
+HyperFrames : https://github.com/heygen-com/hyperfr...
+
+Si vous souhaitez d'autres analyses de ce type, n'hésitez pas à me le faire savoir dans les commentaires.
+
+Collaborons ! Pour toute demande concernant la marque, le sponsoring ou les partenariats commerciaux : mattwolfe@smoothmedia.co
+
+Horodatage :
+
+00:00 L’importance des compétences
+01:05 Compétences vs Plugins : Explication
+02:45 GStack : Votre équipe d’ingénierie IA
+08:14 Code IA plus propre
+09:25 Graphify : Les graphes de connaissances comme mémoire
+14:14 Comprendre tout : Cartes de code visuelles
+17:55 Petit rappel concernant la newsletter
+
+18:39 Les 30 derniers jours : Analyse des sentiments en temps réel
+20:55 Design front-end vs Sensibilité gustative
+24:46 Duel d’animations : ReMotion vs HyperFrames
+28:07 Conclusion
+
+#ClaudeCode #AIAgents #FreeAITools
+Matt Wolfe explores how reusable instruction files and plugin bundles allow users to enhance agent harnesses like Codeex and Claude Code. By integrating these specialized skills, individuals can automate complex workflows, visualize data through interactive knowledge graphs, and generate custom animations directly within their coding environments.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Matt Wolfe
+992 k abonnés
+Vidéos
+À propos
+
+Twitter
+
+Instagram
+
+Facebook
+159 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@reddfx750
+il y a 1 mois
+definetly more videos about skills & plugins! great!
+
+57
+
+
+Répondre
+
+
+@Michael-m9c5j
+il y a 1 mois
+Most people spend all their time comparing models when the real gains come from better workflows, skills and systems around them. the fact that these work across multiple tools is probably the most valuable part because you're not locked into one ecosystem. AI Shortcuts for the Lazy Mind by Trent Calloway talks about a similar idea of building reusable AI workflows instead of starting from scratch every time. Definitely picked up a few things from this one🙌
+
+64
+
+
+Répondre
+
+
+2 réponses
+
+@ScottBaker_
+il y a 1 mois
+This is actually useful. The constant (and mostly meaningless) model comparisons on other channels are good for maybe a few hours and seem to be mostly about pointing you to running on some advertiser's platform.
+
+5
+
+
+Répondre
+
+
+@elijahchiware1368
+il y a 1 mois
+Thank you, it's like you read my mind, loved the video and learned as well. You are helping us as everyweek
+
+7
+
+
+Répondre
+
+
+@Warren-jw9vv
+il y a 1 mois
+Only skill you need to understand when building apps with ai is a memory file. If you are not creating a ai memory file that houses all the progress and system structure that you are feeding to your agent, you are already failing.
+
+6
+
+
+Répondre
+
+
+@sebkeccu4546
+il y a 1 mois
+For me skills also include scripts, which avoid the llm to waste tokens by trying to figure something out, while a script might just do it without any token consumption
+
+13
+
+
+Répondre
+
+
+1 réponse
+
+@Trendingteenz
+il y a 10 jours
+"I've been looking for a video like this. Thanks for sharing."
+
+
+
+Répondre
+
+
+@mazageah
+il y a 1 mois (modifié)
+I liked the basic design more  23:14
+
+3
+
+
+Répondre
+
+
+@WesleyOverdijk
+il y a 1 mois
+I've spent almost a week with this video, this is packed with genuinely good info. Thanks!
+
+1
+
+
+Répondre
+
+
+@WenRolland
+il y a 1 mois
+Love this type of vids about skills and plugins, more please. Thanks!
+
+3
+
+
+
+Répondre
+
+
+@mark_kentwell
+il y a 1 mois
+These are valuable, Matt. Please make more of these. It's particularly useful when you show your prompt and the outcome and compare more than one tool side by side.
+
+So many short-form creators are using these types of skill dumps to build their following, but they aren't really showing how to use them or whether they are really any good IRL. Keep it up, legend.
+
+
+
+Répondre
+
+
+@leavanny11
+il y a 1 mois
+Love this video and all the tips! Please make more videos on skills and plugins! :) Thank you!!
+
+2
+
+
+Répondre
+
+
+@Ignaci0m5
+il y a 1 mois
+Please do make more videos like this one.
+
+3
+
+
+Répondre
+
+
+@spiroskakkos3455
+il y a 1 mois
+finally somebody who gives real value content instead reading the AI news that highlights the headers
+
+
+
+Répondre
+
+
+@entertane7788
+il y a 1 mois
+Definitely want more videos like this! Thanks!
+
+2
+
+
+Répondre
+
+
+@romankiselev2013
+il y a 1 mois
+Wow. This is a great video, Matt! Thanks for that!
+
+1
+
+
+Répondre
+
+
+@joshxt
+il y a 1 mois
+One of the most valuble AI videos I've seen in a lonnggg time. More of this please!
+
+
+
+Répondre
+
+
+@thejungal1274
+il y a 1 mois
+It's remarkable how quickly AI workflows are becoming a core professional skill. A year ago many of these capabilities felt experimental; today they're increasingly becoming part of everyday work.
+
+
+
+Répondre
+
+
+@pauldolton9118
+il y a 1 mois
+yeah ive used 2 of these this was a really good video i felt more involved and i liked what you found
+
+1
+
+
+Répondre
+
+
+@DanRobotham1979
+il y a 1 mois
+This is great, you go into enough detail without going overboard 
+
+
+
+Répondre
+
+    
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Why Skills Matter
+0:00
+One of the best things about tools like
+0:01
+OpenAI's Codeex and Claude Code or
+0:04
+Claude Co-work is that there are a lot
+0:06
+of people using them already and
+0:07
+figuring out the best way to actually
+0:10
+get results from them. And many of those
+0:12
+people instead of you know like hoarding
+0:14
+that knowledge to themselves actually go
+0:16
+and make their findings available for
+0:18
+anyone to duplicate. And they do that in
+0:21
+the form of what we call skills and
+0:23
+plugins. And people are using these
+0:25
+skills to do crazy things like these
+0:27
+awesome knowledge graphs and to do deep
+0:29
+real-time research and to act as their
+0:32
+CEO and to even create animations for
+0:35
+them that they can use inside of videos.
+0:37
+So, in this video, I'm going to share my
+0:39
+absolute favorite skills and plugins
+0:40
+that I've come across that are
+0:42
+completely free to install in Codeex or
+0:45
+Claude Code or whatever your harness of
+0:48
+choice is. These skills and plugins have
+0:50
+become pretty universal. So they'll work
+0:52
+in like any of the idees or agent
+0:55
+harnesses that you use. You know,
+0:57
+Codeex, Claude Code, Cursor, OpenClaw,
+1:01
+Hermes, VS Code, Microsoft Copilot, like
+Skills vs Plugins Explained
+1:05
+all of those. Now, before I get into my
+1:07
+favorites, let me quickly explain what
+1:09
+skills and plugins are. If you want to
+1:11
+skip over the explanation, just jump to
+1:13
+this timestamp to dive right into my
+1:16
+favorites. All right. So, a skill is
+1:17
+basically a reusable instruction file.
+1:21
+It's typically just like a detailed
+1:22
+prompt written inside of a skill.md
+1:25
+file. There's also sometimes some
+1:26
+additional references, scripts,
+1:29
+examples, or assets to go along with it,
+1:31
+but most of the time it's essentially
+1:32
+just a prompt that's already been dialed
+1:34
+in so that you get a consistent result
+1:36
+whenever that skill is called upon. Then
+1:39
+when you go to write your own prompt,
+1:40
+the large language model reads both that
+1:43
+skill file to help it understand what to
+1:45
+do and the prompt that you just gave it
+1:48
+so that both are fed into the model at
+1:51
+the same time. A plug-in on the other
+1:53
+hand is more of like a bundle. It can
+1:55
+package skills, agents, hooks, MCP
+1:58
+servers, commands, or other config so
+2:01
+that someone else can install the whole
+2:02
+thing instead of like manually copying
+2:05
+folders. So, a skill is essentially like
+2:09
+the single prompt that tells the model
+2:11
+what to do whenever that skill is called
+2:13
+upon. A plug-in is much more of a bundle
+2:15
+that has not only skills, but agents and
+2:18
+MCPs and all sorts of other stuff. But
+2:20
+the magic in all of these is that they
+2:22
+don't just give your agent more context.
+2:24
+They kind of give it like a repeatable
+2:26
+behavior because every time you call on
+2:28
+one of these skills or plugins, it knows
+2:30
+how to act every single time. All right,
+2:33
+now that I've explained that poorly, and
+2:35
+I fully expect the comments to tell me
+2:37
+what I got wrong, let's dive into my
+2:39
+favorites because let's be honest,
+2:41
+that's what you came for. You're not
+2:42
+here to learn. You want to see this do
+2:44
+some cool stuff. The first one I want to
+GStack: Your AI Engineering Team
+2:46
+talk about is called GStack, and it
+2:48
+comes from Gary Tan, who's the CEO of Y
+2:51
+Combinator. Now, I'm not going to get
+2:52
+too hung up in whether or not these
+2:54
+different projects I'm talking about are
+2:56
+skills or plugins. At the end of the
+2:59
+day, you're going to set them up pretty
+3:01
+much the same way. This one is
+3:03
+essentially a giant bundle of a whole
+3:05
+bunch of skills that you can give your
+3:06
+agent. Here's how Gary describes it. It
+3:09
+turns cloud code, but it also works in
+3:11
+all the other things as well into a
+3:13
+virtual engineering team. A CEO who
+3:15
+rethinks the product, an engineering
+3:17
+manager who locks architecture, a
+3:19
+designer who catches AI slop, a reviewer
+3:21
+who finds production bugs, a QA lead who
+3:23
+opens a real browser, a security offer
+3:25
+who runs OWASP and stride audits, I
+3:28
+don't even know what that means, and a
+3:29
+release engineer who ships the PR.
+3:31
+There's 23 specialists and eight power
+3:33
+tools, which are all /ash commands, all
+3:36
+markdowns, and all free to use. And
+3:37
+we're going to install most of these
+3:38
+tools pretty much the same way. Here's
+3:40
+how simple it can be. I'm going to grab
+3:43
+this GitHub URL up here,
+3:44
+github.com/grytan/gsttack.
+3:47
+And if I was installing it in the Claude
+3:49
+code app here, I'm simply going to come
+3:51
+down to my prompt box and say, "Install
+3:54
+this for me, please." And then just give
+3:56
+it the URL to the GitHub. Literally,
+3:59
+that's how easy it is. If I'm doing it
+4:00
+in Codeex, I can do it exactly the same
+4:03
+way. Now, one caveat with Codex is they
+4:05
+do have this plugins and skills
+4:07
+marketplace. So, some of the plugins and
+4:09
+skills that we're going to look at, you
+4:11
+don't even need to have it install it
+4:12
+that way. You could just go and click
+4:14
+this add button next to it, and it'll
+4:16
+just be in Codeex. But if I search
+4:18
+GStack, you'll notice that it's not one
+4:20
+of the available tools in here. So, I'm
+4:22
+going to come down to chats down here in
+4:24
+Codeex and say, "Install this for me."
+4:28
+And then paste that GitHub repo right in
+4:30
+there. Let it go to town installing that
+4:32
+for me. And we can see we've got it now
+4:35
+installed in Cloud. And if I jump over
+4:37
+here to codeex, it's installed here in
+4:39
+Codeex as well. I'm pretty much going to
+4:41
+follow that same process for every skill
+4:44
+or plugin that I install. But just know
+4:47
+that all of the plugins and skills that
+4:49
+I show have been shown to work in
+4:52
+Codeex, Cowwork, Claude Code, OpenClaw,
+4:55
+Hermes, Visual Studio Code, GitHub
+4:58
+Copilot. They work across the board in
+5:00
+all of them. Just pretty much follow
+5:02
+that same simple process. just ask the
+5:04
+agent harness to do it for you. So, for
+5:07
+the remainder of this video, I'm just
+5:08
+going to work in codeex to simplify
+5:10
+things and keep the video moving along.
+5:12
+Now, just to show you that this did
+5:14
+install in Claude Code and is working,
+5:16
+I'm going to create a new session. I'm
+5:18
+actually going to open up my little test
+5:19
+folder here, and I'm going to give it
+5:21
+the command slashgstack office hours.
+5:25
+Office hours is one of the skills that's
+5:27
+built in. I do have to give it this
+5:29
+/gstack the way we installed it here.
+5:31
+And then I'll say, "I want to build a
+5:33
+web app that takes a YouTube channel
+5:34
+URL, analyzes the last 20 uploads, and
+5:36
+suggests 10 new video ideas. Help me
+5:38
+pressure test the idea before we build."
+5:40
+I'll submit that, and it's going to call
+5:42
+upon our GStack office hours skill here,
+5:46
+and it's going to stress test this idea.
+5:48
+Now, while that's running, I'll jump
+5:50
+back over to Codeex here, and we can see
+5:52
+that if I come up to plugins, click on
+5:54
+skills at the top, all of these GStack
+5:57
+skills are now installed. And again,
+5:59
+this is a giant bundle of various
+6:01
+skills. I'm not going to go through all
+6:03
+of them because, well, there's a lot.
+6:05
+But I'll open this business dashboard
+6:07
+project that I have here. This is a
+6:09
+dashboard that I created that tracks all
+6:11
+of my various social stats across
+6:13
+platforms for me. And I'll give it the
+6:14
+prompt gstack-review.
+6:17
+I'm going to use the review skill and
+6:18
+say review the current changes like a
+6:20
+senior engineer. Look for bugs, missed
+6:22
+edge cases, security issues, and UX
+6:24
+problems. So, it's using that GStack
+6:26
+review skill. And it's going to go ahead
+6:28
+and review the code for me here. Jumping
+6:30
+back over to Claude Code to see how
+6:32
+we're doing on my idea for a idea
+6:35
+generator. It's starting to ask me some
+6:37
+questions here. What is your goal with
+6:39
+this startup/real product? Internal
+6:42
+entrepreneurship. Side project
+6:43
+hackathon/demo. For this, let's go side
+6:46
+project. Over on the GitHub repo here,
+6:48
+Gary suggests doing these four skills
+6:50
+first. Run the office hours skill and
+6:52
+describe what you're building. Run the
+6:54
+planned CEO review on any feature idea.
+6:57
+Run review on any branch with changes.
+6:59
+Run QA on your staging URL. And then
+7:02
+stop there and you'll know if this is
+7:04
+for you. But again, there is a ton of
+7:06
+skills in here. So just explore and play
+7:09
+around with these various skills when
+7:10
+you're writing code or planning projects
+7:12
+cuz there's a lot you can do here.
+7:14
+Jumping back to the codeex version here.
+7:16
+It found one issue with a recommended
+7:18
+fix. And it's actually a pretty helpful
+7:20
+fix because I changed the scope of this
+7:22
+project over time, but some of the old
+7:24
+scope is still built in. So, something I
+7:26
+probably need to fix. I'm still getting
+7:28
+more questions over here in my Clawude
+7:31
+Code about my idea cuz it's trying to
+7:34
+stress test it for me. It's giving me a
+7:36
+lot of questions that are helping me
+7:38
+stress test with the AI. So, I'll keep
+7:40
+answering the questions in the way that
+7:42
+I think this app should be built. And
+7:44
+this wasn't actually an app I was
+7:46
+planning on building. But who knows, by
+7:47
+the end of this process, maybe it's
+7:49
+something I'll build. All right, so in
+7:50
+Claude Code, this stress test took about
+7:53
+20 minutes, but it went back and forth
+7:55
+and back and forth and asked me a ton of
+7:57
+questions so that I can stress test with
+8:00
+it to decide if the idea is actually
+8:02
+good or not. It wrote up a brief for me
+8:04
+that it put into a markdown file and
+8:06
+really just sort of helped validate the
+8:08
+idea. But again, that's just scratching
+8:10
+the surface of all the skills available
+8:11
+here. So again, go play with it. Now the
+Stop Slop: Cleaner AI Writing
+8:14
+next skill I want to share is pretty
+8:17
+easy to explain. It's called stop slop
+8:20
+and it's a skill file for removing AI
+8:22
+tells basically. Once again simple
+8:24
+install. I will grab this GitHub file.
+8:26
+Jump into my codeex here. Create a new
+8:29
+chat. Install this for me. This one is
+8:31
+very small compared to GStack. So it
+8:33
+should be pretty quick. While it's doing
+8:34
+that, I'm going to have chatgpt write me
+8:36
+up just a one paragraph explanation here
+8:39
+about humanoid robots. I'll copy this
+8:42
+one paragraph explanation here. It's
+8:44
+telling me to restart codec. So, I'll go
+8:46
+ahead and do that. And if I look in my
+8:48
+plugins skills, my stop slop skill is
+8:52
+installed now. So, let's create a new
+8:53
+chat here. I will give it the prompt use
+8:56
+the stop slop skill to improve this
+9:01
+paragraph. And I'll go ahead and paste
+9:03
+in the paragraph we just got from
+9:04
+chatgpt. And it's going to use the stop
+9:06
+slop skill. And here's our new
+9:08
+paragraph. I'm not going to read them
+9:09
+both out loud. But if you do want to
+9:11
+pause and see what it did, feel free to
+9:14
+do so. If you do any AI writing, like
+9:16
+script writing or blog writing or
+9:18
+anything like that, and you want to
+9:19
+remove some of the AISMs from it, this
+9:22
+is a really simple skill that'll do that
+9:24
+for you. So, the next skill I want to
+Graphify: Knowledge Graphs as Memory
+9:26
+get into is actually one of my
+9:28
+favorites. I really love this skill.
+9:30
+It's called graphify. Now, Graphify
+9:32
+turns code bases and docs and schemas
+9:35
+and notes and media into like a
+9:38
+queryable knowledge graph and it makes
+9:41
+it so that your agent or you know your
+9:43
+coding harness or whatever you're
+9:45
+working with doesn't have to rediscover
+9:47
+all of the same relationships over and
+9:49
+over again. It can actually just query
+9:52
+the graph like memory. So, it's actually
+9:55
+got this really cool visual workflow,
+9:57
+but also it's got this memory component
+10:00
+that will save you on token cost cuz it
+10:02
+can use this as an additional memory.
+10:04
+So, we'll pop over to the GitHub page
+10:06
+for this one. All of the links to the
+10:08
+skills I'm talking about will be in the
+10:10
+description. We'll copy this URL, jump
+10:12
+on into Codeex. I'm going to start a new
+10:14
+chat down here, and I'm going to say
+10:16
+install this for me. And just to save
+10:19
+time for the rest of this video, I'm
+10:20
+going to do this same process to install
+10:22
+all of these skills. So, I don't need to
+10:25
+keep showing you this, I don't think.
+10:26
+Now, one really cool use of this
+10:28
+graphify skill is if you've been
+10:29
+building like a second brain, if you
+10:31
+watched my previous video where I built
+10:33
+like a whole knowledge base around
+10:34
+content that I come across online, it's
+10:36
+really good at sort of mapping that all
+10:38
+out for you. So, let's go to my second
+10:40
+brain project here. I'm going to create
+10:42
+a new chat. And I literally just have to
+10:44
+type /graphify and then a period. and
+10:47
+it's going to graphify this project in
+10:50
+this folder for me. You can see I'm in
+10:52
+my second brain folder. It asked me
+10:54
+which part of my second brain I want to
+10:55
+graphify. I'm going to tell it the wiki
+10:58
+and journal. Those are the ones I wanted
+11:00
+to graphify. Okay, so it took about 6
+11:02
+minutes, but it created our graph. And
+11:04
+check this out. If I open up our
+11:05
+graph.html file, we have this node
+11:08
+looking graph that looks similar to what
+11:10
+you'd get in the graph in Obsidian. Here
+11:12
+it is in Chrome to get a better view of
+11:14
+it. But if we zoom in here, we can see
+11:16
+all of the interconnections of various
+11:18
+things I've saved into my wiki. And
+11:20
+notice some patterns, you know, YouTube
+11:23
+creator strategy, creator
+11:24
+sustainability, creator persistence.
+11:27
+Down here, we have AI agent workflows,
+11:29
+second brain usefulness plan, and a
+11:31
+bunch of random like non-connected
+11:33
+nodes, but it makes for a pretty cool
+11:35
+visual. Now, these communities over here
+11:37
+are sort of like bundlings that it
+11:39
+found. So, if I unselect all of them, it
+11:41
+makes the whole thing disappear. But
+11:43
+let's say let's say I want to just see
+11:45
+the bundle of YouTube creator
+11:46
+strategies. I can select this right here
+11:48
+and zoom in and we can see some of the
+11:50
+stuff I've saved around YouTube creator
+11:52
+strategy. I can click on any section see
+11:55
+some of the neighbors like if I click on
+11:57
+social media algorithms neighbors are AI
+11:59
+slop audience avatar information gain
+12:02
+etc. So you get this nice little visual
+12:04
+of all of the stuff you've been saving
+12:06
+into your database here. But again this
+12:08
+is just a cool visual. What makes this
+12:11
+really helpful is that it's actually
+12:12
+this new memory layer. Like it helps
+12:14
+your agent see the interconnectedness of
+12:16
+stuff. So you can actually query it. So
+12:19
+if I close out of this here, I can ask
+12:21
+something like using the graph, what are
+12:23
+the biggest recurring themes in my
+12:25
+notes? And you can see it says I'll use
+12:27
+the existing graph rather than
+12:29
+rebuilding it. So it's going to query
+12:30
+the merged graph JSON file. And we can
+12:33
+see it found some connections. AI
+12:36
+workflows as judgment leverage, creator
+12:38
+strategy under platform pressure,
+12:40
+persistence, originality and creative
+12:41
+independence, behavior design and making
+12:43
+hard work easier to start,
+12:45
+sustainability as a creator, the second
+12:47
+brain, AI era positioning, etc. So, it
+12:50
+found all these connections of all of
+12:51
+the things that I've saved as well as
+12:53
+the things that I've journaled on into
+12:55
+my second brain. Let's ask, what are
+12:56
+three video ideas hiding in this
+12:58
+knowledge base? It says, "I'm going to
+12:59
+look for highderee bridge nodes and thin
+13:02
+but interesting clusters where the graph
+13:03
+suggests an underexploited connection."
+13:05
+And it found three based on things that
+13:07
+I've saved. AI won't replace creators.
+13:09
+It will expose their judgment. The
+13:10
+creator trap. When YouTube strategy
+13:12
+starts eating your originality, the new
+13:14
+4-hour work week is not about working
+13:16
+less. It's about building with leverage.
+13:17
+It also gave some details on, you know,
+13:19
+the graph connections and the angle for
+13:21
+the video as well as the hook. But the
+13:23
+nice thing about this is when I ask
+13:25
+these questions, it's not trying to
+13:26
+query across the entire database of all
+13:29
+the markdown files of everything that I
+13:31
+saved in my second brain. It's literally
+13:33
+just looking at the graph that it just
+13:35
+created and pulling these ideas from
+13:37
+just that, which is going to use way
+13:40
+less tokens and be way more efficient.
+13:41
+Graphy also works on code bases. I just
+13:44
+ran it on my future tools codebase as
+13:47
+well, and you can see it built this
+13:50
+graph here of future tools. a little bit
+13:52
+more complex than you probably realize.
+13:54
+[laughter]
+13:55
+But again, using this as the memory
+13:57
+layer is the real power here. It even
+13:59
+suggests some questions to ask here like
+14:01
+why does CN connect so many UI
+14:04
+communities. So if I ask it that it's
+14:06
+going to actually query the graph and
+14:08
+give me the answer without digging
+14:10
+through all of the code files
+14:12
+individually. And here's my answer. Now
+Understand Anything: Visual Code Maps
+14:14
+the next skill I want to talk about is
+14:17
+similar but also different. It's called
+14:20
+understand anything and they describe it
+14:23
+as graphs that teach are greater than
+14:25
+graphs that impress. Turn any code into
+14:27
+an interactive knowledge graph you can
+14:29
+explore, search and ask questions about.
+14:31
+So this one is slightly less about
+14:33
+memories for the agent and more about
+14:35
+like interactive onboarding and an
+14:38
+exploration layer for humans and agents.
+14:41
+So imagine this scenario. You write this
+14:43
+big code base on some project and then
+14:46
+you onboard a new hire to work on the
+14:49
+same code. You have them run something
+14:51
+like understand anything on the code and
+14:54
+it essentially onboards them to what's
+14:57
+going on inside of the code. But it does
+14:59
+still create some pretty cool visuals.
+15:00
+So, for example, if I want to have
+15:03
+understand anything map out everything
+15:04
+that's going on inside of the future
+15:07
+tools website, I could come to my future
+15:09
+tools project here in codeex, type /
+15:11
+understand, hit enter, and it will run
+15:13
+the understand anything skill so that it
+15:16
+will map out everything that's going on
+15:18
+on the website. After almost 9 minutes,
+15:20
+we have it all done here. And this is
+15:22
+what this one looks like. A little bit
+15:24
+more detailed of the flow of how all the
+15:27
+code is working together. We've got our
+15:29
+API routes, our security boundary. This
+15:32
+is flowing into our services and
+15:34
+integrations. So is our Superbase data
+15:37
+model, our admin workflows. This is all
+15:39
+funneling into the public UI. We have
+15:41
+documentation, project configuration.
+15:44
+It's just a very visual workflow of how
+15:47
+this site is built. A lot easier to
+15:49
+grasp than that giant cloud we were just
+15:51
+looking at with Graphify a minute ago.
+15:53
+And I can click into any one of these to
+15:55
+dig a little bit deeper. So, if I click
+15:57
+into services and integrations, it will
+15:59
+show me a map of all the services and
+16:01
+integrations and how they all connect
+16:02
+together. So, you know, you've got your
+16:04
+news, which feeds into server and also
+16:07
+feeds into types. We've got mock tools,
+16:09
+which were originally just sort of like
+16:11
+demos that I put in that probably don't
+16:13
+need to still be there. Come up here. We
+16:15
+can see how index and pipeline and
+16:17
+firecrawl and anthropic all sort of tie
+16:19
+together and how Google Sheets and
+16:21
+Beehive are tying into our API routes.
+16:23
+And it's just a much more visual flow so
+16:25
+that somebody that's a coder could kind
+16:27
+of come in here and see how all of the
+16:29
+pieces fit together. Now, because I'm a
+16:31
+vibe coder and I don't totally know what
+16:33
+I'm doing, it's probably a giant
+16:34
+spaghetti mess. Somebody that actually
+16:36
+knows what they're doing would probably
+16:38
+be a lot cleaner looking of a workflow
+16:40
+for being honest here. But if I jump
+16:42
+back to codeex, I can ask it things like
+16:44
+where should a new developer start on
+16:47
+this? And it's actually going to look at
+16:49
+the workflow again as sort of like a
+16:51
+memory to help answer that question as
+16:54
+opposed to digging through all of the
+16:55
+entire code again. And it's going to
+16:57
+give me a quick explanation of where the
+16:59
+developer should start. And here's what
+17:01
+understand anything looks like when I
+17:03
+run it on my second brain. We have a
+17:05
+giant knowledge [clears throat] map of
+17:08
+how everything interconnects. a little
+17:11
+bit more hectic for this second brain
+17:13
+concept here. But that's a view of all
+17:16
+of the content and journal entries I've
+17:19
+saved into my second brain. If I click
+17:21
+into one of these, like this Riley Brown
+17:23
+video, you can see that it shows the
+17:26
+route of how these connect to each
+17:28
+other. So, it's connected to my index
+17:30
+page. Down here, it's connected to
+17:32
+probably another Riley Brown video and
+17:35
+another Riley Brown video. So you could
+17:37
+click on any one of these and see how
+17:39
+they connect together with other sources
+17:41
+in here. Let's just click on another one
+17:43
+at random and we can see how they all
+17:45
+connect together. You know, not quite as
+17:47
+useful as using this for code,
+17:49
+especially when your knowledge base gets
+17:51
+very large, but still a really cool
+17:53
+visual to click around and play with.
+Newsletter Quick Plug
+17:56
+All right, before I move on to the next
+17:57
+skill, I want to shout out really
+17:59
+quickly. If you haven't already, make
+18:00
+sure you subscribe to the FutureTools
+18:02
+newsletter. Head on over to
+18:03
+futuretools.io/newsletter io/newsletter
+18:05
+and join. We have over 250,000
+18:08
+subscribers now. And every single week,
+18:10
+I'm going to send you two emails per
+18:12
+week with the most important news that
+18:14
+you need to know in the AI world, as
+18:15
+well as the coolest tools that I came
+18:17
+across that week. It's totally free to
+18:20
+subscribe. You also get some extra
+18:21
+goodies like my AI income database,
+18:24
+which is a database of all sorts of ways
+18:26
+that people have found to make money
+18:28
+using AI tools. It's like a make money
+18:31
+life hacks and you get it for free when
+18:33
+you sign up to the newsletter again over
+18:35
+at futuretools.io/newsletter.
+18:38
+All right, let's move on to the next
+Last 30 Days: Real Time Sentiment Research
+18:39
+skill. The next skill I want to talk
+18:40
+about is called last 30 days. And this
+18:43
+is a great skill if you're doing
+18:45
+research or you want to find out what
+18:47
+like the internet sentiment is on a
+18:50
+specific topic. So, what this one does
+18:52
+is it helps you figure out what people
+18:54
+are actually saying across the internet
+18:56
+right now. is searches things like
+18:58
+Reddit, X, YouTube, Hacker News, Poly
+19:00
+Market, GitHub, and just the web in
+19:03
+general, and then it synthesizes a
+19:05
+grounded summary on what it finds. So, I
+19:08
+went ahead and installed this one in
+19:09
+codeex already using the exact same
+19:11
+method we've done in the past. And if I
+19:13
+click on chat here to start a new chat,
+19:15
+I can type slashlast 30 days to call
+19:19
+upon this skill. Just for fun, let's do
+19:22
+research Claude Fable. find what people
+19:24
+are excited about, what they're confused
+19:25
+about, and what they're speculating will
+19:27
+happen. And it gives me back an
+19:29
+explanation of the sentiment around
+19:31
+Fable right now. People are excited
+19:33
+because Fable feels like a real
+19:34
+capability jump. Developers are excited
+19:36
+about coding agent leverage. Confusion
+19:38
+is mostly about access, citizenship, and
+19:40
+shutdown mechanics. People are confused
+19:41
+by Fable verse mythos. And it's also
+19:44
+sharing all the sources where it found
+19:46
+it, like it's looking at Reddit and
+19:47
+YouTube, Anthropics announcement, the
+19:49
+system card, things like that to pull in
+19:51
+details. At the bottom, it gives us the
+19:53
+key patterns. Excitement centers on work
+19:55
+completion. Availability drama drowned
+19:57
+out launch hype. Cost is treated as
+19:59
+destiny. Safety classifiers are the
+20:01
+technical mystery box. The next bet is
+20:04
+restoration plus workarounds. And then
+20:06
+it tells us what agents actually
+20:08
+reported back. So it pulled 21 threads
+20:10
+from Reddit, 20 videos from YouTube, 27
+20:13
+stories from Hacker News, 19 items from
+20:15
+GitHub, four markets on Poly Market, and
+20:18
+it goes on to say, I'm now an expert on
+20:20
+Cloud Fable 5. some things I can help
+20:22
+with. And then it gives you some
+20:23
+follow-up questions you can ask. Another
+20:24
+really cool thing is you can say use the
+20:26
+same skill to generate a sharable HTML
+20:31
+file. And it actually has instructions
+20:34
+inside of the skill to design out this
+20:36
+HTML file. You can see it says I'll use
+20:38
+last 30 days HTML export path and reuse
+20:41
+the saved Claude Fable research. So it
+20:43
+already has an HTML export. It already
+20:45
+knows what to do with that information.
+20:47
+And here's the HTML page that it
+20:49
+created. pretty much the same
+20:51
+information, just a, you know, easier
+20:53
+way to view it and something that you
+20:54
+can share with others. All right, the
+Front End Design vs. Taste Skill
+20:56
+next two skills I'm going to share are
+20:58
+kind of similar. So, I'm just going to
+21:00
+sort of lump them together. One of them
+21:01
+is the front-end design skill, which is
+21:04
+actually made by Anthropic. And if we
+21:06
+actually look at the skills.sh
+21:08
+website, which is a site that helps
+21:10
+organize and find skills, it's actually
+21:13
+the second most popular skill of all
+21:15
+time here. And this one does pretty much
+21:17
+exactly what it sounds like when you're
+21:18
+designing a web page or an app. It will
+21:20
+help with the aesthetics of the
+21:22
+front-end design. Now, the other one
+21:24
+that I wanted to talk about is called
+21:26
+the taste skill. This one comes from
+21:28
+Leon XLNX and it's got nearly 50,000
+21:31
+stars on GitHub, but pretty much does
+21:34
+the same thing. It gives your AI good
+21:36
+taste. Stops AI from generating boring
+21:38
+generic slot specifically for your front
+21:41
+end. So, if you're building a website or
+21:43
+an app or something like that, again,
+21:44
+this is going to help with the design of
+21:46
+it. I've installed both of these skills
+21:48
+on codecs and I asked each skill to
+21:51
+redesign the future tools homepage. So,
+21:53
+for a quick reference, this is what the
+21:55
+future tools homepage looks like right
+21:57
+now, right? It's the AI tools database.
+22:00
+It's got all the categories you can
+22:02
+select from. You can search for AI tools
+22:05
+and it's got, you know, a giant
+22:06
+filtering of all the AI tools that are
+22:08
+available. That's our starting point.
+22:10
+For my first test, I asked it to look at
+22:12
+the current homepage design, redesign it
+22:14
+so it looks cleaner and more eyeleasing,
+22:16
+and create a new HTML page so we can see
+22:18
+what it looks like. But for this first
+22:20
+test, I said, "Don't use any additional
+22:22
+skills to accomplish this. Just use the
+22:24
+model by itself." Here's what it
+22:26
+designed for the new Future Tools
+22:28
+website when it just designed it with no
+22:31
+design skills whatsoever. Again, here's
+22:34
+my current site. Here's the new one that
+22:36
+it just designed. pretty much fairly
+22:40
+similar. I do kind of like how it put
+22:42
+the call to action off to the right
+22:43
+instead of being right here. That's a
+22:45
+little bit cleaner than what I've got,
+22:46
+honestly. I then gave the exact same
+22:49
+prompt, but this time said, "Use the
+22:51
+front-end design skill to accomplish
+22:53
+this." And here's the design using the
+22:56
+front-end design skill. Definitely more
+22:58
+colorful. Again, it kind of did this
+23:00
+similar thing where there's the top is
+23:02
+sort of split. Definitely a better
+23:04
+design than this really basic design
+23:06
+that the model just did by itself. So my
+23:09
+site the model without any design skill
+23:13
+using Anthropic's design skill. Here's
+23:16
+what it came up with. I then gave it the
+23:18
+exact same prompt but told it to use the
+23:20
+design taste front end. And this is what
+23:22
+it designed using that one which is a
+23:24
+much cleaner look but it sort of removes
+23:27
+what the existing website is designed
+23:29
+for which is you know a curated list of
+23:31
+all of the tools. So, good design just,
+23:35
+you know, removed all of the tools from
+23:37
+the design. And then for my final test,
+23:39
+I told it to use both the design taste
+23:41
+front-end skill and the front-end design
+23:43
+skill. So, combine the two skills into a
+23:45
+single prompt and use them both. And
+23:48
+here's what that generated. It's got a
+23:50
+little bit of a gradient here. I don't
+23:51
+like how big this image is over on the
+23:54
+right. That's a little weird. And I
+23:55
+mean, it looks decent, but those are the
+23:58
+examples. Obviously, aesthetic is a very
+24:02
+subjective topic, so you decide. This is
+24:05
+my original. This is very plain, boring.
+24:08
+I kind of designed it to be like a
+24:09
+Craigslist kind of very simple site.
+24:12
+Here's what AI designed on its own.
+24:13
+Here's what it designed when given the
+24:15
+enthropic front-end design skill. Here's
+24:17
+what it designed when given just the
+24:19
+taste skill. And then here's what it
+24:21
+designed when told to work with both of
+24:24
+those skills. Probably my least favorite
+24:26
+design of all of them, quite honestly.
+24:28
+But those are two skills that you can
+24:29
+use if the design you're trying to get
+24:32
+for your site or your app aren't quite
+24:35
+coming out the way you want them to by
+24:37
+just using the model alone. You can
+24:39
+install one or both of these skills and
+24:41
+get multiple variations of your design
+24:44
+to get something that you really really
+Animation Showdown: ReMotion vs. HyperFrames
+24:46
+like. There's two more skills I want to
+24:48
+show off and once again these two skills
+24:50
+are very very similarly related. One of
+24:53
+them's called remotion and the other one
+24:55
+is called hyperframes. And both of these
+24:58
+are skills that are designed to actually
+25:00
+use your coding app to generate
+25:03
+animations. Remotion is kind of its own
+25:05
+thing and hyperframes is made by Hey Jen
+25:08
+here, but you give each one of them a
+25:10
+prompt for a video you'd like to see it
+25:12
+generate and then it will make sort of
+25:14
+After Effectsy style videos. Not quite
+25:17
+as good as what you can do in After
+25:18
+Effects if you want something really
+25:20
+really polished. You're still probably
+25:21
+going to want to hire like a visual
+25:23
+designer or somebody that knows After
+25:24
+Effects, but it'll do really decent like
+25:27
+basic graphics. If you just need charts
+25:29
+or you need just text to animate on the
+25:31
+screen, things like that, these are
+25:32
+really good at that kind of thing. So,
+25:34
+for my first test here, I wanted to test
+25:37
+remotion. So, I used the remotion best
+25:40
+practices skill and I said create an
+25:41
+animation that looks like a text
+25:43
+conversation on an iPhone. And then I
+25:45
+gave it a quick text dialogue to
+25:47
+generate. It generated this MP4 that I
+25:50
+can then view on my computer here. So,
+25:52
+it's an iPhone. Have you subscribed to
+25:53
+Future Tools yet? No. Why? Because it's
+25:56
+literally how people are keeping up with
+25:57
+AI news these days. Oh, okay. That's how
+26:00
+they're doing it. Just subbed. Thanks. I
+26:02
+mean, that was one prompt and it made
+26:04
+that animation for me. It made this
+26:06
+11second animation of a text
+26:08
+conversation that I can now use in a
+26:10
+video. I then gave Codex the exact same
+26:13
+prompt, but this time called upon the
+26:15
+hyperframes skill to do the same thing.
+26:18
+And here's what that one looked like.
+26:20
+Quite a bit better. Honestly, I I would
+26:22
+say that actually looks more like an
+26:24
+iPhone than the other one. I don't like
+26:25
+how the text on the blue bubble is
+26:27
+black. But other than that, it did a
+26:29
+really really good job of making this
+26:32
+little iPhone animation from just one
+26:35
+prompt. That was just one prompt
+26:36
+through. Both of them did a pretty good
+26:38
+job. So, if you're trying to get this
+26:39
+kind of animation, you can use both of
+26:42
+those skills and see which one does it
+26:44
+better. I wanted to test a logo reveal.
+26:46
+So, I gave it the future tools logo here
+26:48
+and said create an animate. I didn't
+26:50
+even spell it right. Create an animated
+26:51
+logo reveal that starts where the logo
+26:53
+is not showing. Then there's a particle
+26:55
+explosion and then the attached logo is
+26:57
+formed from the particles that exploded.
+26:59
+Use the remotion best practice skill.
+27:02
+So, this is the version that remotion
+27:04
+created. nothing. Particle explosion and
+27:07
+then they all form into the future tool
+27:09
+logo just like that. Pretty good. So if
+27:11
+you need like a logo reveal animation,
+27:13
+you can now get AI to code it up for
+27:16
+you. Just like that. And of course, I
+27:17
+tested the same animation with
+27:19
+hyperframes. Identical prompt except I
+27:21
+swapped out reotion with use the
+27:23
+hyperframe skill. And here's how
+27:25
+hyperframes did it. We have a blank
+27:27
+screen, an explosion, and then it forms
+27:30
+into the future tools logo for us.
+27:33
+Pretty good. I think I like that second
+27:34
+one a little bit better. Actually, I
+27:35
+mentioned it was good at charts and
+27:37
+graphs, so I want to do another example
+27:38
+here. Create an animated stock chart
+27:40
+that shows the growth of Nvidia stock
+27:42
+over the last 5 years. Here's how
+27:44
+Remotion did it. We can see our stock
+27:46
+chart. And little by little, we can see
+27:48
+how the Nvidia stock sort of exploded
+27:51
+over the last 5 years. And it even used
+27:54
+Yahoo Finance to get the source of that
+27:56
+information. And here's the version that
+27:58
+Hyperframes generated. A little bit more
+28:01
+animation of things going on inside this
+28:03
+video. Definitely think the Hyperframes
+28:05
+one is the preferable version here. And
+Final Thoughts and Outro
+28:08
+that's what I got for you today. Some of
+28:10
+the coolest skills and plugins that you
+28:12
+can plug into Claude Co-work, OpenAI's
+28:15
+Codeex, or any agent or harness that
+28:18
+you're using to actually write your code
+28:20
+and do this sort of thing. More and more
+28:22
+of these are coming out all of the time.
+28:24
+So, if you want to see more breakdowns
+28:25
+of cool skills and plugins that you can
+28:27
+use directly inside of tools like this,
+28:29
+let me know in the comments, and I will
+28:30
+definitely make more videos like this if
+28:32
+there's enough interest and demand for
+28:34
+them. Again, that's what I got for you.
+28:36
+If you like tool breakdowns and
+28:37
+tutorials like this, make sure you like
+28:39
+and subscribe to this channel, and I
+28:41
+will make sure more stuff like this
+28:43
+shows up in your YouTube feed. Also,
+28:45
+every single Friday, I make a news
+28:47
+breakdown video where I share everything
+28:49
+that happened in the world of AI that I
+28:51
+think the most people need to know
+28:52
+about. They come out pretty much every
+28:55
+single Friday without fail to help
+28:57
+people stay looped in on what's going on
+29:00
+in the world of AI if that's your thing.
+29:02
+Also, make sure to like and subscribe
+29:04
+cuz those will show up in your feed as
+29:06
+well. Anyway, that's what I got for you.
+29:08
+Thanks for hanging out. Thanks for
+29:09
+nerding out with me. Really, really
+29:10
+appreciate you and hopefully I'll see
+29:12
+you in the next one. The bike.
+
+Tout
+
+De la série
+
+Source : Matt Wolfe
+
+Interface de programmation
+
+Programme informatique
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+
+38:58
+Le nouveau manuel et guide de prompting pour ChatGPT
+Matt Wolfe
+60 k vues
+•
+il y a 3 semaines
+Doublée automatiquement
+
+
+34:44
+OpenClaw......RIGHT NOW??? (it's not what you think)
+NetworkChuck
+1 M de vues
+•
+il y a 4 mois
+
+
+12:08
+Live ftn ANECDOTE
+nezus_officiel
+30 vues
+•
+Diffusé il y a 10 heures
+Nouveau
+
+
+18:56
+Installer Buzz avec Hermes : 100% open source, 0€ de licence
+Dr. Firas
+1 k vues
+•
+il y a 13 heures
+Nouveau
+
+
+33:57
+Créez une base de connaissances « second cerveau » avec l'IA (étape par étape)
+Matt Wolfe
+157 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+28:52
+GLM-5.2 : Le guide complet du meilleur modèle open-source
+Matt Wolfe
+98 k vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+20:39
+Puis-je survivre à l’hiver en Alaska sans sac de couchage, sans tente et sans bâche ?
+Outdoor Boys
+27 M de vues
+•
+il y a 4 ans
+Doublée automatiquement
+
+
+9:35
+Le secret derrière 7M$/mois sur Facebook Ads
+Social Scaling
+493 vues
+•
+il y a 1 mois
+
+
+8:45
+De 0 à 4000€/jour sur Meta : la méthode complète
+Social Scaling
+677 vues
+•
+il y a 1 mois
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,7 M de vues
+•
+il y a 8 mois
+Doublée
+
+
+50:37
+VIVRE DANS UNE VOITURE CITOYENNE PAR −51°C | ÉPISODE 7
+Zoef on the Move
+4 M de vues
+•
+il y a 3 semaines
+Doublée automatiquement
+
+
+38:34
+Reconstruction d'une cabane hors réseau dans notre ferme abandonnée (préparation pour l'hiver en ...
+Outdoor Boys
+15 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+
+26:54
+4 Resto Traditionnels, 4 Villes En Corée !
+LeMondeDeChoi
+165 k vues
+•
+il y a 11 mois
+
+
+1:45:34
+Comment fortifier votre esprit et votre corps - dans la vie d'un des meilleurs bodybuilder du monde
+Le Déclic par Alec Henry
+24 k vues
+•
+il y a 5 mois
+
+
+12:49
+Pourquoi tu ne regardes plus Yomi Denzel
+Wizness
+62 k vues
+•
+il y a 11 jours
+
+
+24:26
+Camping in an Alaskan Survival Cabin
+Outdoor Boys
+34 M de vues
+•
+il y a 2 ans
+
+
+1:04:55
+SON ENFANCE CHAOTIQUE, SES ADDICTIONS... CHAT’N CHEAT MEAL #10 feat @Naj B Fit
+Bodytime
+276 k vues
+•
+il y a 2 ans
+
+
+18:22
+Les 5 meilleurs outils de réalisation de films par IA en 2026
+Content Creators
+243 k vues
+•
+il y a 4 mois
+Doublée automatiquement
+
+
+1:07:02
+Tout savoir sur le parcours de Gabriel Attal, le nouveau Macron.
+Trouble Fait
+8,4 k vues
+•
+il y a 5 heures
+Nouveau
+
+
+29:40
+Les fondamentaux de l'agent Hermes en 29 minutes
+Tina Huang
+211 k vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+34:08
+What Every Body Fat % Actually Looks Like (50% to 5%)
+Jeff Nippard
+15 M de vues
+•
+il y a 8 mois
+
+34:57
+J'ai construit un supercalculateur IA avec 5 Mac Studios
+NetworkChuck
+2,1 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+16:41
+8 pays dépensent 20 milliards pour éviter l'océan
+BeyondTheBuild Français
+22 vues
+•
+il y a 9 heures
+Nouveau
+
+17:21
+LA FEATURE QUE TU DOIS METTRE DANS TON SAAS MAINTENANT
+Melvynx
+1,5 k vues
+•
+il y a 1 jour
+Nouveau
+
+9:48
+Ces aliments qui n'ont rien à faire dans une bonne diète
+Le Musclay
+115 k vues
+•
+il y a 2 ans
+
+6:03
+ChatGPT Work vs Claude Cowork : la différence n'est pas l'intelligence
+Geo Skills
+35 vues
+•
+il y a 2 semaines
+Doublée automatiquement
+
+12:05
+J'ai mélangé des images réelles avec des effets spéciaux par IA… et c'est vraiment effrayant !
+Sightseeing Stan
+2 k vues
+•
+il y a 8 heures
+Nouveau
+Doublée automatiquement
+
+19:53
+Contrôlez votre mental avec cette technique
+Sadhguru Français
+468 k vues
+•
+il y a 2 ans
+
+36:44
+Actualités IA : Importantes mises à jour d'Anthropic, OpenAI et Google
+Matt Wolfe
+124 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+28:45
+I Swapped Diets With A Victoria's Secret Model
+Will Tennyson
+ et Vita Sidorkina - Morabito
+6,9 M de vues
+•
+il y a 3 semaines
+
+17:26
+IA : Le krach énergétique qui arrive ?
+Xavier Delmas
+69 k vues
+•
+il y a 3 semaines
+
+1:06:27
+ON MANGE 50 ALIMENTS DE LUXE (et on les juge) (c’est indécent)
+Amixem
+7 M de vues
+•
+il y a 10 mois
+
+1:39:14
+Le prix psychologique de la réussite : Alice Lhabouz révèle la vérité du business français
+Le Déclic par Alec Henry
+93 k vues
+•
+il y a 1 an
+
+18:36
+Glande pinéale, le plus grand plaisir que vous ayez jamais connu
+Sadhguru Français
+30 k vues
+•
+il y a 9 mois
+
+17:45
+JE MANGE COMME L'HOMME LE PLUS SEC AU MONDE
+Tibo InShape
+2,9 M de vues
+•
+il y a 3 ans
+
+11:22
+GLUCKSMANN : La VÉRITÉ derrière la FAUSSE INGÉRENCE 😂
+Actu Réfractaire
+19 k vues
+•
+il y a 5 heures
+Nouveau
+
+25:55
+Exercices de gym classés (du meilleur au pire !)
+ATHLEAN-X™
+2 M de vues
+•
+il y a 1 an
+Doublée automatiquement
+
+23:44
+Comment Gautama est-il devenu Bouddha ?  | Sadhguru Français
+Sadhguru Français
+351 k vues
+•
+il y a 6 ans
+
+32:39
+Vous devez utiliser Hermes DÈS MAINTENANT !! (adieu OpenClaw !!)
+NetworkChuck
+1,4 M de vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+27:49
+Actu IA : Une semaine DE FOLIE... Voici ce qui compte
+Matt Wolfe
+80 k vues
+•
+il y a 7 jours
+Doublée automatiquement
+
+    

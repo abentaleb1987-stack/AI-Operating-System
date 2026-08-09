@@ -5,7 +5,7 @@
 - Nom : Agents IA
 - Type : Systeme logiciel combinant modele IA, instructions, outils, memoire, workflow et controles
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-08-01
+- Derniere mise a jour : 2026-08-09
 
 ## 2. Role principal
 
@@ -127,6 +127,15 @@ Workflow de decisions persistantes :
 3. Rendre les ADR consultables au demarrage d'une nouvelle session ou lors d'un changement d'agent.
 4. Mettre a jour le statut d'une decision lorsque son contexte devient caduc.
 
+Workflow de securite agentique :
+
+1. Cartographier les entrees non fiables, donnees sensibles, outils, connecteurs et chemins d'exfiltration possibles.
+2. Appliquer le moindre privilege aux fichiers, secrets, API, scopes et actions accessibles a l'agent.
+3. Tester les injections directes et indirectes, y compris les contenus encodes, liens, documents et sorties d'outils.
+4. Valider et filtrer les entrees comme les sorties, tout en conservant les controles classiques de la couche applicative.
+5. Journaliser les appels d'outils et alertes, puis verifier qu'une compromission reste contenue dans un rayon limite.
+6. Exiger une approbation humaine pour toute action sensible, irreversible ou susceptible d'exposer des donnees.
+
 ## 9. Prompts & methodes
 
 Eviter les prompts de role vagues.
@@ -184,3 +193,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 - 2026-07-04 - Mise a jour - Sections 3, 7, 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
 - 2026-07-21 - Mise a jour - Sections 8, 12 - Source YouTube Mike Codeur ADR et memoire agentique, batch AOS GO partiel
 - 2026-08-01 - Mise a jour - Sections 3, 8, 12 - Source YouTube Projets IA RAG, batch AOS GO partiel
+- 2026-08-09 - Mise a jour - Section 8 - Source YouTube NetworkChuck, defense en profondeur des applications agentiques, batch AOS GO partiel

@@ -1,0 +1,651 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+1
+
+Image d'avatar
+Comment créer des publicités UGC IA qui génèrent un ROAS multiplié par 3,6 (Tutoriel complet)
+Doublée automatiquement
+Speel
+Speel
+20,7 k abonnés
+
+S’abonner
+
+14 k
+
+
+Partager
+
+Enregistrer
+
+Télécharger
+
+314 972 vues  9 nov. 2025
+Vous êtes sur le point de découvrir le flux de travail précis et reproductible que j'utilise pour transformer n'importe quel produit e-commerce en une publicité IA captivante et génératrice de revenus. Pas besoin d'agence créative, d'équipe coûteuse ni d'influenceurs.
+
+Cette vidéo vous guide pas à pas dans un processus en 5 étapes utilisant des GPT personnalisées, NanoBanana et Speel.co (avec des liens d'essai gratuits !) pour créer et modifier des publicités virales 100 % IA, comme celles qui ont généré un ROAS confirmé de 3,6x dans mes propres campagnes.
+
+Prêt à tout essayer ? Essayez gratuitement Speel sur https://speel.co
+
+Vous apprendrez :
+
+Comment utiliser l’IA pour rédiger instantanément des scripts vidéo de qualité, et non des séquences de remplissage ennuyeuses
+
+Les bons conseils pour créer des avatars de marque réalistes et cohérents grâce à Speel et NanoBanana
+
+Le processus précis pour animer ces avatars avec une synchronisation labiale et des expressions de niveau professionnel
+
+Comment générer rapidement des plans de coupe dynamiques pour des publicités captivantes
+
+Une méthode ultra-simple et accessible aux débutants pour monter et peaufiner votre publicité IA (dans CapCut – aucune expérience requise)
+
+Corriger les voix et l’audio avec ElevenLabs et synchroniser parfaitement les séquences publicitaires
+
+De grandes marques comme Reebok, American Eagle et Goli en profitent déjà. Ce n’est pas de la théorie : les publicités IA représentent l’avenir du marketing produit, que vous développiez une marque DTC ou que vous débutiez. Réduisez vos coûts de production, accélérez vos tests publicitaires et déployez vos campagnes les plus performantes plus rapidement que vous ne l’auriez jamais imaginé.
+
+Tous les outils, prompts et GPT gratuits sont ici :
+
+GPT de rédaction de scripts : https://chatgpt.com/g/g-68fe0ad4d02c8...
+Prompt Engineer pour la vidéo : https://chatgpt.com/g/g-68fe29da5f708...
+Magic Edit : https://chatgpt.com/g/g-68fe153fd8748...
+
+🎬 N'hésitez pas à liker, vous abonner et poser vos questions ou faire vos demandes en commentaires ! À bientôt !
+
+Chapitres -
+
+00:00 – Introduction : La puissance des publicités IA en 2025
+
+01:32 – Aperçu du processus de création d'une publicité virale IA en 5 étapes
+
+02:35 – Étape 1 : Création du script et de la liste des plans (avec GPT)
+
+04:18 – Étape 2 : Génération des premières images avec SPEEL et NanoBanana
+
+07:08 – Étape 3 : Création de vidéos face caméra avec SPEEL
+
+09:48 – Étape 4 : Création de clips B-Roll IA captivants
+
+11:07 – Étape 5 : Montage avec CapCut pour les débutants
+
+12:48 – Dévoilement de la publicité finale et autres exemples
+Alfie Carter outlines a five-step process for generating high-converting e-commerce ads using image-to-video technology. The tutorial covers creating AI-generated scripts, maintaining character consistency, and utilizing tools for realistic lip-syncing and editing.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Speel
+20,7 k abonnés
+Vidéos
+À propos
+471 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@gabiajando
+il y a 8 mois
+Finally someone who actually uses AI on ads and show results and not just create for “fun” and tell to create videos and never test those videos anyway
+
+152
+
+
+
+Répondre
+
+Speel
+·
+
+6 réponses
+
+@Vandeshasanam-d3k
+il y a 8 mois
+You looks like mark Zuckerberg 😊
+
+28
+
+
+
+Répondre
+
+
+@ReplayCandy
+il y a 8 mois
+You should probably mention that you are the founder of Speel, no?
+
+113
+
+
+Répondre
+
+
+1 réponse
+
+@Mayank-ai-DS
+il y a 3 mois
+That 5‑step workflow is insane—I’ve been scaling real clothing clients with exactly the same stack, and every subscription is covered on our end. The only thing that really feels lonely is doing the creative grind alone; I’m looking for somebody who lives and breathes this stuff and can keep the ideas flowing nonstop.
+
+1
+
+
+Répondre
+
+
+@PixelPulsezz
+il y a 8 mois
+Wow the first person on YouTube to ever show a UGC AI Ad that does not look like shit, everyone else just blindly promoting Arcads for affiliate commission
+
+26
+
+
+Répondre
+
+
+1 réponse
+
+@jameeno3
+il y a 8 mois
+Might be worth mentioning compliance / FTC concerns using AI avatars
+
+10
+
+
+Répondre
+
+
+@DropshippKing_LA
+il y a 4 mois
+pensaste en todo bro tradujiste el video al spanish agradecido al 100 hermanoo
+
+2
+
+
+Répondre
+
+
+@RealGoalMotion
+il y a 8 mois
+never thought ai ads could be this simple
+
+2
+
+
+
+Répondre
+
+
+@XxMrDAVIDA7xX
+il y a 5 mois
+After making my ad with your tutorial, analyzing the data and making some changes to my checkout and shipping process I'm currently at a 4.54 ROAS and climbing. This is my first time doing paid advertising but it is working wonders! I never thought it could be this simple.... Thank you Alfie! Subbed because of this.
+
+
+
+Répondre
+
+
+@AIUGCVideos
+il y a 6 mois
+This 5-step workflow is solid! The breakdown of script writing, image generation, and video editing makes it way less overwhelming. If you're looking for a faster alternative, Tagshop AI has a similar workflow with URL-to-video that can speed things up even more.
+
+2
+
+
+Répondre
+
+
+@luisdormuz90
+il y a 8 mois
+i actually learned a lot from this, thanks
+
+
+
+Répondre
+
+
+@AdSevenLabb
+il y a 4 mois
+Spot on! For most agencies, the real 'heart surgery' isn't just making one good ad, it’s scaling the creative output without bloating the payroll. AI automation is the only way to break the production bottleneck in 2026.
+
+
+
+Répondre
+
+
+@afiqhamdan1425
+il y a 8 mois (modifié)
+guys, the ROAS can easily be edited with nano banana too 
+
+38
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@heismclean
+il y a 3 mois
+So thank you so much i just made UGC out of this video.
+
+
+
+Répondre
+
+
+@joaquinsebastiian
+il y a 6 mois
+I think even the guy showing the video is a UGC haha ​​New sub
+
+
+
+Répondre
+
+
+@umucyobestmediatv7040
+il y a 8 mois
+i had no idea it was this easy
+
+
+
+Répondre
+
+
+@AhmedtidianeBarry
+il y a 8 mois
+never thought ads could be this cool
+
+
+
+Répondre
+
+
+@Mythicscribe
+il y a 8 mois
+I tried making a video like this… mine more ‘budget version’ but hey, it’s got heart 
+
+3
+
+
+Répondre
+
+
+@GMING-j9e
+il y a 8 mois
+wow i didn’t know it could be like this
+
+
+
+Répondre
+
+
+@CéuJazz
+il y a 13 jours
+valeu mark zukberg !!! você é o cara ...
+
+
+
+Répondre
+
+    
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+Chapitre 1 : Introduction : La puissance des publicités IA en 2025
+0:000 secondeYou're about to learn my five-step process to turn any e-commerce product from this into this or even this.
+0:099 secondesOkay, guys, you have to see what's happening on Metacub's website right now. Wait, why did no one tell me this is the secret to Haley Bieber skin?
+0:1717 secondesThese videos were made using 100% AI. And in this video, I'm going to walk you through how to use AI to write
+0:2424 secondesscripts that don't suck, creating consistent avatars using Nano Banana, animating your characters [music] using the world's most realistic lip syncing,
+0:3333 secondesand a really simple editing workflow that you can start using today to bring everything together. And before you tell
+0:4040 secondesme, but Alfie, AI ads don't work. I'm not interested, and I've got the data to prove it. Here's an AI creative that I am personally running. And as you can see, we have a rorowaz of 3.6x.
+0:5353 secondesBut this isn't just me. Brands like Reebok, Golen, American Eagle have been using AI in their ad campaigns to generate millions of dollars in revenue.
+1:031 minute et 3 secondesAnd the technology is getting better every single day.
+1:091 minute et 9 secondesToday, I'll be making an AI ad for Haley Bieber's beauty [music] line, Road. And the first thing we need is a script. But of course, we're not going to be writing
+1:171 minute et 17 secondesthat manually. So, I spent about 7 hours the other day just absolutely locked in uploading tons of viral ad scripts to
+1:251 minute et 25 secondesthis free GPT from huge brands to smaller brands that just had ads that blew up. And there's honestly millions
+Chapitre 2 : Aperçu du processus de création d'une publicité virale IA en 5 étapes
+1:321 minute et 32 secondesof these GPTs that claim to write the most amazing copy, but then you actually use them and it just sounds like every
+1:391 minute et 39 secondessingle other piece of AI trash. But watch this.
+1:421 minute et 42 secondes[music]
+1:421 minute et 42 secondesSo you click this button and it's going to ask you some questions. So you can see what is your product or service? Who is your target audience? What is the
+1:501 minute et 50 secondesdream outcome they want? What makes your product better than others? Do you have any testimonials or social proof? And then how quickly can people see results?
+1:581 minute et 58 secondesAnd these are actually pretty much the only things that the AI or a real script writer will need to write an amazing script. So you can just answer these and
+2:062 minutes et 6 secondeslet's see what we get. And if you read this, firstly, it's actually a good script, but also check this out. It's
+2:142 minutes et 14 secondesgiven me the entire shot list. Okay, so after a little bit of back and forth adding in my own magical touch, this is
+2:212 minutes et 21 secondeswhat I've got. And honestly, I think this is really [music] good. I'm going to throw this in notion to keep things organized. And then I think we're ready to start creating.
+2:332 minutes et 33 secondesSince we're using an image to video model, the first step of this process is to actually generate the first frames
+Chapitre 3 : Étape 1 : Création du script et de la liste des plans (avec GPT)
+2:402 minutes et 40 secondesfor every single one of these shots. But don't be overwhelmed. This is actually really simple to do. We're going to be using Spiel. And there's a free trial
+2:482 minutes et 48 secondesright now. And this part is actually unlimited, so you can generate as many images as you want. Once you've signed up, you see you can choose from the
+2:562 minutes et 56 secondesactor library. And there are tons in here. They all look insanely realistic.
+3:013 minutes et 1 secondeAnd you can also upload your own if you prefer. So, we're going to pick one actor and then use our shot list to transform them into the correct first
+3:093 minutes et 9 secondesframes. And to do that, I'll select the actor and then click edit image. And now I've got another GPT that writes prompts
+3:173 minutes et 17 secondesfor Nano Banana, which is the image editing model inside of Spiel. It's insanely easy to use. I'm literally just
+3:243 minutes et 24 secondesgoing to click this button and then as soon as it's ready, I'm just going to answer the questions. So, I'm literally going to say something as simple as just
+3:323 minutes et 32 secondeswrite a prompt that makes the woman in the image hold the product in the reference image. And now this is actually going to give me back a prompt
+3:403 minutes et 40 secondesthat is optimized for nanoblance to give me a really, really nice result. Then what I can do is copy that prompt, head back into steel, paste it in, and then
+3:483 minutes et 48 secondesupload my product image. And to get the best results with that, I would highly recommend using a clean product photo on
+3:553 minutes et 55 secondesa white background. Personally, I like to do four variations at a time. Click generate and then you can just scroll through and I can pick my favorite one.
+4:054 minutes et 5 secondesAnd that is now the first frame for our first shot. And look how perfect the character [music] consistency is here
+4:134 minutes et 13 secondescompared to the original. Just unbelievable. Okay, so let's repeat this with another shot. Okay, so if we look at shot number three, which is the first
+Chapitre 4 : Étape 2 : Génération des premières images avec SPEEL et NanoBanana
+4:214 minutes et 21 secondespart of the transformation, the script is my skin was so dry, and then the action is talking to the camera, looking upset, and has dry skin. So, they're not
+4:304 minutes et 30 secondesactually going to be talking in this, or they'll look like they're talking, but we're just going to hear the overlay.
+4:344 minutes et 34 secondesBut what we need here is obviously for them to look upset with dry skin. So, we need to create the first shot of that scene. Okay. Now, notice here that I'm
+4:434 minutes et 43 secondesselecting the base actor and not the newly generated image to edit. And the reason for that is that there may be a little bit of variation from one image
+4:524 minutes et 52 secondesto the next, which is fine. But if you then edit that same image 10 more times, then you're going to get 10 times the variation. If I just edit the same image
+4:594 minutes et 59 secondeseach time, I'm going to completely eradicate that problem. So again, I'm going to use the GPT to write the prompt for me, throw it back in Spiel, and then
+5:085 minutes et 8 secondesgenerate four new variations. Okay, look how good this one looks. So let's choose this. And this perfectly is going to work as the new shot, my opening scene.
+5:185 minutes et 18 secondesShe see she looks kind of upset, but it still is perfectly consistent. That is absolutely spot on. And what I could even do here to make it even more
+5:275 minutes et 27 secondesengaging is actually have her with a super close-up and she's actually touching her skin. Let's let's try that.
+5:335 minutes et 33 secondesOkay, so I've just typed in make her even closer up touching her skin whilst maintaining the same uneasy expression.
+5:395 minutes et 39 secondesOkay, nice. Look at this. So now you can see that I'm kind of beginning to build out my entire story line for each shot.
+5:485 minutes et 48 secondesI mean, that is just absolutely crazy.
+5:505 minutes et 50 secondesIt's coming together amazingly. Now, we need to actually turn these images into videos and pull them all together to create our final ad.
+5:595 minutes et 59 secondesOkay, so as you can see in my shot list, I've split it into two categories. We have A-roll and we have B-roll. And the A-roll is just where the character is
+6:086 minutes et 8 secondestalking directly to the camera. you can see and hear them speaking. And then your B-roll is just other supporting shots. This could be where the actor is
+6:166 minutes et 16 secondesdoing something else, but then you can hear the voice talking as an overlay.
+6:196 minutes et 19 secondesAnd it's a mixture of both that really make the ad super engaging. We're also going to do everything inside Spiel here since it has all the video models we
+6:286 minutes et 28 secondesneed. As you can see, there's an easy mode and a custom mode, and we're going to be using a combination of both to produce our entire ad. So, all you need
+6:376 minutes et 37 secondesto do is take the first frame you generated in the previous step, upload it in here, and then paste in the line of the script that belongs to that shot.
+6:456 minutes et 45 secondesAnd as you know, I've got everything organized in Notion. So, I can literally just copy my script straight across. And now, you can see if I'm using custom
+6:536 minutes et 53 secondesmode, I actually have a few extra options. I can use text to speech. I can upload my own audio file, or I can even use the voice changer, which lets me
+7:027 minutes et 2 secondesrecord my own voice and then transform it into a target voice. In this case, I actually want the ad to have an American accent, which is probably not going to
+Chapitre 5 : Étape 3 : Création de vidéos face caméra avec SPEEL
+7:097 minutes et 9 secondeswork too well for me. Uh, so I'm just going to go with text to speech. And what's cool about this is that it has every accent and language under the sun
+7:177 minutes et 17 secondeslike that you could even imagine. So, from here, I can browse through the voices. I can use these filters over here to find one that I like, and I can actually preview them until I find one that fits the character really well.
+7:297 minutes et 29 secondesMy name is Tessa. I would love to make your Tik Toks.
+7:327 minutes et 32 secondesAll right, this one sounds perfect to me. So, let's go with that. Then, I'll add a really, really simple prompt. No need to overthink it. Something like
+7:407 minutes et 40 secondestalking naturally with relaxed hand gestures is going to work fine for this.
+7:447 minutes et 44 secondesAnd once that's all set, just click generate. And Spear will turn that single frame into the full video. And
+7:527 minutes et 52 secondesI'm so excited to show you what this looks like. It is insane. Now, whilst that one's generating, I'm not just going to sit around. I'm actually going to start on the next one. And you can generate multiple videos concurrently.
+8:028 minutes et 2 secondesFor the hook video, I'm actually going to be using easy mode, and the reason for that is that I want slightly more complex motion. The model only supports
+8:108 minutes et 10 secondes8 seconds compared to custom mode, which does a full minute, but just for the hook, that is absolutely fine. So, again, I'm going to take my line from the script and then add in my prompt.
+8:208 minutes et 20 secondesAnd in this case, I'm just going to add a little bit more detail, basically what I just described. So, I'm going to type in my instructions here, and then I will
+8:278 minutes et 27 secondesclick generate. And now we're just gonna give Spiel a few minutes to do its thing. All right, so both videos are now ready. So this is the custom mode video.
+8:378 minutes et 37 secondesIt actually hurt to smile, but this brought it back overnight.
+8:408 minutes et 40 secondesOkay, pretty cool. Um, this is the easy mode video that we're going to be using for the hook of the video.
+8:478 minutes et 47 secondesWait, why did no one tell me this is the secret to Haley Bieber skin?
+8:548 minutes et 54 secondesHonestly, [laughter] this is this is wild. And actually, you may be wondering, well, their voices are different, but don't worry about that.
+9:029 minutes et 2 secondesI'm actually going to show you how to fix that a bit later on.
+9:069 minutes et 6 secondesOkay, so I've just finished up with the A-roll shots on my video. Let's move on to the B-roll where the actor is not talking. And these are the ones that
+9:139 minutes et 13 secondesgoing to make your ad way more engaging and really tell the story instead of just, you know, someone talking the whole time. So again, referring back to
+9:229 minutes et 22 secondesour short list, let's take a look at the B-roll scenes and actually go ahead and create one together. For this one, we are going to be using easy mode inside
+9:309 minutes et 30 secondesSpiel again because we'll be working with more complex motion and easy mode is just very good at that. So just like
+9:389 minutes et 38 secondesbefore, I'll upload the first frame that we generated back in step one. Then I'll add my prompt. Now, since this one is
+9:469 minutes et 46 secondesall about motion shots, I've actually created another custom GPT that is designed specifically to create B-roll
+Chapitre 6 : Étape 4 : Création de clips B-Roll IA captivants
+9:539 minutes et 53 secondes[music] shots. And by the way, every single one of the GMTs we're using in this video is going to be linked in the description, so you can go ahead and use
+10:0010 minutesthem yourself. So, I'm just going to type in something really, really simple like this. Click enter, and it's going to give you back this superdetailed
+10:0810 minutes et 8 secondescinematic prompt. And it is everything from the lighting to the camera motion.
+10:1310 minutes et 13 secondesIt's everything you need in [music] the prompt. What I'll do is I will then copy this, head back over to Spiel, throw it in the action box, make sure I've got easy mode selected, and click generate.
+10:2410 minutes et 24 secondesAnd again, whilst that one's loading, I'm not just going to wait around. I'm going to jump straight back in for the next B-roll shot and repeat that exact same process.
+10:3410 minutes et 34 secondesAll right, now that every single clip is generated, it's time to actually pull all these together and turn them into an ad instead of just a bunch of videos.
+10:4110 minutes et 41 secondesI'm going to be using Cap Cut for this.
+10:4310 minutes et 43 secondesAnd to be honest, I haven't really used this before. I'm actually signing up right now just to show you how beginner friendly this process is. And anything
+10:5210 minutes et 52 secondesthat I run into, I'll just ask Chad Boutique because that's kind of the point. You don't need to be a professional production studio anymore
+11:0111 minutes et 1 secondeto create ads that convert. So, I'm going to open a new project. I'm going to throw in all of the clips from our shot list. I'm going to start building
+Chapitre 7 : Étape 5 : Montage avec CapCut pour les débutants
+11:0911 minutes et 9 secondesthe timeline. And again, I'm just referring back to the shot list that I have in Notion. And here's three really quick tips for your editing process that
+11:1711 minutes et 17 secondesare going to make your videos 100 times better. Firstly, keep the pacing really high. Use lots of small clips with lots of cuts instead of just one long clip.
+11:2711 minutes et 27 secondesAnd the second one is to actually speed up B-roll. Often with AI, there's kind of small imperfections. And if you keep them lingering too long, then people
+11:3611 minutes et 36 secondeswill notice and they'll kind of lose trust. But we can do is just speed them up. Even 20% will really help and just make it look way more realistic. And
+11:4311 minutes et 43 secondesthirdly, AI isn't perfect yet. I mean, honestly, it's it's pretty damn good, but it's not perfect. There are some, you know, small imperfections, but just
+11:5211 minutes et 52 secondescover them up. If there's an issue with the lip syncing, just show B-roll. And it's okay if you stray slightly from the original shot list you made. All right,
+12:0112 minutes et 1 secondeso it's looking pretty cool, but the audio is a bit meh. So, I'm actually going to jump over to 11 Labs sound effects. You can access this for free,
+12:1012 minutes et 10 secondesand it's literally as easy as typing in what you want, selecting the length of the effect, and then just click generate. And let's actually listen to some of these.
+12:2012 minutes et 20 secondesOkay, that sounds amazing. And whilst we're here on the left, you'll see we have this voice changer. And what we can do is use that to ensure that we have
+12:2812 minutes et 28 secondesthe exact same voice throughout the entire video. You might have remembered earlier we had a slightly different voice between easy mode and custom mode.
+12:3512 minutes et 35 secondesJust use the voice changer, select one target voice, and you are good to go.
+12:3912 minutes et 39 secondesAll right, so now the moment you have all been waiting for. Let's watch this ad. Let's see what it looks like. Wait,
+12:4712 minutes et 47 secondeswhy did no one tell me this is the secret to Haley Bieber skin? I used roads barrier butter once and woke up
+Chapitre 8 : Dévoilement de la publicité finale et autres exemples
+12:5512 minutes et 55 secondeslooking like a glazed donut, but in the best possible way. My skin was so dry it actually hurt to smile, but this brought
+13:0213 minutes et 2 secondesit back overnight. It's dermatologist developed, fragrance-free, and somehow rich without being greasy. If your face
+13:1013 minutes et 10 secondesis begging for moisture right now, this is your sign.
+13:1413 minutes et 14 secondesOkay, so again, every single one of those shots was 100% AI generated using
+13:2113 minutes et 21 secondesNano Banana, using a few custom GBTs, and [music] using Spiel. Honestly, I don't even know what to say. It is
+13:2913 minutes et 29 secondesincredible. And and have a look at these examples I made the other day as well.
+13:3313 minutes et 33 secondesWell, jeez, these bad boys are quite something. Firstly, they taste amazing.
+13:3713 minutes et 37 secondesAnd secondly, they make me feel more alive than ever. Love them.
+13:4013 minutes et 40 secondesWell, jeez, these bad boys are quite something. Firstly, they taste amazing.
+13:4513 minutes et 45 secondesAnd secondly, they make me feel more alive than ever. Love them.
+13:4813 minutes et 48 secondesWell, jeez, these bad boys are quite something. Firstly, they taste amazing and secondly, they make me feel more alive than ever. Love him.
+13:5613 minutes et 56 secondesOh, we're doomed. We're doomed.
+
+Tout
+
+Source : Speel
+
+Commerce en ligne
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+
+18:09
+Comment créer des publicités UGC virales grâce à l'IA (MEILLEURE MÉTHODE)
+Sam Piliero
+198 k vues
+•
+il y a 11 mois
+Doublée automatiquement
+
+
+16:08
+Creatify AI Tutorial: How to Make Scroll-Stopping Ad Creatives in Minutes
+SaaS Report
+2,8 k vues
+•
+il y a 9 mois
+
+
+6:01
+Créez des publicités UGC IA GRATUITEMENT - Meilleure méthode (Mise à jour : Essai gratuit disponi...
+Artturi Jalli
+41 k vues
+•
+il y a 6 mois
+Doublée automatiquement
+
+
+14:44
+Comment créer des publicités UGC avec Gemini Omni (0,60 $ par vidéo)
+Mike Futia | SCALE AI
+48 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+1:39
+J'attaque le marché de la facturation.
+Kelyseo
+21 vues
+•
+il y a 2 jours
+Nouveau
+
+
+17:53
+Comment Créer des Publicités UGC Virales avec l’IA (MEILLEURE MÉTHODE)
+Theo Ritzy
+58 k vues
+•
+il y a 8 mois
+
+
+20:39
+Puis-je survivre à l’hiver en Alaska sans sac de couchage, sans tente et sans bâche ?
+Outdoor Boys
+27 M de vues
+•
+il y a 4 ans
+Doublée automatiquement
+
+
+20:00
+Comment créer gratuitement des publicités UGC par IA à fort taux de conversion (2026)
+Klever Nuts AI
+2,9 k vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+26:46
+J'ai entraîné un côté LOURD et l'autre LÉGER pendant 60 jours (mauvaise idée)
+Jeremy Ethier
+4,9 M de vues
+•
+il y a 10 mois
+Doublée
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+408 k vues
+•
+il y a 5 mois
+
+
+25:16
+Comment je crée des publicités statiques avec l'IA (en quelques minutes)
+Dara Denney
+38 k vues
+•
+il y a 1 mois
+Doublée automatiquement
+
+
+22:24
+FERGIE : La popstar des années 2000 tombée dans l'oubli
+NostalgicKid
+208 k vues
+•
+il y a 10 jours
+
+
+18:22
+Les 5 meilleurs outils de réalisation de films par IA en 2026
+Content Creators
+240 k vues
+•
+il y a 4 mois
+Doublée automatiquement
+
+
+9:55
+Comment créer des publicités UGC avec l'IA (Tutoriel complet)
+100x Engineers
+91 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+
+14:29
+Comment utiliser l'IA pour VOLER des publicités virales (et obtenir un ROAS multiplié par 5)
+Janson Smith
+14 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+
+26:06
+KATY PERRY : La fin d'une icône des années 2010
+NostalgicKid
+418 k vues
+•
+il y a 2 mois
+
+
+26:35
+Buzz de Jack Dorsey DÉTRUIT Slack ?
+Dr. Firas
+72 vues
+•
+il y a 1 heure
+Nouveau
+
+
+9:48
+Comment créer des publicités UGC par IA avec un ROAS de 3,6x (Tutoriel complet)
+Speel
+321 vues
+•
+il y a 10 jours
+Doublée automatiquement
+
+
+Le fils de Luke a appelé à l'aide sous une pluie glaciale en Alaska
+6,1 M de vues
+
+
+Comment créer les portraits IA les plus réalistes 🤯
+48 k vues
+
+
+Un point important pour avoir un bon physique #essannfc #shorts
+140 k vues
+
+IL FAIT PAS DE MUSCU !! (corps de fou)
+845 k vues
+
+40 YEARS AGO, WE ALL ARE CHILDREN ONCE🔥 #MJ #wearetheworld #nostalgia #throwback #80smusic #star
+3,2 M de vues
+
+Michael Jackson - Stop In The Name Of Love (Reprise)
+1 M de vues
+
+
+
+10:24
+Comment créer des publicités par IA qui convertissent vraiment
+Davie Fogarty Mentors et Davie Fogarty
+48 k vues
+•
+il y a 2 mois
+Doublée automatiquement
+
+14:32
+Comment créer des publicités IA à 100 000 $ avec Higgsfield (étape par étape)
+Joshua Mayo
+18 k vues
+•
+il y a 3 mois
+Doublée automatiquement
+
+    
