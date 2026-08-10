@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : f98e2cd
+- Commit audite : 7604b76
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-10 02:36:44
+- Rapport genere le : 2026-08-10 09:01:24
 - Alertes prioritaires Aion : 2
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 2
@@ -26,8 +26,8 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `7604b76` - 2026-08-10 02:36:44 +0000 - Audit - docs(aos): add daily audit report
 - `f98e2cd` - 2026-08-09 22:56:27 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `a1be86f` - 2026-08-09 08:24:41 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -45,11 +45,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `a1be86f` - 2026-08-09 08:24:41 +0000 - docs(aos): add daily audit report
+- `7604b76` - 2026-08-10 02:36:44 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `a1be86f` - 2026-08-09 08:24:41 +0000 - Audit - docs(aos): add daily audit report
+- `7604b76` - 2026-08-10 02:36:44 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -64,6 +64,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-08-10_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-04_youtube_barthelemy-nobili_workflow-film-ia-six-etapes_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-04_youtube_dan-smart-tutorials_creatify-publicite-video-produit_01_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-04_youtube_dan-smart-tutorials_creatify-publicite-video-produit_transcript.txt
@@ -100,7 +101,6 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-08-09_audit-journalier-aos.md
 - M 02_IA/Agents IA/fiche_permanente.md
 - M 02_IA/Orchestration IA/fiche_permanente.md
 
