@@ -1,0 +1,625 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+DeepSeek V4 Flash : trop beau pour être vrai ? (test complet)
+DevArt 
+DevArt 
+16,7 k abonnés
+
+S’abonner
+
+26
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+12 août 2026  #mistralai #llm #llmlocal
+Mais pourquoi tout le monde parle de DeepSeek v4 Flash ? J’ai voulu le découvrir par moi-même, alors je l’ai testé. Et pas qu’un peu.
+
+Dans cette vidéo, je vous partage mon avis 100 % honnête sur ce nouveau modèle.
+
+Nous allons analyser ensemble toute l’étendue des capacités de ce nouveau venu, qui vient bousculer le marché de l’IA et pourrait bien faire trembler les deux géants actuels : OpenAI et Anthropic.
+
+Liens utiles de la vidéo 👇
+
+Ollama + DeepSeek 👉 https://ollama.com/library/deepseek-v...
+
+Un like, un partage ou un commentaire m’aide énormément. Merci beaucoup pour votre soutien ❤️
+
+#mistralai #llm #llmlocal #ia #developpeur #chatgpt #claude #openai #ollama #composer #opus4.8 #kimiK3 #Gemma4 #claudecode #GLM #kimicode #deepseek-v4 #deepseek
+
+--- Je ne fais pas que des vidéos... Mais aussi DES SAVONS humouristiques 👉 https://www.bagarclub.fr/
+
+---
+
+Chapitres
+
+00:00 Intro
+00:50 Enquête
+11:44 Test 1 - Dev Website
+14:00 Test 2 - Dashboard + API
+18:20 Test 3 - Full Holliday website (UX UI)
+22:25 Test 4 - Jeux vidéo
+25:34 Usage Tokens et tips
+
+---
+
+Envie d’apprendre encore plus ?
+
+Mistral 3B, 8B, 14B : Test complet et installation locale
+   • Mistral 3B, 8B, 14B : Test complet et inst...  
+
+J’avais tort... Gemma 4 en LLM local, c’est incroyable. Test COMPLET.
+   • J’avais tort... Gemma 4 en LLM local, c’es...  
+
+Musk rachète Cursor et vient de tout changer pour les DEVS (OpenAI et Anthropic le savent déjà)
+   • Musk rachète Cursor et vient de tout chang...  
+
+Kimi K2.7 Code : l’IA locale la plus puissante aujourd’hui ?
+   • Kimi K2.7 Code : l’IA locale la plus puiss...  
+
+Entretien de dev 2026 : 3 questions d’IA à connaître absolument !
+   • Entretien de dev 2025 : 3 questions d’IA à...  
+
+Test complet de Mistral AI
+   • Test Complet de Mistral AI: J'abandonne Ch...  
+
+Qwen plus fort que DeepSeek et ChatGPT ? LE TEST étonnant
+   • Qwen plus fort que DeepSeek et ChatGPT ? L...  
+
+Utiliser DeepSeek R1 avec Cursor AI, facile et surpuissant
+   • Utiliser DeepSeek R1 avec Cursor Ai : Faci...  
+
+DeepSeek VS ChatGPT VS Claude ?
+   • DeepSeek vs ChatGPT vs Claude : Quel choix...  
+
+Mon organisation de dev
+   • Développeur - Mon Organisation facile en s...  
+DevArt analyse les performances et l'efficacité de DeepSeek V4 Flash à travers une série de tests pratiques allant du développement web à la création de jeux vidéo. Cette exploration détaillée examine également le contexte économique et technologique entourant la conception du modèle, tout en évaluant son intégration via Ollama.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+DevArt
+16,7 k abonnés
+Vidéos
+À propos
+Licence
+Licence de paternité Creative Commons (réutilisation autorisée)
+5 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@leosand4216
+il y a 1 heure
+De loin le plus efficient
+
+2
+
+
+
+Répondre
+
+
+@forrotaste1993
+il y a 38 minutes
+Merci pour cette présentation. Ce serait super intéressante si tu pouvais faire un comparatif de DeepSeek v4 vs GTP-5.6 Luna vs Minimax M3. Peut-être ces trois modèles peuvent couvrir les différents types de taches avec des résultats assez propres et un budget maitrisé.
+
+
+
+Répondre
+
+
+@dan_s_marseille
+il y a 24 minutes (modifié)
+Je l'utilise tellement que je sais très bien ses limites maintenant.  Et y a mm des tâches ou je me suis aidé de model plus gros pour le driver. A voir qd ils augmenteront les tarifs. On est qd mm loin des gros modèle mais essentiel dans mon utilisation ia pour le moment  (et ne pas oublier qu'il ne gère pas la vision)
+
+
+
+Répondre
+
+
+1 réponse
+
+@thibaultroulier9728
+il y a 43 minutes
+Tu as l'air un peu fatigué m'sieur.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeHello tout le monde, vidéo aujourd'hui sur Deepsic V4 flash. Vidéo que je sur laquelle je travaille depuis un moment et j'espère qu'elle va vous plaire. J'ai beaucoup travaillé dessus. On fait beaucoup de tests évidemment. On va
+0:077 secondesfaire de la pay, on va faire du design, du jeu vidéo, du classique de la grosse code base et tout. On l'a poussé. Vous avez une petite fenêtre, un exemplat de
+0:1515 secondesdiscussion que j'ai eu avec lui sur 3600 token. Bref, je vais tout vous montrer.
+0:1919 secondesEuh, j'ai aussi mené ma petite enquête pour vous donner un peu plus de contexte autour de Deepsy. Euh, comment est-ce qu'ils ont été amenés à être aussi impliqués dans l'IA ? Au départ, c'était pas spécialement le but de la société.
+0:2929 secondesVous allez voir qui a créé ça, qu'est-ce qu'ils utilisent comme pu le prix et cetera, la vitesse. Bref, j'ai mené voilà mon petit ma petite recherche pour
+0:3636 secondesvous aider à comprendre du coup en quoi ce test est intéressant. Donc première partie de la vidéo, l'enquête, le petit test, le la petite enquête que j'ai fait, le contexte et cetera pendant
+0:4545 secondesquelques minutes. Et ensuite deuxième partie, vous avez tous les tests. Donc vous pouvez utiliser les chapitres dans la vidéo YouTube. On commence tout de suite du coup rapidement avec un peu de
+0:5252 secondescontexte du coup autour de dipsic euh qu'on va nous utiliser via OLAMA. Vous me connaissez, j'utilise beaucoup Oama euh pour pouvoir un peu mixer entre mon
+1:011 minute et 1 secondeactivité sur Cursor et des modèles que j'aime beaucoup tester, beaucoup de modèles pour voir un peu ce qui se passe. Et j'utilise du coup cette commandearon dipsic V4 flash 2. Cloud
+1:101 minute et 10 secondesvia Open Code. Évidemment, c'est beaucoup plus pratique mais ça c'est quelque chose que vous êtes pas obligé de faire forcément. C'est une architecture concernant dipsic donc un
+1:181 minute et 18 secondesmodèle qui fait presque 300 milliards de paramètres. on est sur un très gros modèle mais évidemment en fait si vous voulez ils ont une espèce de une capacité à avoir des résultats très
+1:261 minute et 26 secondesrapides en terme de output aussi parce qu'ils utilise pas la la la capacité totale du modèle he quand vous envoyez une requête en fait ils utilisent seulement une petite partie des experts
+1:341 minute et 34 secondesce qui vous permet en fait de de réduire en fait si vous voulez le coût de calcul par génération et c'est ça qui leur permet en fait d'avoir des espèces de subagents si vous voulez pour la faire
+1:421 minute et 42 secondestrès simple qui leur permet de focus sur chaque tâche et ça va beaucoup plus vite. Ça c'est très intéressant. Ils ont aussi une particularité, c'est queils ils intègrent ce qu'ils appellent
+1:501 minute et 50 secondesdispark. Alors faites attention, vous allez avoir entendre beaucoup de choses avec la sortie de ce qu'a dit Facebook avec Mus Glimmer parce qu'en fait ils utilisent aussi eux de leur côté, ils
+1:591 minute et 59 secondesont ils l'ont presque appelé pareil euh qui leur permet d'avoir un espèce de mécanisme de décodage pour avoir une sortie en output qui est très rapide. Je ferai une vidéo sur M Glamer si jamais
+2:082 minutes et 8 secondesvous voulez en savoir plus. Hésitez pas à vous abonner. Je je travaille dessus mais j'ai je voilà je suis focus surtout sur deepsic aujourd'hui et du coup en fait si vous voulez ça leur permet
+2:162 minutes et 16 secondesd'avoir vous allez voir la vitesse de sortie token de ce modèle elle est moi c'est ça en fait qui m'a qui m'a fait vraiment plaisir si vous voulez pour la
+2:232 minutes et 23 secondesfaire simple quand on teste des nouveaux modèles mais qu'en fait ça met 5 minutes à chaque fois à répondre bah en fait on perd vite en fait le le l'envie de continuer là c'est immédiat donc en fait
+2:322 minutes et 32 secondesvous gagnez réellement en fait en plaisir de discussion en plaisir de travail avec un modèle comme ça vous allez voir c'est c'est vraiment cool. qu'ils ont
+2:402 minutes et 40 secondesgrâce à ce système un peu avec 10 parc une augmentation de 60 à 85 % euh de génération de token par utilisateur
+2:472 minutes et 47 secondescomparé si vous voulez à si jamais ils utilisent pas ce système-là. Les performances mesurées de ce modèle euh comme je vous ai dit moi je suis bluffé
+2:552 minutes et 55 secondeset ici vous pouvez voir en fait que j'ai comparé évidemment avec tous les modèles très connus. J'ai fait une vidéo sur Kimy, sur Claude, sur Quen, si vous connaissez ma chaîne, j'ai fait des
+3:023 minutes et 2 secondesvidéos sur un peu tous ces modèles là et regardez, on est sur 141 token par seconde. Donc GLM 5.2 que j'ai j'ai fait une vidéo aussi, en fait, j'étais
+3:103 minutes et 10 secondescontent parce qu'en fait surtout c'était très rapide, mais après en terme de résultat, c'était un peu h mais là moi en terme de résultat, je suis content et en terme de vitesse, on se rapproche à
+3:183 minutes et 18 secondesun truc qui est méga rapide. Vous allez voir, c'est on est quand même à une vitesse qui fait deux fois les GPT.
+3:243 minutes et 24 secondesEt pour l'avoir testé, c'est vrai franchement sur le même prompt, j'ai quand même une rapidité que ce soit en mode plan ou que ce soit en mode build, une rapidité qui est presque du double.
+3:333 minutes et 33 secondesDonc ça c'est quelque chose qui pour moi voilà peut faire bouger un peu la balance d'un d'un modèle à l'autre.
+3:393 minutes et 39 secondesFranchement le prix alors les amis, le prix le prix on est sur une autre planète et donc ils aiment bien marketer ça parce qu'en fait ils passent par
+3:473 minutes et 47 secondescette espèce d'information là pour faire du bruit et ils ont raison. On est sur 0,13 d'accord euros par million de token en input et on est faut savoir que ce
+3:553 minutes et 55 secondesqui coûte très cher et et en output on est sur 0,26. Faites attention euh pour certains modèles, c'est pas forcément l'output le plus cher, c'est l'input
+4:044 minutes et 4 secondesparce qu'en fait en fonction de ce que va prendre en contexte le LLM quand vous quand vous lui envoyez une roquette, d'accord ? Si jamais il va vous bouffer la code base, vous allez avoir en input
+4:124 minutes et 12 secondesdes millions et des millions de tokens et ça va coûter une fortune. Alors qu'en output, il va vous générer peut-être un fichier avec quatre ou cin fonctions, ça va pas coûter grand-chose. Alors qu'il y
+4:204 minutes et 20 secondesa d'autres modèles. Si jamais vous demandez à générer une code base complète sur et vous balancer en input 4 5 lignes, c'est là où l'output va vous coûter de l'argent. Faites attention,
+4:284 minutes et 28 secondesc'est pas genre oui, il faut regarder l'input ou l'put, faut faut quand même regarder les deux parce que dans un usage classique, vous allez avoir un peu un mix en fonction de comment est-ce que
+4:364 minutes et 36 secondesvous euh on va dire analysez la manière dont vous travaillez avec eux, si vous avez des skis ou pas et cetera. Mais de manière générale, faut quand même regarder les deux. Mais regardez-moi le coût, s'il vous plaît. C'est juste ici.
+4:474 minutes et 47 secondesRegardez. Hop. Donc là, on est par tâche. D'accord ? Donc eux, ils expliquent comme je dis, on est sur 0,03 3 centimes. D'accord ? Claude Fable 5,
+4:564 minutes et 56 secondeson est sur plus de 100 fois le prix. Je sais pas si vous captez un peu le truc, mais moi par exemple, j'ai fait une vidéo sur Kimika 3, d'accord, ici là,
+5:035 minutes et 3 secondesque que je que je trouve très performant euh et je je c'est un modèle que j'ai utilisé dernièrement pas mal quand j'en avais marre de de d'utiliser les modèles
+5:125 minutes et 12 secondesGrock et cetera euh et que j'ai payé aussi forcément pour faire toutes les vidéos et cetera, j'ai payé donc il faut que j'utilise et en fait c'est vraiment des modèles qui sont un peu lents mais
+5:215 minutes et 21 secondestrès efficaces euh parce que vous imagine bien qu'à 44 token par seconde comparé à 140, on n'est pas sur la même vitesse. Mais regardez le prix, on est
+5:285 minutes et 28 secondessur 0,80 là, on est sur 003. Je sais pas si vous voyez le truc, on est sur 30 30 non 29 fois le prix. On est sur 30 fois moins cher et trois fois plus rapide.
+5:395 minutes et 39 secondesDonc pour vous dire, c'est vraiment un modèle, vous allez voir après dans le test, les résultats sont enfin voilà, c'est vraiment c'est vraiment génial en fait, je trouve. c'est ils ont fait
+5:485 minutes et 48 secondesquelque chose de de très peu cher avec une facilité d'envoyer une vitesse extraordinaire dans la réponse et ça ça rend l'expérience globale incroyable.
+5:585 minutes et 58 secondesVous allez voir un peu plus de contexte du coup autour de l'entreprise.
+6:036 minutes et 3 secondesDonc lien Wfeng a fondé deepsic mais auparavant il faut savoir que cette personne là elle a pas fondé deepsic tout de suite d'accord elle a fondé un
+6:116 minutes et 11 secondesfond d'investissement qui s'appelle High Flyer. D'accord ? Vous pouvez cliquer là-dessus, vous allez voir. Donc voilà, c'est très en plus I leur leur manière de de montrer ça, mais c'est un H. Donc
+6:206 minutes et 20 secondesdu coup, en fait, ils font de la finance sous source trading haute fréquence un peu si vous voulez pour la faire simple.
+6:246 minutes et 24 secondesDonc voilà, c'est des gars qui sont dans la finance au départ et qui ont tellement misé sur bah sur cette espèce de process pour faire de leur fond d'investissement quelque chose de
+6:336 minutes et 33 secondesd'ultra lucratif qu'en fait après ils se sont tournés en fait si vous voulez dans le dans le machine learning, dans l'IA et vous allez voir qu'ils ont fait des investissements particuliers qui n'ont
+6:416 minutes et 41 secondesplus rien à voir avec la finance. Mais du coup en fait si vous voulez ils ont ils voilà, ils utilisaient le machine learning, les motels mathématiques et du coup en fait c'est un socle qui leur a
+6:496 minutes et 49 secondespermis en fait de de sortir ensuite dips psyc pour se focus sur bah sur ce qu'on est nous en train de faire avec l'intelligence artificielle. Euh je
+6:576 minutes et 57 secondestrouvais ça drôle en fait aussi de vous mettre ce qu'ils utilisent comme puce et comment est-ce qu'ils ont commencé. Moi, j'aime bien faire ça pour voir un peu ce qui se passe. En 2020, donc là, on parle
+7:057 minutes et 5 secondesde quand ils ont quand ils étaient dans le fond d'investissement et qu'ils ont commencé à vouloir un peu faire beaucoup de machine learning, ils ont investi presque 1000 puces euh si vous voulez
+7:147 minutes et 14 secondesles A de Nvidia. Donc, on parle quand même d'un truc déjà les mecs, ils envoient he pour le pour le pour la finance. Et ensuite du coup, en en 2021, ils ont ils ont racheté 10000 puces.
+7:247 minutes et 24 secondesDonc là, ils ont commencé vraiment à se tourner vers l'intelligence artificielle et cetera. Et évidemment avec tout l'entraînement qu'ils ont qu'ils ont que ça leur a permis d'avoir et toutes les
+7:327 minutes et 32 secondeschoses qu'ils ont pu créer, ils ont coffondé Dipsy qui est devenue la société que vous connaissez maintenant qui permet de voilà faire de la génération de code, de l'image et tout ce que vous voulez, un peu comme les
+7:407 minutes et 40 secondesclassiques les géants de la tech. Et euh ce qui est assez marrant en fait si vous voulez, c'est que ils sont euh en 2026, je vous mettrai si vous voulez
+7:487 minutes et 48 secondesl'article, vous allez quand même le dire en commentaire, mais ils recrutent parce qu'en fait ils veulent doubler à dans toutes les dans tous les secteurs de la société d'IPS, ils veulent doubler
+7:577 minutes et 57 secondesl'effectif. Je sais pas si vous vous rendez compte. Donc on parle de 6 7 secteur et ils veulent se focus sur créer leur propre puce IA. D'accord.
+8:048 minutes et 4 secondesDonc on parle vraiment d'une société au départ qui faisait un peu de la la finance quantitative et qui a fait beaucoup de machine learning qui s'est complètement en fait diversifié. Mais c'est hyper intéressant je trouve deux.
+8:138 minutes et 13 secondesEt si vous voulez en fait, c'est pourquoi est-ce que je vous dis ça ?
+8:158 minutes et 15 secondesParce qu'en fait quand on est dans ce dans ce secteur là, moi je travaillais en finance avant de faire de l'informatique, euh la rapidité
+8:228 minutes et 22 secondesd'exécution c'est quelque chose qui prime sur beaucoup d'autres choses. Si vous voulez, parfois on préfère avoir quelque chose de très rapide et qui est
+8:308 minutes et 30 secondesà 80 % bon que quelque chose de lent qui est bon si vous voulez à 90 %. C'est très important en fait de psy en fait je
+8:388 minutes et 38 secondestrouve moi dans dans dans l'utilisation que j'en ai dans l'essai que j'en ai fait je trouve que ça partage en fait un peu cette philosophie c'est que moi je
+8:458 minutes et 45 secondessuis très étonné par les résultats de mer général mais la la vitesse à laquelle ça vient donc voilà donc ce que je vous ai dit la
+8:538 minutes et 53 secondescréation de dipsic en 2023 de toute façon ça c'est une ça c'est une photo qui a été générée par de lia mais parce que j'ai pas réussi à choper une vraie photo sympa mais c'est pour vous
+9:009 minutesexpliquer que du coup àu j'espère que je je prononce bien le le Non, c'est une société qu'ils ont créé, c'est High
+9:079 minutes et 7 secondesFlyer du coup en fait qui est à la base de la création. C'est très important hein, c'est la maison mer qui est à la base de la création de dips hein. C'est pas c'est pas c'est pas c'est pas
+9:159 minutes et 15 secondesl'inverse. C'est pas une société qui a vu le jour comme ça du jour au lendemain. Euh donc voilà, j'ai mis un peu sur la culture d'entreprise parce qu'ils ont une ils ont une structure hiérarchique relativement plate.
+9:239 minutes et 23 secondesBeaucoup beaucoup de jeunes. J'ai lu des articles qui expliquaient que il y a des jeunes donc je dirais entre 25 et 35 ans euh qui ont des responsabilités énormes
+9:329 minutes et 32 secondesau sein de la société d'IPS qui apparemment voilà nouveaux diplômés recrutés très tôt euh et du coup c'est ce qui leur confère aussi cette espèce
+9:399 minutes et 39 secondesparfois apparemment d'avancée technique de de très rapide c'est que ils ont beaucoup beaucoup de jeunes passionnés qui ont énormément de responsabilité et
+9:479 minutes et 47 secondesdu coup en fait il ils chipent énormément et très très rapidement donc ça va très vite.
+9:539 minutes et 53 secondeset priorité donné à la recherche. Donc voilà, recrutement, je vous ai dit voilà, recrutement massif donc en recherche et développement, en deep learning, algorithme engineering, full
+10:0110 minutes et 1 secondestack produ donc voilà là ils veulent doubler tous ces départements là. Petite info un peu marrante, c'est que moi je suis allé voir du coup je me suis dit peut-être qu'il y a des informations
+10:0910 minutes et 9 secondespour vous qui peuvent être sympas si jamais vous voulez bosser dans ce trucl.
+10:1210 minutes et 12 secondesOn est encore sur une société un peu comme Kimi où tout est en chinois. Donc c'est un peu compliqué de tout comprendre, sauf si vous faites un translate avec le clic droit sur Google.
+10:2010 minutes et 20 secondesMais bon voilà, ces sociétés vraiment euh on va dire c'est c'est assez fermé quand même encore hein pour le moment.
+10:2710 minutes et 27 secondesEuh et voilà, moi je trou assez incroyable de vous mettre ensuite les investissements qu'ils ont fait dernièrement. Ils ont investi 19 millions d'euros euh dans Unitri. Et euh
+10:3610 minutes et 36 secondespour vous donner ce que c'est Unitri, là on est dans la robotique pure. Alors regardez, c'est c'est assez ouf. Et en fait, regardez, ils font des humanoïdes
+10:4410 minutes et 44 secondesquoi euh complets. Euh donc c'est des humanoïdes un peu or il y a un peu de tout hein. Il y a du il y a de l'industrie, il y a du a pour
+10:5210 minutes et 52 secondesaider un peu voilà le service public. On on est sur de la robotique pure. J'ai pas encore vu du manoï un peu propre à l'armée mais on Ouais, bon ça y
+11:0111 minutes et 1 seconderessemble quand même pas mal ça. On va pas se mentir. Moi, si je croise un truc comme ça dans la rue, c'est pas que je me sens en danger, mais
+11:0811 minutes et 8 secondesje suis pas hyper serein non plus. Euh voilà, donc on est euh ça ça vous donne en fait si vous voulez le le le un peu
+11:1511 minutes et 15 secondesle l'idée que qu'on a qu'ils ont dans la tête un peu chez Dipsy. Donc ils font du LLM, des agents d'infrastructure, ils veulent construire leur propre puce d'inférence et en fait ils ont aussi
+11:2311 minutes et 23 secondesl'investissement dans la robotique. Euh voilà, c'était un peu le contexte.
+11:2711 minutes et 27 secondesMaintenant, je vais vous passer un peu au test, mais c'est pour vous donner une idée que ce sont des personnes qui sont à la base du coup du modèle qu'on va tester là un peu à proprement parler et
+11:3411 minutes et 34 secondesils sont ultra focus sur bah du coup un peu la rapidité et un peu l'efficience en fait dans les dans les réponses du modèle. Alors les tests donc du coup
+11:4311 minutes et 43 secondeshop, je vous ai fait un petit fichier comme ça. Pour le premier test, je lui ai demandé en fait de me faire un journal de développeur. Je fais souvent ce test là parce qu'en fait j'ai besoin
+11:5011 minutes et 50 secondesque le modèle Alors très important pour contexte, je n'utilise pas de skill particulier. Pourquoi ? On m'a déjà fait la remarque parce qu'en fait je trouve que ça peut fausser le résultat parce qu'en fait dans ces cas-là, il faudrait
+11:5811 minutes et 58 secondesque je réutilise les mêmes skills tout le temps pour tous les modèles et au fur et à mesure que les que le temps passe et cetera, bah les skills, je trouve qu'ils sont un peu outated et cetera.
+12:0612 minutes et 6 secondesDonc voilà, c'est c'est quelque chose de très important. Je préfère avoir quelque chose de brut. C'est vrai que les résultats peuvent être améliorés, ça c'est propre à vous et vos skills, mais
+12:1312 minutes et 13 secondesje trouve que déjà on a des une bonne idée de ce qui se passe quand on utilise le modèle brut de décoffrage comme ça.
+12:1812 minutes et 18 secondesEt surtout c'est beaucoup plus facile pour les benchmarks et pour surtout comparer à ce qu'on a fait tous ensemble. Euh donc voilà, je lui je lui ai filé mon LinkedIn, d'accord, qui est
+12:2612 minutes et 26 secondesun lien public et je lui ai dit "Fais-moi un espèce de CV en ligne sympa sur un thème un peu voilà, un peu pas
+12:3312 minutes et 33 secondesnewspaper mais un truc un peu plat, pas trop de chichi dans tous les sens." Donc il m'a fait un truc assez propre. J'ai pas eu de problème particuliers, j'ai
+12:4212 minutes et 42 secondespas eu de bug particulier et cetera. En même temps, vous allez me dire il y a pas grand-chose. Le seul truc un peu qui m'a un peu déçu, c'est je lui ai dit voilà va sur ma chaîne YouTube. Donc je
+12:5012 minutes et 50 secondeslui ai dit voilà juste le lien et j'aimerais que tu me fasses un peu une carte en bas à droite de ma dernière vidéo. Et là où j'ai été un peu déçu si vous voulez c'est que c'est pas très propre quoi. Tu vois ils ont essayé de
+12:5812 minutes et 58 secondesfaire quelque chose un peu avec un hover et cetera mais là on a le latest vidéo qui me mort complètement en fait le thumbnail le thil qu'on voit pas très bien et en fait du coup on voit encore
+13:0613 minutes et 6 secondesmoins. Là il est marqué normalement il y a du titre et tout donc c'est un peu dommage. De manière générale, je trouve que dans un il faut oubliez pas tous les
+13:1313 minutes et 13 secondestests que je vais vous montrer, il y en a qui sont vraiment très très bien. Ça c'est moyen mais ce qui va suivre c'est vraiment bien. Oubliez pas, mettez-vous toujours en tête le prix le prix 0,03 €
+13:2313 minutes et 23 secondesd'accord c'est très on est sur 100 fois moins cher que Claude. C'est beaucoup moins bien mais on est sur 100 fois moins cher. On est sur deux à trois fois
+13:3113 minutes et 31 secondesplus rapide et même par rapport à Kimi, on est sur trois fois plus rapide. Je crois qu'on est je sais plus peut-être deux ou trois fois moins cher. Fait vraiment gardez 30 fois moins cher que Kimi. Gardez ça en tête hein. D'accord ?
+13:4113 minutes et 41 secondesDonc voilà, on est sur quelque chose d'assez propre. Évidemment, si on clique là-dessus, bon bah je me doute que les liens fonctionnent, c'est bien ma chaîne, heureusement et cetera, mon email, mon LinkedIn. Voilà, j'ai moi, j'ai juste donné ce cette URL là.
+13:5113 minutes et 51 secondesD'accord. Euh donc rien de spécial, ça fonctionne, ça c'est pas terrible terrible mais on est sur quelque chose par exemple, vous pouvez itérer
+13:5913 minutes et 59 secondesfacilement. Le test qui est intéressant, j'ai on va utiliser une API et cetera.
+14:0414 minutes et 4 secondesDonc signal. Donc signal en fait si vous voulez euh potentiellement en fait un c'est un dashboard. Je lui ai donné la pay officielle de YouTube, je lui ai
+14:1314 minutes et 13 secondesdonné mon euh mon ID de YouTube et je lui dis je veux un un dashboard.
+14:1714 minutes et 17 secondesPourquoi est-ce que j'utilise ce test-là ? Parce qu'en fait ça fait appel à c'est du c'est pour moi c'est une vraie fature, d'accord ? Il y a il y a il y a de la pay, il a de la gestion des
+14:2414 minutes et 24 secondeserreurs, il y a du il y a lui que c'est lui un peu aussi. Il y a du design, il y a de la table, il y a du tri, il y a de la pagination, il y a plein de choses.
+14:3114 minutes et 31 secondesD'accord. et on est sur un modèle pas cher, très rapide. À voir ce que ça donne, quoi. Et ben, regardez ce qu'il m'a fait. Donc, il m'a pris les 100
+14:3814 minutes et 38 secondesdernières vidéos euh de ma chaîne et il m'a valeur et je lui dis voilà, vraiment le prom que j'ai donné, c'est prends ma
+14:4614 minutes et 46 secondeschaîne YouTube, je te file ça et ça, utilise la PI de de YouTube. Je vais donner la V3, le URL et fais-moi un dashboard. Voilà, intéressant avec ce
+14:5414 minutes et 54 secondesque tu penses. Il m'a fait aussi ça, regardez, hop, un peu un layout sympa.
+14:5814 minutes et 58 secondesDonc en fait là par exemple la table, on peut se mettre sous forme de ou il m'a fait un truc particulier. Regardez. Hop.
+15:0315 minutes et 3 secondesMoi ce que j'aime bien c'est ça. On a anglais français aussi. Voilà. Donc ça c'est en anglais français. Voilà. Sympa, ça marche. Ça marche plutôt bien. Euh là
+15:1115 minutes et 11 secondessi vous regardez en fait ce qui est pas mal c'est que du coup euh mes vues par exemple ça c'est la vidéo sur JMA 4, elle a 43000 vues. Voilà donc on voit en
+15:1915 minutes et 19 secondesfait là que elle est récente. OK donc ça c'est le nombre de jours depuis que j'ai publié. Donc là c'est mes plus anciennes vidéos. Et là là on est sur presque 1 an et demi et là on est sur les dernières.
+15:2815 minutes et 28 secondesRegardez, hop, celle-là, elle a 43000 vues qui mis elle a marché aussi. Et du coup, je vois en base qui fonctionne pas très bien. Mais en fait, ce qui est intéressant, c'est que je peux voir que
+15:3615 minutes et 36 secondesvoilà, sur les 300 derniers jours, j'ai quelques vidéos qui ont bien marché. Le reste est quand même entre 0 et 15000 vues. Voilà. Euh donc intéressant. Euh
+15:4415 minutes et 44 secondeslà la tendance, bah forcément ce graphe là, bah sur les six derniers sur les 90 derniers jours, bah plus plus je poste, plus les vues augmentent. Donc là, c'est
+15:5215 minutes et 52 secondesmoi qui ai fait peut-être un graphe qui aurait pu être amélioré, mais il est bon. Euh moi, j'aime bien la carte, la Hitmap. Du coup, en fait, on voit que
+16:0116 minutes et 1 secondesur on voit il me met quoi là ? J' même pas vu. Hop, vidéo vélocity intensity.
+16:0516 minutes et 5 secondesOn voit que ça marche très bien quand je parle de tool et de tech et que les vidéos ont tendance à bien marcher euh à plus de 7 jours pour les pour le tooling
+16:1416 minutes et 14 secondeset à 3 à 7 jours donc vraiment au début quand je parle de la tech. Voilà, Typ un petit peu intéressant. Le plus intéressant, je trouve, si vous voulez, ce qui m'a fait, c'est cette table là.
+16:2416 minutes et 24 secondesCette table là qui est très sympa qui est-ce que je peux faire comme ça ?
+16:2716 minutes et 27 secondesPeut-être un peu, je sais même pas. Bon, bref, euh donc là, c'est une table en fait qui me montre un petit peu mes dernières vidéos et le succès que ça a eu et pourquoi avec pas mal d'infos.
+16:3616 minutes et 36 secondesC'est lui vraiment qui est allé chercher ça. Donc là, il a pris tous mes thumbmail. C'est important parce que c'est pas quelque chose de que toutes les font. Il télécharge tous mes thumbnail. Il m'a mis la Vocity, le
+16:4516 minutes et 45 secondessignal, on peut trier. Donc là, c'est mes meilleures vidéos, vous avez vu 43000 vues et cetera. ma dernière vidéo sur le est-ce qu'un est-ce qu'un projet
+16:5216 minutes et 52 secondesperso peut être illégal quand on a un CDI marche pas trop mal aussi et on voit en fait que du coup j'ai 83 vues par heure 50 vues par heure 30 vues par
+17:0017 minutesheure. Donc en fait voilà on a une vélocité qui fonctionne on a un signal vert le taux d'engagement le nombre de vues publish ça marche bien ça me plaît
+17:0717 minutes et 7 secondesla paginisation fonctionne bien on est sur une paginisation front fr front ouais peut-être un cas je sais pas en tout cas voilà ici pourquoi c'est
+17:1617 minutes et 16 secondespourquoi c'est signalé on a une petite animation ici. Je sais pas ce qu'il m'a fait euh l'engagement, la vitesse. Bref, c'est hyper cool, c'est bien. Évidemment que c'est pas parfait, c'est très
+17:2417 minutes et 24 secondesimportant. Mais si vous voulez, j'ai pas j'ai dû discuter une ou deux fois avec.
+17:2717 minutes et 27 secondesFranchement, il m'a fait ça. Je à un moment donné ici, si vous voulez on le H days, il il était un peu caché par le chiffre 300. C'est des petites erreurs
+17:3517 minutes et 35 secondescomme ça que je lui ai dit voilà, est-ce que tu peux même mieux faire le label et cetera ? Mais le reste, j'ai pas touché.
+17:4017 minutes et 40 secondesSoul et c'était quand je vous dis que c'était rapide, je crois que je vous dis ça, ça a pris euh 20 secondes à Alors, j'ai fait un
+17:4817 minutes et 48 secondesplan, le plan, il m'a posé deux trois questions pendant une trentaine de secondes. J'ai cliqué OK, ça a pris 20 25 secondes. On est sur quelque chose de
+17:5517 minutes et 55 secondesméga rapide. Et si vous tapez, si vous travaillez avec lui, si vous lui parlez, ça va c'est pr c'est pas du tac au tac si vous voulez, mais c'est hyper sympa de voir vous lui poser une question, il
+18:0418 minutes et 4 secondesréfléchit et paf, il commence à vous balancer une dernière réponse et on est sur 140 tokens par seconde. Donc en fait ta en fait ça, je sais pas, c'est un espèce de d'effet chat GPT quand vous
+18:1218 minutes et 12 secondesdiscutez avec lui, c'est hyper cool. Je trouve que c'est vous pouvez un peu itérer facilement et ça c'est un un LM que j'aime bien utiliser pour ça. Euh
+18:2018 minutes et 20 secondesSolaris, regardez-moi ce petit site qui m'a fait hyper cool. Je lui ai donné pour moi. Ça c'est le test un peu sympa.
+18:2518 minutes et 25 secondesC'est de l'interprétation Jason. Je lui file un gros fichier Jason. Je vais vous le montrer. Hop, je vais vous montrer le fichier Jason un peu sinon c'est pas drôle. Regardez. Hop, paf, paf. Voilà.
+18:3518 minutes et 35 secondesDonc ça c'est un fichier Gison avec la navigation, les citiers, le SEO, le design, des images, d'accord ? Que je suis allé chercher aussi sympathique.
+18:4318 minutes et 43 secondesMais en fait, si vous voulez, pourquoi vous lui donnez toutes les informations, c'est important, c'est un gros fichier, il y a 1000 lignes je pense à peu près.
+18:4918 minutes et 49 secondesMais ça ça c'est c'est des choses en fait qui sont assez efficaces pour déterminer si un LLM prend les bonnes décisions et voilà.
+18:5618 minutes et 56 secondesprendre des décisions de mettre en héros telle telle telle chose, de prendre telle couleur et cetera, de bien le faire, de je fais souvent ce test là parce que c'est quelque chose de très
+19:0419 minutes et 4 secondescommunation Gon et regardez ce qu'il m'a fait. Il a fait mieux, je vais vous dire un truc, il a fait mieux que des modèles
+19:1119 minutes et 11 secondespropriétaires comme ceux de Entropique ou ceux de Open AI. Et vous avez le cas aller voir mes vidéos, je vous mens pas, c'est c'est public he les vidéos que j'ai fait, c'est tout est là. J'ai été
+19:1919 minutes et 19 secondestrès déçu sur quelques modèles sur l'interprétation Jason. Lui, il m'a fait un truc mais regardez ça, c'est c'est vraiment top. Bon, ça, j'aime pas trop
+19:2619 minutes et 26 secondesle décalage donc quelque part entre le ciel et la terre, Solar, c'est une maison de 18 su posé au milieu du désert. Voilà, ça je trouve ça cool.
+19:3419 minutes et 34 secondesMême la photo, c'est la bonne. Je trouve que la photo, elle va bien avec la C'est c'est lui qui a décidé, c'est très important. C'est lui qui a décidé de par
+19:4319 minutes et 43 secondesexemple du font à utiliser, de la taille et cetera. même pas de la manière dont si vous voulez il met la photo à gauche d'une telle taille le à droite il met le
+19:5219 minutes et 52 secondestexte il le met en petit et cetera, en fondu en italique. C'est lui qui décide de tout ça, d'accord ? C'est lui qui a décidé que ça ça allait être en fond, qu'on allait mettre du texte un peu en
+20:0020 minutesblanc dessus et cetera, qu'on allait faire ce design là, descendre dans le désert. C'est c'est lui. D'accord ? Moi, je lui donne le le fond, le texte et les images.
+20:0820 minutes et 8 secondesHop, voilà. Donc là, il y a un petit bon, il a mis deux fois la même photo mais dans dormir face à l'infini. J'aime bien le petit, c'est bête mais j'aime bien le thème qu'il a utilisé. Hop, on
+20:1520 minutes et 15 secondesdescend, on a quelques informations, c'est sympa. Hop, il m'a mis des photos aussi ici là. Voilà, des petits thèmes.
+20:2120 minutes et 21 secondesAl, spécial mais c'est sympa. Le désert commence lorsque le programme s'arrête. Voilà. OK, d'accord. Sleep dans Stars.
+20:2920 minutes et 29 secondesEuh voilà, on a quelques photos qui sont un peu les mêmes, c'est vrai, mais c'est plus faut regarder ça dans dans de manière générale. C'est à vous de changer les photos après, mais on est sur quelque chose de déjà super propre.
+20:3820 minutes et 38 secondesEt moi, j'ai déjà eu des si vous voulez des euh j'ai déjà eu des sites internet où j'ai réservé des choses. C'était quand même beaucoup moins beau que ça.
+20:4620 minutes et 46 secondesRegardez là, il me fait un petit truc un peu foncé et c'est très sympa. On comprend que c'est la bouffe tout de suite. C'est c'est ça va bien avec. Bon,
+20:5420 minutes et 54 secondesla piscine, elle est pas comme ça dans le désert, je pense, mais c'est moi qui a déconné sur la photo. Mais en tout cas, dans l'idée, c'est propre le prix,
+21:0121 minutes et 1 secondec'est méga cher. Bon, voilà, une galerie de photo, note dans le désert. Ça ça finit jamais en plus.
+21:0821 minutes et 8 secondesVoilà, avant de partir, il m'a fait Regardez, c'est un peu débile ce que je veux vous dire là, mais la FAQ comme ça qui avec l'animation, même si c'est du
+21:1621 minutes et 16 secondespur JavaScript, on s'en fout, peu importe en fait que tout fonctionne en fait comme ça. J'ai j'ai je vous je vous promets j'ai rien prompté en plus, j'ai pas lancé le prompt et j'ai regardé ça.
+21:2421 minutes et 24 secondesOK. Euh ce qu'on a là, c'est c'est ça marche bien et je vous dis c'est une petite effet avec un petit effet voilà,
+21:3221 minutes et 32 secondesça marche bien, c'est propre. Là, il y a il y a un petit un petit formulaire sympathique. C'est bien c'est bien fait
+21:4021 minutes et 40 secondesévidemment. Je vais pas vous le faire parcevidment que le le responsive il est il est pas trop mal. Ouais, voilà, on
+21:4921 minutes et 49 secondesest sur une grid donc je pense que forcément par défaut. Donc voilà, on est quand même sur quelque chose, je vous dis mais c'est c'est je vous dis ça ça a pris même pas 40 secondes, je l'ai noté
+21:5621 minutes et 56 secondes44 secondes. J'ai fait un plan 44 secondes, il m'a fait ça. Vous vous rendez compte ou pas ? Moi, je me rappelle, il y a des LLM, j'ai attendu 5 10 minutes pour un truc dégueulasse.
+22:0622 minutes et 6 secondesVoilà, c'est propre, j'aime bien, c'est simple. Voilà, on retourne. Bon, j'ai demandé quoi aussi évidemment vous me connaissez, j'aime bien les jeux vidéos.
+22:1222 minutes et 12 secondesBon et bah là, il m'a un petit peu déçu, on va être honnête, il m'a un peu déçu.
+22:1722 minutes et 17 secondesEuh bon, on peut pas non plus demander les peut-être qu'il donne 3 centimes le token. Voilà, en fait, le million de token.
+22:2622 minutes et 26 secondesBah, écoutez, le little farm, j'ai demandé, je change un peu de jeu, j'ai demandé de faire un petit un petit jeu de farm. Voilà, j'aime bien, ça me calme ces jeux-là. Euh euh voilà, je suis nul
+22:3522 minutes et 35 secondesen plus, mais voilà, ça me calme. Bah regardez en fait, du coup euh est-ce que je peux peut-être dézoomer ? Je sais même pas parce que là, rien que le fait que moi ça rentre pas, ça m'énerve.
+22:4322 minutes et 43 secondesVoilà, donc là, il y a un petit effet nuit jour euh qui est censé euh donc Ah, on voit quand je clique, je mets voilà, je mets du soil. OK, d'accord. Je peux
+22:5222 minutes et 52 secondesbouger mon petit personnage qu'on voit pas très bien évidemment. Vous voyez, on voit pas très bien parce qu'en plus c'est le je tombe. Voilà, là on voit mieux, c'est le jour mais voilà mon
+23:0023 minutespersonnage est carrément tout simplement en train de voler sur la maison. Il y a pas de collision. Enfin, j'ai une micro collision même pas. Ça saute l'écran.
+23:0823 minutes et 8 secondesDonc très clairement, on est sur un petit début sympathique. Pour vous donner un peu le le contexte, j'ai toujours pareil, j'ai un petit prom où je lui explique que j'aimerais bien un
+23:1623 minutes et 16 secondesjeu en 2D sympa euh de farm. Voilà, avec en terme de fature quelque chose assez rapide. je vais pouvoir utiliser voilà
+23:2423 minutes et 24 secondespouvoir mettre des graines dans le sol, mettre de l'eau et cetera, couper des arbres, des bêtises quoi. Et en fait, il m'a pas c'était franchement c'est j'ai fait même deux trois promes pour dire
+23:3223 minutes et 32 secondes"Écoutez, ça marche pas là le sol c'est bizarre, ça ressemble j'ai collecté une tomate là." Ah je peux pas. Voilà, il y
+23:3823 minutes et 38 secondesa un début de chose. OK, mais on on va on n'est pas sur quelque chose je pense qui est, on va dire le le best pour
+23:4623 minutes et 46 secondesfaire du jeu vidéo, mais il a fait son essai. Voilà. Euh c'est important, c'est important de le de le savoir hein. C'est c'est c'est très important. Donc comme vous avez vu et j'ai regardé, j'ai fait
+23:5523 minutes et 55 secondesexprès. Tous les tests que vous avez vu là, je l'ai fait dans la même fenêtre de contexte. OK ? J'ai j'ai voulu faire ça pour vous parce qu'en fait il y a une
+24:0324 minutes et 3 secondesfenêtre de cont. Je vais aller quand même sur euh est-ce que je l'ai le ha lama ? Je vais vous le sortir tout de suite. Voilà. Donc je vous sors le haut
+24:0924 minutes et 9 secondeslama qu'on utilise là. Donc du coup le pardon oui le le ce qu'on utilise. Donc du coup on est sur un 300 300 milliards
+24:1724 minutes et 17 secondesde paramètres. On est sur un contexte de 1 million. Donc en fait, si vous voulez, c'est pour ça que je le pousse en fait, si vous voulez, je voulais qu' garde un peu le contexte. Je voulais voir comment est-ce qu'il réagiss en fait j'étais
+24:2524 minutes et 25 secondestellement impressionné si vous voulez par la la vélocité du modèle, donc avec la vitesse de sortie que je me suis dit je vais un peu le l'engorger si vous voulez. Je vais essayer de lui donner
+24:3224 minutes et 32 secondesvraiment, on va faire qu'une seule fenêtre. OK, comme ça de je vais lui balancer du token token et puis voir si en fait il souffre un peu. Et non non
+24:4024 minutes et 40 secondesnon, c'était c'était propre, c'était pas de souffrance, rien aussi rapide. Donc en fait la fenêtre elle fonctionne bien encore une fois comme je voulais vous
+24:4824 minutes et 48 secondesavez vu, moi je l'utilise comme ça parce que j'ai j'aime bien open code encore une fois c'est open source la blague c'est que c'est open source et donc tu
+24:5624 minutes et 56 secondestout le monde peut contribuer mais je sais pas si vous avez été un peu sur le ripo de open code je crois qu'il y a 1200 ouvertes immerge aucune p du public
+25:0325 minutes et 3 secondesles mecs c'est c'est un peu j'en ai un peu marre moi quand tu veux contribuer à un truc en fait tu tu il y a que les mecs en interne qui qui publient des trucs c'est un peu c'est un peu chum
+25:1125 minutes et 11 secondesmais bref une autre histoire euh mais en gros voilà si vous voulez avoir un peu si vous voulez de de d'information ici.
+25:1625 minutes et 16 secondesEuh je veux pas vous embêter avec trop d'informations technique. Le but c'était de vous donner une idée un peu de ce qu'il est capable de faire. C'est très rapide, c'est pas cher. On parle de 100
+25:2525 minutes et 25 secondesfois moins cher que Claude. Euh c'est disponible tout de suite sur Lama.
+25:2925 minutes et 29 secondesD'accord. Moi, j'ai je vous dis, j'ai un un abonnement qui euh My Modez, on a regardé, j'ai quand même fait 576 request this week avec Deepsic V4 Flash.
+25:3925 minutes et 39 secondesEuh et j'ai utilisé, regardez, 576 requettes, j'ai 5 % de mon weekly usage.
+25:4625 minutes et 46 secondesEt je je vous le dis, je l'ai je l'ai je l'ai je l'ai je l'ai testé hein avant de vous faire la vidéo aussi. Je vous mens pas quand même. Donc euh autant vous dire "Mais le fun, le c'est c'est fun de
+25:5525 minutes et 55 secondesouf, allez-y. C'est c'est cool. C'est c'est vraiment trop bien quoi. Euh voilà, donc hésitez pas à me dire ce que vous en pensez. C'était la petite vidéo
+26:0226 minutes et 2 secondesde mes rentrées de vacances d'été. Euh il y a plein d'autres vidéos qui sont à venir. Du coup en fait euh je vous dis le nouveau truc de méta que qui est intéressant, j'essaie de voir de
+26:1126 minutes et 11 secondescreuser. Il y a aussi euh Cursor euh enfin Cursor pardon Grockbot euh même si on sait tous plus ou moins que c'est je
+26:1926 minutes et 19 secondespense les équipes de Cursor qui ont codé ça avant que ce soit racheté par euh par leur nouvelle société M. Voilà. Mais bon, bref, en tout cas, il y a plein de nouvelles choses que sur lesquelles je
+26:2726 minutes et 27 secondessuis en train de travailler. Hésitez pas à voilà, si ça vous a plu, euh petit like, petit j'aime. Euh j'essaie de prendre plus de temps maintenant pour vous donner un peu de contexte, faire des recherches sur la société et tout.
+26:3526 minutes et 35 secondesJe trouve ça plus sympa que juste faire des tests. Euh dites-moi ce que vous en pensez. Peut-être qu'en fait vous aimez pas ça et vous préférez juste le t le test brut. Moi, j'aime bien donner
+26:4326 minutes et 43 secondesvoilà, j'aime bien faire mes petites recheres, ça m'intéresse. Euh et puis voilà, hésitez pas à mettre un petit commentaire, un petit partager la vidéo, ça me fait super plaisir. Vous pouvez me
+26:5026 minutes et 50 secondessuivre sur Twitter aussi, je publie pas mal de choses aussi tous les jours.
+26:5426 minutes et 54 secondesVoilà, j'espère que vous allez bien, que votre famille va bien, que vos animaux vont bien. C'était Arthur, on est de retour de vacances et on est de retour pour pas mal de vidéos. Allez, merci à tous. Salut. Ciao.
+
+Tout
+
+Interface de programmation
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:02:15
+Tech Sama Show #363 : Sony Répond, Leak RTX Spark et Ram Chinoise
+Tech_Sama
+2,3 k
+il y a 3 h
+Nouveau
+
+
+17:39
+La chute brutale du Japon
+Sébastien Koubar
+52 k
+il y a 1 m.
+
+
+30:59
+Hosting Your Game Servers is EASY with This
+Hardware Haven
+495 k
+il y a 10 m.
+
+
+13:15
+Comment développer (enfin) l'arrière d’épaule
+Nassim Sahili
+395 k
+il y a 2 a
+
+
+17:49
+Tentaculaire, visionnaire et méga endettée : qui est vraiment SoftBank ?
+Les Echos
+97 k
+il y a 3 j
+Nouveau
+
+
+40:45
+7 Days Remote Camping, Fishing & Exploring Ketchikan Alaska
+Outdoor Boys
+20 M
+il y a 2 a
+
+
+33:08
+Whatnot : Le nouveau Sponsor YouTube qui te met en DANGER
+Basti Ui
+272 k
+il y a 13 j
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+983 k
+il y a 11 m.
+
+
+23:13
+Les LLM sont totalement bloqués : l'AGI semble "impossible" pour l'instant
+Melvynx
+287
+il y a 2 h
+Nouveau
+
+
+1:06:27
+ON MANGE 50 ALIMENTS DE LUXE (et on les juge) (c’est indécent)
+Amixem
+7 M
+il y a 10 m.
+
+
+43:03
+Je suis une victime d'Oussama Ammar
+Olivier Roland
+378 k
+il y a 2 m.
+
+
+12:15
+EXERCICES ÉPAULES : du MEILLEUR au PIRE exercice (classement)
+Nassim Sahili
+1 M
+il y a 3 a
+
+
+1:09:36
+Le problème des Open Worlds
+Bazar du Grenier
+3,7 M
+il y a 1 a
+
+
+28:56
+Je teste les NOUVEAUTÉS FOOD des YOUTUBEURS 🤔 (Tier List…)
+Le Routin
+ et Le Routin TCG
+11 k
+il y a 2 h
+Nouveau
+
+
+1:17:22
+Prédiction de Sadhguru : Pourquoi nous sommes maintenant au "bord de l’extinction !"
+The Diary Of A CEO
+3,5 M
+il y a 2 a
+Doublée
+
+
+27:57
+C'est la fin des PC bon marché
+Underscore_
+488 k
+il y a 2 m.
+
+
+42:08
+Garry Tan: Own Your Intelligence
+Y Combinator
+68 k
+il y a 5 j
+Nouveau
+
+1:47:00
+PYRAMIDES : ET SI TOUT CE QU'ON NOUS A APPRIS ÉTAIT FAUX ? LES SECRETS INCROYABLES
+LEGEND
+1,3 M
+il y a 2 sem.
+
+13:44
+ARRÊTEZ DE PRENDRE DE LA WHEY AVANT DE VOIR ÇA !
+Charles.co
+272 k
+il y a 2 m.
+
+25:10
+LE MÉTIER LE PLUS DANGEREUX DE FRANCE !!
+Tibo InShape
+539 k
+il y a 5 j
+Nouveau
+
+    

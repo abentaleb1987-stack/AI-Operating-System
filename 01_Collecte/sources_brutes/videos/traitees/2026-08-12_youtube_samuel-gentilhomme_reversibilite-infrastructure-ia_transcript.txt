@@ -1,0 +1,465 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Tu loues ton IA. Le jour où ça casse, tu perds tout
+Samuel Gentilhomme
+Samuel Gentilhomme
+5,17 k abonnés
+
+Rejoindre
+
+
+5
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+12 août 2026
+🎯 Envie qu'on regarde ton cas précis ? Appel diagnostic de 30 minutes, gratuit  : https://monstudioia.fr/diagnosticia
+Le 12 juin 2026, deux modèles d'IA parmi les plus puissants du marché ont été coupés pour tous les utilisateurs de la planète, en une soirée, sur décision d'une administration américaine. Personne n'a été prévenu. Aucun client n'a eu son mot à dire.
+Si ton activité tourne aujourd'hui sur des outils IA que tu paies au mois, cette histoire te concerne directement. Pas parce que tu risques d'être visé, mais parce que tu ne l'étais même pas.
+Dans cette vidéo, je te montre où passe la ligne entre ce que tu peux louer sans risque et ce que tu dois posséder pour ne jamais te retrouver à l'arrêt. On parle de trois couches, et le modèle n'est pas celle qu'il faut surveiller.
+Au programme :  
+Ce qui s'est réellement passé le 12 juin, et pourquoi ça touche un artisan à Bordeaux autant qu'une grosse entreprise américaine  
+Pourquoi changer de modèle prend trente secondes, alors que quitter un outil peut prendre des semaines  
+Le coût de sortie, ce que ça contient vraiment, et pourquoi personne ne l'a jamais calculé  
+Pourquoi passer à un fournisseur européen ne change pas ton statut  
+Quand une IA installée chez toi est le bon choix, et quand ça ne tient pas trois semaines  
+Le test de la coupure : trois questions à te poser ce soir
+Je suis le premier concerné par ce que je raconte ici. J'utilise Claude tous les jours, et j'ai déjà vécu une bascule complète d'outil après deux ans et demi passés sur ChatGPT. Ça m'a coûté des semaines, alors que j'avais choisi le moment.
+
+▬▬▬▬▬▬▬▬▬ CHAPITRES ▬▬▬▬▬▬▬▬▬▬
+00:00 Ton IA peut s'éteindre ce soir  
+01:58 La panne qui ne vient pas de toi  
+04:23 Tout le monde surveille la mauvaise couche  
+05:30 Ce qui change en trente secondes  
+06:43 Substituable ne veut pas dire réversible  
+09:43 Les 2 fausses solutions
+13:00 Le test de la coupure
+13:28 Ton plan d'action
+
+
+🩺 OÙ TON ACTIVITÉ PERD DU TEMPS SANS QUE TU LE VOIES  
+Un document de 10 signaux à vérifier, cinq minutes de lecture.  
+👉 https://monstudioia.fr/autodiagnostic
+
+▬▬▬▬▬▬▬▬▬▬▬ VIDÉOS ASSOCIÉES ▬▬▬▬▬▬▬▬▬▬▬
+Mon IA chez moi : j'installe une IA complète sur ma machine et je coupe internet en pleine génération  
+↪    • J'ai remplacé ChatGPT par une IA qui tourn...  
+Construire ton Infrastructure IA :
+↪    • ⚙️ Construire ton Infrastructure IA  
+
+Moi c'est Sam. 25 ans dans l'IT, et aujourd'hui je construis des solutions IA clé en main pour des indépendants et des PME qui veulent un système qui tourne, pas un outil de plus à gérer.
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Samuel Gentilhomme
+5,17 k abonnés
+Vidéos
+À propos
+
+Abonne toi
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @monstudioIA
+@monstudioIA
+il y a 1 jour
+Le test de la coupure, si tu veux le faire ce soir. Ça prend un quart d'heure et tu n'as rien à installer.
+1. Si mon fournisseur principal coupe cette nuit, mes documents de travail sont où, et sous quelle forme je peux les récupérer ?
+2. Mes automatisations tournent où, et est-ce que je peux les sortir en un fichier ?
+3. Combien de temps il me faut pour être opérationnel ailleurs ? Un jour, une semaine, un mois ?
+Écris les trois réponses sur une feuille. Si tu n'en as aucune, c'est pas un problème de dépendance à l'IA, c'est un problème d'inventaire.
+
+Et si tu veux mettre ta réponse à la troisième question en commentaire, ça m'intéresse vraiment de voir où les gens en sont.
+
+Pour faire le point sur ta situation en direct : https://monstudioia.fr/diagnosticia](https://monstudioia.fr/diagnosticia
+Repérer ce que tu peux automatiser, en cinq minutes : https://monstudioia.fr/autodiagnostic
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Ton IA peut s'éteindre ce soir
+0:000 secondeSi tu bosses tous les jours avec une IA que tu paies tous les mois, elle peut s'éteindre ce soir, sans préavis.
+0:077 secondesCe matin, t'as ouvert ton assistant. Il était là. Tes automatisations ont bien tourné, tes projets étaient en place et tant que ça marche, tu te poses pas de questions.
+0:1616 secondesSauf que rien de tout ça n'est à toi. Le prix peut doubler, une fonction peut disparaître, un modèle peut être retiré et casser une automatisation qui tournait depuis 6 mois.
+0:2525 secondesÇa, c'est le risque que tout le monde voit venir. Le 12 juin dernier, il s'est passé autre chose, quelque chose de nettement plus grave et je pense que t'en as déjà entendu parler.
+0:3434 secondesDans cette vidéo, on va voir 4 choses. 1. Ce qui s'est passé le 12 juin et pourquoi ça touche à un artisan à Bordeaux autant qu'une grosse boîte américaine.
+0:4343 secondes2. La ligne exacte entre ce que tu peux louer sans risque et ce que tu dois posséder. 3. Pourquoi changer de modèle, c'est simple alors que partir d'un outil, c'est autre chose.
+0:5252 secondesEt 4. Les 3 questions à te poser lundi matin pour savoir où t'en es vraiment ?
+0:5757 secondesEt si en regardant cette vidéo, tu dis que tu veux savoir précisément où ton activité est exposée, tu peux réserver 30 minutes avec moi.
+1:041 minute et 4 secondesJe regarde ta situation, je te dis ce qui tient, ce qui tient pas. C'est gratuit, sans engagement. Je te mets le lien en description. On y va.
+1:111 minute et 11 secondesMoi, c'est Sam. Ça fait 25 ans que je bosse dans l'IT et aujourd'hui, je construis des solutions IA clés en main pour des indépendants et des PME qui veulent un système qui tourne.
+1:211 minute et 21 secondesPas un outil de plus à gérer. Et je te le dis tout de suite, je suis le premier concerné. J'utilise Claude tous les jours. Mes projets, mes docs, mes outils, tout est dedans.
+1:291 minute et 29 secondesSi demain, mon accès s'arrête, je vais pas juste perdre un abonnement à 20€ par mois, je vais perdre des mois de travail. Et c'est pas la première fois que je suis dans cette situation.
+1:381 minute et 38 secondesPendant 2 ans et demi, tout mon boulot était dans ChatGPT. J'ai fini par basculer sur Claude en fin d'année dernière parce que les modèles d'OpenAI devenaient trop instables à mon goût, surtout pour ce que j'en faisais.
+1:481 minute et 48 secondesLà, j'avais choisi le moment où j'ai pris mon temps, personne ne me forçait la main. Ça m'a quand même coûté des semaines. Alors, imagine.
+1:551 minute et 55 secondesLa même bascule, mais du jour au lendemain et sans l'avoir décidé. Donc, le 12 juin dernier, 3 jours plus tôt, Anthropic sort 2 nouveaux modèles.
+Chapitre 2 : La panne qui ne vient pas de toi
+2:042 minutes et 4 secondesMythos et Fable, ces 2 modèles les plus puissants. Des gens le branchent, le testent, commencent à construire dessus.
+2:102 minutes et 10 secondesEt le 12 juin, en fin de journée, Anthropic reçoit une lettre du département du commerce américain. Une directive de contrôle des exportations.
+2:182 minutes et 18 secondesLe genre de texte qu'on utilise d'habitude pour des semi-conducteurs, par exemple.
+2:222 minutes et 22 secondesCe que dit la lettre, c'est « Plus aucun accès à ces 2 modèles. » « Plus aucun accès à ces 2 modèles. » Pour un ressortissant étranger.
+2:272 minutes et 27 secondesOu qu'il soit dans le monde, y compris pour les salariés étrangers d'Anthropic, qui travaillent aux Etats-Unis. Résultat concret, il est assez brutal.
+2:342 minutes et 34 secondesPour être sûr de respecter l'ordre, Anthropic coupe les 2 modèles. Pour tout le monde. Partout. Le même soir.
+2:412 minutes et 41 secondesLe motif invoqué, c'est une faille de sécurité supposée sur l'un des 2 modèles. Anthropic a contesté la gravité, les autres modèles Claude, eux, n'ont pas été touchés.
+2:492 minutes et 49 secondesEt 18 jours plus tard, le 30 juin, les restrictions ont été levées. Les modèles sont revenus.
+2:542 minutes et 54 secondesAlors tu vas me dire, « 18 jours, c'est pas la fin du monde. » Et c'est revenu. C'est vrai. Et c'est exactement pour ça que je te raconte cette histoire. Parce que le problème, c'est pas la durée.
+3:033 minutes et 3 secondesC'est qui a décidé.
+3:043 minutes et 4 secondesUne entreprise a sorti un produit, ses clients l'utilisaient, et un soir, quelqu'un, dans une administration, voire une maison blanche, à 6000 km de là, a envoyé une lettre.
+3:133 minutes et 13 secondesLe produit s'est éteint. Ni les clients, ni le fournisseur n'ont eu leur mot à dire. Maintenant, remets-toi dans ton bureau.
+3:193 minutes et 19 secondesSi t'avais bâti un processus de production sur un de ces modèles, le 13 juin matin, bah tu travaillais plus. T'as reçu aucun mail d'avertissement, t'as pas pu négocier, t'avais pas de recours.
+3:293 minutes et 29 secondesEt le pire, c'est que t'étais même pas visé. La décision ne parlait pas de toi. T'as jamais existé dans cette histoire. T'es juste celui qui s'est trouvé au bout de la chaîne.
+3:363 minutes et 36 secondesAlors voilà le premier truc à intégrer, et je pense que c'est le plus important de toute la vidéo. Quand tu choisis un outil IA, tu regardes généralement s'il est bon.
+3:443 minutes et 44 secondesSa vitesse, sa qualité de réponse, son prix. Tu regardes jamais s'il sera là dans 3 semaines, 1 mois, 10 ans. Ton vrai risque, c'est pas la qualité du modèle.
+3:523 minutes et 52 secondesC'est sa disponibilité. Et sur cette question là. T'as strictement aucun pouvoir. Alors oui, il existe une réponse à ça. Une seule chose ne peut pas s'éteindre sur décision de quelqu'un d'autre.
+4:014 minutes et 1 secondeC'est ce qui tourne sur ta propre machine. Sauf que cette réponse est beaucoup plus limitée que ce qu'on peut te raconter.
+4:074 minutes et 7 secondesJe te dirai exactement quand elle marche et quand elle marche pas, un peu plus tard dans la vidéo.
+4:114 minutes et 11 secondesEt si en m'écoutant, t'es en train de te dire que tu sais pas répondre à cette question pour ton activité, c'est exactement ce qu'on regarde pendant les 30 minutes de la session diagnostique.
+4:204 minutes et 20 secondesJe te mets le lien en description.
+Chapitre 3 : Tout le monde surveille la mauvaise couche
+4:234 minutes et 23 secondesAlors, la réaction normale, à ce stade, c'est de se dire qu'il faut changer d'outil. Eh bien, c'est la mauvaise réponse. Le problème n'est pas là où tu regardes.
+4:304 minutes et 30 secondesQuand tu utilises l'IA dans ton activité, tu manipules en réalité trois couches différentes. Et on parle bien souvent de la mauvaise. La première, c'est l'intelligence, le modèle.
+4:384 minutes et 38 secondesClaude, GPT, Mistral, Gemini, tous t'en proposent des différents. C'est ce qui réfléchit. La deuxième, c'est l'orchestration.
+4:454 minutes et 45 secondesCe qui déclenche, ce qui va enchaîner, ce qui va chercher tes mails, remplit ton tableau, envoie ta relance. C'est la plomberie.
+4:514 minutes et 51 secondesEt la troisième, c'est ton contexte, tes documents, tes façons de faire, ton historique. Tout ce qui fait que la réponse te ressemble au lieu de ressembler à celle de n'importe qui.
+4:594 minutes et 59 secondesEt maintenant, regarde laquelle est la plus fragile. Le modèle, c'est la couche la plus interchangeable des trois.
+5:045 minutes et 4 secondesDe très loin, et je précise tout de suite parce que j'y reviens à la fin, dans certains cas très particuliers, on possède aussi cette couche-là. Mais c'est l'exception, pas la règle.
+5:125 minutes et 12 secondesJe te montre concrètement ce qu'il en est. Ça, c'est un de mes workflows. Il a un nœud qui appelle un modèle. Si jamais le modèle que j'utilise disparaît, je clique ici.
+5:215 minutes et 21 secondesJe change la valeur, je sauvegarde, le workflow repart. Voilà, c'est ça, changer de modèle. 30 secondes. Maintenant, regarde le reste de l'écran.
+5:285 minutes et 28 secondesLes connexions, les identifiants, les 20 exécutions par jour, l'historique. Ça, c'est chez moi, sur mon serveur.
+Chapitre 4 : Ce qui change en trente secondes
+5:345 minutes et 34 secondesSi je décide de tout arrêter demain, je récupère un fichier, je le remonte ailleurs et ça continuera de tourner.
+5:395 minutes et 39 secondesEt surtout, dans mon cas, si l'éditeur de N8N ferme boutique la semaine prochaine, il m'enlève rien du tout. Mon installation continue de tourner sur ma machine.
+5:475 minutes et 47 secondesJ'ai plus de mise à jour, c'est tout. J'ai le temps de voir venir. Maintenant, imagine le même workflow. Mais avec un abonnement dans le cloud, sur une plateforme en ligne.
+5:545 minutes et 54 secondesSi l'éditeur disparaît ou décide de ne plus vendre en Europe, là, tu ne récupères rien du tout. Tu n'as même pas de fichier à sortir. Tu es obligé de tout reconstruire de zéro sur une autre solution.
+6:036 minutes et 3 secondesEt encore, si tu retrouves les mêmes fonctions. Ce n'est pas une question de code ouvert ou fermé. C'est une question beaucoup plus simple. Est-ce que ça continue de tourner sans eux ?
+6:116 minutes et 11 secondesDonc, voilà où est le vrai partage. Le modèle, c'est un consommable, comme l'électricité. Tu la loues. Le modèle, c'est pareil. Tu le loues, tu le remplaces, ça n'a aucune importance.
+6:206 minutes et 20 secondesPersonne ne construit. Sa propre centrale, la plomberie et le contexte, c'est un actif. C'est ce que tu as construit. C'est ce qu'il y a encore de la valeur dans six mois.
+6:286 minutes et 28 secondesEt le problème de la plupart des gens, ce n'est pas qu'ils louent l'intelligence. C'est qu'ils louent les trois couches en croyant n'en louer qu'une. Si ce que je te raconte jusqu'ici te parle, mets un petit pouce en l'air.
+6:376 minutes et 37 secondesÇa aide la vidéo à être proposée à des gens qui en ont besoin sans le savoir. Bon, je viens de te dire que changer de modèle, c'est 30 secondes. Et c'est vrai.
+Chapitre 5 : Substituable ne veut pas dire réversible
+6:466 minutes et 46 secondesD'ailleurs, en juin, les gens qui utilisaient les deux modèles coupés ont fait quoi ?
+6:496 minutes et 49 secondesIls ont basculé sur un autre modèle de Claude et ils ont continué leur journée. Un peu moins bien, certes. Mais ils ont continué. Preuve que le modèle est bien inconsommable.
+6:586 minutes et 58 secondesSauf que ça marchait parce que la maison était toujours debout. Moi, si demain, c'est Claude qui n'est plus accessible, c'est plus un modèle que je perds. C'est l'endroit où j'ai tout installé.
+7:067 minutes et 6 secondesMes projets, mes consignes, mes outils, la façon dont ça me répond. Et là, aucun bouton a changé dans un menu déroulant. Parce que le modèle, c'est ce que tu consommes.
+7:157 minutes et 15 secondesLa plateforme, c'est là où tu t'es installé. Et on en revient à la question qui compte. Est-ce que je peux partir de là ? Substituable, ça veut dire qu'il existe un équivalent.
+7:247 minutes et 24 secondesRéversible, ça veut dire que tu peux y aller. C'est pas la même question. Et tout le monde se pose la première, alors que, en fait, c'est la deuxième qui compte. Alors, la bonne question, c'est pas est-ce que je pourrais changer d'outil ?
+7:337 minutes et 33 secondesLa réponse est presque toujours oui. La bonne question, c'est combien ça va me coûter de partir ? Et ce chiffre-là, personne ne le calcule.
+7:417 minutes et 41 secondesCe que ça coûte de partir, ça s'appelle le coût de sortie. Et il y a trois choses dedans, dont aucune n'est le modèle. Premier morceau, ton contexte. Mes projets, ils contiennent mes documents.
+7:507 minutes et 50 secondesCeux-là ? Pas de problème. Je peux les télécharger ou je les ai déjà par ailleurs. Ils sont à moi, je les récupère en trois clics. Sauf que ce que je perds, c'est pas les fichiers.
+7:587 minutes et 58 secondesC'est la façon dont l'assistant répond.
+8:008 minutesLes consignes que j'ai affinées pendant des mois, à ce qu'il a compris de ma manière de travailler, à force de conversation. Alors oui, je récupère des documents, mais je ne récupère pas quelqu'un qui me connaît.
+8:098 minutes et 9 secondesUn point technique, parce que c'est là que beaucoup se rassurent à tort. Le fait qu'un outil propose un bouton d'export, ça ne prouve rien sur la réversibilité.
+8:168 minutes et 16 secondesUn export te rend des données brutes, pas un système en état de marche. Ce qui ne s'exporte jamais. C'est le paramétrage, la mémoire d'usage et l'ajustement accumulé.
+8:248 minutes et 24 secondesCe sont exactement les éléments qui ont pris le plus de temps à produire.
+8:268 minutes et 26 secondesDonc la question à poser à un fournisseur, c'est pas « est-ce que je peux exporter mes données ? » C'est « qu'est-ce que je ne peux pas exporter ? » Deuxième morceau, tes outils de travail.
+8:348 minutes et 34 secondesMoi, j'utilise Claude Code pour construire mes solutions. En théorie, je peux changer le modèle qui tourne dessous. En théorie, il existe des équivalents chez les concurrents.
+8:428 minutes et 42 secondesMais si je perds l'accès demain, ce que je perds, ce n'est pas un outil.
+8:458 minutes et 45 secondesC'est ma configuration, mes fichiers de consignes, mes habitudes et surtout, les semaines qu'il va me falloir pour retrouver la même vitesse de travail ailleurs.
+8:538 minutes et 53 secondesTroisième morceau, et c'est le plus cher, le temps de remonter au niveau. Ce coup-là n'apparaît sur aucune facture, tu ne le vois jamais, il n'existe que le jour où tu dois partir.
+9:029 minutes et 2 secondesEt c'est précisément ce que j'ai vécu quand j'ai quitté ChatGPT.
+9:059 minutes et 5 secondesDeux ans et demi de travail à l'intérieur, un changement décidé, calmement, et quand même des semaines à tout reconstruire. C'est pour ça que j'ai commencé à sortir mon contexte de là où il était.
+9:149 minutes et 14 secondesMa base documentaire, elle est maintenant aussi chez moi. Je peux la brancher sur... Alors, je n'ai pas quitté Claude pour autant.
+9:219 minutes et 21 secondesJ'ai juste fait en sorte de pouvoir le faire, si jamais. Alors, soyons clairs, parce que je ne veux pas te vendre une posture que je n'applique pas à moi-même. Je n'arrête pas.
+9:299 minutes et 29 secondesToi non plus, tu ne vas pas arrêter. On va continuer à utiliser ces outils demain matin, parce qu'ils sont bons et parce qu'on a du travail. Ce qu'on fait, ce n'est pas partir.
+9:379 minutes et 37 secondesC'est faire baisser le coût de sortie pendant que tout va bien. Parce que le jour où ça casse, il est trop tard pour le faire.
+Chapitre 6 : Les 2 fausses solutions
+9:449 minutes et 44 secondesDernière partie de cette vidéo, et là je vais casser deux réflexes que tout le monde a en écoutant ce que je viens de te dire. Premier réflexe, je passe chez un fournisseur européen, comme ça, je suis tranquille.
+9:549 minutes et 54 secondesAlors, soyons honnêtes sur ce point. La seule alternative européenne qui existe, c'est Mistral. Et Mistral, aujourd'hui, oui. C'est une vraie alternative.
+10:0210 minutes et 2 secondesIls ont des modèles solides, une plateforme, des modèles ouverts que tu peux télécharger et faire tourner ailleurs. Sur le terrain réglementé, d'ailleurs, banque, santé, administration, c'est souvent le choix qui s'impose.
+10:1210 minutes et 12 secondesMais deux choses. La première, ils sont crédibles, oui. Mais ils ne sont pas devant. Sur les usages avancés, l'écart existe encore. Et ils s'adressent d'abord aux entreprises structurées.
+10:2110 minutes et 21 secondesLa deuxième, et c'est la plus importante, passer de l'un à l'autre, ça ne change pas ton statut. Tu changes de propriétaire, tu restes locataire.
+10:2910 minutes et 29 secondesUn fournisseur européen peut aussi augmenter ses prix, fermer une fonction ou disparaître. Le drapeau ne te rend rien. Deuxième réflexe, à l'opposé.
+10:3810 minutes et 38 secondesJe fais tout tourner chez moi et je ne dépends de personne. Et sur le papier, c'est vrai. Un modèle installé sur ta machine, personne ne peut l'éteindre.
+10:4510 minutes et 45 secondesPas de facture, pas de lettre du département du commerce, pas de conditions d'utilisation qui changent tous les quatre matins. C'est la seule garantie absolue de disponibilité qui existe.
+10:5410 minutes et 54 secondesEt ça, je ne vais pas te dire le contraire, moi aussi je l'ai fait. Alors, quand est-ce que ça marche vraiment ? Ça marche quand le besoin est étroit et répété.
+11:0311 minutes et 3 secondesUne entreprise qui traite par exemple le même type de document toute la journée, ou qui fait toujours la même extraction sur des factures, ou qui classe toujours les mêmes demandes clients.
+11:1111 minutes et 11 secondesLà, un modèle plus petit, spécialisé, affiné sur ses données à elle, fait le travail. Et parfois mieux qu'un gros modèle généraliste. Justement parce qu'il ne fait que ça.
+11:2011 minutes et 20 secondesAjoute à ça des données qui doivent sortir de l'entreprise sous aucun prétexte, et le local devient le bon choix. Pas le choix militant, le bon choix technique.
+11:2811 minutes et 28 secondesEt alors, quand est-ce que ça marche pas ? Ben, quand tu veux la même chose que dans le cloud.
+11:3211 minutes et 32 secondesUn truc qui écrit, qui code, qui analyse, qui raisonne, qui lit des images au même niveau, dans la même fenêtre. Ça, sur une machine de bureau, t'oublies, ça n'existe pas.
+11:4011 minutes et 40 secondesFaut être réaliste. Tu peux t'en approcher, de loin, en installant plusieurs modèles. Un par usage.
+11:4611 minutes et 46 secondesUn pour la transcription, un pour le texte, un pour le code, un pour les images.
+11:4911 minutes et 49 secondesEt là, t'as plus un outil, t'as un parc à administrer, avec des mises à jour, la place disque, la machine qu'il faut derrière. Donc, le local, c'est pas une alternative au cloud.
+11:5711 minutes et 57 secondesC'est juste une brique. Et tu peux la poser par conviction. Mais tu peux aussi la poser sur un besoin précis. Et là, c'est le bon choix.
+12:0412 minutes et 4 secondesMais si tu bascules tout du jour au lendemain par principe, tu vas tenir trois semaines et tu vas revenir au cloud. C'est exactement pour ça que les deux réflexes que j'évoquais tombent tous les deux.
+12:1312 minutes et 13 secondesChanger de drapeau, ça va pas changer grand chose. Tout rapatrier chez toi, ça va pas. Marcher. La vraie réponse est ailleurs.
+12:2012 minutes et 20 secondesAlors, qu'est-ce qui reste quand tu enlèves l'idéologie des deux côtés ? Trois couches à posséder et le modèle n'en fait pas partie. D'abord, l'endroit où ça tourne.
+12:2812 minutes et 28 secondesUn serveur qui est à toi, avec tes accès, que tu peux arrêter, déplacer ou confier à quelqu'un d'autre.
+12:3312 minutes et 33 secondesEnsuite, ton contexte, tes documents, tes procédures, ta façon de faire, stocké dans un format que tu peux emmener, pas enfermé dans l'interface d'un fournisseur.
+12:4112 minutes et 41 secondesEt enfin, tes automatisations.
+12:4312 minutes et 43 secondesDes enchaînements que tu peux exporter et remonter ailleurs avec tes identifiants à toi. Alors oui, l'où l'intelligence ? Possède la plomberie, c'est tout.
+12:5212 minutes et 52 secondesEt c'est exactement ce que j'ai chez mes clients. L'infrastructure est installée chez eux. Les accès sont à leur nom et le modèle en dessous est remplaçable.
+Chapitre 7 : Le test de la coupure
+13:0013 minutesEt pour savoir où t'en es, t'as pas forcément besoin d'un audit. T'as besoin de trois questions. Je les appelle le test de la coupure.
+13:0613 minutes et 6 secondes1. Si mon fournisseur principal coupe ce soir, mes documents de travail sont où et sous quelle forme je peux les récupérer ? 2. Mes automatisations tournent où ?
+13:1413 minutes et 14 secondesOù est-ce que je peux les sortir en un seul fichier ? 3. Combien de temps il me faut pour être en train de les récupérer ? 4. Combien de temps il me faut pour être opérationnel ailleurs ? 1 jour ? 1 semaine ? 1 mois ?
+13:2113 minutes et 21 secondesSi tu ne sais répondre à aucune des trois questions, t'as pas un problème de dépendance à l'IA, t'as un problème d'inventaire.
+Chapitre 8 : Ton plan d'action
+13:2813 minutes et 28 secondesLe 12 juin dernier, deux modèles se sont éteints pour tout le monde en une soirée sur une décision de gens qui ne savaient même pas que t'existes. Ça a duré 18 jours.
+13:3613 minutes et 36 secondesLa prochaine fois, ça durera peut-être 2 jours ou 6 mois. Personne ne peut te le dire et surtout pas ton fournisseur.
+13:4213 minutes et 42 secondesAlors ce que tu peux faire par contre, c'est répondre aux trois questions que je t'ai posées juste avant. Fais-le ce soir, ça te prend. Un quart d'heure et t'as rien à installer.
+13:4913 minutes et 49 secondesT'écris trois lignes sur une feuille, où sont mes documents, où tournent mes automatisations, combien de temps pour repartir ailleurs ?
+13:5513 minutes et 55 secondesSi les trois réponses te font peur, tu sais quoi faire cette semaine.
+13:5913 minutes et 59 secondesEt si elles te rassurent, tant mieux, t'as déjà fait le plus dur sans le savoir.
+14:0214 minutes et 2 secondesEt si tu veux voir à quoi ça ressemble concrètement quand une IA tourne chez toi, sans passer par personne, j'ai monté une petite installation en direct dans cette vidéo.
+14:1214 minutes et 12 secondesC'est juste là. Merci, salut !
+
+Tout
+
+Source : Samuel Gentilhomme
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:02:15
+Tech Sama Show #363 : Sony Répond, Leak RTX Spark et Ram Chinoise
+Tech_Sama
+8,9 k
+il y a 15 h
+Nouveau
+
+
+17:30
+L'incroyable (et terrifiant) business des assurances
+Sébastien Koubar
+89 k
+il y a 2 a
+
+
+14:20
+Testing Cloudflare OS: Open Source AI Chat + App Builder for the Non-Technical
+Tonbi's AI Garage
+1,6 k
+il y a 16 h
+Nouveau
+
+
+23:13
+Les LLM sont totalement bloqués : l'AGI semble "impossible" pour l'instant
+Melvynx
+1 k
+il y a 14 h
+Nouveau
+
+
+28:51
+Making An Actually Fun 3D Game with AI
+Matt Wolfe
+4 k
+il y a 4 h
+Nouveau
+
+
+15:26
+Stellantis: le désastre à 22 milliards € qui entraîne Peugeot, Citroën et Fiat
+ElecTruc
+90 k
+il y a 12 j
+
+
+11:37
+Ce que personne n'ose dire sur Temu (le prochain Amazon)
+Sébastien Koubar
+116 k
+il y a 2 a
+
+
+1:06:18
+Callisthénie : se muscler sans poids, est-ce vraiment possible ? | Brieuc Le Dantec
+Lucile Woodward
+79 k
+il y a 3 m.
+
+
+26:39
+Hacking AI is TOO EASY (this should be illegal)
+NetworkChuck
+1,2 M
+il y a 1 a
+
+
+43:03
+Je suis une victime d'Oussama Ammar
+Olivier Roland
+379 k
+il y a 2 m.
+
+
+11:38
+EXERCICES DOS : du MEILLEUR au PIRE (classement)
+Nassim Sahili
+1,3 M
+il y a 3 a
+
+
+33:14
+Ethernet is DEAD?? Mac Studio is 100x FASTER!!
+NetworkChuck
+985 k
+il y a 7 m.
+
+
+1:10:27
+On nous ment sur le jeûne intermittent - experte nutrition : Pauline Budinsky
+Major Mouvement
+67 k
+il y a 1 m.
+
+
+33:08
+Whatnot : Le nouveau Sponsor YouTube qui te met en DANGER
+Basti Ui
+282 k
+il y a 13 j
+
+
+2:14:18
+Où investir face à l’effondrement du système français (Bradley Lafond)
+Sébastien Koubar
+8 k
+il y a 8 m.
+
+
+29:15
+Les offres en IA explosent. Alors pourquoi est-ce si difficile d'en décrocher une?
+IA et Stratégie
+13 k
+il y a 2 j
+Nouveau
+
+17:45
+JE MANGE COMME L'HOMME LE PLUS SEC AU MONDE
+Tibo InShape
+2,9 M
+il y a 3 a
+
+53:44
+Building the PERFECT Linux PC with Linus Torvalds
+Linus Tech Tips
+8,1 M
+il y a 8 m.
+
+1:10:05
+Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview
+Bloomberg Originals
+714 k
+il y a 1 m.
+
+1:21:04
+Comment fonctionnent réellement les algorithmes des réseaux sociaux (et comment les battre)
+Le Déclic par Alec Henry
+1,2 k
+il y a 14 h
+Nouveau
+
+    

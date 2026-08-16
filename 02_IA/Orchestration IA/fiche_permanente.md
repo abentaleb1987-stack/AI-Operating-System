@@ -5,7 +5,7 @@
 - Nom : Orchestration IA
 - Type : Discipline de coordination d'agents, outils, workflows, memoires et validations
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-08-09
+- Derniere mise a jour : 2026-08-16
 
 ## 2. Role principal
 
@@ -25,6 +25,9 @@ Composants essentiels :
 - criteres de validation ;
 - conditions d'arret ;
 - validation humaine lorsque necessaire.
+- couche d'abstraction limitant le couplage a un fournisseur de modele ;
+- contexte canonique conserve dans des formats portables et versionnes ;
+- definitions d'automatisation exportables avec dependances documentees.
 
 L'orchestrateur doit surveiller les deviations, recadrer les agents, agreger les resultats et decider de la suite du workflow.
 
@@ -101,6 +104,16 @@ Workflow de supervision operationnelle :
 4. Distinguer la disponibilite technique, la qualite du resultat et l'impact metier.
 5. Transformer les incidents et retours verifies en corrections, backlog ou evolution de workflow.
 
+Workflow de reversibilite operationnelle :
+
+1. Inventorier separement les modeles, l'orchestration, le contexte et les dependances externes.
+2. Conserver documents, procedures et instructions dans des formats portables et versionnes.
+3. Isoler les appels de modele derriere une configuration remplacable lorsque les capacites le permettent.
+4. Exporter les definitions d'automatisation et documenter secrets, connecteurs et prerequis sans versionner les secrets eux-memes.
+5. Definir une solution de repli et mesurer le temps necessaire pour redevenir operationnel.
+6. Tester periodiquement cette reprise sur un workflow non critique.
+7. Reserver le local aux usages dont le besoin, la confidentialite et l'effort d'exploitation le justifient.
+
 ## 9. Prompts & methodes
 
 Les instructions d'orchestration doivent definir :
@@ -145,6 +158,7 @@ Points a surveiller :
 - securite des skills navigateur et hooks ;
 - integration d'outils documentaires externes uniquement sous contraintes de confidentialite et de tracabilite.
 - usage de bifurcations vers l'utilisateur lorsque l'orchestrateur ne peut pas verifier objectivement un resultat.
+- cout de sortie, disponibilite des fournisseurs et temps reel de reprise d'un workflow critique.
 
 ## 13. Decisions strategiques
 
@@ -156,3 +170,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 - 2026-07-01 - Ajout - Sections 8, 12 - Sources YouTube Parlons IA Claude Code / Codex, batch AOS GO partiel
 - 2026-07-04 - Mise a jour - Sections 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
 - 2026-08-09 - Mise a jour - Section 8 - Sources YouTube NetworkChuck et Meydeey, contexte multi-outils et supervision operationnelle, batch AOS GO partiel
+- 2026-08-16 - Mise a jour - Sections 3, 8, 12 - Source YouTube Samuel Gentilhomme, reversibilite et portabilite d'une infrastructure IA, batch AOS GO partiel
