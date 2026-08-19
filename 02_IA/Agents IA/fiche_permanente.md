@@ -74,6 +74,7 @@ Pour un pipeline RAG auditable, documenter aussi :
 - Devient instable si les objectifs, outils ou criteres sont implicites.
 - Peut deriver si les logs, limites et conditions d'arret sont absents.
 - Peut saturer le contexte si les sources sont injectees sans selection.
+- Les garde-fous externes au modele peuvent etre affaiblis par une configuration incoherente, une expiration manuelle oubliee, un traitement incomplet des flux ou modalites, ou une exemption propagee a un perimetre trop large.
 
 ## 6. Cas d'usage valides
 
@@ -137,6 +138,11 @@ Workflow de securite agentique :
 4. Valider et filtrer les entrees comme les sorties, tout en conservant les controles classiques de la couche applicative.
 5. Journaliser les appels d'outils et alertes, puis verifier qu'une compromission reste contenue dans un rayon limite.
 6. Exiger une approbation humaine pour toute action sensible, irreversible ou susceptible d'exposer des donnees.
+7. Deployer d'abord sur un perimetre limite avec controles renforces et observer les traces avant extension.
+8. Automatiser l'expiration des acces temporaires et limiter les exemptions a des utilisateurs ou roles explicites.
+9. Lier programmatiquement versions, seuils et configurations afin d'eviter les copies manuelles incoherentes.
+10. Tester les chemins complets, y compris les fins de flux, images et autres modalites, puis surveiller les regressions.
+11. Conserver une revue humaine ou externe independante pour les conclusions de risque ; l'auto-revue par le modele reste une preuve complementaire.
 
 Workflow de passage d'une supervision continue a une revue par resultats :
 
@@ -193,6 +199,7 @@ Points a surveiller :
 - qualite et maintien d'un registre de decisions (ADR) pour limiter la re-proposition d'options deja ecartees.
 - valeur reelle du multi-query, de HyDE, des rerankers et des boucles RAG correctives sur un corpus AOS evalue.
 - debit de verification, taux de defaut et charge de revue lorsque le nombre d'agents paralleles augmente ; la consommation de tokens ne doit pas devenir un objectif de performance.
+- derive operationnelle des garde-fous : configuration, expiration d'acces, couverture des modalites, portee des exemptions et qualite de la detection de regression.
 
 ## 13. Decisions strategiques
 
@@ -207,3 +214,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 - 2026-08-01 - Mise a jour - Sections 3, 8, 12 - Source YouTube Projets IA RAG, batch AOS GO partiel
 - 2026-08-09 - Mise a jour - Section 8 - Source YouTube NetworkChuck, defense en profondeur des applications agentiques, batch AOS GO partiel
 - 2026-08-19 - Mise a jour - Sections 3, 8 et 12 - Source YouTube IA et Strategie, supervision par resultats et boucle de verification, batch AOS GO partiel
+- 2026-08-19 - Mise a jour - Sections 5, 8 et 12 - Rapport de risque officiel Anthropic, incidents de controles et deploiement progressif, batch AOS GO partiel
