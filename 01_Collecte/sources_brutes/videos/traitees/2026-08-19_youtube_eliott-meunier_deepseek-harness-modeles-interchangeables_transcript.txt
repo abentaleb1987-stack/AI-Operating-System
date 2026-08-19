@@ -1,0 +1,711 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+2
+
+Image d'avatar
+DeepSeek lâche une bombe : DeepSeek Harness (actu IA)
+Eliott Meunier
+Eliott Meunier
+49 k abonnés
+
+S’abonner
+
+157
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+19 août 2026
+Tout le monde compare ChatGPT, Claude, Gemini et DeepSeek. Mais la vraie bataille de l’IA est peut-être en train de se déplacer : le modèle devient interchangeable, tandis que le système qui l’entoure prend toute la valeur.
+
+Dans cette revue IA : démonstration de DeepSeek Harness, sorties de DeepSeek V4 Pro et GLM 5.3, départs historiques chez Google, Gemini 3.7 Flash, Grok Bot, souveraineté IA avec Mistral et retour de Manus en Chine.
+
+Une vidéo pour comprendre simplement comment les agents IA évoluent et pourquoi le meilleur modèle ne suffira bientôt plus.
+
+
+🎓 Masterclass IA et Second Cerveau : https://prisme.one/inscription-master...
+
+
+00:00 Introduction
+00:49 DeepSeek Harness rend les modèles interchangeables
+08:48 DeepSeek V4 Pro et GLM 5.3
+09:46 Meta présente son nouveau modèle local
+10:21 Qwen 3.8 repousse les limites de l’IA locale
+11:43 Deux ingénieurs historiques quittent Google
+13:09 Gemini 3.7 Flash et la croissance de Google
+14:22 Grok 4.6 et Grokbot
+16:38 Mistral redéfinit la souveraineté européenne
+19:16 La Chine bloque le rachat de Manus par Meta
+20:17 Unitree prépare son entrée en Bourse
+
+
+
+🗞️ SOURCES et RÉFÉRENCES :
+
+DeepSeek Harness
+
+DeepSeek Harness, présentation officielle
+https://deepseek.com/harness/en/
+
+DeepSeek Harness, dépôt GitHub
+https://github.com/deepseek-ai/deepse...
+
+A Programming Paradigm for Spatiotemporal Composability
+https://github.com/cordiverse/paper
+
+Analyse de DeepSeek Harness et DeepSeek V4 Pro, VentureBeat
+https://venturebeat.com/technology/de...
+
+DeepSeek Harness, hausse des prix, Manus et Unitree, Recode China AI
+https://www.recodechinaai.com/p/deeps...
+
+Discussion avec l’un des auteurs de DeepSeek Harness
+https://news.ycombinator.com/item?id=...
+
+Discussion sur le post-entraînement de DeepSeek V4 avec le harness
+https://news.ycombinator.com/item?id=...
+
+Analyse technique du fonctionnement de DeepSeek Harness
+https://x.com/eliebakouch/status/2087...
+
+Retour d’expérience sur la création de plugins DeepSeek Harness
+https://x.com/I_am_oil_oil/status/208...
+
+
+Nouveaux modèles ouverts
+
+GLM 5.3 et la progression des laboratoires chinois, Interconnects
+https://www.interconnects.ai/p/glm-53...
+
+DeepSeek V4 Pro 0813, Simon Willison
+https://simonwillison.net/2026/Aug/12...
+
+Muse Glimmer, Hugging Face
+https://huggingface.co/blog/muse-glimmer
+
+État des modèles ouverts en 2026, Hugging Face
+https://huggingface.co/blog/state-of-...
+
+
+Google et Gemini
+
+Le départ des figures historiques de Google, Exponential View
+https://www.exponentialview.co/p/goog...
+
+Présentation de Gemini 3.7 Flash, Google DeepMind
+https://deepmind.google/blog/introduc...
+
+
+Grok, Mistral et souveraineté IA
+
+Grok 4.6 et Grok Bot, Ben’s Bites
+https://www.bensbites.com/p/grok-bot-...
+
+Infrastructure européenne et inférence régionale, Mistral AI
+https://mistral.ai/news/regional-infe...
+Eliott Meunier analyse l'architecture innovante de DeepSeek Harness et son impact sur la conception d'agents IA. Cette revue hebdomadaire explore également les récentes sorties de modèles open source, les mouvements stratégiques de géants technologiques comme Google et Meta, et l'évolution des enjeux de souveraineté numérique dans le secteur.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Eliott Meunier
+49 k abonnés
+Vidéos
+À propos
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@JCKurdali
+il y a 3 heures
+Ça devient le RDV IA du mercredi ce format Eliott !
+
+3
+
+
+Répondre
+
+
+1 réponse
+
+@esenterre
+il y a 23 minutes
+Enfin une recommendation de Youtube sur l'AI en français! Belle découverte pour moi! J'adore le ton! Bravo!
+
+
+
+Répondre
+
+
+@BadaraBa
+il y a 1 heure
+Merci a toi pour les infos, bonne continuation Eliott
+
+1
+
+
+Répondre
+
+
+@workmusicalflowproduction4329
+il y a 28 minutes
+Je pense qu'ils sont naturellement dans une phase lab de construction pour aboutir a leur version de claude code vu l'acharnement, le défaut qui etait la fiabilité du model a manipuler des tools et du json dans une marrée de contexte, ce que fait brillamment Anthropic via leurs modèles.
+
+
+
+Répondre
+
+
+@ADxx9869
+il y a 2 heures
+merci
+
+
+
+Répondre
+
+
+@spacemountain86
+il y a 26 minutes
+J'aimerais bien avoir dans mon pc sous Windows un résumé de texte comme sur Mac !
+
+
+
+Répondre
+
+
+@IM-wd4oi
+il y a 51 minutes
+GG
+
+
+
+Répondre
+
+
+@flavmusic
+il y a 1 heure
+Vidéo top mais il faut vraiment arrêter sur les "modèles qui tournent sur un macbook" c'est totalement inutilisable pour du code puisque ça nécessite une quantization qui détruit les benchmarks, tout juste bon pour de la rédaction.
+
+2
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Introduction
+0:000 secondeAlors, tu crois qu'un agent un modèle intelligent avec des outils autour ? Et bien, Deepsic viennent complètement d'inverser la balance. Ils viennent de publier avec un papier de 88 pages le
+0:088 secondesmeilleur outil à ce jour, deepsick harness. Dans cette vidéo, je vais vous expliquer pourquoi ça change tout dans la manière dont on conçoit des environnements IA. Mais c'est pas tout car cette semaine a été complètement
+0:1717 secondesexplosif dans le monde de l'IA avec deux nouveaux modèles open source qui sont sortis. Dipsic V4 Pro, GLM 5.3, un nouveau modèle de coin qui tourne sur un MacBook qui change complètement la donne
+0:2525 secondespour lire à local. J'ai Mini 3.7 Flash qui défonce les score, Google qui perd deux de ses légendes historiques. XI qui sort Grockbot et leur nouveau modèle
+0:3333 secondesGrock 4.6, Mistral qui renonce sur le fait de développer ses propres modèles et qui cherche à héberger des modèles chinois maintenant pour plus de
+0:4040 secondessouveraineté. Et le feuilleton Manus AI qui continue. Vous allez voir, c'est passionnant. Alors, c'est parti pour les actualités de la semaine.
+Chapitre 2 : DeepSeek Harness rend les modèles interchangeables
+0:4949 secondesLe 13 août 2026 est sorti en licence MIT complètement open source le nouveau projet de de Dieps deck harness. Leur
+0:5656 secondesslogan officiel c'est pas faites votre meilleur travail avec deeps harness, c'est everything is a plugin. Et c'est ça qui est super intéressant.
+1:021 minute et 2 secondesConcrètement, un harness, c'est simplement un environnement dans lequel on ouvre un modèle IA qui permet de donner à des capacités telles que l'accès à la recherche, au web, au terminal, à l'édition de fichiers et
+1:111 minute et 11 secondescetera. La plupart des herné ont été construits avec une philosophie simple, c'est que on a un programme monolithique qui tourne et qui permet de donner des outils à lien. Cependant, dips psic, ils
+1:191 minute et 19 secondessont dit que ce n'était pas la bonne direction à prendre, qu'il fallait adopter une autre philosophie de conception des Arnea et ils ont tout changé. Cette philosophie c'est tout est un plugin, même le modèle. Je pense que
+1:281 minute et 28 secondesle plus parlant pour vous expliquer ce que c'est, c'est que je vous fasse directement une démonstration. Donc là, j'ai installé la version preview du carness sur mon ordinateur et je l'ouvre directement dans mon navigateur pour
+1:361 minute et 36 secondesavoir une interface. Quand on ouvre harness, on a la possibilité, comme dans tous les autres harnets, de connecter différents modèles, Deepsic ou tout autre modèle qu'on souhaite. Et puis on a également la possibilité de l'ouvrir
+1:441 minute et 44 secondesdans un dossier sur notre ordinateur pour qu'il puisse faire du travail localement dans des fichiers. Mais surtout, on a la possibilité ici de choisir parmi les modes. Ici, je vais vous faire une démonstration directement
+1:521 minute et 52 secondesen creator mode parce que le creator mode est un mode qui permet au Deepsek Hardness de s'améliorer lui-même. Il sait comment créer de nouveaux plugins en fonction des fonctionnalités qu'on
+2:002 minutesaimerait créer. Je vais vous donner un exemple avec un exemple complètement stupide. Je veux que tu crées un plugin qui fasse en sorte qu'il y ait un panda interactif animé qui défile en bas de
+2:082 minutes et 8 secondesmon écran de gauche à droite sans jamais s'arrêter. Évidemment, la demande est complètement stupide, mais c'est pour que ça aille rapidement et qu'on ait quelque chose de visuel pour voir ce que comment ça marche ensemble. Déjà, la première chose qui est frappante quand
+2:162 minutes et 16 secondeson commence à utiliser le modèle, c'est que juste ici, on voit toutes les étapes. Tout, absolument tout est monitorable. On voit qu' a le système promp du Deepsek harness qui a été injecté et le skill catalogue également.
+2:262 minutes et 26 secondesC'est quelque chose qui est complètement caché dans tous les autres harnets. Par exemple, on commence à utiliser Cloud code et absolument tout le raisonnement, ce qui se passe en arrière-plan est caché. Là, c'est absolument l'inverse.
+2:332 minutes et 33 secondesIl ne cache absolument rien. Toutes les traces sont conservées. D'ailleurs, pendant qu'il réfléchit, je vais directement aller ici dans l'onglet trajectory. Cet onglet trajectory, il nous permet d'inspecter les logs de
+2:412 minutes et 41 secondessession de manière extensive. Par exemple, ici, je peux voir que l'assistant a fait quelque chose. En l'occurrence, il a fait un bloc de réflexion et dans la réflexion, je peux voir exactement les tokens qui ont été
+2:492 minutes et 49 secondesgénérés. Derrière, je peux voir qu'il a fait un appel de tool call juste ici. Et le tool call, ça a justement été le fait d'appeler un outil qui s'appelle Cordis plugin développement qui a un outil de
+2:572 minutes et 57 secondesbase qui est fourni par Dipsy. Alors là, vous dites peut-être "Mais IOT concrètement, ça sert à quoi d'avoir une trajectoire aussi détaillée ?" Et bien, quand on met en place de l'IA en prod
+3:053 minutes et 5 secondesdans des entreprises, il faut qu'on puisse auditer parfaitement ce que LIA a fait, ce que LIA a réfléchi. Il faut aussi qu'on puisse auditer les outils qui ont été utilisés, les permissions
+3:123 minutes et 12 secondesqui ont été demandées. Si on peut pas respecter ça, on n'est pas en mesure de déployer dans des entreprises des harnet parce que ce sera pas suffisamment sécurisé. Et là, dips psique, le fait de passer énormément de temps à créer une
+3:203 minutes et 20 secondesnouvelle architecture d'un nouveau type de harnet vient de changer et de plier complètement le game selon moi du déploiement en entreprise de harnet I parce que cette observabilité c'est ce
+3:283 minutes et 28 secondesdont on a besoin pour un déploiement en entreprise. Mais revenons directement au chat. Dipsic me dit qu'il a fini de travailler correctement. OK, ça y est, le plugin I marche. Ce qui a été fait, voici et voilà la prochaine étape.
+3:383 minutes et 38 secondesEffectivement, ici, il me dit que j'ai quelque chose à approuver dans mon interface. J'ai un plugin qui m'attend et vous allez voir, je peux l'activer alors même que dipsic est toujours en fonctionnement. J' même pas besoin de redémarrer. C'est parti, j'approuve.
+3:483 minutes et 48 secondesEt j'ai mon panda. J'ai mon panda qui apparaît directement en bas de mon écran et qui va se balader dessus. Si je clique dessus et je me dis bambou. Bon
+3:563 minutes et 56 secondesalors comme ça ça peut paraître complètement stupide parce que effectivement l'usage que j'en fais pour la démo est complètement stupide. Mais regardons ce qu'a fait un utilisateur en une nuit depuis que le harnet est sorti.
+4:044 minutes et 4 secondesCette personnel qui s'appelle All H All sur Twitter nous montre une démonstration qu'il a fait pendant la nuit. La vidéo est en chinois donc je peux pas vous la mettre mais je vais vous décrire ce qu'il dit. Globalement il est reparti du dipsy carnes et il a
+4:134 minutes et 13 secondestout changé. Déjà, vous pouvez voir que l'interface a complètement changé, mais il a adapté le DP carness pour sa publication de contenu. Et donc, vous voyez juste ici, il a rajouté une nouvelle interface qui est une interface
+4:214 minutes et 21 secondesde publication de poste. Voyons ce que ça donne. Ici, vous pouvez voir qu'il y a tous ces posts qui sont programmés sur la gauche de son écran et il peut directement travailler avec Lia à l'intérieur de ses posts. Il a créé une
+4:304 minutes et 30 secondesdeuxième interface juste ici qui lui permet de preview le contenu des posts qu'il va publier pendant la journée et il peut juste ici voir est-ce que les canaux sont connectés et est-ce qu'il est prêt à publier ses posts. Tout ça,
+4:384 minutes et 38 secondesil l'a développé en une seule nuit à l'intérieur du Deepsic Harness. Pour ma part, j'ai quasiment pleuré de joie au moment où Dipsycarnè est sorti parce que ça fait des mois que je me tire les
+4:464 minutes et 46 secondescheveux pour trouver des solutions qu'on peut déployer en entreprise tout en bénéficiant de la puissance de l'IA agentique et à chaque fois c'est extrêmement compliqué. Il faut déployer des machines virtuelles avec des
+4:544 minutes et 54 secondespermissions spécifiques. Les harness sont pas assez bons pour gérer les permissions. Il peut toujours être bypassé par le modèle. Ça ne va jamais.
+5:005 minutesAvec Dipsycarnè, j'entrevois enfin la possibilité de créer une solution technique qui est valable et disponible pour les entreprises. Bah oui, parce que comme on peut avoir une observabilité
+5:075 minutes et 7 secondestotale sur ce que font tous les utilisateurs, on peut parfaitement monitorer ce qui se passe. On peut créer des plugins pour tous les usages pour gérer les permissions des outils, les permissions d'écriture, de lecture et
+5:155 minutes et 15 secondessur les fichiers. Et comme c'est un arna qui est extrêmement léger à faire tourner, on peut également le faire tourner sur un serveur global d'entreprise avec des sessions par utilisateur. Bref, c'est ce qui nous
+5:235 minutes et 23 secondespermet enfin d'entrevoir la voix d'une enfin performante et sécurisée et auditable en entreprise. Mais ce qui est encore plus impressionnant avec ce dips harness, c'est que en parallèle du repos
+5:315 minutes et 31 secondesde code qui est sorti et donc que tout le monde peut reprendre et installer sur son ordinateur, ils ont sorti un papier en collaboration avec l'université de Pékin, Programming Paradigm for Special
+5:395 minutes et 39 secondesTemporal Composability. C'est un papier qui a été extrêmement douloureux pour moi à lire parce que je suis pas très bon en math et que ce papier c'est que des maths. Alors on pourrait se dire mais Elliot ça n'a aucun sens. Pourquoi
+5:475 minutes et 47 secondesest-ce que un bout de code sur un agent I représente autant de math ? Et bien parce que justement ils ont développé enfin en tout cas ils ont appliqué des théorèmes sur la composabilité
+5:555 minutes et 55 secondesorthogonale des mathématiques justement pour les agenda. Je vais essayer de vous vulgariser le truc de la meilleure manière possible même si ça risque de rester un petit peu théorique.
+6:026 minutes et 2 secondesGlobalement on veut pouvoir composer des opérations sur deux dynamiques. Une dynamique temporelle et une dynamique spatiale. Ça veut dire quoi ? C'est veut dire que tu veux pouvoir retirer un
+6:096 minutes et 9 secondescomposant en annulant complètement les effets qui vient de créer et les effets de bord qu'il a causé. Par exemple, mon panda, mettons que on l' activé et qu'il y a eu des effets pendant la session, on
+6:176 minutes et 17 secondesveut pouvoir au moment où on l'annule pouvoir annuler complètement le panda et les effets qu'il a eu sur d'autres plugins et sur d'autres choses pour éviter que ça casse. Concrètement, ce qu'ils essayent de faire, c'est essayer
+6:256 minutes et 25 secondesd'avoir deux dimensions pour la composabilité. Une dimension temporelle et une dimension spatiale. L'objectif, c'est de pouvoir retirer un composant en annulant complètement ses effets de bord
+6:346 minutes et 34 secondesà un instant. Par exemple, j'ai activé mon plugin de panda. mon plugin de panda a fait n'importe quoi dans l'interface, il a fait tout bugger. Je veux pouvoir l'annuler et que ça puisse retirer complètement donc le composant mais
+6:426 minutes et 42 secondesaussi le composant et les effets de bord qu'il a eu sur les autres composants qui sont actuellement en train de tourner dans une session active. L'autre élément c'est d'être en mesure d'activer un
+6:496 minutes et 49 secondesplugin qui a lui-même d'autres dépendances à l'intérieur du système.
+6:536 minutes et 53 secondesPar exemple, je j'utilise tel et tel et tel module et queensuite le runtime puisse directement activer ou désactiver justement les modules nécessaires pour faire fonctionner ce composant pendant
+7:017 minutes et 1 secondeune session, pendant un run. Et donc concrètement ce qui se passe c'est que chaque effet autrement dit chaque activation désactivation de composants par exemple dans Psycarness c'est une
+7:087 minutes et 8 secondespaire tu as une action F et tu as son inverse G. Et ce qui se passe justement c'est que les actions elles font les effets dans un sens mais les inverses évidemment dans le sens inverse. Et donc à tout instant le runtime le programme
+7:177 minutes et 17 secondesil détient l'accumulateur. C'est la fonction qui ramène l'environnement exact à l'état initial soit l'état initial avant l'activation d'un composant soit l'état initial parfait.
+7:257 minutes et 25 secondesEt donc comme c'est prouvé mathématiquement et qu'on a les fonctions pour revenir en arrière et bien on garantit complètement la recovery d'un environnement qui serait parti dans tous les sens. Voà avant de
+7:337 minutes et 33 secondescourir dessus et de commencer à construire plein de plugin dessus, je vous recommande d'attendre au moins quelques mois parce que là ils disent clairement dans le repos que there will be compatibility breaking changes.
+7:427 minutes et 42 secondesAutrement dit, il faut pas s'y mettre tout de suite. Il faut quand même dire que le même jour où le carnet est sorti gratuit en licence open source MIT, Dips a monté ses prix à pay de 50 % à plus de
+7:507 minutes et 50 secondes1100 % selon les cas. Alors, c'est complètement normal ce qu'ils font et honnêtement, ils sont revenus à un prix normal du marché parce qu'avant il bradait vraiment les tokens. Mais ce qu'il faut dire, c'est quand même que la
+7:577 minutes et 57 secondesstratégie chinoise, elle est quand même euh de proposer les modèles open source parce que clairement, il y a aucun mote dans un modèle. Dans tous les cas, les LLM purs vont être attrapés. Par contre, ils veulent clairement posséder une
+8:068 minutes et 6 secondesgrande couche de la partie infrastructure et de l'écosystème qui est utilisé. Et pour une implémentation plus rapide, plus grande dans les entreprises, ils mettent tout en MIT pour ensuite pouvoir justement squeezer
+8:148 minutes et 14 secondesun peu plus sur la vente de token et autres. Hop ! Petite interruption dans la vidéo pour vous dire que si vous souhaitez apprendre l'IA avec moi, apprendre à créer un second cerveau numérique qui centralise tout ce que
+8:228 minutes et 22 secondesvous avez jamais dit, lu, vu, entendu et qui vous permet donc de faire en sorte que l'IA soit quand même l'extension de vous-même, un vrai système personnel qui s'inspire justement de la manière dont
+8:318 minutes et 31 secondesdeepsic harness est construit. Alors, vous pouvez regarder une masterclass gratuite d'une dans laquelle je vous transmettre tout ce système. Pourquoi je l'ai conçu de cette manière-là et comment enfin créer un bon
+8:398 minutes et 39 secondesenvironnement, il a un système IA personnel. Le lien est en description.
+8:428 minutes et 42 secondesInscrivez-vous dès maintenant. Merci pour votre écoute. Retour à la vidéo.
+Chapitre 3 : DeepSeek V4 Pro et GLM 5.3
+8:488 minutes et 48 secondesLes deux meilleurs modèles open source du marché viennent de sortir la même semaine et aucun des deux n'a rien inventé. En effet, on a une nouvelle version de Die B4 Pro qui est sortie cette semaine et une nouvelle version
+8:568 minutes et 56 secondeseuh de GLM 5.3 qui est sortie cette semaine. Globalement les deux, on a pas grand chose à dire dessus. il y a pas beaucoup d'innovation parce que GLM 5.3 c'est GLM 5.2 la même architecture tout
+9:059 minutes et 5 secondespareil, ils l'ont simplement mieux entraîné avec plus de RL derrière et puis Dipsic V4 Pro, c'est exactement la même chose. Donc c'est pas très intéressant pour moi pour couvrir dans
+9:129 minutes et 12 secondesces actu devient les meilleurs modèles du marché sans hésiter. Globalement la conclusion c'est simplement passer sur GLM 5.3 si vous étiez sur GLM 5.2 il est
+9:209 minutes et 20 secondesquasiment plus puissant dans les benchmarks que Kimika 3, donc il est sur impressionnant en réalité. Et puis Dipsic V4 Pro et bien prenez-le pour tout ce qui est usage agentique un peu
+9:289 minutes et 28 secondesplus avancé dans les automatisations. Ça restera toujours la recommandation de base. On peut voir juste ici que Dipsic V4 Pro a largement rattrapé GLM 5.2 au niveau de la performance en open source.
+9:379 minutes et 37 secondesGLM 5.3 est tellement récent au moment où je fais la vidéo qu'il est pas encore sur le classement. Il sera probablement un petit peu devant. En effet, il bat carrément Kimik 3 sur certains benchmark. Donc il est super
+9:459 minutes et 45 secondesimpressionnant. Je pense qu'il se placera à peu près à ce niveau-là. GM 5.3.
+Chapitre 4 : Meta présente son nouveau modèle local
+9:519 minutes et 51 secondesMeta est revenu dans l'open source cette semaine et c'est presque un non événement. En effet, Meta sort cette semaine un modèle open source qui s'appelle Mus Glimmer. C'est un modèle qui est tout petit parce qu'il fait 30 milliards de paramètres. Il est en
+10:0010 minuteslicence à page 2.0, donc quasiment complètement open source sans restriction. Multimodale, donc il peut analyser les images, l'audio et cetera.
+10:0610 minutes et 6 secondesEt il tourne à 50 tokens par seconde sur un MacBook M5 Max, ce qui est excellent et ce qui rend de plus en plus faisable de l'usage concret de travail sur votre
+10:1410 minutes et 14 secondesordinateur en local. Pour tout ce qui est par exemple résumer des mails, analyser des éléments, réfléchir avec vous, honnêtement vous pourriez utiliser ce type de modèle. C'est devenu faisable. C'est plus un tradeof en
+Chapitre 5 : Qwen 3.8 repousse les limites de l’IA locale
+10:2210 minutes et 22 secondesqualité pour gagner un privacy. C'est devenu quelque chose de parfaitement faisable. Cependant, en réalité, c'est pas très pertinent parce que vous ne l'utiliserez pas parce que la même semaine, il y a Quen 3.8 qui a sorti
+10:3110 minutes et 31 secondesdonc la semaine dernière, c'était Quen 3.8 max 28 paramètres, donc un modèle tout petit qui tourne aussi en local et qui dépasse Opus 4. Max sur plusieurs
+10:4010 minutes et 40 secondesbenchmarks agentiques. Et c'est super impressionnant. Je vais vous montrer les démos maintenant. Donc là, voilà, c'est un gars qui fait justement une démonstration de Quen et regardez la qualité.
+10:5110 minutes et 51 secondesOn est sur un modèle qui se tient, qui fait des générations en HTML, first shot de ce type-là. Il réussit en one shot aussi à recoder par exemple un une émulation euh d'un browser OS test. Il a
+11:0011 minutesréussi à reproduire un petit monde de GTA. Bref, il est extrêmement capable.
+11:0311 minutes et 3 secondesÇa c'est poursu. Et il faut dire que les modèles de Quen en open source sont déjà super appréciés parce que toutes les installations locales IA que je connais qui marchent en prod sont basé sur des
+11:1111 minutes et 11 secondesmodèles de Quen dans tous les cas. Donc là en réalité, ce qu'ils ont fait c'est juste reaffirmer leur supériorité avec un modèle qui est encore meilleur qui est ultra performant pour son nombre de poids, qui est super dense. Ça prouve à
+11:1911 minutes et 19 secondesquel point des modèles comme par exemple Dipsic V4 Flash peuvent progresser.
+11:2211 minutes et 22 secondesDipsic V4 Flash faut dire que c'est 10 fois plus taille de poids que Coin 3.8 27 millions de paramètres. Pourtant, il y a pas du tout 10 fois plus d'intelligence. Et justement, on se rend
+11:3011 minutes et 30 secondescompte à quel point l'intelligence peut être compressée, peut être densifiée et donc ça va clairement être une des des voies de progrès principales de l'IA, mettre des modèles de plus en plus
+11:3711 minutes et 37 secondesdenses et de plus en plus intelligents pour tourner en local.
+Chapitre 6 : Deux ingénieurs historiques quittent Google
+11:4311 minutes et 43 secondesLes deux ingénieurs qui ont fait tenir Google pendant 25 ans sont partis le même jour. En effet, le 5 août 2026, on a Jeff Dean et Sanj Gemaw qui s'en vont.
+11:5111 minutes et 51 secondesEt en réalité, c'est avec pas mal d'émotions qui s'en vont parce que c'est en réalité les deux personnes qui sont à l'origine de la plupart des innovations qui ont permis à Google de garder la
+11:5911 minutes et 59 secondesdominance sur le marché du moteur de recherche pendant plus de 20 ans. Le New Yorker avait fait un portrait culte sur ce duo d'amis qui a permis justement à Google de garder la supériorité et le
+12:0712 minutes et 7 secondesjour de l'interview, ils avaient dit "Ça y est, on a amélioré la recherche Google de 10 % aujourd'hui." Bref, pourquoi est-ce qu'ils partent ? La version officielle, c'est simplement qu'ils veulent créer une nouvelle public
+12:1612 minutes et 16 secondesbenefication, la même structure que Open AI avait au départ. On sait à quel point ça peut dériver ce genre de choses à garder à l'œil. Bref, alors pourquoi il partent ? Alors la version officielle
+12:2412 minutes et 24 secondesc'est pour fonder Discovery Loop. C'est une public benefic corporation.
+12:2712 minutes et 27 secondesAttention on pourrait avoir l'impression que c'est une association type française. Pas du tout. C'est la même structure qu'open AI avait au départ avant de changer sa structure de capital petit à petit pour complètement
+12:3512 minutes et 35 secondesabandonner ses promesses de base. Leur mission c'est de automate the loop, c'est-à-dire de faire en sorte que l'IA puisse devenir elle-même un chercheur en IA pour démarrer en fait cette boucle
+12:4412 minutes et 44 secondesd'autoamplification qui permettait d'atteindre les GI, les CI et cetera.
+12:4712 minutes et 47 secondesTout le monde est d'accord que c'est la voix pour atteindre une super intelligence que Lia puisse améliorer Lia elle-même. Ce qui est assez intéressant, c'est que Demis Assasabi, le fondateur original du labo qui a
+12:5412 minutes et 54 secondespermis toutes les innovations à Google Deepmine, voulait partir aussi. Il a été retenu comme chairmain pour que le cours de bourse ne se casse pas plus la gueule. Et donc c'est Corille qu'AV
+13:0213 minutes et 2 secondesCloglou, je vous mettrai le nom à l'écran, qui dirige Deepm du coup depuis que Asabi est sorti de l'opérationnel tout en restant Chermain. Dans la même journée, on a Alphabet donc Google qui
+Chapitre 7 : Gemini 3.7 Flash et la croissance de Google
+13:1113 minutes et 11 secondesperd 4 % en bourse le même jour, 185 milliards de dollars effacés. Bon cependant, dire que Google perdrait la course, c'est vraiment pas du tout euh la narrative parce que la même semaine,
+13:1913 minutes et 19 secondeson a eu G Mini qui sort, donc G Mini 3.7 Flash qui globalement est excellent.
+13:2313 minutes et 23 secondesC'est-à-dire qu'il est un peu plus cher que Deepsic V4 Flash mais il est meilleur. Et donc pour moi, la plupart des usages de chatbot euh concrets d'entreprise vont être repris par j'ai
+13:3113 minutes et 31 secondesmini 3.7 flash, 3.8 flash dans les mois qui viennent. Surtout qu'on est capable d'obtenir une moyenne de token de 340 tokens par seconde, ce qui est complètement fou. Et donc concrètement
+13:3913 minutes et 39 secondesGoogle, même s'ils arrivent pas à faire les meilleurs modèles du marché, là ils ont fait le play qui va faire en sorte qu'ils vont prendre tous les usages agentiques du marché et donc qui vont
+13:4713 minutes et 47 secondesclairement s'en mettre plein les poches avec ce modèle. La même semaine, l'AP GMI dépasse 1 milliard d'utilisateurs mensuels. Google Cloud fait plus 82 % de
+13:5513 minutes et 55 secondescroissance. Il faut aussi dire que les TPU, donc l'architecture de Google pour faire tourner Lia sont de plus en plus en vog et vont être mis en prod de plus en plus dans les data center. Ils ont donc des achats qui sont extravagants de
+14:0414 minutes et 4 secondesla part d'entre Picopen et les autres Labia. Donc ils sont en train de s'en mettre plein les poches aussi et le free cash flow qu'on a pu voir dans les rapports justement en disant que Google est en train de faire n'importe quoi, de
+14:1114 minutes et 11 secondesplus bien gérer sa trésorerie et cetera, honnêtement pour moi, ils vont clairement s'en remettre et c'est simplement un bon investissement en infrastructure qui va pouvoir les propulser sur la suite.
+Chapitre 8 : Grok 4.6 et Grokbot
+14:2214 minutes et 22 secondesXRI vient de sortir un agent que n'importe qui peut installer exactement comme une application, comme si on était dans Slack et c'est exactement pour ça qu'il faut se méfier. Bon, d'abord la
+14:2914 minutes et 29 secondesmême semaine, il y a Grock 4.6 qui sort, qui rejoint la frontière. Si on regarde dans les benchmarks d'intelligence, globalement, il est à peu près au même niveau que la concurrence. Il est juste
+14:3614 minutes et 36 secondesici en dessous de ch GPT 5.6. Donc ça y est, Grock l'a fait avec sa nouvelle team I rafistolé. Ils ont réussi à créer un modal font tir mais en réalité ils vont même plus loin parce qu'il le
+14:4414 minutes et 44 secondespropose à 2 dollars d'input et 6 dollars d'put le million de tokens. Ce qui fait qu'on est beaucoup moins cher que la concurrence. On est carrément au niveau du modèle open source Kimica 3. En
+14:5214 minutes et 52 secondesl'occurrence ici on est à 1,23 partages sur du chat GPT alors qu'on est à 84 centimes sur du Grock 4.6 et je parle même pas de Claude qui est dans des
+15:0015 minuteshauteurs infinies. Mais c'est pas vraiment ça la sortie la plus intéressante. La sortie la plus intéressante, c'est Grockbot.
+15:0415 minutes et 4 secondesConcrètement, Grockbot, c'est une interface exactement comme Slack où on peut avoir donc des sortes d'agents à qui on parle. Ces agents, ils ont accès eux-mêmes à un ordinateur virtuel en
+15:1215 minutes et 12 secondesarrière-plan qui leur permet du coup de faire des tâches concrètes. On est au-delà d'un simple chatbot avec des outils connectés. On est plutôt sur un agent auquel on parle qui a accès à un
+15:2015 minutes et 20 secondesordinateur complet pour faire des tâches de travail concrètes et qui apprend au fur et à mesure qu'on lui parle. Donc concrètement, comment est-ce qu'ils veulent qu'on l'utilise ? On crée un nouvel agent et on lui parle
+15:2815 minutes et 28 secondesspécifiquement pour une tâche. Par exemple, vous avez une newsletter à faire chaque semaine, vous avez un agent newsletter et vous ne parlez qu'à lui pour les newsletters. C'est une sorte de
+15:3515 minutes et 35 secondesconversation permanente qui autoaprend et qui s'autonettoie quand il y a du contexte à nettoyer. Globalement, ce que je vois, c'est que c'est quelque chose qui marche très bien. Ce que j'ai pu
+15:4215 minutes et 42 secondesvoir sur Twitter et des démonstrations que j'ai vu sur YouTube, ça a l'air honnêtement de marcher et un débutant qui veut l'utiliser pour vraiment avoir un retour sur investissement avec Lia, il aura son retour sur investissement.
+15:5215 minutes et 52 secondesJ'en doute pas. À mon avis, c'est un bon pari de la part de Grock parce qu'il y a aussi un truc qu'on voit pas là-dedans, c'est que c'est un abonnement qui coûte 200 € par mois qui potentiellement pourra augmenter ou avoir différents
+16:0016 minutestirs avec le temps. Mais surtout, c'est un abonnement qui bloque les gens. Bah oui, parce que quand tu commences à parler pendant des mois au même chatbot pour faire ta newsletter et que tu as
+16:0816 minutes et 8 secondesaucun moyen de voir ce qui a été appris par l'agent et comment est-ce que tu peux récupérer les skills, les prompt systèmes qui s'est créé, bah tu es complètement bloqué parce que le coûpt d'opportunité pour changer est beaucoup
+16:1616 minutes et 16 secondestrop grand. Donc moi, mon avis c'est toujours ne jamais jamais ou grand jamais aller sur ce type d'outil. garder le contrôle sur vos skills, vos process, vos méthodes, votre second cerveau,
+16:2416 minutes et 24 secondesvotre contexte de manière à pouvoir changer de modèle le plus rapidement possible.
+16:3016 minutes et 30 secondesAlors, pendant que tout le monde regarde la Chine et les US, Mistral vient de poser la définition la plus propre de la souveraineté. I concrètement, le 11 août, il nous annonce que ça y est, il nous propose trois nouvelles briques.
+Chapitre 9 : Mistral redéfinit la souveraineté européenne
+16:4016 minutes et 40 secondesPremière chose, c'est des points d'inférence régionaux. C'estàd que tu peux choisir si l'inférence tourne en Europe ou aux US. Et en plus, tu peux disposer sur les deux endpoint de
+16:4716 minutes et 47 secondespriority tiers qui te permettent d'avoir de l'inférence plus rapide et plus sécurisée. Deuxième chose, il nous annonce que ça y est, ils vont commencer à accueillir des modèles tiers sur leur
+16:5616 minutes et 56 secondespoule d'inférence en commençant par GLM 5.2, un modèle chinois. En effet, maintenant, si vous allez sur leur site, vous pourrez voir que vous pouvez euh
+17:0417 minutes et 4 secondesavoir du GLM 5.2 pour 4,4 dollars au million de tokens d'output et 1,4 dollars en input avec 1 million de
+17:1117 minutes et 11 secondesfenêtres de contexte, donc hébergé directement sur les serveurs de Mistral et donc avec du RGPD conforme et puis de l'inférence qui se fait en France, c'est quelque chose qui vous importe. Ça y
+17:2017 minutes et 20 secondesest, Mistral a enfin une offre que je peux recommander à certains de mes clients. Si vous souhaitez disposer d'un bon modèle qui tourne en Europe correctement avec du RGPD, alors vous
+17:2817 minutes et 28 secondespouvez utiliser GLM 5.2. Ça nous prouve évidemment que Mistral a euh arrêté la course au modèle frontière. ils arrivent pas à le dépasser. En tout cas, pour
+17:3517 minutes et 35 secondesl'instant, ils le mettent en pause parce que ce qui leur fait de l'argent, c'est donc du fine tuning de modèles pour des usages spécifiques euh de grosses boîtes françaises globalement et la création de modèles spécialisés sur la
+17:4317 minutes et 43 secondesreconnaissance de texte sur des modèles pour sécuriser des des déploiements en entreprise, ce genre de choses. Ils sont vraiment sur les usages entreprise. Ils abandonnent de plus en plus donc la
+17:5217 minutes et 52 secondescourse au modèle pour montrer qu'on a un modèle souverain européen. Ils sont complètement sortis de ça. Ils disent simplement "On prend les meilleurs modèles du marché, c'est les modèles chinois et je pense qu'ils ont
+18:0018 minutescomplètement raison." Et donc ce retournement de situation leur a permis de réactiver des euh personnes qui les financent avec le European Compute Units. Donc c'est une coalition avec
+18:0818 minutes et 8 secondesAmadeus, ASML, ceux qui produisent les machines pour produire les puces, CapG Mini, la caisse des dépôts CGA, CGM et d'autres qui en gros font des engagements pour dire que on veut avoir
+18:1618 minutes et 16 secondesjusqu'à 1 GW d'ici 2030 pour créer un sorte de ne cloud européen qui nous permet d'avoir de la souveraineté, voir héberger des modèles qui soient chinois
+18:2418 minutes et 24 secondesou européens en Europe. Et si un jour quelqu'un veut nous fermer le robinet d'accès au modèle et à l'intelligence, on sera pas dépendant d'eux parce qu'on aura notre propre gigaw de calcul avec
+18:3218 minutes et 32 secondesnotre né au cloud européen. C'est mieux que rien et honnêtement c'est les meilleures boîtes qui pourraient s'associer en Europe pour le faire. Donc c'est une très bonne initiative à signaler. Ce que je trouve aussi
+18:4018 minutes et 40 secondesintéressant c'est que ils ont arrêté leur petites guéger à dire on a le chat, on a Mistral et cetera. Ils ont commencé à avouer qu'ils étaient dépassés et pour pas être encore plus asbine et ne pas
+18:4818 minutes et 48 secondesdevenir un non choix dans les choix entreprises parce que simplement leur modèle est pas assez performant, ils ont fait le choix de proposer enfin des modèles open source qui sont performants et qu'on peut commencer à utiliser en
+18:5718 minutes et 57 secondesprod. Donc mon avis c'est que leur définition de la souveraineté, le contrôle de l'exécution, le choix du modèle, peu importe l'origine et le contexte possédé, c'est ça la souveraineté. Mistral l'ont compris et
+19:0519 minutes et 5 secondescommence à actionner sur en fait cette vision de la souveraineté. Maintenant concrètement, ce qu'il faut pour atteindre ce niveau de souveraineté, c'est simplement une boîte qui a la
+19:1219 minutes et 12 secondesmeilleure traduction possible de investissement vers Infrastructuria.
+19:1519 minutes et 15 secondesEst-ce que Mistralia est la meilleure boîte pour faire ça ou est-ce qu'elle a déjà trop d'employés, trop de dépenses, trop d'activités diverses ? Honnêtement, [grognement] je sais pas.
+Chapitre 10 : La Chine bloque le rachat de Manus par Meta
+19:2419 minutes et 24 secondesLe véto géopolitique le plus rentable de l'année. En effet, MTA rend Manus à la Chine et Manus n'a jamais été aussi en forme par la même occasion. Alors l'historique en 30 secondes, c'est quoi
+19:3219 minutes et 32 secondes? Manus, c'est une start-up d'agent qui a fait un énorme buzz en début 2025 et c'était d'une boîte qui était donc chinoise. Cette boîte Manus qui était chinoise, ils se sont changé le siège
+19:4119 minutes et 41 secondessocial pour le mettre à Singapour pour échapper aux sanctions entre la Chine et les US. Le fait qu'il soit passé à Singapour, c'était aussi pour se faire racheter par Meta. Meta a donc racheté
+19:4819 minutes et 48 secondesManus pour 2 milliards de dollars à ce moment-là. Et ce qui vient de se passer, c'est que les régulateurs chinois, ils ont complètement bloqué l'acquisition.
+19:5419 minutes et 54 secondesLes investisseurs d'origine avec Tenent en test ont racheté la boîte à méta. On sait pas exactement pour combien, mais probablement pas mal plus. Tensen redevient donc le premier actionnaire et
+20:0120 minutes et 1 secondeManucia redevient indépendant. Après, est-ce que le mal a pas déjà été fait ?
+20:0420 minutes et 4 secondesSachant que tout le savoir, l'intelligence de Manus a pu être volé par MTA ? Honnêtement, je sais pas. Ce qui est assez intéressant, c'est que dans tous ce conflit géopolitique, ceux qui ont le plus bénéficié, c'est Manus
+20:1320 minutes et 13 secondesparce que grâce à leur exposition exacerbée, ils ont eu une croissance absolument extraordinaire ces derniers mois. D'ailleurs, Manus est vraiment un plutôt bon service. C'est ce qui se fait mieux parmi les agents il y a disponible sur internet.
+Chapitre 11 : Unitree prépare son entrée en Bourse
+20:2520 minutes et 25 secondesEt enfin, dernière actualité de la semaine, on a Unitri, la boîte qui fait donc les robots que vous connaissez de plus en plus sur les réseaux, qui prépare une IPO à Shanghai qui a été
+20:3220 minutes et 32 secondessouscrite plus de 5526 fois par le retail, ce qui manque clairement un énorme engouement pour cette boîte à surveiller donc l'entrée en bourse du nutri. Voilà, c'est tout pour cette
+20:3920 minutes et 39 secondesvidéo. N'oubliez pas donc de vous abonner. Je sors une vidéo d'actualité toutes les semaines le mercredi. Merci beaucoup pour votre écoute.
+
+Tout
+
+Source : Eliott Meunier
+
+Ordinateurs
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+17:50
+LE PREMIER ALIGOT DU GÉNÉRAL…(avec Saucisses d’Auvergne)
+LeMondeDeChoi
+ et Choi TCG
+147 k
+il y a 10 j
+
+
+18:58
+@Essan NFC analyse mon physique et il est choqué
+Stephane Matala
+337 k
+il y a 1 a
+
+
+15:19
+Ils ont créé une puce avec des cellules cérébrales humaines vivantes
+AI Revolution en Français
+303
+il y a 23 h
+Nouveau
+
+
+15:58
+Qwen 3.8 27B sur 16 Go de VRAM : il a résolu le bug que DeepSeek V4 Flash a raté
+Nicefox · IA & Dev
+4,9 k
+il y a 23 h
+Nouveau
+
+
+16:30
+DeepSeek Harness : Claude Code ne sait pas faire ÇA
+Pentiminax
+3,5 k
+il y a 21 h
+Nouveau
+
+
+1:29:44
+Il a tout perdu deux fois avant de devenir leader de son marché
+Le Déclic par Alec Henry
+79
+il y a 42 min
+Nouveau
+
+
+39:46
+Essan analyse mon physique | séance pec & biceps
+Stephane Matala
+177 k
+il y a 2 m.
+
+
+FARÈS EXPLOSE SANS MUSCU ! 💥
+64 k vues
+
+
+Google automatise l’ordinateur quantique #actu
+1,4 k vues
+
+
+The ONLY Back Workout You NEED
+930 k vues
+
+L’incident IA qui change tout pour la cybersécurité #actu
+736 vues
+
+
+
+11:49
+DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)
+Nerdy Kings
+1,2 k
+il y a 4 h
+Nouveau
+
+
+35:16
+Transformer un PC (mon plus gros projet terminé)
+Abrège
+ et Kang et ses PC
+135 k
+il y a 2 m.
+
+
+35:18
+Je teste des chaînes de restaurants en faillite
+CYRILmp4
+1,5 M
+il y a 2 m.
+
+
+34:07
+J'ai passé une journée avec des géants (les hommes les plus forts du monde)
+Joe HaTTab
+ et 2 autre(s)
+6,6 M
+il y a 2 m.
+Doublée
+
+
+17:45
+JE MANGE COMME L'HOMME LE PLUS SEC AU MONDE
+Tibo InShape
+2,9 M
+il y a 3 a
+
+
+24:10
+Tout le monde prend les mauvais compléments
+Théo Leguerrier
+171 k
+il y a 2 m.
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+993 k
+il y a 11 m.
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+207 k
+il y a 1 m.
+
+
+22:29
+Hermes just released their biggest update ever (Hermes Bot)
+Alex Finn
+49 k
+il y a 18 h
+Nouveau
+
+
+11:26
+Deepseek Harnes, +160k étoiles GitHub, c'est quoi ?
+Quentin Gavila
+859
+il y a 8 h
+Nouveau
+
+
+13:29
+Ce retournement d’Alibaba en dit long sur l’IA (actu IA)
+Eliott Meunier
+5 k
+il y a 7 j
+
+
+14:54
+Bodybuildeuses VS Hommes Ordinaires : Qui Gagne ?
+Tibo InShape
+603 k
+il y a 8 m.
+
+
+13:44
+ARRÊTEZ DE PRENDRE DE LA WHEY AVANT DE VOIR ÇA !
+Charles.co
+289 k
+il y a 2 m.
+
+    

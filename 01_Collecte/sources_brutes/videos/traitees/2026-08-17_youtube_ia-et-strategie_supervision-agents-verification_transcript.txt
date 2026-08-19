@@ -1,0 +1,737 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Pourquoi vous ralentissez vos propres agents IA (et comment y remédier)
+IA et Stratégie
+IA et Stratégie
+70,9 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+17 août 2026  #ClaudeCode #AgentsIA #VibeCoding
+Vous lancez votre agent sur une tâche et vous restez là, à lire chaque ligne qu'il produit. Sur le papier, vous faites du développement assisté. En pratique, vous êtes un moniteur d'auto-école assis à droite, le pied au-dessus du double frein, pendant que la machine conduit. Et presque tous ceux qui vivent ce blocage l'attribuent à leur discipline.
+
+Le 16 juillet, Boris Cherny, le créateur de Claude Code chez Anthropic, a publié la cartographie qui démonte cette explication. Une montée en cinq niveaux, de l'accès verrouillé (étape 0) au pilotage par intention (étape 4), où le goulot n'est jamais la motivation. Microsoft décrit la même échelle depuis sa propre télémétrie. Et les documents de l'été racontent la suite : la révision de l'étude METR (le -19 % devenu +18 %), la télémétrie Faros AI sur 22 000 développeurs (temps de revue +441,5 %, merges sans aucune review en hausse de 31,3 %), l'index Ramp et ses 11 $ d'IA par employé et par mois pour l'entreprise médiane.
+
+Vous repartez avec la jauge pour vous situer (du million au milliard de tokens par mois), le plan de passage de l'étape 1 à l'étape 2 en quatre chantiers (le contrat, l'examen, les bacs à sable, la relecture), et trois questions qui situent n'importe quelle équipe. La vôtre comprise.
+
+
+
+Le post compagnon avec l'atelier pour construire votre banc d'examen :
+→ Patreon : https://club.surhumain.ai/posts/eclai...
+
+Pour rejoindre notre communauté :
+→ Patreon (pour aller plus loin + analyses exclusives + le discord de la communauté) :   / samouraidansant  
+→ Instagram (coulisses) :   / samourai_dansant  
+→ X : https://x.com/strategia_sam
+
+
+Pour celles et ceux qui veulent aller plus loin que la vidéo, un Discord communautaire francophone autour de quatre axes : stratégie, carrière, finance, technologie. Un public que je modère à la main, de l'entraide entre membres, et des conversations qui durent avec des évènements réguliers entre membres. Disponible dans vos avantages Patreon.
+
+
+SOURCES & DONNÉES PRIMAIRES
+
+L'échelle (Boris Cherny, Microsoft) :
+https://x.com/bcherny/status/20779293...
+https://blogs.microsoft.com/blog/2026...
+
+Les trois documents (METR, Faros AI, Ramp) :
+https://metr.org/blog/2025-07-10-earl...
+https://metr.org/blog/2026-02-24-upli...
+https://faros.ai/blog/ai-acceleration...
+https://ramp.com/data/ai-index-june-2026
+
+Le débat sur la capacité (Karpathy, Linux Foundation, AGENTS.md, Sutskever) :
+https://x.com/karpathy/status/2026731...
+https://x.com/karpathy/status/2015883...
+https://fortune.com/2026/03/21/andrej...
+https://linuxfoundation.org/press/lin...
+https://agents.md
+https://dwarkesh.com/p/ilya-sutskever-2
+
+La jauge (tarifs, plans, usage, Goodhart) :
+https://platform.claude.com/docs/en/a...
+https://claude.com/pricing
+https://support.claude.com/en/article...
+https://openai.com/index/how-agents-a...
+https://en.wikipedia.org/wiki/Goodhar...
+
+Les chantiers :
+https://git-scm.com/docs/git-worktree
+
+
+RESSOURCES MENTIONNÉES :
+→ La vidéo sur l'économie de l'attention (Walmart, le goulot de supervision) :    • L'économie de l'attention est morte  
+
+
+#ClaudeCode #AgentsIA #VibeCoding #CodeReview #Anthropic #Karpathy #METR #Tokens #Developpeur #Productivite #AvenirDuTravail #IntelligenceArtificielle #IA #Tech2026
+IA et Stratégie explore une méthode structurée en cinq étapes pour optimiser le travail avec des agents autonomes. Ce guide technique détaille comment dépasser le stade de la simple supervision manuelle en mettant en place des systèmes de vérification automatisés, permettant ainsi de gagner en productivité et en sérénité lors du développement de logiciels.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+IA et Stratégie
+70,9 k abonnés
+Vidéos
+À propos
+
+Patreon
+
+Instagram
+vidéos et analyses stratégiques sur l'IA
+vidéos et analyses stratégiques sur l'IA
+Votre plan de passage
+true
+IA et Stratégie
+70,9 k abonnés
+12 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@TheYopmax
+il y a 39 minutes
+Samouraï for ever ! Qui fais ça sur Youtube et en plus avec une classe incroyable ? Samouraï only ! Ne change absolument rien, tout est bien dit, amené et avec des analogies pertinentes. Bref j'ai rien de negatif et ça c'est incroyable
+
+2
+
+
+
+Répondre
+
+
+@nikolarico
+il y a 1 heure
+Si ça c'est pas du concret, merci Samourai.
+
+1
+
+
+Répondre
+
+
+@guillaumelardanchet79
+il y a 1 heure
+Passionnant comme toujours ! Vos vidéos me poussent constamment à réfléchir à mes propres projets. Mention spéciale pour le travail sur la voix : même en sachant que c'est de l'IA, le rendu est bluffant de naturel. L'intonation et le rythme sont tellement maîtrisés qu'on oublie totalement la technique pour plonger à 100 % dans le récit. De mon côté, j'utilise Voxtral mais je suis loin d'obtenir un résultat aussi propre et immersif. Un grand bravo pour ce niveau d'exigence !
+
+
+
+Répondre
+
+
+@seb_planet
+il y a 1 heure
+Dommage que la voix n’est plus la même mais merci pour ces analyses ❤
+
+
+
+Répondre
+
+
+@galfior
+il y a 18 minutes
+Tellement à des kilomètres au dessus des autres youtubeurs parlant d'IA ! Merci le samouraï !
+Je songe de plus en plus à rejoindre le pattreon et discord. Y en a dans les commentaires qui sont inscrits et qui pourraient partager leur avis ?
+
+
+
+Répondre
+
+
+@Azélie-Santé
+il y a 2 heures
+🙏
+
+
+
+Répondre
+
+
+@JulienJalPouget
+il y a 2 heures
+
+
+
+Répondre
+
+
+@sethbombete7355
+il y a 1 heure
+11:31 je venais de le faire inconsciemment dans un projet associant Claude Projet et d'autres IA... c'est puissant je vous assure, ça évite à l'IA de repartir à zéro 
+
+
+
+Répondre
+
+
+@Jarodcosmos
+il y a 45 minutes
+Par ce que ca marche jamais tout seul longtemps
+
+
+
+Répondre
+
+
+@loureddd
+il y a 17 minutes
+Vous auriez le lien discord ?
+
+
+
+Répondre
+
+
+@tchaffan9998
+il y a 1 heure (modifié)
+20 Millards en 6 mois avec un abonnement à 20 EUR, en train de construire mon propre système dépassant codex et Claude sur la vérification. Effectivement, c'est avoir un système complètement maîtrisé qui évolue avec validation humaine pour les points critiques qui est le plus important. Mais au final, c'était 6 mois d'apprentissage à 15h par jour de travail, donc oui, sur le point de laisser bosser sans surveillance, mais tout le monde ne peut pas y consacrer autant de temps
+
+2
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeJe vais vous décrire une scène et vous allez me  dire si vous vous reconnaissez. Vous lancez votre   agent sur une tâche et pendant qu'il travaille,  vous vous restez là. Vous lisez chaque ligne qu'il  
+0:088 secondesproduit. Vous suivez chaque commande. Vous  ne détournez jamais les yeux. Sur le papier,   vous faites du développement assisté. En pratique,  vous êtes un moniteur d'auto-école assis à droite,  
+0:1717 secondesle pied au-dessus du double frein pendant que  la machine conduit. Cette posture, je l'ai   croisé partout dans la communauté. des bâtisseurs  équipés, abonnés, outillers qui me disent qu'ils  
+0:2626 secondesn'arrivent pas à passer au niveau supérieur  et presque tous mettent ça sur quoi ? Leur   discipline. Ils s'en veulent, ils n'ont jamais  su coder. Et cette histoire de volonté est certes  
+0:3535 secondesséduisante, mais elle ne survit ni au documents  qu'on va lire ensemble, ni au dossier de l'été.   Aujourd'hui, je vous propose de démonter ce  blocage pièce par pièce, document à la pluie  
+0:4444 secondeset garder un peu d'énergie pour la fin parce que  la grille qu'on va construire se retourne aussi   contre ceux qui vous jugent. Et tu freines le  freine michmich. OK. Le 16 juillet, Boris Cherny  
+0:5555 secondespublie un fil sur X. Cherny, au passage, c'est le  créateur de Claude Coach et Entropique, l'outil   qui a mis les agents dans le terminal de tout  le monde et il y raconte qu'il parle chaque jour  
+1:041 minute et 4 secondesà des ingénieurs d'autres entreprises et qu'il  entend partout dire la même histoire. Une personne   décuple sa production avec les agents mais le  reste de l'organisation n'arrive pas à suivre.  
+1:131 minute et 13 secondesEt à force de voir le même film, il a cartographié  une montée en cinq étapes et aujourd'hui c'est sep   cartographies qu'on va revoir ensemble. Étape  zéro : l'accès est verrouillé. L'entreprise a  
+1:221 minute et 22 secondesacheté un outil mais les processus d'approbation  les toupent et plus rien n'en sort. Étape 1,   le binôme. Un ingénieur, un agent, tout est  supervisé. C'est le moniteur d'auto-école dont  
+1:311 minute et 31 secondesje vous parlais. Étape 2, l'orchestrateur. Vous  avez une dizaine d'agents en parallèle, chacun   dans son bac à sable et vous relisez les résultats  finaux au lieu de regarder des frappes de clavier.  
+1:401 minute et 40 secondesÉtape numéro 3, la centaine d'agents, l'arbre  d'équipe que plus personne ne peut surveiller   ligne par ligne. Arrive l'étape numéro 4, c'est  le millier d'agents et le pilotage par intention  
+1:501 minute et 50 secondespure. Alors évidemment, vous n'êtes pas obligé de  croire au milieu aujourd'hui. Ce qui nous occupe   aujourd'hui, c'est sa marche et il est normal  d'avoir une asymptote en fin de raisonnement.  
+1:581 minute et 58 secondesPetit détail que je savoure au passage, ce  manifeste, Cherny ne l'a pas publié sur le   blog d'anthropique. Il l'a publié sous forme  d'artefact généré par Claude Code lui-même. Il  
+2:072 minutes et 7 secondesutilise l'outil pour documenter sa propre doctrine  d'approbation. Et avant de classer tout ça comme   la plaquette d'un vendeur, sachez que Microsoft a  publié en mai sa propre version de la même échelle  
+2:172 minutes et 17 secondestirée de sa télémétrie interne avec d'autres noms  : auteur, éditeur, directeur et orchestrateur.  
+2:242 minutes et 24 secondesQuand deux concurrents décrivent indépendamment  la même montée depuis leur propres données,   on peut arrêter de parler d'opinion. Maintenant,  relisez la colonne qui compte dans ce tableau.  
+2:332 minutes et 33 secondesÀ chaque étape, Cherny nomme le goulot. Le  goulot n'est jamais la motivation. À l'étape une,   le goulot, c'est votre attention. Je traduis sa  phrase parce qu'elle est clinique. Vous sentez que  
+2:422 minutes et 42 secondesvous devez tout relire, donc vous ne quittez  jamais l'écran des yeux. À l'étape numéro 2,   le goulot, c'est le débit de revue. À l'étape  numéro 3, c'est la confiance dans la boucle et  
+2:512 minutes et 51 secondesle débit de décision de votre équipe. De haut  en bas de l'échelle, le même verdict. Personne   n'est bloqué par manque de volonté. On est  bloqué par un système de vérification qui  
+3:003 minutesn'existe pas encore. Ceux qui ont vu la vidéo  de la semaine dernière reconnaîtront ce motif,   le goulot de supervision. En effet, la production  ne coûtant plus rien, c'est la validation du  
+3:093 minutes et 9 secondestravail qui coûte beaucoup plus cher. Sur cette  chaîne, je vous l'ai montrer côté commerce avec   Walmart qui garde la caisse. Ici dans l'atelier,  on le prend côté établi parce que ce boulot,  
+3:193 minutes et 19 secondesvous l'avez aussi dans votre terminal et l'échelle  de Cherny, c'est le manuel qui va nous servir à le   desserrer cran par cran. Chaque montée d'étape  retire de la confiance à votre attention pour la  
+3:293 minutes et 29 secondesposer sur une machinerie de vérification. Soit  vos tests la fabrique, soit elle n'existe pas.  
+3:353 minutes et 35 secondesAlors, vous vous souvenez peut-être de l'étude  MTR de l'an dernier, la statistique anti la plus   citée du web, des développeurs expérimentés  qui ont été mesurés 19 % plus lent avec l'IA  
+3:453 minutes et 45 secondesalors même qu'il se croyait plus rapide avec.  En février, MTR a révisé sa propre coorte et ce  
+3:503 minutes et 50 secondeschiffre s'est retourné autour de 18 % de gains  sur les mêmes profils avec un intervalle large  
+3:563 minutes et 56 secondeset des biais que le labo assume. Leur explication  tient en un mot l'apprentissage et je vous demande   de le retenir parce que la première année de la  courbe coûte, la suivante paye tout de suite.  
+4:054 minutes et 5 secondesCeux qui ont persisté depuis l'année dernière sont  déjà de l'autre côté. 2e pièce la plus brutale,   une télémétrie publiée cette année par Pha sur  22000 développeurs mesure ce qui arrive quand  
+4:154 minutes et 15 secondesles agents accélèrent l'écriture sans que la  vérification ne suive. Le temps médian passé en  
+4:204 minutes et 20 secondesrevue de code abondit de 441 % en un an et pendant  que cette file d'attente explose, désormais 31 %  
+4:274 minutes et 27 secondesdes merges supplémentaires se font sans aucune  review. Lisait bien ces deux chiffres ensemble   parce qu'il raconte le film complet d'une étape  de raté. Les équipes ne montent pas en capacité de  
+4:364 minutes et 36 secondesvérification, elles abandonnent la vérification.  Le moniteur ne forme pas l'élève, il descend de  
+4:414 minutes et 41 secondesla voiture en laissant le moteur tourner. Troisème  pièce côté caisse, Rampe, le fournisseur de carte  
+4:474 minutes et 47 secondesbancaire d'entreprise voit passer les dépenses  réelles de dizaines de milliers de sociétés   américaines et son index de joint donne la dépense  de l'entreprise médiane 11 dollars par employé par  
+4:584 minutes et 58 secondesmois. Le prix d'un seul abonnement posé là  comme un trophée. Quant au Sentil du hauto,   lui il en dépense plusieurs milliers de dollars  par employé. Autrement dit, tout le monde a de  
+5:075 minutes et 7 secondeslia dans son entreprise désormais. Sauf que la  caisse raconte aussi autre chose. La médiane a   acheté un badge, le haut du panier a construit une  machinerie industrielle. Il faut que je m'arrête  
+5:175 minutes et 17 secondesici 2 minutes parce que j'entends déjà l'objection  et pas seulement en commentaire. Il existe encore   toute une culture pour qui le code se mérite,  pour qui la machine hallucine encore, se plante  
+5:265 minutes et 26 secondeset ne tiendra jamais un vrai système. Je pense que  cette culture a des arguments de 2024 et surtout   se contente d'exemple de 2024 parce qu'aujourd'hui  le problème c'est que les gens qui ont le nez  
+5:365 minutes et 36 secondesdans la machine tous les jours décrivent un autre  monde et pas n'importe lesquel. André Carpatier,   l'homme qui a littéralement inventé l'expression  verbe coding, a raconté cet hiver qu'il n'avait  
+5:465 minutes et 46 secondesplus tapé une seule ligne de code depuis décembre.  pas une. Lui qui écrivait 80 % de son code à la  
+5:525 minutes et 52 secondesmain il y a encore un an en écrit désormais  zéro. Et il résume le basculement d'une seule   phrase : "Les agents de code ne marchaient  pas vraiment avant décembre. Aujourd'hui,  
+6:016 minutes et 1 secondeil marche." Et la Linux Foundation, la maison  qui veuille sur le noyau Linux depuis 30 ans,   héberge désormais une fondation entière dédiée aux  agents montée avec Anthropiic, Open AI, Microsoft,  
+6:126 minutes et 12 secondesGoogle et Amazon. Et le standard agent.md est  désormais adopté par plus de 60000 projets open  
+6:186 minutes et 18 secondessource. Même il y a Skever, le plus prudent des  pères fondateurs. Celui qui répète sans cesse que   les modèles restent inégaux, brillant à l'examen  et sur les benchmarks, mais fragile en fiabilité,  
+6:276 minutes et 27 secondesne dit plus que le code résiste à la machine.  Il dit "Ce qui manque, c'est la fiabilité et le   jugement." Relisez cette phrase, ça sera la nôtre.  Le débat sur la capacité est terminée. Le seul  
+6:386 minutes et 38 secondesdébat qui reste, c'est la supervision. Eccarpati  ajoute un détail que les sceptiques devraient   méditer au lieu de s'en servir comme bouclier. La  maîtrise technique, dit-il, est un multiplicateur  
+6:486 minutes et 48 secondesencore plus puissant qu'avant. L'architecture, les  standards, le goût du système propre, tout cela   vaut encore plus cher à l'époque où une équipe  d'agents est désormais capable d'exécuter la  
+6:566 minutes et 56 secondespartie codage. Non, l'expertise n'est pas morte.  Elle a changé d'étage. Ceux qui ont admis cette   nouvelle réalité et s'en servent correctement  gagnent des ordres de grandeur en productivité.  
+7:077 minutes et 7 secondesCeux qui s'en servent pour prouver que la machine  ne montera pas défendent une barrière à l'entrée   en les présentant comme une loi de la nature.  C'est un réflexe psychologique classique de celui  
+7:167 minutes et 16 secondesqui défend sa barrière à l'entrée en la présentant  comme une loi de la nature, le même mécanisme que   les experts comptables face au logiciel de  comptat. Alors attention sur la maintenance,  
+7:257 minutes et 25 secondesje le répète dans quasiment toutes mes vidéos,  un système que personne ne comprend mouvra à   la première modification. En revanche, l'idée  que Lia n'est pas assez performante pour coder,  
+7:347 minutes et 34 secondesc'est une photo qui commence franchement à dater,  pas une trajectoire de l'industrie. Je vous parle   de cette échelle en connaissance de cause parce  que je l'ai grimpé sans savoir qu'elle avait un  
+7:437 minutes et 43 secondesnom. Mes systèmes tournent aujourd'hui avec une  vingtaine d'agents et avalent un milliard de   tokens par mois. Et il y a un an, le moniteur  d'auto-école, c'était moi. Je relisais tout,  
+7:527 minutes et 52 secondesje validais chaque commande et chaque session  me laissait la sensation d'avoir travaillé plus,   pas moins. Ce qui m'a fait changer d'étage.  Tiens ton une décision, j'ai arrêté d'être  
+8:008 minutesla vérification et je l'ai construite. Quant à  vous, où en êtes-vous ? Il existe aujourd'hui   un instrument de mesure que presque personne  ne consulte, votre compteur de token. Alors,  
+8:098 minutes et 9 secondesil ne s'agit pas de faire du token maxing brut et  méchant, mais faisons le calcul ensemble. Un Sony   5 coûte 2 dollars le million de tokens en entrée  et 10 en sortie. un opus 5 environ 25. Comme un  
+8:208 minutes et 20 secondesagent lit énormément et écrit peu et que le cash  divise le prix de la relecture par 10 environ,   la conversion honnête tourne autour de 3 à 4  dollars le million tout compris. D'où une règle  
+8:308 minutes et 30 secondesde pouce : 100 dollars de facture sur un outil  type curseur, c'est un gros 25 à 30 millions de   tokens qui ont traversé la machine. Méfiez-vous  en revanche des compteurs affichés par les  
+8:408 minutes et 40 secondesoutils parce qu'il compte aussi les tokens relus  depuis le cash comme les autres. Mais également,   le forfait fait mentir dans l'autre sens. Un  abonnement Cloud Max à 200 dollars par exemple  
+8:488 minutes et 48 secondesest souvent saturé et consomme bien plus que son  prix. Pour vous situer proprement, convertissez   toujours tout au tarif à payer. Maintenant, la  jauge telle que je l'ai l en ce mois d'août,  
+8:588 minutes et 58 secondessous le million de tokens par mois, vous discutez  avec un chat. C'est très bien, mais vous ne   déléguerez rien. Vous avez simplement acquis un  super Google. Autour de 10 millions, vous êtes le  
+9:079 minutes et 7 secondesbinôme de l'étape 1, quelques dizaines de dollars  par mois et vous voilà pourtant déjà au-dessus de   la médiane du marché et de son badge à 11 dollars.  Autour de 100 millions, vous commencez à saturer  
+9:169 minutes et 16 secondesvotre abonnement max. Vous jonglez souvent entre  les sessions et vous vivez normalement à l'étape   numéro 2 sur l'échelle de Cherny. Dès lors que  vous attiendrez le milliard, vous tenez une  
+9:259 minutes et 25 secondesusine avec des routines qui tournent sans vous  et l'ordre de vendeur n'est plus le même. Open   raconte que ces utilisateurs du sentile supérieur  génèrent aujourd'hui plus de soixante heures de  
+9:349 minutes et 34 secondestravail d'agent par jour. Cette jauge ne mesure  pas votre intelligence, elle mesure la part de  
+9:399 minutes et 39 secondesvotre travail que vous avez accepté de déléguer  et donc directement la taille de la boucle de  
+9:459 minutes et 45 secondesvérification que vous avez su construire pour  obtenir un résultat satisfaisant. Encore une fois,  
+9:519 minutes et 51 secondesattention et c'est un rappel que je suis un peu  plus là de devoir faire. On en a encore parlé   mercredi soir entre nous. Cette jauge sert à vous  situer, jamais avisé. La course au compteur porte  
+10:0110 minutes et 1 secondeun nom, le token maxing. Et je veux être honnête,  elle a eu sa légitimité. Dans la deuxième moitié  
+10:0610 minutes et 6 secondesde 2025 et au début 2026, la consommation était  un vrai signal. C'était comme ça qu'on repéré   les précurseurs et les baleines. Sauf que depuis,  les directions, on en fait des objectifs et des  
+10:1610 minutes et 16 secondesKPI d'équipe. Et les économistes ont un nom pour  ce qui arrive ensuite, la loi de Goodheart. Une   mesure qui devient un objectif cesse d'être une  bonne mesure. Mesurer l'é ticket gira résolu,  
+10:2710 minutes et 27 secondesles gens ouvriront un ticket pour aller aux  toilettes. Et si vous mesurez les tokens brûlés,   et bien vous aurez des tokens brûlés. C'est  pourtant simple, mais un retour sur investissement  
+10:3510 minutes et 35 secondesse calcule en divisant la sortie par l'entrée et  les tokens sont l'entrée. Cette jauge reste donc   un indice de votre pratique au même titre que la  façon dont vous parlez à des agents trahit votre  
+10:4510 minutes et 45 secondesannée de départ. Rien de plus, rien de moins.  Venons-en donc au plan de passage. L'étape 1 vers  
+10:5210 minutes et 52 secondesl'étape 2. C'est la marche qui concerne l'immense  majorité d'entre vous et Cherny liste lui-même les   frérquy. Je les ai traduits en quatre chantiers  dans l'ordre où je les poserais si je repartais  
+11:0111 minutes et 1 secondede zéro. Montez une semaine de soirée. Premier  chantier, le contrat. Créer le fichier de consigne   que votre agent lit à chaque session. C'est le  fameux cloud.md ou agent.md selon votre solution.  
+11:1111 minutes et 11 secondesCloude.md chez Anthopique et ses équivalents chez  les autres. Tout ce que vous répéterz à l'oral,   session après session doit à un moment donné  redescendre dans ce fichier. Les conventions de  
+11:2111 minutes et 21 secondesprojet, les commandes de compilation, les zones où  l'on ne touche à rien. Tant qu'une consigne reste,   l'agent l'oubliera la session suivante. Vous  l'avez sûrement déjà vécu, mais si vous l'écrivez  
+11:3011 minutes et 30 secondesdans le contrat, elle tient toute seule et vous  venez de supprimer la moitié de vos interventions   de moniteur. Deuxième chantier, l'examen. C'est le  cœur du passage et c'est le premier prérequis de  
+11:3911 minutes et 39 secondesCherny. Il vous faut une boucle de vérification  en laquelle vous croyez vous. Concrètement, une   commande unique que l'agent doit lancer lui-même  avant de vous montrer quoi que ce soit. Les tests,  
+11:4811 minutes et 48 secondesla compilation, le linter et si vous faites de  l'interface, un test de bout en bout qui clique   dans un vrai navigateur. La règle est simple.  L'agent n'a pas le droit de vous présenter un  
+11:5811 minutes et 58 secondestravail qu'il n'a pas déjà vérifié. Confiez-le à  l'agent d'ailleurs. Écrire les tests qui protègent   un code existant est la tâche parfaite pour  débuter, précisément parce qu'elle se vérifie.  
+12:0912 minutes et 9 secondes3ème chantier, les bacs à sable. Le réflexe  de tout faire tout seul dans un répertoire   doit mourir ici. Un agent doit avoir une copie de  travail isolé. C'est ce qu'on appelle un walk tree  
+12:1812 minutes et 18 secondessur git, un work tree par chantier pour que deux  agents ne se marchent jamais dessus. Réglez aussi   la question des permissions parce que chaque  fenêtre qui demandera votre autorisation vous  
+12:2612 minutes et 26 secondesramènera deux forces au siège de moniteur. Dressez  la liste des commandes sûr et autorisez-les une   bonne fois pour toutes dans la configuration.  mais surtout garder l'approbation manuelle pour  
+12:3612 minutes et 36 secondesles sujets sensibles. Par exemple, ce qui touche  au réseau, au secret et aux suppressions. Puis  
+12:4212 minutes et 42 secondescommencer à deux agents, pas 10, deux agents avec  deux tâches réelles, deux bacs et c'est comme ça  
+12:4812 minutes et 48 secondesqu'on apprend à jongler. 4e grand chantier, la  relecture. Avant que le travail n'arrive sur votre  
+12:5312 minutes et 53 secondesbureau, faites-le relire par un agent qui n'a pas  écrit de code. Une session neuve, un seul mandat,  
+12:5912 minutes et 59 secondestrouver ce qui casse. C'est une règle que  j'applique partout dans mes systèmes. Le fabricant   ne se juge jamais lui-même. Vous, vous ne relierez  plus que le dif avec le rapport de revue posé à  
+13:0913 minutes et 9 secondescôté. Attention, votre niveau d'exigence ne  bouge pas d'un mmè. Le code que l'on fusionne  
+13:1413 minutes et 14 secondesest celui qui aurait passé votre revue humaine.  Ni plus ni moins. Ce qui change, c'est le moment  
+13:2013 minutes et 20 secondesoù vous intervenez. À la fin, sur des résultats,  plus jamais pendant, plus jamais sur des frappes.  
+13:2713 minutes et 27 secondesAlors, comment savoir si vous êtes monté ? Deux  tests. Celui de Cherny. D'abord, une question   à se poser avant chaque sortie d'agent. Est-ce  qu'un ingénieur l'aurait fait comme ça ? Ensuite,  
+13:3713 minutes et 37 secondesplus physique, lancez deux chantiers ce matin,  fermez l'écran et partez 2 heures en balade.   Si l'idée vous est insupportable, votre boucle  de vérification n'est pas terminé et c'est elle  
+13:4513 minutes et 45 secondesqu'il faut renforcer, pas votre tolérance au  risque. Un mot sur le piège, parce que Cherney   la nomme aussi et qu'il est contreintuitif. Le  danger, ce serait de rester trop prudent. Lui,  
+13:5413 minutes et 54 secondespointe l'inverse. Le piège, c'est d'augmenter le  nombre d'agents avant que la boucle ait mérité   votre confiance. C'est exactement le film des  équipes de la télémétrie de tout à l'heure,  
+14:0414 minutes et 4 secondescelle qui fusionne sans relire. Le travail sort  plus vite, la qualité s'effondre en silence et la   facture revient quelques mois plus tard avec des  intérêts. Cali, il restera toujours des jours pour  
+14:1414 minutes et 14 secondesl'étape numéro 1. Du code de sécurité, un système  de paiement à un sujet où l'erreur coûte beaucoup   trop cher pour être délégué. L'échelle n'est pas  un concours de hauteur. La bonne question n'est  
+14:2414 minutes et 24 secondespas votre étage dans l'absolu. C'est l'étage que  mérite chaque tâche dans votre workflow pour votre   travail. Alors, retournons la table pour finir  parce que cette échelle est aussi une grille de  
+14:3414 minutes et 34 secondeslecture pour juger les autres. La prochaine fois  qu'une équipe ou un prestataire ou votre propre   direction vous dira qu'elle est passée à LIA,  trois questions suffiront pour situer à peu près  
+14:4314 minutes et 43 secondesl'étage réel dans lequel elle se situe. 1. Combien  d'agents tournent en parallèle sur une journée   normale et dans quoi sont-ils isolés ? Question  numéro 2, montrez-moi la boucle de vérification,  
+14:5214 minutes et 52 secondesce qui tourne sans qu'un humain ne la déclenche  et 3. Qui relie le livrable final et selon quel  
+14:5814 minutes et 58 secondesstandard ? Une organisation à l'étape zéro vous  répondra le nom de sa licence. Une organisation à   l'étape 2 vous répondra à une chaîne d'outil avec  des noms de commande. Vous repérerez la différence  
+15:0715 minutes et 7 secondesen 30 secondes. Gardez surtout ce chiffre en tête  pendant l'exercice. Si l'usage médiant du marché   reste encore très basique autour de 11 dollars  de consommation par mois, atteindre l'étape 2 ne  
+15:1715 minutes et 17 secondessignifie pas simplement que vous avez rattrapé  votre retard. Cela vous place déjà nettement   devant la majorité des utilisateurs. On ne dispose  pas encore de données suffisamment fiables sur le  
+15:2615 minutes et 26 secondesnombre de tâches que les développeurs font  réellement tourner en parallèle aujourd'hui.   Mais les seuls chiffres publics qui viennent des  fournisseurs et qui mettent surtout en avant leurs  
+15:3415 minutes et 34 secondesutilisateurs les plus avancés permettent déjà  de conclure tous les signaux que nous venons   de voir vont dans le même sens. L'utilisateur  moyen est probablement beaucoup moins avancé  
+15:4315 minutes et 43 secondesque vous l'imaginez aujourd'hui. Autrement dit,  maîtriser cette deuxième étape constitue déjà un   avantage réel. Et revenons une dernière fois dans  la voiture parce que le moniteur d'auto-école ne  
+15:5415 minutes et 54 secondeslâche pas le double frein le jour où il devient  courageux, il le lâche le jour où l'élève est   capable de conduire tout seul sans risque. Vous  ne montrez pas d'étapes en vous forçant à regarder  
+16:0316 minutes et 3 secondesailleurs pendant que l'agent travaille. Vous  montrez le jour où votre examen existera. Test   pas à sable relecteur et qu'il tournera sans  vous. Votre attention redeviendra alors ce  
+16:1316 minutes et 13 secondesqu'elle aurait toujours dû rester la ressource que  l'on réserve aux décisions, par la surveillance.  
+16:2016 minutes et 20 secondesEt cette attention, autant l'investir là où elle  vous fait réellement progresser, comprendre ce   que les autres testent, comparer vos méthodes,  récupérer les bons outils plutôt que de tout  
+16:2916 minutes et 29 secondesreconstruire tout seul. C'est précisément pour ça  que j'ai créé le Patréon. J'y prolonge ces vidéos   avec des ressources pour passer à la pratique et  surtout avec une communauté de professionnels qui  
+16:3916 minutes et 39 secondeséchangent tous les jours sur Discord, partageant  ces expériences et progresser au contact d'autres   professionnels qui expérimentent au quotidien. Si  vous voulez aller plus loin que cette vidéo, le  
+16:4816 minutes et 48 secondeslien est sous la vidéo. Si vous voulez simplement  continuer à suivre ce travail, n'hésitez pas à   vous abonner à la chaîne. Le défi de la vidéo  maintenant, c'est devenu traditionnel. Choisissez  
+16:5716 minutes et 57 secondesune vraie tâche qui traîne dans votre liste.  Montez les quatre chantiers. Faites-la aboutir en   étape 2. Deux agents qui travaillent en parallèle,  chacun dans son propre environnement, sans que  
+17:0717 minutes et 7 secondesvous n'ayez à intervenir entre le lancement et  la vérification finale. Ensuite, venez commenter   ici sous la vidéo ou dans l'atelier pâtisseur  de Discord. D'où est-ce que vous êtes parti ? la  
+17:1617 minutes et 16 secondescommande exacte que vous avez utilisé pour  vérifier automatiquement le travail des agents   et aussi ce qui vous a le plus manqué pendant le  temps où vous les avez laissé travailler seul.  
+17:2417 minutes et 24 secondesC'est avec ces retours que vous pourrez ensuite  calibrer la suite de votre atelier. Merci pour   votre temps, surtout pour votre confiance et  à bientôt. Il faut savoir que les ordinateurs  
+17:3517 minutes et 35 secondesont remplacé les employés et les machines, les  ouvriers. Et là, je barre la route, c'est le cas  
+17:4117 minutes et 41 secondesde le dire qui dit barrage du pH. Et je pense que  moi avec mes barrières automatiques, c'est fini  
+17:4917 minutes et 49 secondesles grossesses, les congés payés, les 13e mois,  les certificats médicaux et les gens qui cavotent  
+17:5517 minutes et 55 secondeschez eux. Comprenez chez moi, c'est une fois par  an entretien et puis c'est terminé et j'ai un   outil économique qui est cohérent, qui fonctionne  perturbant. On vous sent Oui. perturbé. Oui. Dire  
+18:0518 minutes et 5 secondesque les salariés c'est que défignant, c'est  ce qu'il viennent de dire. Les salariés c'est   souffert de ma part et j'en vois tous les jours  des gens qui souffrent c'est des êtres humains.  
+18:1318 minutes et 13 secondesUne barrière c'est loin d'être un être humain. Moi  je souffre pas. J'ai jamais dit que vous étiez un   être humain. Souffre pas. Jamais dit que vous  étiez un être humain. On est bien d'accord. Oh.
+
+Tout
+
+Source : IA et Stratégie
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+9:28
+Pourquoi Apple est sur le point de trahir 1,4 milliard de clients
+Sébastien Koubar
+35 k
+il y a 9 m.
+
+
+26:20
+COMMENT RATTRAPER LE RETARD DES BICEPS !
+Essan NFC
+207 k
+il y a 1 a
+
+
+18:35
+How I actually use Grokbot: Don't sleep on it
+Clearmud
+6,4 k
+il y a 22 h
+Nouveau
+
+
+1:08:00
+Matthias Baccino : faut-il continuer son DCA au plus haut ?
+Nicolas Chéron et Matthias Baccino
+66 k
+il y a 7 m.
+
+
+16:30
+Vercel est devenue inutile avec l'IA : voici la solution facile
+Melvynx
+469
+il y a 2 h
+Nouveau
+
+
+16:22
+Les meilleurs ETF Monde pour débuter
+Zonebourse
+89 k
+il y a 2 a
+
+
+46:28
+Ces ados se mettent en danger pour un corps parfait
+Immersion ▸ reportages et documentaires
+220 k
+il y a 6 m.
+
+
+32:43
+Voilà à quoi ressemble le vrai échec musculaire (séance pecs)
+Nassim Sahili
+287 k
+il y a 1 a
+
+
+16:14
+Obligations: le moment d'acheter ?
+Zonebourse
+67 k
+il y a 2 a
+
+
+1:06:14
+L'effroyable MANIPULATION de notre alimentation (des influenceurs aux politiques)
+Amistory
+495 k
+il y a 2 sem.
+
+
+18:17
+La VÉRITÉ sur l'ALCOOL après 40 ans (ce qu'il fait vraiment à ton corps)
+FRANCK ROPERS
+5,8 k
+il y a 1 j
+Nouveau
+
+
+14:51
+La Chine surpasse enfin MYTHOS 5 grâce au nouveau GLM 5.3 (et le nouveau Model 2 d’Anthropic)
+AI Revolution en Français
+152
+il y a 2 h
+Nouveau
+
+
+14:45
+On a acheté un MINI PC 100% NVIDIA à 4000€ !
+FrenchHardware
+277 k
+il y a 8 m.
+
+
+26:05
+CHOQUÉ PAR MON TAUX DE BODYFAT 😨 (je croyais être sec... 😭) - DEXA SCAN
+La Chaîne du Doc'
+33 k
+il y a 5 a
+
+
+29:47
+🥶 Cet hiver, vous allez mourir de froid !
+La Croisée des Chemins
+523
+il y a 46 min
+Nouveau
+
+
+15:05
+Google vient de lancer Gemini 3.7 Flash : c’est bluffant !
+AI Revolution en Français
+1,8 k
+il y a 1 j
+Nouveau
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,8 M
+il y a 8 m.
+Doublée
+
+
+30:50
+JE RÉAGIS AUX CRITIQUES SUR MA MARQUE INSHAPE NUTRITION !!
+Tibo InShape
+1,6 M
+il y a 1 a
+
+
+12:53
+Vos données et vos cryptos sont-elles en DANGER ?
+Monsieur-TK : Bitcoin et Crypto
+395
+il y a 3 h
+Nouveau
+
+25:25
+Trump voulait bloquer la Chine… elle a créé sa propre carte graphique
+FrenchHardware
+272 k
+il y a 1 m.
+
+    

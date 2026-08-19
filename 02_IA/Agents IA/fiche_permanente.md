@@ -5,7 +5,7 @@
 - Nom : Agents IA
 - Type : Systeme logiciel combinant modele IA, instructions, outils, memoire, workflow et controles
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-08-09
+- Derniere mise a jour : 2026-08-19
 
 ## 2. Role principal
 
@@ -33,6 +33,8 @@ Une architecture plus avancee peut inclure :
 - fan-out pour taches paralleles ;
 - recherche lexicale avant retrieval semantique ;
 - Human-in-the-Loop pour les cas incertains ou sensibles.
+
+La capacite de verification doit progresser avant le nombre d'agents. Pour une execution parallele, chaque chantier doit disposer d'un environnement de travail isole, d'une preuve de succes reproductible et d'un chemin d'integration explicite.
 
 Pour un agent specialise, documenter aussi :
 
@@ -136,6 +138,15 @@ Workflow de securite agentique :
 5. Journaliser les appels d'outils et alertes, puis verifier qu'une compromission reste contenue dans un rayon limite.
 6. Exiger une approbation humaine pour toute action sensible, irreversible ou susceptible d'exposer des donnees.
 
+Workflow de passage d'une supervision continue a une revue par resultats :
+
+1. Stabiliser les conventions, commandes et zones protegees dans un contrat projet versionne.
+2. Construire une commande de verification reproductible combinant selon le livrable tests, compilation, lint et controles de bout en bout.
+3. Isoler chaque tache parallele dans une copie de travail ou un bac a sable distinct.
+4. Faire relire le resultat par un agent ou une session qui n'a pas produit la modification.
+5. Presenter a l'humain le diff, les preuves de verification et le rapport de revue, tout en conservant une approbation manuelle pour les actions sensibles.
+6. Augmenter progressivement le parallelisme seulement si le debit de revue et le taux de defaut restent maitrises.
+
 ## 9. Prompts & methodes
 
 Eviter les prompts de role vagues.
@@ -181,6 +192,7 @@ Points a surveiller :
 - reutilisation d'assets, scripts et procedures audites pour transformer les apprentissages en blocs operationnels plutot qu'en memoire implicite.
 - qualite et maintien d'un registre de decisions (ADR) pour limiter la re-proposition d'options deja ecartees.
 - valeur reelle du multi-query, de HyDE, des rerankers et des boucles RAG correctives sur un corpus AOS evalue.
+- debit de verification, taux de defaut et charge de revue lorsque le nombre d'agents paralleles augmente ; la consommation de tokens ne doit pas devenir un objectif de performance.
 
 ## 13. Decisions strategiques
 
@@ -194,3 +206,4 @@ Traiter un agent IA comme un systeme logiciel, pas comme un simple prompt. Aucun
 - 2026-07-21 - Mise a jour - Sections 8, 12 - Source YouTube Mike Codeur ADR et memoire agentique, batch AOS GO partiel
 - 2026-08-01 - Mise a jour - Sections 3, 8, 12 - Source YouTube Projets IA RAG, batch AOS GO partiel
 - 2026-08-09 - Mise a jour - Section 8 - Source YouTube NetworkChuck, defense en profondeur des applications agentiques, batch AOS GO partiel
+- 2026-08-19 - Mise a jour - Sections 3, 8 et 12 - Source YouTube IA et Strategie, supervision par resultats et boucle de verification, batch AOS GO partiel

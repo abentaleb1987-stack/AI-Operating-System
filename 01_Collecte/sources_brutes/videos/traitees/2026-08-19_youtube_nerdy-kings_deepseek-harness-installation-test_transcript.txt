@@ -1,0 +1,826 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)
+Nerdy Kings
+Nerdy Kings
+27,8 k abonnés
+
+S’abonner
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+19 août 2026  #DeepSeek #DeepSeekHarness #AI
+🐳🇨🇳 DeepSeek vient de dévoiler DeepSeek Harness, un nouvel environnement open source pour créer et exécuter des agents IA.
+
+Contrairement à Claude Code, Harness repose sur une philosophie assez radicale : « Everything is a Plugin ». Modèles, outils, permissions, interface et même certaines parties du fonctionnement de l’agent peuvent être modifiés ou remplacés grâce à Cordis.
+
+Dans cette vidéo, je vous explique comment fonctionne DeepSeek Harness, pourquoi cette architecture est intéressante, s’il peut réellement remplacer Claude Code, puis on l’installe et on teste son Creator Mode en créant directement notre propre plugin.
+
+🔗 RESSOURCES UTILES : 
+https://deepseek.com/harness/en/
+https://nodejs.org/en
+
+📚 SOMMAIRE : 
+00:00 - Qu'est-ce que Harness ?
+07:50 - Installation et interface
+10:30 - Test
+
+🎁 MON SITE WEB :
+Mes prompts (FICHE NOTION) : https://www.nerdykings.com
+
+🚨 MES RESEAUX : 
+👉 Mon X (actu, leaks, coulisses) : https://x.com/nerdykingsx 
+👉 Instagram : @nerdykings.ia 
+👉 Facebook : https://www.facebook.com/share/14nUwK...
+
+💬 HASHTAGS :
+#DeepSeek #DeepSeekHarness #AI #IntelligenceArtificielle #ClaudeCode #AIAgents #AgentAI #CodingAI #OpenSource #Cordis #AICoding #DeveloperTools #LLM #Tech #NerdyKings
+Nerdy Kings explore DeepSeek Harness, un framework open source modulaire bâti sur Cordis, permettant une personnalisation profonde des agents IA. L'analyse détaille sa philosophie Everything is a plugin, ses différents modes de fonctionnement et montre une démonstration pratique du mode créateur pour étendre les capacités de l'interface.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Nerdy Kings
+27,8 k abonnés
+Vidéos
+À propos
+
+Instagram
+
+Facebook
+Effectuer des achats dans le magasin Nerdy Kings
+
+
+Nerdy Kings - Polo Organic JAKO Ado
+Zones de livraison limitées
+Spreadshop
+ 
+
+Nerdy Kings - Tasse émaillée
+Zones de livraison limitées
+Spreadshop
+ 
+
+Nerdy Kings - Pantalon de jogging bio MOVER Stanley/Stella unisexe
+Zones de livraison limitées
+Spreadshop
+ 
+
+Nerdy Kings - T-shirt bio Blaster 2.0 coupe oversize Stanley/Stella Unisexe
+Zones de livraison limitées
+Spreadshop
+ 
+Nerdy Kings - Veste à capuche unisexe
+Zones de livraison limitées
+Spreadshop
+ 
+Nerdy Kings - JAKO Shorts Manchester 2.0
+Zones de livraison limitées
+Spreadshop
+35 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Cladiolus_6740
+il y a 3 heures
+L'époque où on changeait juste le prompt est révolue, maintenant il faut carrément modifier l'environnement (le harness) ! 🤖 Curieux de voir jusqu'où les agents IA vont aller d'ici 6 mois... 🤯
+
+5
+
+
+
+Répondre
+
+
+@SellerieTartare-g9s
+il y a 3 heures
+Merci pour l’info ! Clair et hyper intéressant , tu es vraiment au top 👍
+
+4
+
+
+
+Répondre
+
+Nerdy Kings
+·
+
+1 réponse
+
+@MD-zd3du
+il y a 3 heures
+DeepSeek sont vraiment impressionnants côté software. Au delà des modèles ce sont d'excellents ingénieurs logiciels, toutes ces optimisations sont ce qui feront la différence à terme
+
+3
+
+
+
+Répondre
+
+
+@JoeMaraschio-d3t
+il y a 2 heures
+Merci beaucoup , en veille IA je dois absolument le tester
+
+1
+
+
+
+Répondre
+
+
+@TahirSharif-g5q
+il y a 2 heures
+Impressionnant DerpSeek merci beaucoup pour ton excellent travail NerdyKing 
+
+2
+
+
+
+Répondre
+
+
+@noymard.official
+il y a 1 heure
+V’la les usines à gaz que je vais monter , l’interface va plus ressembler à rien  
+Merci pour la vidéo
+
+1
+
+
+
+Répondre
+
+
+@sailfire786
+il y a 4 minutes
+C’est génial merci beaucoup. La bise !
+
+
+
+Répondre
+
+
+@woofwolf3057
+il y a 3 heures
+Ca va trop vite pour moi... J'ai 30 ans je me sens déjà comme un boomer 
+
+5
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Saphir.Culture
+il y a 3 heures
+Incroyable je suis choqué !!! Merci
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@automatescellulaires8543
+il y a 2 heures
+Je m'attendais à un vrai test ...
+
+
+
+Répondre
+
+
+@bassiroudegbembia1140
+il y a 1 heure
+Merci
+
+1
+
+
+Répondre
+
+
+@il-ye5
+il y a 3 heures
+Merci pour cette excellente vidéo !  
+À 8:45, petite correction : il s’agit de la clé API et non d’une adresse IP 
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@dan_s_marseille
+il y a 13 minutes
+Super merci
+
+
+
+Répondre
+
+
+@rvalyi
+il y a 3 heures
+Je pense qu'Hermes est aussi assez modulaire et très mature...
+
+2
+
+
+Répondre
+
+
+@yess_youtube
+il y a 1 heure
+Adresse API pas IP.  Pas grave . Merci pour les tutos
+
+3
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@GilbertAGBODJI-dj7ud
+il y a 12 minutes
+C'est possible de le faire sur un téléphone ??? J'ai hâte de le tester sur un téléphone.
+
+1
+
+
+Répondre
+
+
+@zebulon75018
+il y a 1 heure
+Est ce que l on peut utiliser un modèle local ollama ?
+
+
+
+Répondre
+
+
+1 réponse
+
+@yannschvartz3493
+il y a 1 heure
+n oublions pas que grand nombre de harnais ce sont construit avec le leak du harnais de claude y a quelques mois hein . :)
+
+
+
+Répondre
+
+
+@karloska461
+il y a 37 minutes
+Est il independant , dans le sens ou je lui demande de me creer un virus dans une sandbox ou un malware saint
+
+
+
+Répondre
+
+
+@pennyzg93
+il y a 1 heure
+c'est un peu comme un agent OpenClaw/Hermes ? Ou cela n"a rien a voir ?
+
+
+
+Répondre
+
+
+1 réponse
+    
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Qu'est-ce que Harness ?
+0:000 secondeDeepsic vient de sortir quelque chose qui pourrait devenir beaucoup plus important qu'un nouvel agent de coding.
+0:066 secondesÇa s'appelle Deepsic Harness. Et à première vue, là on pourrait facilement le prendre pour une nouvelle alternative open source à Cloud Code ou encore Codex
+0:1414 secondesparce qu'il peut lire, modifier vos fichiers, exécuter des commandes dans le terminal, utiliser différents outils et travailler de manière assez autonome sur
+0:2323 secondesun projet. Donc ça déjà bah c'est génial. Mais là, ce qu'il rend vraiment intéressant, c'est que Deepsic a surtout créé un environnement extrêmement
+0:3030 secondesmodulaire dans lequel pratiquement chaque composant de la jambe peut être remplacé ou modifié. Et ça concerne évidemment les outils mais également le
+0:3838 secondesmodèle utilisé, les permissions, la gestion des sessions et même la boucle qui contrôle le comportement de l'agent.
+0:4444 secondesD'ailleurs, Dipsic résume toute cette philosophie avec une phrase : "Everything is a plugging". Donc autrement dit en bon français, tout est
+0:5454 secondesun plugging. Et d'ailleurs, vous allez voir que derrière cette phrase se cache une approche assez différente de Cloud Code. Du coup, dans cette vidéo, on va
+1:011 minute et 1 secondecomprendre dans un premier temps ce qu'est dipsic harness, voir s'il peut réellement remplacer Claude Code. On va aussi l'installer, vous allez voir,
+1:101 minute et 10 secondesc'est très facile et le tester. Bon déjà, pour comprendre l'intérêt du projet, il faut déjà comprendre ce qu'on appelle un harness parce que c'est une
+1:191 minute et 19 secondespartie essentielle des agents IA dont on parle finalement assez peu. Quand on utilise Cloud Code par exemple, on peut facilement avoir l'impression que toutes
+1:271 minute et 27 secondesces capacités viennent directement de cloud. Pourtant, le modèle n'est qu'une partie du système puisqu'il faut construire tout un environnement autour
+1:351 minute et 35 secondesde lui pour lui permettre d'agir concrètement. Et il faut aussi lui donner accès au fichier et au terminal, lui fournir des outils, gérer son contexte et ses permissions, récupérer
+1:431 minute et 43 secondesle résultat de ses actions et surtout comment il va enchaîner toutes ces étapes pour accomplir une tâche. Et c'est justement tout ce système
+1:521 minute et 52 secondesconstruit autour du modèle qu'on appelle un harness. On peut donc voir le modèle comme la partie qui apporte principalement le raisonnement tandis
+2:012 minutes et 1 secondeque le harness transforme ce raisonnement en action concrète en déterminant ce que l'agent peut faire.
+2:072 minutes et 7 secondeset comment il va le faire. Et là, cette distinction, elle est importante parce que deux agents qui utilisent exactement le même modèle, mais ils peuvent obtenir
+2:142 minutes et 14 secondesdes résultat très différents, simplement parce que leur harness n'est pas conçu de la même manière. D'ailleurs, des travaux récents ont même montré qu'en
+2:212 minutes et 21 secondesgardant un modèle Deepsic identique en améliorant son harness, les performances pouvaient fortement progresser sur certaines tâches. Donc évidemment, ça
+2:302 minutes et 30 secondesveut pas dire que le harness peut rendre un mauvais modèle intelligent, mais ça montre quand même que les performances d'un agent dépendent maintenant autant
+2:382 minutes et 38 secondesde l'environnement construit autour du modèle que du modèle lui-même. Mais du coup, qu'est-ce qui rend Deepsic Harness si différent ? Et bien là, c'est précisément sur cette couche que Dipsy
+2:462 minutes et 46 secondesCarness essaie d'apporter quelque chose de nouveau. Dans beaucoup de systèmes agentiques, vous avez un cœur relativement fixe auquel vous pouvez ensuite connecter différents outils.
+2:562 minutes et 56 secondesAvec Harness, Deepsic va aller beaucoup plus loin en rendant l'architecture elle-même modulaire. Et pour faire ça,
+3:033 minutes et 3 secondesle projet repose sur un framework appelé Cordis qui permet d'assembler les différentes parties du runtime sous
+3:103 minutes et 10 secondesforme de plugins. Quand Dipsic affirme que everything is a plugin, il ne parle pas simplement d'installer quelques
+3:173 minutes et 17 secondesextensions supplémentaires. L'adaptateur qui communique avec le modèle peut être remplacé tout comme le registre des outils, le système de permission, la
+3:263 minutes et 26 secondespersistance des sessions, le Sbox, les sous-agents et même la boucle principale qui orchestre le comportement de
+3:333 minutes et 33 secondesl'agent. Et c'est probablement le point le plus important à comprendre parce que habituellement quand on parle de plugging pour un agent IA, bah on parle
+3:423 minutes et 42 secondessurtout de lui donner une nouvelle capacité et là Deepsic veut permettre de modifier beaucoup plus profondément la manière dont l'agent lui-même est
+3:503 minutes et 50 secondesconstruit. Donc là concrètement, vous pourriez donc avoir un agent qui utilise dipsy comme modèle avec vos propres outils, vos propres permissions et votre
+3:593 minutes et 59 secondespropre environnement. Et si demain un autre modèle devient meilleur ou moins cher, vous pourriez remplacer le modèle tout en conservant une grande partie de
+4:074 minutes et 7 secondesl'infrastructure que vous avez déjà construite. La DISIC va donc séparer trois choses. Le modèle qui apporte le raisonnement, le harness qui orchestre
+4:154 minutes et 15 secondesl'agent et ses outils puis l'environnement avec les fichiers, le terminal, le réseau et les différents services auxquels l'agent peut accéder.
+4:244 minutes et 24 secondesEt c'est pour ça que Harz ressemble davantage à une infrastructure permettant de construire son propre agent qu'à un simple clone de clude
+4:314 minutes et 31 secondescode. Et ce qui est génial dans tout ça, c'est que cette architecture et bien elle permet aussi de créer ses propres plugins cordis pour ajouter de nouvelles capacités. Donc ça peut être quelque
+4:404 minutes et 40 secondeschose de visuel directement dans l'interface, mais un plugin, bah ça peut aussi ajouter un nouvel outil à l'agent ou intervenir sur d'autres parties du
+4:474 minutes et 47 secondesruntime. Et Harness possède justement un créateur mode qui permet de créer ce genre de plugin directement depuis l'agent. Ça d'ailleurs, c'est quelque
+4:564 minutes et 56 secondeschose qu'on va tester ensemble juste après parce que je vais lui demander de créer lui-même une nouvelle fonctionnalité dans son propre environnement puis de l'intégrer
+5:035 minutes et 3 secondesdirectement dans harness. Et ça permet de comprendre beaucoup plus concrètement l'idée derrière everything is a plugging parce que au lieu d'utiliser uniquement
+5:115 minutes et 11 secondesun agent tel qu'il a été conçu par son développeur, vous pouvez commencer à adapter son environnement à vos propres besoins. Donc Harness conserve bah
+5:205 minutes et 20 secondeségalement un historique détaillé des événements d'une session, notamment les messages et les appels d'outils, ce qui permet de revenir beaucoup plus précisément sur ce que l'agent a fait.
+5:305 minutes et 30 secondesEt plus on donne d'autonomie à ces systèmes, eth bien plus cette traçabilité devient importante, notamment lorsqu'il commence à manipuler
+5:385 minutes et 38 secondesnos fichiers ou à exécuter des commandes. Et forcément, la grande question maintenant, est-ce que Deepsic
+5:455 minutes et 45 secondesHarness peut réellement remplacer clude code ? Sur le papier, bah les deux peuvent travailler du code, manipuler des fichiers, utiliser un terminal et
+5:535 minutes et 53 secondeseffectuer des tâches de manière autonome. Mais leur philosophie, je pense que vous l'aurez compris, est assez différente. Cloud Code, c'est avant tout un produit intégré.
+6:026 minutes et 2 secondesEntropique contrôle le modèle et une grande partie de l'environnement qui l'entoure, ce qui permet d'avoir quelque chose de très simple à utiliser et déjà
+6:096 minutes et 9 secondesfortement optimisé. Et dipsik harness, bah c'est davantage une infrastructure permettant de construire et personnaliser son propre environnement
+6:186 minutes et 18 secondesagentique. En plus, le projet est open source sous licence MIT. Il est pas fondamentalement attaché à un seul modèle et son architecture permet de
+6:266 minutes et 26 secondesremplacer beaucoup plus profondément les différentes briques du système. Donc pour quelqu'un qui veut choisir ses modèles, créer ses propres outils et
+6:346 minutes et 34 secondescontrôler précisément la manière dont son agent fonctionne, la Hernessant.
+6:416 minutes et 41 secondesMais aujourd'hui, en tout cas, personnellement, je ne pense pas qu'on puisse dire qu'il remplace Claude Code.
+6:466 minutes et 46 secondesLà, Har vient tout juste de sortir et Dipsic le présente encore officiellement comme un développeur preview avec encore des changements incompatibles qui
+6:546 minutes et 54 secondespeuvent arriver. Clud code reste également beaucoup plus mature, notamment au niveau de la sécurité. Par exemple, le Sunbox livré avec Harness peut limiter les modifications du
+7:037 minutes et 3 secondessystème de fichier, mais Dipsic précise qu'il ne restreint pas à lui seul le réseau ni la visibilité des processus.
+7:097 minutes et 9 secondesDonc en gros, si votre objectif c'est simplement d'avoir aujourd'hui un agent de coding performant et prêt à utiliser
+7:167 minutes et 16 secondesimmédiatement, Clox le plus évident. En revanche, si vous voulez construire votre propre environnement agentique et pouvoir
+7:247 minutes et 24 secondesremplacer ou modifier profondément les différentes briques qu'il composent, là par contre Dipsy Carnes propose quelque chose de beaucoup plus ouvert. Bon
+7:337 minutes et 33 secondesmaintenant trêve de blabla, je vais vous montrer dans un premier temps comment installer Dipsic Harness. On va regarder un petit peu comment fonctionne son interface et surtout on va tester le
+7:417 minutes et 41 secondescréateur mode en lui demandant de créer lui-même une nouvelle fonctionnalité pour son propre environnement. Donc vous allez voir pour l'installation, bah c'est vraiment très très simple. Vous allez écrire Deepsek Hness sur Google.
+Chapitre 2 : Installation et interface
+7:527 minutes et 52 secondesSinon, je vous mettrai aussi le lien dans la description comme d'habitude, comme ça vous pourrez y accéder très facilement. On va cliquer dessus et nous voici sur l'interface donc de Deepsic
+8:018 minutes et 1 secondeHarness. Ici, on va pouvoir venir copier la commande qui nous intéresse. Pour ça, il va falloir installer aussi dans un premier temps Node.js. Donc, j'imagine
+8:108 minutes et 10 secondesque pour la plupart d'entre vous, c'est déjà fait. Si ce n'est pas déjà fait, je vous ai mis aussi le lien dans la description. Vous vous rendez sur notode.js et vous l'installez. C'est
+8:188 minutes et 18 secondestrès facile à faire. Une fois que c'est fait, vous retournez ici. On va faire copier pour récupérer la commande et se rendre sur le terminal. Donc là, moi je
+8:268 minutes et 26 secondesvais faire terminal. Donc je suis sur Mac mais c'est la même chose sur Windows. On va le coller, on va faire entrer. Et là vous allez recevoir cette
+8:358 minutes et 35 secondesadresse que vous allez copier. On va se rendre de nouveau sur le navigateur et tout de suite on a accès à l'interface de deepsic harness. Donc normalement il
+8:448 minutes et 44 secondesva y avoir un pop-up qui va vous demander votre adresse IP de deic. Donc vous allez tout simplement suric, vous récupérez euh l'adresse IP, vous la
+8:538 minutes et 53 secondescopiez, vous la collez et ensuite vous allez pouvoir commencer à l'utiliser.
+8:578 minutes et 57 secondesDonc là, comme vous pouvez le voir, moi j'ai mis la mienne juste là. Donc là, j'ai fait apply. Donc je peux commencer euh à utiliser le modèle de Dieps et on
+9:059 minutes et 5 secondesva commencer à lui donner son premier prompt pour tester tout ça. Donc là, on va faire add workspace. On va mettre sur le bureau, on va créer en fait un dossier pour pouvoir travailler dessus.
+9:149 minutes et 14 secondesLà, moi en l'occurrence, j'en ai déjà créé un qui s'appelle harness. On va faire choose. Et là, vous avez accès à différents modes. Donc là, vous avez le
+9:219 minutes et 21 secondesmode standard, donc en gros le mode normal. Tu peux lui demander de coder, modifier des fichiers, lancer des commandes, faire des recherches sur le web, utiliser des sous-agents, planifier
+9:309 minutes et 30 secondesdes tâches. Donc c'est celui que tu veux utiliser dans 90 % des cas. Ensuite, on a le mode PTC. Donc là, c'est un peu comme le mode standard, mais en fait,
+9:389 minutes et 38 secondesl'agent va pouvoir enchaîner plusieurs outils dans un seul programme TypeScript. Donc au lieu de faire ouvre le fichier, attend, cherche, attend,
+9:459 minutes et 45 secondesmodifie, attends, il va pouvoir écrire en fait un petit programme qui qui va combiner tout ça. Donc là, ça va être très intéressant pour les tâches complexes avec beaucoup d'actions
+9:539 minutes et 53 secondessuccessives. Vous avez aussi le mode minimal. Donc là, c'est volontairement très limité. Vous aurez pas accès à la grosse boîte à outils du mode standard.
+10:0210 minutes et 2 secondesEt là, l'intérêt, c'est surtout de tester à quel point le modèle est bon tout seul avec très peu d'aide du harness. Donc là, c'est plus pour les benchmark, c'est pas vraiment utile pour
+10:1010 minutes et 10 secondesun utilisateur classique. Et enfin, ce qui va nous intéresser ici, c'est le mode Creator. Donc là, ça va être pour fabriquer ton propre agent. Donc il a
+10:1910 minutes et 19 secondesles capacités du mode standard, mais il peut aussi inspecter le fonctionnement interne du runtime, tester les plugins, créer des presets personnalisés et c'est
+10:2810 minutes et 28 secondesjustement celui-ci qu'on va utiliser maintenant. Vous allez voir, c'est super marrant. Donc là, on va faire créateur mode et on va lui donner le prompte suivant. créer un plugin qui ajoute une
+Chapitre 3 : Test
+10:3710 minutes et 37 secondeshorloge en temps réel dans le coin supérieur droit de l'interface de Deepsic Harness. On va faire entrer et voir comment est-ce qu'il réagit. Donc
+10:4510 minutes et 45 secondeslà, on peut voir qu'il a terminé ce que fait le pluging. Il va nous l'expliquer ici. Une horloge en temps réel apparaît dans le coin supérieur droit de la session. Et effectivement, on a bien
+10:5310 minutes et 53 secondesnotre horloge qui est apparue en haut à droite. Donc ça fait super plaisir mais c'est pas exactement ce que je voulais.
+10:5910 minutes et 59 secondesOn va venir le modifier. Vous allez voir, modifie le plugin d'horloge que tu viens de créer pour que l'horloge soit déplaçable librement dans l'interface
+11:0611 minutes et 6 secondesavec la souris par glisser déposer. Elle doit conserver son fonctionnement actuel, mais je dois pouvoir cliquer dessus, maintenir le clic et la déplacer
+11:1411 minutes et 14 secondesoù je veux. Donc là, on est en mode deep diving. Normalement, il va comprendre la requête. Je vais d'abord relire le
+11:2111 minutes et 21 secondessource actuelle du plugin et examiner le slot overlay. Et effectivement, ça fonctionne. On va pouvoir drag notre petite horloge flottante. Donc
+11:2911 minutes et 29 secondesmaintenant, vous savez l'installer. Vous connaissez l'utilité des différents modes. Il ne reste plus qu'à vous amuser les amis. Voilà l'enfur, j'espère que vous avez apprécié la vidéo. En tout
+11:3711 minutes et 37 secondescas, pour moi, c'était un plaisir de vous la faire. N'hésitez pas à me follow sur Instagram. Je vous mettrai le lien dans la description parce que plus on
+11:4411 minutes et 44 secondesest de fou, plus on rit. Sur ce, je vous fais de gros bisous. Co?
+
+Tout
+
+Pour vous
+
+Regardées
+
+17:50
+À quel niveau de musculation êtes-vous vraiment ? (les 5 stades décryptés)
+Nassim Sahili
+92 k
+il y a 1 m.
+
+
+1:29:44
+Il a tout perdu deux fois avant de devenir leader de son marché
+Le Déclic par Alec Henry
+77
+il y a 40 min
+Nouveau
+
+
+14:15
+Mon setup VPS complet pour héberger tous mes services (Wireguard, Traefik, Docker ...)
+AyLabs
+216
+il y a 1 h
+Nouveau
+
+
+24:11
+Manger 24H dans un KONBINI (édition été ☀️) 🇯🇵
+Malo Halna
+157 k
+il y a 2 a
+
+
+22:47
+ON TESTE LA RTX 5090 ! (elle brûle ?)
+FrenchHardware
+511 k
+il y a 1 a
+
+
+35:16
+Transformer un PC (mon plus gros projet terminé)
+Abrège
+ et Kang et ses PC
+135 k
+il y a 2 m.
+
+
+17:50
+LE PREMIER ALIGOT DU GÉNÉRAL…(avec Saucisses d’Auvergne)
+LeMondeDeChoi
+ et Choi TCG
+147 k
+il y a 10 j
+
+
+23:26
+Sécurise tes projets avec Cloudflare (guide complet)
+Meydeey | Automatisation IA
+150
+il y a 2 h
+Nouveau
+
+
+FARÈS EXPLOSE SANS MUSCU ! 💥
+64 k vues
+
+
+L’AGI n’est pas prête d’arriver, voici la preuve
+20 k vues
+
+
+Kylie Jenner on Steroids 🤯 #usa
+478 k vues
+
+Gemini 3.0 : Comment Le Tester Gratuitement Avant Tout Le Monde ? 😳
+5,8 k vues
+
+GLM 4.6 vs Claude 4.5 : Lequel Vaincra ? 🫨🔥
+2,1 k vues
+
+tu achètes des manga pour adultes en mangasin
+2,9 M de vues
+
+
+
+16:08
+Il ne faisait que 57 kg — pourtant il a changé la musculation à jamais
+Nassim Sahili
+378 k
+il y a 5 m.
+
+
+12:59
+SteamOS Is Free Now… I Tried Daily Driving It
+Switch and Click
+652 k
+il y a 2 j
+Nouveau
+
+
+20:47
+DeepSeek lâche une bombe : DeepSeek Harness (actu IA)
+Eliott Meunier
+1,7 k
+il y a 4 h
+Nouveau
+
+
+14:54
+Bodybuildeuses VS Hommes Ordinaires : Qui Gagne ?
+Tibo InShape
+603 k
+il y a 8 m.
+
+22:58
+Je teste les nouveautés étranges de Fast-Food (juin 2026)
+Gurky Le Murky
+413 k
+il y a 2 m.
+
+35:18
+Je teste des chaînes de restaurants en faillite
+CYRILmp4
+1,5 M
+il y a 2 m.
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+207 k
+il y a 1 m.
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+109 k
+il y a 3 sem.
+
+31:11
+Room service d'hôtel à 97$ VS 1352$
+Gurky
+850 k
+il y a 3 m.
+
+46:28
+Ces ados se mettent en danger pour un corps parfait
+Immersion ▸ reportages et documentaires
+221 k
+il y a 6 m.
+
+25:25
+Trump voulait bloquer la Chine… elle a créé sa propre carte graphique
+FrenchHardware
+274 k
+il y a 1 m.
+
+26:51
+La MEILLEURE chaîne de SUSHIS du Japon 🍣🇯🇵
+Malo Halna
+304 k
+il y a 1 a
+
+    
