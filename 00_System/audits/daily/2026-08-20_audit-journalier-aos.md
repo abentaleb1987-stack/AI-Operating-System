@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : 56a063f
+- Commit audite : 7396dcc
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-20 01:53:40
+- Rapport genere le : 2026-08-20 08:18:19
 - Alertes prioritaires Aion : 4
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 4
@@ -28,10 +28,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `7396dcc` - 2026-08-20 01:53:40 +0000 - Audit - docs(aos): add daily audit report
 - `56a063f` - 2026-08-19 20:20:31 +0200 - Knowledge batch - docs(aos): integrate Anthropic risk report
 - `d9d361d` - 2026-08-19 20:04:41 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `228c4d8` - 2026-08-19 08:16:43 +0000 - Audit - docs(aos): add daily audit report
-- `71c34df` - 2026-08-19 01:54:46 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -50,17 +49,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `228c4d8` - 2026-08-19 08:16:43 +0000 - docs(aos): add daily audit report
-- `71c34df` - 2026-08-19 01:54:46 +0000 - docs(aos): add daily audit report
+- `7396dcc` - 2026-08-20 01:53:40 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `228c4d8` - 2026-08-19 08:16:43 +0000 - Audit - docs(aos): add daily audit report
-- `71c34df` - 2026-08-19 01:54:46 +0000 - Audit - docs(aos): add daily audit report
+- `7396dcc` - 2026-08-20 01:53:40 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 4
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -71,7 +68,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-08-19_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-08-20_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/docs/traitees/2026-08_anthropic_risk-report-august-2026.pdf
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-17_youtube_ia-et-strategie_supervision-agents-verification_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-17_youtube_parlons-ia-tech_risques-modele-interne-filigrane-claude_transcript.txt
@@ -88,7 +85,6 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-08-19_audit-journalier-aos.md
 - M 02_IA/Agents IA/fiche_permanente.md
 - M 02_IA/Claude/fiche_permanente.md
 
