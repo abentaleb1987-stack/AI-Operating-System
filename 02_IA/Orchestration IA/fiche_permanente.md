@@ -5,7 +5,7 @@
 - Nom : Orchestration IA
 - Type : Discipline de coordination d'agents, outils, workflows, memoires et validations
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-08-16
+- Derniere mise a jour : 2026-08-21
 
 ## 2. Role principal
 
@@ -29,6 +29,8 @@ Composants essentiels :
 - contexte canonique conserve dans des formats portables et versionnes ;
 - definitions d'automatisation exportables avec dependances documentees.
 
+Dans une equipe de modeles, le routage doit etre defini par role : l'orchestrateur conserve le plan, l'arbitrage et l'agregation, tandis que les executants recoivent des taches bornees. Chaque role doit avoir un budget, un niveau d'effort, des permissions et une condition d'escalade explicites.
+
 L'orchestrateur doit surveiller les deviations, recadrer les agents, agreger les resultats et decider de la suite du workflow.
 
 ## 4. Forces
@@ -42,6 +44,8 @@ L'orchestrateur doit surveiller les deviations, recadrer les agents, agreger les
 - Complexite plus elevee qu'un prompt simple.
 - Risque d'erreur en cascade si le routage ou les criteres sont mal definis.
 - Cout potentiellement eleve si les agents multiplient les appels d'outils sans limite.
+- Opacite possible des equipes preassemblees sur le modele choisi, l'effort applique, les reprises et le cout reel par tache terminee.
+- Risque de captivite de la memoire, des routines et des identites dans un produit qui ne permet ni audit complet, ni export, ni remplacement d'un seul role.
 
 ## 6. Cas d'usage valides
 
@@ -114,6 +118,17 @@ Workflow de reversibilite operationnelle :
 6. Tester periodiquement cette reprise sur un workflow non critique.
 7. Reserver le local aux usages dont le besoin, la confidentialite et l'effort d'exploitation le justifient.
 
+Workflow de composition d'une equipe d'agents par roles :
+
+1. Definir les decisions, criteres de qualite et actions sensibles qui restent sous responsabilite humaine.
+2. Confier le plan, les ambiguites et l'agregation a un orchestrateur capable de verifier les executants.
+3. Affecter les taches repetables et bornees a des executants moins couteux lorsque leur qualite est suffisante.
+4. Evaluer chaque role sur des taches internes avec cout par resultat accepte, nombre de tours, reprises, latence et taux d'echec.
+5. Regler l'autonomie et l'effort par poste ; un niveau maximal n'est pas une valeur par defaut universelle.
+6. Poser des quotas et conditions d'arret sur les tokens, les appels, le temps, les fichiers, le reseau et les identites accessibles.
+7. Exiger un routage observable, la possibilite de remplacer un modele par role et l'export des instructions, journaux et memoires utiles.
+8. Faire remonter a l'humain les arbitrages qui depassent les criteres declares et verifier le livrable consolide.
+
 ## 9. Prompts & methodes
 
 Les instructions d'orchestration doivent definir :
@@ -159,10 +174,13 @@ Points a surveiller :
 - integration d'outils documentaires externes uniquement sous contraintes de confidentialite et de tracabilite.
 - usage de bifurcations vers l'utilisateur lorsque l'orchestrateur ne peut pas verifier objectivement un resultat.
 - cout de sortie, disponibilite des fournisseurs et temps reel de reprise d'un workflow critique.
+- transparence du routage par role, cout par tache acceptee, remplacement d'un modele sans reconstruire l'equipe et portabilite de la memoire dans les produits preassembles.
 
 ## 13. Decisions strategiques
 
 Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallelisation. Le fan-out ne doit etre utilise que lorsque les taches sont independantes et que l'agregation finale est controlee.
+
+- 2026-08-21 - Evaluer une equipe d'agents sur le cout complet et la qualite d'une tache acceptee, pas sur le seul prix par token. Refuser un routage preassemble pour un usage critique si les modeles, niveaux d'effort, permissions, limites et donnees persistantes ne sont pas observables ou reversibles.
 
 ## Historique des mises a jour
 
@@ -171,3 +189,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 - 2026-07-04 - Mise a jour - Sections 8, 12 - Source YouTube Parlons IA Claude Fable loop engineering, batch AOS GO partiel
 - 2026-08-09 - Mise a jour - Section 8 - Sources YouTube NetworkChuck et Meydeey, contexte multi-outils et supervision operationnelle, batch AOS GO partiel
 - 2026-08-16 - Mise a jour - Sections 3, 8, 12 - Source YouTube Samuel Gentilhomme, reversibilite et portabilite d'une infrastructure IA, batch AOS GO partiel
+- 2026-08-21 - Mise a jour - Sections 3, 5, 8, 12 et 13 - Source YouTube IA et Strategie, routage par roles, cout complet et limites des equipes preassemblees, batch AOS GO partiel

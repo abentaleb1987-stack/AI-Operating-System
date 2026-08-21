@@ -1,0 +1,749 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+GrokBot : une équipe d’IA à 200 $ vaut-elle vraiment le coup ?
+IA et Stratégie
+IA et Stratégie
+71,1 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+20 août 2026  #GrokBot #xAI #AgentsIA
+Le 11 août, xAI a lancé Grok Bot. À l'ouverture, chaque ligne de la barre latérale est un employé, avec un nom et un rôle qui continuent d'exister quand vous fermez l'application, et derrière l'équipe un vrai ordinateur partagé dans le cloud. Ces employés travaillent pendant que vous dormez, se coordonnent entre eux, et ne reviennent vers vous que pour faire signer une décision. Anthropic vend la sienne sous Claude Cowork, OpenAI sous ChatGPT Work, Microsoft sous Copilot Cowork. L'unité commerciale de l'IA glisse du modèle vers l'équipe.
+
+Pendant que tout le monde débat du prix, 200 dollars par mois, trois faits de l'été racontent autre chose. Cognition a mesuré qu'un binôme mené par le modèle le plus cher du marché revient à 1,86 $ la tâche, contre 2,04 $ avec un meneur deux fois moins cher au token. Stripe met plus de 7 milliards de dollars sur OpenRouter, un aiguillage entre plus de 400 modèles. Et chez Anthropic, une équipe a supprimé 80 % de ses instructions système à l'arrivée de la dernière génération de modèles, et le système s'est amélioré.
+
+Vous repartez avec les fiches de poste d'une équipe de modèles, les deux réglages de management qui deviennent invisibles quand vous achetez l'équipe toute faite, la docilité et l'effort, et les trois questions à poser avant de signer pour une équipe préassemblée.
+
+
+Pour rejoindre notre communauté :
+→ Patreon (pour aller plus loin + analyses exclusives + le discord de la communauté) :   / samouraidansant  
+→ Instagram (coulisses) :   / samourai_dansant  
+→ X : https://x.com/strategia_sam
+
+Pour celles et ceux qui veulent aller plus loin que la vidéo, un Discord communautaire francophone autour de quatre axes : stratégie, carrière, finance, technologie. Un public que je modère à la main, de l'entraide entre membres, et des conversations qui durent avec des évènements réguliers entre membres. Disponible dans vos avantages Patreon.
+
+
+SOURCES & DONNÉES PRIMAIRES
+
+Grok Bot (lancement, 11 août) :
+https://x.ai/news/introducing-grok-bot
+https://x.ai/bot
+
+Cognition — le binôme meneur/exécutant (13 juillet) :
+https://cognition.com/blog/making-fab...
+
+Stripe rachète OpenRouter (Bloomberg, TechCrunch) :
+https://www.bloomberg.com/news/articl...
+https://www.bloomberg.com/news/videos...
+https://techcrunch.com/2026/08/16/str...
+https://x.com/business/status/2089077...
+
+Les −80 % d'instructions système (Thariq, reposté par Boris Cherny) :
+https://x.com/trq212/status/208071097...
+https://x.com/bcherny/status/20807307...
+
+Les équipes préassemblées (billets officiels) :
+https://claude.com/product/cowork
+https://openai.com/index/introducing-...
+https://www.microsoft.com/en-us/micro...
+
+La sycophancie mesurée (9 → 18 % sous contestation) :
+https://arxiv.org/abs/2605.21778
+
+
+RESSOURCES MENTIONNÉES :
+→ La vidéo de décembre (devenir le chef d'orchestre de vos modèles) :    • Vidéo  
+→ La dernière vidéo (l'échelle de Cherny) :    • Vos agents travaillent seuls. Alors pourqu...  
+→ Le goulot de supervision :    • L'économie de l'attention est morte  
+
+
+#GrokBot #xAI #AgentsIA #OrchestrationIA #ClaudeCowork #ChatGPTWork #CopilotCowork #Cognition #Stripe #OpenRouter #Sycophancie #IntelligenceArtificielle #StrategieIA #AvenirDuTravail
+IA et Stratégie explore le basculement vers des systèmes agentiques où l'utilisateur devient le chef d'orchestre d'une équipe de modèles. Cette analyse détaille les mécanismes de recrutement, de délégation et les réglages de management essentiels pour optimiser ces nouvelles structures de travail et maîtriser les coûts opérationnels au-delà du simple choix technologique.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+IA et Stratégie
+71,1 k abonnés
+Vidéos
+À propos
+
+Patreon
+
+Instagram
+vidéos et analyses stratégiques sur l'IA
+vidéos et analyses stratégiques sur l'IA
+Nous rejoindre
+true
+IA et Stratégie
+71,1 k abonnés
+IA et Stratégie | Sam
+IA et Stratégie | Sam
+Votre coup d'avance
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@aldo0132
+il y a 1 heure
+Le Nietzsche de L'IA.👍
+
+3
+
+
+Répondre
+
+
+@pascalr.1373
+il y a 29 minutes
+Super travail ! Bravo !
+
+
+
+Répondre
+
+
+@adrien5986
+il y a 36 minutes
+T’es incroyable mec
+
+
+
+Répondre
+
+
+@Azélie-Santé
+il y a 1 heure
+
+
+
+Répondre
+
+
+@ChristopheLACROIX-u1x
+il y a 4 minutes (modifié)
+Super boulot, Bonne synthèse, mais le système que tu décris a un an de retard sur le terrain. Gros modèle à l’arbitrage, petits à l’exécution, réglage d’effort par poste, recrutement sur les vraies tâches plutôt que les benchmarks : tout ça tourne chez moi en prod depuis un an, une pme. Ce n’est plus le basculement de cet été, c’est déjà installé.
+Du coup la question intéressante est un cran plus loin. Avec un an de recul, ce qui fait vraiment l’écart c’est les données qu’on accumule dans le système (chez moi 2 ans d’historique structuré) et surtout les outils pour maintenir cette mémoire à jour : ranger, purger, propager les décisions, sinon elle pourrit en 3 mois et les agents travaillent sur du faux. Plus la capacité à encore juger ce qui sort. L’orchestration devient un produit de rayon, ça tu l’as vu. Le patrimoine data entretenu et le jugement, eux, ne s’achètent pas.
+Curieux de ta vision : entre deux boîtes équipées du même orchestre, qu’est-ce qui départage ?
+
+
+
+Répondre
+
+
+@korosife
+il y a 2 heures
+First 
+
+2
+
+
+Répondre
+
+
+@BalthasarARTABAN
+il y a 1 heure
+Donc les employés doivent être vu comme une application....
+
+
+
+Répondre
+
+
+1 réponse
+
+@MrActiBif
+il y a 1 heure
+L'extrait de la fin - pouvez vous me dire d'ou vient il?
+
+
+
+Répondre
+
+
+2 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeLe 11 août dernier, une application conçue comme  une véritable petite entreprise a vu le jour.   À l'ouverture de Grockbot, chaque ligne de  la barre latérale correspond à un employé.  
+0:1010 secondesChacun possède un nom et un rôle qui perdure  même après la fermeture de l'application. Mais   derrière cette équipe se cache une véritable  machine partagée, localisée dans le cloud,  
+0:1919 secondesdoté de son propre navigateur, de ses propres  fichiers et surtout de son propre terminal.   Tous ces employés travaillent pendant que vous  dormez, se coordonne via des coordinations de  
+0:2929 secondesgroupes et ne vous sollicite que pour valider une  décision. Et c'est là qu'on se rend compte que XI  
+0:3434 secondesne vend plus un simple modèle, mais vend désormais  une équipe d'agents capable de travailler comme  
+0:4040 secondesune petite entreprise et l'entreprise n'est pas la  seule sur ce créneau. Le produit Cloud Cowork dans  
+0:4545 secondesTropic propose la même expérience. Open AI avec  Chat GPT Work et Microsoft avec copilote Cowork  
+0:5252 secondesfont également de même. Autrement dit, on est en  train d'assister à un basculement et l'unité de   valeur de l'IA à l'air des systèmes agentiques  est en pleine mutation. On glise de plus en plus  
+1:021 minute et 2 secondesde l'air du modèle simple et unifié vers une  petite équipe d'agents capable de vous assister   dans votre travail. Et il est là le pivot. Pendant  que tout le monde débat encore du prix 200 dollars  
+1:121 minute et 12 secondespar mois. Quand on sait qu'aujourd'hui la dépense  médiane est autour de 11 dollars par mois et par   employé. Bien moi, j'ai repensé à ce que je vous  disais ici même depuis décembre. Pour rappel,  
+1:221 minute et 22 secondesj'allais prédit que vous alliez très vite devenir  le chef d'orchestre de vos propre modèle et que   dans 6 mois, savoir orchestrer plusieurs IAS ne  serait plus un avantage. Ce serait le minimum  
+1:311 minute et 31 secondespour être encore à jour. Et bien, nous y sommes  avec de moins de retard sur mon calendrier et   tous les acteurs majeurs de l'industrie sont en  train de nous livrer cet orchestre en kit. Sauf  
+1:411 minute et 41 secondesil manque quelque chose dans le carton et ce  quelque chose c'est le manuel du recrutement.   Et c'est exactement ce qu'on va décrire ensemble  aujourd'hui. Voilà donc notre programme. Nous  
+1:501 minute et 50 secondesallons d'abord regarder les trois faits de cet  été qui déplacent la question de quel est le   meilleur modèle parce qu'en réalité ce n'est plus  une question pertinente. Ensuite je vous donne les  
+1:581 minute et 58 secondesfiches de poste d'une équipe typique de modèles,  celle que le professionnels utilisent réellement   aujourd'hui et surtout les deux réglages de  management qui deviennent invisibles. Dès  
+2:082 minutes et 8 secondesl'instant vous achèterez une équipe toute faite.  Et pour finir, je retournerai la table parce que   ces équipes préassemblées cachent en réalité un  certain verreau qu'il va aussi falloir regarder en  
+2:162 minutes et 16 secondesface. Honnêtement, je vous conseille pas d'acheter  ici. Le premier fait nous vient de Cognition, une   société qui est derrière l'agent des vines. Le 13  juillet, ils ont oublié une mesure qui honnêtement  
+2:272 minutes et 27 secondesdevrait être affichée dans tous les services  d'achat. Leur système fait travailler deux   modèles en binôme. Vous avez d'un côté un meneur  de classe frontière qui garde le plan, qui tranche  
+2:362 minutes et 36 secondesles ambiguïtés et qui relie le résultat final.  et de l'autre un second agent dont le moteur en  
+2:422 minutes et 42 secondesson sein est un modèle bon marché qui a les bases  besognes et qui s'occupe des tâches plus ingrate   et qui sont des tâches de l'ordre de l'exécution  de travail cognitif tel que rédiger un mail ou  
+2:522 minutes et 52 secondesrédiger un morceau de code. Ils ont ensuite  comparé deux meneurs différents sur exactement   les mêmes tâches et je vous donne les chiffres  parce qu'ils sont contreintuitifs. Avec le modèle  
+3:013 minutes et 1 secondele plus cher du marché à la tête du binô, la  tâche revient à 1,ll86. Avec un meneur de la  
+3:073 minutes et 7 secondesgénération précédente qui coûte pourtant deux fois  moins cher au token, elle grimpe à 2,04. Prenez le  
+3:133 minutes et 13 secondestemps de bien digérer ce résultat parce que c'est  le genre de résultat qui casse un réflexe d'achat.   Le modèle deux fois plus cher vous coûte moins  cher à l'arrivée. Et là où ça devient intéressant,  
+3:233 minutes et 23 secondesc'est que Cognition a publié le mécanisme. Pas  seulement le score. Le meilleur meneur a bouclé  
+3:293 minutes et 29 secondesla même tâche en 11 tours et demi, là où le second  en prend 26 et demi. Et dans 81 % de ses passages,  
+3:363 minutes et 36 secondesil ne touche pas au code lui-même, il fait faire  contre un/art des passages chez son prédécesseur.  
+3:423 minutes et 42 secondesAutrement dit, exactement comme chez les humains,  un bon meneur, un bon agent qui est capable de   mener une bouclage antique longue et rigoureuse  délègue beaucoup mieux littéralement et garde  
+3:513 minutes et 51 secondespour lui des décisions difficiles. Il sait quand  il faut confier le reste à un second alors que le  
+3:573 minutes et 57 secondesmenur moyen refait tout par lui-même au tarif le  plus fort et dépasse souvent son budget initial.  
+4:034 minutes et 3 secondesde réserve d'honnêteté au passage. Ces mesures  viennent de Cognition elles-même qui vend un   produit évidemment et leurs propres billets  montrent aussi un cas où délégué trop loin  
+4:114 minutes et 11 secondesjusqu'au jugement a fait chuter le score final  parce que la délégation paye sur l'exécution   mais pas encore sur l'arbitrage, en tout cas pas  sur la génération de modèles qu'ils ont testé.  
+4:204 minutes et 20 secondesreste que la conclusion. Tiens, votre facture ne  dépend plus du prix du cerveau que vous louez.   Elle dépend aussi surtout de ce que ce cerveau  décide de ne pas faire lui-même et comment  
+4:314 minutes et 31 secondesil délègue à des sous-agents. Et ça, c'est une  décision de patron d'équipe, de manager d'agent,   pas une éture de fiche produit. Et cette  réalité vaut aussi pour nous de l'autre  
+4:404 minutes et 40 secondescôté de l'écran. Parce que si les modèles de cet  été absorbent de plus en plus l'orchestration,   alors la question n'est plus combien d'agents  est-ce que vous pilotez mais ce que vous  
+4:484 minutes et 48 secondeschoisissez de garder pour vous. On a commencé en  gardant l'action autant du chatbot qui suggérait   pendant qu'on tapait sur un autre écran. Puis on  est passé à une ère où on a gardé la tâche en la  
+4:584 minutes et 58 secondesconfiant à un agent et en vérifiant le résultat.  Puis ensuite le processus en réglant qui fait quoi   entre plusieurs agents sur un workflow antique.  Et maintenant que même ça descend d'un cran,  
+5:085 minutes et 8 secondesce qui nous reste à nous, c'est l'arbitrage qui  monte d'un cran encore. Des critères de réussite,   des décisions qu'on ne reprend pas et aussi le  droit de dire non. Et certes, on retombe sur  
+5:185 minutes et 18 secondesl'échelle de Cherni dont je vous parlais lundi  dernier et ce n'est pas une échelle en nombre   d'agent, en tout cas pas uniquement le nombre  d'agents que vous allez être capable d'invoquer  
+5:255 minutes et 25 secondessur une seule tâche. C'est une échelle de ce qui  ne se délègue pas. Et à chaque barreau, ce qui   remonte vers vous est plus dur et surtout moins  visible et moins intuitif. Un manager d'exécut  
+5:355 minutes et 35 secondesvoit si le travail est fait, mais un manager de  manager ne voit que des synthèses et son vrai   métier devient de savoir encore juger le produit  final. Or, si vous ne le savez plus le faire,  
+5:455 minutes et 45 secondesvous n'êtes pas simplement monté d'un niveau,  vous avez juste lâcher les commandes. Alors,   la bonne façon de mesurer où vous en êtes, ce  n'est pas de compter ce que vous avez arrêté  
+5:535 minutes et 53 secondesde faire, c'est de regarder et de déplacer ce  que vous devez apprendre à juger à la place.   Maintenant, passons au deuxième grand  fait de cet été. Et pour celui-là,  
+6:026 minutes et 2 secondesje vous demande de suivre l'argent. Ce weekend, la  presse financière a révéler que Stripe met la main   sur Open Router. Open Router pour situer, c'est  l'aiguillage qui réparti les requêtes de millions  
+6:126 minutes et 12 secondesde développeurs aujourd'hui dans le monde entre  plus de 400 modèles. Le prix, plus de 7 milliards   de dollars d'après Bloomberg, soit cinq fois sa  valorisation d'il y a à peine 3 mois. Quand un  
+6:226 minutes et 22 secondesgéant du paiement mondial met le prix d'une banque  sur un simple outil d'aiguillage entre modèles, le   message est plutôt limpide. La couche qui décide  quel modèle fait quoi est en train de devenir un  
+6:326 minutes et 32 secondespH du secteur. On en reparlera samedi prochain  dans une vidéo dédiée sur Patreéon. N'hésitez pas  
+6:386 minutes et 38 secondesà nous rejoindre si ce sujet hautement stratégique  vous intéresse. Enfin troisème fait et c'est   peut-être le plus dérangeant pour nos habitudes de  travail. Boris Cherny, le créateur de Claude Code  
+6:476 minutes et 47 secondesdont je vous présentais l'échelle dans ma dernière  vidéo, raconte que son équipe a supprimé 80 % des   instructions système à l'arrivée de sa dernière  génération de modèles. Vous m'avez bien entendu,  
+6:576 minutes et 57 secondesils ont retiré jusqu'à 80 % de leurs consignes  dans leur arnet, skills ou sous-agent et leur  
+7:037 minutes et 3 secondessystème s'est amélioré. Il en a même fait un  geste d'entretien régulier et tous les 6 mois,   vous allez retirer vous-même les chafaudages  que vous aurez accumulé autour de vos modèles  
+7:127 minutes et 12 secondespour regarder ce qui tient debout tout seul.  Maintenant, poser ces trois faits côte à côte,   est-ce que ça veut dire que la question du  meilleur modèle ne vaut plus rien ? Non, je pense  
+7:207 minutes et 20 secondesqu'elle est toujours d'actualité. Je vais vous le  montrer dans une minute pour quel poste elle reste   décisive, mais elle a changé d'unité. Je vous l'ai  dit ici même. Un modèle comme Fable est déjà en  
+7:307 minutes et 30 secondesinterne un orchestrateur de sous-modèle. Et Claude  Code, le harnet dont on a parlé sur cette chaîne,   c'est désormais même envoyé des messages à  d'autres agents dans d'autres sessions sur votre  
+7:407 minutes et 40 secondesmachine directement afin de les piloter. Petit  à petit, force de constater que l'équipe n'est  
+7:467 minutes et 46 secondespas un gadget d'application, mais c'est la forme  qui est en train de prendre le travail agentique   à tous les étages. Ce qui décide du résultat et  de la facture, c'est la façon dont vous allez  
+7:567 minutes et 56 secondesdistribuer les postes dans ces équipes d'agent.  Alors, je précise tout de suite, ce modèle n'est   pas de moi. Les ingénieurs le connaissent depuis  des années. Sous le nom du modèle d'orchestrateur  
+8:068 minutes et 6 secondesexécutant, il vient de l'informatique distribuée.  Ce qui manque partout, en revanche, c'est tout ce  
+8:118 minutes et 11 secondesqui en fait un outil de management. Qui on recrute  ? Sur quel critère et avec quel réglage ? C'est la  
+8:178 minutes et 17 secondesquestion qu'on va aborder maintenant. La structure  de base, je l'ai écrite noir sur blanc pour mes   propres systèmes et elle tient souvent en une  phrase. Le plus gros modèle écrit la partition,  
+8:278 minutes et 27 secondesles petits modèle exécute. Concrètement,  l'orchestrateur tient l'arpe du chantier,  
+8:328 minutes et 32 secondesdécoupe, il assigne chaque morceau, il tranche  quand la consigne est ambigue et surtout il relie  
+8:388 minutes et 38 secondesce qui monte à lui. Notez bien ceci, c'est pour  ce poste-là que le classement des modèles garde   tout son poids parce qu'un mauvais modèle de  partition ne se rattrape pas avec de meilleurs  
+8:478 minutes et 47 secondesexécutants. En revanche, sur la couche des modèles  exécutant, tant qu'on remplit l'objectif avec un  
+8:538 minutes et 53 secondestaux de réussite régulier, chacun a son couloir.  Ne choisissez donc pas des modèles trop faibles  
+8:598 minutes et 59 secondescomme qui n'a plus aucun sens et n'hésitez pas non  plus à monter jusqu'à des modèles chinois qui sont  
+9:049 minutes et 4 secondesde la classe opus. Onci au nouveau modèle de chez  Quen dont on parlera très bientôt sur la chaîne   parce qu' change beaucoup de choses d'un point  de vue stratégique et surtout ce qui développent  
+9:139 minutes et 13 secondesaujourd'hui des produits notamment dans les  secteurs de la cybersécurité et de l'inférence   locale. Mais pour faire simple la grande  différence entre le musicien et le fantassin.  
+9:239 minutes et 23 secondesLe musicien joue l'impartition, le fantassin  remplissant l'objectif. Et vous, vous avez   besoin des deux. Mais ne vous trompez pas, jamais  au même poste. Maintenant qu'on a bien compris ça,  
+9:339 minutes et 33 secondespassons au recrutement. Et là, je vais vous parler  depuis mon propre atelier. J'ai plusieurs chaînes   de production, mais pour faire simple, elle tourne  exactement sur un principe en trois familles de  
+9:429 minutes et 42 secondesmodèles qui n'ont pas signé le même contrat. Un  modèle frontière tient la partition et le contrôle  
+9:479 minutes et 47 secondesqualité. Un exécuteur doit implémenter vite et  sans état d'âme. Enfin, la troisème famille couvre  
+9:539 minutes et 53 secondesdes tâches où le goût graphique en particulier  et la lecture des images doivent être optimales.   Ce qu'il faut bien comprendre ici, c'est qu'aucun  des trois n'a été recruté sur un benchmark public.  
+10:0310 minutes et 3 secondesChacun a dû passer un essai sur mes propres  tâches avec mes critères sur la table, le coût,   la vitesse, le goût et ce qu'il comprend vraiment  de ce qu'il est en train de regarder. Alors,  
+10:1210 minutes et 12 secondespourquoi est-ce que je passe tant de temps à  faire cette insistance sur l'essai maison ? Bien,   parce que de plus en plus, et j'en ai déjà  parlé, les classements publics mesurent des  
+10:1910 minutes et 19 secondesépreuves standardisées alors que votre travail  lui est pas une tâche. Un modèle brillant en   classement peut-être médiocre sur vos rapports  à vous, votre code à vous, vos maquettes à vous.  
+10:3010 minutes et 30 secondesAu fond, le recrutement d'un modèle se fait  exactement comme celui d'un artisan. Vous ne   lisez pas son diplôme, vous lui confiez une vraie  tâche, un véritable processus de recrutement et  
+10:3910 minutes et 39 secondesvous regardez quels sont les résultats et surtout  quel est l'alignement et la satisfaction que vous   obtiendrez à l'issue de ce banc d'essai. Si vous  avez des questions sur l'établissement de ce band  
+10:4810 minutes et 48 secondesd'essai, une vidéo dédiée et d'ailleurs publiée  sur le Patreon, elle vous apprendra à faire à   partir de vos propres tâches, votre propre band  d'essai, ce qui vous permettra de développer de  
+10:5710 minutes et 57 secondesvéritables compétences pour créer de meilleurs  systèmes à l'avenir. Justement, parmi les   réglages qu'il vous faut regarder, le premier  dont j'aimerais vous parler dans cette vidéo,  
+11:0511 minutes et 5 secondesc'est ce que j'appelle la docilité. Et pour le  comprendre, c'est très simple. Faites l'expérience   chez vous. Prenez votre modèle le plus obéissant,  celui qui exécute vos consignes au millimètres.  
+11:1511 minutes et 15 secondesChez moi, ça correspond au dernier modèle de  chez Open AI. Vous placerez ce modèle dans   son harné et à l'exécution, cet employé  parfait, gardez-le précieusement. Mais  
+11:2311 minutes et 23 secondesmettez-le maintenant au poste de conseiller  et demandez-lui si votre stratégie ou votre   architecture tient la route. Regardez-le, vous  tenz raison. Systématiquement, chaleureusement  
+11:3211 minutes et 32 secondeset avec les meilleurs arrivements du monde. Ce  comportement, la recherche lui a donné un nom,  
+11:3811 minutes et 38 secondesla psychophanie. et elle vient de le mesurer d'une  façon qui est extrêmement intéressante. Une étude  
+11:4311 minutes et 43 secondesacadémique publiée plus tôt cette année montre  que lorsque l'utilisateur conteste la réponse,  
+11:4911 minutes et 49 secondesla flatterie du modèle ne diminue pas, elle  double. On passe de 9 à 18 %. Autrement dit,  
+11:5511 minutes et 55 secondesplus vous discutez avec un modèle docile, plus  il pillera. J'en tire une règle personnelle de   recrutement de modèles agentiques que j'applique  depuis des semaines. Je l'applique parce que je me  
+12:0512 minutes et 5 secondessuis fait avoir moi-même. Il m'a fallu moi-même  retirer un excellent modèle au poste de conseil   précisément parce qu'il était d'accord avec tout  ce que j'avais à dire. Donc qui recrutait à ce  
+12:1512 minutes et 15 secondesposte de conseil ? Et bien le modèle qui est  capable de vous contredire. Chez moi, cet agent   est alimenté par le modèle cloud classe fable.  C'est chez moi l'agent qui va me contredire.  
+12:2612 minutes et 26 secondesCelui dont l' vie et l'opinion me coûte quelque  chose à entendre. Et à l'inverse, à l'exécution,   il vous faudra celui qui obéit sans discuter.  Chez moi, cela passe par des agents qui ont  
+12:3512 minutes et 35 secondespour moteur des modèles de chez Open AI dans  leur arné codex. Aujourd'hui, le drame des   équipes agentiques mal montés dans des systèmes  bancals, c'est souvent l'averse. Vous avez un  
+12:4512 minutes et 45 secondescontradicteur à l'exécution qui va réinterpréter  vos ordres pour un oui ou pour un non et vous avez   un conseil être docile. J'aimerais reformuler  la docilité pour ce qu'elle est vraiment ici.  
+12:5412 minutes et 54 secondesC'est comme ça que l'on s'imprègne de ces idées  parce que ce n'est pas qu'entré de caractère,   c'est une règle de gouvernance. Tous ces produits  d'équipe tels que Grockbot, Cloud Cowork,  
+13:0413 minutes et 4 secondesChat GPT Work ou Microsoft Copilot Cowork vous  promettent des employés qui finissent le travail   de bout en bout et qui ne reviennent vers vous que  quand quelque chose mérite votre signature. Toute  
+13:1413 minutes et 14 secondesla question tient dans ce qui définit ce quelque  chose. Si c'est le vendeur ou le modèle lui-même   au fil de l'exécution, alors cette tocilité de  vos exécutants est réglée à votre place. Mais  
+13:2413 minutes et 24 secondesle jour où le modèle trop obéissant exécutera la  mauvaise partition, les dégâts seront pour vous.  
+13:3113 minutes et 31 secondesEnsuite, le second étage, c'est l'effort et  le réflexe naturel. Et je l'ai eu moi-même   comme tout le monde qui consiste à pousser  le modèle sur des efforts de réflexion à  
+13:4013 minutes et 40 secondesfond. Puisqu'il est vrai, nous avons tendance  à imaginer que davantage de réflexion semblent   toujours meilleur. Sauf que de plus en plus,  on voit l'inverse se passer devant nos yeux.  
+13:4913 minutes et 49 secondesLorsque vous pousserez l'effort de réflexion d'un  modèle exécutant au maximum, un phénomène que l'on   appelle oversinking va se produire et ce modèle  même va se mettre à surréfléchir votre consigne.  
+13:5913 minutes et 59 secondesIl la trouvera peut-être améliorable, alors il va  l'améliorer et vous livrera peut-être autre chose   que ce que vous avez vraiment commandé. simplement  aussi par manque de conscience sur l'ensemble du  
+14:0914 minutes et 9 secondesprojet que vous êtes en train de livrer. Les  premières études qui sont en train de sortir   aujourd'hui sur ce phénomène mesure d'ailleurs  qu'au-delà d'un certain seuil, le raisonnement  
+14:1714 minutes et 17 secondessupplémentaire n'améliore plus le résultat et  le fait dériver. D'où la règle du poste effort  
+14:2314 minutes et 23 secondesmaximal pour la stratégie et l'arbitrage effort  contenu pour l'exécution. Ce curseur n'est pas une  
+14:2914 minutes et 29 secondeséchelle de gamme où le haut vaudrait mieux que  le bas. Faites un réglage par poste exactement   comme on ne demande pas la même chose et le même  travail à un architecte ou un maçon. Je vous dois  
+14:3914 minutes et 39 secondesmaintenant l'envers du décorf parce que monter une  équipe ce n'est pas gratuit. Chaque poste que vous   ajoutez est une frontière de plus à surveiller  et le premier risque que je vois porte un nom.  
+14:5014 minutes et 50 secondesC'est ce qui s'appelle le débit. Je vous avais  raconté l'anecdote il y a quelques semaines.   J'avais lancé un modèle sur une tâche agentique  qui avait lancé 130 agents en une seule passe donc  
+15:0015 minutespour les plus noves en un seul prompt. Et résultat  qui s'est très vite manifesté, c'est que tout en   abonnement mensuel a fondu en moins d'une heure.  Et voilà l'information importante. Vous savez ce  
+15:0915 minutes et 9 secondesqui n'existe pas avec ces équipes agentiques ?  Le droit du travail. Aucun membre ne fatigue,  
+15:1415 minutes et 14 secondesaucun ne demande d'augmentation et surtout aucun  ne s'arrête tant que vous ne l'arrêtez pas. Donc  
+15:2015 minutes et 20 secondesavant d'agrandir votre équipe, commencez par poser  un budget par poste et surtout un disjoncteur. Et   posez-en même un second parce que le débit  de travail n'est plus votre seule frontière.  
+15:3015 minutes et 30 secondesCes équipes partagent en général un seul  ordinateur avec vos sessions, vos accès,   si bien que chaque poste ajouté est aussi une  porte de plus. Il vous faudra un disjoncteur sur  
+15:4015 minutes et 40 secondesles tokens mais aussi un sur les accès. Si votre  volume mensuel de travaillage antique tient en   une seule famille de tâche, je vous le dis sans  détour, passer par un modèle unique, instrumenté  
+15:5115 minutes et 51 secondeset assumé. Pour cet ordre de grandeur qui concerne  en réalité la majorité du marché aujourd'hui,   pour l'instant, cela reste le choix parfaitement  défendable. Tous ces réglages, ces gardes fou,  
+16:0016 minutesvous n trouverez sur aucune fiche produite. Ils  viennent du terrain et c'est le travail qu'on   fait ici. Et vous l'aurez remarqué, chaque vidéo  portant la suivante et ce depuis décembre dernier.  
+16:1016 minutes et 10 secondesVous pouvez continuer à collectionner les astuces  au fil de ce que l'algorithme décidera de vous  
+16:1616 minutes et 16 secondesombrer ou bien choisissez de suivre ce fil d'une  vidéo à l'autre. L'abonnement, c'est ce deuxième  
+16:2116 minutes et 21 secondesgeste. Il reste à lire pourquoi on s'inflige tout  ça ? Et la réponse tient dans un seul concept que   les habitués de la chaîne connaissent très  bien maintenant. Le goulot de supervision.  
+16:3116 minutes et 31 secondesVotre attention est la ressource la plus rare du  système, la seule qui ne s'achète pas au token.   Et l'orchestrateur au fond, c'est l'employé dont  la fiche de poste consiste justement à protéger ce  
+16:4116 minutes et 41 secondesgoulot en ne faisant remonter jusqu'à vous que les  décisions qui méritent vos yeux. Une équipe bien   montée ne vous fait pas travailler plus. Elle  rationne votre jugement aux endroits où il est  
+16:5216 minutes et 52 secondesirremplaçable. Et maintenant, revenons à Grockbot,  les autopilotes que Microsoft glisse dans son   nouveau produit copilote ou bien n'importe quel  mode auto de votre outil préféré. Toutes ces  
+17:0217 minutes et 2 secondesoffres vous vendent la même équipe préassemblée.  Et moi-même, je viens de voir ce que ça donne chez   quelqu'un qui n'est pas ingénieur en hier. Il m'a  décrit son installation avec un grand sourire.  
+17:1117 minutes et 11 secondesIl ne choisit plus le modèle, il ne choisit plus  l'effort et c'est précisément ce qu'il adore avec   Grobot, une voiture avec une boîte automatique.  Et je vaisêtre honnête avec vous, je le comprends.  
+17:2017 minutes et 20 secondesL'autorisation en un clic, la machine toujours  allumée, aucune installation ni réglage prérequis.   Pour tous ceux qui ne montront jamais un bon décès  par eux-mêmes, la boîte auto, c'est le bon choix  
+17:3017 minutes et 30 secondeset ces produits sont faits pour eux. Mais ce que  je vous dois, c'est le prix de la contrepartie.   Regardez ce que le paquet retire. Le choix du  modèle à chaque poste et le choix de l'effort.  
+17:4017 minutes et 40 secondesCommencez à voir le motif. Aujourd'hui, ce routage  invisible optimise le confort certes, mais le jour   où les marges de fournisseur se tendront, il ne  faudra pas être naïf. Il optimisera ses marges  
+17:5017 minutes et 50 secondesà lui et rien ne changera à l'écran. D'autant  qu'un vendeur intégré ne fait pas que de router   dans l'ombre, il a un billet de structure. Il n'a  aucun intérêt à router hors de ses propres modèle  
+18:0118 minutes et 1 secondeet de ses propres cas qui le rentrent jusqu'à la  facture. D'ailleurs, dépassez votre allocation et   vous verrez que le dépassement se paye au tarif  d'un modèle que vous n'aurez jamais choisi. Selon  
+18:1118 minutes et 11 secondeslà, vous ne verrez peut-être pas la différence,  mais vous la payerez. Alors, avant de signer   pour une équipe préassemblée, posez toujours  les mêmes questions. Qui a choisi le modèle à  
+18:1918 minutes et 19 secondeschaque poste ? Vous ou votre fournisseur ? et le  curseur des forts. Est-il visible et modifiable ou  
+18:2618 minutes et 26 secondesbien l'enterrer dans des dark patterns sous un  bouton automatique ? Et enfin, est-ce que vous   pouvez remplacer un seul membre de votre équipe ou  modifier son architecture sans avoir ajouté toute  
+18:3518 minutes et 35 secondesl'équipe ? Chez un nom d'ingénieur, les réponses à  ces questions sont dangereuses. Et pour reprendre   l'anecdote personnelle, cette personne dont  je vous parlais un petit peu plus tôt, c'était  
+18:4418 minutes et 44 secondesmonté un propre chef de cabinet, un chief of staff  comme on dit en anglais, soit un bot coordinateur   qui délègue à des spécialistes le travail qu'il  ne veut pas faire lui-même. C'est au mon prêt,  
+18:5418 minutes et 54 secondesl'orchestrateur que je vous ai présenté dans cette  vidéo. Sauf que lui-même n'a choisi ni le modèle   du chef ni celui des exécutants. Tout tournera  sur le modèle de la maison par construction.  
+19:0419 minutes et 4 secondesEnfin, comme dans tous les produits, il reste  la question de la captivité que personne ne   regarde droit dans les yeux et qui est pourtant  la plus profonde. Tous ces produits apprennent par  
+19:1319 minutes et 13 secondesdémonstration. Vous montrez le geste une fois,  l'agent enregistre et la consigne devient une   routine apprise. Votre Bible de consigne disparaît  donc pas, mais elle migre vers un format que vous  
+19:2219 minutes et 22 secondesne pouvez ni relire, ni auditer, ni emporter chez  un concurrent. Toute votre mémoire, qu'elle soit  
+19:2819 minutes et 28 secondespersonnelle, professionnelle ou même celle de  votre organisation s'accumule dans un produit   qui ne vous appartient pas, qui est loué et qui  ne ressort plus. Ajouter enfin la question de  
+19:3919 minutes et 39 secondesl'identité. Tous ces agents travaillent connectés  comme vous avec vos sessions et pour les systèmes   d'en face avec lesquels ils vont interagir.  Tous les journaux diront une seule chose, c'est  
+19:4819 minutes et 48 secondesvous qui agissez. Et cela, cela peut poser des  questions légales qu'on a déjà abordé la semaine   dernière. identité, la permission et le compteur.  Dans ce tripticque, le modèle est presque détail.  
+19:5819 minutes et 58 secondesEt voilà pourquoi je termine là où j'ai commencé.  En décembre, savoir orchestrer plusieurs modèles   était le véritable coup d'avance. Je vous ai  donné 6 mois, mais en août, c'est aujourd'hui un  
+20:0820 minutes et 8 secondesproduit comme les autres. Ce qui reste au-dessus  de ce produit de rayon, et pour un moment encore,   c'est tout ce qu'on a fait ensemble aujourd'hui.  Comment recruter des agents ? Comment définir leur  
+20:1720 minutes et 17 secondesfiche de poste, quel est les niveaux de docilité  et d'effort aux doit s'attendre ? Bien sûr,   cette lecture aura sa dette péremption et je  vais tenter de vous la donner aujourd'hui. Le  
+20:2620 minutes et 26 secondesjour où une génération de modèles tiendra tous les  postes à la fois, la contradiction sur commande,   l'effort autorégulé, la mémoire qui tient sur  plus de 90 jours, alors cette équipe se repliera  
+20:3520 minutes et 35 secondesdans un seul cerveau. Cette vidéo aura alors  d'écrire une parenthèse et je serai le premier   à venir vous le dire ici. Et soyons lucides. Sur  la mémoire, les employés persistants de Grockbot  
+20:4520 minutes et 45 secondesposent déjà une première brique. C'est exactement  pour ça que je date serré. Je pose l'efférence.  
+20:5120 minutes et 51 secondesfin 2027. Et si vous voulez passer du principe  à l'installation, c'est exactement ce qu'on   va faire sur Patreon. Le parcours le chef  d'orchestre est conçu pour vous prendre par la  
+21:0121 minutes et 1 secondemain pour monter votre première équipe. Chaque  semaine, on se retrouve sur les Discord pour   décortiquer l'actualité ensemble pour comprendre  ce qu'elle change concrètement dans nos métiers.  
+21:1021 minutes et 10 secondesVous y trouverez des dossiers de recherche,  des vidéos exclusives sur ce que je ne peux   pas publier ici et surtout aussi sur mes travaux  en cours. Ce que je teste, ce que je lis, ce que  
+21:1821 minutes et 18 secondesje n'ai pas encore tranché et puis aussi bien sûr  une communauté de gens déjà engagés qui avancent,   des décideurs, des exécutants, des freelances,  des gens qui comprennent le monde de lien et qui  
+21:2721 minutes et 27 secondess'y engagent activement et pas mal d'entre eux  qui sont en train de devenir le référent de leur   boîte, celui vers qui on se tourne quand il faut  décider. Si vous vous reconnaissez dans l'un de  
+21:3621 minutes et 36 secondesces profils ou si vous voulez y arriver, c'est  là-bas que ça se passe. Tous les liens sont en   description. D'ici là, je vous laisse avec  une question et prenez-la au sérieux parce  
+21:4521 minutes et 45 secondesqu'elle décide potentiellement de votre facture  autant que de vos résultats dans votre travail  
+21:4921 minutes et 49 secondesen ce moment. Qui tient la partition ? Vous ou le  réglage par défaut d'un fournisseur ? J'attends  
+21:5621 minutes et 56 secondesvos réponses honnêtes en description. Merci pour  votre attention et on se retrouve de l'autre côté.  
+22:0122 minutes et 1 secondeIl faut savoir que les ordinateurs ont remplacé  les employés et les machines les ouvriers. Et là,  
+22:0722 minutes et 7 secondesje barre la route, c'est le cas de qui dit  barrage du pH. Et je pense que moi avec  
+22:1522 minutes et 15 secondesmes barrières automatiques, c'est fini. Les  grossesses, les congés payés, les 13e mois,  
+22:2022 minutes et 20 secondesles certificats médicaux et les gens qui rentrent  chez eux. Vous comprenez ? J'ai moins. C'est une   fois par an entretien et puis c'est terminé.  Et j'ai un outil économique qui est cohérent  
+22:2922 minutes et 29 secondeset qui fonctionne perturbant. On vous sent euh  Oui. perturbé. Oui. Dire que les salariés c'est   que définiant, c'est ce qu'il vient de dire.  Les salariés c'est souffleur de ma part et j'en  
+22:3722 minutes et 37 secondesvois tous les jours des gens qui souffrent  c'est des êtres humains. Une barrière c'est   loin d'être un être humain. Moi je souffre pas.  Non mais j'ai jamais dit que vous étiez un être  
+22:4622 minutes et 46 secondeshumain. Souffre pas. J'ai jamais dit que vous  étiez un être humain. On est bien d'accord.
+22:5422 minutes et 54 secondesOh.
+
+Tout
+
+Source : IA et Stratégie
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+29:22
+Le KIMCHI va se FAIRE DÉTRÔNER…
+LeMondeDeChoi
+ et Choi TCG
+2,7 k
+il y a 1 h
+Nouveau
+
+
+17:42
+Pourquoi j'ai arrêté de faire ces 7 exercices (et ce que je fais à la place)
+Nassim Sahili
+149 k
+il y a 2 m.
+
+
+21:01
+La meilleure IA de 2026 n'est pas celle que tu utilises (Tier List)
+HeraHub
+19
+il y a 1 h
+Nouveau
+
+
+28:56
+Je ne lance plus Claude Code comme tout le monde
+Meydeey | Automatisation IA
+649
+il y a 4 h
+Nouveau
+
+
+1:02:03
+De 150kg à 80kg : Son incroyable transformation !!
+Tibo InShape
+342 k
+il y a 11 m.
+
+
+28:18
+J’ai changé ma DIÈTE (+6000 kcal)
+Théo Leguerrier
+2,6 k
+il y a 1 h
+Nouveau
+
+
+23:30
+Je trade avec 50€ pour prouver que c'est pas de la chance
+Kasper
+25 k
+il y a 1 m.
+Doublée automatiquement
+
+
+13:01
+ATTENTION : 1 million de contexte est LA PIRE chose que tu puisses faire
+Melvynx
+268
+il y a 1 h
+Nouveau
+
+
+30:03
+Le coup à jouer avant que votre fournisseur IA ne vous enferme
+IA et Stratégie
+21 k
+il y a 1 m.
+
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+412 k
+il y a 1 m.
+
+
+25:25
+Trump voulait bloquer la Chine… elle a créé sa propre carte graphique
+FrenchHardware
+274 k
+il y a 1 m.
+
+
+4:16:30
+Comment Commencer le Trading en Étant Débutant en 2026 (4 heures)
+Kasper
+364 k
+il y a 9 m.
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+994 k
+il y a 11 m.
+
+
+29:54
+Comment j'ai créé une appli redoutable pour la conception de prompts image et cinéma avec HORIZONS !
+Barthélémy Nobili
+104
+il y a 1 h
+Nouveau
+
+
+33:32
+J'ai laissé 3 IA recréer Genshin Impact de zéro (hallucinant)
+Aywen
+137 k
+il y a 5 j
+Nouveau
+
+
+19:51
+I Stopped Changing My Upper Body Workouts...
+LeanBeefPatty
+181 k
+il y a 1 m.
+
+
+17:17
+15 ans avant le retraite : Voici exactement ce que je ferais
+L'investissement en bourse pour tous
+1,3 k
+il y a 1 h
+Nouveau
+
+26:23
+Gagner de l'Argent en Dormant | 20 Business Qui Travaillent Seuls
+L'Argent Décrypté
+95 k
+il y a 2 sem.
+
+41:12
+BOOSTEZ NATURELLEMENT VOTRE TESTO ( MUSCLE , CANCER , SANTE ..) AVEC L'EXPERT DES HORMONES
+pamz_therapy
+21 k
+il y a 3 m.
+Doublée automatiquement
+
+32:10
+Comment utiliser TradingView pour les débutants (Formation 2026)
+Kasper
+181 k
+il y a 1 a
+
+    

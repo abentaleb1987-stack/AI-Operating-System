@@ -1,0 +1,1437 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Qwen 3.8 27B sur 16 Go de VRAM : il a résolu le bug que DeepSeek V4 Flash a raté
+Nicefox · IA & Dev
+Nicefox · IA & Dev
+2,39 k abonnés
+
+S’abonner
+
+235
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+5 801 vues  18 août 2026
+Le quant Qwen 3.8 27B Q4_XS_Smaller tient sur 16 Go de VRAM, avec la vision, le MTP et 100 000 tokens de contexte. Je l'ai lancé sur le benchmark Build & Verify d'OpenFox : générer un jeu du dinosaure de A à Z. Résultat : il a résolu un bug visuel que DeepSeek V4 Flash, même sur un cluster à 8000 €, n'a pas réussi à verrouiller. La différence ? La vision.
+
+Au programme :
+Le quant Q4_XS_Smaller : un 27B dense sur 16 Go de VRAM
+Le KV Cache en Q4 : 100 000 tokens de contexte, avec vision et MTP activés
+Le mode X-High d'OpenFox : le raisonnement maximal, réglable dans l'interface
+Le workflow Build and Verify : génération, vérification, review de code, tests
+Le duel : Qwen 3.8 27B vs DeepSeek V4 Flash sur un bug visuel
+La vision : la vraie différence entre un modèle qui se vérifie et un qui devine
+La config exacte llama.cpp, prête à copier-coller
+
+Les chiffres :
+16 Go de VRAM : la RX 7800 XT du PC gaming
+400 à 500 € : le prix de la carte
+8000 € : le cluster DGX Spark de comparaison
+100 000 tokens de contexte avec un KV Cache en Q4
+40 à 42 tokens par seconde en génération
+46 minutes : la session Build and Verify complète
+40 minutes : le temps pour traquer le dernier bug
+938 lignes : la première version du jeu
+32 save / 31 restore : le déséquilibre à l'origine du bug
+
+La config llama.cpp (RX 7800 XT, 16 Go de VRAM) :
+```
+llama-server \
+  --model Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller.gguf \
+  --mmproj mmproj-Qwen3.8-27B-f16.gguf \
+  --ctx-size 100000 \
+  --n-gpu-layers 999 \
+  --cache-type-k q4_0 --cache-type-v q4_0 \
+  --spec-type draft-mtp --spec-draft-n-max 3 \
+  --parallel 1 \
+  --reasoning-preserve \
+  --host 0.0.0.0 --port 8080 \
+  --alias "Qwen3.8-27B-i1"
+```
+
+Les liens :
+Le quant utilisé (Q4_XS_Smaller, i1) : https://huggingface.co/jrell/Qwen3.8-...
+Qwen3.8-27B officiel : https://huggingface.co/Qwen/Qwen3.8-27B
+Quants GGUF Unsloth : https://huggingface.co/unsloth/Qwen3....
+DeepSeek V4 Flash 0731 : https://huggingface.co/deepseek-ai/De...
+OpenFox (gratuit, open source) : https://github.com/co-l/openfox
+llama.cpp : https://github.com/ggml-org/llama.cpp
+
+Le subreddit :   / nicefoxfr   (bugs sur OpenFox, IA locale, dev assisté)
+
+Like, abonnement, commentaire. Et si vous lisez Reddit, installez un bloqueur de pub et utilisez Firefox comme des gens civilisés.
+00:00 Qwen 3.8 27B sur 16 GB : la config
+00:42 KV Cache Q4 : 100 000 tokens de contexte
+01:24 Le benchmark : le dinosaure de Chrome
+02:33 Build and Verify en mode x-high
+04:54 Premiers playtests : les bugs
+06:39 Code reviewer : 5 problèmes corrigés
+08:33 Le bug des artefacts à droite
+09:30 DeepSeek V4 Flash dans la même session
+12:12 32 save pour 31 restore
+13:03 Bug résolu, prouvé à la vision
+14:06 16 GB contre un cluster à 8000 €
+Nicefox teste le modèle Qwen 3.8 27B sur une carte graphique de 16 Go de VRAM. Cet essai technique explore l'optimisation des paramètres de contexte et de raisonnement lors du développement autonome d'un mini-jeu. Cette démonstration pratique illustre les capacités locales de vision et de correction de code par rapport à des solutions tournant sur des serveurs distants.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Nicefox · IA & Dev
+2,39 k abonnés
+Vidéos
+À propos
+40 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Nicefoxnet
+@Nicefoxnet
+il y a 1 jour (modifié)
+Je continue à tester le quant, avec un gros refactoring sur OpenFox (chargement des données de l'interface avec un nouveau hook React) ; j'ai DS4 Flash 0731 sur la tâche, et ce quant de Qwen 3.8 sur la même tâche exactement. C'est un gros morceaux. Je mettrai à jour avec le résultat ici (ça va prendre quelques heures à mon avis 😅)
+
+EDIT : bon j'ai dû arrêter parce que je dois jouer à OverWatch maintenant... @cyrilclem5248 le dock pour mon mini-PC c'est définitivement la bonne idée pour la future 5090  je reprendrai demain
+
+6
+
+
+Répondre
+
+Nicefox · IA & Dev
+·
+
+3 réponses
+
+@patateman2178
+il y a 20 heures
+Vidéo d'utilité publique ! 😃
+
+1
+
+
+
+Répondre
+
+
+@YoannREC
+il y a 1 jour
+merci pour tes vidéos, et pour ton travail openfox, le top!!!
+
+1
+
+
+
+Répondre
+
+
+@Guegno
+il y a 1 jour
+Super intéressant.
+Sur ma 5060ti 16Gb, je dois réduire le contexte à 65K pour que ca passe (en mtp draft 2).
+Cuda a l'air d'être plus gourmand en VRAM.
+
+
+
+
+Répondre
+
+Nicefox · IA & Dev
+·
+
+1 réponse
+
+@roch_junior
+il y a 1 jour
+Il faudrait tester ce qwen sur les 2 spark !
+
+
+
+
+Répondre
+
+Nicefox · IA & Dev
+·
+
+1 réponse
+
+@florianm1280
+il y a 11 heures
+Salut c'est la première fois que je run un modèle en local, j'ai test et j'ai aussi une RX 7800 XT, mais sous Windows avec llama.cpp Vulkan je suis plutôt à 12–13 tok/s malgré le full GPU offload et 99 % d’utilisation GPU (et en utilisant la meme config que toi bien evidemment). Est-ce que tu penses que c'est une diff pure de stack AMD/Vulkan entre Windows et Linux ou ça peut être autre chose. Merci !
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@sambaxiv
+il y a 1 jour
+Mais il faut nous faire une vidéo sur le gaming sur linux, j'aimerais faire la transistion et si on peut en plus désactiver le GUI pour gagner en Vram, je fonce direct.
+
+1
+
+
+
+Répondre
+
+·
+
+3 réponses
+
+@Law_MarshallDow
+il y a 1 jour
+Super vidéo, s'il te plait est-ce que tu pourrais faire une vidéo sur le MTP en prenant pour modèle Qwen3.8:27b Q4_K_M, et en + le modèle pour 16 gb vram.
+
+
+
+
+Répondre
+
+·
+
+7 réponses
+
+@abdellahb1398
+il y a 1 jour
+Ce n'est plus deepseek flash le moins cher chez opencode. Il n'y a plus que mimo 2.5 qui peut faire 150 000 requêtes par mois. Deepseek est repassé à 20 000 requêtes
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@brholik.kasukulu
+il y a 1 jour
+Et ton Deepseek tournait sur combien de VRAM ?
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@cdpn2000
+il y a 1 jour
+mais pourquoi tu utilise pas ajean ??? c est français open source et genial !!!!
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+
+@gmat2k
+il y a 23 heures
+C'est quoi l'intérêt ? Faire faire un jeu merd***que fait des millions de fois ? 
+Faut que je me concentre sur l'optimisation des modèles en RAM. Si j'ai le courage je regarderai cette vidéo.
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@ChristopheAmreinMarie
+il y a 1 jour (modifié)
+Khey, utilise "--n-gpu-layers all". C'est mieux que 999 non ?
+
+1
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Qwen 3.8 27B sur 16 GB : la config
+0:00
+Bonjour amis développeurs, j'espère que
+0:02
+vous allez bien. Quen 3.8 27B est sorti
+0:05
+maintenant il y a 4 jours et il y a
+0:07
+beaucoup de monde qui veut essayer de le
+0:09
+faire tourner correctement sur des
+0:11
+cartes graphiques avec 16 Go de VAM.
+0:13
+J'ai notamment vu passer ce quant là 27B
+0:17
+IQ4 XS Smaller qui a gardé les layers
+0:20
+d'attention en IQ4 XS et forcément
+0:24
+compresser d'autres layers dans les
+0:26
+poids pour réussir à ce que ça tienne
+0:28
+sur 16 Go de VAM. Inclus dans ce poids,
+0:31
+il y a aussi les MTP pour les
+0:33
+performances. Donc on peut choisir
+0:34
+d'activer ou de ne pas activer. Le prix
+0:36
+à payer, c'est qu'on aura moins de
+0:37
+contexte avec le MTP mais plus de
+0:40
+vitesse. Le test que je vais faire là,
+KV Cache Q4 : 100 000 tokens de contexte
+0:42
+il va aussi s'appuyer sur quelque chose
+0:44
+que je n'ai jamais fait, à savoir du KVH
+0:46
+en Q4 parce que en passant le KVH en Q4,
+0:50
+j'ai réussi à avoir 100000 tokens de
+0:54
+contexte avec le MTP activé, mais aussi
+0:56
+la vision activée. La carte graphique
+0:59
+que je possède pour le moment, c'est une
+1:01
+Radéon RX 7800 XT qui est dans mon PC de
+1:04
+jeu. C'est pas le PC où je travaille. Et
+1:06
+là, pour maximiser la VAM disponible,
+1:08
+j'ai désactivé l'interface graphique
+1:10
+parce que oui, mon PC de jeu est sous
+1:12
+Linux et en désactivant l'interface
+1:14
+graphique, je suis passé de 735 MCT de
+1:17
+VAM utilisé à seulement 191. 500 m de
+1:22
+VAM, ça coûte très cher. Alors, ça fait
+Le benchmark : le dinosaure de Chrome
+1:24
+du bien de les avoir récupéré.
+1:25
+Aujourd'hui, je vais faire un seul
+1:27
+benchmark parce que il montre beaucoup
+1:28
+de choses. Ce benchmark, si vous avez
+1:30
+pas vu mes vidéos précédentes, c'est un
+1:32
+mini jeu qui correspond au jeu qu'on a
+1:34
+dans Chrome quand on a plus internet.
+1:36
+Ça, c'est une version que Dipsic V4
+1:38
+Flash a faite localement sur mon cluster
+1:40
+de DJX Spark et c'était plutôt une bonne
+1:42
+version. Là, vous entendez pas mais il y
+1:44
+a des sons et bah c'est plutôt jouable
+1:45
+et c'est vraiment un bon jeu. Voilà,
+1:47
+l'idée là ça va être de comparer le
+1:50
+résultat qu'on obtient avec Quen 3.8 27B
+1:53
+Q4 XS smaller. On se retrouve sur Open
+1:57
+Fox. J'ai utilisé exactement le même
+1:59
+prompt que d'habitude avec une nouvelle
+2:01
+fonctionnalité dans Openfox, c'est que
+2:04
+maintenant on peut directement choisir
+2:05
+l'effort de raisonnement dans
+2:07
+l'interface. Avant on pouvait déjà le
+2:09
+faire mais c'était un peu caché. Et là,
+2:11
+tout ce test, je vais le faire avec le
+2:12
+mode de réflexion maximale, à savoir X
+2:14
+high. On peut voir que pour formuler un
+2:16
+plan avec ce prompt, il a réfléchi
+2:18
+pendant 3 minutes et qu'en terme de
+2:20
+vitesse, c'est pas mal du tout. La bonne
+2:22
+stat ici, ça va être 42 tokens par
+2:23
+seconde en génération. Et au niveau du
+2:26
+préfil, là les stats, elles sont un peu
+2:27
+buggées. En réalité, on est plus autour
+2:28
+de 400 500 tokens par seconde, ce qui
+2:31
+est pas extrêmement rapide, mais pas
+2:32
+extrêmement lent non plus. Et ben là,
+Build and Verify en mode x-high
+2:34
+c'est parti. Je lance en mode build and
+2:35
+verify et on va voir comment il se
+2:37
+comporte. Une chose importante à
+2:39
+comprendre sur le changement d'effort
+2:41
+sur un modèle, c'est que c'est pas
+2:42
+gratuit. Quin 3.8 et deepsig V4 Flash
+2:46
+typiquement, il modifie le système
+2:47
+prompt au niveau du moteur d'inférence
+2:49
+pour prendre en compte le niveau
+2:51
+d'effort de raisonnement. Pour rendre ça
+2:53
+très clair, ce que j'ai fait quand on
+2:54
+veut changer de mode de raisonnement
+2:56
+dans Openfox, ça affiche cette modale.
+2:59
+Elle s'affiche uniquement si on est en
+3:01
+cours de travail dans une session et
+3:03
+qu'on veut changer de mode de pensée.
+3:05
+Faut bien comprendre que si on clique
+3:06
+sur le bouton rouge et ben on va perdre
+3:08
+du temps parce que ça va tout repasser
+3:10
+en processing. Évidemment, j'avais
+3:11
+oublié de mettre les max token à une
+3:14
+valeur élevée. Je vais même mettre 60000
+3:16
+et relancer. Incroyable. Après seulement
+3:19
+3 minutes 45 de réflexion, il commence à
+3:22
+écrire. Je pense qu'il est temps de
+3:24
+liker cette vidéo et de vous abonner
+3:27
+pour les suivantes. Et voilà, après 5
+3:29
+minutes de plus, il a écrit une première
+3:31
+version du fichier qui fait 938 lignes
+3:35
+et maintenant il effectue des
+3:36
+vérifications et il corrige quelques
+3:38
+petits problèmes. Et ben là, ça y est,
+3:39
+il se met en mode test tout seul comme
+3:41
+un grand. Il a vu que Playwright était
+3:42
+disponible et donc il va lancer une page
+3:44
+et lancer des tests au niveau de la
+3:46
+config exacte de Lama. CPP. Vous pz voir
+3:49
+ici 100000 tokens de contexte tout sur
+3:52
+le GPU. On va absolument éviter le
+3:54
+offloading sur le CPU parce que sinon on
+3:56
+perdrait grave en performance. Le cash
+3:58
+en Q4 comme je vous l'ai dit. Le MTP
+4:00
+avec une valeur de 3 alors elle est pas
+4:02
+optimisée. Peut-être qu'à 2 ou à 4 ce
+4:04
+serait mieux, je ne sais pas. Avec la
+4:05
+préservation du raisonnement ce qui va
+4:07
+prendre du contexte. Il nous assurer
+4:09
+queil se souvient de ce qu'il a réfléchi
+4:11
+avant. Et vu qu'il réfléchit beaucoup,
+4:12
+je pense que vraiment ça vaut le coup.
+4:13
+Et là, spécifiquement pour mon
+4:15
+infrastructure, c'est avec un build
+4:16
+vulcane. Est-ce que ce serait plus
+4:18
+rapide avec RCM ? Je ne sais pas. Ou
+4:20
+regardez, on commence à avoir des
+4:21
+screenshots, ça a l'air très clean. Et
+4:24
+là, il a la vision, donc il voit les
+4:25
+screenshots. Alors par contre, dès que
+4:27
+il y a une image qui rentre dans son
+4:29
+contexte, d'un coup ça se met à vraiment
+4:30
+ralentir. Juste pour l'analyse de
+4:32
+l'image. La tour de vision qui est
+4:34
+inclue dans le modèle, elle est en BF16.
+4:36
+Mécaniquement, ça demande beaucoup de
+4:38
+ressources. Mais regardez, c'est
+4:39
+magnifique. C'est très beau. Écoutez, il
+4:41
+a pas encore terminé mais on a une
+4:43
+première version. Voyons voir ce que ça
+4:45
+donne avec le son parce que il y a du
+4:47
+son.
+4:53
+Euh alors, c'est quoi les problèmes ?
+Premiers playtests : les bugs
+4:55
+Ah, j'ai pas réussi à me baisser. Alors,
+4:57
+regardez sur la gauche, il y a un truc
+4:58
+qui s'accumule.
+5:03
+Juste après avoir sauté, je peux pas me
+5:05
+baisser immédiatement et c'est assez
+5:06
+dur. Il y a pas de contrôle quand on est
+5:07
+en l'air. Franchement, visuellement, mis
+5:09
+à part le bug qui est à gauche, bah
+5:10
+c'est clean, c'est c'est bien. Et il a
+5:12
+fait ça en 14 minutes. Là maintenant, il
+5:15
+dit "J'ai terminé, je marque tout
+5:17
+compléter. Là, je le relance voir s'il a
+5:19
+corrigé le petit problème d'accumulation
+5:21
+sur la gauche." Non, il a pas corrigé.
+5:23
+Et ben, on va laisser le process tourner
+5:25
+et on va voir si ça se résout tout seul
+5:26
+grâce au vérifieurs et au code reviewer.
+5:29
+Mais là euh c'est quand même pas mal
+5:30
+hein. Il a produit ça en 14 minutes 51
+5:33
+secondes. Il a lancé le jeu, il a
+5:35
+regardé des screenshots. C'est pas mal
+5:37
+du tout. Pas mal du tout. Et regardez le
+5:39
+vérifier, il a vu un problème, c'est que
+5:41
+il n'a qu'une jambe. Donc c'est un
+5:43
+dinosaure unijambiste. Ma fois pourquoi
+5:46
+pas ? Et je trouve que il ressemble plus
+5:47
+à une tortue ninja qu'à un dinosaure.
+5:49
+Mais bon. Et regardez le vérifieur, il
+5:50
+dit "On a l'impression que le dinosaure
+5:52
+court sur une seule jambe." Après
+5:53
+environ 8 minutes, on arrive à la
+5:55
+conclusion du vérifieur. Alors lui
+5:57
+aussi, il a joué au jeu, il a lancé le
+5:59
+jeu, il a pas relevé les problèmes
+6:01
+visuels alors qu'on le voit clairement
+6:02
+là sur son screenshot sur la droite, il
+6:04
+y a un problème. Même s'il a vu que le
+6:06
+dinosaure n'avait qu'une jambe, je crois
+6:08
+qu'il va pas lui mettre de fail. Ça
+6:10
+c'est un peu dommage. Et ouais, il va
+6:12
+pas lui mettre de fail alors qu'il avait
+6:14
+relevé un vrai problème. Ça c'est
+6:15
+intéressant. Là, on peut voir qu'il fait
+6:17
+une erreur au moment de mettre à jour
+6:19
+les critères d'acceptation, c'est qu'il
+6:21
+a oublié un paramètre au moment de
+6:22
+l'appel d'outil. Il a pas mis euh
+6:24
+critéria et du coup ça a fait un appel
+6:25
+d'outil dans le vide. Donc une perte de
+6:27
+temps, mais il est quand même retombé
+6:28
+sur ses pattes. C'est un peu le thème de
+6:30
+ce modèle. Il refait pas plusieurs fois
+6:32
+les mêmes erreurs. La vérification aura
+6:34
+pris 11 minutes 15 secondes. C'est quand
+6:36
+même beaucoup plus rapide que mon test
+6:38
+précédent. Maintenant, place au code
+Code reviewer : 5 problèmes corrigés
+6:41
+reviewer et on va voir si lui il capte
+6:43
+des problèmes dans l'interface au niveau
+6:45
+du code. J'espère que ce sera le cas.
+6:47
+Alors, le code reviewer a l'air assez
+6:48
+prometteur dans ce qu'il voit. Ah, je
+6:50
+crois qu'il est en train de repérer le
+6:52
+problème que j'avais, à savoir qu'on
+6:53
+peut pas s'accroupir juste après avoir
+6:55
+fini de sauter. Là, il a trouvé que cinq
+6:57
+problèmes. Là, ça y est, il est en train
+6:59
+d'appliquer tous les correctifs
+7:00
+nécessaires, tout ce qui a été relevé
+7:02
+par le code reviewer. Là, pour
+7:04
+l'instant, il parle en anglais, mais on
+7:06
+verra si à la fin, il termine en
+7:07
+français. Là, non seulement il applique
+7:09
+les correctifs, mais il va retester
+7:11
+lui-même le résultat pour s'assurer que
+7:13
+ça fonctionne. Ça, c'est un comportement
+7:16
+qui est incroyable. Là, il a relancé le
+7:18
+jeu, il fait des screenshots.
+7:20
+Franchement, est-ce que vous auriez
+7:21
+imaginé qu'un modèle local arrive à
+7:24
+produire du code fonctionnel et à le
+7:26
+tester lui-même ? Moi, je vais vous
+7:27
+dire, je suis impressionné. Mais
+7:29
+maintenant, on va voir le résultat. Oh,
+7:31
+il me répond en français à la fin pour
+7:33
+faire le résumé. Ça c'est top. Là il va
+7:35
+terminer et on va voir les stats
+7:37
+globales pour la session. Et moi, j'ai
+7:38
+hâte de voir le résultat. Au total, ça
+7:41
+aura pris 46 minutes et 12 secondes à
+7:43
+une vitesse honorable de 40 tokens par
+7:46
+seconde, ce qui est plutôt cool pour une
+7:47
+carte graphique qu'on peut acheter
+7:49
+aujourd'hui entre 400 et 500 €. On peut
+7:52
+remarquer quelques défauts. On a la
+7:54
+jambe du dinosaure qui a toujours qu'une
+7:56
+jambe. On voit que le symbole du wifi
+7:58
+barré, bah il est pas barré vraiment
+8:00
+comme il faut, mais pour le reste et ben
+8:02
+c'est vraiment clean. Ah, j'ai un double
+8:04
+saut. Regardez.
+8:07
+Et il a résolu le problème du fait de
+8:09
+pas pouvoir se s'accroupir juste après
+8:11
+avoir fait un saut. Ça rend le jeu
+8:13
+beaucoup plus fluide et c'est
+8:14
+parfaitement jouable. Dites-moi si vous
+8:16
+voyez un problème visuel. J'ai
+8:17
+l'impression que les problèmes que
+8:18
+j'avais relevé avant sont partis. Ah,
+8:20
+j'ai battu mon meilleur score. Ah non,
+8:22
+sur la droite, voyez, il y a encore le
+8:24
+petit problème. Il y a une des lignes
+8:25
+qui s'accumulent et qui restent là au
+8:27
+lancement suivant. Bon, mis à part ça,
+8:29
+c'est quand même pas mal du tout. Là, on
+8:31
+est plus qu'à un prompt pour lui dire eh
+Le bug des artefacts à droite
+8:33
+au fait sur la droite, il y a un petit
+8:35
+problème. Du coup, j'ai sauvegardé le
+8:36
+premier résultat ailleurs et là bah je
+8:38
+vais voir s'il peut résoudre ce problème
+8:40
+valider que en imprompte ce serait
+8:42
+résolu. Là, je lui ai dit en jouant un
+8:44
+peu, je remarque sur la droite de la
+8:46
+zone du jeu qu'il y a des artefacts qui
+8:48
+s'accumulent comme des lignes
+8:49
+verticales. Corrige ça. Ah, il est en
+8:51
+train de dire que ça pourrait être quand
+8:53
+on meurt, il y a quelque chose qui fait
+8:55
+remuer l'entièreté de l'écran. Et oui,
+8:57
+redémarrage, c'est pas repint. Là, je
+8:58
+vais me prendre un obstacle et regarder
+9:00
+l'animation. Ça pas bougé beaucoup là,
+9:02
+mais je pense que c'est ça. Ouais, ça
+9:03
+bouge pas mal hein. Et c'est à ce
+9:05
+moment-là que ces artefacts ils se
+9:06
+créent. Sauf que moi du coup là, je
+9:07
+donnais un faux indice. Je le dis c'est
+9:09
+sur la droite du jeu. En lisant ces
+9:11
+blocs de pensée, je me serais dit "Ah,
+9:12
+il y a un shake que j'ai pas remarqué.
+9:13
+Je vais aller voir si c'est ça en
+9:15
+particulier." Et là, si j'étais pas en
+9:16
+train de le tester, je l'interromprei
+9:18
+pour lui dire effectivement c'est le
+9:19
+shake qui a un problème pour focaliser
+9:22
+son attention sur cette partie là.
+9:24
+Exactement. Mais bon là, je vais le
+9:25
+laisser travailler. On va voir s'il
+9:26
+résout le problème. Là sur la gauche,
+9:28
+c'est toujours Coin 3.8 27B qui est
+DeepSeek V4 Flash dans la même session
+9:30
+toujours sur la même tâche. Là, ça fait
+9:32
+maintenant 11 minutes qui est réfléchi.
+9:33
+Sur la droite, j'ai lancé Dipsic V4
+9:36
+flash exactement dans la même session
+9:38
+que j'ai forqué depuis le moment où
+9:39
+j'avais posé ma question à Quin 3.8.
+9:41
+L'idée, c'est de voir si Dipsic V4 flash
+9:44
+à ce moment-là arriverait à voir le
+9:46
+problème avec le prompt que je lui ai
+9:47
+donné. Là, vous voyez Dipsic V4 Flash
+9:49
+qui n'a pas la vision. Il cherche quand
+9:50
+même à faire des screenshots pour voir
+9:52
+les choses, mais la seule chose qu'il
+9:54
+récupère à ce moment-là, c'est une
+9:55
+description textuelle faite par un autre
+9:57
+modèle et par conséquence, c'est
+9:58
+beaucoup moins puissant que la vision
+10:00
+intégrée à Quen 3.8 27B. Là, on voit
+10:02
+qu'il essaie de découper l'image pour
+10:04
+essayer de voir des choses, mais là dans
+10:06
+les images, il y a rien de visible. Ah
+10:08
+là sur la gauche, j'ai un premier
+10:10
+screenshot qui montre bien ce
+10:11
+comportement avec les lignes sur la
+10:13
+droite là qui devrait pas être là.
+10:15
+Voyons voir si Coen 3.8 27BQ4
+10:18
+Small est capable de voir cette petit
+10:20
+détail. Et oui, il le voit. Il voit la
+10:23
+ligne sur la droite. Voyez, il dit il y
+10:25
+a une ligne verticale fine sur l'arrête
+10:28
+droite de l'image. Donc ce petit détail,
+10:30
+il est capable de le voir. Ça c'est
+10:32
+franchement cool. Dipsic V4 flash, lui
+10:34
+il a pas réussi à trouver la réponse. Je
+10:37
+vais quand même lui donner une chance de
+10:38
+résoudre le problème en le faisant
+10:40
+travailler ailleurs que dans le projet.
+10:41
+Bon là, j'ai testé la version que
+10:43
+Deepsig V4 flash a fait, mais le bug est
+10:46
+toujours là. On peut voir sur la droite.
+10:48
+Alors que de l'autre côté, on voit que
+10:50
+Quen 3.8 27B est en train de zoomer
+10:52
+encore plus précisément sur ce détail.
+10:54
+Bon, zoomer, c'est une chose, résoudre
+10:56
+s'en est une autre. Il commence à
+10:57
+comprendre que c'est le shake. Attendez,
+11:00
+je crois que Deepsic V4 flash a bel et
+11:02
+bien résolu le problème. Bon, il parle
+11:04
+de pixel fractionné pour l'affichage.
+11:06
+J'y crois pas trop à son explication. Le
+11:08
+bug est de retour. OK, j'arrive à le
+11:10
+reproduire. Maintenant, je relance et
+11:11
+c'est toujours là, il y a toujours le
+11:12
+même problème. C'est intéressant comme
+11:14
+bug. C'est intéressant mais ce n'est pas
+11:16
+été résolu par Dipsig V4 flash. Bon,
+11:18
+cela dit, Quen 3.8 27B, lui, il est
+11:21
+encore en train de réfléchir, il a pas
+11:23
+encore trouvé de solution. Dipsi, il a
+11:25
+essayé de corriger le problème, il a pas
+11:26
+réussi. Là, je lui donne plus
+11:28
+d'informations, à savoir que ça se passe
+11:30
+quand il y a un shake. Et là, on va voir
+11:31
+si avec ce détail plus précis, il arrive
+11:34
+à trouver le problème. Sur la gauche, on
+11:35
+a Quen 3.8 27B qui est encore en train
+11:38
+d'essayer de reproduire le problème,
+11:39
+sauf qu'on a vu que c'est assez dur à
+11:41
+reproduire. Là à gauche, ça fait quand
+11:43
+même 26 minutes maintenant qu'il est sur
+11:44
+ce problème. Il a pas encore l'ombre
+11:46
+d'une solution. Cela dit, Dipsig V4
+11:49
+flash, même avec cette information, il
+11:50
+est pas capable de trouver le problème
+11:52
+juste avec l'analyse statique du code.
+11:54
+Là, il est en train d'essayer de faire
+11:55
+du code pour recréer le problème. Et
+11:57
+ben, j'ai l'impression que ce petit bug
+11:59
+pourrait être un benchmark en soi.
+12:01
+[rires]
+12:03
+C'est excellent. Dipsic V4 Flash, il a
+12:05
+vu que il y avait 32 contexte. save pour
+12:08
+le Canva et qui avait que 31 restor donc
+12:11
+il y a un déséquilibre dans le code. Ah
+32 save pour 31 restore
+12:14
+regardez à gauche, exactement la même
+12:16
+chose. Je sais pas comment ils font. Il
+12:18
+a trouvé exactement le même problème. 32
+12:20
+save 31 restore. Alors ça c'est drôle
+12:23
+là. Ça y est 3.8 27B va passer à
+12:26
+l'action je le sens. Il va corriger
+12:27
+Drawbird où il y avait donc un
+12:29
+déséquilibre entre le nombre de save et
+12:31
+de restore. Voilà il l'a corrigé. Je
+12:33
+vais voir maintenant si j'arrive à
+12:34
+reproduire le problème. Alors, regardez,
+12:37
+c'est vachement intéressant. Là, c'est
+12:38
+la version qui est pas encore patchée et
+12:39
+en fait si je meurs alors qu'il y a pas
+12:41
+d'oiseau à l'écran, tout va bien. Mais
+12:43
+dès qu'il y a un oiseau, ça va pas.
+12:45
+Attendez, je relance. Là, je vais faire
+12:46
+une mort quand il y a pas d'oiseau. Là,
+12:47
+il y a pas d'oiseau, tout va bien. Là,
+12:49
+il y a un oiseau et il y a les bugs.
+12:51
+Donc, c'est bien ça le bug qui veut dire
+12:52
+que la version de Quen 3. À gauche est
+12:55
+maintenant corrigée. Allez, je vais me
+12:56
+reprendre un oiseau. Il sont où les
+12:58
+oiseaux ? Ils sont là. Hop, pas de
+13:00
+problème. Et ben voilà. problème résolu
+Bug résolu, prouvé à la vision
+13:03
+qu'il lui a fallu imprompte mais autant
+13:06
+de temps pour corriger ça que pour faire
+13:08
+l'intégralité du projet. Là dans une
+13:11
+session normale, je pourrais juste
+13:12
+l'arrêter et lui dire "C'est bon, tu as
+13:14
+fini, bravo." Là à gauche, Quen 3.827B
+13:17
+est en train de faire une analyse
+13:19
+comparative entre la version qui a le
+13:22
+fix et la version qui a pas le fix. Il
+13:23
+compte les oiseaux qui ont été vus et le
+13:25
+nombre de morts. Maintenant, il a
+13:27
+récolté des screenshots qui va pouvoir
+13:29
+regarder, voir s'il y a une différence
+13:30
+au niveau du résultat. Là, il a deux
+13:32
+screenshots. Maintenant, il va les
+13:34
+regarder côte à côte. Ça, c'est la
+13:35
+version où il y a le bug. On peut voir
+13:37
+effectivement le bug sur la droite. Là
+13:39
+maintenant, il regarde la version où il
+13:40
+y a eu le fix. Effectivement, il y a
+13:42
+plus aucun problème sur la droite. Là,
+13:44
+normalement, il devrait s'arrêter et
+13:46
+dire "Bah écoute, Polo, c'est résolu."
+13:48
+Voilà, c'était bien ça. C'est là où sur
+13:50
+un bug visuel, on peut voir que le fait
+13:52
+que Coin 3.8 ait la vision, c'est une
+13:54
+différence majeure. Là, c'est bon. Il
+13:56
+est arrivé à la conclusion tout seul que
+13:58
+le problème est bel et bien résolu et là
+14:01
+il est en train de nettoyer le projet et
+14:02
+de vérifier que tout est bon. Là au bout
+14:04
+de 40 minutes, on a donc Coen 3.827B qui
+16 GB contre un cluster à 8000
+14:07
+tourne sur 16 Go de VAM qui a terminé.
+14:10
+Il a pu vérifier les choses lui-même
+14:12
+visuellement alors que on voit que à
+14:14
+droite Deeps V4 flash galère parce qu'il
+14:16
+a pas la vision. Donc dans un bug
+14:18
+visuel, ben là, j'ai un modèle qui
+14:19
+tourne sur ma carte graphique 16 Go qui
+14:21
+est en train de battre le truc qui
+14:23
+tourne sur mon cluster à 8000 € de DJX
+14:26
+Spark parce que là sur la droite Dipsic
+14:28
+V4 flash, il a bel et bien corrigé le
+14:30
+problème mais il peut pas le vérifier.
+14:31
+Mais écoutez, voici la version finale du
+14:33
+jeu par Coin 3.8 27B et très franchement
+14:38
+et ben c'est super. Je crois pas que ce
+14:41
+soit une version au rabet par rapport à
+14:42
+ce qu'on a pu voir. Donc je pense
+14:43
+vraiment que ce compte est intéressant.
+14:45
+Évidemment, ça demanderait plus de test,
+14:46
+mais là dans les médias, moi je valide,
+14:48
+je trouve ça très bien. Et ben écoutez,
+14:50
+c'est à vous de jouer. Si vous avez un
+14:52
+GPU avec 16 Go de VAM, télécharger ce
+14:56
+modèle, appliquez la config que je vous
+14:58
+mettrai en description, testez-le dans
+15:00
+votre harnet préféré, que ce soit Open
+15:02
+Fox ou autre chose et dites-moi les
+15:04
+résultats que vous arrivez à obtenir.
+15:06
+Là, moi je suis assez bluffé et je pense
+15:08
+que ça vaut le coup de l'essayer et je
+15:09
+pense que je vais continuer à le tester
+15:11
+sur des cas réels dans des choses que je
+15:13
+veux faire sur Open Fox, voir comment il
+15:15
+se comporte. C'était la première fois
+15:17
+que je faisais un contexte en Q4. Je
+15:19
+vais pas vous dire que c'est la chose à
+15:20
+faire mais là dans cette session, j'ai
+15:22
+pas ressenti de dégâts massifs. Si on
+15:24
+regarde au final après le workflow Build
+15:26
+and Verify qui a pris quarantaine de
+15:28
+minutes, le seul bug qui restait,
+15:29
+c'était le déséquilibre entre les save
+15:31
+et restore sur le contexte du Canva.
+15:33
+Mais il aura fallu 40 minutes de plus
+15:35
+pour le trouver. Tout ça parce que je
+15:36
+lui ai envoyé un prompt qui était quand
+15:37
+même pas terrible et que j'aurais pu
+15:39
+affiner mais il s'en est sorti
+15:41
+contrairement à Dipsic V4 Flash qui m'a
+15:44
+dit voilà la solution alors qu'en fait
+15:45
+il y avait toujours le problème. Voilà
+15:47
+c'est tout pour cette vidéo. Merci
+15:48
+beaucoup de l'avoir regardé jusqu'au
+15:49
+bout. Si vous l'avez apprécié, pensez à
+15:51
+liker et à vous abonner. Passez une très
+15:53
+bonne journée. Prenez soin de vous. À
+15:55
+bientôt. Ciao !
+
+Tout
+
+Pour vous
+
+Regardées
+
+20:27
+Il y a une anomalie sur le marché des devs en ce moment. (Seniors, Juniors...)
+Benjamin Code
+57 k
+il y a 2 sem.
+
+
+13:33
+DeepSeek Just Built the Next Generation of Coding Agents
+Cole Medin
+4,4 k
+il y a 6 h
+Nouveau
+
+
+9:07
+Ton VPN GRATUIT te SURVEILLE (et personne n'en parle) 🕵️
+GuideVPN
+6
+il y a 9 h
+Nouveau
+
+
+32:10
+Comment utiliser TradingView pour les débutants (Formation 2026)
+Kasper
+181 k
+il y a 1 a
+
+
+42:51
+Voici à quoi ressemble VRAIMENT la vie à LONDRES
+Bruno Maltor
+24 k
+il y a 13 h
+Nouveau
+
+
+11:13
+L'argent n'excuse pas tout : le dossier Léna Situations
+Wizness
+26 k
+il y a 2 j
+Nouveau
+
+
+19:35
+Les 11 meilleurs aliments pour augmenter la testostérone
+Nassim Sahili
+357 k
+il y a 1 a
+
+
+16:08
+Il ne faisait que 57 kg — pourtant il a changé la musculation à jamais
+Nassim Sahili
+379 k
+il y a 5 m.
+
+
+15:15
+Les Agents IA ont définitivement tué le SaaS (Voici la suite)
+Mike Codeur
+18 k
+il y a 1 m.
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+207 k
+il y a 1 m.
+
+
+24:39
+Les Concepts ICT/SMC expliqué de A à Z (Formation Gratuite)
+Kasper
+69 k
+il y a 4 m.
+
+
+21:22
+L'histoire inquiétante du créateur de Claude
+Sébastien Koubar
+26 k
+il y a 1 m.
+
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+411 k
+il y a 1 m.
+
+
+27:10
+DeepSeek V4 Flash : trop beau pour être vrai ? (test complet)
+DevArt
+14 k
+il y a 7 j
+
+
+14:45
+On a acheté un MINI PC 100% NVIDIA à 4000€ !
+FrenchHardware
+278 k
+il y a 8 m.
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+344 k
+il y a 3 m.
+
+
+15:21
+L'Effondrement brutal du CrossFit
+Gautier Cuculiere - Novathink
+90 k
+il y a 3 j
+Nouveau
+
+
+31:03
+DÉCOUVREZ LA VRAIE VIE D'UN TRADER
+LEGEND
+984 k
+il y a 3 a
+
+
+43:03
+Je suis une victime d'Oussama Ammar
+Olivier Roland
+388 k
+il y a 2 m.
+
+1:47:55
+La stratégie cachée de Mélenchon pour 2027 (et pourquoi personne ne la voit) !
+Tocsin et Tocsin+
+109 k
+il y a 2 sem.
+
+    

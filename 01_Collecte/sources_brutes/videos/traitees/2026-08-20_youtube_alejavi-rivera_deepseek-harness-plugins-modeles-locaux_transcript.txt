@@ -1,0 +1,903 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+DeepSeek vient de bouleverser le monde de l'IA ! Ils ont lancé leur framework gratuitement
+Alejavi Rivera
+Alejavi Rivera
+574 k abonnés
+
+Rejoindre
+
+S’abonner
+
+1,7 k
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+20 août 2026
+Deepseek vient une fois de plus de changer la donne dans le domaine de l'IA. En plus de proposer des modèles d'IA ultra-performants... ils ont lancé leur « Harness » open source totalement débridé.
+
+Essayez Topview MCP et automatisez la création de vos contenus : https://www.topview.ai?via=alejavi
+
+💣 Découvrez NoticIArtificial : pour rester à la pointe de l'actualité IA GRATUITEMENT : https://academiartificial.com/noticia...
+
+🔥 Formation intensive IA : https://academiartificial.com/curso-ia/
+       Formation Make : https://academiartificial.com/curso-d...
+         Formation Gemini : https://academiartificial.com/curso-d...
+           Formation ChatGPT : https://academiartificial.com/curso-d...
+
+🔗 Liens :
+Deepseek Harness : https://deepseek.com/harness/en/
+NodeJS : https://nodejs.org/en
+Deepseek API : https://platform.deepseek.com/
+Ollama : https://ollama.com/
+ArcaRouter : https://www.orcarouter.ai/es/models?p...
+Zcode : https://zcode.z.ai/en
+
+🚀 Découvrez mon académie : https://academiartificial.com/
+
+
+00:00 Actualités IA de Deepseek
+01:22 Deepseek Harness
+05:18 Modèles Deepseek V4
+11:45 Création d'application
+15:31 Génération de plugins
+18:12 Agents IA personnalisés
+22:09 Modèles d'IA gratuits
+25:07 Privé et SANS limite
+29:50 GLM 5.3 disponible
+
+Cette vidéo a été traduite dans votre langue grâce à : https://try.elevenlabs.io/shmdm7umt6gg
+
+📩 Abonnez-vous à ma newsletter : https://bit.ly/newsletter-alejavi
+
+📲 Suivez-moi sur Instagram (j'y publie des contenus plus synthétiques) :   / alejavirivera  
+
+❤️ La vidéo vous a plu ?
+Partagez-la, abonnez-vous et laissez un « j'aime » ; cela m'aidera énormément 🙏🏼
+
+🫱🏼‍🫲🏽 Envie de collaborer ?
+Si vous représentez une entreprise, voici mon adresse e-mail : alejavi.colaboraciones@gmail.com
+Alejavi Rivera explora las capacidades técnicas del nuevo Harness de DeepSeek, una herramienta de código abierto para gestionar agentes, automatizar flujos de trabajo locales y conectar diversos modelos de IA. A través de casos prácticos, se analiza su integración con plataformas de desarrollo y la optimización de costes frente a otras alternativas del sector.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Alejavi Rivera
+574 k abonnés
+Vidéos
+À propos
+
+Canal de Novedades IA
+
+Instagram
+true
+30:39
+Google crée désormais de véritables applications par l'IA GRATUITEMENT en quelques minutes 🚀
+de Alejavi Rivera
+true
+33:34
+L'IA devient INFINIE : ils viennent de la rendre GRATUITE et ILLIMITÉE 🫪
+de Alejavi Rivera
+true
+25:23
+Il l’a fait ! Il vient de débloquer la meilleure IA GRATUITE et SANS LIMITES (Ollama) 💣
+de Alejavi Rivera
+Le nouvel agent IA n° 1 : il a écrasé l'IA gratuite ! Voici ce qu'il sait faire 🔥
+de Alejavi Rivera
+52 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@JoseMACASA-h7u
+il y a 14 heures
+No sé vosotros, pero estoy súper mareado de tanta IA, ya no sabes cuál es mejor, más exacta, cual para video, foto, productividad.... No sabes a quién merece dedicar más tiempo de aprendizaje...
+
+92
+
+
+Répondre
+
+Alejavi Rivera
+·
+
+Réponse
+
+@WilberValdez-z9b
+il y a 15 heures
+Aquí los puntuales de alejavi
+
+17
+
+
+
+Répondre
+
+Alejavi Rivera
+·
+
+Réponse
+
+@wilmenmendoza237
+il y a 14 heures
+API gratis con modelos de pago 😂😂😂
+
+15
+
+
+Répondre
+
+Alejavi Rivera
+·
+
+Réponse
+
+@robmarguz
+il y a 8 heures
+Estaba implementado un proyecto en Hermes Agente pero, después de tu vídeo, lo estoy desarrollando con este enfoque y he avanzado casi al 80% en la cuarta parte del tiempo.
+
+4
+
+
+Répondre
+
+
+1 réponse
+
+@SantisimoTeEspera
+il y a 15 heures
+Saludos al Master creador de este canal
+
+4
+
+
+
+Répondre
+
+Alejavi Rivera
+·
+
+Réponse
+
+@calebkleinmusic
+il y a 7 heures
+Definitely the best thing that has been invented in the world of AI.
+
+
+
+Répondre
+
+
+@ladyblue4059
+il y a 15 heures
+Aqui firme como siempre en todo tu contenido jueves y domingos sin falta, no dejas de sorprender eres el mejor saludos y bendiciones 
+
+2
+
+
+
+Répondre
+
+·
+
+Réponse
+
+@AlexRodriguez-go1ht
+il y a 9 heures
+me sorprendió en que no solo el modelo flash es económico sino que el pro también lo es.
+
+
+
+Répondre
+
+
+@Elbebepro899-k5n
+il y a 15 heures
+Eres el mejor
+
+4
+
+
+
+Répondre
+
+
+@CubaSoftBusiness
+il y a 5 heures
+Uso GLM-5.2 desde la web con proyectos reales y me gustaría mucho un video de GLM-5.3.
+
+
+
+Répondre
+
+
+@caritacorp
+il y a 14 heures
+Cómo?, no que es gratis!
+
+7
+
+
+Répondre
+
+
+@techbyalva
+il y a 2 heures (modifié)
+Y con esto damos acceso a los chinos a todo nuestro sistema...me encanta. Quién te dice a ti que ese software no envié información sensible a los servidores de DeepSeek, solo digo una cosa, nadie regala nada y como decía mi abuela, nadie da duros por pesetas.
+
+1
+
+
+Répondre
+
+
+@elsubidonk
+il y a 3 heures
+Se viene fuerte la competencia desde China. 🫡
+
+
+
+Répondre
+
+
+@ylyenithnieves677
+il y a 5 heures
+La acabo de probar la ame 
+
+
+
+Répondre
+
+
+@CANTACATOLICOS
+il y a 8 heures
+excelente video, le agradezco nos comente sobre ia  de música. Gracias
+
+
+
+Répondre
+
+
+@GCTienda
+il y a 15 heures
+Buena info!!!
+
+4
+
+
+
+Répondre
+
+·
+
+Réponse
+
+@ShadowCleave
+il y a 12 heures
+esta brutal
+
+
+
+Répondre
+
+
+@herleysalazar3936
+il y a 13 heures
+Siempre Videos super interesantes!!!   gracias........
+
+1
+
+
+
+Répondre
+
+·
+
+Réponse
+
+@odserviaje
+il y a 10 heures
+Alejanvi tradición 
+Simplemente puntual 
+Botón para los puntuales
+
+
+
+Répondre
+
+
+@ZLBienesRaices
+il y a 6 heures
+Me dedico a las ventas en bienes raíces y la IA la uso mucho para mejorar mi ERP, análisis de marketing digital y demás cosas, pero ya no sé cuál es mejor para cada cosa...
+
+
+
+Répondre
+
+    
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Actualités IA de Deepseek
+0:000 secondeQuand tout semble avoir été inventé, ce qui change la donne, ce n'est pas la carte, mais le coup inattendu . Deepsic vient de bouleverser les règles du jeu. Alors que des modèles comme Clot semblaient dominer
+0:1111 secondesle marché grâce à leur classement et à la réduction de l'utilisation de l'intelligence artificielle, Deepsic est arrivé, lançant une nouvelle tendance définie par un seul mot :
+0:2020 secondesoptimisation. Avec cette approche, ils ont quasiment rendu l'IA accessible à tous, là où d'autres se contentaient de la limiter.
+0:2626 secondesDes modèles chinois comme Quen [music] 3.8, GLM 5.3 et Chemistry 3 ont suivi cette voie,
+0:3232 secondesmême si des entreprises de la Silicon Valley comme OpenEI n'ont eu d'autre choix que de s'y rallier,
+0:3737 secondesréduisant durablement le coût de certains de leurs modèles jusqu'à 80 %. Mais ce n'est pas tout : Deepsic a lancé il y a moins d'une semaine une plateforme capable de réaliser des prouesses inédites.
+0:5353 secondesPour le vérifier, nous la testerons à travers huit cas d'utilisation, notamment l'utilisation de son nouveau framework open-source, la génération de nos propres agents, plugins,
+1:021 minute et 2 secondesapplications entièrement fonctionnelles, et même son intégration avec les meilleurs modèles actuels
+1:071 minute et 7 secondes. Le plus intéressant, c'est que tout est désormais disponible sans aucune restriction pour tous les pays [musique], et si on le souhaite, on peut l'utiliser
+1:161 minute et 16 secondesentièrement gratuitement. Tentant, n'est-ce pas ? Alors, commençons par la première section. [musique]
+Chapitre 2 : Deepseek Harness
+1:261 minute et 26 secondesCommençons par la dernière nouveauté de DeepZIP [musique] : ils viennent de lancer leur propre Harness. Il s'agit essentiellement d'une plateforme comme OpenI avec Codex, Cloud avec Cloud Code
+1:361 minute et 36 secondes, et maintenant DeepSic avec son propre outil natif, mais avec trois caractéristiques clés qui la distinguent
+1:411 minute et 41 secondesdes autres. Premièrement, elle est open source, donc on peut faire ce qu'on veut avec. Deuxièmement, on peut créer n'importe quel plugin dont on a besoin au sein de notre
+1:511 minute et 51 secondespropre outil. Et troisièmement, pour la première fois, on bénéficie d'une traçabilité transparente, ce qui nous permet de tout voir en détail et de connaître toutes ses capacités. Découvrons DeepSic Harness,
+2:022 minutes et 2 secondesla plateforme dont je partagerai les liens ci-dessous dans la description. Dès votre arrivée sur cette page, vous verrez
+2:102 minutes et 10 secondesimmédiatement la mention « tout est un plugin », car il
+2:162 minutes et 16 secondesintègre de nombreuses fonctions, auxquelles vous pouvez facilement en ajouter d'autres en les demandant via une invite. En continuant à faire défiler la page,
+2:252 minutes et 25 secondesvous découvrirez les fonctionnalités clés mentionnées précédemment, comme le processus de traçabilité complet, la possibilité de l'exécuter sur plusieurs agents, et d'autres détails que nous explorerons
+2:342 minutes et 34 secondesplus en profondeur. Avant l'installation, je tiens à vous indiquer que vous trouverez cet outil sur le dépôt GitHub, car il est
+2:432 minutes et 43 secondesopen source sous licence Meet. Cela signifie que vous avez une totale liberté d'utilisation . Notez également ceci : il a déjà dépassé
+2:522 minutes et 52 secondesles 140 000 étoiles sur GitHub, alors que l'outil a été publié il y a seulement quatre jours, au moment où j'ai commencé l'enregistrement de cette vidéo. N'hésitez pas à me dire dans les commentaires combien d'étoiles cette vidéo a aujourd'hui
+3:023 minutes et 2 secondes ! Ceci étant dit, revenons à l'outil : son installation est d'une simplicité enfantine !
+3:073 minutes et 7 secondesIl suffit de copier cette commande. Ouvrez votre terminal, collez le code, cliquez sur « Envoyer », et le traitement commencera. Peu après, une fois
+3:183 minutes et 18 secondesl'installation lancée, un message différent s'affiche  : vous pouvez exécuter l'application depuis une URL.
+3:283 minutes et 28 secondesCopiez-la et collez-la dans votre navigateur pour
+3:343 minutes et 34 secondesaccéder directement à l'application, comme s'il s'agissait d'une version web, sauf que vous l'exécutez en réalité sur votre ordinateur.
+3:443 minutes et 44 secondesPour que cela fonctionne correctement, il est indispensable d'avoir installé au préalable l'application Node.js, entièrement gratuite (lien ci-
+3:533 minutes et 53 secondesdessous). Une fois lancée, l'application demandera une clé API pour se connecter à Deepsek. Étant donné qu'elle est open source, elle…
+4:034 minutes et 3 secondesIls nous permettent officiellement de nous connecter à n'importe quel autre modèle, contrairement à des outils comme Codex ou Cloud Code, qui ne permettent de se connecter qu'aux
+4:134 minutes et 13 secondesmodèles de l'entreprise. Comme nous le verrons plus tard, je vais cliquer sur « Configurer » pour que vous puissiez voir une interface très similaire à celle de la
+4:224 minutes et 22 secondesversion chat de DeepSick, celle-ci, qui, soit dit en passant, est totalement illimitée. Donc, si vous comptez l'utiliser principalement pour le chat, je vous recommande cette version.
+4:314 minutes et 31 secondesMais l'avantage de l'autre outil DeepSick Handness que nous avons installé est qu'il nous permet de faire et d'automatiser tout ce que nous voulons, du contrôle de notre ordinateur
+4:414 minutes et 41 secondesà son interconnexion avec des outils tiers, etc. Comme vous pouvez le voir ici, la première chose qu'il nous demandera est de nous connecter à un espace de travail. En cliquant dessus,
+4:504 minutes et 50 secondesnous devrons sélectionner un dossier. Dans ce cas, je vais lui indiquer le dossier Téléchargements. Une fois cela fait, nous pourrons commencer à y écrire
+4:584 minutes et 58 secondeset même contrôler les permissions : lecture seule, écriture seule ou accès complet. Je vais le laisser ainsi pour que
+5:085 minutes et 8 secondesnous puissions visualiser les différents cas plus clairement. Cet outil possède en réalité de nombreuses autres fonctionnalités, mais commençons par le début en connectant l'un de ses modèles.
+Chapitre 3 : Modèles Deepseek V4
+5:215 minutes et 21 secondesDans ce second cas, nous connecterons d'abord le modèle officiel DeepSic, car il est l'un des plus performants et, surtout, le moins coûteux parmi tous les
+5:325 minutes et 32 secondesmodèles d'intelligence artificielle actuellement disponibles. En effet, si nous le comparons à des modèles assez proches, comme Fable 5, nous constatons qu'il coûte moins de 100 fois moins cher
+5:425 minutes et 42 secondespour la même tâche. Cela permet de trouver des exemples comme celui de cet utilisateur sur X, qui a généré ce jeu de type Counter-Strike, et qui
+5:525 minutes et 52 secondesest vraiment impressionnant. Mais le plus surprenant, c'est que le modèle d'IA
+5:575 minutes et 57 secondesait fonctionné pendant plus d'une demi-heure pour un coût d'environ 7 centimes seulement. Avec 2 $,
+6:046 minutes et 4 secondesil pourrait facilement fonctionner toute la journée. De plus, grâce à l'
+6:096 minutes et 9 secondesoptimisation des coûts des modèles par Deepsic, on constate d'autres initiatives similaires, où des entreprises comme Orc Router proposent tous leurs modèles, tels que le
+6:206 minutes et 20 secondesTipsic V4 Pro et le V4 Flash (le plus récent), gratuitement,
+6:266 minutes et 26 secondescar cela ne représente pas un coût significatif pour elles. D'ailleurs, via la plateforme Orc Router, vous pouvez voir comment utiliser gratuitement ces modèles. Parmi
+6:366 minutes et 36 secondeseux, on trouve Deepsic, ainsi que d'autres options open source, comme Quen. Mais pour ce second cas, nous utiliserons l'API officielle de Deepsic,
+6:466 minutes et 46 secondescar son coût est très abordable. Ci-dessous, vous trouverez également le lien vers la plateforme officielle d'accès à l'API Dipsy. Il vous suffit de
+6:566 minutes et 56 secondesvous inscrire en cliquant sur « Se connecter » ou en vous connectant avec votre compte Google. Je viens de le faire et voici l'interface où les soldes sont affichés. À partir d'ici, si
+7:067 minutes et 6 secondesnous voulons ajouter du crédit à l'application officielle, il suffit de cliquer sur « Haut » et de sélectionner le montant souhaité. Remarquez comme cette plateforme est intéressante : même avec
+7:157 minutes et 15 secondesseulement 2 $, ce montant permet d'aller très loin, bien que nous puissions ajouter autant que nous le souhaitons. D'ailleurs, je vais profiter de son optimisation et
+7:257 minutes et 25 secondesajouter ce montant. Je continue avec PayPal et, après confirmation de l'achat, je vois que
+7:317 minutes et 31 secondesles dollars ont été ajoutés. En fait, si nous allons dans la section « Utilisation », il apparaîtra que ce crédit est disponible, mais pour l'utiliser, nous devrons
+7:417 minutes et 41 secondesgénérer une clé API que nous connecterons à Deepsic Harness. Pour ce faire, il suffit de cliquer sur la section « Clé API », de sélectionner « Créer une nouvelle clé API » et de lui donner un nom.
+7:517 minutes et 51 secondesDans ce cas, je vais vous montrer comment faire. Cliquez sur « Créer une clé API », puis copiez-la.
+7:577 minutes et 57 secondesSur la plateforme, si vous actualisez la page, comme vous n'avez pas de clé API, collez -la et cliquez sur « Enregistrer et continuer ». La connexion sera alors établie. Pour vérifier,
+8:078 minutes et 7 secondescliquez sur « Paramètres », puis sur « Modèles » : vous verrez que la clé API Tipsic est
+8:138 minutes et 13 secondesdisponible. Nous verrons plus tard comment ajouter d'autres fournisseurs, mais vérifions d'abord que tout fonctionne. Pour cela, retournez dans la section de chat. Comme vous avez
+8:228 minutes et 22 secondesautorisé l'accès au dossier de téléchargement, vous pouvez y effectuer toutes les modifications souhaitées. Notez également qu'en bas à droite, vous pouvez
+8:308 minutes et 30 secondessélectionner le modèle, comme Deepsek V4 Flash ou Deepsek V4 Pro, et modifier le niveau d'effort. Je vais le laisser sur la valeur par défaut « Pro, effort élevé ».
+8:428 minutes et 42 secondesMaintenant, si je lui indique quoi que ce soit d'ici, par exemple s'il peut lister le contenu de mon dossier Téléchargements, lorsque je clique sur Envoyer, il commencera à traiter la demande. Vous remarquerez qu'il
+8:528 minutes et 52 secondesm'indiquera presque instantanément tout ce qui se trouve ici : quelques
+8:588 minutes et 58 secondesimages, une vidéo, un fichier et des dossiers cachés. En fait, tous ces fichiers, qui correspondent exactement à ceux qu'il a listés, apparaîtront déjà ici.
+9:089 minutes et 8 secondesMais notez ce détail : si nous cliquons sur « Chemin », nous pourrons voir le détail étape par étape des actions
+9:149 minutes et 14 secondeseffectuées par ces agents. La section grise représente tout ce qui est indépendant du système. La section verte représente le contexte, sur lequel je peux également cliquer pour avoir un aperçu de tout ce qui se passe et de toutes
+9:239 minutes et 23 secondesles sources utilisées. La section bleue affiche toutes nos modifications, et la section violette représente tout ce que l'agent a fait. De plus, nous pouvons également prévisualiser le tout en fonction de la durée, qui, dans ce cas, a été pratiquement instantanée.
+9:369 minutes et 36 secondesEn fin de compte, j'apprécie cette plateforme pour sa transparence. Notez également que je peux demander d'autres modifications à partir d'ici. Par exemple, je vais dire d'ici :
+9:459 minutes et 45 secondes« Hé, peux-tu déplacer les images dans un nouveau dossier appelé « images » ? » Je clique sur Envoyer. Le traitement démarre immédiatement, et même très rapidement. En fait,
+9:549 minutes et 54 secondesles différentes commandes sont déjà en cours d'exécution. Avant même que j'aie fini ma phrase, on voit qu'il nous indique clairement avoir créé un dossier nommé « images » ;
+10:0210 minutes et 2 secondesles deux images n'ont pas encore été déplacées. Si je retourne dans le dossier Téléchargements, je peux effectivement voir le dossier « images » avec les deux images déplacées. De même, si je retourne dans la section Chemin d'accès
+10:1110 minutes et 11 secondes, je peux voir toutes les commandes utilisées pour réaliser cette opération. Au final, nous pouvons maintenant travailler de manière hautement optimisée, à moindre
+10:2110 minutes et 21 secondescoût et avec un contrôle total, en sachant exactement ce qui se passe à chaque instant. Grâce à Deepsy Harness, nous disposons d'une base très intéressante pour développer
+10:3010 minutes et 30 secondesdes projets. De plus, nous pouvons l'intégrer à n'importe quel logiciel de musique. C'est pourquoi je souhaite vous présenter Topview MCP. Cette plateforme utilise cet agent de manière
+10:4110 minutes et 41 secondesconcrète pour étudier le marché et transformer les informations recueillies en contenu exploitable.
+10:4610 minutes et 46 secondesVous pouvez connecter Topview MCP à n'importe quel agent d'intelligence artificielle, qu'il provienne de Tips Harness, Codex, Cloud Code ou d'autres. Une fois connecté,
+10:5710 minutes et 57 secondesvous pouvez lui demander d'analyser les signaux de TikTok, YouTube, Amazon ou Shopee afin de comprendre les audiences,
+11:0211 minutes et 2 secondesles tendances et la concurrence. Grâce à ces données, il peut préparer des analyses, des messages ou un plan de campagne, ainsi qu'un briefing, sans avoir à jongler entre différents outils. Vous pouvez ensuite partager l'image de votre produit
+11:1211 minutes et 12 secondespour la production, générer des images, des vidéos, et bien plus encore, grâce à différents modèles d'intelligence artificielle et leurs interfaces visuelles. Surtout,
+11:2111 minutes et 21 secondestout se fait depuis une plateforme unique, permettant aux agents de gérer l'ensemble des tâches de manière unifiée. Ainsi, un agent qui se contente de répondre devient un agent qui analyse et élabore des stratégies.
+11:3111 minutes et 31 secondeset exécute une production complète du début à la fin. De plus, grâce à Ketop Views, sponsor de cette vidéo, j'ai reçu un lien spécial que je vous laisse dans la description ci-dessous pour que vous puissiez l'essayer vous-même. Maintenant que nous savons cela, passons au cas d'utilisation suivant.
+Chapitre 4 : Création d'application
+11:4911 minutes et 49 secondesAvec ce troisième cas d'utilisation, nous allons explorer plus en profondeur cet outil à travers des applications concrètes. Nous allons maintenant créer une application d'IA complète avec
+11:5811 minutes et 58 secondesDeeps. Pour ce faire, je suis revenu à l'endroit où nous nous étions arrêtés, mais je vais maintenant cliquer ici pour démarrer une nouvelle session. Une fois ici, vous remarquerez qu'il
+12:0612 minutes et 6 secondesexiste un mode avec quatre agents différents : l'agent standard,
+12:1112 minutes et 11 secondesqui gère certaines tâches à 360 degrés, un autre axé sur le code, un autre plus minimaliste
+12:1712 minutes et 17 secondeset un dernier axé sur la création. Cependant, même en mode standard, nous pourrons effectuer n'importe quel type de tâche. Ensuite, nous verrons comment créer de nouveaux agents,
+12:2612 minutes et 26 secondesmais concentrons-nous d'abord sur la création d'une application. Je vais lui écrire ici pour lui demander de créer une application de mind mapping dédiée à la productivité, à la pensée critique et à la stratégie,
+12:3512 minutes et 35 secondesavec un design visuel, fluide et inspiré de Miro. Je souhaite qu'elle soit pleinement fonctionnelle et qu'elle génère également un site web associé afin de présenter les fonctionnalités clés
+12:4512 minutes et 45 secondesde cet outil en développement. Avec toutes ces informations, cliquons sur «  Envoyer » pour que Deepsic puisse commencer le traitement à la vitesse que vous
+12:5512 minutes et 55 secondesconstatez. Pendant le traitement, notez qu'en développant la section de gauche, nous aurons accès à différentes fonctionnalités présentes dans d'autres outils payants, comme la possibilité de rechercher facilement n'importe quelle conversation.
+13:0713 minutes et 7 secondesNous pouvons également modifier différents paramètres, tels que l'ordre des conversations ou leur regroupement par espace de travail, car en cliquant ici, nous pouvons
+13:1613 minutes et 16 secondesajouter des groupes de travail supplémentaires. Comme je vous l'ai expliqué, cela représente une autre différence majeure avec la version gratuite et limitée de Dipsi.
+13:2613 minutes et 26 secondesOutre l'accès aux dossiers partagés, nous accédons également au mode agent, qui permet d'exécuter une série de tâches pour
+13:3413 minutes et 34 secondesatteindre l'objectif final du développement de l'application. Après environ 9 minutes, toutes ces étapes seront terminées. L'agent nous indiquera alors comment ouvrir l'application et nous fournira un résumé de toutes les actions effectuées et des fonctionnalités à venir.
+13:4713 minutes et 47 secondesNous pouvons ainsi visualiser l'intégralité du processus. Sans plus attendre,
+13:5313 minutes et 53 secondescopions cette commande, collons-la ici et envoyons-la. En ouvrant cette URL
+13:5913 minutes et 59 secondesdans une nouvelle fenêtre, nous trouverons l'application « Nexus of Complex Ideas to Clear Plans ». Nous verrons alors la page d'accueil expliquant l'application, comme
+14:0914 minutes et 9 secondesdécrit dans le résumé. Vous remarquerez les différents blocs, tels que les cas d'utilisation, le fonctionnement et
+14:1814 minutes et 18 secondesun bouton d'appel à l'action pour ouvrir l'application. Je vais cliquer dessus. Nous pourrons ainsi accéder à l'application, qui, comme vous pouvez le constater, est entièrement fonctionnelle. Je peux me déplacer,
+14:2514 minutes et 25 secondeszoomer et dézoomer. Chaque nœud est également indépendant. Ici, j'ai le texte, l'icône, je peux changer
+14:3514 minutes et 35 secondesla couleur, ajouter une priorité et créer de nouvelles cartes. Je clique sur « Nouvelle carte ». Double-clique pour ouvrir un nouveau nœud. Je vais saisir « Test »
+14:4414 minutes et 44 secondeset cliquer sur le signe plus pour générer un autre nœud, que je nommerai « Nœud 2 ». Je change l'icône et voyons si nous pouvons le lier à celui-ci. Remarquez
+14:5414 minutes et 54 secondesl'animation verte qui s'ajoute lorsque je le colle. Ainsi, cet outil sera pleinement fonctionnel dès le premier essai : il aura non seulement créé une tâche, mais aussi…
+15:0415 minutes et 4 secondesUn site web. D'ailleurs, par curiosité, voyons le coût total de la création du site, de l'application et des tests précédents, en déplaçant des fichiers dans des dossiers et en vérifiant leur contenu
+15:1315 minutes et 13 secondes. Comme vous pouvez le constater, cela n'aurait coûté qu'environ 10 centimes
+15:1815 minutes et 18 secondespour ces près de 300 000 jetons et 17 appels API. Ainsi, comme vous le voyez, nous allons aller très loin avec des coûts très optimisés, en utilisant directement une API officielle.
+Chapitre 5 : Génération de plugins
+15:3515 minutes et 35 secondesDans cette quatrième section, nous allons découvrir les fonctions avancées disponibles directement sur DeepSic Harness, auxquelles nous pouvons ajouter des fonctionnalités supplémentaires sur
+15:4415 minutes et 44 secondesdemande. Pour cela, je suis retourné dans l'outil et j'ai remarqué que dans les paramètres, puis dans la section « Plugins », et enfin dans la liste des plugins, nous trouvons
+15:5415 minutes et 54 secondesde nombreux plugins, dont beaucoup sont déjà activés. Si ce n'est pas le cas,
+16:0016 minutesnous pouvons les activer. Des fonctions comme la recherche sur Internet, l'automatisation de flux de travail complets, et bien plus encore… Mais au-delà de cette liste, il suffirait
+16:1016 minutes et 10 secondesde demander quel type d'outil nous souhaitons sur cette plateforme, et elle s'en chargerait . D'ailleurs, je reviens à Chat GPT car je veux reproduire un plugin très intéressant
+16:2016 minutes et 20 secondesde Codex, unique en son genre. Il s'agit de l'utilisation d'animaux de compagnie : une fois
+16:2616 minutes et 26 secondescréé, on voit ce petit personnage voler sur l'écran et on peut interagir avec lui. Eh bien , nous pouvons demander à Dipsi d'ajouter cette fonctionnalité, si spécifique à Chat GPT
+16:3616 minutes et 36 secondes. Pour ce faire, depuis une nouvelle conversation, je vais lui demander simplement de créer un plugin pour ajouter une grenouille à l'interface web de
+16:4516 minutes et 45 secondesce happer. Appuyons sur Envoyer. Pendant que le plugin se génère assez rapidement, remarquez la section en bas à droite qui affiche
+16:5616 minutes et 56 secondestout le contexte. Par défaut, nous avons un million, ce qui est considérable. Nous pourrons également voir sa répartition, son utilisation en fonction
+17:0517 minutes et 5 secondesdes fonctionnalités du système, des outils et des messages reçus dans cette conversation. Un peu plus tard, le système m'a indiqué que cette opération était déjà effectuée. Remarquez, en bas à droite, la grenouille qui
+17:1417 minutes et 14 secondesdit « Bonjour, je suis une grenouille ». En cliquant dessus, cette phrase change. Comme vous pouvez le constater, la mascotte est conservée dans la nouvelle session, de manière très similaire à
+17:2417 minutes et 24 secondesl'application GPT Chat. Cependant, cette fonctionnalité se limite à la modification des phrases, même si elle peut également le faire si on
+17:3217 minutes et 32 secondesle spécifie. Pour un autre exemple, un peu plus fonctionnel, je vais lui demander de créer un plugin pour une calculatrice. Clique sur « Envoyer ». Quelques minutes plus tard, le plugin sera
+17:4217 minutes et 42 secondesprêt. Pour le voir, il suffit d'actualiser la page ; il devrait également apparaître en bas à droite. Faisons-le. Remarquez que j'ai accès à cette application. En cliquant ici, la calculatrice apparaît.
+17:5517 minutes et 55 secondesIl faut ajuster le contraste, mais prenons l'exemple de 7 × 2.
+18:0118 minutes et 1 secondeLe résultat s'affiche ici. Je peux également supprimer cet élément et le laisser affiché en permanence, quel que soit l'endroit où je me trouve dans l'application.
+Chapitre 6 : Agents IA personnalisés
+18:1618 minutes et 16 secondesDans ce cinquième cas, nous allons voir comment créer des équipes d'agents personnalisés pour automatiser tout type de tâche. Pour
+18:2418 minutes et 24 secondescela, revenons à l'endroit où nous nous étions arrêtés. Rappelez-vous que dans cette section , nous utilisons le mode agent standard, même s'il existe d'
+18:3318 minutes et 33 secondesautres types d'agents, que nous pouvons même créer de toutes pièces. En bas à gauche, dans la section des agents prédéfinis, nous trouvons ces quatre agents. Chacun
+18:4318 minutes et 43 secondesd'eux est accompagné d'une brève description. Nous pouvons aussi en créer des personnalisés en cliquant sur ce bouton. Remarquez que l'élément n'apparaît pas.
+18:5218 minutes et 52 secondesIl n'y a pas d'autres options ; cela nous amène simplement à la section de chat, car c'est aussi simple que de poser une question. Par exemple, si je
+19:0219 minutes et 2 secondesdemande à un agent expert d'audit de code d'examiner automatiquement tous les
+19:0719 minutes et 7 secondesprojets auxquels je lui donne accès et de rechercher des bogues, des vulnérabilités, etc., cliquer sur « Envoyer »
+19:1419 minutes et 14 secondeslancera le traitement de la demande. Peu après, un message nous confirmera la création de l'agent expert d'audit de code, que nous pourrons utiliser sous le nom «
+19:2319 minutes et 23 secondes Audit de code ». Le système affichera le chemin de création, ainsi que sa fonction précise  : détecter les bogues et les vulnérabilités, classer leur gravité et expliquer brièvement
+19:3319 minutes et 33 secondesses découvertes avant de modifier le code, puis générer un rapport récapitulatif . En bas de la page, nous verrons comment
+19:4219 minutes et 42 secondesl'utiliser directement en sélectionnant notre propre agent. D'ailleurs, si nous ouvrons une nouvelle session maintenant, nous constaterons qu'en cliquant sur la section « Personnes », en plus
+19:5219 minutes et 52 secondesdes quatre agents déjà présents, nous trouverons celui-ci, nommé « Audit de code ». Cliquer dessus le sélectionnerait et afficherait une brève description,
+20:0120 minutes et 1 secondeégalement disponible dans les paramètres. Si je saisis une requête, par exemple « Demander un audit de l'application Nexo créée pour le deuxième cas d'utilisation », un clic sur
+20:1120 minutes et 11 secondes« Envoyer » lancera le traitement. Peu après, le système nous informera que l'ensemble du projet a été analysé et que trois correctifs ont été identifiés et implémentés.
+20:2220 minutes et 22 secondesLa perte silencieuse de données lors de l'enregistrement a été traitée en priorité.
+20:2620 minutes et 26 secondesConcernant les médias, le système a également signalé des problèmes de navigation mobile, ainsi que d'autres détails. Nous pouvons consulter ici tous les points clés identifiés,
+20:3620 minutes et 36 secondesclassés par ordre de priorité. Par exemple, nous verrons toutes les annulations de comptes. Enfin, le système fournira toutes les informations et un résumé des actions entreprises pour résoudre les problèmes.
+20:4520 minutes et 45 secondesGrâce à cela, fini les réponses génériques ! Nous disposerons désormais d'agents personnalisés pour les tâches spécifiques
+20:5420 minutes et 54 secondesà automatiser. En réalité, vous l'avez peut-être remarqué, mais une nouvelle innovation en intelligence artificielle apparaît presque chaque jour, et cela peut être déroutant. Je souhaite donc partager trois
+21:0421 minutes et 4 secondespoints importants, et je suis certain qu'au moins l'un d'eux vous intéressera. Pour ce faire, je me suis rendu sur la page de mon Académie d'Intelligence Artificielle, où vous trouverez une section « Actualités » intitulée
+21:1421 minutes et 14 secondes« Actualités Intelligence Artificielle ». Vous y trouverez toutes les dernières actualités pertinentes et utiles pour leur application.
+21:2521 minutes et 25 secondesCliquez simplement sur « Lire les actualités » pour consulter un article : vous y trouverez un résumé des nouveautés , des changements, un bref aperçu, et vous pourrez également accéder directement à la
+21:3521 minutes et 35 secondessource officielle. De plus, n'oubliez pas que nous proposons également des formations animées par divers experts, couvrant tous les aspects des principales plateformes.
+21:4421 minutes et 44 secondesMais s'il y a une formation que je recommande vivement, c'est le programme intensif d'Intelligence Artificielle.
+21:4821 minutes et 48 secondesVous travaillerez avec moi et un petit groupe de personnes par visioconférence, et nous aborderons tous les aspects de l'intelligence générative de manière pratique,
+21:5921 minutes et 59 secondesvous offrant ainsi une vision stratégique et réaliste pour une utilisation professionnelle. Je vous laisse toutes ces informations dans la description ci-dessous. Jetez-y un œil et dites-moi si je vous retrouve en cours.
+Chapitre 7 : Modèles d'IA gratuits
+22:1322 minutes et 13 secondesDans ce sixième cas, nous allons voir comment connecter d'autres modèles d'intelligence artificielle à la plateforme Deep C que nous utilisons, des modèles qui
+22:2222 minutes et 22 secondespourraient même être gratuits, au moins via l'API. Pour ce faire, je suis retourné sur la plateforme. Vous remarquerez que si nous allons dans la section « Paramètres » et que nous cliquons à nouveau sur la
+22:3022 minutes et 30 secondessection « Modèles », le modèle Deep C est activé.
+22:3522 minutes et 35 secondesAu fait, je n'ai pas ajouté de crédits supplémentaires à tout ce que vous voyez dans la vidéo jusqu'à présent car, franchement, il y a beaucoup à aborder. Mais en plus de cela, nous pourrions également ajouter
+22:4322 minutes et 43 secondesdes fournisseurs tiers, ce qu'aucun outil officiel ne fait. Par exemple, Cloud Code ne peut se connecter officiellement que via le cloud, Codex uniquement avec
+22:5322 minutes et 53 secondesles modèles Open EII, etc. Mais ici, Deepsek est allé plus loin et a ajouté cette option pour ajouter un fournisseur. Si nous cliquons sur ce sélecteur, nous découvrirons
+23:0223 minutes et 2 secondesqu'il existe une multitude de modèles disponibles. Des modèles que nous pouvons même utiliser
+23:0823 minutes et 8 secondesavec des applications gratuites comme celles proposées par Open Router, ainsi que d'autres sites web comme Grock. Essayons d'abord Grock, puisqu'il propose des API gratuites. Il vous suffit
+23:1823 minutes et 18 secondesd'entrer la clé API. Et pour ce faire, si nous nous rendons sur la plateforme Grock, dont je vous donnerai également le lien ci-dessous, après nous être connectés, nous trouverons ce panneau qui nous montre tous les modèles disponibles.
+23:3123 minutes et 31 secondesCes modèles incluent des modèles de raisonnement comme Wen et Open II, des modèles de synthèse vocale, des modèles de reconnaissance vocale, des modèles de chat, des modèles de vision, et bien plus encore. Pour les utiliser (ils
+23:4123 minutes et 41 secondessont open source, comme vous pouvez le constater), il suffit de cliquer sur « Clé API » en haut, de sélectionner « Créer une nouvelle clé API », de lui donner un nom, de la copier
+23:5023 minutes et 50 secondes, puis de la coller. Appliquez la clé : la connexion sera établie . En actualisant la page et en sélectionnant la section « Modèles »
+24:0124 minutes et 1 seconde, vous trouverez d'autres modèles à ajouter . Imaginez maintenant que vous souhaitiez ajouter un fournisseur, mais qu'il ne
+24:1124 minutes et 11 secondesfigure dans aucune des listes existantes, par exemple pour utiliser des modèles installés localement avec des outils comme Olama.
+24:2024 minutes et 20 secondesCette option n'apparaît pas ici, mais sachez qu'il est possible d'ajouter un fournisseur personnalisé.
+24:3024 minutes et 30 secondesPour cela, cliquez simplement sur cette section et suivez la documentation de la plateforme à laquelle vous souhaitez vous connecter. Ceci vous indiquera les informations à saisir dans
+24:3824 minutes et 38 secondeschaque champ, bien qu'une intelligence artificielle puisse également vous fournir ces informations en fonction de la plateforme à laquelle vous souhaitez vous connecter. En enregistrant et en créant simplement ce fournisseur, vous pouvez vous connecter à des modèles autres que ceux présentés dans cet outil.
+24:5024 minutes et 50 secondesCet outil est si flexible que, dans l'exemple suivant, nous verrons comment connecter des modèles installés localement, rendant ainsi son utilisation non seulement gratuite, mais aussi illimitée et privée.
+Chapitre 8 : Privé et SANS limite
+25:1025 minutes et 10 secondesDans cet avant-dernier cas, nous connecterons des modèles installés localement directement à DeepSic Harness. C'est très intéressant, car il existe de plus en plus de modèles optimisés de
+25:2025 minutes et 20 secondeshaute qualité, tels que Quen 3.8, lancé il y a quelques jours par Alibaba,
+25:2525 minutes et 25 secondesavec 7 milliards de paramètres, capable de fonctionner sur des appareils dotés d'environ 18 Go de VRAM
+25:3125 minutes et 31 secondes— des ordinateurs que nous pourrions même avoir chez nous. Cela explique pourquoi, alors
+25:3725 minutes et 37 secondesqu'Antropic facture environ 1 $ par million de données de sortie, des modèles comme Quen sont pratiquement
+25:4425 minutes et 44 secondesgratuits. De plus, étant open source, un phénomène similaire à celui de DeepSC se produit : nous pouvons également l'utiliser gratuitement via une API dans de nombreux outils. En fait,
+25:5425 minutes et 54 secondespeu avant l'enregistrement, j'ai vu un tweet de cet utilisateur montrant comment utiliser le modèle le plus puissant, Max, sans
+26:0526 minutes et 5 secondesfrais d'entrée ni de sortie, sur une plateforme comme Token Router. Je voulais simplement le mentionner pour que
+26:1126 minutes et 11 secondesvous sachiez qu'il existe des modèles très performants qui ne sont pas forcément officiels ou issus des plateformes les plus connues. Voyons maintenant rapidement comment…
+26:2126 minutes et 21 secondesNous pourrions le connecter à Olama pour une intégration simplifiée. Pour ce faire, je me suis rendu sur Olama, car cette plateforme explique, en descendant un peu, comment
+26:3126 minutes et 31 secondesutiliser des outils comme Deepsick Harness, que nous examinons ici. Ici, elle nous permettra de l'utiliser en privé, sans connexion Internet. Dans plusieurs régions, nous utilisons
+26:4126 minutes et 41 secondesdes modèles cloud, tous basés sur des modèles open source. Pour l'utiliser, la première étape consiste à télécharger l'application Olama, ce qui est possible
+26:5126 minutes et 51 secondesgrâce à un programme d'installation sur Mac et Windows. Sous Linux, une simple commande suffit.
+26:5626 minutes et 56 secondesUne fois l'application Olama ouverte, tous les modèles installés s'afficheront . Je vais vous présenter Olama plus rapidement, car je
+27:0427 minutes et 4 secondesl'ai déjà détaillé dans cette vidéo. Maintenant que nous savons, grâce à cette vidéo, comment télécharger des modèles localement, notez que dans la section « Lancement », parmi toutes les
+27:1327 minutes et 13 secondesoptions, une nouvelle option appelée Deepsick Harness apparaît : celle-ci.
+27:1927 minutes et 19 secondesIl suffit ensuite de copier cette commande, d'ouvrir un nouveau terminal et de la coller . Lorsque nous procédons ainsi, si l'application HNE n'est pas déjà installée, elle nous propose de
+27:2827 minutes et 28 secondesl'installer. Il suffit alors de confirmer pour lancer l' installation. Quelques secondes plus tard, un message nous indique que tout est prêt. À partir de là,
+27:3727 minutes et 37 secondesau lieu de lancer l'application, la première question est de choisir le modèle à connecter. Il peut s'agir de modèles comme le GLM 5.2, disponible directement
+27:4727 minutes et 47 secondesdans leur cloud (bien qu'il s'agisse d'un modèle payant). D'autres modèles gratuits sont également disponibles dans le cloud, comme celui-ci. Outre ces modèles, nous pouvons aussi connecter des modèles locaux, comme ceux que j'ai déjà installés
+27:5627 minutes et 56 secondessur mon appareil. Si j'utilise l'un d'eux, comme le petit Yenma 4 par exemple, j'appuie sur Entrée. L'application sera alors connectée à cette URL. Lorsque
+28:0728 minutes et 7 secondesvous rouvrirez l'application Deipsic après l'avoir fermée et lancée avec Olama, vous constaterez que la section « Modèles » contient désormais tous les
+28:1528 minutes et 15 secondesmodèles Olama disponibles, comme le modèle Yenma 4E4B. Ainsi, toute itération effectuée, telle que la
+28:2328 minutes et 23 secondesquestion que vous voyez ici, ne s'exécutera pas dans le cloud ; tout se passera entre l'ordinateur et nous. De plus, et sans entrer dans la
+28:3228 minutes et 32 secondesdocumentation officielle de Deeps, il est possible d'intégrer leurs modèles à n'importe quel
+28:3728 minutes et 37 secondesautre JARNET, comme Cloud Code, Codex, etc. Pour ce faire,
+28:4328 minutes et 43 secondesil suffit de suivre les étapes indiquées, mais vous pouvez également utiliser un outil comme GPT Chat, lui envoyer l'URL et préciser : « Je souhaite que
+28:5428 minutes et 54 secondesnous nous connections au modèle Deeps, car il est plus économique. Pour cela, suivez les instructions de la documentation officielle afin d'utiliser leurs modèles. »
+29:0329 minutes et 3 secondesIl suffit ensuite de cliquer sur « Envoyer », et le traitement commencera. Un peu plus tard, il m'a indiqué que la
+29:0929 minutes et 9 secondesconnexion au modèle Deepsic V4 était établie et que, pour afficher l'option Deepsic dans le sélecteur de modèles, il me suffisait de fermer puis de rouvrir l'application. Vérifions.
+29:2029 minutes et 20 secondesEt effectivement, c'est fait. L'application s'est ouverte. Remarquez que dans la section « Modèles »,
+29:2629 minutes et 26 secondesDeepsic Flash et Deepsic Pro sont directement intégrés à notre codex. Ainsi
+29:3329 minutes et 33 secondes, tout en conservant nos tâches planifiées, plugins, compétences, etc.,
+29:3929 minutes et 39 secondesnous pouvons également utiliser les modèles Deeps, bien plus économiques, et ainsi combiner les deux modèles de manière optimale.
+Chapitre 9 : GLM 5.3 disponible
+29:5429 minutes et 54 secondesTerminons rapidement avec un dernier cas d'utilisation : je souhaite vous montrer comment de nouveaux modèles chinois ne se contentent plus d'être une alternative gratuite ou moins chère,
+30:0330 minutes et 3 secondesmais s'imposent comme des modèles d'intelligence artificielle parmi les meilleurs. Cette vidéo a été enregistrée il y a quelques heures seulement.
+30:1130 minutes et 11 secondesJ'ai vu que le modèle GLM 5.3 vient d'être publié. Comme le montre le graphique, il s'agit d'un modèle parmi les plus performants en intelligence artificielle.
+30:2130 minutes et 21 secondesNous pourrons d'ailleurs analyser ces performances en détail et constater sa supériorité par rapport à des modèles comme Fable 5 dans la section Cyber ​​Jing Automation Bench, ainsi que dans d'autres
+30:3230 minutes et 32 secondesdomaines. Notez que si vous vous rendez sur la plateforme Zai, que nous
+30:3830 minutes et 38 secondesavons déjà présentée en détail dans une autre vidéo (disponible ici), vous constaterez que vous pouvez désormais utiliser directement ce modèle GLM 5.3, même s'il
+30:4830 minutes et 48 secondesn'est pas encore disponible en version web. Nous en resterons là
+30:5530 minutes et 55 secondespour le moment concernant ce dernier modèle GLM 5.3, car je souhaite vraiment le tester plus en profondeur. N'hésitez pas à me dire dans les commentaires si vous seriez intéressés par une vidéo plus détaillée à son sujet. Enfin,
+31:0331 minutes et 3 secondesje voulais vous montrer à quel point les modèles sont mis à jour à un rythme de plus en plus rapide . En réalité, le modèle DeepSic V4 n'a été officiellement lancé que récemment, mais
+31:1331 minutes et 13 secondesdes rumeurs circulent déjà concernant la sortie prochaine du nouveau DeepSic V5. Ce nouveau modèle ambitionne de se positionner comme le plus performant du marché, tout en étant bien moins cher que ses concurrents.
+31:2531 minutes et 25 secondesCes modèles vous offrent certes un outil plus performant, mais s'il y a une chose que chaque avancée démontre, c'est que la victoire ne revient pas à celui qui possède le marteau le plus cher, mais à celui qui sait où frapper.
+
+Tout
+
+Pour vous
+
+Regardées
+
+31:53
+Comment Lire un Graphique comme un PRO ? (Guide de 30min)
+Kasper
+186 k
+il y a 1 a
+
+
+40:20
+Ma Routine pour rester SEC et MUSCLÉ à 42 ANS (Toute l'Année !)
+Julien QUAGLIERINI
+58 k
+il y a 2 a
+
+
+7:19
+Hyrox - How To Improve Your Row
+Jake Dearden
+990
+il y a 13 h
+Nouveau
+
+
+22:57
+J’ai donné un VPS à mon agent IA : voici comment je garde le contrôle
+Mike Codeur
+176
+il y a 1 h
+Nouveau
+
+
+35:16
+Transformer un PC (mon plus gros projet terminé)
+Abrège
+ et Kang et ses PC
+135 k
+il y a 2 m.
+
+
+19:35
+Les 11 meilleurs aliments pour augmenter la testostérone
+Nassim Sahili
+358 k
+il y a 1 a
+
+
+31:03
+DÉCOUVREZ LA VRAIE VIE D'UN TRADER
+LEGEND
+985 k
+il y a 3 a
+
+
+1:34:00
+Alerte de Konstantin Kisin : Nos dirigeants sont dépassés, vers le conflit et la violence !
+The Diary Of A CEO
+ et 2 autre(s)
+813 k
+il y a 1 j
+Nouveau
+Doublée
+
+
+43:03
+Je suis une victime d'Oussama Ammar
+Olivier Roland
+390 k
+il y a 2 m.
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+9,9 M
+il y a 8 m.
+Doublée
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+345 k
+il y a 3 m.
+
+
+16:30
+DeepSeek Harness : Claude Code ne sait pas faire ÇA
+Pentiminax
+7 k
+il y a 2 j
+Nouveau
+
+
+😱Arnold : Comment éviter le ventre bombé #mrolympia #bodybuilding #arnoldschwarzenegger
+5,2 M de vues
+
+
+The Bee Gees with the purest version of How Deep Is Your Love! #Beegees #andygibb #howdeepisyourlove
+6,7 M de vues
+
+
+Ronnie was too Big for the Police? #motivation #goldenera #mrolympia #gym #inspiration #bome #shorts
+2,3 M de vues
+
+Жим 100 кг уже никого особо не удивляет.А вот присед 200 кг — это уже совсем другая история.
+63 k vues
+
+Robbie Williams – Feel (Lyrics)
+54 k vues
+
+Why Noel Deyzel got “Small” #fitness
+5,3 M de vues
+
+
+
+20:21
+6 ÉTAPES CLÉS pour réussir (enfin) à sentir son DOS
+Nassim Sahili
+421 k
+il y a 3 a
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+208 k
+il y a 1 m.
+
+4:16:30
+Comment Commencer le Trading en Étant Débutant en 2026 (4 heures)
+Kasper
+365 k
+il y a 9 m.
+
+33:32
+J'ai laissé 3 IA recréer Genshin Impact de zéro (hallucinant)
+Aywen
+142 k
+il y a 5 j
+Nouveau
+
+17:45
+JE MANGE COMME L'HOMME LE PLUS SEC AU MONDE
+Tibo InShape
+2,9 M
+il y a 3 a
+
+28:18
+J’ai changé ma DIÈTE (+6000 kcal)
+Théo Leguerrier
+20 k
+il y a 16 h
+Nouveau
+
+50:05
+Arrête le Vibe Coding : passe à l’Agentic Engineering
+Mike Codeur
+7,9 k
+il y a 7 j
+
+28:43
+Comment Identifier les Meilleurs OrderBlocks en Trading ?
+Kasper
+22 k
+il y a 12 j
+
+    
