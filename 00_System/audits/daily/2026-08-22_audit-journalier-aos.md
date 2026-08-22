@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : 83def96
+- Commit audite : 94007db
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-22 01:52:46
+- Rapport genere le : 2026-08-22 08:02:13
 - Alertes prioritaires Aion : 2
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 2
@@ -26,9 +26,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `94007db` - 2026-08-22 01:52:46 +0000 - Audit - docs(aos): add daily audit report
 - `83def96` - 2026-08-21 11:20:52 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
 - `7dc9126` - 2026-08-21 08:20:24 +0000 - Audit - docs(aos): add daily audit report
-- `0a5171f` - 2026-08-21 01:59:37 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -46,13 +46,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `94007db` - 2026-08-22 01:52:46 +0000 - docs(aos): add daily audit report
 - `7dc9126` - 2026-08-21 08:20:24 +0000 - docs(aos): add daily audit report
-- `0a5171f` - 2026-08-21 01:59:37 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `94007db` - 2026-08-22 01:52:46 +0000 - Audit - docs(aos): add daily audit report
 - `7dc9126` - 2026-08-21 08:20:24 +0000 - Audit - docs(aos): add daily audit report
-- `0a5171f` - 2026-08-21 01:59:37 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -67,7 +67,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-08-21_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-08-22_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-10_youtube_pierre-money_claude-creation-chaine-video-ia_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-18_youtube_nicefox-ia-dev_qwen-3-8-27b-build-verify-vision_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-20_youtube_alejavi-rivera_deepseek-harness-plugins-modeles-locaux_transcript.txt
