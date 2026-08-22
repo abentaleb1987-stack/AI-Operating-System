@@ -1,0 +1,1265 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Je ne lance plus Claude Code comme tout le monde
+Meydeey | Automatisation IA
+Meydeey | Automatisation IA
+31,8 k abonnés
+
+
+78
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+2 686 vues  20 août 2026  FRANCE
+👉 Bossons ensemble : https://meydeey.com/go/v047d?c=v047-c...
+
+───
+
+Tu utilises Claude Code, Codex ou OpenCode dans un terminal qui n'a pas bougé depuis 20 ans et ça te coûte des heures chaque semaine. Dans cette vidéo je te montre ma config complète de A à Z, celle qui me permet de faire tourner plusieurs agents en parallèle sans jamais perdre le fil, avec deux projets construits en direct. Tout est reproductible aujourd'hui, en gratuit.
+
+───
+
+👥 COMMUNAUTÉ GRATUITE (+4 000 entrepreneurs)
+Le bon point de départ si tu débutes.
+→ https://meydeey.com/communaute
+
+───
+
+▸ CHAPITRES
+
+0:00 Warp, ce que ça change
+1:23 Ton dossier code est un bordel
+4:56 Claude Code et Codex ensemble
+9:26 Mon record
+10:53 Pourquoi j'ai lâché VS Code
+13:30 Le résultat ouvert en direct
+15:22 Lire du Markdown
+16:23 Ton PC crame, ton code survit
+22:12 La config qui change le code
+24:15 Ne dépends jamais d'un modèle
+26:42 Le dashboard fini en 32 min
+27:44 Mon verdict
+
+───
+
+▸ CAS RÉELS D'ÉLÈVES
+→ Comment Christophe automatise sa gestion de patrimoine :    • Il a créé une APP RENTABLE en moins d'un m...  
+→ Comment Stephano intègre l'IA dans la banque d'affaires :    • Ce banquier de 60 ans a tout compris à l'I...  
+→ Comment Tanguy utilise l'IA pour son e-commerce prévention :    • Ce que PERSONNE ne te dit sur l'argent ave...  
+→ Comment Lionel structure ses projets en tant qu'architecte IA :    • Neuralink, Drones t*eurs, Crédit social :...  
+
+▸ À VOIR AUSSI
+→ J'ai tout quitté pour Claude Code (pivot radical) :    • J'ai tout quitté pour Claude Code (pivot r...  
+→ Claude Code : Tout comprendre en une vidéo (démo incluse) :    • Claude Code : Tout comprendre en une vidéo...  
+
+───
+
+▸ OUTILS MENTIONNÉS (liens affiliés*)
+→ Apify (Scraper comme un pro) : https://www.apify.com?fpr=jo41in
+→ Hostinger (-20% sur VPS, hébergement) : https://www.hostinger.com/fr?REFERRAL...
+→ Kie AI (génération image, vidéo, voix, musique) : https://kie.ai?ref=a673f38b1e0fedf853...
+
+───
+
+▸ ME RETROUVER
+→ LinkedIn :   / medhi-el-ouardouni  
+→ Instagram :   / meydeeyai  
+→ Contact : contact@meydeey.com
+
+*Certains liens sont des liens affiliés. Je touche une commission sans surcoût pour toi. Je ne recommande que les outils que j'utilise au quotidien.
+
+#warp 
+#claudecode  
+#codex
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Meydeey | Automatisation IA
+31,8 k abonnés
+Vidéos
+À propos
+Code avec l’IA : outils, méthodes et workflows
+27
+Code avec l’IA : outils, méthodes et workflows
+de Meydeey | Automatisation IA
+25 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @meydeey
+@meydeey
+il y a 1 jour
+Par quoi commencer chez toi ?
+On tranche ici : https://meydeey.com/go/v047p?c=v047-claude-code-codex&p=comment-pin
+
+1
+
+
+Répondre
+
+
+@tomherbin
+il y a 1 jour
+Je cherchais justement une solution plus épurée que tout faire dans Windsurf (Devin), Merci pour le partage !
+
+2
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@ink-man
+il y a 1 jour
+Je m’y intéressait pas mais si tu en parles autant en profiter 🫡.
+Merci.
+
+1
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@FRÉDÉRICQUIÉ
+il y a 1 jour
+Toujours au top ! Merci
+
+
+
+
+Répondre
+
+·
+
+Réponse
+
+@JMungedi
+il y a 1 jour
+Super vidéo, moi j'utilise Orca qui est aussi intéressant
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@galfior
+il y a 1 jour (modifié)
+Merci @meydeey, je cherchais justement une solution de ce type.
+As tu entendu parlé de Herdr ? j'ai l'impression que c'est similaire mais avec un seul terminal ouvert et avec surtout la possibilité de faire tourner un serveur de dev pour tout centraliser et pouvoir y accéder de n'importe quel ordi. Une vidéo sur ce outil serait génial 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@ByJenaate
+il y a 1 jour
+Vraiment excellent pour la gestion des terminaux je valide fort!
+
+Par contre attention pour avoir plus de 6-7 terminaux qui tourne en même temps faut avoir une machine qui peut encaisser du CPU sinon ça risque d'afficher une erreur EPERM et un blocage complet de Claude code et des acces disque dur via le terminal
+
+Solution suite à ça : Couper tout les terminaux et Rallumer son mac ensuite vérifier la conso des CPU pour savoir combien de terminaux vous pouvez faire tourner max.
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Azélie-Santé
+il y a 1 jour
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@tecknozic
+il y a 1 jour
+Merci pour ta vidéo qui sort franchement du lot ! Petite question, quel outil Speech-to-Text utilises-tu ? Merci !
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@teks_music
+il y a 1 jour
+Trop bien comme d'hab ;. antigravity propose pas ca d avoir cet onglet avec moultes projets? obligé d ouvrir plusieurs fenetres
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@nitrocram
+il y a 1 jour
+Merci pour la vidéo.  Juste une question c est pas risqué de travailler avec ses agents sur une solution récente ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@favelascitizen
+il y a 1 jour
+Salut. QUESTION: quand on a le projet en privé , les gens voient ils quand meme les noms des projets ? En vaccance au bled je sort de boite je me tape une video a toi mdr ;)
+
+
+
+Répondre
+
+
+@matthias_braun
+il y a 1 jour
+A quel point tu trouve pertinent de l'utiliser pour principalement du dev ? Car j'ai l'impression que c'est un peu trop épuré, sans réelles fonctionnalités utiles hormis avoir un terminal ?
+
+C'est quoi ton usage global vu que tu dis l'utiliser depuis 3 mois ?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Lumiere904
+il y a 1 jour
+"je recommande aux débutants de passer par le terminal". Par expérience, c'est un très mauvais conseil. Quand on débute en programmation, il vaut mieux passer par des interfaces comme Spyder par exemple si on fait du python.
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Warp, ce que ça change
+0:00
+Dans cette vidéo, je vais te faire découvrir l'outil que j'utilise pour développer toutes mes solutions avec Claude Code et Codex sur le terminal.
+0:08
+Cette solution, elle s'appelle Warp. Et Warp, ça fait déjà plus de 3 mois que je l'utilise, tous les jours.
+0:13
+C'est un projet qui est récemment open source. De mémoire, ça fait à peu près 2 mois qu'il est open source.
+0:17
+Mais si on doit lui donner une étiquette, c'est tout simplement un environnement de développement agentique.
+0:21
+Ce qui est vraiment cool, c'est que c'est disponible sur Mac, Linux et Windows. Donc tout le monde peut l'utiliser.
+0:26
+Vous avez même les lignes de commande à récupérer et à mettre dans le terminal pour pouvoir les installer.
+0:30
+Ou sinon, cliquez sur les versions ici, donc les points exé pour les Windows et les macOS pour les Mac.
+0:35
+Et ainsi que Linux, les points deb ou les points RPM.
+0:38
+Donc première étape, ça serait déjà de le télécharger.
+0:40
+Je ne vais pas vous expliquer comment le télécharger et comment créer un compte dessus.
+0:43
+Ça va être super simple, donc je vous laisserai faire ça tranquillement.
+0:45
+Et vous allez arriver sur une interface comme celle-ci.
+0:48
+Alors peut-être pas comme celle-ci, parce que sur la partie gauche, comme vous pouvez le voir, j'ai plusieurs tabs, donc plusieurs onglets qui sont déjà présents.
+0:55
+Ça, c'est les projets sur lesquels je suis en train de travailler actuellement.
+0:58
+Mais on va partir du principe, imaginons que je veux faire une nouvelle landing page.
+1:01
+Imaginons que je veux faire une nouvelle landing page pour une nouvelle offre que je veux proposer à 10 millions d'euros.
+1:06
+Allez, soyons fous.
+1:07
+Donc avant de faire un nouveau projet, moi je vois beaucoup de personnes travailler dans le terminal, travailler sur Visual Studio Code.
+1:11
+Ça dépend comment vous travaillez, chacun a sa méthode.
+1:14
+Mais ceux qui veulent, ben mangez du terminal, parce que pour le coup, même les débutants, je recommande fortement de passer par le terminal.
+1:20
+Vous allez avoir beaucoup plus de fonctionnalités, vous allez être à la racine.
+Ton dossier code est un bordel
+1:23
+Mais l'idée maintenant, c'est l'hygiène.
+1:24
+Et je vois trop de personnes qui ont développé des solutions bien, solides.
+1:28
+Ça fait plusieurs semaines ou plusieurs mois qu'ils travaillent sur ces solutions.
+1:31
+Mais ces personnes-là restent bordéliques, c'est-à-dire qu'elles ont une hygiène de travail qui est déplorable.
+1:35
+Donc quand je dis hygiène de travail, c'est organisation, comment on travaille, et moi je vais te montrer comment je travaille.
+1:39
+Alors bien sûr, j'ai pas la source de vérité infuse, mais je vais te montrer comment moi je m'organise et que je ne me perds pas quand je développe des projets.
+1:46
+Donc là, on va aller dans le menu de Warp.
+1:48
+Alors sur Mac, c'est en haut, sinon Windows, c'est pareil.
+1:50
+Je vais aller dans File, et je vais cliquer à chaque fois sur Open Repository.
+1:54
+Donc on va ouvrir un Repo, donc un dépôt.
+1:56
+Sinon, raccourci, sur Mac, c'est Shift, Pomme et Haut.
+1:59
+Sur Windows.
+1:59
+vous regardez c'est l'équivalent donc je fais tout le temps ça ensuite je vais aller dans mon dossier code donc j'ai un dossier racine
+2:05
+qui est sur mon bureau qui s'appelle code dans ce dossier code comment il est organisé vous allez voir c'est quand même très simple j'ai
+2:11
+formation, qg, archives, encours, production, sandbox alors chacun va l'organiser comme il veut
+2:17
+mais si vous devez en garder le 80-20 ici ça va être production, encours et archives pourquoi ?
+2:23
+parce que vous allez développer des projets il y en a certains qui vont être en cours qui ne vont pas se terminer
+2:27
+il y en a certains que vous avez développé et que vous n'utilisez plus et qui doivent passer en archives et il y en a d'autres qui doivent être
+2:32
+en production ceux qui sont déployés qui sont utilisés et qui sont
+2:35
+rentabilisés du moins qui vous font gagner du temps ou de l'argent si ça n'est pas le cas
+2:39
+ça n'a aucune utilité d'être en production donc je vais aller dans encours
+2:43
+donc là on voit que j'ai certains projets qui sont dans encours
+2:45
+et bien je vais faire un nouveau folder donc un nouveau dossier et ici je vais mettre le nom de mon projet par exemple je vais
+2:50
+mettre alors j'ai une organisation offre je mets toujours les tirs et barres
+2:53
+voilà pour les techniciens vont dire oui mais c'est mieux d'écrire tout en minuscules etc mais moi j'aime bien le faire en majuscule voilà juste
+2:59
+pour vous contrer
+3:00
+monsieur les techniciens donc offre à
+3:03
+allez 10 millions d'IM donc là je crée un dossier voilà donc là je suis dans un dossier vierge
+3:08
+et à partir de là je vais faire open une fois que j'ai open là sur la partie gauche on voit qu'il y a un
+3:13
+nouveau projet donc là j'ai épuré pour enlever les autres projets parce que vous par définition ça va être au vierge ça va ressembler à
+3:18
+ça et c'est la raison pour laquelle je l'utilise parce que c'est
+3:21
+épuré sur les autres solutions alors beaucoup d'autres solutions pas toutes bien sûr vous allez avoir un million de trucs qui s'affichent sur l'écran ça va
+3:27
+être lourd là c'est vraiment léger c'est fait pour le terminal et c'est fait pour travailler donc maintenant moi j'ai une habitude donc je
+3:33
+fonctionne avec des couleurs pour pouvoir m'organiser quand je fais des projets donc on peut du coup
+3:37
+cliquer sur les trois petits points ici on peut choisir une couleur
+3:40
+donc moi après chacun fait comme il veut mais rouge c'est que c'est un projet qui est important
+3:44
+violet c'est que c'est en cours bleu c'est que il ya du coup un temps d'arrêt etc bon chacun fait son organisation
+3:50
+admettons que c'est un projet en cours je le mets en violet voilà comme comment je fonctionne donc l'idée c'est que on va pas travailler
+3:55
+sur un seul projet avec warp, warp c'est fait vraiment pour pouvoir switcher entre plusieurs terminal
+3:59
+donc après on peut le renommer donc on peut faire un double clic donc on peut marquer alors après on peut mettre aussi des
+4:04
+émojis moi c'est ce que je fais normalement mais là je vais mettre offre à
+4:07
+dm mais imaginons que vous travaillez sur un autre projet donc en même temps parce que vous n'avez pas envie
+4:12
+de travailler que sur un seul projet vous avez envie de profiter de l'agentisation
+4:16
+donc on va venir faire le même raccourci que tout à l'heure pour ouvrir un nouveau repo on va revenir dans en cours
+4:21
+et puis on va tout simplement marquer comme projet
+4:24
+dashboard finance alors dashboard finance j'ai marqué test parce que sinon ça peut m'embrouiller plus tard voilà dashboard finance test et on fait un
+4:30
+deuxième du coup
+4:32
+dépôt qu'on va ouvrir donc là maintenant c'est fait on va aussi le mettre en violet c'est comme ça que je fonctionne on va
+4:37
+aussi le renommer
+4:38
+dashboard finance donc là sur la partie gauche nous avons deux projets j'ai peut-être zoomé pour vous aider parce qu'on peut zoomer c'est ça
+4:43
+l'avantage avec bon maintenant vous voyez c'est quand même assez épuré
+4:46
+maintenant ce qui est vraiment bien c'est que vous avez un raccourci en haut à gauche quand vous allez dans
+4:49
+sur les deux petits icônes tout en haut à gauche de warp
+4:51
+alors là c'est warp software il y a aussi warp terminal etc on va pas voir toutes les fonctionnalités je vais rester vraiment axé débutant
+Claude Code et Codex ensemble
+4:56
+pour vous montrer juste l'organisation
+4:57
+et pourquoi warp est une bonne solution
+4:59
+maintenant l'idée c'est quoi c'est que sur la partie en haut à gauche on peut venir masquer deux choses on peut venir masquer du coup le
+5:06
+panneau ici donc le panneau des onglets voilà comme ça au moins je peux gagner de l'espace et puis venir taper mon terminal
+5:12
+pour lancer cloud
+5:13
+cloud code on va taper cloud
+5:15
+voilà et pour venir utiliser codex aussi on va utiliser les deux pour cette vidéo pour te montrer comment je travaille donc avec de
+5:21
+multiples solutions agentiques dans un seul dashboard en fait c'est centralisé donc là je fais yes je vais donner l'accord à ce
+5:26
+à ce repo
+5:28
+nickel donc là bien sûr
+5:30
+j'aime pas faire ça parce qu'il faut que je vois mes projets donc là comme j'ai lancé cloud code sur ce repo dashboard finance
+5:35
+donc là je suis si tu veux mon terminal imagine
+5:38
+cloud code que j'ai lancé comme on va dire une bestiole la bestiole
+5:41
+l'icône donc la mascotte de cloud code et bien là elle est exactement dans le bon dossier donc comme j'ai
+5:46
+personnalisé ma status line c'est ce qu'on appelle la status line on peut la customiser
+5:50
+et bien là je vois que je suis dans le dossier dashboard finance test exactement celui que j'ai ouvert donc là pour l'instant on est
+5:55
+organisé on sait qu'on va travailler dans le bon dossier j'ai pas de commandes à faire c'est
+5:59
+DSI, enfin, c'est pas comme ça que je travaille personnellement.
+6:02
+Maintenant, on va aller sur l'offre à 10 millions,
+6:04
+parce qu'on a ouvert le terminal ici,
+6:06
+on va rouvrir ici, on va se préparer pour pouvoir préparer nos promptes après.
+6:09
+Et ici, je vais lancer un codex.
+6:10
+Donc, je vais lancer un codex, on tape en codex,
+6:12
+je vais faire Yes,
+6:13
+et là, vous voyez, c'est le logo de chaque GPT qui est affiché en haut à gauche.
+6:16
+J'ai aussi créé une status line,
+6:18
+et sur cette partie-là, je ne vous l'ai pas expliqué, donc on peut aussi le masquer,
+6:21
+je vais le faire, comme ça vous allez comprendre, hop, c'est le dépôt.
+6:24
+Donc ça, c'est le dépôt,
+6:25
+donc le dépôt offre à 100 millions, c'est facile,
+6:27
+il y a un logo d'un dossier, c'est pas compliqué.
+6:29
+Quand vous allez faire des promptes pour dire, créez-moi mon projet,
+6:32
+fais ça, fais ça, qu'est-ce qu'il va faire ?
+6:34
+Il va venir créer des fichiers, des dossiers ici pour créer l'architecture de votre projet,
+6:37
+qui sera par définition en local.
+6:39
+Après, vous allez pouvoir pousser ça sur GitHub
+6:42
+pour pouvoir faire du versionning,
+6:43
+ou vous allez tout simplement pouvoir le déployer en ligne,
+6:46
+par exemple avec Vercel, j'en ai fait une vidéo.
+6:48
+Et puis, si vous utilisez des bases de données,
+6:51
+comme par exemple Supabase, j'en ai aussi fait une vidéo,
+6:54
+eh bien, c'est tout l'intérêt.
+6:55
+Donc là, si vous avez l'outil Warp pour créer votre code,
+6:58
+du moins grâce au terminal Cloud Code, Codex, etc.,
+7:02
+et puis vous pouvez même lancer un Open Code,
+7:04
+mais ce n'est pas l'objectif de cette vidéo,
+7:05
+parce que je veux que ce soit vraiment axé débutant,
+7:07
+pour vous montrer qu'il ne faut pas avoir peur du terminal.
+7:09
+Si vous êtes débutant et que vous hésitez encore, il y en a beaucoup,
+7:12
+vraiment passez le cap, je vous assure que vous allez perdre beaucoup de temps
+7:17
+et vous allez perdre des mois de retard par rapport à ceux qui font ça.
+7:20
+Donc on va commencer par faire des promptes,
+7:22
+et on va masquer cet espace-là pour pouvoir avoir de l'espace.
+7:27
+Moi, ce que j'aime faire, je vous le dis,
+7:29
+ce n'est pas travailler comme ça en zoomé,
+7:30
+ça c'est vraiment peut-être quand j'aurai 70 ans,
+7:33
+mais moi je travaille très petit pour avoir une grande fenêtre large,
+7:36
+c'est encore plus déprimant,
+7:37
+mais bon, plus on avance dans la journée, plus je zoom.
+7:39
+Donc je préfère vous donner ce conseil-là,
+7:41
+parce que sinon vous allez devenir fou.
+7:42
+Donc là, vous voyez, c'est quand même épuré,
+7:44
+il n'y a pas 10 millions de trucs,
+7:44
+on va commencer à envoyer le prompt,
+7:46
+parce que là, allez, vas-y, envoie le prompt,
+7:47
+là, tu perds trop de temps.
+7:48
+Bon, je vais faire un prompt qui est très basique.
+7:51
+Je veux créer un dashboard de finances,
+7:53
+préparons le squelette complet,
+7:54
+après je pluggerai, du moins je vais connecter mes API plus tard,
+7:58
+mes bases de données, non mais il faut un...
+7:59
+avec plusieurs pages pour faire de la gestion de mon dashboard finance de mon entreprise et je suis expert comptable.
+8:05
+Donc là on vient de lancer un prompt, alors bien sûr je vais préparer certainement d'autres vidéos mais ça c'est ce que j'explique dans mes formations
+8:12
+techniques en l'occurrence. Il y a beaucoup de commandes sur Cloud Code et Codex pour pouvoir modifier les modèles etc. Je ne veux pas trop vous perdre
+8:17
+mais là je vais vous montrer. Donc là je vais lancer ce prompt de dashboard finance et là à la place d'aller boire un café
+8:21
+de dire bon il y a un truc qui travaille
+8:23
+qu'est ce que je vais faire ? Parce que j'en ai vu certains, des débutants techniques, même des intermédiaires qui travaillent sur VS Code
+8:28
+et qui ouvrent plusieurs fenêtres. Donc ils doivent vite chercher dans leur ordinateur, dans leur pc
+8:33
+où est-ce qu'elle est l'autre fenêtre sur l'autre projet que je travaille ? Non. Là hop ça travaille, allez on passe à offre à 10 millions.
+8:38
+Allez bon, maintenant c'est quoi mon idée ?
+8:40
+Je veux développer une offre à 10 millions de dollars, je suis expert comptable, j'ai des grands comptes comme client,
+8:46
+j'aimerais que tu puisses faire une cartographie de l'existence des offres à plus de 10 millions aux Etats-Unis, sur le marché mondial
+8:51
+et que tu me crées ça dans une interface.
+8:53
+Donc là on fait du prompting, voilà, toujours avec un outil speech to text, c'est vraiment utile avec de l'IA bien sûr
+8:59
+dedans. Et maintenant on peut venir switcher entre les terminaux, donc les terminaux ou les terminales d'ailleurs.
+9:05
+Donc là Claude il va nous poser des questions
+9:07
+parce que ça va dépendre de quel mode on va mettre, quelle prompt on va faire.
+9:09
+Le dashboard gère les finances de qui ? On va dire par exemple
+9:12
+mon cabinet plus mes sociétés, comme ça on va pouvoir en faire un sas. Quel module dans le squelette ?
+9:17
+On va mettre trésorerie et compte, facturation client, ok.
+9:20
+Allez on y va, le complet. Au niveau du design, il me propose quoi ? Sobre et dense, client aéré, institutionnel.
+Mon record
+9:26
+Allez on va se faire un truc sobre et dense, c'est parti. Donc pour vous donner vraiment un ordre de grandeur,
+9:31
+mon record, il est récent, le nombre de terminales qui travaillent en même temps, c'était 12.
+9:36
+J'ai jamais fait au dessus de 12, mais pour vous dire que quand vous êtes très focus, sans aucune distraction par exemple, et que vous
+9:41
+travaillez sur le terminal, et bien vous pouvez aller jusqu'à 12 voire 15
+9:44
+terminales qui vont travailler en même temps. Et puis dès qu'il y en a un qui a terminé, vous allez voir, il y a des
+9:49
+petites choses à voir, c'est que là vous voyez, en fait, en haut à gauche,
+9:51
+chatgpt il est en train de charger. Vous voyez Claude, bon le chargement il est dégueulasse, le chargement de Claude, mais on voit qu'il est en train de,
+9:56
+la lune là, elle est en train de passer de gauche à droite, du moins le domicile.
+9:59
+ça veut dire que ça tourne. Donc en fait, visuellement, vous savez qu'est-ce qui travaille, qu'est-ce qui ne travaille pas.
+10:04
+Donc quand vous allez travailler sur 4, 5, 6 projets en même temps, bien sûr,
+10:08
+vous allez pouvoir switcher. Donc pour l'instant, ça reste assez clair pour un débutant qui démarre. Franchement, je ne recommande pas de maîtriser plus.
+10:14
+Warp propose aussi d'autres choses.
+10:16
+Bien sûr, c'est quand même complet, mais c'est plus complet pour les développeurs quand on débute. Voilà, alors bien sûr, je ne vous ai pas montré,
+10:21
+mais on peut aussi écarter là,
+10:23
+refermer, c'est très aéré, et on va quand même remettre notre
+10:26
+dépôt pour pouvoir voir le code qui va se créer.
+10:29
+Mais pour l'instant, il n'y a rien de vraiment sorcier en somme. Et l'avantage, c'est que Warp, il ne fait pas de préférence entre chat GPT,
+10:35
+entre cloud. C'est pour ça que si tu vas télécharger le software, donc l'application, sur ton PC ou ton Mac, de cloud et de chat GPT
+10:42
+pour pouvoir travailler, ok, c'est bien, mais tu vas devoir avoir, si tu travailles avec trois différents, tu vas devoir en ouvrir trois et galérer.
+10:48
+Là, c'est épuré, et je peux vous assurer qu'au niveau de mon mental, eh bien, ça joue quand même beaucoup.
+Pourquoi j'ai lâché VS Code
+10:53
+J'ouvre Visual Studio Code, par exemple, alors bien sûr, vous voyez à quoi il ressemble.
+10:57
+Ça, c'est ce que la plupart des développeurs utilisent.
+10:59
+Bon, ceux qui sont plus avancés techniquement, il y a des avantages. Ceux qui sont aussi développeurs et plus techniques, il y a des avantages à
+11:05
+utiliser. Mais si j'ouvre un folder, par exemple, donc un dossier, un dépôt, on va venir dans en cours, on va venir ouvrir, par
+11:11
+exemple, le même dossier qu'on a créé pour le dashboard de test finance. Je l'ouvre ici, donc est-ce que tu veux sauvegarder, je m'en fous.
+11:18
+Voilà, je suis sur Visual Studio Code. Là, un débutant, il a peur. Donc là, pour que vous compreniez, on peut zoomer aussi,
+11:24
+mais il y a beaucoup trop d'informations, on ne sait pas ce qui se passe, il y a un welcome, il y a un chat, et puis encore, je
+11:28
+ne vous ai pas montré. Si on regarde un petit peu, par exemple, le index HTML qu'on l'ouvre, en tout cas, il y a trop
+11:33
+d'informations, et c'est un petit Visual Studio Code, parce qu'en général, vous avez d'autres extensions qui sont présentes là, et de plus,
+11:39
+l'avantage aussi de Warp par rapport à Visual Studio Code, c'est qu'il est très léger.
+11:43
+Visual Studio Code, vous avez des extensions, il va charger plein de choses concernant le debug. Si vous avez connecté GitHub,
+11:48
+des plugins, etc., c'est trop lourd, et quand on fait tourner plusieurs terminales, eh bien, on a besoin d'optimiser sa puissance.
+11:55
+Enfin bref, VS Code, personnellement, je ne l'utilise plus. Donc, retournons ici.
+11:59
+Voilà on peut regarder sur le projet donc là en fait on voit qu'on n'avait rien tout à l'heure et pendant que je suis en train
+12:03
+de parler et que je vais vous montrer VS Code et bien le dashboard de finance travaille. Alors bien sûr chatgpt vous le connaissez pour ceux
+12:09
+qui l'utilisent, il va prendre mille heures pour faire un truc qui aurait pris une heure à Claude donc là il est en train de développer tout
+12:14
+ça. On peut bien entendu venir ouvrir les dossiers qu'il va effectuer donc après on peut ouvrir par exemple les TypeScripts,
+12:20
+voilà pour voir le code, si on veut voir le code bien sûr. Là où est-ce que vous allez le plus déprimé sur la première phase au début
+12:25
+quand on passe de si tu veux quand on passe du software chatgpt ou du software Claude et bien ça va être pour lire les fichiers
+12:32
+Markdown parce que quand tu vas faire de la documentation etc fin bref on va attendre qu'il termine comme ça je te montrerai mais quand
+12:37
+tu ne veux pas être hyper technicien mais tu veux quand même avoir les bases, construire des applications solides qui sont sécurisées,
+12:42
+y pluguer les bases de données, comprendre les concepts et l'environnement dans lequel tu te situes et bien tu vas devoir lire des fichiers
+12:48
+Markdown et ça va être ça qui va te consommer le plus d'énergie. Bon allez on va le laisser travailler et on revient dès qu'il aura terminé
+12:53
+les deux côtés mais je pense que vous l'avez déjà compris mais aujourd'hui je n'ai plus ce problème de me dire bah tiens demain
+12:59
+s'il y a chatgpt qui est meilleur, tiens si Claude est meilleur, s'il y a Psykarnes qui est meilleur, je peux tout faire tourner dans un seul
+13:06
+environnement donc j'ai pas besoin de réapprendre les subtilités etc. La seule nuance qui va être chiante si on compare Claude et chatgpt
+13:12
+c'est du coup bah les commandes voilà ça fait chier certaines personnes de faire des slashes par exemple si je veux end of voilà comme ça
+13:19
+et de l'autre côté comment ça se passe sur chatgpt c'est les dollars. Bon si il y a une préférence c'est quand même mieux les dollars
+13:24
+parce qu'on peut faire des choses avec des dollars mais pas avec des slashes. Bon maintenant ici sur chatgpt on voit qu'il a bossé, il a terminé
+Le résultat ouvert en direct
+13:30
+donc ce dont j'ai besoin de toi ouvre index.html donc si on est flémard on lui dit ouvre index.html sinon on peut faire clic droit révélé dans le dossier
+13:39
+on va dire maître mais là je suis flémard. Ouvre le dans mon navigateur c'est une idée mais en fait c'est à dire que même quelqu'un qui est débutant
+13:47
+qui démarre de zéro qui veut créer son projet ok il ne maîtrise pas tout mais il va apprendre et bien il va pouvoir dire à l'IA de le faire
+13:54
+dans le terminal et puis il va s'en occuper le terminal peut tout faire vous voyez le terminal il fait des commandes il peut faire
+13:59
+Il peut faire des commandes, il est connecté à internet donc il peut faire des commandes pour ouvrir des pages, il peut faire des commandes pour faire des requêtes, récupérer des données, aller sur des pages web, etc. Il peut vraiment faire beaucoup de choses.
+14:08
+Donc là je pense qu'il a confondu le navigateur chatgpt qui est absent. Non, je te parle de mon navigateur ARC, ça ça arrive souvent, ça c'est parce que c'est un problème de config, pas un problème mais c'est une optimisation de configuration à faire.
+14:18
+En fait chatgpt il peut utiliser son mode computer use qui est très puissant lorsque vous faites du frontend, lorsque vous voulez faire du design, de l'agencement. Et là vous voyez il vient de l'ouvrir devant mes yeux pendant que je parle et il nous a fait l'offre à 10 millions.
+14:30
+Donc on va pouvoir l'ouvrir en pleine fenêtre. Donc il nous a fait la cartographie dans l'html avec les offres KPMG. Alors bien sûr c'est des informations qu'il a récupérées sur internet et en vue de sa puissance et de sa précision, comme vous pouvez le voir c'est une bonne page qui a l'air bien compressée, il y a plein d'informations.
+14:46
+Donc bien sûr on le lit si ça nous intéresse mais comme nous on s'en fout c'était pour un exemple on va pas le lire du tout. Mais vous voyez là il y a une offre à 87 millions en comptabilité, c'est quand même assez hallucinant.
+14:55
+Bon j'aurais appris un truc en expert comptable et pour le coup je peux revenir sur Warp et lui dire bah j'aime pas trop ce que tu m'as fait ou modifie ou améliore ou très bien maintenant on va faire telle et telle chose et puis vous déroulez le tapis.
+15:06
+Mais l'idée c'est qu'on est organisé, là en fait on a pris notre agent, notre mascotte, il faut vraiment visualiser la mascotte, la mettre dans ce dossier offre, elle est dans ce dossier, elle va pas partir dans tous les sens ou elle est pas dans un dossier download, enfin téléchargement ou dans un dossier avec plein de fichiers non, elle est que là.
+Lire du Markdown
+15:22
+Donc maintenant comme je vous l'avais dit tout à l'heure les fichiers markdown c'est ça que vous allez devoir lire, bon ce sera plus pratique si je me mets ici et là c'est indigeste de lire des fichiers markdown comme ça, c'est beaucoup trop zoomé.
+15:31
+Donc on va dézoomer et les fichiers markdown, donc là il nous a créé le handoff, alors le handoff on s'en fout un peu, on va prendre le README, voilà 10 millions offer Atlas, donc on peut lire, bon bien sûr il le formate donc il va mettre des couleurs, il va interpréter les blocs de code visuellement, il va mettre les URL en bleu etc.
+15:46
+Mais vous avez aussi le mode RAW, donc le mode RAW qui va afficher le mode brut en fait du texte markdown qui est affiché en rendu comme ça, pour lire des fichiers markdown c'est souvent pratique lorsqu'il vous fait des plans, voilà bah tiens je t'ai préparé une spec, tiens je t'ai préparé
+15:59
+un plan tiens ouvre ce fichier markdown et lis les dix questions ou les dix prises de décision que tu dois prendre
+16:04
+pour pouvoir me donner un retour dans le terminal pour que je puisse y aller donc c'est tout l'avantage de ça
+16:08
+donc vous voyez c'est vraiment pas compliqué il n'y a pas un million d'informations
+16:11
+pas besoin d'être un génie pour utiliser ça et on voit les fichiers qui sont présents là
+16:15
+donc en général une fois qu'on comprend l'architecture on veut gagner de l'espace
+16:18
+voilà on reste plutôt comme ça full terminal
+16:21
+allez on va regarder ce qui se passe ici bon il travaille beaucoup
+Ton PC crame, ton code survit
+16:23
+c'est un travail qui est plus difficile pour Claude parce qu'on lui demande de créer carrément un projet
+16:28
+et puis c'est pas un petit projet donc ce qu'on va faire c'est qu'on va utiliser du coup codex
+16:32
+alors ça serait pareil avec l'autre code alors je vais resumer et on va tout simplement créer un projet
+16:36
+je dis bien privé sur Github pour pouvoir héberger ce code là pour le versionner
+16:41
+pourquoi parce que ce dossier que j'ai créé offre à 10 millions
+16:45
+je l'ai créé dans un dossier qui s'appelle code dans ce dossier code il y avait un dossier en cours
+16:49
+dans ce dossier en cours il y a mes projets en cours et en l'occurrence il y a ce projet offre à 10 millions
+16:53
+mais si demain mon pc il crame ma maison elle brûle je perds mes données
+16:57
+comment on va faire et bien c'est là où Github va intervenir
+17:00
+bon c'est pas une vidéo pour Github mais c'est pour t'expliquer
+17:02
+vraiment j'essaie de faire un tuto vraiment débutant
+17:05
+créer un projet Github privé de ce dépôt afin de pouvoir le versionner
+17:09
+voilà nickel j'en vois donc là je mets bien l'accent sur privé
+17:13
+parce que si je mets public tout le monde qui a accès à mon compte Github va pouvoir le voir etc
+17:17
+bon et ce que je suis en train de faire là sur codex c'est pareil sur cloud code
+17:21
+c'est pareil sur DeepSeaKernes c'est pareil sur n'importe quelle solution ou même OpenCode en fait c'est à dire que là peut être que dans 6 mois il y aura 6 concurrents
+17:29
+qui seront au même niveau et qu'on va utiliser les 6 différents
+17:33
+et bien ils seront là les 6 enfin ils seront là ou dans une autre solution
+17:37
+peut être qu'il y aura une meilleure solution que Warp mais c'est au moins que vous comprenez le fond
+17:41
+de la chose l'outil c'est une forme on s'en fout mais le fond
+17:45
+d'un bon outil pour terminal et bien j'ai pu voir certaines personnes avec des écrans
+17:49
+avec 8 terminal qui s'affichent en même temps ce n'est pas possible visuellement
+17:54
+soit t'es un génie ou t'as 158 de QI et tu peux gérer ça
+17:58
+mais si tu veux vraiment être efficace efficace, il faut être épuré et là on est épuré tu vois. Bon là c'est du gros projet, si j'ouvre le source il est vraiment en
+18:04
+train de me faire un projet complet avec tous les services en TypeScript, vous voyez c'est un vrai projet donc tant mieux on fait la
+18:10
+différence entre, ça vous permet de voir un petit peu comment ça se passe puis comment moi j'utilise le terminal mais l'idée c'est qu'on a fait
+18:16
+une comparaison entre une cartographie donc du web fetching ce qu'on appelle, c'est à dire qu'il va aller rechercher sur internet des informations
+18:21
+des experts comptables, des offres à 10 millions etc
+18:24
+et ensuite c'est tout simplement une présentation visuelle, ensuite on peut créer un rapport, on peut créer un pdf si on veut etc
+18:31
+donc là il a fait un dépôt privé github, on peut l'ouvrir, il nous donne l'url, ça c'est l'avantage, alors pour ouvrir il faut rester appuyé sur
+18:37
+commande sur mac et sur windows je sais pas je crois que c'est alt ou un truc comme ça mais regardez quand vous allez dessus il y a
+18:42
+marqué le raccourci donc là on va le faire et puis mon repo a été créé donc si demain mon pc crame, ma maison explose, il est là, il est
+18:49
+présent, tout ça ça a été piloté depuis warp donc warp n'est qu'un outil c'est pas c'est pas plus qu'autre chose
+18:54
+voilà avec le terminal intégré dedans et je peux venir voir mes end offs, mon code, mon index html qui a été créé
+19:00
+et puis il est surtout bien en privé donc ça c'est important et ça vous le voyez ici sur votre compte github
+19:06
+voilà private, offre à 10 millions, personne ne peut le voir donc bien sûr là je vous dis c'est super simple etc
+19:11
+au début ça prend quand même du temps de mentalement s'habituer et après lorsque vous allez commencer à créer des projets
+19:16
+vous allez comprendre qu'il y a beaucoup de choses à apprendre
+19:18
+les bases de données, héberger du code en ligne, faire du versionning, la partie sécurité, la partie passation,
+19:25
+documentation, en fait ça paraît simple parce que visuellement on crée un projet
+19:28
+mais je peux vous assurer que si ce projet il tient encore dans cinq ans, pour le maintenir, le faire évoluer et le garder en
+19:34
+sécurité entre aujourd'hui et dans cinq ans, il y a beaucoup de travail donc
+19:38
+après vous allez voir que le terminal
+19:40
+surtout un travail de compréhension parce que les IA vont être de plus en plus autonome mais
+19:44
+mais l'objectif c'est pas de comprendre de moins en moins ce qu'on fait quoi c'est plutôt l'inverse. Donc pendant ce temps là on va
+19:48
+venir lui dire de supprimer le projet github, au final je me suis trompé
+19:52
+supprime le projet de github, je n'en veux plus. Donc création, édition, suppression, gel, tout ça c'est pris en compte
+19:59
+Et c'est vrai qu'il faut quand même le mentionner, je parle beaucoup dans cette vidéo parce qu'il faut être très pédagogue et très andragogue avec les débutants
+20:06
+dans le sens où il ne faut pas hésiter à lui parler.
+20:09
+Codex bien sûr là ce qu'il fait c'est que lui il demande souvent des vérifications avec des Go,
+20:12
+peut-être ça vient de la config ou peut-être que vous il fait aussi ça,
+20:15
+répond Go supprimer. En fait il fait beaucoup de survalidation, donc on va lui dire Go supprimer, on va copier, on va coller, Go supprimer.
+20:22
+Voilà là il fait une requête directement à GitHub, GitHub a refusé donc là bien sûr s'il y a des bugs il va boucler tout seul,
+20:28
+il va venir trouver la solution, alors est-ce qu'il y a eu un bug de requête, est-ce que c'était la bonne, enfin bref, en tout cas il va boucler jusqu'à réussir,
+20:36
+il faut avoir la mentalité.
+20:37
+Ah là en fait il m'ouvre du coup le GitHub pour que je puisse donner l'accord, donc vous voyez il l'a fait tout seul, on va venir le faire.
+20:43
+Donc là normalement il est censé m'afficher un code, voilà donc ça c'est le code GitHub, hop, qu'on va venir mettre ici, continue, voilà, est-ce que tu autorises GitHub ?
+20:52
+En fait il fait souvent des refresh, là il me demande une passkey parce que du coup mon compte GitHub il est sécurisé avec le DFA, donc on va lui donner.
+20:58
+Voilà, emprunte, et voilà, bravo, vous avez, enfin vous êtes setup.
+21:02
+Donc là maintenant on lui dit que c'est bon, voilà ça a été fait, je reprends l'autorisation, la suppression est confirmée, GitHub ne trouve plus made in Europe frais 10 millions,
+21:10
+on va regarder ça, donc on va venir refresh sur la même URL, et puis on voit qu'il y a une 400K, donc il a bien supprimé.
+21:16
+Donc vous voyez en temps réel avec le terminal on a pu agir avec GitHub, mais ça aurait très bien pu être SupaBay, ça aurait très bien pu être un CRM,
+21:22
+ça aurait très bien pu être une API pour créer des vidéos sur les réseaux sociaux, etc., tout type en fait de solutions qui ont soit des API, soit des MCP,
+21:30
+du moins des intégrations possibles, et tout ça piloté avec Codex, Cloud Code, ou n'importe quelle solution agentique de terminal en vogue.
+21:38
+Donc maintenant si je n'ai plus envie de travailler en général, alors bien sûr je fais soit un slash quite pour quitter Codex complètement,
+21:43
+voilà donc là en fait je ne suis plus dans Codex, je suis dans le terminal réel, qui voire par définition est un terminal,
+21:48
+vous voyez là je peux taper des commandes, faire entrer, ça va mettre commandes non trouvées, je ne suis plus dans Codex,
+21:53
+et du coup après une fois que ça c'est terminé, soit je ferme le projet ou soit je le change de couleur, donc en général je le désactive.
+21:59
+ça c'est souvent quand c'est un projet, j'ai terminé les objectifs de ce projet du jour, je devais faire ça, ben c'est fini,
+22:05
+ben je le laisse sans couleur, comme ça je peux rester focus sur les projets qui sont en couleur.
+22:10
+Voilà donc là, il est vraiment en train de recréer la lune.
+La config qui change le code
+22:12
+Donc c'est bien, ça va vous montrer, bon là ça fait à peine 25 minutes, mais ça va vous montrer en fait,
+22:16
+la puissance de la bête quand on demande de créer un projet.
+22:19
+C'est à dire que j'ai fait un prompt de merde, mais imaginez si j'avais fait un bon prompt,
+22:23
+que je connaissais mon ICP, du moins que je connais mon ICP par cœur,
+22:26
+je sais exactement ce qu'il veulent, ou les besoins de mes clients etc,
+22:29
+je peux créer une application en moins d'une heure, tout simplement.
+22:32
+Si j'ai la maîtrise fondamentale, alors bien sûr j'ai une configuration qui est bien, qui est solide,
+22:36
+c'est à dire que le code qui va être créé, l'architecture, les fichiers vont être influencés par ma configuration,
+22:42
+ce qui veut dire que ça a été par définition créé pour que ça soit modulaire,
+22:46
+que ça soit du coup non rigide, que ça soit adapté aux mises à jour, qu'il y ait du versionning,
+22:50
+tandis que si on part sur une configuration qui est on va dire vierge, neutre, sans aucune modification,
+22:55
+et bien il va créer un projet à l'instant T, en fait l'IA elle va avoir tendance à créer un projet sur l'instant T,
+23:00
+mais si on lui dit pas, bah tiens, il faudrait que tu optimises pour les prochaines mises à jour,
+23:05
+pour les potentielles suppressions, pour l'escalabilité, pour éviter le code mort,
+23:09
+bah ça en fait, elle va pas le faire par définition, alors peut-être les futures IA etc,
+23:14
+mais sur cette fenêtre temporelle, il faut quand même bien avoir une bonne configuration,
+23:19
+donc là vous avez vu, il a même fait des tests, build vert, il a fait des tests,
+23:23
+il est en train de faire des vérifications visuelles, donc là il est en train de lancer un chrome headless,
+23:27
+donc là si vous voulez, et c'est aussi possible de faire ça, on peut lui faire faire des captures d'écran
+23:31
+sur les pages qu'on a créées ou sur n'importe quel projet, il les fait en headless,
+23:35
+donc sans qu'on puisse le voir en arrière plan, il va les analyser automatiquement, il va corriger,
+23:39
+donc si vous avez une bonne config qui dit, voilà comment on organise une page,
+23:43
+qu'on organise l'agencement des blocs etc, et bien il va pouvoir faire des captures d'écran,
+23:48
+et là j'aurais très bien pu aller dehors me balader, revenir, il aurait fait des captures d'écran,
+23:52
+et si ma config était bonne, et le prompt initial était bon,
+23:56
+on va avoir un projet qui est génial, et pour l'instant en fait, on a juste envoyé un code.
+23:59
+Un prompt, appuyez sur entrer, je vous explique parce qu'il faut comprendre un minimum mais quelqu'un qui comprend pas, qui est débutant, il va voir un projet, il va devenir fou, ce qui va sortir là, il va devenir fou, mais il va falloir qu'il le comprenne ça, en fait, il va falloir qu'il comprenne chacune des couches, sinon ça va être très difficile pour lui, ça ne va pas tenir sur la durée.
+Ne dépends jamais d'un modèle
+24:15
+Donc là il est vrai, c'est que je l'ai peut-être pas mentionné pour les débutants, vous allez dire ah mais oui j'avais pas pensé à ça certainement, mais vous vous en rappelez, tout à l'heure on était sur offre à 10 millions avec Codex, mais je peux très bien lancer un cloud sur le même terminal,
+24:27
+et puis continuer mon travail avec Fable 5 par exemple, ou avec un slash modèle, on va passer avec du défaut, donc du Opus 5, reprend, continue, d'où l'intérêt de gérer les passations efficacement, et puis ensuite on peut venir Quite et puis relancer un Codex.
+24:42
+Voilà là il me dit en plus voulez-vous mettre la mise à jour, bah tiens on va faire une mise à jour, bon c'est parti, mais si je suis un malade mental, comme moi par exemple, on peut aussi faire un OC, et un OC ça va ouvrir quoi ?
+24:52
+Alors là j'ai plus de solde sur Litelllm, bon et bien un OC ça va ouvrir un open code, bon je ne veux pas rentrer dans les détails, mais c'est pour vous montrer en fait que le terminal permet d'ouvrir beaucoup de solutions différentes agentiques, et c'est surtout antifragile, parce qu'on n'est pas dépendant, on n'est pas si vous voulez ce qu'on appelle vendeur lock-in,
+25:09
+beaucoup d'entre vous sont encore trop vendeur lock-in, utilisent que Claude, et n'ont rien d'autre, si demain Claude y tombe, vous n'avez plus aucune solution, donc bon là on va quand même quitter cette histoire, on va faire un exit, voilà, hop, et vous avez compris l'idée.
+25:21
+Alors là je vais faire quelque chose que je ne fais pas d'habitude, arrête les captures d'écran, je veux voir le projet visuellement, dépêche toi, bon c'est rare de lui dire travaille moins vite, j'ai jamais vu ça.
+25:30
+Le problème des débutants, je vais le dire pour le transcript de cette vidéo, ceux qui démarrent, qui ont peur, alors déjà ils ont peur de se lancer dans le terminal, ça fait très peur quand on commence, c'est normal,
+25:38
+mais j'ai aussi eu peur en n'étant pas développeur par définition, normalement c'est du gâteau, mais le problème c'est que vous avez, pour la plupart des débutants qui démarrent, en fait vous n'arrivez pas à savoir qu'est-ce qu'on peut faire, quelles sont toutes les possibilités,
+25:50
+et c'est pour ça que je recommande soit de se former, ou soit de passer plusieurs mois à faire une cartographie complète et des tests sur tous les types de projets, la création d'un PDF,
+25:59
+Création de fichiers audio, ce qui est aussi possible, c'est du code.
+26:02
+Pour les experts comptables, comme on a vu, on va du coup créer du code Python ou du code peu importe Javascript,
+26:08
+ça va dépendre des scripts, mais on ne fait pas ça avec de l'IA, parce que l'IA pour faire des maths,
+26:12
+c'est cool, mais ça ne sert pas à ça. Par définition, on vient mettre du code déterministe qui ne va pas se tromper sur des calculs.
+26:17
+Utiliser des solutions externes comme GitHub pour le versioning,
+26:20
+comme par exemple une API pour générer des images, celle d'OpenAI, celle de Xfield par exemple.
+26:26
+En fait, il y a énormément de possibilités, c'est-à-dire que c'est un monde qui est ouvert,
+26:29
+et plus vous allez avancer, plus il y aura des possibilités, donc attention à ne pas partir dans tous les sens non plus.
+26:34
+Bon, là, il commence à me gaver, il y a 32 minutes, 32 secondes.
+26:36
+Voilà, capture arrêtée, je te lance le serveur.
+26:38
+Voilà, donc là, en fait, il a lancé un serveur, ce qu'on appelle le développement.
+Le dashboard fini en 32 min
+26:42
+Le serveur, il tourne, donc là, il tourne sur ma machine en local, et je vais tout simplement l'ouvrir pour voir ce que ça donne.
+26:47
+Et voici notre pilotage financier.
+26:49
+Donc, vous avez vu, c'est ce qu'il a créé là en 32 minutes, en à peu près 32, 33 minutes.
+26:53
+Voilà, trésorerie, on a toute la trésorerie.
+26:56
+On a la page facturation.
+26:57
+Vous voyez, c'est bien splitté, c'est bien condensé, c'est ce qu'on lui avait demandé.
+27:00
+Il nous avait fait un questionnaire au démarrage.
+27:03
+OK, donc là, on a la TVA et les échéances, les rapports.
+27:06
+Vous avez vu, c'est quand même assez solide.
+27:07
+On a même les paramètres avec plusieurs pages.
+27:09
+Il a fait ça en 30 minutes.
+27:11
+Là, je peux venir en plus me connecter, j'ai le light mode, ça fait plaisir, qui fonctionne bien.
+27:16
+On a le menu qui est dépliant.
+27:18
+Qu'est-ce que vous voulez de plus ?
+27:20
+Donc là, en fait, la seule chose, si on est expert comptable, par exemple,
+27:23
+qu'on travaille dans les finances, qui manque, ça serait de connecter les données,
+27:26
+les sources de données, soit via base de données, soit via source de données externe.
+27:32
+Donc, que dire de plus ?
+27:33
+Vous avez vu, deux types de projets, cartographie plus la création.
+27:37
+Je suis désolé de vous le dire, mais ça, ça peut être un sas rapidement.
+27:41
+Ça, une fois que ça, c'est fait, maintenant, il faut empacter une offre.
+Mon verdict
+27:44
+Bien sûr, pas faire une offre pour n'importe qui.
+27:46
+Définir l'ICP, préparer la phase de sécurité, intégrer les passerelles de paiement
+27:50
+et puis c'est un sas.
+27:52
+Aujourd'hui, je vais vulgariser une heure pour créer un sas si on a une bonne structure,
+27:56
+faire les intégrations de paiement avec une bonne configuration.
+27:59
+Je vous ai fait un petit tour de Warp, bien sûr Warp ça contient beaucoup plus de possibilités quand on est débutant, je vais pas trop vous agresser, surtout quand on débute, et puis surtout c'est le principe 80-20, vous l'avez ici.
+28:10
+Et pourquoi on l'utilise en tant qu'architecte IA ? Et bien c'est pas pour lancer des commandes terminales, c'est pour gérer de multiples environnements d'IA et on peut travailler proprement.
+28:20
+Donc voilà si ça t'a plu, n'hésite pas à liker, partager et commenter cette vidéo si tu ne connaissais pas Warp, et sinon si tu veux apprendre à créer ça, à créer aussi des offres, parce que bien sûr c'est bien de créer de la technique etc.
+28:30
+Mais il faut aussi empacter des offres, cibler un marché et faire tout le marketing, et ça c'est le plus important et c'est on va dire le plus difficile pour la plupart des gens qui sont dans le terminal.
+28:38
+Ça se passe, premier lien dans la description, c'est la première ligne ou premier commentaire épinglé.
+28:42
+Afin de bosser avec moi, que ce soit en coaching, que ce soit en formation, que ce soit en rejoindre un groupe d'élite avec plusieurs membres, il y a de nouvelles offres, c'est bientôt la rentrée, vous allez voir ce qui va arriver.
+28:51
+Et puis nous on se retrouve pour une prochaine, c'était Mayday, ciao !
+
+Tout
+
+Source : Meydeey | Automatisation IA
+
+Interface de programmation
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+24:17
+Je teste les produits zéro calorie
+Gurky Le Murky
+108 k
+il y a 15 h
+Nouveau
+
+
+16:47
+POURQUOI VOTRE VENTRE GROSSIT APRÈS 40 ANS ? LE CORTISOL EXPLIQUÉ
+JamCore
+22 k
+il y a 4 m.
+
+
+6:09
+Pourquoi vos affiches IA ressemble à de la merde ?
+jason letourdi et techwizjason
+6
+il y a 14 h
+Nouveau
+
+
+1:59:07
+L’expert en développement musculaire : Ils vous mentent sur les heures d’entraînement !
+The Diary Of A CEO
+7 M
+il y a 1 a
+Doublée
+
+
+22:46
+Pourquoi ces aliments brûlent plus le gras du ventre que n’importe quels autres
+Nassim Sahili
+111 k
+il y a 4 sem.
+
+
+22:57
+J’ai donné un VPS à mon agent IA : voici comment je garde le contrôle
+Mike Codeur
+1,3 k
+il y a 23 h
+Nouveau
+
+
+17:04
+Les ETF en Bourse sont des arnaques voici pourquoi
+Kasper
+6,3 k
+il y a 6 j
+Nouveau
+
+
+44:33
+JE RÉPONDS À VOS QUESTION - ENTRAÎNEMENT | ALIMENTATION | VRAI GARÇON
+Essan NFC
+315 k
+il y a 4 a
+
+
+33:32
+J'ai laissé 3 IA recréer Genshin Impact de zéro (hallucinant)
+Aywen
+149 k
+il y a 6 j
+Nouveau
+
+
+24:20
+Claude Code arrête ENFIN de te noyer sous le texte
+Meydeey | Automatisation IA
+2 k
+il y a 17 h
+Nouveau
+
+
+10:48
+Une salle de sport interdite aux hommes ?
+Naj B Fit
+248 k
+il y a 3 a
+Doublée automatiquement
+
+
+33:36
+You need to switch to Linux RIGHT NOW!!
+NetworkChuck
+276 k
+il y a 15 h
+Nouveau
+
+
+26:44
+Objectif 10K MRR sur Lumail : je te partage ce que je fais en marketing
+Melvynx
+867
+il y a 14 h
+Nouveau
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+209 k
+il y a 1 m.
+
+
+4:16:30
+Comment Commencer le Trading en Étant Débutant en 2026 (4 heures)
+Kasper
+366 k
+il y a 9 m.
+
+
+46:31
+Je vous parle du Projet qui a Failli me Ruiner (Paladium Bedrock)
+Fuzay²
+214 k
+il y a 2 m.
+
+
+22:56
+Pourquoi les investisseurs ne veulent plus prêter aux États-Unis
+Charlie Seddine
+4,3 k
+il y a 13 h
+Nouveau
+
+
+15:00
+Peptides : tout le monde en prend, tout le monde en parle (et c'est très grave)
+Nassim Sahili
+346 k
+il y a 3 m.
+
+1:51:31
+"Ce sera la plus grande crise sociale que le Monde ait jamais connue" - Laurent Alexandre
+Grand Angle
+155 k
+il y a 12 j
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+416 k
+il y a 1 m.
+
+    

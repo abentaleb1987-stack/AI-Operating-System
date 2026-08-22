@@ -1,0 +1,790 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+DeepSeek Harness... surpuissant
+Meydeey | Automatisation IA
+Meydeey | Automatisation IA
+31,8 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+22 août 2026  FRANCE
+👉 Bossons ensemble : https://meydeey.com/go/v049d
+
+───
+
+DeepSeek Harness, c'est l'outil open source qui fait tourner Claude Code et Codex comme de simples plugins. Je l'installe, je le teste et on construit des projets réels ensemble verdict cash à la fin, sans filtre.
+
+───
+
+👥 COMMUNAUTÉ GRATUITE (+4 000 entrepreneurs)
+Le bon point de départ si tu débutes.
+→ https://meydeey.com/communaute
+
+───
+
+▸ CHAPITRES
+
+0:00 Ce que DeepSeek Harness change
+2:17 Les 13 couches d'un harnais
+5:15 Cordis et l'install en 1 ligne
+6:53 Les 4 modes et le creator
+8:05 Il a supprimé mon fichier
+9:55 La clé API et ce que ça coûte
+12:04 Rubik's Cube 3D en direct
+14:58 Brancher Opus 5 ou HuggingFace
+19:03 Le résultat brut en direct
+22:11 Landing page en mode minimal
+24:23 Un modèle par spécialité
+26:05 Mon verdict sur ce séisme
+
+───
+
+▸ CAS RÉELS D'ÉLÈVES
+→ Comment Christophe automatise sa gestion de patrimoine :    • Il a créé une APP RENTABLE en moins d'un m...  
+→ Comment Stephano intègre l'IA dans la banque d'affaires :    • Ce banquier de 60 ans a tout compris à l'I...  
+→ Comment Tanguy utilise l'IA pour son e-commerce prévention :    • Ce que PERSONNE ne te dit sur l'argent ave...  
+→ Comment Lionel structure ses projets en tant qu'architecte IA :    • Neuralink, Drones t*eurs, Crédit social :...  
+
+▸ À VOIR AUSSI
+→ J'ai tout quitté pour Claude Code (pivot radical) :    • J'ai tout quitté pour Claude Code (pivot r...  
+→ Claude Code : Tout comprendre en une vidéo (démo incluse) :    • Claude Code : Tout comprendre en une vidéo...  
+
+───
+
+▸ OUTILS MENTIONNÉS (liens affiliés*)
+→ Apify (Scraper comme un pro) : https://www.apify.com?fpr=jo41in
+→ Hostinger (-20% sur VPS, hébergement) : https://www.hostinger.com/fr?REFERRAL...
+→ Kie AI (génération image, vidéo, voix, musique) : https://kie.ai?ref=a673f38b1e0fedf853...
+
+───
+
+▸ ME RETROUVER
+→ LinkedIn :   / medhi-el-ouardouni  
+→ Instagram :   / meydeeyai  
+→ Contact : contact@meydeey.com
+
+*Certains liens sont des liens affiliés. Je touche une commission sans surcoût pour toi. Je ne recommande que les outils que j'utilise au quotidien.
+
+#deepseek 
+#llm 
+#intelligenceartificielle
+Meydeey explore l'architecture modulaire de DeepSeek Harness, une solution open source révolutionnaire permettant de bâtir des agents personnalisés. Cette vidéo détaille le fonctionnement de ses treize couches configurables, son intégration locale multi-modèles et sa capacité à gérer des projets de développement complexes en toute autonomie.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Meydeey | Automatisation IA
+31,8 k abonnés
+Vidéos
+À propos
+Code avec l’IA : outils, méthodes et workflows
+26
+Code avec l’IA : outils, méthodes et workflows
+de Meydeey | Automatisation IA
+14 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @meydeey
+@meydeey
+il y a 5 heures (modifié)
+Par quoi commencer chez toi ?
+On tranche ici : https://meydeey.com/go/v049p
+
+
+
+Répondre
+
+
+@nicesly
+il y a 37 minutes (modifié)
+DSH a l'air vraiment intéressant, notamment pour faire du failover/routing entre plusieurs LLM selon mes propres conditions quand un modèle ne répond pas à mes exigences, parmi tout un tas de choses qu'on peut paramétrer. Merci pour la vidéo !
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@VITALITÉPREMIUM
+il y a 3 heures
+Lessgo
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@Azélie-Santé
+il y a 5 heures
+🙏
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@akaruto1552
+il y a 2 heures
+Tu peux test OX alpha stp
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@LeMarcheurAmbulant
+il y a 1 heure
+C est un système destiy aux personnes qui ont de l expérience j imagine
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@ink-man
+il y a 5 heures
+De quoi m'Informer en même pas 30min 
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Ce que DeepSeek Harness change
+0:000 secondeAujourd'hui je vais t'expliquer ce qu'est DeepSeek Harness, on en entend partout parler, ça commence à exploser, ça fait quelques jours déjà que c'est sorti.
+0:077 secondesC'est présenté de manière exotique, il n'y a personne qui l'a vraiment bien démystifié ou du moins qui a creusé chacune de ses couches. Il y en a beaucoup qui en parlent en théorie mais en pratique on n'a pas vu grand-chose.
+0:1616 secondesDonc c'est ce qu'on va voir aujourd'hui, on va voir qu'est-ce que c'est ce mastodonte qui est tout simplement en train de retourner le marché.
+0:2323 secondesC'est une réelle menace pour Anthropic, OpenAI et etc.
+0:2626 secondesDonc il est sorti le 13 août 2026, 100% open source, on va revenir sur les termes parce qu'il y a vraiment de plus en plus de termes à comprendre, surtout si tu débutes, open source, harness, etc.
+0:3636 secondesPour comprendre la différence avec CloudCode et c'est pareil pour Codex, CloudCode c'est un agent qui est déjà fini tandis que DeepSeek Harness ça va être les pièces détachées.
+0:4444 secondesC'est très simple, on fait la métaphore de la voiture. Quand tu vas chez CloudCode ou tu vas chez Codex, tu achètes une voiture avec déjà des options tandis que là tu peux construire ta propre voiture.
+0:5454 secondesSur CloudCode par définition tu as les modèles uniquement de Cloud donc tu peux en intégrer bien sûr mais il faut faire certaines manipulations techniques.
+1:001 minuteTandis que sur DeepSeek Harness, c'est là la nuance, c'est que ça s'appelle DeepSeek Harness mais tu peux mettre n'importe quel modèle. Sur CloudCode c'est Anthropic qui décide, personne d'autre.
+1:091 minute et 9 secondesAvec DeepSeek Harness c'est toi qui décide, tu fais ce que tu veux. On va décortiquer tout ça parce que ça peut être une vidéo qui va être peut-être complexe pour certains mais je vais essayer de simplifier un maximum et après on passera en pratique.
+1:181 minute et 18 secondesOn va construire des projets avec DeepSeek Harness pour faire pratique et théorie. Et avec CloudCode tu peux coder tout de suite tandis qu'avec DeepSeek Harness tu peux fabriquer ton agent.
+1:281 minute et 28 secondesOn va l'appeler DH parce que DeepSeek Harness ça va être chiant. Donc bien entendu disponible sur GitHub, on lui met une étoile en direct.
+1:351 minute et 35 secondesDonc 100% open source, tout le code de cette solution est disponible gratuitement et modifiable.
+1:401 minute et 40 secondesÇa fait même pas dix jours qu'il est sorti, il y a déjà 180 000 étoiles, presque 20 000 forks. Donc ça veut dire que là c'est une explosion totale.
+1:491 minute et 49 secondesDonc en gros avec DeepSeek Harness tu vas pouvoir construire ton propre CloudCode. Alors CloudCode, Codex, OpenCode, tu construis les règles du jeu, tu as la main sur tout en fait, c'est vraiment ça l'avantage.
+1:591 minute et 59 secondeset 100% open source. Tu vas pouvoir y mettre tes règles, tes propres outils, des étapes de validation.
+2:042 minutes et 4 secondesDonc là pour tous ceux qui ont des entreprises et qui veulent du coup la souveraineté des données, et bien ils vont pouvoir installer ce modèle là
+2:102 minutes et 10 secondessur leur machine. On verra comment on peut l'installer, où on peut l'installer. Vous allez voir c'est extrêmement complet. Donc chaque entreprise pourra avoir son propre environnement 100% personnalisé avec ses propres compétences. C'est du délire.
+Chapitre 2 : Les 13 couches d'un harnais
+2:222 minutes et 22 secondesDonc déjà on voit ce terme la harness un peu partout, même des fois c'est vrai que même moi je le dis dans mes vidéos, ça me paraît évident, mais pour un débutant en gros un harness c'est quoi ? En gros toi tu vas faire des promptes, tu vas parler à une IA, donc tu vas donner tes consignes.
+2:342 minutes et 34 secondesEnsuite tes consignes elles vont être envoyées à un modèle. Ce modèle il va tout simplement interagir avec le harnais, et le harnais il va interagir avec tes fichiers. Donc le harnais, si on doit le
+2:422 minutes et 42 secondesvulgariser, c'est tout simplement un environnement qui permet d'exécuter des actions, faire des recherches. En gros c'est un environnement avec des paramètres, des règles,
+2:502 minutes et 50 secondesun environnement tout simplement, comme une boîte en fait. Donc ce qu'un harnais il peut faire à ta place, et bien il peut faire tourner la boucle. Envoyer, exécuter, vérifier, recommencer. Il peut gérer le contexte, il peut tenir les permissions aussi.
+3:013 minutes et 1 secondeBah tiens on n'écrit pas dans ce fichier, on ne fait pas ça, donc par exemple pour la sécurité.
+3:043 minutes et 4 secondesIl peut rattraper les erreurs, donc ce qu'on appelle il va relancer des erreurs, faire des tests, enfin du moins réessayer, jusqu'à ce qu'il corrige lui-même, donc boucler. Mais déjà ça c'est le 80-20 de ce qu'un harnais peut faire. Donc pour comprendre une solution,
+3:153 minutes et 15 secondeset bien on va la décortiquer, et il y a 13 étages. Donc là DeepSeaKarNess ça correspond à 13 étages. Qui sont, je dis bien tous,
+3:233 minutes et 23 secondespersonnalisables. Chacun de ces étages, tu peux en faire ce que tu veux. Donc numéro 0 c'est ta machine, macOS, Linux, Windows, un serveur, peu importe. Ensuite tu as le moteur, au-dessus,
+3:323 minutes et 32 secondesdonc Node, par exemple, et les processeurs de ton système. Au-dessus tu as ton environnement, donc tous tes fichiers, Git, Docker, le réseau. Au-dessus tu as les permissions, ce qui a le droit de faire et où.
+3:433 minutes et 43 secondesAu-dessus tu as le modèle, enfin du moins les modèles et outils. Tu as des modèles qui vont servir, qui répondent, d'autres modèles qui vont agir. Tu pourras le customiser comme tu veux. Au-dessus tu as la prise du modèle, donc DeepSeaKarNess, Cloud,
+3:533 minutes et 53 secondesChatsGPT, ton propre serveur. Tu peux très bien entraîner aussi ton modèle, c'est vrai qu'on ne le dit pas assez, mais il y en a qui entraînent leur propre modèle.
+3:593 minutes et 59 secondesAu-dessus, tu as le contexte, donc les consignes, mémoire. Au-dessus, tu as l'agent, donc l'agent qui va permettre de faire la boucle,
+4:054 minutes et 5 secondesqui va pouvoir faire des tours, et qui aura même la possibilité de faire intervenir des sous-agents. Au-dessus encore, tu as CORDIS, donc ça c'est le socle où chaque pièce vont se brancher, on va en reparler tout à l'heure,
+4:154 minutes et 15 secondesparce qu'il est vrai qu'il faut comprendre cette pièce-là. Au-dessus, les réglages, donc un fichier qui écrase tout le reste, Claude MD, Agent MD, etc, Saoul MD, tu en as certainement déjà entendu parler. Au-dessus, on a le profil,
+4:264 minutes et 26 secondesdonc l'assemblage que tu vas lancer. Au-dessus, l'écran, donc navigateur, terminal, le lien, ce que tu vois toi, et au-dessus encore, il y a toi.
+4:334 minutes et 33 secondesDonc tu vois, ces 13 couches, c'est énorme. Donc parmi ces 13 couches, forcément, par exemple, sur Cloud Code ou Codex, tu ne peux pas modifier certaines couches.
+4:404 minutes et 40 secondesNous n'avons pas l'autorisation de rentrer, nous n'avons même pas accès au code. Donc c'est la raison pour laquelle on a des limitations, et DeepSeek Harness pète ces limitations.
+4:484 minutes et 48 secondesDonc l'idée, c'est un petit peu la métaphore de la boîte de Lego, en fait. S'il y a un million de personnes qui utilisent DeepSeek Harness, il y aura un million d'agents totalement différents. Donc là, DeepSeek Harness, ce n'est même pas la possibilité d'avoir des Lego.
+5:015 minutes et 1 secondeDonc les Lego, quand on achète une boîte de Lego, c'est du matériel qui est fini. Donc on a forcément une limitation de pièces, de couleurs, tandis que là, en fait, vous pouvez construire votre propre jeu de Lego.
+5:115 minutes et 11 secondesC'est une couche encore au-dessus, en fait. C'est comme si on était sur Terre, mais là, en fait, on n'a plus la limitation de la Terre, mais on a l'univers. Donc on peut créer autant de planètes qu'on veut.
+Chapitre 3 : Cordis et l'install en 1 ligne
+5:195 minutes et 19 secondesC'est un peu l'idée du truc. Bon, peut-être que ça, c'était un petit peu trop. Bon, licence Amaiti. Tout le code, il est public.
+5:245 minutes et 24 secondesPratiquement 20 000 copies de Fork, ce que j'ai dit tout à l'heure. Donc ça y va très fort. Donc le socle, il s'appelle
+5:305 minutes et 30 secondesCordis. Cordis, c'est, on va dire, une espèce de multiprise. Et une multiprise, au-dessus, il y a le modèle qui est branché, les outils,
+5:385 minutes et 38 secondesla boucle et ta pièce. Donc la pièce, c'est tout simplement ton dossier ou tes dossiers avec du code dedans. Et là où c'est vraiment génial, c'est que si tu la branches, elle fonctionne.
+5:475 minutes et 47 secondesEt quand tu la débranches, elle ne laisse rien derrière elle. Donc ça, on verra par la suite un petit peu. Alors bien sûr, moi, je me focus là-dessus pour creuser, aller beaucoup plus loin. Mais là, je peux vous assurer que forcément, les contenus de formation qui vont en découler derrière pour que chaque entreprise...
+5:595 minutes et 59 secondesoù chaque entrepreneur puisse créer son propre environnement, ça va être vraiment royal. L'architecture, elle est simple, tu es ici, tu effectues une demande,
+6:076 minutes et 7 secondesça part sur un architecte qui va avoir la possibilité de gérer le front-end, le back-end, la sécurité et les tests, ça repart chez un relecteur et la pull request, c'est
+6:176 minutes et 17 secondessimplement la prise de décision pour validation de ce qui a été fait ou invalidation. Donc là où il faut comprendre, il n'y a rien à télécharger, il y a une seule ligne de commande à taper. Pour l'installer, donc quand vous arrivez sur la page de
+6:286 minutes et 28 secondesDeepSeek Harness, de l'url deepseek.com harness, vous avez la ligne de commande ici, mais vous pouvez même dire à Claude Code ou à n'importe quelle solution codex
+6:386 minutes et 38 secondesinstalle-moi ça et puis il va vous l'installer, vous donnez l'url, il y a déjà la documentation, développeur, docs, il y a tout ce qu'il faut, il y a même le paper de Cordis. Donc aucun logiciel à installer,
+6:476 minutes et 47 secondeson tape une ligne de commande, c'est installé et tu branches directement ton modèle. Donc ne vous inquiétez pas, on va y aller juste après,
+Chapitre 4 : Les 4 modes et le creator
+6:536 minutes et 53 secondesça ressemble à ça une fois qu'on l'a installé. Donc la nuance, c'est qu'il y a plusieurs modes. Il y a un mode qui s'appelle le mode standard, donc c'est le mode ici, donc c'est le mode où il y aura tout, donc les fichiers,
+7:037 minutes et 3 secondesterminal, recherche, sous-agent et plan. On a ensuite le mode ptc, donc ptc lui c'est un mode qui va écrire un programme au lieu d'enchaîner
+7:117 minutes et 11 secondesdes appels d'outils, de faire des requêtes, lui va directement écrire un programme. On a le mode minimal, donc où il y a uniquement deux outils,
+7:187 minutes et 18 secondesterminal et éditeur, rien d'autre, donc ça peut être aussi utile suivant un certain projet. Et on a le mode creator, donc celui-ci il va en exciter plus d'un, c'est celui qui va servir à fabriquer
+7:287 minutes et 28 secondesnos propres agents sur mesure. Donc on va le tester tout à l'heure pour construire un projet, où le projet, l'objectif c'est de mettre l'url d'un site web et puis il va définir une note sur la vitesse, le référencement, l'accessibilité et la protection.
+7:397 minutes et 39 secondesDonc je n'ai aucune idée, ce n'est pas préparé, on va lancer en haut casse-pipe directement, pour voir comment il va réagir avec ça.
+7:457 minutes et 45 secondesDonc c'est le principe clé, il va lire ce qu'on va lui donner comme instruction, il va écrire, il va lancer, il va tester, il va
+7:517 minutes et 51 secondescorriger jusqu'à validation pour test du coup humain. Donc là quand je dis il teste, c'est bien du coup la boucle IA et non pas l'humain, donc toi qui vas
+7:597 minutes et 59 secondesle tester en cas réel. Et il va tout gérer. Alors l'ayant testé tout à l'heure, je documente quand même ça dans ma présentation, c'est un test que je fais tout le temps quand j'utilise des harness, je fais un test de suppression pour voir en fait s'il y a des
+Chapitre 5 : Il a supprimé mon fichier
+8:108 minutes et 10 secondessi tu veux, différents niveaux d'instruction, est-ce qu'il va supprimer le fichier. Et là il m'avait supprimé un fichier
+8:168 minutes et 16 secondestandis que mon niveau d'instruction en fait ne donnait pas réellement l'accord. J'essaie de jouer en fait avec le langage naturel, bref c'est un tout petit détail, mais il avait quand même supprimé donc attention à bien
+8:258 minutes et 25 secondesdonner les bonnes instructions, c'est important. Alors ce qu'il peut faire aussi qui est vraiment puissant, c'est qu'il peut construire un outil qui lui manque en pleine conversation. Donc en gros il va regarder
+8:348 minutes et 34 secondesles besoins, il va écrire ses propres besoins, il va les brancher automatiquement et puis il va s'en servir pour boucler jusqu'à la réussite de notre objectif.
+8:438 minutes et 43 secondesDonc bien sûr vous allez me dire on peut aussi faire ça avec Cloud Code, on peut aussi faire ça avec Codex, là c'est juste différent dans sa manière de le faire. Quand il n'est pas personnalisé et qu'on l'installe sur sa machine, et bien forcément il ne va pas réagir de la même manière que Cloud Code, Codex, etc.
+8:568 minutes et 56 secondesAlors deux choses qu'il fait que les autres ne font pas, ou du moins pas par définition, c'est plutôt des ajouts qu'on doit faire ou puis des manipulations, enfin du moins on doit
+9:039 minutes et 3 secondesbidouiller, mais il peut travailler sur une autre machine et il peut retrouver les échanges d'avant. Alors bien sûr avec les JSON-L, etc. on peut le faire
+9:119 minutes et 11 secondestechniquement sur Cloud Code et sur Codex et tout ce qui s'ensuit, mais là en fait il n'y a rien besoin d'installer, c'est ça qu'est intéressant, c'est que nativement quand on l'installe il propose ça, mais même s'il ne le propose pas ou même si tu as une idée
+9:229 minutes et 22 secondesrêvée, et bien tu vas pouvoir la créer parce que tu as 13 couches totalement personnalisables. Il faut le mentionner, en 11 jours ils ont publié
+9:299 minutes et 29 secondes10 versions, donc le projet il build très très très fort. Les chinois vous savez ils travaillent énormément, et DeepSea c'est loin d'être des bras cassés. Aussi le guide pour l'utiliser il fait uniquement 30 lignes,
+9:389 minutes et 38 secondestandis que le manuel technique il en fait des milliers, bon courage pour ceux qui veulent le lire, et il faut savoir que le code qui va tourner va partir chez le fournisseur du modèle, donc si tu utilises DeepSea Carnet sur ta machine
+9:489 minutes et 48 secondeschez toi, dans ton entreprise, avec un modèle qui tourne chez toi dans ton entreprise, ça part nulle part que chez toi.
+Chapitre 6 : La clé API et ce que ça coûte
+9:559 minutes et 55 secondesBon allez assez parlé, maintenant nous voici sur la page de vente, donc pour l'installer je Je vous invite vraiment à faire, en fait ça va dépendre de vos configurations, mais le plus simple c'est de ne pas coller la ligne de commande, mais de donner la page et de dire à Claude Code, Codex, etc.
+10:0910 minutes et 9 secondesInstalle-le, parce que si vous avez une configuration spécifique par exemple, et que vous l'avez déjà documenté, il le fera, il va boucler sur les corrections.
+10:1610 minutes et 16 secondesDonc une fois que vous allez l'installer, il va tout simplement vous demander de vous connecter à DeepSeek Platform,
+10:2110 minutes et 21 secondesdonc c'est la plateforme de DeepSeek où vous allez devoir créer une clé API, donc là c'est pour démarrer avec l'API DeepSeek, pour tester le modèle DeepSeek, mais bien sûr comme je vous ai dit on peut connecter d'autres modèles, mais on va l'utiliser nativement.
+10:3210 minutes et 32 secondesVoilà, DeepSeek chez DeepSeek pour commencer. Donc après vous allez devoir aller dans API Keys et créer une clé API, donc bien sûr il faudra mettre du crédit,
+10:4010 minutes et 40 secondesdonc en général mettez 5 balles, voilà vous pouvez même payer avec Paypal, moi j'avais payé 2$ avec Paypal en 2025,
+10:4610 minutes et 46 secondeset je reviens là aujourd'hui en 2026, et un an plus tard il me reste encore 1$, alors c'est parce que je n'utilise pas directement DC, mais bon c'est marrant de voir qu'un an plus tard il n'y a même pas 50 centimes qui sont dépensés.
+10:5810 minutes et 58 secondesDonc une fois que vous allez l'installer nativement comme c'est recommandé dans la documentation, et bien il va être installé en local, donc là HTTP, voilà sur le port 127.0.0.1, port 3080, bon jusqu'à là on va dire que c'est compréhensible.
+11:1211 minutes et 12 secondesDonc là quand on arrive, alors bien sûr ce sera vierge chez vous une fois qu'il sera installé, il n'y aura rien de tout ça, on va rapidement s'habituer, ici on a tout simplement les accès qu'on lui donne, est-ce qu'on lui donne la lecture uniquement, l'écriture dans ce workspace, ou le full accès.
+11:2611 minutes et 26 secondesEn bas à droite nous avons les modèles, donc du coup si on ne le modifie pas, enfin du moins quand on ne le personnalise pas, on a uniquement les DeepSeek,
+11:3311 minutes et 33 secondesainsi que le nouveau modèle qui est sorti récemment, il bombarde en ce moment, c'est le Flash Vision, donc ça on pourra certainement le tester dans les prochains jours, on ne va pas se presser.
+11:4011 minutes et 40 secondesIci on a les modes, bon comme je vous ai expliqué, le mode standard, le mode PTC, minimal, et creator mode.
+11:4511 minutes et 45 secondesDonc on va commencer gentiment, donc déjà on va se créer un petit workspace, donc un workspace qui est relié directement en local sur mon PC, dans mes downloads, donc là c'est bon, je fais choisir, donc là vous voyez j'ai créé test 21 DeepSeek Harness.
+11:5911 minutes et 59 secondesEt puis pour commencer tranquillement en standard mode, pour vous montrer et vous familiariser parce que vous connaissez pour la plupart d'entre vous, enfin visuellement vous avez déjà vu un mode standard, on va faire un premier test, créer un jeu 3D de Rubik's Cube.
+Chapitre 7 : Rubik's Cube 3D en direct
+12:1112 minutes et 11 secondesJe pense que vous avez compris, là il est en train de résonner, de tink, pour pouvoir coder dans le dossier que j'ai créé qui s'appelle test21dh.
+12:2112 minutes et 21 secondesDonc on va appeler ça un workspace. Alors là je pense que les techniciens vous allez kiffer ça, il y a tout simplement en haut un bouton qui s'appelle Trajectory.
+12:2912 minutes et 29 secondesEt Trajectory, eh bien on voit tout ce qui se passe, on voit les logs, on voit toute la partie technique, donc pour pouvoir gérer et monitorer et même améliorer nos agents qui vont être créés, ça va être génial.
+12:4012 minutes et 40 secondesDonc on voit du coup User, User c'est nous, c'est le prompt User, à l'inverse du prompt System. On a le système, on a le contexte, on a l'assistant et on a Tool.
+12:4812 minutes et 48 secondesDonc c'est super compréhensible, c'est bien condensé, j'aime bien. On peut voir aussi les Durations, donc combien de temps ça a duré. Les Turns, on peut venir cliquer pour pouvoir masquer, voilà.
+12:5712 minutes et 57 secondesEt on peut voir l'école, donc c'est très complet. Donc on peut revenir sur Chat. Alors là je le rappelle, on est toujours en local.
+13:0413 minutes et 4 secondesMais sachez qu'on peut l'installer sur un VPS, on peut l'installer sur sa propre machine, il n'y a aucune limitation. Mais pour le tester, on fait ça tranquillement.
+13:1213 minutes et 12 secondesBon pendant qu'il travaille, on va pouvoir faire si on veut un nouveau workspace. Et puis on va faire le test initial qu'on avait dit, on va essayer de créer le projet où on mettait le site web.
+13:1913 minutes et 19 secondesOn va même appeler ça presque un SaaS, un SaaS gratuit. Donc là vous avez vu là carrément du coup fait une tout doux, où on le voit produire ses actions.
+13:2713 minutes et 27 secondesÇa fait vraiment plaisir d'être, de toute façon j'en avais parlé il y a plusieurs mois, en attendant le prochain Harness de DeepSeek. Alors je ne pensais pas qu'ils allaient vraiment proposer une solution qui est complètement open source, c'est des malades mentaux.
+13:3613 minutes et 36 secondesMais non là ça fait vraiment plaisir parce qu'on va pouvoir customiser toutes ces couches. Et quand je dis toutes ces couches, je vous assure que là, ça nous rajoute beaucoup de travail.
+13:4513 minutes et 45 secondesPour ceux qui vont vouloir aller au haut de la technique et proposer des machines en local à des entreprises. Enfin du moins ceux qui veulent créer des agences IA et n'ont pas à vendre des petits workflows bidons.
+13:5313 minutes et 53 secondesMais créer vraiment des infrastructures, ça va demander beaucoup, beaucoup de travail. Enfin du moins beaucoup de pratique et d'apprentissage.
+13:5913 minutes et 59 secondespour gérer tout ça. Donc là on va se créer un nouveau workspace parce que du coup j'ai le prompt pour créer le projet qu'on
+14:0414 minutes et 4 secondesdoit faire, du moins l'espèce de SASS. Voilà, on va faire test SASS, on va rester en standard mode. Alors bien sûr je vais pas pouvoir tester tous les modes sinon la vidéo elle va durer huit heures et puis bon ça va être plutôt brouillon
+14:1514 minutes et 15 secondesmais je vais utiliser ce prompt là pour construire en mode standard et je vais lancer non pas un DeepSeek Flash mais un DeepSeek V4 Pro du moins avec les
+14:2414 minutes et 24 secondesautorisations pour écrire dans le workspace. Donc là c'est parti. Alors dans la documentation il est recommandé d'écrire en anglais
+14:3114 minutes et 31 secondescomme ça un modèle chinois sémantiquement parlant il va pas interpréter aussi bien le français. On a fait un petit test d'un prompt bidon sur un jeu de Rubik's Cube. Alors là c'est vrai qu'il prend
+14:3914 minutes et 39 secondesdu temps, en plus on est en V4 Flash. Bon laissons le faire, ça me paraît un petit peu long cette histoire. Au niveau des trajectories oui on peut vraiment suivre le projet. Alors pour les plus techniques ça va nous permettre de voir aussi les drifts. Si on voit par exemple
+14:4914 minutes et 49 secondesun enchaînement de 8 tools ou de 10 tools, peut-être que c'est une problématique, peut-être qu'il y a un bug et qu'il va trop, il va produire des erreurs, il va reboucler sur ses erreurs.
+Chapitre 8 : Brancher Opus 5 ou HuggingFace
+14:5814 minutes et 58 secondesDonc bon c'est vraiment pas mal. Alors on fait un petit tour aussi dans la section paramètres.
+15:0115 minutes et 1 secondeMoi j'aime bien faire les choses à l'envers. Voyez on peut aussi changer le preset des agents. Là on est en mode standard, on peut passer en créateur, minimal, etc. On a les permissions qu'on peut changer ici, la langue donc soit anglais ou soit chinois.
+15:1315 minutes et 13 secondesBison fait simple. On a les modèles ici, donc là vous voyez c'est ici qu'on peut configurer nos modèles. Donc là pour l'instant on voit que DeepSeek, eh bien il est connecté parce que forcément on l'a connecté avec une clé API native de chez DeepSeek Platform.
+15:2315 minutes et 23 secondesMais on peut venir ajouter un provider. Donc là vous voyez on peut venir connecter par exemple OpenCode si on veut.
+15:3015 minutes et 30 secondesOn peut venir connecter un HuggingFace. Et HuggingFace, si vous allez sur HuggingFace et vous allez dans Modèles,
+15:3515 minutes et 35 secondesregardez le nombre de modèles qu'il y a. Il y en a 3 millions, plus de 3 millions. Donc ça veut dire qu'il y a des modèles qui
+15:4115 minutes et 41 secondessont spécialisés dans des cas très spécifiques que vous allez pouvoir venir plugger. Et encore je parle que de HuggingFace, je vous parle pas encore une fois de tous les autres modèles. Et HuggingFace, c'est un mastodonte qui peut venir se coller à votre mastodonte.
+15:5315 minutes et 53 secondesVous avez juste à mettre la clé API et si vous voulez mettre les paramètres personnalisés ou bien le custom provider.
+15:5915 minutes et 59 secondesDonc vous mettez le Provider, le nom, l'URL de la base, le protocole API qui est la plupart du temps en OpenAI, la clé API et les modèles seront ici. Ensuite on a les plugins,
+16:0916 minutes et 9 secondesdonc là vous voyez les plugins, on va pouvoir venir créer ce qu'on veut, mais il y a déjà du coup la possibilité de modifier l'échelle, les loops d'agent, donc par exemple
+16:1816 minutes et 18 secondesla possibilité d'effectuer des tool calls, donc des appels d'outils en parallèle. Donc là il a mis 10,
+16:2316 minutes et 23 secondeson peut venir augmenter. Attention à ne pas faire péter votre machine non plus. Pareil pour les timeouts, pour la web search, donc pour pouvoir aller pêcher, du moins crawler, du moins aller sur des pages web et récupérer des informations.
+16:3416 minutes et 34 secondesPareil on peut venir mettre du coup une clé API, un endpoint et puis des maximum de requêtes par recherche, ainsi que la liste des plugins. Donc là par définition, il y aura des mises à jour forcément, mais là
+16:4616 minutes et 46 secondesau démarrage, lorsque je l'ai installé, moi j'en ai 165 au total. Donc il y en a certains qui sont désactivés,
+16:5116 minutes et 51 secondesd'autres qui sont activés, c'est la configuration basique au moment où je l'ai installé. Donc par exemple, tout le web, on peut venir voir
+16:5716 minutes et 57 secondesactiver, et puis tout ça on peut venir les customiser. Vous voyez, open configuration file, donc c'est à dire ouvrir le fichier de configuration
+17:0517 minutes et 5 secondeset après on peut modifier. Mais ça vous pouvez le faire directement depuis Cloud Code, depuis Codex, vous n'avez pas besoin d'aller rentrer dans le code. Et les agents preset, donc on peut du coup utiliser les modes
+17:1417 minutes et 14 secondesqu'ils ont mis par défaut, les 4 qu'on a vu déjà, et on peut créer nos propres custom
+17:1917 minutes et 19 secondespreset, donc nos propres agents. Alors c'est vrai que le terme agent, il est utilisé pour tout et n'importe quoi, mais on va appeler ça
+17:2617 minutes et 26 secondesun environnement, ok ? Donc c'est preset d'agent, mais on va dire des environnements. Donc là on a l'environnement standard, l'environnement PTC, créateur, minimal. Mais si tu as une boîte de consulting, tu vas créer ton environnement consulting. Bon, qu'est ce qui se passe de ce côté là ?
+17:3817 minutes et 38 secondesAlors, sur le test du Sass, là il est en train d'écrire du coup l'index HTML public, on va le laisser faire.
+17:4417 minutes et 44 secondesLe Rubik's Cube, alors là j'ai jamais vu un Rubik's Cube autant long, il a presque fini, il est en train de vérifier.
+17:4917 minutes et 49 secondesPeut-être que ça va être un truc de fou, parce que je vous cache pas que j'avais fait le test du Rubik's Cube, mais je lui avais dit créer un Rubik's Cube, je lui avais pas dit créer un jeu 3D de Rubik's Cube.
+17:5717 minutes et 57 secondesDonc là je ne sais pas sur quoi on va tomber. mais en vue de la longueur soit 12 minutes pour créer ça avec un DeepSeek V4 Flash
+18:0418 minutes et 4 secondespour ceux qui se rendent compte DeepSeek V4 Flash normalement c'est un turbo booster on va voir alors là c'est marrant il est en train de rédiger un readme in french donc pourquoi il me fait un
+18:1218 minutes et 12 secondesreadme en français alors que la requête initiale était complètement en anglais donc vous voyez s'il y a un truc qui me plaît pas là voilà là il écrit un truc en français alors que je veux de
+18:1918 minutes et 19 secondesl'anglais et bien je peux venir modifier la couche 7 si c'est la couche 7 qui pose problème alors bien sûr attention commencez à jouer les cowboys à modifier tout à vouloir créer son DeepSeek
+18:2718 minutes et 27 secondesharness c'est s'immiscer dans on va dire si tu veux que de la technique et quand on gagne pas d'argent et qu'on fait ça c'est complètement con donc l'idée c'est vraiment de profiter de son
+18:3518 minutes et 35 secondesavantage principal qui est si tu veux la souveraineté là regarde je suis en train de le faire tourner sur ma machine avec un modèle chinois cloud donc là forcément ça part en chine mais après je vais
+18:4418 minutes et 44 secondesconnecter un modèle un petit modèle en local qui va pouvoir commencer à produire des projets et puis derrière tu sais ce qui va se passer supercalculateur tu t'achètes ton petit super
+18:5318 minutes et 53 secondescalculateur tu mets sur ton bureau qui tourne et puis tu as un modèle un espèce de modèle qu'une qui est pas exceptionnel mais qui va pouvoir te permettre d'être souverain à 100% bref je parle
+Chapitre 9 : Le résultat brut en direct
+19:0319 minutes et 3 secondesbeaucoup mais au moins ça vous donne un peu des idées de cette puissance de DeepSeek harness là qui nous permet de construire des planètes quoi alors fichier créé c'est marrant parce que le jeu
+19:1219 minutes et 12 secondesde Rubik's Cube il a été plus long que que le sas alors attendez là il me dit que du coup on peut l'ouvrir en localhost allons-y comme moi je suis flemmard je vais lui dire ouvre le dans mon
+19:2019 minutes et 20 secondesnavigateur bon je lui préciser arc on va voir s'il va réussir donc là vous avez vu il lance une commande bâche c'est tout le principe du harness il fait un tool call donc un appel d'outils et
+19:2919 minutes et 29 secondespuis me l'a ouvert en direct ok donc là c'est ce qui nous a développé alors bien sûr on retrouve les patterns de design de DeepSeek des années des années 30 ce vieux dégradé bon analyser la
+19:3919 minutes et 39 secondesperformance je n'ai aucune idée de ce qu'il a connecté de ce qu'il a fait ça va peut-être pas marcher mais allons-y on va mettre mon site là voilà analyser d'accord alors là il est en train
+19:4819 minutes et 48 secondesde sortir les scores directement temps de réponse 818 analyse en cours récupération et analyse de
+19:5419 minutes et 54 secondesla page bon laissons le faire on va voir ce qui se passe donc voyez là en fait ce genre d'outils qui est super simple peut-être Peut-être que c'est un outil qui est révolutionnaire, qui n'existe pas sur le marché, mais il y en a beaucoup qui ne veulent pas donner ces informations aux Américains par le cloud.
+20:0620 minutes et 6 secondesDonc si vous avez vos idées, ou vous avez, moi j'en ai certains qui sont consultants, je ne mentionne pas les noms, mais même j'en ai certains qui ont de l'expérience, plus de 30 ans d'expérience dans des secteurs,
+20:1320 minutes et 13 secondesils ont une connaissance peut-être unique que personne d'autre n'a, et ils n'ont pas envie de donner ça directement aux Américains ou aux Chinois, ils veulent constituer cette connaissance, et du coup l'interfaciser, créer une base mémorielle en local.
+20:2420 minutes et 24 secondesDonc ça c'est super puissant pour eux, ils vont vraiment se régaler.
+20:2720 minutes et 27 secondesBon là il est vraiment long, je ne sais pas ce qu'il fait, alors attendez, ah oui d'accord il y a des flèches, bon.
+20:3120 minutes et 31 secondesPour l'agencement, je ne sais pas ce qu'il est en train de faire, on va venir déployer, accessibilité, bon laissons le tourner, en attendant, ah le Rubik's Cube est prêt.
+20:3920 minutes et 39 secondesBon c'était peut-être pas la meilleure idée, mais longueur de caractère, bon déjà est-ce qu'il a récupéré, ouais il a récupéré les bonnes balises, la métadescription, ok, nosnif,
+20:4820 minutes et 48 secondesbon à mon avis c'est un bug, il a déjà terminé, si c'est ça c'est très léger, c'était un prompt qui était très bateau.
+20:5320 minutes et 53 secondesAllez on passe au Rubik's Cube, ok c'est fait, allez localhost port 8080, un jeu de Rubik's Cube, ok donc là on a carrément un jeu, comment on tourne,
+21:0221 minutes et 2 secondesok comme ça, ouais, bon c'est pas l'idée de ce qu'on peut mélanger, donc là vous voyez, pas de cloud code, pas de codex, du DeepSeek pur et dur.
+21:1021 minutes et 10 secondesAlors là c'est des petits trucs à la con, c'est le cas de le dire, par contre, utiliser DeepSeek ou utiliser d'autres modèles, parce que je le répète, on peut venir connecter n'importe quel modèle,
+21:1821 minutes et 18 secondeslà on n'a que du DeepSeek, mais connecter ici un Opus 5 ou un GPT 5.6 ou un GPT 6 Astra, ça peut être délirant.
+21:2721 minutes et 27 secondesAllez on va se faire un dernier projet pour le kiff, c'est juste pour vous montrer comment ça fonctionne, parce que là, c'est pas sorcier, mais c'est vrai qu'il y en a beaucoup qui font la théorie de comment ça fonctionne l'architecture,
+21:3621 minutes et 36 secondesmais par contre en pratique, pour montrer concrètement comment ça fonctionne, c'est pas vraiment sorcier.
+21:4021 minutes et 40 secondesDonc là vous voyez, je fais juste un petit tour avant qu'on vienne, à quoi ça ressemble une fois que c'est terminé, donc la trajectorie.
+21:4521 minutes et 45 secondesImaginons qu'on recherche une information, alors attendez on va sniper un truc, voilà, Enforced, on va venir taper là, est-ce qu'il va marcher ?
+21:5321 minutes et 53 secondesEh bien là c'est cool, ça nous permet de retrouver des informations. Imagine que dans ton prompt tu avais écrit un truc, voilà, ça c'est notre prompt user.
+21:5921 minutes et 59 secondesOn avait par exemple tapé Paste, et bien on va taper Paste et on retrouve l'information. Ça par contre c'est vraiment pas mal.
+22:0722 minutes et 7 secondesDonc là le One Background Job Running, c'est le serveur de développement, en Node 1.
+Chapitre 10 : Landing page en mode minimal
+22:1122 minutes et 11 secondesAttention parce que si vous faites 10 000 projets, vous en aurez à en avoir plein, là il y en a déjà 2, et si votre machine est faible, elle va finir par exploser.
+22:1822 minutes et 18 secondesAllez, un dernier test, on va venir du coup en Effort Max, on va se mettre en DeepSeek V4 Flash, et on va passer en mode minimal.
+22:2822 minutes et 28 secondesPour se faire un petit plaisir, on va tout simplement lui dire « Crée une landing page monoproduit e-commerce pour la vente d'un rouge à lèvres de très haute qualité, bio, tout ce que tu veux. » Alors je ne sais pas pourquoi, je ne sais même pas si ça existe bio, mais on va dire ça.
+22:4222 minutes et 42 secondesOn va enlever le « tout ce que tu veux », ça ne sert à rien. Voilà, on va juste faire ça. Donc ne critiquez pas les projets qui ont été développés, parce que ça c'est juste le modèle qui devrait être changé.
+22:5222 minutes et 52 secondesAlors c'est vrai que je ne vous ai pas montré, mais on peut cliquer aussi là, regardez, hop, on peut voir le contexte qui est utilisé, qui a utilisé quoi, c'est très léger, très facile.
+23:0023 minutesEn haut à droite, je ne sais pas si vous le voyez, mais normalement vous avez les sessions logs, donc vous allez cliquer dessus et ça télécharge les JSON-L complets des logs de session.
+23:0723 minutes et 7 secondesEt le minimal mode fait voir un petit peu le trajectory, il est bien présent. En bas on voit aussi, alors c'est vrai que ça c'est des...
+23:1323 minutes et 13 secondesJe ne vous l'ai pas trop expliqué, mais vous le voyez en fait, c'est logique, c'est la vitesse aussi des modèles qui tournent, pourcentage de cash, en input combien de tokens on a donné, etc.
+23:2323 minutes et 23 secondesqui en général sont utiles quand on est plus technique.
+23:2623 minutes et 26 secondesOn arrive peut-être à une ère où à la place, imaginons tu as 10 kills, 10 kills vraiment solides, à la place de faire 10 kills, eh bien tu vas créer 10 environnements différents,
+23:3623 minutes et 36 secondesavec des outils spécifiques, ultra spécialisés, et là en fait, faire tourner un environnement personnalisé pour un cas très spécifique, ça a une valeur énorme.
+23:4423 minutes et 44 secondesTu vois un gars qui a 30 ans d'expérience, par exemple j'en prends un aléatoirement, en finance, 30 ans d'expérience en finance, il vient empaqueter toute sa mémoire, il vient empaqueter tous ses tests,
+23:5323 minutes et 53 secondesdans un agent, enfin du moins pas dans un agent, attention, dans un environnement global comme celui-ci, 100% local, fait tourner sa boîte tranquillement, en autonomie.
+24:0224 minutes et 2 secondesBon allez, on va faire le café parce que là, on a un petit peu de temps, je l'ai mis en max, et ça fait plaisir de voir un peu de bleu DeepSeek là, de chargement, ça faisait longtemps.
+24:0924 minutes et 9 secondesDonc là, je pense que vous vous en rappelez, tout à l'heure, le projet qu'on a fait où on mettait une URL et ça affichait directement les métriques, ça c'est le dossier du coup de code en local,
+24:1724 minutes et 17 secondesoù le code a été rédigé, donc on a le dossier public, on a tout le readme, donc tout est documenté, mais l'idée qui est vraiment géniale derrière cette, on va dire, cette hyper modularité,
+Chapitre 11 : Un modèle par spécialité
+24:2624 minutes et 26 secondescette possibilité de tout personnaliser à toutes les couches, c'est que qu'est-ce qui nous empêche de venir, alors si on s'en fout un petit peu d'envoyer nos données aux Etats-Unis,
+24:3524 minutes et 35 secondesd'utiliser un modèle, par exemple actuellement, un Opus 5 pour l'architecture, un GPT 5.6 pour du coup la construction,
+24:4224 minutes et 42 secondesun modèle DeepSeek V4 Flash en low pour la documentation, comme ça, ça documente vite, rapidement, ça ne bouffe pas trop de tokens, c'est-à-dire que là, on a vraiment notre solution,
+24:5024 minutes et 50 secondesc'est ce que je disais en fait, c'est qu'on a créé notre propre univers en fait, on a un univers qui permet de créer des univers, et chacun crée son univers, et tout est 100% open source, gratuit,
+24:5924 minutes et 59 secondesalors je vous laisserai commenter la qualité du prompt que j'ai envoyé, qui est un prompt, on va dire c'est un prompt bio, ok, il a terminé,
+25:0625 minutes et 6 secondesdonc pareil, venir connecter un modèle spécialement pour le back-end, parce que vous savez, il y en a qui disent, ouais mais Claude, il est meilleur en front-end design,
+25:1425 minutes et 14 secondesouais, lui, il est meilleur pour ça, et bien vous mettez une spécialité, enfin un modèle par spécialité, vous pouvez faire ça, bon allez, il a terminé, on va ouvrir,
+25:2225 minutes et 22 secondesbon allez, comme on est vraiment débutant, et que, imaginons, on n'a pas vu qu'il y a un URL ici, on va lui dire, ouvre le projet dans mon navigateur,
+25:3025 minutes et 30 secondeset puis en plus de ça, comme on est des fous, on le laisse en high pour faire ça, et voilà, il nous a créé, alors on va le mettre en full screen, on a le projet, oh, il est quand même pas dégueulasse,
+25:3825 minutes et 38 secondesrouge à lèvres bio, alors si le rouge à lèvres a le design, il faudra mettre une image ici, la couleur, bon, on s'en fout, je commande 24€,
+25:4625 minutes et 46 secondesvous voyez en fait, ce genre de résultat, je n'ai rien modifié, c'est neuf, j'ai utilisé un flash en plus, un modèle flash, et non pas un pro,
+25:5325 minutes et 53 secondesdonc ça fait super plaisir de pouvoir générer ça, mais le flash, il n'est pas dans le design, DeepSea qui est trop sous-estimé.
+25:5925 minutes et 59 secondesau back-end, au niveau du back-end. Donc voilà un petit kiff de trajectories pour finaliser. En tout cas moi je vous assure que là
+Chapitre 12 : Mon verdict sur ce séisme
+26:0526 minutes et 5 secondeseh bien je vais continuer à le tester, à l'utiliser, à réfléchir, à continuer à tester, à améliorer ma solution pour tester les modèles, pour pouvoir
+26:1126 minutes et 11 secondesdéfinir quel modèle je vais utiliser pour le front-end, quel modèle je vais utiliser pour le back-end, quel modèle je vais utiliser de manière plus spécifique pour la documentation etc.
+26:1926 minutes et 19 secondesMais là c'est un retournement de marché, rendez-vous compte que là ils viennent tout simplement d'open-sourcer, de vous donner les clés en main pour recréer
+26:2626 minutes et 26 secondesOpenCode, pour recréer CloudCode, pour recréer Codex, pour recréer tout ce que vous voulez avec vos propres règles, donc ce qui veut dire que là dans les prochains jours, prochaines semaines, eh bien il y en a qui vont créer des
+26:3626 minutes et 36 secondesenvironnements, donc des Harness, e-commerce Harness par exemple, il y en a qui vont créer des Harness
+26:4126 minutes et 41 secondesspécialisés et on va pouvoir tout simplement aller sur GitHub. GitHub ça va être une pépite d'or pour retrouver des Harness spécialisés et les utiliser
+26:4826 minutes et 48 secondesen fait. Un Harness spécialisé en analyse de données, en data-analyse, qu'on va même télécharger ou même utiliser, enfin je vous laisse imaginer et puis vous connecter derrière les meilleurs modèles si vous voulez, vous connectez du Opus 5, vous connectez du Fable 5, vous connectez du GPT 5.6, du 6 Astra, tout ce que vous voulez, c'est délirant.
+27:0227 minutes et 2 secondesBon en tout cas n'hésitez pas à liker, partager et vous abonner, puis commenter si vous l'avez testé, en tout cas j'ai pas tout testé parce qu'on va pas tout tester non plus, mais le 80-20 c'est vraiment ça, et puis s'il y a une chose à retenir c'est qu'on peut créer des univers et on gagne encore plus en souveraineté. En tout cas c'était Mayday, à très vite, ciao !
+
+Tout
+
+Source : Meydeey | Automatisation IA
+
+Programme informatique
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+32:41
+AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8
+Matt Wolfe
+41 k
+il y a 1 j
+Nouveau
+
+
+24:58
+Je teste les restaurants de LUXE du quartier FRANÇAIS 🇫🇷 à Tokyo #2 (j'aurais du mieux m'habiller)
+Louis
+44 k
+il y a 6 h
+Nouveau
+
+
+9:38
+Débrief achat ES 19/08/26
+KarmaFlow
+4
+il y a 21 min
+Nouveau
+
+
+21:59
+Énorme séance biceps / triceps 
+Stephane Matala
+62 k
+il y a 12 j
+
+
+16:30
+DeepSeek Harness : Claude Code ne sait pas faire ÇA
+Pentiminax
+8,8 k
+il y a 3 j
+Nouveau
+
+
+22:52
+J'ai enquêté sur les propfirms de trading... (vous êtes foutus)
+Kasper
+33 k
+il y a 1 m.
+
+
+21:13
+Hussein Farhat : le plus gros mensonge du fitness
+Naj B Fit
+743 k
+il y a 11 m.
+
+
+39:46
+Chine : Le nouveau patron du monde ? – Alex Wang – OPEN BOX TV
+Chaîne officielle TVL
+10 k
+il y a 9 h
+Nouveau
+
+
+44:09
+Curl à 40kg avec un ancien force spéciale
+Stephane Matala
+55 k
+il y a 1 m.
+
+
+14:54
+Bodybuildeuses VS Hommes Ordinaires : Qui Gagne ?
+Tibo InShape
+608 k
+il y a 8 m.
+
+
+33:32
+J'ai laissé 3 IA recréer Genshin Impact de zéro (hallucinant)
+Aywen
+151 k
+il y a 7 j
+
+
+4:16:30
+Comment Commencer le Trading en Étant Débutant en 2026 (4 heures)
+Kasper
+367 k
+il y a 9 m.
+
+
+33:23
+Vercel : tout comprendre en une vidéo (démo incluse)
+Meydeey | Automatisation IA
+1,2 k
+il y a 4 j
+Nouveau
+
+
+24:17
+Je teste les produits zéro calorie
+Gurky Le Murky
+138 k
+il y a 1 j
+Nouveau
+
+
+28:43
+Comment Identifier les Meilleurs OrderBlocks en Trading ?
+Kasper
+24 k
+il y a 13 j
+
+
+31:48
+DeepSeek vient de bouleverser le monde de l'IA ! Ils ont lancé leur framework gratuitement
+Alejavi Rivera
+74 k
+il y a 1 j
+Nouveau
+
+
+11:23
+DeepSeek l’a encore fait : sa nouvelle IA visuelle défie Claude Opus
+Parlons IA & Tech
+118
+il y a 1 h
+Nouveau
+
+
+19:33
+Quelle IA choisir pour coder selon votre budget ?
+DevArt
+252
+il y a 1 h
+Nouveau
+
+33:36
+You need to switch to Linux RIGHT NOW!!
+NetworkChuck
+406 k
+il y a 1 j
+Nouveau
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+417 k
+il y a 1 m.
+
+    
