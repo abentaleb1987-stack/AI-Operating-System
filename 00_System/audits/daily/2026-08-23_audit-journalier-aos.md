@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : dc13e77
+- Commit audite : 7bddab5
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-23 02:01:30
+- Rapport genere le : 2026-08-23 08:02:56
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,8 +25,8 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `7bddab5` - 2026-08-23 02:01:31 +0000 - Audit - docs(aos): add daily audit report
 - `dc13e77` - 2026-08-22 19:16:27 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `f9ce0f0` - 2026-08-22 08:02:13 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -44,11 +44,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `f9ce0f0` - 2026-08-22 08:02:13 +0000 - docs(aos): add daily audit report
+- `7bddab5` - 2026-08-23 02:01:31 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `f9ce0f0` - 2026-08-22 08:02:13 +0000 - Audit - docs(aos): add daily audit report
+- `7bddab5` - 2026-08-23 02:01:31 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -63,6 +63,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-08-23_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-20_youtube_meydeey_warp-multi-cli-projets-agentiques_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-22_youtube_meydeey_deepseek-harness-modes-permissions-trajectoires_transcript.txt
 - A 02_IA/DeepSeek/veille/2026-08-22_youtube_meydeey_deepseek-harness-modes-trajectoires.md
@@ -70,7 +71,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-08-22_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
