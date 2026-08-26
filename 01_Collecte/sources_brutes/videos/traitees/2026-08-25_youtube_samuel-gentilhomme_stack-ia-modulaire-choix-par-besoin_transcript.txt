@@ -1,0 +1,465 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J'ai viré ChatGPT. Voilà ce qui tourne chez moi
+Samuel Gentilhomme
+Samuel Gentilhomme
+5,22 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+25 août 2026
+⚡Le plan de Mon Studio IA (gratuit) : https://www.monstudioia.fr/plan 
+Il y a huit mois, je disais que Claude c'était fini pour moi.
+Aujourd'hui je n'ai plus d'abonnement ChatGPT.
+Mais ce n'est pas l'histoire d'un changement d'outil.
+Tu repars avec la règle qui explique pourquoi une stack qui tient bouge très peu, et pourquoi une stack qui ne tient pas bouge tout le temps.
+
+▬▬▬▬▬▬▬▬▬ CHAPITRES ▬▬▬▬▬▬▬▬▬▬
+00:00 Il y a huit mois, je disais l'inverse
+01:30 Le décompte : décembre contre aujourd'hui
+02:20 Pourquoi je n'ai même pas testé GPT-5.6
+03:10 Sortir du cloud : VPS, Docker, n8n
+03:50 Dicter en marchant : Telegram et le Dictaphone
+04:20 Postgres, la newsletter et la prospection
+04:55 Répondre sur mes propres documents : le RAG
+05:25 Piloter n8n depuis Claude : le serveur MCP
+05:55 Fabriquer des produits : Lovable, Claude Code, Supabase
+06:45 Le workflow que je n'exécuterai qu'une fois
+07:20 La brique que je n'aime pas et que je garde
+07:50 Pourquoi les outils bougent si peu
+
+▬▬▬▬▬▬▬▬▬▬▬ VIDÉOS ASSOCIÉES ▬▬▬▬▬▬▬▬▬▬▬
+Claude vs ChatGPT, le choix d'un architecte de solutions IA :    • Claude vs ChatGPT ? Le choix d'un architec...  
+J'ai testé 50 outils IA, voici les 3 qui restent :    • J'ai testé 50 outils IA, voici les 3 qui r...  
+L'IA a codé mon appli de tréso, je l'héberge chez moi :    • L'IA a codé mon appli de tréso, elle tourn...  
+Construire ton Infrastructure IA :
+↪    • ⚙️ Construire ton Infrastructure IA  
+
+Moi c'est Sam, 25 ans d'IT, et je construis mon studio IA en public.
+Nouvelle vidéo tous les mardis à 19h.
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Samuel Gentilhomme
+5,22 k abonnés
+Vidéos
+À propos
+
+Abonne toi
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @monstudioIA
+@monstudioIA
+il y a 6 jours (modifié)
+Tout ce que je déroule dans cette vidéo est sur un plan, 4 pages, imprimable, avec les vraies briques et le vrai coût annuel. C'est gratuit : monstudioia.fr/plan
+Et vous, quelle est la brique que vous gardez alors que vous ne l'aimez pas ?
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Il y a huit mois, je disais l'inverse
+0:000 secondeMais Claude, par contre, c'est fini. Ça c'est moi il y a 8 mois. Aujourd'hui, j'ai plus d'abonnements à chaque GPT et je bosse sur Claude toute la journée.
+0:088 secondesAlors on pourrait s'arrêter là et faire une vidéo sur « j'ai changé d'outil ». Sauf que c'est pas ça le sujet.
+0:1414 secondesEn décembre, je te donnais 3 outils en te disant que c'était les fondations d'une infrastructure que j'étais en train de construire.
+0:2121 secondes8 mois plus tard, l'infrastructure existe. Et quand je rouvrais la liste, il n'y a eu qu'un seul changement. Un seul, en 8 mois de travail quotidien.
+0:2828 secondesEt pourtant, entre ma stack de décembre et celle d'aujourd'hui, il n'y a plus rien qui se ressemble. Tout ce que je vais te montrer, je l'ai mis sur un plan. 4 pages imprimables.
+0:3636 secondesLes vrais briques, les vrais chiffres, le vrai coût annuel. C'est gratuit, c'est sur monstudioia.fr/plan et je te mets le lien en description.
+0:4444 secondesMoi c'est Sam, ça fait 25 ans que je bosse dans l'IT et aujourd'hui je monte mon studio ia en public. Ce que tu vas voir, c'est pas une stack recommandée, c'est ce qui tourne chez moi en ce moment.
+0:5353 secondesAvec mes erreurs, les briques que j'aime pas et celles que j'ai gardées sans les payer.
+0:5757 secondesOn commence par Le décompte. En décembre dernier, je te donnais 3 outils. Le cerveau, le bureau, les mains.
+1:041 minute et 4 secondesChat GPT, Gemini via Google Workspace et N8N. Et un quatrième que j'avais caché jusque là, HeyGen, parce que sans lui, René n'existe pas.
+1:131 minute et 13 secondes8 mois plus tard, on rouvre la liste. Gemini via Google Workspace, toujours là. N8N, toujours là. HeyGen, toujours là.
+1:201 minute et 20 secondesEt oui, René coûte toujours aussi cher. Chat GPT, abonnement supprimé. Effectivement, il y a eu un changement et si tu suis la chaîne, tu sais lequel. Je suis passé chez Claude.
+1:281 minute et 28 secondesen février dernier. Parce que GPT 5.2 qui régresse, des prompts qui ne rendent plus la même chose d'une semaine sur l'autre et moi qui perd du temps à réadapter le workflow qui marchait, j'en ai eu ma claque.
+Chapitre 2 : Le décompte : décembre contre aujourd'hui
+1:391 minute et 39 secondesJ'ai fait une vidéo entière là-dessus. Elle est juste en dessous. Je te la mets en description. Je ne vais pas te la refaire. Ce que je ne t'ai jamais dit, c'est ce qui s'est passé après.
+1:481 minute et 48 secondesDans la vidéo de février, je terminais par une phrase précise. Je disais que je n'avais pas viré ChatGPT définitivement. Que j'avais juste fermé la porte en attendant que GPT 6 sorte.
+1:571 minute et 57 secondesEt que si OpenAI stabilisait, je reviendrais. On est en août, GPT 6, ça n'existe pas. Rien d'annoncé, pas de date, pas de fiche technique.
+2:052 minutes et 5 secondesPar contre, effectivement, GPT 5.6 est sorti en juillet dernier. Et je ne l'ai pas testé, même pas ouvert. De toute façon, j'ai supprimé mon abonnement depuis belle lurette.
+2:142 minutes et 14 secondesLe seul truc pour lequel j'ouvre encore Chat GPT aujourd'hui, c'est la génération d'images pour mes miniatures depuis qu'ils ont sorti leur nouveau modèle.
+Chapitre 3 : Pourquoi je n'ai même pas testé GPT-5.6
+2:222 minutes et 22 secondesEt je l'utilise en gratuit, zéro euro. Attends, tu passais ton temps à dire qu'il faut tester. Il me dit que tu n'as même pas regardé la dernière version.
+2:292 minutes et 29 secondesC'est de la mauvaise foi ou de la fainéantise ? Ni l'un ni l'autre, René. C'est du calcul. Changer de cerveau, passer de Chat GPT à Claude, ça m'a coûté des semaines.
+2:372 minutes et 37 secondesRéécrire mes instructions, refaire mes projets, réapprendre ce qui passe et de ce qui ne se passe pas. Ce n'est pas juste un clic, c'est un chantier à part entière.
+2:442 minutes et 44 secondesEt si je refais ce chantier à chaque modèle qui sort, je ne fais plus que ça. Je teste, je mixe, je reteste, je construis, plus rien. Donc non, je ne change pas ce qui marche pour le dernier modèle à la mode.
+2:542 minutes et 54 secondesJe change quand ce que j'ai me coûte plus cher que la migration en elle même. C'est arrivé une fois en 8 mois. Et c'est là le truc qui devient intéressant.
+3:013 minutes et 1 secondeUn seul abonnement a bougé depuis décembre. Un seul. Et pourtant, plus rien ne se ressemble aujourd'hui. Parce qu'une liste d'outils, ça n'a jamais été une stack.
+Chapitre 4 : Sortir du cloud : VPS, Docker, n8n
+3:103 minutes et 10 secondesAlors, qu'est-ce qui a changé si ce n'est pas les outils ? Ben, tout le reste. Et à chaque fois, c'est un besoin qui a fait entrer une nouvelle brique dans mon studio IA. Jamais l'inverse.
+3:183 minutes et 18 secondesEn décembre, ma période d'essai à N8N Cloud s'achève. Je te l'avais dit. Tu apprends à N8N sur leur cloud et quand tes systèmes tournent, tu rapatries ça chez toi.
+3:263 minutes et 26 secondesSinon, plus tu automatises. Plus ta facture monte. C'est ce qu'on appelle la taxe au succès. Alors, je l'ai fait. J'ai commandé un VPS chez OVH. J'ai installé Docker Compose.
+3:343 minutes et 34 secondesNginx en reverse proxy. Généré des certificats avec Let's Encrypt. Et N8N qui tourne chez moi. C'est toujours le même outil qu'en décembre. Mais c'est plus du tout le même objet.
+3:433 minutes et 43 secondesEn cloud, N8N, c'est un service auquel tu dois t'abonner. En auto-hébergement, c'est un composant de mon infrastructure. Je peux lancer 10 000 tâches par jour. Ça ne change rien à ce que je paie.
+Chapitre 5 : Dicter en marchant : Telegram et le Dictaphone
+3:523 minutes et 52 secondesEnsuite, je me dis que je veux pouvoir dicter n'importe où, n'importe quand.
+3:553 minutes et 55 secondesLe dictaphone magique, je t'en parlais en décembre comme un truc que j'étais en train de construire. Aujourd'hui, il tourne et je l'ai vendu à des clients. Pour l'entrée, j'ai pris le chemin le plus simple.
+4:044 minutes et 4 secondesTelegram. C'est gratuit. Tu peux l'installer sur n'importe quel téléphone. Et ça me donne une porte d'entrée vocale ou texte vers N8N. Et comme c'est bidirectionnel, ça me sert aussi de sortie.
+4:134 minutes et 13 secondesPour les notifications. C'est la première brique que je n'ai pas choisie pour ses qualités techniques. Mais parce qu'elle enlevait un problème sans en créer un autre.
+Chapitre 6 : Postgres, la newsletter et la prospection
+4:214 minutes et 21 secondesUn peu plus tard, je me suis dit que ce serait bien si les brouillons de ma newsletter s'écrivent repartent de zéro chaque lundi.
+4:274 minutes et 27 secondesAlors pour ça, il me fallait un endroit où stocker ce que je t'avais déjà conseillé dans les newsletters passées. Donc Postgres, sur le même serveur que N8N.
+4:344 minutes et 34 secondesEt une fois que la base est là, elle sert à autre chose.
+4:374 minutes et 37 secondesDonc par exemple, elle a pu servir à Leadflow pour ma prospection commerciale. C'est branché dessus. Un besoin a fait entrer la brique. Un deuxième l'a rentabilisé.
+4:454 minutes et 45 secondesEnsuite, je veux qu'il y ait à répondre sur mes propres documents. Pas des réponses généralistes.
+4:484 minutes et 48 secondesDes réponses qui s'appuient sur mes scripts, mes newsletters, ma doctrine éditoriale. En gros, sur ce que j'ai déjà écrit. Pas sur ce qu'un... Un modèle sait déjà du sujet.
+Chapitre 7 : Répondre sur mes propres documents : le RAG
+4:574 minutes et 57 secondesÇa, c'est ce qu'on appelle le RAG. Et techniquement, ça ne demande pas une nouvelle base de données. Ça demande une extension de celle que j'ai déjà. PG Vector.
+5:045 minutes et 4 secondesEt c'est là que ma station locale, que j'avais un peu délaissée, est revenue dans le game.
+5:085 minutes et 8 secondesParce que faire tourner de l'embedding et un modèle sur ma propre machine, ça se teste avant de payer des API.
+5:145 minutes et 14 secondesUne brique qui en réactive une autre, c'est ça, une architecture. Je crée des workflows. Et là, je me dis que j'aimerais bien piloter N8N depuis Claude.
+5:225 minutes et 22 secondesEn gros, je décris un workflow en langage naturel. Et Claude le crée. directement dans mon instance. Pour ça, j'ai écrit un serveur MCP.
+Chapitre 8 : Piloter n8n depuis Claude : le serveur MCP
+5:295 minutes et 29 secondesÇa, c'est une brique qui ne remplace rien. Elle ne fait pas mieux qu'une brique existante. Elle enlève une friction.
+5:345 minutes et 34 secondesLe temps entre le moment où je sais ce que je veux et le moment où le workflow existe. Et pendant ce temps, je fabrique des produits.
+5:435 minutes et 43 secondesMarnage, Apogée, Arpento, Loveable pour l'interface, Cloud Code dans Visual Studio Code pour la logique,
+5:505 minutes et 50 secondeset les intégrations GitHub qui synchronisent les deux dans les deux sens.
+5:545 minutes et 54 secondesEt pour les données de ces produits, je ne prends pas mon Postgres. Je prends Supabase.
+Chapitre 9 : Fabriquer des produits : Lovable, Claude Code, Supabase
+5:595 minutes et 59 secondesAttends, tu passes trois minutes à expliquer que tu rapatries tout chez toi et là tu pars sur du manager dans le Cloud ? Oui, Colette, parce que ce n'est pas le même besoin.
+6:086 minutes et 8 secondesMon Postgres, il sert à mon studio IA et je suis le seul utilisateur.
+6:126 minutes et 12 secondesUne app publique avec de l'authentification, du temps réel et des utilisateurs qui arrivent, ce n'est pas la même charge ni le même risque.
+6:206 minutes et 20 secondesEt pour une de mes applications, Marnage, je suis allé plus loin.
+6:226 minutes et 22 secondesJ'ai sorti la base de Loveable pour la mettre sur mon propre projet Supabase. Délibérément.
+6:276 minutes et 27 secondesParce que j'ai dans l'idée d'en faire une vraie application mobile en plus de la version web et que les deux doivent taper sur la même base.
+6:336 minutes et 33 secondesChoisir par usage, ça veut dire accepter de ne pas appliquer la même règle partout.
+6:376 minutes et 37 secondesEt pour savoir si mes applis sont utilisées, j'ai installé Plausible, une alternative open source à Google Analytics et auto-hébergée sur le même serveur.
+Chapitre 10 : Le workflow que je n'exécuterai qu'une fois
+6:466 minutes et 46 secondesDeux briques métiers pour finir. Tali pour les formulaires. Et là, le choix est venu par une contrainte précise. J'avais un formulaire à créer avec beaucoup de questions.
+6:546 minutes et 54 secondesMais genre, beaucoup.
+6:566 minutes et 56 secondesDonc le genre que tu ne veux pas saisir à la main dans une interface champ par champ, tu vas y passer des plombes. Alors j'ai pris Tally.
+7:027 minutes et 2 secondesPourquoi ? Parce qu'avec Tally, tu peux créer un formulaire via API. Donc automatiquement. Donc j'ai expliqué à Claude ce que je voulais.
+7:097 minutes et 9 secondesIl m'a sorti un Workflow N8n, 3 nœuds, basique. Il appelle l'API Tali pour créer le formulaire. Alors oui, sur le papier, c'est un peu overkill.
+7:167 minutes et 16 secondesUn Workflow N8n, tu es censé en créer un quand tu vas l'exécuter 10 fois, 100 fois, 1000 fois. Là, en fait, c'est un usage unique. Je l'ai lancé une fois. Et je ne le relancerai jamais.
+Chapitre 11 : La brique que je n'aime pas et que je garde
+7:247 minutes et 24 secondesSauf que j'ai gagné 2 heures.
+7:267 minutes et 26 secondesEt ça remet en cause la règle que tout le monde répète, moi le premier. Automatise ce que tu répètes. Finalement, le vrai critère, ce n'est pas la répétition. C'est le temps que tu récupères.
+7:347 minutes et 34 secondesSi construire coûte moins cher que faire, alors construis, même pour une seule fois. L'autre brique métier, c'est System.io, mon CRM.
+7:417 minutes et 41 secondesCelle-là, je vais être franc, elle est un peu sur la sellette parce que ça fait tout à peu près bien.
+7:467 minutes et 46 secondesMais surtout, leur éditeur de pages web, il n'y a rien d'automatisable. Ça ne me plaît pas du tout. Bon, je garde quand même. Parce que ça marche.
+Chapitre 12 : Pourquoi les outils bougent si peu
+7:547 minutes et 54 secondesEt surtout, parce que ça ne me bloque sur rien.
+7:567 minutes et 56 secondesC'est le seul critère qui compte pour décider où tu mets ton énergie. Pas ce qui t'agace, ce qui te ralentit.
+8:018 minutes et 1 secondeUne brique qui t'énerve mais qui fait le boulot, tu la laisses tranquille.
+8:048 minutes et 4 secondesUne brique que tu adores mais qui te bloque, tu la changes.
+8:078 minutes et 7 secondesLe jour où System.io me coûte plus cher en contournement que ce que la migration me coûterait, je bouge. Pas avant.
+8:158 minutes et 15 secondesSi cette façon de raisonner te parle, un petit pouce en l'air, ça aide vraiment la chaîne. Et je te donne la règle qui explique tout ce que tu viens de voir. Parce qu'il reste une question.
+8:228 minutes et 22 secondesComment on peut avoir autant construit en 8 mois en n'ayant changé qu'un seul abonnement ?
+8:278 minutes et 27 secondesLa réponse, je l'avais déjà donnée en février, mais je ne l'avais pas encore prouvée.
+8:318 minutes et 31 secondesJe disais, si demain un nouvel outil sort, tu remplaces un module, pas tout ton système. 8 mois plus tard, j'ai la démonstration.
+8:388 minutes et 38 secondesQuand ton architecture tient, remplacer une brique coûte peu.
+8:418 minutes et 41 secondesTu débranches, tu rebranches, le reste continue de tourner. Donc, tu n'as pas besoin de changer souvent. Et quand tu changes, ça ne fait pas mal.
+8:498 minutes et 49 secondesQuand tu n'as pas d'architecture, c'est l'inverse exact.
+8:528 minutes et 52 secondesChaque nouveau outil est un chantier complet parce que tout est branché sur tout.
+8:568 minutes et 56 secondesAlors, tu passes ton temps à migrer, à réadapter, à recommencer, et tu n'avances jamais.
+9:009 minutesLe syndrome de l'objet brillant, la course au dernier truc en vogue, ce n'est pas un problème de discipline, c'est un problème de structure. Tu regardes le débat du moment.
+9:079 minutes et 7 secondesEst-ce que Codex est meilleur que Claude Code ? Tout le monde en parle, tout le monde a un avis.
+9:129 minutes et 12 secondesSi ton architecture est modulaire, la question n'a presque aucune importance. Tu testes, tu remplaces un module. Ton système continue de tourner.
+9:209 minutes et 20 secondesSi tu n'as pas d'architecture, la question devient énorme. Parce que changer, c'est tout refaire. C'est exactement pour ça que je te parle d'infrastructure et pas d'outils.
+9:289 minutes et 28 secondesLes outils, t'en changeras. L'assemblage, c'est ce qui reste.
+9:319 minutes et 31 secondesLa vraie question, ce n'est pas combien d'outils tu utilises, c'est combien t'en as changé cette année et combien de choses t'as construites avec.
+9:389 minutes et 38 secondesSi tu veux faire l'exercice tout de suite, tu prends ta liste d'outils et à côté de chacun, tu écris le besoin qui l'a fait rentrer dans cette liste.
+9:459 minutes et 45 secondesCeux où tu n'as pas de réponse, ça ne doit pas faire partie de ta stack. C'est juste du bruit.
+9:489 minutes et 48 secondesEt si tu veux voir à quoi ressemble une brique posée sur mon infrastructure, tu peux regarder la vidéo qui est juste là, où je te montre l'application que j'ai construite pour suivre ma trésorerie et que j'héberge chez moi. Merci, salut !
+
+Tout
+
+Source : Samuel Gentilhomme
+
+Informatique
+
+Regardées
+
+
+Seedance 2.0 Fast 25% Off
+Save up to 60% on Seedance 2.0 family, limited offer on all models, hurry
+Sponsorisé
+BytePlus
+
+S’abonner
+
+39:38
+On a filmé la vie des milliardaires et c'est délirant !
+Marqué ▸ Documentaire Société
+232 k
+il y a 7 j
+
+
+13:48
+Ton IA écrit comme une IA (Skill Claude Code gratuit)
+Meydeey | Automatisation IA
+325
+il y a 4 h
+Nouveau
+
+
+9:44
+IA Miniature : La Fin Des Marges Logiciels ? Investissez Mieux.
+Liberté Financière
+6
+il y a 1 h
+Nouveau
+
+
+1:28:59
+Expert testosterone : la vérité sur le Dad Bod et l'attirance des femmes !
+The Diary Of A CEO
+ et Darby Saxbe
+295 k
+il y a 1 j
+Nouveau
+Doublée
+
+
+25:32
+SA SALLE DE SPORT A BRÛLÉ !!
+Tibo InShape Entrainement
+ et 2 autre(s)
+13 k
+il y a 2 h
+Nouveau
+
+
+23:32
+Ces FÉCULENTS "Sains" te Font Grossir (la Vérité)
+Charles.co
+124 k
+il y a 2 sem.
+
+
+21:22
+L'histoire inquiétante du créateur de Claude
+Sébastien Koubar
+32 k
+il y a 1 m.
+
+
+11:19
+Ton Programme PPL est FAUX ! 💩😱
+JamCore
+97 k
+il y a 3 a
+
+
+9:22
+La whey ne sert pas qu’à prendre du muscle: quand la prendre
+Leonardo Mourglia
+97 k
+il y a 1 m.
+Doublée
+
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+424 k
+il y a 1 m.
+
+
+24:25
+Tuto facile : ajouter de la RAM à sa carte graphique
+Le BENGE et Kang et ses PC
+324 k
+il y a 4 sem.
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1 M
+il y a 11 m.
+
+
+9:29
+Arnold Schwarzenegger : Je DÉTESTAIS mon physique à l'époque
+Naj B Fit
+143 k
+il y a 3 a
+
+16:20
+J'ai Arrêté le Squat il y a 30 ans, Voici Comment je Muscle mes Jambes
+Julien QUAGLIERINI
+16 k
+il y a 2 j
+Nouveau
+
+35:16
+Transformer un PC (mon plus gros projet terminé)
+Abrège
+ et Kang et ses PC
+136 k
+il y a 2 m.
+
+18:41
+Les transformations physiques les plus extrêmes du cinéma décryptées par des experts
+AlloCiné - Interviews
+36 k
+il y a 4 j
+Nouveau
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+10 M
+il y a 8 m.
+Doublée
+
+28:18
+Que mange un BODYBUILDER de 134 KG ?
+Théo Leguerrier
+53 k
+il y a 5 j
+Nouveau
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+213 k
+il y a 1 m.
+
+33:45
+RAM : FIN de PENURIE grâce à la CHINE ??
+Reboot - Tech & Hardware et 2 autre(s)
+51 k
+il y a 10 j
+
+    

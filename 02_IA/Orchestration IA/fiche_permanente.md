@@ -5,7 +5,7 @@
 - Nom : Orchestration IA
 - Type : Discipline de coordination d'agents, outils, workflows, memoires et validations
 - Statut dans la base : En veille / En structuration
-- Derniere mise a jour : 2026-08-21
+- Derniere mise a jour : 2026-08-26
 
 ## 2. Role principal
 
@@ -32,6 +32,8 @@ Composants essentiels :
 Dans une equipe de modeles, le routage doit etre defini par role : l'orchestrateur conserve le plan, l'arbitrage et l'agregation, tandis que les executants recoivent des taches bornees. Chaque role doit avoir un budget, un niveau d'effort, des permissions et une condition d'escalade explicites.
 
 L'orchestrateur doit surveiller les deviations, recadrer les agents, agreger les resultats et decider de la suite du workflow.
+
+Une stack operationnelle doit etre traitee comme un assemblage de composants relies a des besoins explicites, avec des interfaces et dependances suffisamment documentees pour faire evoluer ou remplacer une brique sans reconstruire l'ensemble. Le choix entre service gere, auto-hebergement et execution locale doit etre fait par charge, risque et responsabilite d'exploitation, et non applique comme une regle uniforme.
 
 ## 4. Forces
 
@@ -129,6 +131,16 @@ Workflow de composition d'une equipe d'agents par roles :
 7. Exiger un routage observable, la possibilite de remplacer un modele par role et l'export des instructions, journaux et memoires utiles.
 8. Faire remonter a l'humain les arbitrages qui depassent les criteres declares et verifier le livrable consolide.
 
+Workflow d'evolution d'une stack par besoin et cout total :
+
+1. Associer chaque composant a un besoin, un responsable et un resultat attendu.
+2. Verifier si un composant existant peut etre etendu avant d'ajouter une nouvelle brique.
+3. Documenter les interfaces, donnees, dependances et conditions de remplacement du module concerne.
+4. Comparer le cout actuel des frictions et contournements au cout complet d'une migration, incluant adaptation, verification et apprentissage.
+5. Choisir service gere, auto-hebergement ou execution locale selon la charge, la confidentialite, la disponibilite attendue et l'effort d'exploitation.
+6. Pour une automatisation ponctuelle, comparer le cout de construction et de verification au temps manuel qu'elle permet reellement d'eviter.
+7. Mesurer le resultat apres changement et retirer du perimetre les composants qui ne repondent a aucun besoin explicite.
+
 ## 9. Prompts & methodes
 
 Les instructions d'orchestration doivent definir :
@@ -181,6 +193,7 @@ Points a surveiller :
 Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallelisation. Le fan-out ne doit etre utilise que lorsque les taches sont independantes et que l'agregation finale est controlee.
 
 - 2026-08-21 - Evaluer une equipe d'agents sur le cout complet et la qualite d'une tache acceptee, pas sur le seul prix par token. Refuser un routage preassemble pour un usage critique si les modeles, niveaux d'effort, permissions, limites et donnees persistantes ne sont pas observables ou reversibles.
+- 2026-08-26 - Ne pas changer une brique stable pour sa seule nouveaute : comparer le cout des frictions et contournements au cout complet de migration. Autoriser une automatisation ponctuelle lorsque son cout de construction et de verification reste inferieur au temps manuel evite.
 
 ## Historique des mises a jour
 
@@ -190,3 +203,4 @@ Pour AOS, privilegier une orchestration sequentielle fiable avant toute parallel
 - 2026-08-09 - Mise a jour - Section 8 - Sources YouTube NetworkChuck et Meydeey, contexte multi-outils et supervision operationnelle, batch AOS GO partiel
 - 2026-08-16 - Mise a jour - Sections 3, 8, 12 - Source YouTube Samuel Gentilhomme, reversibilite et portabilite d'une infrastructure IA, batch AOS GO partiel
 - 2026-08-21 - Mise a jour - Sections 3, 5, 8, 12 et 13 - Source YouTube IA et Strategie, routage par roles, cout complet et limites des equipes preassemblees, batch AOS GO partiel
+- 2026-08-26 - Mise a jour - Sections 1, 3, 8 et 13 - Source YouTube Samuel Gentilhomme, evolution modulaire d'une stack par besoin et cout total, batch AOS GO partiel
