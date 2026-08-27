@@ -4,9 +4,9 @@
 
 - Decision d'audit : Audit Aion recommande
 - Niveau de risque maximal : eleve
-- Commit audite : 7c28fd9
+- Commit audite : 3f37474
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-27 09:55:38
+- Rapport genere le : 2026-08-27 18:24:57
 - Alertes prioritaires Aion : 2
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 2
@@ -26,6 +26,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `3f37474` - 2026-08-27 09:55:38 +0000 - Audit - docs(aos): add daily audit report
 - `7c28fd9` - 2026-08-26 20:50:40 +0200 - Knowledge batch - docs(aos): process video source batch
 
 ## Classification des commits
@@ -44,15 +45,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- Aucun commit.
+- `3f37474` - 2026-08-27 09:55:38 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- Aucun commit ignore pour audit connaissance.
+- `3f37474` - 2026-08-27 09:55:38 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -63,6 +64,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-08-27_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-25_youtube_samuel-gentilhomme_stack-ia-modulaire-choix-par-besoin_transcript.txt
 - A 02_IA/Orchestration IA/veille/2026-08-25_youtube_samuel-gentilhomme_stack-ia-modulaire-choix-par-besoin.md
 - A 03_Rapports/batch/2026-08-26_aos_video-stack-ia-modulaire-choix-par-besoin.md
