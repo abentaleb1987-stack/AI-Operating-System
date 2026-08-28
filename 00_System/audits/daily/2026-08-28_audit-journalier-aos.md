@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : bd92acb
+- Commit audite : 041a200
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-28 11:29:15
+- Rapport genere le : 2026-08-28 19:35:56
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,13 +25,14 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `bd92acb` - 2026-08-27 18:24:57 +0000 - Audit - docs(aos): add daily audit report
+- `041a200` - 2026-08-28 16:53:10 +0200 - Knowledge batch - docs(aos): process video source batch
+- `41de4a2` - 2026-08-28 11:29:15 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- Aucun commit.
+- `041a200` - 2026-08-28 16:53:10 +0200 - docs(aos): process video source batch
 
 ### Protocol / system
 
@@ -43,15 +44,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `bd92acb` - 2026-08-27 18:24:57 +0000 - docs(aos): add daily audit report
+- `41de4a2` - 2026-08-28 11:29:15 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `bd92acb` - 2026-08-27 18:24:57 +0000 - Audit - docs(aos): add daily audit report
+- `41de4a2` - 2026-08-28 11:29:15 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -62,11 +63,16 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-08-28_audit-journalier-aos.md
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_parlons-ia_architecture-agentique-automatisation-travail_transcript.txt
+- A 02_IA/Agents IA/veille/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables.md
+- A 02_IA/Agents IA/veille/2026-08-28_youtube_parlons-ia_architecture-agentique-automatisation-travail.md
+- A 03_Rapports/batch/2026-08-28_aos_batch-architectures-agentiques-portables.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-08-27_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
@@ -82,11 +88,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- Aucun element detecte.
+- A 02_IA/Agents IA/veille/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables.md
+- A 02_IA/Agents IA/veille/2026-08-28_youtube_parlons-ia_architecture-agentique-automatisation-travail.md
 
 ## Sources traitees
 
-- Aucun element detecte.
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_parlons-ia_architecture-agentique-automatisation-travail_transcript.txt
 
 ## Toutes les alertes détectées
 
