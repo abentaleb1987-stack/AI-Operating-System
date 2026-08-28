@@ -1,0 +1,639 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+J'ai automatisé mon travail avec ChatGPT : voici le résultat !
+IA
+Parlons IA
+Parlons IA
+16 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+28 août 2026
+Découvrez comment ChatGPT est en train de révolutionner le monde du travail avec ses capacités d'automatisation avancées. Dans cette vidéo, nous explorons les dernières mises à jour de ChatGPT, notamment la version 5.6, et comment elles pourraient avoir un impact sur votre emploi. Nous discutons également de l'intelligence artificielle et de son rôle dans l'automatisation, notamment avec des outils comme Google Sheets et des agents d'AI tels que Codex AI. Nous comparons également les capacités de ChatGPT avec celles de Claude, une autre intelligence artificielle puissante. Si vous êtes curieux de savoir comment l'AI va changer le monde du travail, regardez cette vidéo pour en savoir plus sur l'avenir de l'automatisation et comment vous pouvez vous préparer. Avec des mises à jour régulières sur les dernières avancées en matière d'AI, notamment avec GPT Sol, GPT Luna et GPT Terra, vous serez au courant de tout ce qui se passe dans le monde de l'intelligence artificielle.
+
+🚀 N°1 FORMATION - IA-  BUSINESS
+👉 https://parlonsia.teachizy.fr
+
+📩 Email : formation.ai87@gmail.com
+
+Découvrez comment ChatGPT va révolutionner le monde du travail et pourquoi la fin de votre emploi est peut-être proche. Dans cette vidéo, nous explorons les dernières mises à jour sur l'intelligence artificielle, notamment les agents AI tels que ChatGPT 5.6, Claude AI et GPT 5.6, qui sont conçus pour automatiser les tâches et améliorer la productivité. Nous discutons également de l'avenir de l'AI et de son impact sur les entreprises, notamment comment les outils d'automatisation AI peuvent être intégrés à des outils tels que Google Sheets pour améliorer l'efficacité. Rejoignez-nous pour découvrir comment les dernières avancées en intelligence artificielle, notamment ChatGPT et Claude, sont en train de changer le monde du travail et comment vous pouvez vous préparer à cette révolution. Les mises à jour récentes de ChatGPT, telles que ChatGPT Plus, et les capacités de codage de Claude AI, sont également abordées, ainsi que les avantages et les inconvénients de l'utilisation de l'AI dans le travail, notamment avec des outils tels que GPT Sol, Luna et Terra. Nous vous offrons également des conseils pratiques sur la façon d'utiliser ces outils pour améliorer votre productivité et rester compétitif dans un monde où l'automatisation est de plus en plus présente.
+Parlons IA détaille la conception d'architectures d'agents autonomes capables de gérer des tâches complexes comme la modération ou l'interaction client. En structurant des boucles de décision et des protocoles de sécurité, cette approche transforme l'utilisation des LLM en un véritable outil de productivité professionnelle, dépassant le simple cadre des chatbots conventionnels.
+Résumé
+
+Comment ce contenu a été créé
+Créé avec l'IA
+Des sons ou des images ont été modifiés ou entièrement générés. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+16 k abonnés
+Vidéos
+À propos
+true
+36:33
+ChatGPT 5.6 WORK JARVIS : La mise à jour est DINGUE !
+de Parlons IA
+true
+33:53
+J'ai analysé chaque plan ChatGPT : Voici le seul qui vaut le coup
+de Parlons IA
+Claude opus 5 : le choc, voici ce qu' on vous cache !
+de Parlons IA
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 3 jours
+👉Ia & Automatisation:  https://parlonsia.teachizy.fr Télécharger  « Recevoir les bases de l’IA » sur ma page. https://parlonsia.teachizy.fr/
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:066 secondesCe que la plupart des gens ignorent,   c’est que nous sommes déjà à un  point de rupture technologique.
+0:1717 secondesAujourd’hui, la majorité des emplois peuvent  être remplacés avec ChatGPT et Claude. C’est  
+0:2323 secondesexactement ce que je vais vous démontrer dans  cette vidéo en vous apprenant comment convertir  
+0:2929 secondesdes tokens en argent. La seule question que  vous devez vous poser aujourd’hui sur le marché  
+0:3636 secondesdu travail et dans le monde de l’entreprise,  c’est : comment vais-je convertir mes tokens   en production pour doubler, tripler les  marges de mon secteur ? Savez-vous utiliser   les tokens ? C’est exactement ce que je vais  vous montrer dans cette vidéo, maintenant.
+0:5454 secondesDans le monde de l’intelligence artificielle,  dans le monde de l’automatisation du travail   non humain, on vient de franchir un cap. Et  la plus grosse erreur que vous pourriez faire,  
+1:051 minute et 5 secondesc’est de considérer ce que je vais vous  expliquer, ce que je vais vous montrer,   comme un simple fait d’actualité. Ne pas  prendre part à ce qui est en train de se  
+1:141 minute et 14 secondespasser aujourd’hui, maintenant, en septembre  2026, c’est vous exclure de l’économie de demain,   celle qui est déjà en train de se mettre  en place et qui va supprimer des emplois.
+1:261 minute et 26 secondesJe vais vous montrer trois exemples dans  lesquels l’IA est capable de remplacer un  
+1:311 minute et 31 secondessalarié dès maintenant. Le portail des  impôts est ouvert. Simulation terminée  
+1:361 minute et 36 secondesavec 45 000 € en 1AJ et 5 286 € en 1AK.  Le simulateur donne un impôt net de 5 018  
+1:451 minute et 45 secondes€ et un taux estimé de 11,2 %. Comme la  case 8HV était vide, le premier cadre,  
+1:521 minute et 52 secondescelui où l’on demande à l’IA de devenir un  collaborateur, est pour moi aujourd’hui le   plus intelligent et celui qui devrait  s’imposer dans le milieu de l’économie.
+2:032 minutes et 3 secondesCe qu’il faut comprendre, c’est que pour arriver  à ce type d’automatisation qui vous paraît normal,  
+2:082 minutes et 8 secondescela demande en réalité d’architecturer, de  construire derrière une logique de l’IA. Cela  
+2:142 minutes et 14 secondesveut dire exploiter les architectures qui existent  et les personnaliser à votre activité, à votre   domaine de compétence, et cela va vous demander  de monter en compétence sur leur usage.
+2:232 minutes et 23 secondesCeux qui ne sont pas surpris de voir  cela, c’est parce que, pendant trois ans,   sur les réseaux sociaux, vous avez eu des exemples  marketing qui étaient complètement fictifs : des  
+2:342 minutes et 34 secondespersonnes qui demandaient d’exécuter  des audits, de faire de la recherche,   d’organiser des voyages à partir d’une simple  phrase. Cela, ce n’est pas possible, cela   n’a jamais été possible. Mais c’est comme cela  qu’on vous a vendu l’intelligence artificielle.
+2:492 minutes et 49 secondesCela a fait appel à un levier psychologique  très simple. Plus on vous dit que c’est simple,   plus il y a de l’engouement, plus les gens  croient que c’est facile et s’y mettent,  
+2:572 minutes et 57 secondesjusqu’au moment où ils se rendent compte qu’ils   déchantent parce qu’ils ne produisent  pas d’argent avec ce mode d’interaction.
+3:043 minutes et 4 secondesLa différence, comme je vous l’ai expliqué,  c’est d’arriver à convertir votre temps,   votre travail, en tokens  qui produisent de la valeur.
+3:133 minutes et 13 secondesLà, je vais vous montrer un autre système,   qui est celui que l’on va aborder dans  la vidéo. C’est celui des automates qui   prennent des décisions. Ce n’est donc pas un  simple chatbot qui va publier quelque chose,  
+3:223 minutes et 22 secondesc’est un système d’analyse qui va aller  remplacer un job : celui de community manager.
+3:293 minutes et 29 secondesCombien de fois, sur les réseaux  sociaux, avez-vous voulu publier,   répondre et animer votre réseau social pour  le convertir en un système d’acquisition ? On  
+3:383 minutes et 38 secondesvous dit souvent de trouver des leads sur  les réseaux, et les gens sont prêts à payer   des agents IA près de 12 000 €, voire  plus, pour avoir ce type de système.
+3:473 minutes et 47 secondesJe vais vous montrer que ce type d’agent,  vous allez pouvoir le développer là,   maintenant, dans cette vidéo, et je vais  vous montrer comment cela fonctionne.
+3:533 minutes et 53 secondesContrairement à un système qui travaille à  l’aveugle, ce qu’il faut créer aujourd’hui   et utiliser, ce sont des architectures qui vont  exploiter ce qu’on appelle le harness. Le harness,  
+4:034 minutes et 3 secondesc’est le système de couches et d’outils de  l’IA. L’IA, c’est le cerveau, et les outils   sont ce que vous mettez à sa disposition pour  lui permettre d’interagir dans le monde réel.
+4:124 minutes et 12 secondesUne IA qui interagit sans savoir  comment prendre des décisions,   c’est quelque chose qui peut se retourner contre  vous. Elle ne sait pas ce qui est juste, ce qui  
+4:204 minutes et 20 secondesest faux, ni où sont les limites. Il faut donc  configurer ces outils. Et c’est cela, en fait,   l’architecture d’un agent IA. Et c’est cela que  vous allez payer 12 000 € chez un prestataire.
+4:294 minutes et 29 secondesAujourd’hui, ce que je veux vous faire  comprendre, c’est comment cela se construit,   vous expliquer la mécanique  et vous montrer comment ce  
+4:374 minutes et 37 secondessystème va sélectionner des commentaires sur les  interfaces, y répondre, engager, créer du lead,   de la conversion, tout cela en s’appuyant  sur les bases de données de l’entreprise.
+4:494 minutes et 49 secondesC’est exactement ce que l’on va faire  maintenant dans la vidéo. Et pour cela,   il va falloir que vous vous posiez un instant, que  vous sortiez complètement du discours marketing  
+4:574 minutes et 57 secondestraditionnel et que vous vous disiez une chose  : si demain vous ne voulez pas être exclu de   ce système économique qui s’est mis en place,  qu’on nous a imposé, vous avez une solution,  
+5:065 minutes et 6 secondesc’est celle de développer la capacité de coder  et de comprendre les architectures des agents IA,   qui feront partie intégrante, et qui font  déjà partie intégrante, de notre économie.
+5:185 minutes et 18 secondesCe qui vous manque aujourd’hui,  c’est d’être capable de passer   d’une interface de chatbot à une interface de  travail. Comment allez-vous dire à ChatGPT 5.6  
+5:285 minutes et 28 secondesou Claude : « OK, tu prends mon poste,  tu réponds aux clients, tu les drives,   tu les leades et tu sélectionnes les  clients » ? Comment allez-vous le faire ?
+5:375 minutes et 37 secondesC’est cela qui est intéressant dans le monde de   l’IA. Ce n’est pas de dire : «  ChatGPT est un expert. » Cela,   tout le monde sait le faire et vous n’allez pas  faire de différence sur le marché du travail.
+5:455 minutes et 45 secondesLa différence va se situer en trois points.  Le premier, c’est le lien que l’on va faire   entre les capacités de ChatGPT et le harness,  c’est-à-dire les fonctionnalités de ChatGPT.  
+5:555 minutes et 55 secondesOn va donc activer des fonctions spécifiques  de prise de contrôle, notamment de l’écran,   des bases de données et de l’exécution de code.  Ensuite, on va devoir définir ce que l’on appelle  
+6:066 minutes et 6 secondeségalement des compétences : comment il doit  prendre des décisions, ainsi que des prompts   système, pour définir comment le système  va fonctionner de manière semi-automatique.
+6:156 minutes et 15 secondesJe vous donne un exemple très concret.  Quand vous arrivez sur une page,   comment faites-vous pour  savoir qu’un commentaire a   déjà été publié ou qu’il a déjà reçu une réponse  ? Où trouvez-vous les commentaires ? Même vous,   si vous y allez pour la première fois, vous  allez voir que vous allez perdre du temps.
+6:286 minutes et 28 secondesEt tout cela, en fait, l’IA, c’est un peu comme  vous. Elle découvre votre façon de travailler,   votre univers. Elle ne connaît  pas votre boîte. Elle ne sait pas   comment vous réagissez ni comment vous répondez.
+6:396 minutes et 39 secondesEn conséquence, avant de savoir si  elle a le droit d’utiliser les outils,   il va falloir déterminer si elle  peut répondre, de quelle manière,  
+6:476 minutes et 47 secondesou s’il peut également y avoir une situation de  dysfonctionnement. Quelque chose ne fonctionne   pas : comment cela va-t-il se passer  ? Elle ne sait pas comment cela va se   passer. Et si elle doit vous signaler quelque  chose d’important, comment va-t-elle le faire ?
+6:586 minutes et 58 secondesMais si vous y pensez pendant cinq secondes,  quand, pendant trois ans, des influenceurs   vous ont dit : « ChatGPT est un expert »,  remémorez-vous un peu tous ces prompts, toutes ces  
+7:077 minutes et 7 secondesvidéos que vous avez vues. Comment pouviez-vous  penser que l’IA, simplement en lui disant qu’elle   était experte, allait être capable de comprendre  tout ce que l’on vient de dire à l’instant ?
+7:167 minutes et 16 secondesAlors, il va y avoir un mécanisme qui va être très  difficile pour vous, qui va vous dire : « Oui,   mais… oui, oui, mais cela fait trois ans que vous  avez l’habitude d’entendre cela. » Par conséquent,   le cerveau ne remet même plus en  question ce type de processus.
+7:307 minutes et 30 secondesAlors que, si vous intellectualisez, vous  vous dites : « Mais comment ai-je pu me   laisser croire que ChatGPT ou Claude était  capable de faire mon boulot simplement avec  
+7:407 minutes et 40 secondesune phrase : “ChatGPT est un expert,  tu as toutes les compétences” ? » Rien qu’avec cela, je pense qu’il va y avoir  une prise de conscience. Si vous ne l’avez pas,  
+7:487 minutes et 48 secondesje vous invite à partager  cette vidéo, à la taguer,   à la partager au bureau. Il n’y a que vous  qui soyez en mesure de reprendre en main  
+7:577 minutes et 57 secondesvotre carrière professionnelle en changeant, dès  aujourd’hui, votre manière d’interagir avec l’IA.
+8:028 minutes et 2 secondesCe que je vais vous montrer juste  après, c’est ce qu’il ne faut pas faire,   ce qu’il faut que vous arrêtiez  de faire. Comment reconnaître que  
+8:098 minutes et 9 secondesl’interaction que vous demandez à l’IA n’est  pas bonne ? Quand vous avez compris cela,   vous avez déjà compris 50 % du  travail dans le domaine de l’IA.
+8:178 minutes et 17 secondesVous allez pouvoir créer un nouvel  agent pour un projet que vous allez   générer avec Claude. Vous lui  collez les informations. Ici,   on veut créer un agent spécialisé dans la  recherche de sujets d’actualité sur la finance.
+8:288 minutes et 28 secondesOn lui dit : ces sujets sur la  finance, c’est quoi ? Des IPO,   une industrie en croissance ou en  décroissance, des secteurs porteurs,   des changements politiques majeurs : tout  cela, ce sont des sujets importants pour nous.
+8:398 minutes et 39 secondesEt ensuite, pour effectuer la recherche  : « Tu passeras obligatoirement par le   serveur MCP de Perplexity et tu  devras automatiquement rechercher  
+8:478 minutes et 47 secondesdes informations sur les trois  derniers jours par rapport à la   date du jour afin de garantir que les sujets  sélectionnés soient récents et pertinents. »
+8:558 minutes et 55 secondesEt si l’on décompose les étapes du workflow, ici,  vous demandez à ChatGPT ou à Claude de faire des  
+9:019 minutes et 1 seconderecherches d’actualité. Quel est son outil ? Il  effectue une requête web. Et au lieu d’utiliser  
+9:079 minutes et 7 secondesson propre moteur de requête web, l’influenceur  vous dit : « Ah, on va utiliser un MCP qui va  
+9:129 minutes et 12 secondespasser par un autre serveur, qui utilise  Perplexity, pour effectuer une requête web  
+9:199 minutes et 19 secondeset lui demander exactement la même chose  que ce que vous avez mis dans le prompt. » Donc, vous allez payer plusieurs fois : un,  l’interface de ChatGPT ou de Claude ; deux,  
+9:279 minutes et 27 secondesl’utilisation du MCP, qui va vous coûter de  l’argent ; trois, la requête de Perplexity,   qui nécessite un abonnement payant complémentaire  ; et quatre, le retour du serveur MCP.
+9:369 minutes et 36 secondesEst-ce que vous avez sécurisé le workflow, le  guardrail, le skill et le fonctionnement ? Jamais.   Et cela, si vous voulez, je pense que même  un débutant est capable de le comprendre.
+9:479 minutes et 47 secondesDonc, quand vous commencez à modéliser les  interactions, la première chose que vous devez  
+9:539 minutes et 53 secondesvous dire, c’est que l’IA ne sait pas séparer, à  elle seule, le contrôle, l’exécution, la mémoire  
+10:0010 minuteset la preuve. Il faut donc coder toutes les  instructions correspondant à chacune de ces   étapes. C’est exactement ce que je vais  vous expliquer dans la suite de la vidéo.
+10:0710 minutes et 7 secondesPourquoi vous ai-je dit, en démarrant,  que c’était l’une des vidéos les plus   importantes que j’ai faites et que je  suis en train de vous transmettre ? Parce   que votre cerveau s’est habitué, pendant  trois ans, à entendre des personnes vous  
+10:1510 minutes et 15 secondesdire : « ChatGPT est un expert en community  management, répond aux clients sur Internet,   tu es un expert, tu as toutes les  compétences, tu sais tout faire. »
+10:2410 minutes et 24 secondesVous connaissez très bien ces  prompts. Vous savez très bien   où vous allez retrouver ce type de prompt,   quels sont les influenceurs qui n’utilisent que  ce type de méthode. Ils cliquent sur un bouton,  
+10:3410 minutes et 34 secondesils vous montrent un écran qui bouge et ils  vous disent : « Voilà, c’est du travail. » Cela, ce n’est pas du travail. Et cela va  être un choc pour vous, parce que ce sont ces   méthodes-là dans lesquelles vous avez investi  du temps et de l’argent, et je le comprends.
+10:4310 minutes et 43 secondesSi aujourd’hui vous comprenez qu’en disant cela,  vous ne permettez pas à l’IA de comprendre ce   qu’est une interface, sur quelle base de décision  le modèle va répondre et sur quelle base il   va prendre la décision de ne pas répondre à un  message, vous commencez à comprendre le problème.
+10:5310 minutes et 53 secondesEst-ce qu’il l’a déjà traité ? Est-ce  qu’il doit vous avertir parce qu’il y   a un problème ? Comment va-t-il  gérer un problème de connexion,   un échec ? Est-ce qu’il dispose d’une base  de connaissances pour pouvoir y répondre ?
+11:0411 minutes et 4 secondesTous ces éléments, il faut les  intégrer dans l’architecture. Donc,   dites-vous que ce n’est pas un  prompt qui va résoudre le problème.
+11:1011 minutes et 10 secondesEt pour ceux qui pensaient qu’il  suffisait simplement de cliquer sur un   bouton et d’activer des fonctionnalités,  c’est un peu plus compliqué que cela.
+11:1711 minutes et 17 secondesMoi, ce que je vais retransmettre dans cette  vidéo, c’est vraiment la compétence qu’il faut   avoir aujourd’hui sur le marché du travail, parce  que tout le monde sait écrire ce type de prompt.
+11:2511 minutes et 25 secondesAujourd’hui, la compétence qui va faire  que, dans une boîte, on va vous garder,   c’est celle d’être capable de passer d’un  usage de prompts LLM et d’un chatbot à un  
+11:3511 minutes et 35 secondesagent qui comprend un état, une situation,  des outils, des actions, des observations,   des vérifications, des boucles de correction  et qui sait aller au bout d’un travail.
+11:4211 minutes et 42 secondesC’est cela, la compétence qu’il faut  aujourd’hui arriver à développer.
+11:4511 minutes et 45 secondesDonc, ce que vous allez apprendre dans cette  vidéo, c’est à construire un agent IA qui   comprend une instruction, un objectif, un état,  qui gère des mémoires, qui va avoir besoin, à un  
+11:5411 minutes et 54 secondesmoment donné, de compétences, que l’on appelle  des skills, avec l’appui de règles de décision,   et qui va devoir appliquer ce que l’on appelle  des contrôles pour savoir s’il a bien travaillé.
+12:0312 minutes et 3 secondesEt tout cela, il va falloir l’accompagner  d’une gestion des erreurs et de critères   de réussite. C’est là que prend sens ce que l’on  appelle le Loop Engineering, dont on va parler.
+12:1112 minutes et 11 secondesOn va passer maintenant à  l’architecture des agents IA.   Avant de passer au développement d’un agent  IA, on va comprendre les différents blocs.
+12:1812 minutes et 18 secondesLe bloc agent.md, c’est l’unité de  fonctionnement de l’agent. C’est  
+12:2512 minutes et 25 secondesson cerveau fonctionnel. Cela veut dire  que, si vous devez construire un agent,   le plus petit fichier qui doit  exister, c’est le fichier agent.md.
+12:3512 minutes et 35 secondesMais ce fichier seul, s’il n’est  pas accompagné des autres fonctions,   ce n’est rien d’autre qu’un prompt  qui s’ajoute à ChatGPT ou Claude.
+12:4512 minutes et 45 secondesPour pouvoir le faire fonctionner, il faut  intégrer une policy, un workflow. Le workflow,   c’est une succession d’étapes  à l’intérieur de votre agent.
+12:5512 minutes et 55 secondesJe vous donne un exemple. Vous voulez  répondre à des questions de service client,   donc votre agent doit suivre un workflow.
+13:0313 minutes et 3 secondesÉtape numéro 1 : aller à  l’intérieur de votre boîte mail. Étape numéro 2 : lire les e-mails.
+13:0913 minutes et 9 secondesÉtape numéro 3 : comprendre ce que dit  l’e-mail. Est-ce que l’e-mail indique   qu’il s’agit de service client ? Est-ce une  demande de devis ? Est-ce de la publicité ?
+13:2113 minutes et 21 secondesÉtape numéro 4 : prendre une décision. Étape numéro 5 : déterminer ce qu’il  doit faire s’il ne sait pas quoi faire.
+13:2713 minutes et 27 secondesEt c’est là que l’on entre dans la fonction des  guardrails. Il y a un risque qu’un agent puisse   être injecté par des instructions externes : un  e-mail, un prompt, un document, une pièce jointe.
+13:4013 minutes et 40 secondesIl faut donc sécuriser votre agent, qui  aujourd’hui peut avoir accès à l’intégralité   de votre ordinateur et même parfois à votre  téléphone portable. Les guardrails sont donc  
+13:5013 minutes et 50 secondesindispensables à intégrer au système agentique  pour sécuriser le comportement du modèle.
+13:5613 minutes et 56 secondesSurtout maintenant que l’on est dans une actualité  où l’on entend toutes les semaines que l’URSSAF,  
+14:0214 minutes et 2 secondesle gouvernement, l’Assemblée nationale  se sont fait pirater. On ne peut pas   concevoir un agent IA sans avoir mis en place des  protections à l’intérieur de son fonctionnement.
+14:1314 minutes et 13 secondesPour pouvoir se connecter à votre boîte  mail, de quoi a besoin un agent IA ? Il   a besoin de connecteurs. Ces connecteurs, ce  sont des fonctions MCP ou des fonctions API.
+14:2614 minutes et 26 secondesLes fonctions MCP reposent sur une  logique comparable à celle des API,   mais elles font appel à un serveur  qui centralise les demandes. C’est  
+14:3514 minutes et 35 secondesune sorte d’agent IA qui est lui-même  connecté directement à votre boîte mail,   alors qu’avec une API, vous allez plutôt  interroger directement votre boîte mail.
+14:4614 minutes et 46 secondesQu’est-ce que cela change ? Cela change qu’il faut  donner des compétences, que l’on appellera des   skills, c’est-à-dire des capacités au modèle pour  comprendre comment on utilise ces connecteurs.
+14:5614 minutes et 56 secondesLes agents IA comme ChatGPT et Claude ont  déjà des connaissances pour pouvoir le faire,   mais ce que vous devez rédiger, c’est la  manière dont ils doivent se comporter dans le  
+15:0615 minutes et 6 secondescas d’un e-mail de service client, d’un  devis, d’une publicité ou en cas de risque.
+15:1215 minutes et 12 secondesC’est là que vous implémentez des capacités  réutilisables, grâce auxquelles le modèle va   savoir exactement quel type de politique  utiliser dans ce type de situation.
+15:2115 minutes et 21 secondesUn agent qui a maintenant la responsabilité  de produire du travail vous engage sur le  
+15:2815 minutes et 28 secondesplan juridique. Il va générer des  posts, du contenu, des réponses,   et il faut donc que vous soyez  au courant de ce qu’il produit.
+15:3815 minutes et 38 secondesEt c’est là que l’on va entrer dans le système  du runtime et des logs. Cela va vous permettre   de suivre l’état du modèle, les checkpoints, les  événements et les erreurs qui ont pu se produire.
+15:4915 minutes et 49 secondesC’est comme cela que vous allez contrôler la  manière dont le système évolue et travaille   pendant votre absence. Vous ne passez plus  votre temps à contrôler votre salarié. Vous  
+15:5915 minutes et 59 secondesregardez simplement si le déroulé des actions est  cohérent et si le modèle a rencontré un problème.
+16:0716 minutes et 7 secondesEt dans ce cas-là, il faudra revenir  soit sur les instructions de l’agent,   soit sur la partie consacrée  aux instructions des skills.
+16:1516 minutes et 15 secondesMais pour qu’un agent puisse travailler  plusieurs heures ou plusieurs jours, il   va falloir faire en sorte que l’agent IA,  ChatGPT ou Claude, dispose d’une mémoire.
+16:2916 minutes et 29 secondesEt cette mémoire, c’est ce que  l’on appelle un contexte durable.   Cela va lui permettre de se souvenir des  états précédents de son fonctionnement.
+16:3816 minutes et 38 secondesEt si la tâche est interrompue, si  le modèle a besoin de reprendre une  
+16:4316 minutes et 43 secondesaction ou encore d’une intervention  humaine, ce que l’on appelle du HITL,  
+16:5116 minutes et 51 secondesvous intervenez pour contrôler ou valider  le modèle. Le système va alors utiliser sa   mémoire pour redémarrer le workflow à  l’étape à laquelle il s’était arrêté.
+16:5916 minutes et 59 secondesCela, c’est l’architecture d’un agent IA.
+17:0217 minutes et 2 secondesAlors maintenant, vous comprenez une chose très  claire. Avant de pouvoir le mettre en entreprise,   si vous n’avez pas mis en place des  tests de validation et de régression,  
+17:1117 minutes et 11 secondesvous ne savez pas si votre agent IA présente  un danger pour vous ou pour votre entreprise. Et c’est cela, un système agentique.
+17:2017 minutes et 20 secondesC’est la raison pour laquelle, depuis deux ans,  sur les réseaux sociaux, j’ai fait face à des  
+17:2517 minutes et 25 secondesattaques régulières de la part d’influenceurs,  parce que je dénonce leur discours marketing  
+17:3217 minutes et 32 secondesultra-agressif, dans lequel on vous fait croire  que vous pouvez quitter votre job, que vous allez   gagner de l’argent sans rien faire, que l’IA va  travailler à votre place sans aucune compétence.
+17:4417 minutes et 44 secondesMais au regard de ces éléments, vous  allez vous rendre compte qu’aujourd’hui,   on dispose déjà de systèmes agentiques  capables de travailler à votre place.
+17:5317 minutes et 53 secondesDonc, si aujourd’hui vous découvrez cette  architecture et que vous ne savez pas la   mettre en place, posez-vous la question  : en septembre 2026 et en janvier 2027,   aurai-je encore une place  sur le marché du travail ?
+18:0718 minutes et 7 secondesJe ne dis pas cela pour vous  faire peur. Je vous dis cela au   regard de la situation économique  globale, française et européenne.
+18:1518 minutes et 15 secondesLes entreprises vont commencer à investir  massivement dans des gens qui ont des   compétences réelles et techniques. Sur  un marché où tout le monde sait écrire  
+18:2118 minutes et 21 secondesun prompt du type « ChatGPT est un expert  », très peu de personnes savent aujourd’hui   structurer des architectures  agentiques de production.
+18:3018 minutes et 30 secondesEt les entreprises qui peuvent se payer  de nouveaux agents IA tous les mois ou   tous les trois mois, à chaque fois qu’il y a  un nouveau modèle, il n’y en a pas vraiment.
+18:3718 minutes et 37 secondesDonc, elles vont investir massivement dans un type  de profil : ceux qui savent organiser, structurer  
+18:4418 minutes et 44 secondeset rendre rentables les tokens, transformer  chaque requête de tokens en productivité.
+18:5218 minutes et 52 secondesEt c’est maintenant la partie 2 du tutoriel,  où l’on va comprendre l’architecture d’un agent   qui prend le contrôle d’un écran  et qui va répondre aux clients.
+19:0319 minutes et 3 secondesOn va donc travailler sur  l’architecture de l’agent IA.
+19:0719 minutes et 7 secondesLa première étape, c’est comprendre  l’état. Cela revient à dire qu’il doit   comprendre l’environnement dans  lequel il va devoir travailler.
+19:1319 minutes et 13 secondesLa deuxième étape, c’est le choix  de l’outil. Quand il va naviguer,   il a plusieurs possibilités : utiliser  du code, utiliser des fonctions,   utiliser son harness, notamment  les fonctions de Browser App.
+19:2619 minutes et 26 secondesEt on a maintenant aussi la  possibilité de l’intégrer   directement avec des extensions  à l’intérieur d’une interface.
+19:3219 minutes et 32 secondesIl faut donc parfois choisir ce  que l’on appelle des stratégies   d’escalade. Pourquoi ? Si votre système  n’arrive pas à lancer une fonction,   il peut en lancer une autre et  ne bloque donc pas son workflow.
+19:4419 minutes et 44 secondesEt cela rappelle une notion assez intéressante qui  fait penser à un programme : avant de démarrer un  
+19:5119 minutes et 51 secondestravail, le système, lorsqu’il comprend son état,  doit vérifier que tous les outils et toutes les   interfaces sont disponibles. Sinon, il vous  avertit immédiatement et vous pouvez intervenir.
+20:0320 minutes et 3 secondesOn va donc définir une liste  d’outils pour les actions.
+20:0620 minutes et 6 secondesÀ partir de là, on va comprendre que  le système a besoin de savoir quelle  
+20:1320 minutes et 13 secondesest sa zone d’action, donc quels sont  les filtres que l’on va lui permettre   d’activer pour sélectionner les bons  contenus avec lesquels interagir.
+20:2220 minutes et 22 secondesCela va automatiquement nous amener à des  boucles de vérification et de correction.
+20:2820 minutes et 28 secondesSi l’on reprend et que l’on va  plus en profondeur dans les étapes,   il y a la compréhension de l’interface, la  page, l’ouverture, l’activité, la sélection  
+20:3720 minutes et 37 secondesdes commentaires, l’analyse de la boucle de  travail, puis la boucle de travail elle-même.
+20:4220 minutes et 42 secondesEst-ce que je dois créer une réponse ? Là,  cela va faire appel à des bases de données. Je   vais donc appeler des connaissances pour pouvoir  répondre comme attendu sur le produit concerné,  
+20:5220 minutes et 52 secondesen fonction de la FAQ, en fonction de ce que  je souhaite mettre en avant dans mon activité,   ou exclure une réponse selon certains critères,   ou encore avertir l’utilisateur qu’une  intervention est nécessaire pour la modération.
+21:0421 minutes et 4 secondesEt ce système doit se contrôler lui-même.
+21:0621 minutes et 6 secondesC’est là aussi que l’on voit qu’il est beaucoup   plus simple de dire à une  IA : « Tu es un expert. » Là, vous allez vous rendre compte qu’il faut  effectuer un retour d’état, une deuxième boucle  
+21:1421 minutes et 14 secondesqui contrôle si ce que le système a choisi et  exécuté est conforme lors de la dernière étape.
+21:2021 minutes et 20 secondesEt cela va nous permettre de déterminer :  est-ce que je dois recommencer ou est-ce   que je peux continuer à l’étape suivante  et donc recommencer un cycle de travail ?
+21:2921 minutes et 29 secondesSi j’ai tout traité, mon  système peut s’arrêter là.   Si j’ai d’autres actions à mener, j’ai une  étape + 1 et je recommence à l’étape numéro 5,   étant donné que j’ai déjà contrôlé que  mon système de démarrage fonctionne.
+21:4521 minutes et 45 secondesOn est donc en train d’implémenter une logique  de programme. Un agent IA, c’est un programme.
+21:5121 minutes et 51 secondesL’avantage que l’on a par rapport au développeur,   c’est que l’on peut le faire en langage  verbal. C’est cela, la puissance.  
+21:5721 minutes et 57 secondesOn n’a pas besoin de faire quatre ans de  développement pour arriver à développer des   systèmes. On peut arriver à faire des choses  assez fiables aujourd’hui sur un marché.
+22:0522 minutes et 5 secondesOù est-ce que l’on écrit ce type d’instructions ? La différence entre un prompt que vous  envoyez dans une interface et un agent,   c’est que les instructions, vous allez  les transformer en instructions système.
+22:1922 minutes et 19 secondesTout ce qui est écrit dans la conversation n’est  pas une mémoire permanente. Pour créer une mémoire   permanente, vous allez dans les paramètres et  vous personnalisez le comportement du modèle.
+22:3122 minutes et 31 secondesMais lorsque vous allez créer un agent, vous  n’allez pas toujours utiliser ChatGPT 5.6 ou   Claude de la même manière. Vous  allez utiliser différents agents.
+22:4222 minutes et 42 secondesOn ne va donc pas changer le prompt  système général de ChatGPT 5.6 ou de  
+22:4722 minutes et 47 secondesClaude. On va créer un répertoire agent dans  le répertoire d’installation de Codex Agent,   dans lequel vous allez déposer  votre répertoire agent.
+22:5922 minutes et 59 secondesJe vais vous montrer deux types d’architecture.
+23:0123 minutes et 1 secondeÀ gauche, vous avez la plus  petite structure d’architecture,   qui est composée du fichier agent.md que  l’on va analyser dans la suite de la vidéo,   et dans lequel vous avez un format bien défini.
+23:1223 minutes et 12 secondesCe formatage, pour ceux qui ont  l’habitude de faire des skills,   ressemble très fortement à  l’architecture des systèmes de skills.
+23:2023 minutes et 20 secondesLa différence, c’est que, vous allez le voir, on  a une partie de variables système au démarrage,   toute la partie de contrôle du boot : est-ce  que les bases de données sont disponibles ?   Est-ce que les outils sont fonctionnels ?  Est-ce que les connecteurs MCP démarrent ?
+23:3323 minutes et 33 secondesPuis on a des agents plus évolués, qui  vont pouvoir gérer des cas plus complexes.
+23:3923 minutes et 39 secondesAlors, pourquoi passe-t-on  d’une architecture à l’autre ?
+23:4323 minutes et 43 secondesLe modèle, comme je vous l’ai expliqué dans  d’autres vidéos, a une capacité de mémoire, et on   se rend compte que, si les instructions deviennent  trop longues — ce n’est pas un cutoff à prendre  
+23:5323 minutes et 53 secondesau sens strict — au-delà de 500 lignes, on va  commencer à ajouter beaucoup trop d’informations   dans le modèle et il va avoir du mal à  suivre correctement les instructions système.
+24:0424 minutes et 4 secondesDonc, quand votre prompt commence à  atteindre entre 200 et 500 lignes,   c’est là que l’on commence à développer des  architectures avec des assets, des mémoires,  
+24:1424 minutes et 14 secondesdes scripts et des skills plutôt  qu’une architecture minimaliste.
+24:1924 minutes et 19 secondesDans cette partie-là, on va  s’occuper d’une architecture   minimaliste, et des architectures plus  complexes dans les prochaines vidéos.
+24:2424 minutes et 24 secondesDonc, abonnez-vous si ce n’est pas fait,  partagez, retweetez et partagez cette vidéo à   vos collègues de bureau, parce que  je pense que vous allez comprendre  
+24:3324 minutes et 33 secondesmaintenant comment construire des agents IA  et quelle est l’approche qu’il faut avoir.
+24:3824 minutes et 38 secondesEt dans la prochaine vidéo, on  traitera justement de la manière   et des raisons pour lesquelles on passe  à des architectures plus complexes.
+24:4524 minutes et 45 secondesMaintenant, on va s’intéresser aux  différents blocs qui reprennent ce   que l’on a évoqué préalablement : chacune  des interactions, les étapes principales,  
+24:5424 minutes et 54 secondesla gestion des interfaces, des  outils et les étapes de contrôle.   On va regarder cela et comprendre  pourquoi et comment on les intègre.
+25:0125 minutes et 1 secondeL’agent TikTok, celui qui va prendre le  contrôle de l’écran, a besoin au minimum   de deux fichiers : le système agent.md avec le  système d’instructions, et le système de mémoire.
+25:1225 minutes et 12 secondesSi vous développez des agents IA, je  vous conseille de créer un fichier   README qui va vous permettre de vous  rappeler le fonctionnement du modèle,   l’architecture du modèle ainsi que sa version.
+25:2325 minutes et 23 secondesMaintenant, on va s’intéresser  aux instructions codifiées.
+25:2625 minutes et 26 secondesLe bloc supérieur correspond à un  bloc YAML de fonctionnement. Ensuite,   on a tous les répertoires de fonctionnement.
+25:3725 minutes et 37 secondesLe modèle va devoir utiliser les bases  de connaissances de votre entreprise,   votre positionnement, votre clientèle, la manière  dont vous proposez vos services ou vos produits.
+25:4825 minutes et 48 secondesOn doit donc lui donner le  routage des bases de données.
+25:5125 minutes et 51 secondesSur votre ordinateur, il y a les  données. Vous les convertissez en   data, et cette data doit être  ajoutée au contexte du modèle  
+26:0026 minutespour permettre à l’IA de sélectionner  l’information pertinente à la volée.
+26:0526 minutes et 5 secondesAu moment où une personne va poser une question,   ChatGPT 5.6 ou Claude Opus va sélectionner  la data à l’intérieur de votre système.
+26:1426 minutes et 14 secondesIl faut donc router très clairement le modèle  vers les bases de données de votre entreprise,   de votre produit ou de votre service.
+26:2126 minutes et 21 secondesSi vous avez besoin de revoir la  partie base de données et data,   rappelez-vous que l’on traite l’information dans  Building Agent System, « Le meilleur de l’IA ».
+26:3126 minutes et 31 secondesOn l’a bien sûr dans le niveau Engineering Elite,   destiné aux consultants et à ceux qui  veulent développer et vendre des agents IA.
+26:3826 minutes et 38 secondesVous avez des chapitres dédiés  à la gestion des datasets,   qui vous expliquent comment créer les  datasets pour optimiser le fonctionnement   des bases de réponses des IA, notamment  entre le chapitre 8 et le chapitre 13.
+26:5226 minutes et 52 secondesEnsuite, on a des chapitres spécifiques pour  d’autres modèles. Mais n’hésitez pas à utiliser  
+26:5726 minutes et 57 secondesles mots-clés à l’intérieur de la formation pour  visualiser l’ensemble des chapitres qui traitent   de la data. Si vous avez besoin de les revoir,  toutes les informations sont en description.
+27:0727 minutes et 7 secondesQuand le système va travailler,  il va devoir faire des boucles.
+27:1127 minutes et 11 secondesLes boucles, ou le Loop Engineering,   consistent à faire comprendre au  modèle ce que l’on attend de lui.
+27:1827 minutes et 18 secondesLe système doit comprendre la section Activité,  basculer dans la section Commentaires,  
+27:2327 minutes et 23 secondespasser sur les notifications, aller  regarder les commentaires : cela,   c’est ce que l’on appelle une boucle de travail.
+27:3027 minutes et 30 secondesEt comme il s’agit d’une boucle, il faut  lui donner des règles de fonctionnement.
+27:3527 minutes et 35 secondesUne boucle, par définition,   est quelque chose qui peut être infini. En  conséquence, il faut lui donner une tâche.
+27:4127 minutes et 41 secondesL’action que ChatGPT 5.6 ou Claude Opus doit  effectuer en tant qu’agent est-elle définie par  
+27:4727 minutes et 47 secondesun critère de temps ? Par exemple, il exécute  la tâche sur les commentaires des dernières 24   heures, les commentaires de moins de cinq  jours ou les 50 premiers commentaires.
+28:0028 minutesCet objectif est capital. Sinon, vous  allez vous retrouver avec un système   qui peut continuer à fonctionner dans une  boucle temporelle pendant plusieurs jours.
+28:1228 minutes et 12 secondesDonc, ne faites pas cette erreur. Placez une  boucle de contrôle qui permette soit de définir  
+28:1828 minutes et 18 secondesun objectif — tous les commentaires ont reçu une  réponse — soit une limite temporelle : répondre   à tous les commentaires qui ont moins de  24 heures par rapport à la date du jour.
+28:2828 minutes et 28 secondesToute l’interface de navigation  est décomposée en variables. Le   commentaire, la réponse, les sections  d’interaction : ce sont des variables.
+28:3928 minutes et 39 secondesEst-ce que j’ai publié ? Est-ce que  c’est déjà publié ? Est-ce que je   dois skipper une action parce qu’elle existe déjà   dans ma mémoire ? Est-ce que le sujet est  interdit ? Dans ce cas, je ne réponds pas.
+28:5028 minutes et 50 secondesTout cela, ce ne sont que des variables  d’interaction avec l’interface.
+28:5428 minutes et 54 secondesEnsuite, il faut prendre en compte  un autre facteur : comment va-t-il   gérer la situation si quelque  chose ne fonctionne pas ?
+29:0129 minutes et 1 secondePour récupérer votre agent, vous le retrouverez   dans le niveau 2 Building Agent  System, « Le meilleur de l’IA ».
+29:0929 minutes et 9 secondesEt pour ceux qui veulent s’initier aux notions  d’intelligence artificielle, je vais également   vous le mettre gratuitement à l’intérieur de  « Recevoir par e-mail les bases de l’IA ».
+29:2129 minutes et 21 secondesVous vous inscrivez et vous allez  recevoir par e-mail votre accès pour  
+29:2629 minutes et 26 secondestélécharger votre agent IA TikTok.  Il suffit de cliquer sur le lien,   de l’ajouter, et vous allez pouvoir accéder à  des ressources que vous retrouvez sur YouTube.
+29:3829 minutes et 38 secondesLe contenu exclusif sera à l’intérieur  du « Meilleur de l’IA », où vous allez   apprendre à passer progressivement d’un  usage traditionnel de l’intelligence  
+29:4729 minutes et 47 secondesartificielle en mode question-réponse  à des systèmes agentiques qui vont vous   permettre d’automatiser votre activité et  de créer un levier économique considérable.
+29:5729 minutes et 57 secondesEt là, on a un autre système qui se met  en place : les nouvelles tentatives.
+30:0230 minutes et 2 secondesCela fait partie des fonctions de boucle,   et c’est justement pour cela qu’il faut  mettre des règles de fonctionnement.
+30:0730 minutes et 7 secondesCombien de fois le modèle a-t-il le  droit de relancer une publication,   de rafraîchir, de relancer une  fonction MCP ? Tout est là.
+30:1730 minutes et 17 secondesLes valeurs que je vous conseille  sont au minimum de deux tentatives,   mais idéalement, on peut mettre entre trois  et cinq nouvelles tentatives par fonction.
+30:2730 minutes et 27 secondesLes points capitaux, vous l’avez compris, sont  les suivants : il faut que le système soit   capable d’avoir une boucle de travail qui va lui  permettre de disposer d’outils de planification,  
+30:3530 minutes et 35 secondesd’action et de décision, et, en cas  d’échec, d’effectuer un retour en arrière,   une nouvelle tentative, donc  une deuxième boucle d’action.
+30:4430 minutes et 44 secondesEt si quelque chose ne fonctionne pas,   il faut intégrer une validation  humaine avec un arrêt explicite.
+30:5130 minutes et 51 secondesC’est là que vous avez la partie de contrôle,   avec la section HITL : Human in the  Loop, l’humain qui contrôle la machine.
+31:0031 minutesIl ne faut donc pas penser que  l’IA travaille complètement en mode   autonome. Il faut toujours mettre  en place un système de contrôle.
+31:0631 minutes et 6 secondesEnsuite, vous avez ce que l’on appelle un core  system, avec l’exécution du workflow au démarrage. Alors, qu’est-ce que je vous conseille de mettre  en place au niveau du système de démarrage ?
+31:1631 minutes et 16 secondesIl faut premièrement vérifier que  les outils peuvent être chargés.
+31:2031 minutes et 20 secondesLe modèle aura besoin de se connecter à Internet.   Il faut donc vérifier que la connexion  existe, que le navigateur se lance,   que la base de données de l’entreprise se  lance et que la mémoire est accessible.
+31:2931 minutes et 29 secondesCela vous évitera que le workflow se lance puis   plante parce qu’il se rend compte que  l’information n’est pas disponible. Vous devez donc concevoir vos agents IA  comme de véritables programmes informatiques.
+31:3931 minutes et 39 secondesEt pour rendre l’écriture naturelle,  vous allez créer une base de données   documentaire composée des différentes  interactions que vous avez avec vos clients,  
+31:4931 minutes et 49 secondesdans laquelle le modèle va utiliser un  système de routage pour aller regarder   comment, pour ce type de contexte,  vous avez répondu à vos clients.
+31:5831 minutes et 58 secondesC’est cela qui fait la force de  la personnalisation de votre agent   IA à votre produit, à votre  entreprise et à votre besoin.
+32:0632 minutes et 6 secondesEt cette base de données, le modèle  va la parcourir avant de répondre.
+32:1132 minutes et 11 secondesLa toute dernière étape va définir le  fameux ton de réponse : comment le ton   doit-il être positionné en appliquant  une couche de règles de fonctionnement ?
+32:2232 minutes et 22 secondesParce que ce n’est pas tout d’avoir publié.   Comment l’IA va-t-elle savoir si le contenu  a réellement été publié sur les réseaux ?
+32:2932 minutes et 29 secondesOn va ajouter une étape de relecture, dans  laquelle le modèle va reprendre le contrôle   de l’écran, vérifier que la publication  apparaît et la relire pour vérifier  
+32:3932 minutes et 39 secondessi elle est conforme au positionnement  et aux guardrails que vous avez fixés.
+32:4432 minutes et 44 secondesDans ce cas-là, le modèle laisse la publication.  Sinon, il la supprime ou vous avertit.
+32:5032 minutes et 50 secondesCela, c’est le schéma de décision que l’on   va donner dans la policy de  fonctionnement de l’agent IA.
+32:5732 minutes et 57 secondesLà, vous avez donc le processus  séquentiel permettant de créer,   gérer et générer des agents IA qui peuvent  travailler à votre place à chacune des étapes.
+33:0833 minutes et 8 secondesCe que l’on vient de voir, c’est le modèle  le plus simple des systèmes agentiques.
+33:1333 minutes et 13 secondesDans la prochaine vidéo, je vais vous montrer  comment on va passer d’un système agentique   très simple, comme celui que l’on vient de  créer — un agent IA capable de travailler,  
+33:2133 minutes et 21 secondesde produire du travail et de convertir votre  abonnement en valeur ajoutée — à un agent IA qui,  
+33:2733 minutes et 27 secondescette fois-ci, va disposer d’une  architecture complète pour organiser   des bases de connaissances, des mémoires, des  fonctions de test, des scripts et des assets.
+33:3933 minutes et 39 secondesActivez la cloche pour ne rien  rater des prochaines vidéos.   Abonnez-vous si ce n’est pas fait. Laissez-moi  un commentaire si vous avez des questions.
+33:4733 minutes et 47 secondesVous pouvez m’envoyer une  demande de rendez-vous par   le lien juste en dessous, dans la description :  
+33:5533 minutes et 55 secondes[formation.aiaaiaii87@gmail.com](mailto:formation.aiaaiaii87@gmail.com),   pour développer vos agents IA ou auditer votre  système d’agents IA en termes de sécurité.
+34:0234 minutes et 2 secondesIl faut que, dans chacune de vos productions, vous  cherchiez à transférer vos compétences techniques   dans un ordre logique, compréhensible et  modélisable pour les intelligences artificielles.
+34:1634 minutes et 16 secondesLe vrai levier du marché, aujourd’hui, il est là,   et c’est exactement ce que l’on  va faire dans la prochaine vidéo. Alors, activez la cloche.
+
+Tout
+
+Source : Parlons IA
+
+Pour vous
+
+Regardées
+
+15:57
+J’arrête Claude Code et Codex… je les remplace par ça
+Mike Codeur
+666
+il y a 2 h
+Nouveau
+
+
+19:56
+La Chine vient de gagner la course aux robots (et personne n'en parle)
+Vision IA
+9,1 k
+il y a 3 h
+Nouveau
+
+
+32:17
+Le mécanisme d’Anticythère : une technologie beaucoup trop avancée ?
+L'idéation
+74
+il y a 18 h
+Nouveau
+
+
+22:55
+RAM : Arrêtez de vous RUINER !! ➡️ 16GB vs 32GB - DDR4 vs DDR5
+GUILLAUME++
+63 k
+il y a 6 m.
+
+
+1:39:06
+Les Sacrifices d'un Strongman pour avoir un physique hors norme (douleurs, lifestyle, dérives...)
+Biomécanique et tengostrong
+115 k
+il y a 1 a
+
+
+52:27
+Le PRIX des CARTES GRAPHIQUES EXPLOSE : Que Faire ?
+Reboot - Tech & Hardware et GUILLAUME
+16 k
+il y a 2 sem.
+
+
+44:51
+Tout le monde se trompe sur Google
+Numerama
+35 k
+il y a 17 h
+Nouveau
+
+
+53:30
+Jardin-forêt, l'arbre et l'eau ...( Hervé Covès )
+permaculture agroécologie etc...
+1,1 k
+il y a 2 h
+Nouveau
+
+
+1:16:49
+TRADING : IL REVELE COMMENT LE CARNET D'ORDRE MARCHE ET DEVENIR RENTABLE  ! MONEYTALK #30
+Chris Dienda - Moneytalk
+35 k
+il y a 2 m.
+
+
+35:32
+"Masterclass Ischios : Le secret des Ischios Énorme et Galbés  "💯🔥
+JamCore
+31 k
+il y a 1 a
+
+
+1:34:55
+À 16 ans ils créent leur marque de PC GAMER (French Hardware)
+DiscoverID
+53 k
+il y a 3 a
+
+
+47:37
+I Built a $3000 AI Computer for Profit in 2026
+Modern Mining
+214 k
+il y a 3 m.
+
+
+24:27
+Quelle CARTE GRAPHIQUE choisir en Aout 2026 ? (1080p, 1440p & 4K)
+Yada
+31 k
+il y a 10 j
+
+
+34:54
+On achète un PC GAMER PAS CHER à ISTANBUL !
+FrenchHardware
+200 k
+il y a 1 m.
+
+
+33:05
+J’ai testé les CONTREFAÇONS de TEMU !
+CYRILstudio
+420 k
+il y a 17 h
+Nouveau
+
+1:45:34
+Comment fortifier votre esprit et votre corps - dans la vie d'un des meilleurs bodybuilder du monde
+Le Déclic par Alec Henry
+25 k
+il y a 6 m.
+
+1:28:59
+Expert testosterone : la vérité sur le Dad Bod et l'attirance des femmes !
+The Diary Of A CEO
+ et Darby Saxbe
+546 k
+il y a 4 j
+Nouveau
+Doublée
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+429 k
+il y a 1 m.
+
+14:17
+LE MEILLEUR PC GAMER EN RTX 5070 à ACHETER
+Mathis et Gauthier
+60 k
+il y a 1 a
+
+12:40
+LE MEILLEUR PC GAMER à 1500€ (FLOWUP FRENCH)
+Mathis et Gauthier
+24 k
+il y a 2 m.
+
+    

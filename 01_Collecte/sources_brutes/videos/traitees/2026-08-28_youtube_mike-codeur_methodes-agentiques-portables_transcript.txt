@@ -1,0 +1,731 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J’arrête Claude Code et Codex… je les remplace par ça
+Mike Codeur
+Mike Codeur
+83,3 k abonnés
+
+
+111
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+28 août 2026  BALI
+🎁 Formations offertes
+https://mkc.sh/formations-offertes?ut...
+
+🤖 AgentsMail — Plateforme d'email marketing agentique
+https://agentsmail.io/
+
+🖼️ YouThumb.ai — Génère des miniatures YouTube virales avec l'IA
+https://youthumb.ai?utm_source=youtube
+
+---
+
+On compare sans arrêt Claude Code, Codex CLI, OpenCode et les derniers LLM pour savoir lequel code le mieux. Mais ce débat nous pousse souvent à investir notre temps dans la couche qui change le plus vite.
+
+Dans cette vidéo, je sépare clairement le LLM, le harness et la méthode agentique. Je te montre pourquoi l'outil compte sans constituer une compétence durable, comment j'utilise Killer SaaS comme méthode adaptée à mon contexte, et comment construire un système qui survit au prochain changement de modèle ou de harness.
+
+Dans cette vidéo :
+00:00 – J'ai arrêté Claude Code et Codex
+00:35 – Pourquoi le meilleur outil ne suffit pas
+01:15 – LLM vs harness : les deux couches à séparer
+04:30 – La valeur est dans la méthode
+06:30 – Killer SaaS : 5 étapes de cadrage, 6 répétées
+10:00 – Construire un système portable
+12:20 – Changer de modèle ou de harness sans repartir de zéro
+14:10 – Les outils tournent, le système reste
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les SaaS et le business en ligne.
+
+#claudecode #codex #llm #ia #dev #agenticdev #youthumbai
+Mike Codeur analyse l'évolution rapide des outils de développement et le phénomène de peur de manquer les dernières nouveautés technologiques. Cette réflexion porte sur l'importance de privilégier des méthodes de travail agnostiques, durables et structurées plutôt que de suivre aveuglément les tendances éphémères des modèles de langage et des interfaces de codage.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+83,3 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+🚀 Essaye YouThumb gratuitement
+🚀 Essaye YouThumb gratuitement
+Rejoindre
+34 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@AntraxDz
+il y a 3 heures (modifié)
+Hello Mike ! Alors pour ma part, rien de très compliqué : j'ai regardé la vidéo Killer SaaS dès sa sortie (Day 1), puis celle avec le Graph Loop ou Agentic Dev (j'ai gardé celle de l'Agentic Dev). Ensuite, j'ai cherché les 2-3 derniers workshops d'Anthropic en video qui parlent d'agentic engineering ET jai transcript le tt et j'ai récupéré 2 articles pointus sur le sujet sur des sites web.
+
+J'ai donné tout ça à Claude Code et j'ai créé un skill que je pilote via /skills pour créer et préparer les tâches, le cadrage, etc. Ça se fait comme une interview : je pose un cadre global, il me pose une liste de questions, puis me crée les stories. Quand c'est ready, j'ai juste un /clear et un /skillsrun à faire, et tout se fait en solo. Il me prévient quand il a terminé pour que je puisse contrôler.
+
+2
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@boudalaydiarra2544
+il y a 2 heures
+Je suis tout à fait d’accord avec toi, et merci de partager ça avec le public 
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@jdassonval
+il y a 3 heures
+Des bons rappels. La valeur n’a jamais été dans une stack, dans un outil mais dans des fondamentaux agnostiques. 
+Un bon créa passera de photoshop, figma, etc.
+Bien sûr il faut ensuite maitriser si besoin les subtilités d’une solution spécifique. Mais comme tu dis, bcp de formations actuellement sont périmées au bout de 3-6 mois. Donc il faut prendre de la hauteur. 
+Je fais un peu pareil que toi (et perso étant dans le management freelance d’équipes variées, je dois jongler aussi sur des stacks/outils/méthodes diverses) , à savoir j’alterne les outils de temps en temps, sans cumuler à l’infini mais plutot un budget mensuel pour piocher dans les outils
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@boudalaydiarra2544
+il y a 2 heures
+Tu as bien dis agnostique, je pas si tout le l’as entendu mais j’espère
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@mrdjangofreeman5560
+il y a 3 heures
+100% d'accord.
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@gaelleb.3128
+il y a 1 heure
+Hahaha souvent je me sens "larguée" parce que toutes les semaines y'a un super nouveau truc a connaitre absolument. Ca me fatique ! Du coup je continue d'utiliser claude et claude code, je fait mes trucs comme je l'entends, et je me sens moins stressée
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@manuelaugusto6944
+il y a 35 minutes
+quel est la réponse du coup ?
+
+
+
+Répondre
+
+
+@Jpp-ez3dt
+il y a 2 heures
+Faire du click bait pour raconter du vent "’arrête Claude Code et Codex, reste jusqu’au bout, je vais te montrer l’outil révolutionnaire". Tu baisses dans mon estime
+
+3
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@IsT3RiKGaMe
+il y a 4 heures
+Sinon c'est quoi l'outil ??
+
+1
+
+
+
+Répondre
+
+·
+
+4 réponses
+
+@zbindendavid7013
+il y a 2 heures
+bla bla bla
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@slider97311
+il y a 4 heures
+Presque 10 minutes à dire la même chose en boucle.
+
+2
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@SebastienHanoteaux
+il y a 3 heures
+L'art de parler pour rien
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@livioricci8813
+il y a 11 minutes
+Que de blabla pour rien du tout... En fait tu critiques les influenceurs mais tu fais la même chose : un titre putaclic et ensuite du vent
+
+
+
+Répondre
+
+
+@PiMpMyCoMpUtEr
+il y a 38 minutes
+mais PTDR, a 3:30, bah,. tu décris EXACTEMENT ce que tu es !!! C'est marrent, vous n'êtes pas comme les autres influvoleur, vous, vos formations, elles sont bien.....
+
+
+
+Répondre
+
+
+@PiMpMyCoMpUtEr
+il y a 43 minutes (modifié)
+lol, "ton" Saas il à été fait avec Lovable, ça se voit en 1 secondes. Faire des formations, mais ne pas retocher au design de base, mais quelle ironie toute ces chaînes qui pop. Des devs de luxe !!! Il faut arrêter de leur donner notre fric
+
+
+
+Répondre
+
+
+@PiMpMyCoMpUtEr
+il y a 45 minutes
+En gros, vos "formations" sont obselètes après 3-4 heures quoi, en gros, arrêtez d'influvoler
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : J'ai arrêté Claude Code et Codex
+0:000 secondeAlors, ça y est, j'ai décidé d'arrêter d'utiliser Claude Code. J'ai décidé d'arrêter aussi Codex comme tu le sais depuis le début de l'année. Bien, Clodé.
+0:077 secondesOn a parlé que de ça les 6 premiers mois de l'année. Ensuite et bien, il y a eu la grosse hype de Codex. Et bien aujourd'hui, j'ai décidé d'arrêter
+0:1515 secondesd'utiliser ces outils. Et à la place et bien je vais te montrer dans cette vidéo ce que je vais utiliser. Quelque chose de vraiment révolutionnaire. Il faut absolument que tu regardes cette vidéo.
+0:2525 secondesAlors non non non, c'est pas Open Code que tu connais déjà depuis un bon moment. C'est pas non plus PDV que tout
+0:3232 secondesle monde a partagé récemment comme étant vraiment un truc incroyable. Muscode, le nouvel outil de méta et bien non c'est
+Chapitre 2 : Pourquoi le meilleur outil ne suffit pas
+0:4040 secondespas ça. Reste jusqu'au bout de la vidéo puisque je vais te présenter cet outil révolutionnaire. Comme tu le sais ces derniers mois j'ai testé pas mal de modèles, pas mal d'outils, pas mal de
+0:4949 secondesharnet comme on dit, open code, cloud code, codex et cetera. J'ai aussi développé ma méthode agentique he que je t'avais partagé comme ça dans une vidéo.
+0:5757 secondesUne méthode qui m'a permis de remplacer mon mon SAS teachable ici qui me coûtait plus de 4000 € 2000 € à l'année et aussi
+1:041 minute et 4 secondesMaelsimp un SAS qui permet de faire de l'email marketing pareil qui me coûtait presque 4000 € à l'année. Et aujourd'hui et bien j'ai pu reproduire ces plateformes et d'ailleurs je les ai même
+1:121 minute et 12 secondesconverti en SAS. Alors pas celle-ci parce que je la trouve pas très utile mais par contre la plateforme d'email marketing et bien c'est un SAS qui s'appelle agentmail.io maillot que j'ai
+Chapitre 3 : LLM vs harness : les deux couches à séparer
+1:211 minute et 21 secondespu reproduire comme ça assez rapidement avec ces méthodes agentiques. Alors ce que ce travail m'a montré c'est que le
+1:281 minute et 28 secondesmeilleur modèle ou le meilleur harné et bien ne te fait pas forcément progresser au bon niveau. Dans cette vidéo, ce qu'on va faire, on va séparer le modèle
+1:371 minute et 37 secondesen lui-même du harnet et on va découvrir la couche en fait qui organise réellement le travail. Puis on va voir comment construire un système qui reste
+1:461 minute et 46 secondesutile même quand les outils changent. à la fin de cette vidéo et bien tu sauras où investir ton temps sans reconstruire à chaque fois ta manière de travailler.
+1:551 minute et 55 secondesAlors avant là d'aller plus loin dans cette vidéo, c'est important de faire un petit rappel quand même sur les deux couches qui changent le plus vite dans un projet lors du d'un projet de
+2:032 minutes et 3 secondesdéveloppement informatique, on va dire en règle générale. Ces deux couches là.
+2:052 minutes et 5 secondesAlors le LLM c'est le modèle, c'est la capacité, c'est je sais pas Fable 5, Opus 5, GPT 56 et cetera. Donc il y a plein de bench qui sortent là-dessus
+2:132 minutes et 13 secondeschaque semaine on a des nouveautés et cetera. Alors à chaque fois il y en a un qui est en avance. Alors, faut switcher entre l'un et l'autre et cetera. C'est juste une capacité en elle-même. C'est
+2:212 minutes et 21 secondespas ce qui définit ce qui fait que tu vas pouvoir faire du développement agentique, poussé et cetera. Pour ça, et bien, tu as le harness, c'està-dire
+2:292 minutes et 29 secondescloud code, cloud CLI. Alors, tu peux utiliser aussi open code et cetera.
+2:332 minutes et 33 secondesC'est ce qui va te permettre en fait de faire des boucles agentiques et de gérer les permissions, de lancer des sous-agents et cetera. Donc c'est les deux couches qui sont hyper importantes.
+2:432 minutes et 43 secondesMais aujourd'hui, moi j'ai envie de te dire ces deux couches là et bien sont devenues un petit peu une commodité. Ça veut dire que maintenant on est alors effectivement il y a encore 6 mois en
+2:512 minutes et 51 secondesarrière ou 8 mois en arrière, il y avait une grosse différence quand tu utilisait chat GPT et Cloud ou ou Claude Code et Codex à l'époque. Je veux dire
+2:582 minutes et 58 secondesaujourd'hui effectivement en ce moment c'est Codex qui est un petit peu en avance. Dans 6 mois ben ça va peut-être revenir sur du cloud code. Après on aura peut-être Kimi, on aura peut-être ceci,
+3:063 minutes et 6 secondeson aura peut-être cela. Mais grosso modo, aujourd'hui, ça change pas énormément d'utiliser un certain type de modèle ou un un certain type d'arné.
+3:153 minutes et 15 secondesBien sûr, si tu utilises les ceux qui qu'on appelle les modèles frontières, c'estàd ceux qui sont le plus en avant actuellement. Et donc pour moi
+3:233 minutes et 23 secondesaujourd'hui, je pourrais comparer ça un petit peu parce que je vois que les développeurs nous on est très frayant de ces nouveautés, on est très friant du dernier modèle, du dernier truc et il y
+3:313 minutes et 31 secondesa beaucoup de faux mots, il y a beaucoup d'influenceurs aussi, youtubeurs et cetera qui vont te dire attention mais c'est le nouveau truc à la mode, c'est ceci, c'est cela, ça fait des vues, ça
+3:393 minutes et 39 secondesfait ventre des formations et cetera mais pour moi la valeur elle est pas là.
+3:433 minutes et 43 secondesC'est-à-dire que pour moi, c'est du même niveau aujourd'hui puisqu'on est tous à peu près sur des des choses à peu près équivalentes. C'est du même niveau que
+3:503 minutes et 50 secondesles développeurs à l'époque. Il disait "Mais non mais moi j'utilise pas Eclipse en Java, j'utilise Intellig ou j'utilise
+3:573 minutes et 57 secondesVS Code ou j'utilise Jet Brarain, c'est mieux, c'est machin, c'est ceci, c'est cela, ça me permet de développer plus vite." Non, finalement c'est qu'un outil
+4:054 minutes et 5 secondesqui te permet de développer. Donc la valeur, elle est pas forcément sur toute cette hype que tu vois toutes les 5 minutes là sur les réseaux. chaque mois,
+4:124 minutes et 12 secondesil y a un nouveau modèle et cetera. La valeur justement, elle est au-dessus et c'est ce que je vais te présenter. Elle est dans les méthodes. Alors maintenant,
+4:204 minutes et 20 secondesje vais pouvoir te montrer mon nouvel outil révolutionnaire qui a des benchs vraiment en avance sur d'autres auquels tu vas devoir utiliser immédiatement,
+4:294 minutes et 29 secondesvoir te former via mes formations sur codec, sur ceci, sur cela. Non, je rigole. Justement, il y en a pas.
+Chapitre 4 : La valeur est dans la méthode
+4:354 minutes et 35 secondesC'était une blague, tu es tombé dans le panneau peut-être du faux mot comme beaucoup de personnes veulent te faire sur X, sur Twitter, sur YouTube et cetera. On veut te vendre du faux moto.
+4:434 minutes et 43 secondesPourquoi ? Parce que derrière et bien ça fait vendre, ça fait du clic, ça fait des vues et puis ça peut te faire acheter peut-être la dernière formation Cloud quand c'était la mode ou Cursor
+4:514 minutes et 51 secondesquand c'était la mode, peut-être Codex quand c'est la mode et cetera. Et donc beaucoup de développeurs aujourd'hui ou de personnes qui apprennent LIA et bien apprennent les mauvaises choses. Je suis
+5:005 minutesvraiment désolé de le dire, il y a une hype par rapport à ça, mais c'est comme en fait apprendre à utiliser à l'époque
+5:075 minutes et 7 secondesJet Brand ou Intellig ou ou VS Code et cetera. Bien sûr que c'est utile, bien sûr que c'est important, mais aujourd'hui c'est une commodité. Je veux
+5:155 minutes et 15 secondesdire quand tu es développeur que tu utilises Elipse ou que tu utilises un autre, bon euh que tu utilises VS Code ou autre chose, l'outil qui est le meilleur et bien c'est l'outil en fait
+5:245 minutes et 24 secondesque tu maîtrises tout simplement. Et donc toute cette hype là aujourd'hui ne fait pas une grosse différence. La dernière fois j'étais avec des développeurs à Bali he il y en a un qui
+5:325 minutes et 32 secondesme dit non mais moi le meilleur c'est ceci, le meilleur c'est cela. OK, why not ? C'est vrai qu'il y en a un qui en ce moment c'est codex. Bon voilà, mais derrière et bien pour toi en tant que
+5:415 minutes et 41 secondesdéveloppeur et bien ça va pas changer grand-chose. Donc te forme pas sur les mauvaises chose. Aujourd'hui, il y a pas besoin de formation codex, il y a pas
+5:505 minutes et 50 secondesbesoin de formation cloud code. Tout est disponible sur un sur sur le net. Tu vas le dire la documentation où tu demandes au LLM, il va t'expliquer. En fait, les
+5:585 minutes et 58 secondespersonnes qui courent derrière ça, ils courent derrière du faux mot, derrière l'objet brillant et derrière en fait, ils ont tout le temps, je sais pas si tu as senti cette sensation, d'être tout le
+6:066 minutes et 6 secondestemps à la train. Pourquoi ? parce qu'il y a sans cesse un nouveau modèle, sans cesse un nouvel outil et toi tu vas tu as peur d'être en retard et en fait tu
+6:136 minutes et 13 secondesapprends des choses qui en fait chaque année chaque année même pas chaque mois va être déjà périmé. Ça sert à rien de se former à Claude Code, ça sert à rien
+6:216 minutes et 21 secondesde se former à Codex, ça sert à rien de se former à tel outil puisque de toute façon dans 6 mois, ils ne vaudront plus rien. Il y aura un nouveau modèle, il y
+6:286 minutes et 28 secondesaura un nouvel outil, nouvel un nouveau harné, une nouvelle manière de développer et donc ça ne sert à rien.
+Chapitre 5 : Killer SaaS : 5 étapes de cadrage, 6 répétées
+6:336 minutes et 33 secondesPar contre, il y a des fondamentaux qui ne changent pas et donc je pense que ça c'est le plus important. C'est sur dois en fait te former. Je te donne un
+6:416 minutes et 41 secondesexemple. Tu sais, si tu codes avec Codex ou Claude Code et cetera, tu as peut-être déjà senti cette sensation de tu avances, tu fais des choses, tu fais des trucs, donc tu tu maîtrises un petit
+6:496 minutes et 49 secondespeu l'outil. Mais au bout de 1 mois, 2 mois, 3 mois, 4 mois, 6 mois, qu'est-ce que tu en retires de ça ? T'en retir que tu sais maîtriser que l'autre code.
+6:566 minutes et 56 secondesOuais, OK, mais aujourd'hui c'est codex, donc quoi ? Tu jettes toutes tes compétences à la poubelle ? Donc ça, ça ne sert à rien. Je reviens là-dessus. Le
+7:037 minutes et 3 secondesplus important, tu dois te maîtriser. Tu dois apprendre à maîtriser des méthodes agentiques. Alors, les méthodes agentiques, c'est quoi ? Je vais te donner un exemple. Je t'en ai déjà parlé
+7:117 minutes et 11 secondesdans pas mal de vidéos. Ma méthode Killer sas donc qui te permet de remplacer comme ça des sasses hyper quali comme ça qui te permettent de de
+7:197 minutes et 19 secondesde faire ça hyper rapidement avec un niveau de qualité assez exceptionnel. Ça c'est une méthode mais çaen est qu'une parmi tant d'autres. Moi c'est ma
+7:267 minutes et 26 secondesméthode propriétaire que d'ailleurs est disponible. Tu peux l'utiliser si tu as un besoin particulier de remplacer un sas parce que tu es en mode bah voilà j'ai envie de faire un sas boum je prends cette méthode et je fais un sas.
+7:367 minutes et 36 secondesMais c'est une méthode parmi tant d'autres. Il faut apprendre aujourd'hui à créer des méthodes, à appliquer des méthodes, à développer des méthodes qui
+7:447 minutes et 44 secondessont calées sur un besoin, sur un business. Il y a donc je te disais ici, il y a une méthode pour pas créer un sas, tu as des méthodes aussi pour du legacy. C'està-dire que tu as des boîtes
+7:537 minutes et 53 secondesaujourd'hui qui ont plein de codes legacy et qui ont envie de passer à l'agentique, bah comment tu fais ? C'est pas la méthode qui leur sas qui va t'aider, même s'il y a des basiques dedans qui vont t'aider. Bon voilà,
+8:018 minutes et 1 secondepareil si tu fais un nouveau produit, donc méthode Greenfield, si tu as si tu es en mode organisation entreprise pour gérer un petit peu les responsabilités,
+8:088 minutes et 8 secondesla conformité et cetera, c'est encore d'autres méthodes. Et c'est là où c'est important de se dire aujourd'hui soit tu
+8:148 minutes et 14 secondeste formes aux fondamentaux du code et et là bah je t'invite à aller, je te mettrai le lien dans la description, j'ai des toutes mes formations sur Next,
+8:228 minutes et 22 secondesReac et cetera. C'est gratuit, prends-les, forme-toi et cetera. C'est des fondamentaux de code. Même si aujourd'hui il y a code mieux que toi et codera mieux que toi. Comprendre ces fondamentaux, c'est important.
+8:328 minutes et 32 secondesComprendre aussi un petit peu les méthodologies, comment tu peux faire fonctionner des agents il a entre eux.
+8:398 minutes et 39 secondesÇa a plus de valeur que connaître le dernier harné modèle et cetera à la mode. Donc c'est vraiment important.
+8:478 minutes et 47 secondesForme-toi à ça. Et pour te former à ça et bien tu peux simplement utiliser ma méthode que je t'ai je te remettrai dans la description mais il y en a plein. Il y en a plein qui sont open source. Tu as
+8:548 minutes et 54 secondesBmad tu en as d'autres. Mais ça c'est des méthodes que une personne a conçu.
+8:598 minutes et 59 secondesPour moi, c'est intéressant. Mais pour moi, le plus important c'est de savoir cadrer, poser ses propres méthodes.
+9:069 minutes et 6 secondesAlors, on dérive tous d'une méthode de classique, de recherche, plan exécute.
+9:099 minutes et 9 secondesC'est à peu près les mêmes trucs, mais derrière ça doit s'adapter à chaque besoin. Donc n'hésite pas, créer ta méthode, récupèreen une sur le net,
+9:179 minutes et 17 secondesprends la mienne, peu importe, comprends comment ça fonctionne. Et derrière et bien la vraie valeur, c'est que c'est d'être capable de poser tes propres
+9:259 minutes et 25 secondesméthodes agentiques à toi. Il y en a qui sont standard, autant les récupérer.
+9:299 minutes et 29 secondesMais parfois dans des boîtes, il y a des besoins custom. Il faut pas être figé en disant "Bah moi, j'utilise BMAD." Voilà.
+9:369 minutes et 36 secondesNon, BMAT c'est un bon euh démarrage.
+9:389 minutes et 38 secondesBon ben voilà, moi je suis dans telle boîte, il y a telle chose, OK, on est organisé comme ça et bien on va construire nos propres méthodes
+9:459 minutes et 45 secondesagentiques. Et aujourd'hui, c'est sur ça qui est la valeur. Et moi, je vois les gens sur internet, le faux mot qu'il y a autour de ça, et bien effectivement euh
+9:549 minutes et 54 secondesça ça fait des vues, ça fait des clics et surtout toi si tu es développeur et bien tu en retires pas grand-chose. Oui, tu sais utiliser Codex, tu es capable de dire en entreprise "Ah non, c'est plus
+Chapitre 6 : Construire un système portable
+10:0210 minutes et 2 secondescode qui a la mode, c'est Codex." Bon, bravo, très bien. Mais derrière, ça sert absolument à rien. Alors, les compétences durables, c'est de savoir
+10:1010 minutes et 10 secondesconcevoir le travail comme je te disais un petit peu avant et de savoir contrôler des résultats. Et bien sûr, avec les agents aujourd'hui, on peut faire énormément de choses. Donc, faut
+10:1810 minutes et 18 secondesque tu apprennes en fait au minimum les phases de conception et de garantie.
+10:2410 minutes et 24 secondesC'est le minimum, j'ai envie de dire, qu'il faut comprendre. Et dans la phase de conception, c'est un peu les objectifs, le cadrage, la décomposition, les artefacts et cetera. et garantir et
+10:3210 minutes et 32 secondesben en gros c'est les rôles, les portes, les feedback et cetera. Et dans ma méthode alors je sais plus si tu avais montré ici ma méthode Killer SAS, c'est une méthode moi qui me convient parce que c'est la plus adaptée à mes besoins.
+10:4110 minutes et 41 secondesMais peut-être encore une fois que dans ton cas c'est pas tu il faut l'adapter et dans mon cas, moi je te la refais rapidement. J'ai une première phase de
+10:4910 minutes et 49 secondescadrage ici qui permet de faire un PRD, des stories, des revues, une architecture et un design système parce que pour moi c'est à chaque fois que tu tu as besoin de faire un SAS, tu as
+10:5610 minutes et 56 secondesbesoin d'avoir une architecture, des user story, un design système carré.
+10:5910 minutes et 59 secondesSinon bah ça sert à rien d'avancer et développer les choses. Mais une fois que tu as cette phase-là et bien c'est carré. Tu laisses en fait itérer tes
+11:0711 minutes et 7 secondesagents euh dessus et ils vont en fait euh tu peux faire tourner 15 20 agents en parallèle qui vont traiter je sais pas combien de user story. Je te renvoie
+11:1511 minutes et 15 secondesbien sûr vers ma vidéo qui parlait de ça. Tu la retrouveras en gros sur la chaîne. Et ça en fait ça a plus de
+11:2311 minutes et 23 secondesvaleur que en fait les harné le modèle blab blabla. Ça c'est un truc de développeur à l'ancienne qui euh en fait
+11:3111 minutes et 31 secondespilote un petit peu l'IA et qui se rend compte qu'en fait effectivement euh Codex c'est un peu mieux en ce moment.
+11:3711 minutes et 37 secondesDerrière en dessous donc ça tu as la méthode et qui organise ces méthodes ?
+11:4011 minutes et 40 secondesMoi ma méthode elle est elle est elle est elle est agnostique. Ça veut dire que je vois des gens qui construisent des méthodes et j'en ai déjà parlé avec d'autres développeurs, des gens qui sont assez connus même sur LinkedIn qui ont
+11:4911 minutes et 49 secondesleur propre méthode AI machin truc je veux pas citer de nom truc mais que c'est des méthodes propriétaires. C'est des méthodes basées sur cloud c'est des méthodes basées sur un truc. Et je dis
+11:5611 minutes et 56 secondesmais pourquoi tu fais pas du de l'agnostique ? C'est mieux de faire de l'agnostiqu. Alors maintenant ils font de l'agnostique ces gens-là. Mais avoir une méthode indépendante en fait du
+12:0512 minutes et 5 secondessous-jacent qui est le LLM et le harnet, c'est aujourd'hui en gros la base. Et du coup une fois que moi par exemple cette méthode là, je la fais tourner dans ce
+12:1312 minutes et 13 secondesdans ce que je veux et la valeur elle est là plus que dans Ah oui alors dans codex faut faire la commande/ash machin permission pour pour faire je sais pas
+Chapitre 7 : Changer de modèle ou de harness sans repartir de zéro
+12:2112 minutes et 21 secondesje sais pas quel truc. Et donc en fait faut que tu apprennes à te former et à développer aussi si tu es en entreprise à développer des systèmes entre
+12:2912 minutes et 29 secondesguillemets portables agnostique. Je te donne un exemple ici par exemple moi régulièrement je veux dire je ce que je fais en fait pour rester un petit peu à jour c'est que j'ai tout le temps un
+12:3712 minutes et 37 secondesabonnement à 200 dollars et un abonnement à 100 dollars. Donc je dépense en moyen 300 dollars de crédit de crédit. Il y a plus des petits trucs
+12:4512 minutes et 45 secondesà côté. J'ai à chaque fois 200 dollars de cloud et 100 dollars de codex. Là en ce moment, je suis sur 200 dollars de codex parce qu'en ce moment, je suis à
+12:5212 minutes et 52 secondesfond sur codex et 100 dollars de cloud, c'est pas grave. Et en fait, ça permet régulièrement de switcher pour avoir des fondamentaux. C'est comme si tu te dis
+13:0013 minutes"Bon bah en ce moment, j'utilise VS Code et euh le mois prochain pour rester un petit peu à jour, je vais utiliser Vim ou je vais utiliser euh Intellig, Jen
+13:0813 minutes et 8 secondesBrain, machin tous ces trucs là." Donc en fait moi ce que je fais, je switch les fondamentaux demain, il y a un nouveau modèle qui arrive, il y a un nouveau harness à la mode machin tout
+13:1613 minutes et 16 secondesça. Bon bah vas-y, je le teste, je machin, je teste le modèle, je teste le harnet, il est bien, il est sympa, il est efficace. Bon, bravo. Mais au-dessus, en fait ma valeur ici, ce que
+13:2413 minutes et 24 secondesj'apprends, ce que je mets en avant, sur quoi je me forme, sur quoi je forme des entreprises, sur quoi je forme peut-être des gens, et bien c'est des méthodes qui
+13:3313 minutes et 33 secondestiennent, c'est des fondamentaux qui tiennent au fur et à mesure du temps.
+13:3713 minutes et 37 secondesC'est comme aujourd'hui, les développeurs qui ont des fondamentaux en fait en architecture, en gestion de projets et cetera. ces fondamentaux
+13:4513 minutes et 45 secondesaujourd'hui et bien ils sont facilement, j'ai envie de dire transposables avec des agents I et ces fondamentaux ils se perdent pas en fait c'est des choses que
+13:5413 minutes et 54 secondesil a ou pas il y a et bien en fait tu les gardes et tu te formes avec. À l'inverse toutes ces chosesl faux mot où on te vend des formations bidon pour
+14:0214 minutes et 2 secondesapprendre je sais pas quel truc. Alors je sais pas, j'ai pas vu ce qui tournait mais j'imagine dès qu'il y a des hypes, tout le monde vend des formations bidon par rapport à ça. Mais les gens en fait
+Chapitre 8 : Les outils tournent, le système reste
+14:1014 minutes et 10 secondesc'est mais c'est OK de se former en fait. J'ai aucun souci. Formez-vous les gars, amusez-vous. Formez-vous. Encore une fois, je veux pas taper sur les vendeurs de formation. Moi, je ne vends plus de formation. Mes formations sont toutes gratuites. Allez les récupérer.
+14:2114 minutes et 21 secondesVous allez kiffer. Énormément de valeur.
+14:2214 minutes et 22 secondesSi vous avez le courage de suivre plus de 500 vidéos sur du Next, du React, du TypeScript pour se former en freelance et cetera, faites-le. Maintenant,
+14:3014 minutes et 30 secondesaujourd'hui, il y a plus trop de monde qui est motivé à faire ça, faites-le.
+14:3314 minutes et 33 secondesMais ça, c'est des formations où il y a des vrais fondamentaux. Les ce genre de trucs là, vous allez apprendre des choses périmables dans 6 mois et dans 6 mois, on va vous revendre une nouvelle
+14:4114 minutes et 41 secondeshype, un nouveau FOMO, un nouveau pack, un nouveau truc. et c'est vraiment du bullshit. Donc moi je vous dis les gars, j'ai rien à vous vendre mais formez-vous
+14:4914 minutes et 49 secondessur ce qu'il y a au-dessus des des méthodes. Formez-vous sur de l'agnostic, soyez indépendant des tendances, soyez
+14:5814 minutes et 58 secondesindépendants des LLM. Soyez indépendants euh des couches basses, j'ai envie de dire. Soyez indépendant de Hermes, de
+15:0515 minutes et 5 secondesOpen Clow, hein. Imagine, tu as tout misé sur Open Clow. Aujourd'hui, c'est c'est Hermess et tu es tu es bloqué, ça ne sert à rien. Et ben, c'est pareil.
+15:1315 minutes et 13 secondesSoyez indépendants, monter d'un niveau ce qui a de la valeur, ce qui ce qu'il y a au-dessus. Donc si tu es développeur aujourd'hui, que ça soit avec l'autre code, ça soit avec Codex et que tu sais
+15:2015 minutes et 20 secondespas, tu codes mais voilà si c'est pas trop ce que tu fais, ça part un peu dans tous les sens, et bien essaie de te construire une méthode, même si c'est la
+15:2815 minutes et 28 secondestienne, même si elle est simple, même si elle est pas évoluée, mais essaie de cadrer au-dessus et pas te laisser avoir
+15:3515 minutes et 35 secondesavec tout ce faux mot et cetera. Bref, tu vas aller plus loin. Je te remets ici la vidéo sur la différence entre le vibe coding et le développement agentique.
+15:4415 minutes et 44 secondesAlors, c'est une masterclass d'une heure où vraiment on va rentrer en fond au fond du sujet. Si tu es intéressé, je t'invite à aller la voir. C'est celle-ci.
+
+Tout
+
+Source : Mike Codeur
+
+Programmation informatique
+
+Présentations
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+1:05:14
+NVIDIA lance son propre processeur ? - Mémoire Vive #20
+Mémoire Vive et 2 autre(s)
+18 k
+il y a 4 m.
+
+
+13:05
+Comment développer (enfin) ses TRAPEZES
+Nassim Sahili
+328 k
+il y a 2 a
+
+
+6:55
+NASA makes a BIG BET as US-China quantum race heats up
+Fox Business Clips
+9,5 k
+il y a 21 h
+Nouveau
+
+
+22:55
+RAM : Arrêtez de vous RUINER !! ➡️ 16GB vs 32GB - DDR4 vs DDR5
+GUILLAUME++
+63 k
+il y a 6 m.
+
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+430 k
+il y a 1 m.
+
+
+34:54
+On achète un PC GAMER PAS CHER à ISTANBUL !
+FrenchHardware
+200 k
+il y a 1 m.
+
+
+25:30
+Comment on vous manipule pour acheter un PC ?
+Kang et ses PC
+184 k
+il y a 1 a
+
+
+33:05
+J’ai acheté les PIRES CONTREFAÇONS sur TEMU !
+CYRILstudio
+453 k
+il y a 19 h
+Nouveau
+
+
+22:51
+ACHETER UN PC GAMING 5 ÉTOILES TEMU…
+FrenchHardware
+415 k
+il y a 3 m.
+
+
+20:21
+6 ÉTAPES CLÉS pour réussir (enfin) à sentir son DOS
+Nassim Sahili
+421 k
+il y a 3 a
+
+
+24:38
+L’arnaque de la STEAM MACHINE !
+FrenchHardware
+325 k
+il y a 3 sem.
+
+
+33:36
+You need to switch to Linux RIGHT NOW!!
+NetworkChuck
+1,1 M
+il y a 6 j
+Nouveau
+
+
+18:12
+On teste les MEILLEURS restaurants de OSAKA (les pâtes mais mon dieu !)
+Tev & Louis
+427 k
+il y a 6 m.
+
+
+38:30
+Ce que vous ne savez pas sur Coca-Cola, le Foie Gras et les Antibiotiques
+Votre Santé - Votre Alimentation
+861 k
+il y a 5 m.
+
+
+1:28:59
+Expert testosterone : la vérité sur le Dad Bod et l'attirance des femmes !
+The Diary Of A CEO
+ et Darby Saxbe
+552 k
+il y a 4 j
+Nouveau
+Doublée
+
+13:30
+Comment avoir des GROS BRAS ? (le Guide ULTIME)
+Kilian Hagen
+9,3 k
+il y a 19 h
+Nouveau
+
+11:38
+EXERCICES DOS : du MEILLEUR au PIRE (classement)
+Nassim Sahili
+1,3 M
+il y a 3 a
+
+EN DIRECT
+On pleure Hugging Face pendant que les USA et la Chine nous donnent des leçons + Nouveautés Claude
+Renaud Dékode
+232 spectateurs
+
+1:05:09
+Comment MONTER son PC GAMER en 2026
+FrenchHardware
+293 k
+il y a 5 m.
+
+16:21
+Quel PROCESSEUR choisir pour son PC GAMER ?
+GUILLAUME
+35 k
+il y a 3 m.
+
+    
