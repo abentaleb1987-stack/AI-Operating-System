@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 95de9a7
+- Commit audite : aa8e855
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-08-29 07:08:33
+- Rapport genere le : 2026-08-29 13:22:32
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,9 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `aa8e855` - 2026-08-29 07:08:33 +0000 - Audit - docs(aos): add daily audit report
 - `95de9a7` - 2026-08-28 19:35:57 +0000 - Audit - docs(aos): add daily audit report
 - `041a200` - 2026-08-28 16:53:10 +0200 - Knowledge batch - docs(aos): process video source batch
-- `41de4a2` - 2026-08-28 11:29:15 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -45,13 +45,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `aa8e855` - 2026-08-29 07:08:33 +0000 - docs(aos): add daily audit report
 - `95de9a7` - 2026-08-28 19:35:57 +0000 - docs(aos): add daily audit report
-- `41de4a2` - 2026-08-28 11:29:15 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `aa8e855` - 2026-08-29 07:08:33 +0000 - Audit - docs(aos): add daily audit report
 - `95de9a7` - 2026-08-28 19:35:57 +0000 - Audit - docs(aos): add daily audit report
-- `41de4a2` - 2026-08-28 11:29:15 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -66,7 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-08-28_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-08-29_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_parlons-ia_architecture-agentique-automatisation-travail_transcript.txt
 - A 02_IA/Agents IA/veille/2026-08-28_youtube_mike-codeur_methodes-agentiques-portables.md
