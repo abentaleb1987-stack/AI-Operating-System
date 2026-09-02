@@ -1,0 +1,857 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Fable 5.1 change tout dans Claude Code (Test Complet)
+Meydeey | Automatisation IA
+Meydeey | Automatisation IA
+32,1 k abonnés
+
+
+147
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+1 sept. 2026  FRANCE
+💎 Automatise ton expertise en systèmes IA rentables :
+https://meydeey.com/go/v065d
+
+🔥 Rejoins la communauté gratuite (+4800 humains) :
+https://meydeey.com/communaute
+
+───
+
+Fable 5.1 vient de sortir et il enterre Opus 5 sur mon propre code. Je le mets dans Claude Code, je construis une application complète en direct et je compare les benchmarks. Coût réel, verdict sans filtre.
+
+───
+
+▸ CHAPITRES
+
+0:00 Ce que Fable 5.1 va coder
+2:09 Fable 5.1 écrase Opus 5
+5:52 Le PRD que je lui balance
+7:32 La config dans Claude Code
+9:21 L'audit du projet existant
+13:03 Ce qu'il trouve dans mon code
+16:15 Codebase géante en one-shot
+17:35 Il teste ses écrans tout seul
+19:02 Le flag surprise
+20:13 L'app complète en direct
+22:49 Mon verdict
+
+───
+
+▸ ME RETROUVER
+→ LinkedIn :   / medhi-el-ouardouni  
+→ Instagram :   / meydeeyai  
+→ Contact : contact@meydeey.com
+
+───
+
+#anthropic 
+#claudecode 
+#ia
+Meydeey teste en direct les capacités du nouveau modèle Claude Fable 5.1 pour concevoir une application de gestion commerciale de A à Z. À travers cette démonstration technique, le projet explore l'intégration de la charte graphique, la sécurisation des données et l'audit automatisé d'une base de code existante.
+Résumé
+
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Meydeey | Automatisation IA
+32,1 k abonnés
+Vidéos
+À propos
+Claude Code : guides, workflows et agents
+32
+Claude Code : guides, workflows et agents
+de Meydeey | Automatisation IA
+48 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @meydeey
+@meydeey
+il y a 11 heures
+Ton business repose encore trop sur toi ?
+Vois ce qu’on peut automatiser : https://meydeey.com/go/v065p
+
+
+
+Répondre
+
+
+@VexAIM.
+il y a 9 heures
+Merci de faire une vidéo sur une app réelle et pas un vieux jeu 2D et le tout upload day 1 !
+
+4
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@nicolasr.5870
+il y a 11 heures
+Merci de nous proposer du contenu toujours ultra à jour et vraiment "cutting edge"
+
+3
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@MedBusiness-52
+il y a 6 heures
+Merci pour ta constance, tu gère grave ️
+Ça aurais été vraiment super cool (et je pense que beaucoup attendent ça) de faire une video sur ton workfow de miniature YouTube avec L'IA 
+
+
+
+
+Répondre
+
+Meydeey | Automatisation IA
+·
+
+1 réponse
+
+@david3042
+il y a 9 heures
+Ça serait bien une vidéo comme avec tt les autres modèles, avec la batterie de test.
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@rolandmantama
+il y a 10 heures
+Merci beaucoup pour un test à chaud, moi je vais tester après, je voulais voir ce que tu vas d'abord présenter et là ça me donne confiance
+
+1
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@sebambrosi
+il y a 8 heures
+Lourd!!
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@pablohassan4
+il y a 9 heures
+Bj pour la vidéo rapide 
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@YoutoonSharingIsCaring
+il y a 10 heures (modifié)
+Jai toujours pas pris un abonnement claude  du coup je suis à la rue. Team openai, Cline, les chinois qui deboitent... mais là cette démonstration est d'une violence inouïe.
+
+
+
+
+Répondre
+
+
+@d.boubekeur5630
+il y a 5 heures
+Merci !
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@BL_Pac
+il y a 10 heures
+Merci pour la vidéo ! Tu es en feu ces temps ci haha
+
+Je me demandais pourquoi tu n'as pas utilisé le modèle à l'effort max? 
+Est-ce que ça t'arrive de l'utiliser?
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@samyatmanebensaadi6115
+il y a 11 heures
+Machinale, t'as sortit la vidéo avant la sortie de Fable 5.1 ou quoi?
+
+2
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@tigerclaw5001
+il y a 7 heures
+Top top
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@phb_fr
+il y a 5 heures
+Merci pour ta passe Show of Force sur F5.1 ça nous a permis de le découvrir. 
+Bonne journée de la part de Phil le boomer de 53 ans. 🫶
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@Azélie-Santé
+il y a 10 heures
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@usenet1899
+il y a 11 heures
+Moi il bosse à fond des qu il est sorti avant la remise à jour de la consommation hebdomadaire à minuit mercredi donc il tourne de ouf partout dans tout mes coffres
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@VITALITÉPREMIUM
+il y a 7 heures
+nuit blanche 
+acceo aux mise a jour
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@louloup4246
+il y a 10 heures
+Merci à  open ia anthropic et les chinois de se tirer la bourre à chaque fois . 
+Si ça avait été le cas pour les moteurs de recherche , les reseaux sociaux , le niveau aurait ete bien plus intéressant.  
+
+Maintenant la question combien d années ou de mois pour faire un reseau social digne de ce nom . À la maison
+
+
+
+
+Répondre
+
+
+@TomNowak-t4j
+il y a 6 heures
+Tu as l'app Claude, pourquoi tu le fais dans la fenêtre CMD plutôt que directement dans l'app Claude ?
+
+
+
+
+Répondre
+
+·
+
+2 réponses
+
+@LeMarcheurAmbulant
+il y a 8 heures
+Attention Astra arrive bientôt
+
+
+
+
+Répondre
+
+·
+
+1 réponse
+    
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Ce que Fable 5.1 va coder
+0:000 secondeEh bien ça y est, nouveau modèle chez Anthropic et il s'appelle Fable 5.1.
+0:055 secondesIl vient tout juste de sortir il y a quelques minutes, le 1er septembre 2026, et je clique en direct avec toi sur la page.
+0:1212 secondesUn joli oiseau va apparaître dans exactement une seconde, le voici, et nous allons voir à quoi ça ressemble et on va créer une application avec de A à Z parce que j'ai préparé un PRD, donc c'est parti.
+0:2323 secondesClaude Fable 5.1 et Mythos 5.1, septembre 2026.
+0:2828 secondesNous lançons Claude Fable 5.1 et Claude Mythos 5.1, ce sont les modèles les plus avancés au monde pour le codage et le travail intellectuel,
+0:3434 secondeset leur capacité de recherche offre un aperçu préliminaire de la manière dont les modèles d'IA contribueront au progrès scientifique.
+0:4040 secondesDonc les deux modèles sont basés sur le même modèle mais offrent différents niveaux de protection.
+0:4444 secondesFable 5.1 est accessible à tous tandis que Mythos 5.1 est accessible uniquement via nos programmes d'accès sécurisés parce que lui c'est un malade mental.
+0:5252 secondesCes mesures de protection sont spécifiquement conçues pour les travaux de cybersécurité et en science de la vie.
+0:5757 secondesDonc le prix Fable 5.1 coûtera environ 25% de moins que Fable 5 pour les charges de travail classiques lorsque la facturation se fait au jeton.
+1:051 minute et 5 secondesCette réduction s'explique, bon ok ça c'est cool, personnellement je m'en fous, c'est la qualité du modèle. Les réductions ou pas il faut qu'il soit bon. Conservation des données.
+1:121 minute et 12 secondesNotre nouveau système entreprise frontière Safeguard garantit à nos clients une confidentialité totale équivalente à une politique de conservation zéro des données, tout en assurant une protection optimale contre toute utilisation malveillante.
+1:241 minute et 24 secondesCe système sera déployé progressivement auprès des entreprises, ok nickel. Mesures de sécurité.
+1:291 minute et 29 secondesNous avons amélioré nos mesures de sécurité afin de réduire les faux positifs lorsque le système signale un contenu inoffensif.
+1:361 minute et 36 secondesEn cybersécurité, nos nouvelles mesures de sécurité bloquent 60% de faux positifs en moins qu'auparavant, ça c'est cool.
+1:421 minute et 42 secondesCeci s'explique notamment par le fait que Fable 5.1 peut désormais être utilisé pour détecter les vulnérabilités logicielles sans toutefois permettre de développer des exploits, donc des failles.
+1:511 minute et 51 secondesEn biologie, nous avons mis en place un programme d'accès développé en partenariat avec le gouvernement américain afin de permettre l'accès aux fonctionnalités avancées de Cloud Mitos 5.1.
+1:591 minute et 59 secondesayant d'ouvrir prochainement les inscriptions aux scientifiques. Ok. Une nouvelle frontière de la performance.
+2:052 minutes et 5 secondesClaude Fable 5.1 établit une nouvelle norme en matière de programmation, de travail intellectuel et de résolution de problèmes complexes.
+Chapitre 2 : Fable 5.1 écrase Opus 5
+2:102 minutes et 10 secondesLes graphiques ci-dessous démontrent que Fable 5.1 offre des performances nettement supérieures à celles de son prédécesseur, Fable 5.
+2:172 minutes et 17 secondesDe plus, avec un effort faible ou moyen, Fable 5.1 obtient des résultats similaires, voire meilleurs à Fable 5, à un coût bien moindre.
+2:242 minutes et 24 secondesDonc là on peut voir directement la recherche scientifique agentique, donc ça ça m'intéresse pas trop mais on voit la différence, le vert Fable 5.1 et le bleu Fable 5.
+2:322 minutes et 32 secondesCodage terminal et agentique, c'est ça qui nous intéresse pour la plupart d'entre nous. Et là on voit que le score est meilleur pour moins de coûts.
+2:402 minutes et 40 secondesDonc plus on tend vers la droite, plus ça coûte, plus on tend vers le haut, plus le score est haut. Donc on a un score beaucoup plus haut pour moins cher.
+2:462 minutes et 46 secondesDonc précision entre coûts, ça c'est pour le raisonnement multidisciplinaire et codage agentiel, donc là super, encore moins cher pour un meilleur score et vraiment un meilleur score.
+2:572 minutes et 57 secondesDonc Fable 5.1 évite les raccourcis qui nuisent à la qualité du travail et est suffisamment intelligent pour corriger les causes profondes des logiciels, donc des problèmes logiciels.
+3:083 minutes et 8 secondesC'est ce qu'on va voir.
+3:093 minutes et 9 secondesDésolé j'ai presque plus de voix, c'est la quatrième vidéo que je tourne, j'ai pas le choix aujourd'hui là, ça vient de sortir. On va manger du Fable.
+3:153 minutes et 15 secondesPar exemple, lors de tests effectués par la société d'investissement Millenium, Fable 5.1 a identifié la cause d'un plantage rare sur leur système interne qu'aucun de leurs ingénieurs ni aucun autre modèle n'avait pu expliquer avec plusieurs années de recherche.
+3:283 minutes et 28 secondesExcellent.
+3:293 minutes et 29 secondesDonc là regardez, cette capture d'écran, consommer bien, recherche scientifique agentique 52 points, personne n'avait dépassé les 29 points, codage agentiel 55,8 points, personne
+3:393 minutes et 39 secondesn'avait dépassé les 52,3, travail du savoir 1853, personne n'avait dépassé les 1824,
+3:453 minutes et 45 secondesutilisation de l'ordinateur 77,9% en partiel et 41,7% en strict, bref on va pas tous les faire mais là il est bien meilleur qu'eux, du coup c'est pas n'importe quel modèle,
+3:543 minutes et 54 secondesc'est Fable 5, Opus 5 et GPT 5.6 seuls, Anthropic sont les seuls qui ne trichent pas lorsqu'ils mettent l'ordinateur.
+3:593 minutes et 59 secondesBenchmark. Donc ils n'affichent pas des modèles fatigués, les anciens modèles. Non, ils mettent vraiment les plus lourds sur le marché. Donc pareil, flux de travail et métier et codage agenciel au-dessus de la concurrence.
+4:094 minutes et 9 secondesBon, recherche scientifique, ça ne m'intéresse pas trop. Je pense que ce n'est pas l'objectif. C'est toujours intéressant, voilà, pour creuser un petit peu. Ça, je ne vais pas vous le faire subir, mais il faut aller creuser. Alors là, c'est quand même costaud.
+4:194 minutes et 19 secondesSûreté, sécurité, alignement. Est-ce que l'on va lire ça ? Il doit être tard chez vous là. Faire un résumé, c'est trop insultant. Il faut lire la page.
+4:264 minutes et 26 secondesBon, regardez. Risques chimiques et biologiques. Il y a des mots-clés qui sont intéressants quand même. Risques cybernétiques, sécurité des agents, alignement. On va juste lire les mots-clés. Je ne vous inviterai à faire pas ou à aller lire la page en vrai.
+4:364 minutes et 36 secondesMais sauf que moi, je veux le tester en fait. Je ne m'en fous, mais je le lirai en interne. Ce n'est pas excitant, ça. Bon, vous avez vu, il y a aussi des mécanismes d'antidistillation intéressants.
+4:464 minutes et 46 secondesAccès sécurisé pour Cloudmythos 5.1. Cloudmythos est identique à Fable 5.1.
+4:514 minutes et 51 secondesIl nous offre des mesures de protection plus permissives pour les personnes et les organisations autorisées dont les activités sont concernées par les restrictions relatives à la cybersécurité et aux sciences de la vie décrites ci-dessus.
+5:005 minutesIl nous faut un petit badge. Il faut un accord. Conformité à la loi européenne sur l'IA. Ah, là, c'est intéressant.
+5:055 minutes et 5 secondesEn juillet 2026, Anthropik ainsi que 190 autres signataires, j'ai lu stagiaires dans ma tête, c'était marrant, dont plusieurs autres grands fournisseurs du modèle d'IA, a signé le code de bonne pratique de la loi européenne de l'IA concernant la transparence du contenu généré par l'IA.
+5:185 minutes et 18 secondesCela nous a obligé d'ajouter un filigrane. Oui, classique. Une méthode numérique permettant de déterminer la probabilité que Cloud ait participé à la rédaction d'un texte au résultat des modèles publiés après le 2 août 2026.
+5:295 minutes et 29 secondesLa loi nous impose également de fournir aux utilisateurs un moyen de déterminer si un texte est susceptible de contenir filigrane ou non.
+5:375 minutes et 37 secondesNous déployons donc une API de détection en avant-première privée. Intéressant. Elle est actuellement accessible aux organisations éligibles, donc toutes les organisations scolaires de la partie éducation, vous êtes cuits.
+5:485 minutes et 48 secondesIl n'y aura aucune possibilité de tricher s'il y a des filigranes. Bon, n'allons pas plus loin. Voilà, et puis on a fait le tour de la page de vente, maintenant qu'est-ce qu'il nous reste à faire ?
+Chapitre 3 : Le PRD que je lui balance
+5:555 minutes et 55 secondesPrendre un PRD, le balancer, on va partir de A à Z, from scratch, avec Fabrice.
+5:595 minutes et 59 secondes5.1 Ok donc j'ai mon PRD, on va partir sur une application de prospection et de suivi de pistes commerciales pour un client fictif, Norvia, conseil en performance énergétique industrielle.
+6:166 minutes et 16 secondesDonc on a tout le PRD, toute la partie technique qu'on va lui donner à manger à Fable 5.1, et puis on va choisir aussi la charte graphique, parce qu'il a préparé trois chartes graphiques qu'on va choisir pour développer l'application.
+6:266 minutes et 26 secondesDonc la première c'est celle-ci, la deuxième elle est là, elle arrive, voici, celle-là elle est moche, et la troisième elle est dégueulasse.
+6:346 minutes et 34 secondesPartons sur la première, donc on va télécharger la charte graphique et on va du coup télécharger le PRD pour que je puisse lui envoyer tout ça à manger.
+6:406 minutes et 40 secondesRapidement avant de lui donner, du coup le problème c'est quoi, c'est que les pistes arrivent sur cinq canaux qui ne se parlent pas, je pense que vous avez tous un problème de génération, pas un problème mais des problèmes de génération de leads.
+6:486 minutes et 48 secondesAu début on a des leads qui arrivent dans Instagram, on a des leads qui arrivent par email, on a des leads en bouche à oreille, etc. Là on va créer une application pour gérer ça.
+6:566 minutes et 56 secondesDonc on va essayer de lire un petit peu pour comprendre, pour ne pas dire, ah tiens il y avait ça, non, on va essayer de comprendre.
+7:007 minutesD'abord le PRD, un CRM classique enregistre ce qui s'est passé, donc principe directeur, voilà il y aura un CRM, on va voir ce qu'il va nous faire des kanban, on a déjà le modèle de données qui a été préparé,
+7:107 minutes et 10 secondesrôle, SDR, closer, directeur commercial, marketing, on envoie du lourd, là il y a plusieurs rôles, donc ça va être cool.
+7:157 minutes et 15 secondesBrique numéro une, pipeline commercial, nouveau, contacté, qualifié, rendez-vous planifié, donc ça ça va être pour notre pipeline,
+7:227 minutes et 22 secondesnotre peut-être kanban, on va voir comment il va nous faire ça, garde-fou LinkedIn, inspection, bon ça me paraît vraiment bon, on a l'architecture aussi, il nous reste plus qu'à télécharger le PRD, on va dans cloud code,
+Chapitre 4 : La config dans Claude Code
+7:327 minutes et 32 secondesalors je vais zoomer pour ceux qui auraient plus de 55 ans, la dernière fois c'était 50, maintenant c'est 55, on va cliquer sur modèle, on va partir sur faible, on voit bien 5 points présents ici, voilà le voici,
+7:427 minutes et 42 secondesdonc on va se préparer, PRD 2 points, on fait glisser le PRD, le PRD en markdown,
+7:477 minutes et 47 secondesvoilà, ensuite on va envoyer directement la charte graphique, charte graphique 2 points, on fait partir du coup le html, est-ce que je mets un ultra think ? Non, on va rester basico et puis c'est parti, j'envoie ça avec Fabrice.
+7:597 minutes et 59 secondes5.1 from scratch, notre dépôt est complètement vide, tu vois le projet il n'y a rien qui est développé dedans, donc on part de zéro.
+8:058 minutes et 5 secondesAlors bien sûr, le plus important ça va être de le tester sur des applications déjà existantes pour qu'il trouve des failles de sécurité, pour qu'il solidifie, pour qu'il répare des problèmes, parce que sur la page de vente on a vu qu'il allait être meilleur et qu'il
+8:168 minutes et 16 secondesallait trouver des problèmes que Opus 5 et que tous les autres modèles du monde ne pouvaient pas trouver ou galérer à trouver ou n'y arrivaient pas tout simplement. Donc maintenant, assez parlé,
+8:248 minutes et 24 secondeslaissons le travailler et on attend jusqu'à la fin pour pouvoir voir à quoi ça va ressembler ce qu'il nous a fait. Donc il est actuellement 15h46
+8:328 minutes et 32 secondesquand j'ai lancé le prompt, voilà 15h46 et puis nous allons voir combien de temps il va prendre, est-ce qu'il est plus rapide comme c'était annoncé sur la page de vente que Fable 5
+8:408 minutes et 40 secondesnormal, à savoir que je sais que vous êtes beaucoup à utiliser Opus 5 pour ceux qui sont pro cloud en ce moment, même ceux qui sont agnostiques, et moi aussi j'ai polarisé sur le 5, Opus 5, on va voir si le Fable 5.1 va vraiment tenir ses promesses.
+8:538 minutes et 53 secondesDonc bien sûr, il nous dit que le dossier est vide, le PRD il a été lu entièrement, il va faire tourner Docker pour
+8:598 minutes et 59 secondespouvoir développer tout ça en local tranquillement sur ma propre machine. Là il a fait un dossier Superbase, alors en fait je ne l'ai pas
+9:069 minutes et 6 secondesmodifié ce qu'il m'avait sorti, donc il m'avait inclus Superbase, j'aurais dû lui dire je veux des données uniquement en local,
+9:129 minutes et 12 secondespourquoi pas en SQL, mais bon c'est pas grave, laissons le faire, à savoir que celui qui a préparé le PRD était Opus 5. Bon je vais pas vous laisser sur votre fin, je suis allé sur
+Chapitre 5 : L'audit du projet existant
+9:219 minutes et 21 secondesle projet où je teste les modèles, donc c'est une application que j'ai développée entière, qui est vraiment costaud, regardez le nombre de dossiers,
+9:279 minutes et 27 secondesje vais tout simplement faire auditer Codebase, donc j'ai un skill d'audit, alors je vais même faire réhabiliter, voilà, réhabiliter projet, et je vais l'envoyer avec du Fable 5.1 pour la première fois dans cette Codebase,
+9:379 minutes et 37 secondespour qu'il puisse éventuellement voir est-ce qu'il y a du code mort, est-ce qu'il faut supprimer des choses, est-ce qu'il y a des éléments qui ne servent à rien, des fonctions inutiles, laissons le travailler, on verra ce qu'il va pouvoir nous faire, c'est ce que j'appelle l'amélioration incrémentale.
+9:489 minutes et 48 secondesOn pousse tous les modèles, donc les derniers modèles les plus puissants, à leur plafond de verre, et on a un skill, ou on a une commande, ou on a appelé le com' vous voulez, qui sert à faire une analyse dès que les modèles sont beaucoup plus intéressants.
+9:599 minutes et 59 secondesC'est du plus simple, c'est ce que je disais dans plusieurs de mes vidéos et là ça fait plaisir de vous le montrer en direct.
+10:0610 minutes et 6 secondesDu côté de notre application, alors là ça avance quand même vite, il travaille vite. Là il a scaffold tous les dossiers, il a tout préparé, il a analysé la structure.
+10:1410 minutes et 14 secondesVous avez vu, il est quand même allé vite, ça fait peut-être 5 minutes que j'attends. Bon, le temps qu'il prépare ça, qu'il analyse un petit peu la stack Supabase et puis qu'il travaille.
+10:2210 minutes et 22 secondesDonc c'est parti, il va lui rester plus qu'à coder. A mon avis, j'espère qu'il va pas être trop long non plus, parce que Fable 5 c'est pas le plus rapide on va dire.
+10:2910 minutes et 29 secondesComme ça, ça nous permettra de voir modifications sur l'existant, qu'est-ce que ça donne et aussi applications from scratch. Ce que je vous fais, c'est de l'exclu mondial.
+10:3710 minutes et 37 secondesJe pense qu'il y a personne qui a directement développé une application avec Fable 5 à peine 3 minutes après sa sortie. Et qui vous sort une vidéo le jour même de sa sortie. Bon, ça va, ça va un peu.
+10:4510 minutes et 45 secondesAllez, allez, on va se jeter un peu des fleurs là. Bon, pour l'instant, je vous assure qu'il est pas en train de jouer dans un bac à sable.
+10:5110 minutes et 51 secondesUn bac à sable, il est vraiment en train de préparer une vraie structure avec Playwright. Pour pouvoir faire des captures d'écran et pour pouvoir vraiment travailler et auditer son projet.
+11:0011 minutesLà, il est vraiment en train de créer une vraie structure. C'est pas un petit projet. D'habitude, il prépare pas une stack locale comme ça. Enfin là, il prend du temps. Avec Playwright, Chromium.
+11:0711 minutes et 7 secondesEt du coup, il est sorti de la sandbox. Il est très minutieux sur le démarrage. Et de l'autre côté, sur le projet déjà existant. Voilà, il fait une réhabilitation.
+11:1511 minutes et 15 secondesIl a trouvé deux écarts. Voilà, un écart de corpus. J'espère que le Mac ne va pas exploser. Parce que je vous assure, avec ce qu'il tourne, c'est un délire. Bon, sur le projet Protocol 360, je vais tout simplement lui dire.
+11:2411 minutes et 24 secondesUne fois que tu auras terminé, après mon arbitrage, prépare un fichier PDF de rapport avant-après. Voilà, c'est tout. Comme ça, au moins, il va inclure ça.
+11:3111 minutes et 31 secondesVoilà, on vérifie qu'il n'y a pas de fautes. On est nickel. Du côté du projet de Lead Generation, c'est hyper long. Il est en train d'installer Chromium là.
+11:3911 minutes et 39 secondesIl prend du temps. Franchement, il est en train de perdre du temps. Bon, je vais pas le brider. Parce que j'aurais pu lancer de multiples sous-agents pour le faire tourner plus vite.
+11:4711 minutes et 47 secondesJe n'ai pas envie de casser, de dénaturaliser la qualité de son travail. Parce que ça peut baisser en performance.
+11:5411 minutes et 54 secondesSurtout quand on travaille from scratch, de travailler en parallèle. Parallèle, c'est vraiment dur. Très spécifique. Allez, je vous balance pendant ce temps là un fait qui est assez marrant.
+12:0212 minutes et 2 secondesLorsque j'ai développé cette status line, ça fait peut-être deux mois, j'ai mis un système de niveau.
+12:0712 minutes et 7 secondesDonc plus je consomme de tokens, plus ça me fait monter en niveau. Et à l'époque, c'était Opus 4.7, il m'avait dit
+12:1412 minutes et 14 secondespour atteindre le niveau 100, il te faut à peu près 32 ans. Eh bien il s'est complètement foiré parce que je suis déjà niveau 89 alors je devais être niveau 15 ou 20, un truc comme ça. Et j'ai tellement généré entre temps, si j'arrive niveau 100, il va falloir
+12:2412 minutes et 24 secondesencore rajouter de la complexité. Bon, il a bien installé Chromium. Là, il est vraiment en train d'installer du lourd. Il est en train d'installer pas mal de choses.
+12:3112 minutes et 31 secondesCommence à travailler là, sinon ma vidéo va sortir en trois jours. Intéressant ça. Ok, donc quand je vous dis qu'il prend vraiment du temps sur le démarrage, c'est que là, au niveau sécurité, il se blinde.
+12:4012 minutes et 40 secondesRegardez, pourtant, ma configuration n'est pas faite pour ça, mais il a fait les fonctions métiers. Donc du coup, il en a rédigé, ça fait 762 lignes.
+12:4712 minutes et 47 secondesVoilà, fonction de reporting, attribution de trois modèles. Là, il fait les migrations et du coup, il respecte la stack locale. Et il intègre aussi le middleware AAL2 pour la sécurité d'authentification.
+12:5712 minutes et 57 secondesDonc, après à voir selon vos tests. N'hésitez pas à prendre en commentaire lorsque vous allez le tester. Je pense que ça va prendre quelques heures ou quelques jours.
+Chapitre 6 : Ce qu'il trouve dans mon code
+13:0313 minutes et 3 secondesMais déjà, il va passer sur la plupart des projets. Ça, c'est sur le projet, forcément, de génération lead, ce qu'on veut faire. Et du coup, maintenant... Ah ouais, d'accord. Regardez, alors ça, c'est sur l'autre projet. Il a terminé le rapport. Il a fait l'audit et la réparation.
+13:1413 minutes et 14 secondesVoilà, donc regardez tout ce qu'il a trouvé. Des patchs mineurs, des patchs framework, des warnings, 80 exports superflux. Bah, ça régale, quoi. Donc, est-ce que je suis d'accord ou pas pour appliquer tout ça ? Il va falloir que je lise.
+13:2613 minutes et 26 secondesMais je vais donner une confiance aveugle parce que c'est un projet qui est en local. C'est la raison pour laquelle je prends ce risque. Bien, parce qu'il n'y en a pas. Donc, on va lui donner le go. Le go pour le refus M06.
+13:3713 minutes et 37 secondesDonc, M06, c'était quoi ? M06, 85 copies de conflits iCloud. Bon, bah, nickel. On va donner le go pour dégager ces ces duplications. Choix sur P01. P01, prototype Megatest, 16 fichiers, deck YouTube, 3 squelettes, dernier, ok.
+13:5113 minutes et 51 secondesGarder tout archivé, 3 archivés tout. Archivé, point. Et la numéro 4, donc la D01, celle-ci, elle est présente en haut. Normalement...
+13:5913 minutes et 59 secondesAh non elle est là, mddoc, ça c'est la documentation, voilà, cycle de vie, corpus vivant à 327 000 et il va réduire le corpus mais ça il s'en rendait pas compte avant, pourtant j'ai retravaillé sur ce projet aujourd'hui et c'est à dire que dans mes instructions je dépasse pas un certain nombre de tokens, enfin son certain nombre de caractères pour pas polluer le projet et là il s'en rend compte qu'avec ce modèle, pourtant j'ai utilisé un fable 5 tout à l'heure donc très bien, nettoie et je vais lui rajouter, n'oublie pas le fichier pdf final de comparaison avant après. Ok, ici il est en train de faire les migrations
+14:2914 minutes et 29 secondesles 4 migrations passent, je vais ajuster l'urgence, proposition qui expire, pour couvrir aussi le cas acierie de Longoui, alors là il me parle dans une langue que j'ai pas encore découvert,
+14:3914 minutes et 39 secondes47 affaires pour un total de 1 284 000 euros bruts, 412 000 pondérés, 312 pistes, 5 canaux, donc ça c'est pour forcément la pipeline de gestion de liste et de vente.
+14:4914 minutes et 49 secondesOk, laissons le faire, donc sur le projet déjà existant il est en train de vraiment de cligner pas mal de trucs, c'est cool, il nettoie, en fait ce qui est vraiment fou c'est que c'est des choses qui paraissent
+14:5914 minutes et 59 secondesbêtes et qu'ils ne trouvaient pas avant et qui maintenant trouvent, donc en fait toutes les vulnérabilités que vous allez avoir, tous les bugs etc, les nouvelles, à chaque fois qu'il y a de nouveaux modèles, les nouvelles salves de modèles
+15:0815 minutes et 8 secondesviennent les réparer, les corriger, solidifier tout ça, et c'est pour ça qu'en vrai ceux qui n'ont pas de compétences et qui démarrent de zéro c'est pas très grave, le but c'est de
+15:1615 minutes et 16 secondestravailler, de continuer et toujours de s'améliorer parce que les modèles vont dans tous les cas s'améliorer, sur l'application qu'on développe from scratch avec l'accent,
+15:2415 minutes et 24 secondeson voit qu'il a préparé les seeds, il a créé un favicon, il a créé pas mal de choses, donc on va le laisser faire encore tranquillement, mais je vous assure qu'il est extrêmement long à l'amorçage,
+15:3215 minutes et 32 secondesopus 5 ne fait pas ça et fable 5 n'est pas autant long, ok donc il a bien terminé la réhabilitation, donc là on peut voir le fichier avant après, ce qui est vraiment intéressant c'est qu'il y avait
+15:4115 minutes et 41 secondesbeaucoup beaucoup de duplications et beaucoup de choses qui étaient inutiles, du code mort, des copies iCloud aussi, des fichiers orphelins, des exports sans référence, 16 qu'il a du coup supprimé pour passer à 0
+15:5215 minutes et 52 secondesdonc ça fait plaisir et des exports superflu, il y en avait 80 et qu'il les a passé à 0, donc c'est du gros nettoyage, il a corrigé aussi des problèmes
+15:5915 minutes et 59 secondesMigration et puis là il a directement fait un rapport ce qui a été fait par identifiant approuvé donc il a bien tout revérifié
+16:0516 minutes et 5 secondesfranchement il a été hyper pointilleux, pas très très lent et à la fin il a bien documenté, fait une passation franchement rien à redire sur la correction du projet existant, enfin du moins les corrections.
+Chapitre 7 : Codebase géante en one-shot
+16:1516 minutes et 15 secondesConcernant notre projet de Lead Generation, ça développe toujours franchement il s'arrête pas, il envoie, il envoie, il envoie, il corrige ses erreurs
+16:2316 minutes et 23 secondesalors c'est vrai qu'il boucle beaucoup, il trouve des erreurs, il dit là il y a telle erreur, telle erreur, parce qu'il y a beaucoup de relations, il y a plusieurs pages
+16:2816 minutes et 28 secondesdonc c'est cool, effectivement Opus ne boucle pas autant, j'essaie d'être le plus impartial possible, c'est difficile, mais voilà là il a vraiment été long
+16:3616 minutes et 36 secondeset il repasse beaucoup sur les erreurs, on va voir ce que ça va donner, il y a vraiment beaucoup de fichiers, regardez-moi ça, là en one shot, l'application, regardez-moi ça
+16:4416 minutes et 44 secondeselle est vraiment démentielle, API si j'ouvre le nombre de dossiers, attendez je vais juste tout ouvrir quand même, regardez-moi ça, il a toujours pas fini
+16:5116 minutes et 51 secondeset là on a même pas encore eu un résultat, regardez la taille de la code base, ça c'est juste l'architecture, le nombre de fichiers, de fichiers SQL, de fichiers TypeScript, c'est un délire
+17:0117 minutes et 1 secondeok donc là on voit qu'il a passé 11 sur 12 critères, donc pareil il retrouve des erreurs qu'il va corriger, franchement c'est la première fois que je vois une code base from scratch
+17:1017 minutes et 10 secondesoù on part de zéro aussi grosse sur un projet, donc peut-être qu'on a enfin un modèle qui va réussir à créer un projet complet, donc un vrai Sass en one shot prompting avec un PRD sans lancer de commande
+17:2117 minutes et 21 secondesGol, donc qu'il le fasse naturellement, alors là ça serait vraiment incroyable, là c'est vraiment le monde de l'IA change à partir de ce modèle là
+17:2817 minutes et 28 secondesok donc là il vient de tester les pages et il vient de dire toutes les pages fonctionnent correctement sauf un refus, donc il a encore trouvé une erreur qu'il va corriger
+Chapitre 8 : Il teste ses écrans tout seul
+17:3517 minutes et 35 secondesdonc là c'est un bug sur le lien des connexions qui était prefetché par Next.js, bon si ça marche pas là franchement je pense qu'on va tous être déçus
+17:4317 minutes et 43 secondesok, smoke 8 propres, 22 écrans, 3 rôles, desktop, mobile, donc responsive, sans débordement ni erreur, donc pourquoi il a installé Playwright au démarrage ?
+17:5217 minutes et 52 secondesparce qu'il a pris des captures d'écran, il a fait des captures d'écran pour vérifier que ça soit bien responsif, qu'il n'y ait pas de bug etc. et qu'il puisse accéder si tu veux
+17:5917 minutes et 59 secondesa un navigateur headless donc c'est pour ça qu'il a ouvert avec Chrome tout à l'heure donc on va voir ce que ça donne et là
+18:0418 minutes et 4 secondestu vois il est en train d'analyser en temps réel dans le dossier test un screenshot, enfin du moins il a pris des screenshots mais là
+18:1118 minutes et 11 secondesil est en train d'analyser la direction accueil en format mobile donc 390 pixels de large et il retrouve une erreur, je repère un souci, une affaire, il continue
+18:2018 minutes et 20 secondeson peut encore s'en faire un de café donc c'est ici qu'il a fait les tests tu vois on ouvre le dossier test, on va dans screenshot et là tu vois c'est tous les screenshots qu'il a pu prendre depuis le début pour vérifier
+18:3118 minutes et 31 secondesc'est pas à moi de prendre les screenshots et de dire bah tiens là il y a une erreur, c'est ce qu'il a fait tout seul donc ça grâce à play write et si on regarde du coup dans un finder on peut voir voilà les captures d'écran qu'il a prises
+18:4118 minutes et 41 secondesde toute la page voici là la connexion on peut faire une prévisu mais tu vois ça c'est tous les screenshots qu'il a fait c'est comme ça qu'il repère les bugs et qu'il retravaille dessus
+18:4818 minutes et 48 secondesvoilà donc ça c'est pour la page séquence, ah bah voilà piste v1 est construite, vérifier en local, très bien donc lance
+18:5618 minutes et 56 secondespnpm dev, connecte toi avec cette adresse email, mot de passe seed password donc on l'a, ok bon bah c'est parti
+Chapitre 9 : Le flag surprise
+19:0219 minutes et 2 secondespnpm dev et le mot de passe il a bien mis dans le .env .local donc là bon j'aurais pas dû ouvrir tout ça on va tout dégager donc là j'ai lancé le pnpm dev
+19:1219 minutes et 12 secondeset il est encore en train de faire une installation donc laissons le faire alors sans aucune itération on a gaspillé que 45%
+19:1819 minutes et 18 secondesdu coup de la fenêtre de contexte session donc ça reste quand même correct en termes de consommation
+19:2519 minutes et 25 secondeson a eu un message fable 5.1 safeguard donc là en fait on vient de se faire flaguer la tête regardez notre intention est de délivrer des capacités rapides mais des fois on peut se faire flaguer
+19:3519 minutes et 35 secondespour la cybersécurité ou pour les tâches biologiques et il m'a switché tout seul sur opus 5 donc là vous avez vu en bas je suis passé sur opus 5 enfin du moins non je
+19:4219 minutes et 42 secondessuis pas passé il m'a imposé opus 5 parce qu'il était certainement sur une tâche qui a flagué donc de type cyber vous voyez là on a le détail
+19:4919 minutes et 49 secondesen gros ça veut dire quoi ça veut dire que tu me bloques parce que je veux sécuriser mon app est-ce que c'est du foutage de gueule donc là il a pris environ une heure une heure et demie il a pris aller une heure
+19:5819 minutes et 58 secondesvingt on va arrondir pour pouvoir produire cette application et on l'a toujours pas ouvert et on part de zéro quand même. Ok maintenant il me dit que pnpm dev
+20:0620 minutes et 6 secondesfonctionne ok bon bah on va relancer pnpm dev ok on lance et on va pouvoir ouvrir localhost en
+Chapitre 10 : L'app complète en direct
+20:1320 minutes et 13 secondes3100 donc là c'est bon ça a bien été exécuté. Donc bienvenue sur la page de connexion de notre application test qui s'appelle PIST donc de la société Norvia
+20:2220 minutes et 22 secondesperformance énergétique industrielle. Je mets les identifiants de connexion alors là il nous a même fait un Google Authenticator Allons-y soyons fous. Alors ça c'est la première fois qu'en from scratch il me sort carrément
+20:3220 minutes et 32 secondesle AAL2 donc c'est à dire le protocole de sécurité authentification soit Google ou soit qui donc c'est parti on va scanner ça voilà on a un code PIST Norvia qu'on va venir mettre
+20:4320 minutes et 43 secondesdonc ça c'est grâce à Supabase qui l'a fait cette activation on active et on arrive sur notre dashboard qui est excellent qui est bien agencé déjà ça fait plaisir donc
+20:5220 minutes et 52 secondes186 000 balles comment on fait pour se les envoyer sur le compte maintenant donc là on a les 30 derniers jours le moins en cours là on est en administrateur
+20:5920 minutes et 59 secondessituation bloquante ouais donc déjà ça respecte parfaitement le design système si on revient sur la charte graphique c'était celle ci vous avez vu c'est parfaitement ça il n'y a pas eu d'écart c'est même police même couleur même agencement
+21:0921 minutes et 9 secondesdonc au niveau du respect c'est parfait non non c'est vraiment pas mal ça alors on va faire le tour des pages on va pas la désinguer dans tous les sens mais moi ce qui m'intéresse c'est les pipelines parce qu'on a des clients
+21:1821 minutes et 18 secondesVoilà premier contact du moins des prospects si on a des premiers contacts à faire imaginons voilà minoterie vendenne on va faire premier contact comment on fait pour contacter là on clique dessus
+21:2721 minutes et 27 secondesok donc on arrive ici enregistrer une activité vous avez vu on peut mettre est-ce qu'on les a appelés est-ce qu'on a fait un email
+21:3321 minutes et 33 secondesok bon on a toutes les datas on va remplir n'importe quoi juste pour se faire plaisir et on va enregistrer
+21:3921 minutes et 39 secondesactivité enregistrée bon pour l'instant il n'y a pas des bugs cons qu'on peut avoir souvent dans les interfaces on va aller dans piste piste piste qu'est ce qu'on a dans piste nouvelle piste
+21:4721 minutes et 47 secondesok imaginons qu'on ait une entreprise dans la cible ça c'est vraiment complet ce qu'il a fait pour l'instant c'est vraiment cool ensuite séquence si on fait des séquences forcément
+21:5521 minutes et 55 secondesmessage numéro 1 numéro 2 état actif ok donc là on fait une séquence de décrit tertiaire industriel qui... et il y a plusieurs étapes.
+22:0322 minutes et 3 secondesDonc si on clique dessus, on peut voir les étapes de la... Ah ouais, c'est complet. Là, vraiment, je suis surpris. Je vais essayer d'être le moins biaisé possible, mais je suis surpris.
+22:1122 minutes et 11 secondesRegardez, il a même fait carrément les formats de messages avec les balises. Donc les balises prénoms, les balises, etc., les sauts de lignes.
+22:1822 minutes et 18 secondesSi on retire un élément, est-ce que ça fonctionne ? Oui. On passe à la page attribution. Donc, moins en cours. Bon, là, il n'y a rien parce que du coup, c'était les vacances, disons.
+22:2622 minutes et 26 secondesLes 30 derniers jours, référencement naturel, 71 000 euros, webinaire, 83 000. OK. Imaginons qu'on fait une nouvelle campagne, on fait un webinaire.
+22:3322 minutes et 33 secondesOn le fait aller à Lyon. C'est parti. Il commence le 10 septembre et il termine le 11 septembre. Tiens, nickel.
+22:4022 minutes et 40 secondesLe coût, ça va être 10 euros pour rentrer dedans. C'est très, très, très peu cher. Isemila, voilà, je cherchais Lyon du 9 au 10 septembre, c'est très clair.
+Chapitre 11 : Mon verdict
+22:4922 minutes et 49 secondesImaginons que je pète un câble et je le mets à 10 000 euros. Voilà, parce qu'il y a trop de monde. Enregistrer. Est-ce que ça s'est enregistré ? OK, bon, ça s'est enregistré.
+22:5522 minutes et 55 secondesAu niveau de l'équipe, on voit Sophia, Camille, Yanis, OK. Charge des closers, les closers sont là, Théo, Anaïs. Les objectifs sont définis, c'est plutôt épuré.
+23:0423 minutes et 4 secondesEt puis, la dernière page qui va être la plus normalement complète, c'est la page paramètres. Elle est très légère. Je ne sais pas pourquoi j'ai dit que ça devait être la plus complète, pas du tout.
+23:1123 minutes et 11 secondesLà, on a les e-mails, donc, des utilisateurs qui peuvent se connecter, donc de la boîte Norvia, bien sûr, qu'on peut désactiver à tout moment.
+23:1823 minutes et 18 secondesCe que je viens de faire, voilà, pour désactiver un profil. Franchement, je suis très surpris, c'est du one-shot, il n'y a eu aucune itération. Il y a un parfait alignement avec le design system.
+23:2723 minutes et 27 secondesLes fonctionnalités ont l'air de suivre.
+23:2823 minutes et 28 secondesAlors après, il suffit juste de connecter son propre CRM actuel ou de faire une migration de son CRM pour créer son propre CRM. Quelle est l'utilité de N8n ?
+23:3623 minutes et 36 secondesSérieusement, à partir de là, dès que vous voyez ça, à quoi sert N8n lorsque j'ai balancé un prompt et nous avons une application complète ? Expliquez-moi, à quoi ça sert de payer un CRM aujourd'hui ?
+23:4523 minutes et 45 secondesPipe drive, HubSpot, à quoi ça sert ? Les migrations sont nécessaires. Fable 5.1 vient de taper du point sur la table. Bon, je ne vais pas aller plus loin.
+23:5323 minutes et 53 secondesLà, je vais aller défoncer tous mes projets existants.
+23:5523 minutes et 55 secondesJe vais aller les réhabiliter, les solidifier et faire des audits pour pouvoir en avoir un.
+23:5923 minutes et 59 secondesEt puis vous aurez une surprise demain, là c'est tard, pour aujourd'hui, et puis j'ai plus qu'à vous dire, n'hésitez pas à liker, partager et commenter, et puis ceux qui sont des fous là, qui vont pas dormir de la nuit, balancez un commentaire, qu'est-ce que vous avez fait, comment vous le trouvez, et puis on se retrouve pour une prochaine, c'était Meydeey, à très vite, j'ai plus de voix, CIAO
+
+Tout
+
+Source : Meydeey | Automatisation IA
+
+Intelligence artificielle
+
+Ordinateurs
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+20:20
+NOUVEAU Claude Fable 5.1 : le meilleur modèle d'Anthropic consomme tout mon usage
+Melvynx
+470
+il y a 1 h
+Nouveau
+
+
+57:22
+Tech Sama Show #365 : DLSS 5 Leaké, Apple M6, Windows 26 H2
+Tech_Sama
+27 k
+il y a 16 h
+Nouveau
+
+
+27:02
+Le TP le fameux TAKE PROFIT
+MathTrouver trader
+106
+il y a 16 h
+Nouveau
+
+
+12:47
+J’ai Survécu 48H NON STOP avec la TENUE de GOKU (c'est très lourd mdr)
+Thomas Rainieri
+161 k
+il y a 3 a
+
+
+9:51
+J’ai tenté de MANGER 20,000 Calories en 24H (j’ai pris 10kg OMG...)
+Thomas Rainieri
+520 k
+il y a 3 a
+
+
+9:58
+BARDELLA ne vous SAUVERA PAS ! - Charles Gave
+Charles Gave - Officiel - Chaîne d'extraits
+7,2 k
+il y a 16 h
+Nouveau
+
+
+9:42
+OpenAI change les règles du jeu : l'industrie est en panique
+Parlons IA & Tech
+2,3 k
+il y a 16 h
+Nouveau
+
+
+19:08
+Vous pensiez manger assez de protéines ? J'enquête sur les étiquettes nutritionnelles
+Nassim Sahili
+141 k
+il y a 8 m.
+
+
+12:37
+LA RAM est en PROMO !! BONS PLANS PC GAMER & HARDWARE 2026
+Mathis et Gauthier
+19 k
+il y a 15 h
+Nouveau
+
+
+2:23:11
+#188 FromHumanToGod - Musculation et Influence : l'envers du décor
+Biomécanique
+118 k
+il y a 3 a
+
+
+7:41
+It happened...AGAIN
+Larry Wheels
+299 k
+il y a 1 j
+Nouveau
+
+
+38:38
+On construit un PC avec 100 % de composants CASSÉS ! (ft. Millomaker)
+FrenchHardware
+354 k
+il y a 1 j
+Nouveau
+
+
+16:16
+Ce qu’on craignait tous arrive : l’IA s’attaque au Processeur
+Kang et ses PC
+193 k
+il y a 6 j
+Nouveau
+
+
+19:08
+Les crabes souffrent-ils vraiment ?  🦀 La science brise le silence
+Terrapodia
+275 k
+il y a 1 a
+
+
+15:47
+J’ai Tenté les 15,000 Calories du TITAN Andrey Smaev...
+Thomas Rainieri
+357 k
+il y a 9 m.
+
+
+15:18
+IA: Krach à venir ou opportunité historique ?
+Xavier Delmas
+85 k
+il y a 3 m.
+
+18:07
+JE M'ENTRAINE 7 JOURS COMME MICHAEL B JORDAN (Creed III)
+Thomas Rainieri
+455 k
+il y a 3 a
+
+27:50
+Tous les meilleurs modèles IA pour 10 $ : la vérité sur Mammouth.IA
+Melvynx
+10 k
+il y a 17 h
+Nouveau
+
+2:27:50
+L'homme qui démasque l'IA : On vous MENT, tout explose en 2027 ! | Ed Zitron
+The Diary Of A CEO
+ et Better Offline
+5,9 M
+il y a 6 j
+Nouveau
+Doublée
+
+10:53
+J’ai mangé QUE des FAST FOOD aux USA pendant 30 jours (mauvaise idée...)
+Thomas Rainieri
+932 k
+il y a 3 a
+
+    

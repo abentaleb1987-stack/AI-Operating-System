@@ -1,0 +1,499 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude quitte l’écran : Anthropic lui donne le contrôle des machines !
+Parlons IA & Tech
+Parlons IA & Tech
+15,6 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+28 août 2026  #ia #intelligenceartificielle #claude
+Partenariats et collaborations : contact@parlonsiatech.com
+
+Testez votre niveau en IA et recevez gratuitement notre ebook « Les 20 outils IA gratuits qui font le travail à votre place en 2026 » :
+https://quiz.parlonsiatech.com
+
+Découvrez nos guides pratiques sur l’intelligence artificielle :
+https://guides.parlonsiatech.com/
+
+Voix utilisée dans nos vidéos :
+https://try.elevenlabs.io/wjsb6ieoqfho
+
+Outil utilisé pour gérer et développer la chaîne :
+https://vidiq.com/ParlonsIATech
+
+Besoin d’un site web moderne, d’un chatbot ou d’une automatisation intelligente ?
+https://smarttechgenius.com/
+
+Aujourd’hui, l’intelligence artificielle quitte progressivement nos écrans pour agir sur des machines réelles.
+
+Anthropic dévoile un nouveau standard permettant à ses agents IA de communiquer avec des microscopes, des bras robotisés et certains équipements scientifiques. Une évolution encore expérimentale, mais qui pourrait transformer les laboratoires, la robotique et la recherche.
+
+Nous découvrons également Microduck, un robot open source à 399 dollars conçu à Bordeaux, les nouveaux outils vidéo de Google, une transcription vocale plus intelligente et l’éventuel rachat de Hugging Face par Nvidia pour 12,9 milliards de dollars.
+
+Vous allez comprendre :
+
+Comment Anthropic veut connecter ses agents aux machines physiques.
+
+Pourquoi un robot à 399 dollars pourrait démocratiser l’IA physique.
+
+Comment Google améliore la vidéo générative et la transcription vocale.
+
+Pourquoi un rachat de Hugging Face par Nvidia pourrait bouleverser l’écosystème de l’IA ouverte.
+
+Chapitres :
+
+00:00 Introduction
+01:03 Anthropic connecte ses agents aux machines réelles
+03:39 Microduck, le robot open source à 399 dollars
+05:10 Google améliore la création vidéo par IA
+06:11 Gemini améliore la transcription vocale
+06:50 Nvidia voudrait racheter Hugging Face
+07:45 Conclusion
+
+À propos de Parlons IA et Tech
+
+Nous décryptons chaque jour l’essentiel de l’intelligence artificielle, de la robotique et des nouvelles technologies, avec des explications simples, accessibles et sans jargon inutile.
+
+Abonnez-vous et activez les notifications pour ne manquer aucune évolution importante.
+
+Certains liens présentés dans cette description sont des liens affiliés. En les utilisant, vous soutenez la chaîne sans frais supplémentaires.
+
+#ia #intelligenceartificielle #claude #anthropic #robotique #huggingface #nvidia #gemini #googleai #technologie #actualiteia #parlonsiatech
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA & Tech
+15,6 k abonnés
+Vidéos
+À propos
+4 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @ParlonsIATech
+@ParlonsIATech
+il y a 47 minutes
+Claude connecté à des machines réelles, un robot open source à 399 dollars et Nvidia qui voudrait racheter Hugging Face : quelle annonce vous semble la plus importante ?
+
+Testez gratuitement votre niveau en IA : https://quiz.parlonsiatech.com
+
+Un like aide réellement YouTube à recommander notre travail. Merci pour votre soutien.
+
+1
+
+
+Répondre
+
+
+1 réponse
+
+@dytdyt-b4t
+il y a 45 minutes
+Merci pour la vide, toujours un plaisir
+
+
+
+Répondre
+
+
+@successstrategiestv
+il y a 37 minutes
+Merci
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Introduction
+0:011 secondeAnthropique vient d'autoriser ses intelligences artificielles à piloter de vraies machines. Un modèle peut désormais faire fonctionner un
+0:088 secondesmicroscope ou commander un bras robotisé et il peut même régler un laser de laboratoire. Voici ce que ça a donné dans une entreprise d'informatique
+0:1616 secondesquantique. Une équipe de quatre spécialistes avait passé des mois à écrire un programme capable de rattraper un laser qui décroche. Il réussissait 58
+0:2626 secondesfois sur 100. Ils ont confié le problème à l'intelligence artificielle et l'ont laissé travailler seul une nuit entière.
+0:3333 secondesAu matin, le taux de réussite atteignait 99 %. On commence par là. Vous découvrirez ensuite un petit robot vendu
+0:4141 secondes399 dollars et conçu à Bordeaux. Et je vous conseille de rester jusqu'au bout parce que l'entreprise qui le vend serait sur le point d'être rachetée pour
+0:5050 secondes13 milliards. Une chose avant de commencer, cette veille est gratuite et elle le restera toujours. Ce qui l'a fait vivre, c'est votre pouce levé.
+0:5858 secondesChaque like pousse cette vidéo vers quelqu'un qui ne nous connaît pas encore. Ça vous prend une seconde et ça change tout pour nous. Brancher deux machines de laboratoire pour qu'elles
+Chapitre 2 : Anthropic connecte ses agents aux machines réelles
+1:071 minute et 7 secondestravaillent ensemble demande normalement plusieurs semaines et parfois plusieurs mois. Entropie vient de ramener ce délai à quelques heures. Voici pourquoi
+1:141 minute et 14 secondesc'était si long. Dans un laboratoire, chaque machine parle sa propre langue.
+1:181 minute et 18 secondesUn microscope ne comprend pas un bras robotisé et un bras robotisé ne comprend pas un appareil qui distribue des liquides. Il faut donc un spécialiste
+1:261 minute et 26 secondesqui écrit du code surmesure pour chaque paire d'appareil. Ce qu'Antropic propose est un vocabulaire commun que toutes les machines comprennent. Deux mots
+1:341 minute et 34 secondessuffisent. Le premier est lire et sert par exemple à relever une température.
+1:391 minute et 39 secondesLe second est écrire et sert à la modifier. N'importe quel appareil sait faire ça. Passons maintenant à l'exemple qui donne le vertige. Une entreprise
+1:471 minute et 47 secondesd'informatique quantique doit maintenir ses lasers à une précision proprement folle. Elle compare cette exigence au fait de mesurer la distance entre la
+1:561 minute et 56 secondesTerre et la Lune à l'épaisseur d'un cheveux près. Quand un laser décroche, il faut 5 à 10 minutes à un expert pour le rattraper et ça tombe parfois à 2h du
+2:052 minutes et 5 secondesmatin. Une équipe de quatre personnes avait passé des mois à automatiser cette réparation. Leur programme réussissait
+2:122 minutes et 12 secondes58 fois sur 100 et prenait 150 secondes par tentative. Ils ont alors lancé quatre copies de Claude en boucle. La
+2:192 minutes et 19 secondespremière proposait une amélioration et la deuxième l'écrivait. La troisième la testait sur le vrai laser et notait
+2:262 minutes et 26 secondestout. La 4rième lisait ce compte-rendu et décidait de la suite. Ce cycle a tourné des centaines de fois pendant toute la nuit, sans personne dans la
+2:342 minutes et 34 secondespièce. Au matin, la réparation prenait 6 secondes et réussissait 96 fois sur 100.
+2:412 minutes et 41 secondesUn test à l'aveuble a suivi sur 700 essais et le système en a réussi 695.
+2:472 minutes et 47 secondesAutrement dit, il atteint 99,3 %.
+2:512 minutes et 51 secondesVenons-en aux limites et c'est Entropique elle-même qui les donne.
+2:542 minutes et 54 secondesClaude apprend le monde physique à travers du texte et des images et son intuition physique reste donc très faible. Dans un laboratoire
+3:023 minutes et 2 secondespharmaceutique, il s'est retrouvé face à des bulles dans un liquide. Son réflexe a été de recommencer au même endroit, ce qui a créé encore plus de bulles. Il a
+3:113 minutes et 11 secondesfallu qu'un humain lui explique la physique du problème. Tout ça reste un aperçu de recherche réservé à un premier groupe de laboratoire. Mais parmi les
+3:203 minutes et 20 secondespremiers à l'adopter, on trouve une entreprise que vous connaissez et qui vient de sortir un objet que vous pouvez acheter. Un mot rapide avant la suite.
+3:273 minutes et 27 secondesSi ce rendez-vous quotidien vous est utile, un abonnement suffit à le soutenir. Et pour nous aider à aller plus loin, vous pouvez devenir membre de la chaîne. Merci sincèrement à celles et
+3:353 minutes et 35 secondesceux qui le sont déjà parce que c'est vous qui rendez ce rythme possible. Hing Face vend un robot en forme de canard pour 399 dollars et il sera livré avant
+Chapitre 3 : Microduck, le robot open source à 399 dollars
+3:453 minutes et 45 secondesNoël. Il marche et il attrape des objets avec son bec. Il se relève tout seul quand il tombe et il sait même faire du patin à roulette. Il mesure 25 cm et
+3:543 minutes et 54 secondespèse 800 g. Il embarque 15 moteurs ainsi qu'une caméra grand angle et un capteur laser qui mesure les distances. Son bec s'ouvre et fonctionne comme une pince.
+4:044 minutes et 4 secondesIl peut soulever jusqu'à 800 g, ce qui correspond exactement à son propre poids. Sep comportements sont déjà installés et une manette est fournie
+4:124 minutes et 12 secondesdans la boîte. Le point qui devrait vous intéresser est ailleurs. Ce robot a été conçu par Robotics qui est une entreprise bordelaise rachetée par
+4:214 minutes et 21 secondesHugging Face l'an dernier. Mais le vrai sujet reste ce qui est ouvert. Le logiciel et le simulateur sont public et
+4:284 minutes et 28 secondestoute la chaîne d'entraînement l'est également. Concrètement, vous entraînez un nouveau comportement sur votre ordinateur dans une simulation, puis
+4:364 minutes et 36 secondesvous le chargez dans le robot. Tout ce que la machine exécute, vous pouvez le lire et le modifier. Une réserve honnête s'impose quand même. Vous posez chez
+4:454 minutes et 45 secondesvous un objet équipé d'une caméra et de micro. Le dirigeant de l'entreprise soutient qu'un robot ouvert vaut mieux qu'une boîte noire contrôlée par quelque
+4:534 minutes et 53 secondessociété. C'est défendable, mais ça ne garantit rien dès qu'on installe des applications tierce dessus. Ces applications peuvent accéder à la caméra
+5:025 minutes et 2 secondeset envoyer vos données ailleurs. Notez enfin que Hugging Face figure parmi les premiers à intégrer le standard dont je vous parlais à l'instant. Vous
+Chapitre 4 : Google améliore la création vidéo par IA
+5:105 minutes et 10 secondeschoisissez la première image de votre plan et vous choisissez la dernière.
+5:135 minutes et 13 secondesL'intelligence artificielle fabrique ensuite tout le mouvement entre les deux. C'est l'une des trois nouveautés de la mise à jour en vidéo de Google.
+5:205 minutes et 20 secondesCommençons par celle qui règle le plus gros défaut de ces outils. Il s'agit de prolonger une scène. Jusqu'ici, le modèle ne regardait qu'une seule seconde
+5:275 minutes et 27 secondesde ce qui précédait et la suite partait donc dans une autre direction. Il analyse désormais jusqu'à 10 secondes ce qui garde les personnages et la lumière
+5:355 minutes et 35 secondescohérent. On peut ainsi allonger une scène jusqu'à 40 secondes. La deuxième nouveauté est celle dont je parlais en ouverture. Vous définissez l'image de
+5:435 minutes et 43 secondesdépart et celle d'arrivée. C'est exactement ce qu'il faut pour réussir un traveling ou une boucle. La troisième est la plus utile au quotidien. Google
+5:515 minutes et 51 secondesajoute un mode brouillon en très basse définition qui va jusqu'à 60 % plus vite et coûte trois fois moins cher. Vous testez donc vos idées en brouillon et
+5:595 minutes et 59 secondesvous ne montez en qualité que sur ce que vous décidez de garder. Les tarifs se comptent à la seconde de vidéo. Comptez 3 centimes en brouillon et 10 centimes
+6:076 minutes et 7 secondesen définition standard. La très haute définition monte à 30 centimes.
+Chapitre 5 : Gemini améliore la transcription vocale
+6:116 minutes et 11 secondesPlusieurs personnes qui parlent en même temps et un accent prononcé sur fond de bruit ambiant. Ce sont les trois situations où la dictée vocale devient
+6:186 minutes et 18 secondesinutilisable et Google affirme les avoir corrigés. L'entreprise déploie un nouveau modèle de transcription dans son navigateur et dans son clavier mobile
+6:266 minutes et 26 secondesainsi que dans plusieurs autres produits. C'est une fonction qu'on utilise sans y penser. Elle sert à dicter un message en marchant ou à sous-titrer une vidéo et elle permet
+6:346 minutes et 34 secondesaussi de garder une trace écrite d'une réunion. Un détail compte particulièrement pour un francophone.
+6:406 minutes et 40 secondesCes modèles ont longtemps été entraînés surtout sur de l'anglais américain et c'est précisément pour ça que la dictée décroche dès qu'un accent sort du cadre.
+6:486 minutes et 48 secondesGoogle affirme avoir travaillé ce point.
+Chapitre 6 : Nvidia voudrait racheter Hugging Face
+6:506 minutes et 50 secondesNvidia survait en passe de racheter UG-in Face pour environ 13 milliards de dollars. Une précision s'impose d'emblé.
+6:576 minutes et 57 secondesL'information vient d'un média économique qui cite une seule personne au courant du dossier. L'accordé et aucune des deux entreprises ne l'a
+7:057 minutes et 5 secondesconfirmé. Voyons maintenant pourquoi ce serait énorme. Uggin est l'endroit où presque tous les modèles ouverts du monde sont hébergés. Quand un
+7:137 minutes et 13 secondeslaboratoire publie librement un modèle, c'est là qu'il le dépose et c'est là que les développeurs vont le chercher. Cette plateforme est donc le dépôt central de
+7:227 minutes et 22 secondestoute l'intelligence artificielle ouverte. Si l'opération se fait, Nvidia contrôlera à la fois la puce qui fait tourner les modèles et l'endroit où ces
+7:307 minutes et 30 secondesmodèles habitent. Regardez le contraste avec le début de cette vidéo. La même entreprise lance un robot à 399 dollars
+7:387 minutes et 38 secondesen promettant de démocratiser l'intelligence artificielle physique et elle pourrait passer sous le contrôle du plus gros fabricant de puces du monde.
+Chapitre 7 : Conclusion
+7:457 minutes et 45 secondesReprenez les cinq histoires et vous verrez qu'elle raconte toute la même chose. L'intelligence artificielle est en train de sortir de l'écran. Un standard lui permet de piloter des
+7:547 minutes et 54 secondesmicroscopes et des lasers et de réparer en 6 secondes ce qui prenait 10 minutes à un expert. Un robot conçu à Bordeaux
+8:018 minutes et 1 secondese vend 399 dollars et vous pouvez en modifier tout le code. Les vidéos générées se testent désormais en brouillon pour trois fois moins cher et
+8:098 minutes et 9 secondesle fabricant de puce rachèterait l'endroit où vivent tous les modèles.
+8:148 minutes et 14 secondesDites-moi en commentaire ce que vous en pensez. Un petit robot équipé d'une caméra et de micro pour 399 dollars, est-ce que vous l'achetez ? ou est-ce
+8:228 minutes et 22 secondesque vous vous en méfiez ? Et si vous avez appris quelque chose, laissez un pouce lever avant de partir. C'est ce qui décide si YouTube montre cette vidéo
+8:308 minutes et 30 secondesà quelqu'un d'autre. Merci d'être resté jusqu'au bout. À très vite.
+
+Tout
+
+Ordinateurs
+
+Vidéos similaires
+
+Regardées
+
+13:05
+Comment développer (enfin) ses TRAPEZES
+Nassim Sahili
+328 k
+il y a 2 a
+
+
+44:51
+Tout le monde se trompe sur Google
+Numerama
+48 k
+il y a 1 j
+Nouveau
+
+
+9:14
+Awesome FREE GameDev Asset Giveaways! [August 25 - Sept 8th]
+Gamefromscratch
+10 k
+il y a 3 j
+Nouveau
+
+
+33:32
+J'ai laissé 3 IA recréer Genshin Impact de zéro (hallucinant)
+Aywen
+171 k
+il y a 13 j
+
+
+39:38
+On a filmé la vie des milliardaires et c'est délirant !
+Marqué ▸ Documentaire Société
+333 k
+il y a 10 j
+
+
+18:24
+ACHETER UN PC GAMER AVEC 4 PROCESSEURS ! (192 coeurs)
+FrenchHardware
+210 k
+il y a 1 m.
+
+
+1:05:14
+NVIDIA lance son propre processeur ? - Mémoire Vive #20
+Mémoire Vive et 2 autre(s)
+18 k
+il y a 4 m.
+
+
+33:05
+J’ai acheté les PIRES CONTREFAÇONS sur TEMU !
+CYRILstudio
+537 k
+il y a 23 h
+Nouveau
+
+
+13:30
+Comment avoir des GROS BRAS ? (le Guide ULTIME)
+Kilian Hagen
+10 k
+il y a 23 h
+Nouveau
+
+
+13:50
+Je teste toutes les variétés de Monster Energy Drink
+Gurky Le Murky
+256 k
+il y a 4 a
+
+
+20:21
+6 ÉTAPES CLÉS pour réussir (enfin) à sentir son DOS
+Nassim Sahili
+421 k
+il y a 3 a
+
+
+22:51
+ACHETER UN PC GAMING 5 ÉTOILES TEMU…
+FrenchHardware
+416 k
+il y a 3 m.
+
+
+22:55
+RAM : Arrêtez de vous RUINER !! ➡️ 16GB vs 32GB - DDR4 vs DDR5
+GUILLAUME++
+63 k
+il y a 6 m.
+
+
+30:50
+JE RÉAGIS AUX CRITIQUES SUR MA MARQUE INSHAPE NUTRITION !!
+Tibo InShape
+1,6 M
+il y a 1 a
+
+
+14:17
+LE MEILLEUR PC GAMER EN RTX 5070 à ACHETER
+Mathis et Gauthier
+60 k
+il y a 1 a
+
+
+15:34
+Carte graphique à 1€ vs 10 000€ !
+FrenchHardware
+328 k
+il y a 11 m.
+
+
+52:21
+On pleure Hugging Face et les USA et la Chine nous donnent des leçons
+Renaud Dékode
+195
+il y a 32 min
+Nouveau
+
+11:38
+EXERCICES DOS : du MEILLEUR au PIRE (classement)
+Nassim Sahili
+1,3 M
+il y a 3 a
+
+25:30
+Comment on vous manipule pour acheter un PC ?
+Kang et ses PC
+185 k
+il y a 1 a
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+430 k
+il y a 1 m.
+
+    
