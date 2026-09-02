@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : f1c45c5
+- Commit audite : 3c4a5fe
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-02 04:41:25
+- Rapport genere le : 2026-09-02 12:17:43
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,14 +25,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `3c4a5fe` - 2026-09-02 10:48:02 +0200 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
+- `539a0b0` - 2026-09-02 04:41:25 +0000 - Audit - docs(aos): add daily audit report
 - `f1c45c5` - 2026-09-01 12:46:29 +0000 - Audit - docs(aos): add daily audit report
-- `1d288a3` - 2026-09-01 05:16:11 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- Aucun commit.
+- `3c4a5fe` - 2026-09-02 10:48:02 +0200 - docs(aos): integrate multi-source AI watch batch
 
 ### Protocol / system
 
@@ -44,17 +45,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `539a0b0` - 2026-09-02 04:41:25 +0000 - docs(aos): add daily audit report
 - `f1c45c5` - 2026-09-01 12:46:29 +0000 - docs(aos): add daily audit report
-- `1d288a3` - 2026-09-01 05:16:11 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `539a0b0` - 2026-09-02 04:41:25 +0000 - Audit - docs(aos): add daily audit report
 - `f1c45c5` - 2026-09-01 12:46:29 +0000 - Audit - docs(aos): add daily audit report
-- `1d288a3` - 2026-09-01 05:16:11 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -65,7 +66,12 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-09-01_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-09-02_audit-journalier-aos.md
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_parlons-ia_claude-machines-laboratoire_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-09-02_youtube_meydeey_fable-5-1-claude-code_transcript.txt
+- A 02_IA/Claude Code/veille/2026-09-02_youtube_meydeey_fable-5-1-claude-code.md
+- A 02_IA/Claude/veille/2026-08-28_youtube_parlons-ia_claude-machines-laboratoire.md
+- A 03_Rapports/batch/2026-09-02_aos_batch-claude-laboratoire-fable-claude-code.md
 
 ## Fichiers modifies
 
@@ -85,11 +91,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fiches de veille creees
 
-- Aucun element detecte.
+- A 02_IA/Claude Code/veille/2026-09-02_youtube_meydeey_fable-5-1-claude-code.md
+- A 02_IA/Claude/veille/2026-08-28_youtube_parlons-ia_claude-machines-laboratoire.md
 
 ## Sources traitees
 
-- Aucun element detecte.
+- A 01_Collecte/sources_brutes/videos/traitees/2026-08-28_youtube_parlons-ia_claude-machines-laboratoire_transcript.txt
+- A 01_Collecte/sources_brutes/videos/traitees/2026-09-02_youtube_meydeey_fable-5-1-claude-code_transcript.txt
 
 ## Toutes les alertes détectées
 
