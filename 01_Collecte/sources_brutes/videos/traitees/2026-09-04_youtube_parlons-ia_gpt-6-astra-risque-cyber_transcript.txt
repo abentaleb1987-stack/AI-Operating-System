@@ -1,0 +1,492 @@
+
+
+Découvrez la communauté des adeptes du batch cooking
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+OpenAI lance GPT-6… mais bloque déjà ses capacités les plus dangereuses
+Parlons IA & Tech
+Parlons IA & Tech
+15,8 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+4 sept. 2026  #GPT6 #OpenAI #IntelligenceArtificielle
+OpenAI vient de lancer GPT-6 Astra, le premier modèle que l’entreprise classe au niveau critique en cybersécurité. Pourquoi OpenAI limite-t-elle déjà certaines de ses capacités alors qu’elle le présente comme son modèle le plus intelligent et le plus aligné ?
+
+Dans cette édition de Parlons IA et Tech, nous analysons également le rachat historique de Hugging Face par Nvidia, l’arrivée des robotaxis d’Uber et Wayve à Londres, les milliards engagés pour entraîner les robots humanoïdes de Figure et l’avertissement inattendu de Sam Altman sur la course mondiale à la puissance de calcul.
+
+Abonnez-vous à Parlons IA et Tech pour suivre quotidiennement les actualités majeures de l’intelligence artificielle et de la technologie. Vous pouvez aussi soutenir notre travail en devenant membre de la chaîne. Merci à toutes celles et ceux qui le sont déjà.
+
+CHAPITRES
+
+00:00 Introduction
+00:41 GPT-6 Astra : pourquoi OpenAI le classe au niveau critique
+03:52 Nvidia rachète Hugging Face
+05:48 Uber et Wayve lancent des robotaxis à Londres
+07:03 3,5 milliards de dollars pour les robots de Figure
+08:22 Sam Altman sonne l’alarme
+09:46 Conclusion
+
+SOURCES
+
+GPT-6 Astra
+https://openai.com/index/path-to-astra/
+https://www.reuters.com/legal/litigat...
+
+Nvidia et Hugging Face
+https://blogs.nvidia.com/blog/nvidia-...
+https://www.reuters.com/business/nvid...
+
+Uber et Wayve
+https://www.reuters.com/business/uber...
+
+Nscale et Figure
+https://www.reuters.com/technology/ai...
+
+L’avertissement de Sam Altman
+https://the-decoder.com/openai-ceo-sa...
+
+Parmi ces annonces, laquelle pourrait avoir les conséquences les plus importantes selon vous ?
+
+#GPT6 #OpenAI #IntelligenceArtificielle
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA & Tech
+15,8 k abonnés
+Vidéos
+À propos
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@JackyDauve
+il y a 9 minutes
+Merci encore 👍
+
+
+
+Répondre
+
+
+@handijojo971
+il y a 33 minutes
+❤❤❤
+
+1
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Introduction
+0:000 secondeOpen AI vient de lancer GPT6 Astra et c'est le premier modèle de son histoire que l'entreprise classe elle-même au niveau le plus dangereux de sa propre
+0:099 secondeséchelle de sécurité. Son président le présente pourtant comme le plus intelligent et le plus aligné qu'ils aient jamais construit. On commence par
+0:1616 secondeslà et je vous préviens tout de suite ce qui suit compte parmi les annonces les plus lourdes du moment et l'une d'elles change qui contrôle une grande partie de l'intelligence artificielle ouverte.
+0:2626 secondesRestez avec moi jusqu'au bout. Une chose avant de commencer, cette veille est gratuite et elle le restera toujours. Ce qui l'a fait vivre, c'est votre pouce
+0:3434 secondeslevé. Chaque like pousse cette vidéo vers quelqu'un qui ne nous connaît pas encore. Ça vous prend une seconde et ça change tout pour nous. Pour comprendre
+Chapitre 2 : GPT-6 Astra : pourquoi OpenAI le classe au niveau critique
+0:4242 secondesce classement, il faut séparer deux histoires. Les démonstrations apparues avant le lancement et les capacités désormais confirmées par Open AI. Avant
+0:5151 secondesl'annonce officielle, Testing Catalog avait publié ce qu'il présentait comme les premières sorties d'Astra. Elles auraient été générées en zéro shot avec
+0:5858 secondesle niveau d'effort maximal sur un checkpoint appelé mosaïque alpha FDM. Zé shot signifie que le modèle aurait
+1:061 minute et 6 secondesproduit le résultat à partir d'une consigne sans recevoir d'exemples à reproduire. Parmi les créations diffusées figurent un jeu jouable dans
+1:141 minute et 14 secondesle style de GTA 2, des sites web, des objets en trois dimensions et une forteresse en voxel. Si ces démonstrations sont authentiques, le
+1:221 minute et 22 secondesmodèle ne se contente plus de dessiner le résultat demandé. Il semble organiser les fichiers, générer le code et construire les interactions nécessaires
+1:301 minute et 30 secondespour livrer une première version fonctionnelle. Mais une consigne unique ne signifie pas que le résultat est instantané. La création d'une pagode en
+1:381 minute et 38 secondesVoxel aurait nécessité environ 56000 jetons et 38 minutes de calcul. Le résultat paraît spectaculaire, mais son
+1:461 minute et 46 secondescoût et sa reproductibilité reste inconnu. Dans sa présentation officielle, Open AI confirme désormais qu'Astra peut créer, héberger et
+1:541 minute et 54 secondespartager des sites, des applications web et des jeux à partir d'une demande. Il peut également utiliser un ordinateur,
+2:012 minutes et 1 seconderemplir des formulaires et vérifier le fonctionnement d'une interface. En revanche, Openai n'a pas authentifié le
+2:072 minutes et 7 secondescheckpoint mosaïque- alpha-FM, ni confirmé que les anciennes vidéos du jeu et de la forteresse provenaient
+2:152 minutes et 15 secondesréellement d'Astra. Les capacités générales sont donc officielles. Les démonstrations précises qui circulaient avant le lancement restent à
+2:232 minutes et 23 secondesauthentifier. Mais la partie la plus lourde de l'annonce concerne la cybersécurité. Lors d'une évaluation portant sur vingtin vulnérabilités
+2:312 minutes et 31 secondesrécentes et graves, Astra aurait découvert puis exploité deux failles zéro day. Il s'agit de vulnérabilité
+2:382 minutes et 38 secondesencore inconnu et pour lesquelles aucun correctif n'était disponible. Sans les protections prévues pour sa version publique, Astra a également compromis un
+2:462 minutes et 46 secondesnavigateur renforcé, quitter l'environnement qui devait l'isoler et exécuter des commandes sur l'ordinateur haute. Dans un autre test, il a obtenu
+2:552 minutes et 55 secondesles privilèges les plus élevés sur un système d'exploitation renforcé en combinant plusieurs vulnérabilités.
+3:013 minutes et 1 secondeLes évaluateurs l'ont aussi volontairement poussé à échapper au système de surveillance. Dans certaines situations, le modèle est parvenu à
+3:093 minutes et 9 secondesmasquer une partie des éléments utilisés pour produire son raisonnement. Cela ne signifie pas qu'Astra aurait spontanément décidé de tromper ses
+3:163 minutes et 16 secondescréateurs. Cela montre surtout que plus un modèle devient autonome, plus son comportement devient difficile à surveiller précisément. La version
+3:253 minutes et 25 secondespublique refusera donc certaines demandes cyber avancées, notamment la production de codes permettant d'exploiter directement une vulnérabilité.
+3:333 minutes et 33 secondesLe déploiement commencera auprès d'un nombre limité d'organisations avant de s'étendre aux abonnés payants de Chat GPT, à l'API et à Amazon Web Services.
+3:433 minutes et 43 secondesEt pendant qu'Open AI cherche à contrôler les capacités de son modèle, Nvidia vient de prendre le contrôle d'une plateforme centrale pour toute l'intelligence artificielle ouverte.
+Chapitre 3 : Nvidia rachète Hugging Face
+3:533 minutes et 53 secondesNvidia a annoncé leur achat de Hugging Face pour près de 13 milliards de dollars. Ugging Face est souvent présenté comme le guitub de
+4:014 minutes et 1 secondel'intelligence artificielle. Des millions de développeurs y trouvent des modèles, des jeux de données et les outils nécessaires pour les tester ou
+4:084 minutes et 8 secondesles déployer. En rachetant cette plateforme, Nvidia ne se contente plus de vendre les plus qui font fonctionner d'intelligence artificielle.
+4:164 minutes et 16 secondesL'entreprise se rapproche également de l'endroit où une grande partie de la communauté choisit les modèles qu'elle souhaite utiliser. Cette opération
+4:244 minutes et 24 secondesintervient alors que Microsoft, Meta et Open AI développent leur propre processeur afin de réduire leur dépendance envers Nvidia.
+4:324 minutes et 32 secondesUgging Face permet donc à Nvidia d'étendre son influence au-delà du matériel jusque dans la distribution des modèles ouverts. Jensen Wang promet que
+4:414 minutes et 41 secondesla plateforme restera ouverte et qu'aucun développeur ne sera obligé d'utiliser les puces Nvidia. Mais certains craignent que les matériels
+4:494 minutes et 49 secondesconcurrents deviennent progressivement moins visibles, moins performants ou moins bien intégrés. Le véritable enjeu
+4:564 minutes et 56 secondessera donc de savoir si UGM Face peut rester neutre tout en appartenant au principal fournisseur mondial de puce pour l'intelligence artificielle.
+5:055 minutes et 5 secondesCette plateforme apparaît également dans l'histoire de la sécurité d'Open AI. En juillet, des agents testés par l'entreprise avaient réussi à sortir de
+5:145 minutes et 14 secondesleur environnement isolé et à compromettre une cible hébergée sur UG Face.
+5:195 minutes et 19 secondesAstra n'était pas impliqué dans cet incident, mais les enseignements tirés de ce test ont servi à renforcer les protections appliquées aux nouveaux
+5:265 minutes et 26 secondesagents. Si vous appréciez ces actualités expliquées simplement et sans exagération, abonnez-vous à Parlon IA et
+5:345 minutes et 34 secondesTech. Vous pouvez également soutenir directement notre travail en devenant membre de la chaîne. Merci sincèrement à toutes celles et ceux qui le sont déjà.
+5:445 minutes et 44 secondesPassons maintenant du contrôle des modèles à leur arrivée dans le monde réel. Uber et l'entreprise britannique Wave viennent de lancer leur premier
+Chapitre 4 : Uber et Wayve lancent des robotaxis à Londres
+5:515 minutes et 51 secondestrajet en robotxi à Londres. Une personne qui commande un Uber X, un Uber Confort ou un Uber électrique peut
+5:585 minutes et 58 secondesdésormais être associé sans supplément à une Ford Mustang Mac E équipée de la technologie de Wave. Le mot robot taxi
+6:066 minutes et 6 secondesdemande cependant une précision importante. Pour le moment, ces véhicules ne circulent pas entièrement seul. Un opérateur agréé reste à bord
+6:156 minutes et 15 secondespour surveiller la voiture et reprendre le contrôle en cas de problème. Moins de 20 véhicules sont disponible au lancement. Plusieurs autorisations
+6:236 minutes et 23 secondesseront encore nécessaires avant que Wave puisse retirer le conducteur de sécurité. Londres devient néanmoins la deuxième ville européenne après Zagreb
+6:326 minutes et 32 secondesoù Uber propose ce type de trajet à de véritables passagers. Wave affirme que son conducteur virtuel apprend par
+6:396 minutes et 39 secondesl'expérience et peut s'adapter à différentes routes, voitures et conditions météorologique. L'objectif de cette première phase n'est donc pas
+6:476 minutes et 47 secondesseulement de transporter des passagers, il s'agit de vérifier comment le système réagit dans une ville particulièrement dense et imprévisible. Mais les voitures
+6:566 minutes et 56 secondesne sont plus une étape. D'autres entreprises dépensent déjà des milliards pour donner un corps humanoïde à ces systèmes. Figure développe des robots
+Chapitre 5 : 3,5 milliards de dollars pour les robots de Figure
+7:057 minutes et 5 secondeshumanoïdes capables de travailler dans des environnements conçus pour les humains. Pour entraîner leur intelligence artificielle, l'entreprise
+7:137 minutes et 13 secondesvient de signer un accord de plusieurs années avec Ncale, un spécialiste des infrastructures de calcul. La valeur
+7:207 minutes et 20 secondesannoncée atteint 3 milliards et demi de dollars avec une possibilité de dépasser 6 milliards. Attention toutefois, Ncale
+7:297 minutes et 29 secondesne verse pas directement cette somme à figure. L'entreprise s'engage à lui fournir une quantité de puissance informatique évaluée à ce montant. Les
+7:387 minutes et 38 secondespremiers processeurs devraient être disponibles au Texas à partir du second semestre 2027. À terme, jusqu'à 100000 puces Nvidia pourraient être mobilisé.
+7:507 minutes et 50 secondesNSALE deviendra également actionnaire de figure et son fournisseur privilégié de puissance de calcul. Cette
+7:577 minutes et 57 secondesinfrastructure servira à entraîner les prochaines versions Délix, le système qui permet aux robots de figure de comprendre leur environnement et d'y
+8:058 minutes et 5 secondesaccomplir des tâches. Le calendrier révèle l'ampleur du Paris. Ces entreprises réservent aujourd'hui les centres de données dont leur robot
+8:148 minutes et 14 secondespourraient avoir besoin dans plusieurs années. Mais cette course, vers toujours plus de puissance commence elle-même à inquiéter l'un de ses principaux
+Chapitre 6 : Sam Altman sonne l’alarme
+8:228 minutes et 22 secondesarchitectes. Après les modèles, les plateformes, les voitures et les robots, voici le grand paradoxe de cette édition. Samtman vient de qualifier une
+8:308 minutes et 30 secondespartie de la construction mondiale d'infrastructure pour l'intelligence artificielle d'absurdité insoutenable.
+8:368 minutes et 36 secondesLe patron d'Open AI vise notamment certaines Neocloud. ces entreprises spécialisées dans la location de puissance de calcul. Selon lui,
+8:448 minutes et 44 secondesplusieurs annoncent des capacités gigantesques sans disposer des revenus ni des clients déjà engagés pour les rentabiliser. Samtman affirme que les
+8:528 minutes et 52 secondesinvestissements réalisés par Open AI répondent à une demande réelle, mais il reconnaît que des modèles plus efficaces pourraient rendre certaines
+8:598 minutes et 59 secondesinstallations surdimensionnées. Un ralentissement économique pourrait également empêcher certains clients de payer les capacités qu'ils ont réservé.
+9:079 minutes et 7 secondesSon avertissement ne signifie donc pas que toute l'industrie de l'intelligence artificielle forme une bulle. Il distingue les infrastructures soutenues
+9:149 minutes et 14 secondespar de véritable contrat de celles qui sont construites dans l'espoir que les clients arriveront plus tard. C'est aussi pour cette raison que la
+9:229 minutes et 22 secondesformulation de l'accord entre scale et fidure est importante. Nous parlons d'un engagement à fournir du calcul sur plusieurs années et non d'un simple
+9:309 minutes et 30 secondestransfert immédiat de 3 milliards et demi de dollars. Tout le paradoxe est là. Les entreprises doivent réserver énormément de puissance pour créer des
+9:389 minutes et 38 secondesmodèles plus performants. Mais si ces modèles deviennent beaucoup plus efficaces, une partie des infrastructures commandées aujourd'hui pourrait perdre de sa valeur. Une même
+Chapitre 7 : Conclusion
+9:479 minutes et 47 secondesmécanique relie toutes ses annonces. Les modèles ne se contentent plus de produire du texte. Il commence à créer des applications, à utiliser des
+9:559 minutes et 55 secondesordinateurs et à agir dans le monde physique. Le pouvoir se déplace donc progressivement vers ceux qui contrôle toute la chaîne, les puces, les centres
+10:0310 minutes et 3 secondesde données, les plateformes de modèles et les mécanismes capables d'arrêter les agents. La prochaine bataille de l'intelligence artificielle ne portera
+10:1110 minutes et 11 secondespas seulement sur le modèle le plus intelligent, elle portera sur la capacité à financer, distribuer et contrôler ces systèmes sans construire
+10:1810 minutes et 18 secondesune infrastructure impossible à rentabiliser.
+10:2210 minutes et 22 secondesParmi ces cinq actualités, laquelle vous semble la plus importante ?
+10:2610 minutes et 26 secondesDites-le-nous en commentaire. Merci d'avoir suivi cette édition jusqu'au bout et à très bientôt sur Parlonsia et
+
+Tout
+
+Intelligence artificielle
+
+Ordinateurs
+
+Présentations
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+47:12
+GPT-6 Astra : pas encore l'AGI mais déjà flippant !
+Renaud Dékode
+966
+il y a 1 h
+Nouveau
+
+
+34:08
+What Every Body Fat % Actually Looks Like (50% to 5%)
+Jeff Nippard
+15 M
+il y a 9 m.
+
+
+49:48
+24h comme au Japon... mais à LONDRES avec @thomasdeseur 🇬🇧
+Tev - Ici Japon
+86 k
+il y a 5 h
+Nouveau
+
+
+1:39:06
+Les Sacrifices d'un Strongman pour avoir un physique hors norme (douleurs, lifestyle, dérives...)
+Biomécanique et tengostrong
+117 k
+il y a 1 a
+
+
+32:46
+MALBOUFFE : le nouveau BUSINESS des INFLUENCEURS
+VA Plus
+227 k
+il y a 1 m.
+
+
+57:22
+Tech Sama Show #365 : DLSS 5 Leaké, Apple M6, Windows 26 H2
+Tech_Sama
+50 k
+il y a 3 j
+Nouveau
+
+
+14:39
+JE ME SUIS DÉCHIRÉ LE BICEPS POUR TF1 😱 (c’est LA FIN pour moi ?)
+Thomas Rainieri
+112 k
+il y a 4 a
+
+
+26:46
+J'ai entraîné un côté LOURD et l'autre LÉGER pendant 60 jours (mauvaise idée)
+Jeremy Ethier
+5,1 M
+il y a 11 m.
+Doublée
+
+
+7:45
+OpenAI m'a banni à VIE pour ce test (preuves à l'écran)
+Meydeey | Automatisation IA
+765
+il y a 3 h
+Nouveau
+
+
+36:33
+LE JOUR OÙ LE MAJOR GERALD A FAILLI MOURIR (stage commando extrême)
+Thomas Rainieri
+444 k
+il y a 4 a
+
+
+3:27:36
+GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0
+Renaud Dékode
+6,6 k
+Diffusé il y a 2 h
+Nouveau
+
+
+15:47
+J’ai Tenté les 15,000 Calories du TITAN Andrey Smaev...
+Thomas Rainieri
+360 k
+il y a 9 m.
+
+
+34:40
+24 Heures À Busan En Corée Du Sud : IRL
+LeMondeDeChoi
+128 k
+il y a 1 a
+
+
+20:02
+3 gars s'entraînent les avant-bras tous les jours pendant 30 jours
+Jeremy Ethier
+3,3 M
+il y a 7 m.
+Doublée
+
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+10 M
+il y a 9 m.
+Doublée
+
+
+28:14
+Actus IA : GPT-6 ASTRA est là et bouleverse TOUT ! (+ Fable 5.1 Gemini, Muse Spark…)
+Le Bretzel
+487
+il y a 2 h
+Nouveau
+
+
+42:09
+J'emmène un maître sushi japonais 🍣 juger les sushi en France 🇫🇷
+Louis-San
+945 k
+il y a 2 m.
+
+21:22
+L'histoire inquiétante du créateur de Claude
+Sébastien Koubar
+61 k
+il y a 1 m.
+
+51:02
+Openclaw 2.0 vient de tuer Hermes Agent ?
+Dr. Firas
+916
+il y a 7 h
+Nouveau
+
+39:59
+JE M'ENTRAINE 7 JOURS AVEC LE MAJOR GERALD (content de vous avoir connu)
+Thomas Rainieri
+1,1 M
+il y a 3 a
+
+    

@@ -1,0 +1,795 @@
+
+
+Découvrez la communauté des adeptes du batch cooking
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+9+
+
+Image d'avatar
+GPT-6 Astra + Codex : le nouveau duo qui change tout
+Mike Codeur
+Mike Codeur
+83,6 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+4 sept. 2026  #gpt6 #gpt6astra #openai
+🎁 Récupère la méthode Killer SaaS
+https://mkc.sh/get-killer-saas
+
+🚀 The Agentic Dev — Newsletter IA & Dev
+https://mkc.sh/the-agentic-dev?utm_so...
+
+🎁 Formations offertes
+https://mkc.sh/formations-offertes?ut...
+
+🤖 AgentsMail — Plateforme d'email marketing agentique
+https://agentsmail.io/
+
+
+---
+
+GPT-6 Astra est le nouveau modèle phare d'OpenAI. Son véritable changement ne se limite pas à de meilleurs scores : il peut utiliser un ordinateur, piloter des logiciels, coder et poursuivre des workflows longs avec un harnais Codex amélioré.
+
+Dans cette vidéo, on analyse ses capacités agentiques, ses 10 outils via la Responses API, son contexte de 1,05 million de tokens, ses démonstrations dans KiCad, Blender et Unreal Engine, ses résultats sur ARC-AGI-3, son prix et le seuil « Critical » franchi en cybersécurité.
+
+Dans cette vidéo :
+00:00 – GPT-6 Astra : ce qui change vraiment
+01:05 – Fiche technique et 10 outils
+02:05 – Astra, Codex et le nouveau harnais
+02:55 – Tarifs de l'API et coût du contexte long
+03:45 – Résultats des benchmarks
+05:05 – ARC-AGI-3 : pourquoi 62,7 % et 99,9 %
+06:25 – Computer use : KiCad, Blender, Unreal et Playco
+08:15 – Cybersécurité, zero-days et mathématiques
+09:15 – Plus aligné, mais plus difficile à surveiller
+10:20 – Ce qu'il faut retenir
+
+---
+
+📊 Benchmarks et sources évoqués :
+
+Annonce GPT-6 Astra et résultats OpenAI
+https://openai.com/index/gpt-6-astra/
+
+Agents' Last Exam
+https://snorkel.ai/leaderboard/agents...
+
+AutomationBench
+https://zapier.com/benchmarks
+
+ScreenSpot-Pro — leaderboard officiel
+https://gui-agent.github.io/grounding...
+
+Terminal-Bench 4.0
+https://www.tbench.ai/news/terminal-b...
+
+Terminal-Bench Science 0.1
+https://www.tbench.ai/news/terminal-b...
+
+DeepSWE v1.1
+https://deepswe.datacurve.ai/blog/dee...
+
+ARC-AGI-3 — résultats GPT-6 Astra
+https://arcprize.org/results/openai-g...
+
+ARC-AGI-3 — analyse du Provider Adapter
+https://arcprize.org/blog/astra
+
+FrontierMath Tier 4 v2
+https://epoch.ai/benchmarks/frontierm...
+
+Analyse indépendante d'Artificial Analysis
+https://artificialanalysis.ai/article...
+
+System Card GPT-6 Astra
+https://deploymentsafety.openai.com/g...
+
+---
+
+🔗 Me retrouver :
+📷 Instagram : https://mkc.sh/instagram?utm_source=y...
+💼 LinkedIn : https://mkc.sh/linkedin?utm_source=yo...
+✉️ Contact : https://mkc.sh/emails?utm_source=youtube
+🔗 Tous les liens : https://mkc.sh/links?utm_source=youtube
+❓ Poser une question : https://mkc.sh/questions?utm_source=y...
+
+---
+
+Mike — Développeur Agentic / Formateur / Bali.
+Je partage mes workflows IA, mes outils et mes retours d'expérience sur le dev, les saas et le business en ligne.
+
+#gpt6 #gpt6astra #openai #codex #ia #agenticdev
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Mike Codeur
+83,6 k abonnés
+Vidéos
+À propos
+
+Abonne toi !
+
+Instagram
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@marcardouin8066
+il y a 33 minutes
+Bonjour, 
+Ça se mange ?
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@mrdjangofreeman5560
+il y a 1 heure
+Prems 😅😊😂
+
+
+
+
+Répondre
+
+Mike Codeur
+·
+
+1 réponse
+
+@kalist8938
+il y a 18 minutes (modifié)
+Mouais c'est comme a chaque annonce. C'est censé être la revolution mais ca reste "juste" une évolution.
+
+Les annonces de Fable étaient pareilles. Soit disant 2-3 prompt pour créer un jeu etc et dans les faits ce n'est pas le cas.
+
+Je n'apprécie pas non plus le changement de la définition de l'AGI qui a été faite afin de réussir a placer ce buzz world dans leur annonce.
+
+On commence a avoir l'habitude depuis 3 ans des annonces revolutionnaires pour faire mousser les investisseurs. Et comme toujours les même discours de certain "oui mais cette fois-ci c'est différent", bha non en fait.
+
+2
+
+
+Répondre
+
+Mike Codeur
+·
+
+6 réponses
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : GPT-6 Astra : ce qui change vraiment
+0:000 secondeAlors, je pense qu'on vient de franchir un cap aujourd'hui. Open AI vient de lancer son nouveau modèle, le plus gros, le plus puissant. Euh, je veux parler du
+0:088 secondesmodèle GPT6 Astra, un modèle capable en fait de euh raisonner, de reconnaître son environnement. Il y a une
+0:1515 secondesdémonstration assez impressionnante de ce modèle. L'équivalent de ce modèle, on l'a vu récemment, il y a eu les modèles
+0:2323 secondesLuna, Terra, Sol qui étaient déjà des modèles assez avancés qui ont fait que beaucoup de développeurs en fait ont switché petit à petit de cloud euh et
+0:3232 secondesnotamment des modèles OPUS 5 et cetera vers ces modèles-là. Mais aujourd'hui et bien le modèle GPT6 Astra est encore plus gros. Et bien on va voir un petit
+0:4141 secondespeu ce qu'il a sous le capot. C'est parti. Alors, on va avancer un petit peu rapidement sur la partie technique. Je te la refais pas, je pense que tu connais. 1 million de tokens comme
+0:4949 secondesfenêtre de contexte. On a 128000 tokens en sortie et on a une dizaine de tools qui est gérée par la pay. On peut voir
+0:5757 secondesun petit peu ici tout ça. Tu peux retrouver ça sur cette fiche. Je te mettrai bien sûr tout ça en description.
+1:021 minute et 2 secondesC'est un modèle qui coûte quand même, on est à peu près aux alentours du même prix que du O+ 5. 10 dollars en entrée, 50 dollars en output. Et ça euh euh ça
+Chapitre 2 : Fiche technique et 10 outils
+1:121 minute et 12 secondessupporte en gros euh tous ces euh outils que tu connais, peut-être déjà la recherche web, l'image génération et cetera, les skiss, les MCP, le système
+1:211 minute et 21 secondesde recherche. Bref, ça c'est quelque chose qui a euh tout ce qu'il y a de plus classique. Qu'est-ce qu'on a d'autre ? Et bien on a on va avoir parce
+1:281 minute et 28 secondesque c'est pas encore disponible, on va avoir Astra dans Codex. Donc le harnet c'est Codex. le modèle à l'intérieur, on
+1:351 minute et 35 secondesaura Astra euh GPT6 Astra et surtout eth bien on aura accès à tous ces outils et c'est tout ça en fait combiné qui va
+1:431 minute et 43 secondesfaire qu'on aura en fait quelque chose d'assez puissant. Si tu veux plus de détails euh sur tout ça, je te mettrai euh le lien de ces fiches techniques là
+1:521 minute et 52 secondessi jamais tu as le courage d'aller lire tout ça. Ensuite et bien concernant les tarifs, je t'en ai déjà parlé, on est sur 10 dollars en entrée et 12000 en
+2:012 minutes et 1 secondesortie pour 1 million. Donc de token, ça c'est toujours pareil si tu passes par euh l'API. Maintenant, nous les développeurs, on utilise plutôt euh nos
+Chapitre 3 : Astra, Codex et le nouveau harnais
+2:102 minutes et 10 secondesformules habituelles euh Pro, Max et cetera et donc ça va pas changer grand-chose pour toi. Allez, on va regarder un petit peu les bench comme
+2:172 minutes et 17 secondesd'habitude, hein. Tu vois que sur les les benchs les plus classiques ici, on a on a des scores assez avancés. Je vais te montrer ça rapidement ici sur cette
+2:252 minutes et 25 secondesmagnifique page de présentation. Alors, tu vois qu'ils ont travaillé ça, hein.
+2:302 minutes et 30 secondesIls ont toutes leur leur concept autour de de tout ce qui est étoile, Astra et cetera, terre, machin, ben bref. Donc du
+2:372 minutes et 37 secondescoup ici le premier bench, le terminal bench science, tu vois que alors tu vois ici, il compare par rapport à GPT6
+2:432 minutes et 43 secondesAstra, le 56 Sol qui était un de leurs modèles les plus avancés, hein, à ce jour, juste avant juste avant le le
+2:512 minutes et 51 secondesGPT6. Et on a une comparaison avec Claude Fable 5.1 qui est sorti il y a quelques jours et Fable 5 he Fable 5.1
+Chapitre 4 : Tarifs de l'API et coût du contexte long
+2:592 minutes et 59 secondesqui est passé quasiment inaperçu euh aujourd'hui. Les développeurs et bien sont en train de de retourner un petit peu leur veste et du coup bien toutes
+3:063 minutes et 6 secondesles annonces d'hropique passent un petit peu à la trappe. Enfin bref, ici tu vois les différences quand même sur Astra 6 clairement on est sur alors hop je vais
+3:163 minutes et 16 secondesrevenir ici. On est clairement sur des des bench qui montent pour pour 20 20 à quoi 20 à 30 dollars de de prix. On est
+3:253 minutes et 25 secondesà entre 55 et 70 % sur l'arc AGU3. Alors là, c'est là où il est assez impressionnant puisque ce bench là est
+3:343 minutes et 34 secondesun bench en gros qui euh permet de voir un petit peu si le modèle est capable de
+3:423 minutes et 42 secondeseuh se représenter un petit peu, l'espace autour de lui, la 3D et cetera.
+Chapitre 5 : Résultats des benchmarks
+3:473 minutes et 47 secondeseuh toutes ces choses-là. Et d'ailleurs, c'est un petit peu ce qui est mis ici, je crois en avant. Euh si tu regardes bien dans la démo, hein, ce que tu vois ici,
+3:553 minutes et 55 secondesc'est ce que peut faire le modèle. Alors là, ils ont fait une démo un petit peu un petit peu tape à l'œil où quelqu'un parle directement et tu vois le modèle
+4:044 minutes et 4 secondesen train d'interagir directement. Donc là, on voit des exemples. Va naviguer sur tel site, fais-moi cette cette fusée
+4:124 minutes et 12 secondesen 3D avec des logiciels comme Blender et cetera. Et donc tu vois que le modèle pour le coup est assez puissant sur toutes ces tâches là, notamment du
+4:204 minutes et 20 secondesBlender euh un logiciel 3D assez connu des des gens qui font de la 3D mais pas que ça. Il a sur des sur d'autres sur
+4:294 minutes et 29 secondesd'autres outils que je te présenterai bien sûr un petit peu euh un petit peu après. Donc sur la partie donc là c'est là où ça c'est révolutionnaire sur le
+4:374 minutes et 37 secondesarc AGI3. Après, c'est un petit peu classique sur tout ce qui est euh mathématique, terminal bench, bien sûr, il est en avance, hein. Tu vois qu'il
+4:444 minutes et 44 secondesest à peu près au niveau euh au niveau d'un d'un faible 5.1. Automation bench aussi, je pense qu'il est un petit peu
+4:524 minutes et 52 secondesen avance. Alors, comme je te disais, voilà, donc sur l'AGI, Arc AGI3 score modèle du monde, c'est en gros le monde qui nous entoure, les actions. Tu vois que clairement là, on est le standard.
+5:035 minutes et 3 secondesDonc pour 20000 dollars, tu es un tu as un score de 62,1 %. Et là avec euh beaucoup moins cher, donc avec 18000
+Chapitre 6 : ARC-AGI-3 : pourquoi 62,7 % et 99,9
+5:125 minutes et 12 secondesdollars de token, on est sur un score qui atteint les 99,95 %. Donc c'est assez comme le montre ici he la courbe
+5:205 minutes et 20 secondesque je t'ai montré tout à l'heure, je sais plus où elle est, je l'ai enlevé ici. Celle-là c'est assez en fait impressionnant la différence entre
+5:275 minutes et 27 secondesjustement Opus 5 qui est un modèle assez avancé et encore une fois Astra et même sol 5.6 sol qui était le gros modèle
+5:365 minutes et 36 secondesactuel avait un score que de 7,8 %. Donc c'est assez assez bluffant ce qu'ils arrivent à faire là-dessus. Allez, qu'est-ce qu'on a d'autre ici ? les
+5:445 minutes et 44 secondesworkflow dans les logiciels, je te mettrai le lien bien sûr dans la description vers cette vidéo que tu peux aller voir qui est assez euh sympa. Mais dans les grandes lignes ici, ils font
+5:535 minutes et 53 secondesune démo avec euh Kikad, donc un logiciel qui permet de faire des schémas, tu sais, sur PCB. et on sait
+5:595 minutes et 59 secondesque les bons euh agents, les bons modèles sont capables euh d'optimiser un petit peu les routes des schémas électroniques. Et parfois ben ça permet
+6:086 minutes et 8 secondescomme ça pour les boîtes qui qui sont dans ce domaine là de faire des choses assez d'économiser en fait de l'espace he parce que le meilleur câblage plus tu
+6:176 minutes et 17 secondesarriveras à faire un bon câblage et bien plus tu pourras optimiser l'espace sur les couches de gravure. Enfin bref, c'est des choses un peu techniques et sur ces trucs là, il est assez balaise.
+Chapitre 7 : Computer use : KiCad, Blender, Unreal et Playco
+6:266 minutes et 26 secondesEnsuite, on a tout ce qui est 3D. Encore une fois, tout ce qui est Blender euh Unreal Engine, Playco, je sais pas trop ce que c'est. Ça doit être un un je sais
+6:336 minutes et 33 secondespas si c'est un jeu, un logiciel et cetera. Euh, fais voir ici qu'est-ce qu'il nous a dit. Et ce qu'il nous ont montré donc PlayCo, cut manual fix
+6:416 minutes et 41 secondesimportant prototing. OK, je sais pas trop ce que c'est Playo. Donc je te mettrai bien sûr le lien vers cette chose-là.
+6:486 minutes et 48 secondesOK. Bon bref, je te montrerai ça et je te mettrai le lien et tu iras un petit peu t'amuser avec tout ça. Je ferme ça quand même. Euh qu'est-ce qu'on a d'autre aussi ? Euh les tests de Legora.
+7:007 minutesDonc Legora, c'est les tests qui sont liés à tout ce qui est finance, analyse, documents financiers. Et donc là, clairement, on est sur des sur de
+7:087 minutes et 8 secondesl'analyse de documents. Je peux te le montrer ici. Ils ont fait des tests et clairement, on est sur un résultat de 4/ 4. OK. Donc là, encore une fois, c'est
+7:177 minutes et 17 secondesdes c'est des choses qui sont fournies par euh par Open AI. Donc ça reste à vérifier, mais clairement, on est sur de
+7:257 minutes et 25 secondesl'analyse financière qui est assez avancée encore une fois et assez en avance. Qu'est-ce qu'on a d'autre ? Et bien, on a le premier modèle open a classifié donc comme critical en cyber.
+7:377 minutes et 37 secondesAlors, on avait vu euh Mythos arriver.
+7:417 minutes et 41 secondesMythos qui était qui avait fait grand burquil avait été interdit. il était pas autorisé au public et cetera. Donc on a eu mythos. Mythos qui a été décliné au
+7:497 minutes et 49 secondesgrand public sous forme de fable. Quand tu vois le modèle fable, c'est une version bridée en fait de mythos et déjà ça faisait des choses assez assez
+7:577 minutes et 57 secondesincroyables. Et bien là aujourd'hui leur modèle apparemment encore une fois alors faut toujours prendre avec des pincettes ce qu'ils disent parce qu'ils aiment
+8:048 minutes et 4 secondesbien nous faire peur, nous dire que voilà c'est critical en cyber, c'est dangereux, c'est ceci, c'est cela.
+8:118 minutes et 11 secondesPourquoi ? parce que plus tu veux présenter un modèle comme étant dangereux, euh on sait que je sais plus quel modèle la la dernière fois avait
+Chapitre 8 : Cybersécurité, zero-days et mathématiques
+8:178 minutes et 17 secondesattaqué avait hacker euh Xfield je crois ou euh ou Hugging Face, je sais plus.
+8:248 minutes et 24 secondesEnfin bref, on aime bien présenter ce genre d'annonce un petit peu sensationnelle pour justement dire que c'est un modèle révolutionnel
+8:318 minutes et 31 secondesrévolutionnaire pardon. Là, je pense que ça ça doit être vrai euh vu quand même ce qu'on a vu comme avancé notamment avec Kimi 3, ce qu'on a vu avec Fable,
+8:418 minutes et 41 secondesMythos et cetera. Donc ça m'étonnerait pas que ça soit un modèle qui soit capable euh de faire des exploites euh assez sympas. Le problème de ça, c'est
+8:498 minutes et 49 secondesque souvent bah derrière il y a des garderelles qui empêchent de faire ça.
+8:538 minutes et 53 secondesIl y a un classifieur et en fait finalement c'est des modèles qui sont assez incroyables mais nous ils sont pour nous et on peut pas faire
+9:009 minutesgrand-chose. Bon voilà, peut-être que ils vont un petit peu autoriser de de s'auto peine tester parce que parfois si tu veux peine tester tes propres outils et bien parfois on te laisse passer.
+9:119 minutes et 11 secondesIci, je te remettrai le lien vers cette fiche là si jamais tu veux aller, si tu es intéressé par tout ce qui est euh truc de cybersécurité, je te mettrai
+Chapitre 9 : Plus aligné, mais plus difficile à surveiller
+9:209 minutes et 20 secondestout ça dans la description, c'est toujours utile. Et qu'est-ce qu'on a d'autre ici ? Euh résultat des évaluations de cybersécurité. Donc voilà
+9:289 minutes et 28 secondesce qui progresse. 2,4 % une évaluation interne et cetera. 0 % bon voilà ce qui inquiète. Chaîne de pensée moins
+9:359 minutes et 35 secondesmonitorable. Sind bagging des tests adversariaux, évasion du mon dans certains scénarios. Ça, ils aiment bien nous faire peur un petit peu. C'est ce
+9:439 minutes et 43 secondesque je te disais. Ils aiment bien nous faire peur avec ça. Donc voilà un petit peu pour la sortie euh d'Astra de ce modèle qui a l'air encore une fois
+9:529 minutes et 52 secondesvraiment sympa. Personnellement, moi ça fait un petit moment, tu sais, comme je te l'avais dit dans une vidéo, je switch souvent de de harnet. Ça veut dire que
+9:599 minutes et 59 secondesje suis parfois sur du cloud code, parfois sur du codex, parfois j'utilise d'autres euh outils euh mais globalement je reste sur deux arnés principaux,
+10:0810 minutes et 8 secondesc'est-à-dire Cloud Code et Codex. En ce moment, c'est vrai que j'ai été assez surpris de ce qu'on voit ici de sol,
+10:1610 minutes et 16 secondeshein, je veux dire sol 5.6 et assez bluffant. Euh je trouve que le harnet de codex est quand même beaucoup plus sympa
+Chapitre 10 : Ce qu'il faut retenir
+10:2310 minutes et 23 secondesà utiliser. Tu as moins l'impression que ça rame, c'est plus fluide, c'est voilà, tu as une meilleure euh on va dire développeur expérience. Donc pour le moment, je dirais que je m'amuse quand
+10:3110 minutes et 31 secondesmême pas mal avec euh leur modèle et leur harné. Et quand Astra sera vraiment disponible parce qu'à l'heure actuelle si tu veux l'utiliser et bien il va
+10:4010 minutes et 40 secondesfalloir que tu fasses un petit euh codex update comme ça. Donc tu vas mettre à jour euh codex et voilà donc modèle et
+10:4810 minutes et 48 secondesil n'est pas toujours pas disponible et il est il est pas disponible pourquoi ?
+10:5210 minutes et 52 secondesParce que il est déployé en fait progressivement hein. Ça a été mis dans cette fiche là. il est progressivement
+10:5910 minutes et 59 secondeseuh déployé sur euh tous les utilisateurs qui sont dans le trusted
+11:0511 minutes et 5 secondesaccess program euh j'ai essayé de de de souscrire bien sûr c'est réservé aux grosses entreprises dans un premier
+11:1211 minutes et 12 secondestemps et puis donc ça va petit à petit ça va passer dans les dans les par les API dans un premier temps et je pense que dans les jours qui viennent on va
+11:1911 minutes et 19 secondespouvoir l'avoir sur les abonnements plus pro business entreprise et cetera. Voilà, c'est tout pour cette euh vidéo.
+11:2711 minutes et 27 secondesEuh un modèle à suivre que je vais utiliser incessamment sous peu. Et si tu es intéressé par le développement argentique et cetera, et bien je te
+11:3511 minutes et 35 secondesremets euh un petit lien dans la description où tu vas pouvoir rejoindre Manusletter The Agentic Dev. On parle de toutes ces choses-là, du développement
+11:4311 minutes et 43 secondesagentique et cetera. Et si tu avais pas vu la vidéo dans laquelle je te présente un workflow ou qui me permet de
+11:5111 minutes et 51 secondesremplacer des sasses en quelques heures, voire quelques jours, et bien je te remets la vidéo, c'est celle-ci. Sí.
+
+Tout
+
+Source : Mike Codeur
+
+Interface de programmation
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+19:32
+GPT-6 Astra Is Finally Here (And It’s REALLY Good)
+Matt Wolfe
+130 k
+il y a 10 h
+Nouveau
+
+
+40:29
+J’ai testé GPT-6 Astra : avions, Blender, GTA… jusqu’où ça va ?
+Defend OFF
+2 k
+il y a 2 h
+Nouveau
+
+
+2:43:44
+Onimusha: Way of the Sword - Gameplay/Decouverte, Une nouvelle PÉPITE de CAPCOM ?!
+The Evil Plague Trophy Hunters
+30
+Diffusé il y a 33 min
+Nouveau
+
+
+14:39
+JE ME SUIS DÉCHIRÉ LE BICEPS POUR TF1 😱 (c’est LA FIN pour moi ?)
+Thomas Rainieri
+112 k
+il y a 4 a
+
+
+1:59:07
+L’expert en développement musculaire : Ils vous mentent sur les heures d’entraînement !
+The Diary Of A CEO
+7,1 M
+il y a 1 a
+Doublée
+
+
+20:20
+Claude Fable 5.1 : je demande un remboursement direct ! (mensonges, marketing étrange)
+Melvynx
+17 k
+il y a 2 j
+Nouveau
+
+
+7:15
+GPT-6 Astra ne devrait PAS exister.
+Instinct IA
+2,6 k
+il y a 12 h
+Nouveau
+
+
+19:30
+Iran : La guerre reprend, la Chine rachète et les stocks s’épuisent - Guy de la Fortelle
+Tocsin et Tocsin+
+53 k
+il y a 1 j
+Nouveau
+
+
+39:59
+JE M'ENTRAINE 7 JOURS AVEC LE MAJOR GERALD (content de vous avoir connu)
+Thomas Rainieri
+1,1 M
+il y a 3 a
+
+
+2:27:50
+L'homme qui démasque l'IA : On vous MENT, tout explose en 2027 ! | Ed Zitron
+The Diary Of A CEO
+ et Better Offline
+6,5 M
+il y a 8 j
+Doublée
+
+
+16:37
+Ton dashboard crypto avec Claude Code (Guide Complet)
+Meydeey | Automatisation IA
+12
+il y a 7 min
+Nouveau
+
+
+26:22
+L'IA à 9 centimes qui affole les géants (actu IA)
+Eliott Meunier
+23 k
+il y a 1 j
+Nouveau
+
+
+15:47
+J’ai Tenté les 15,000 Calories du TITAN Andrey Smaev...
+Thomas Rainieri
+360 k
+il y a 9 m.
+
+
+12:18
+J'ai testé la diète à 6000 calories de Hugh Jackman pour Deadpool & Wolverine.....C'était chaud.
+Naj B Fit
+320 k
+il y a 2 a
+
+
+16:02
+J’ai enquêté sur la folie des produits protéinés !!
+Tibo InShape Entrainement
+ et Tibo InShape
+213 k
+il y a 8 m.
+
+
+25:01
+TU MANGES ÇA ?! (les courses d'un bodybuilder pro)
+Théo Leguerrier
+203 k
+il y a 1 a
+
+
+17:31
+Le vrai risque des actions d’armement
+Xavier Delmas
+59 k
+il y a 5 m.
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1 M
+il y a 11 m.
+
+
+26:24
+Pourquoi tout le monde a peur de Nvidia
+Sébastien Koubar
+67 k
+il y a 3 sem.
+
+
+27:50
+Tous les meilleurs modèles IA pour 10 $ : la vérité sur Mammouth.IA
+Melvynx
+16 k
+il y a 2 j
+Nouveau
+
+
+32:20
+GPT-6 Astra blew away every one of my benchmarks
+How I AI
+34 k
+il y a 14 h
+Nouveau
+
+
+15:10
+JE M’ENTRAINE 7 JOURS COMME REACHER (Alan Ritchson)
+Thomas Rainieri
+183 k
+il y a 1 a
+
+
+31:44
+L'erreur à la milliseconde qui a coûté 475 millions de dollars à Intel
+American Forgotten Empires
+13 k
+il y a 17 h
+Nouveau
+
+19:29
+J'ai créé le Hermes OS Ultime pour avoir un VRAI Assistant IA sur Discord
+Melvynx
+6 k
+il y a 16 h
+Nouveau
+
+2:04:15
+GÉRALD MICHIARA : La dure réalité sur l'éducation et notre époque (avec Dr Bellego)
+Biomécanique
+151 k
+il y a 6 m.
+
+13:44
+ARRÊTEZ DE PRENDRE DE LA WHEY AVANT DE VOIR ÇA !
+Charles.co
+371 k
+il y a 3 m.
+
+18:23
+La chute brutale (et méritée) de Copilot
+Sébastien Koubar
+106 k
+il y a 2 m.
+
+33:28
+Pourquoi les devs réécrivent tout en Rust ?
+Underscore_
+752 k
+il y a 7 m.
+
+7:05
+Le projet à 10 milliards de Meta
+Social Scaling
+719
+il y a 1 j
+Nouveau
+
+2:24:18
+Direct n°124 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+87 k
+Diffusé il y a 1 j
+Nouveau
+
+8:15
+GPT-6 Astra vient de briser Internet!
+Parlons IA & Tech
+4,4 k
+il y a 18 h
+Nouveau
+
+29:17
+J’ai Construit Une Salle TEMU uniquement
+Will Tennyson
+10 M
+il y a 9 m.
+Doublée
+
+36:33
+LE JOUR OÙ LE MAJOR GERALD A FAILLI MOURIR (stage commando extrême)
+Thomas Rainieri
+444 k
+il y a 4 a
+
+45:07
+On reçoit Arthur Mensch, PDG de Mistral AI
+Underscore_
+796 k
+il y a 1 a
+
+41:33
+🚨 Le Japon est pris au piège… et votre argent pourrait payer le prix
+Julien Roman | Finance & Investissement
+81 k
+il y a 4 j
+Nouveau
+
+1:09:16
+Thomas Pesquet : peut-on faire l'amour dans l'espace ? | Small Talk S04E33
+Konbini
+ et David Castello-Lopes
+449 k
+il y a 1 j
+Nouveau
+
+16:21
+Choc générationnel : les boomers démunis face au phénomène Léna Situations
+Tocsin
+43 k
+il y a 19 h
+Nouveau
+
+13:06
+Gemini 3.8 Flash est sorti cette nuit (test à chaud)
+Meydeey | Automatisation IA
+2,7 k
+il y a 19 h
+Nouveau
+
+16:16
+Ce qu’on craignait tous arrive : l’IA s’attaque au Processeur
+Kang et ses PC
+205 k
+il y a 8 j
+
+19:08
+Vous pensiez manger assez de protéines ? J'enquête sur les étiquettes nutritionnelles
+Nassim Sahili
+142 k
+il y a 8 m.
+
+    
