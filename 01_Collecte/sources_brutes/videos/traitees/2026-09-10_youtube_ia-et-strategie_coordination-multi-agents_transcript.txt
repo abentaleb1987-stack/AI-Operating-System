@@ -1,0 +1,629 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+La vraie rupture des derniers modèles d'IA : la nouvelle génération sait s'organiser
+IA et Stratégie
+IA et Stratégie
+74,2 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+10 sept. 2026  #AgentsIA #MultiAgents #Cursor
+En 1965, IBM ajoute des centaines de programmeurs à un chantier en retard, OS/360, et le chantier prend encore plus de retard. Fred Brooks en tire la loi qui porte toujours son nom, et la réponse sortie de ce chantier n'a pas été d'ajouter du monde. Elle a été de retirer des mains. Un seul chirurgien tient le bistouri.
+
+Cet été, la même histoire a recommencé sans les salaires. Le 20 juillet, Cursor a lâché un essaim d'agents sur la réécriture de SQLite depuis son seul manuel de 835 pages. 68 000 commits en deux heures, plus de 70 000 conflits, et il a fallu tout arrêter. Entre-temps, l'enquête de METR et Redwood Research sur l'incident OpenAI et Hugging Face raconte environ 1 200 agents qui s'organisent seuls sur un dépôt de logiciels transformé en tableau d'affichage, avec un meneur, des recruteurs, et une signature cryptographique adoptée en une journée. Et Anthropic a mesuré ce que vaut un chef nommé dans une consigne.
+
+Ma thèse, je la pose tout de suite. Les agents savent exécuter et commencent à se répartir le travail. Ce qu'ils ne fournissent pas, c'est la manière de découper un travail, l'endroit où l'on tranche, et ce que l'organisation garde d'une mission à l'autre. Découper, trancher, garder. Je suis un cas jusqu'au bout, une proposition commerciale pour un industriel, avec les cinq règles que Cursor a construites à la place du chef et sa facture réelle, de 1 339 à 10 565 dollars pour un travail identique. Au passage, je corrige une chose que je vous ai dite en juillet.
+
+
+Pour rejoindre notre communauté :
+→ Patreon (pour aller plus loin + analyses exclusives + le discord de la communauté) :   / samouraidansant  
+→ Instagram (coulisses) :   / samourai_dansant  
+→ X : https://x.com/strategia_sam
+
+Pour celles et ceux qui veulent aller plus loin que la vidéo, un Discord communautaire francophone autour de quatre axes : stratégie, carrière, finance, technologie. Un public que je modère à la main, de l'entraide entre membres, et des conversations qui durent avec des évènements réguliers entre membres. Disponible dans vos avantages Patreon.
+
+
+SOURCES & DONNÉES PRIMAIRES
+
+Fred Brooks, OS/360, la loi de Brooks et l'équipe chirurgicale :
+   • Oral History of Fred Brooks Jr.  
+https://en.wikipedia.org/wiki/The_Myt...
+https://en.wikipedia.org/wiki/Brooks%...
+https://en.wikipedia.org/wiki/Chief_p...
+
+Cursor, l'essaim sur SQLite, les cinq règles et la facture des quatre configurations (20 juillet) :
+https://cursor.com/blog/agent-swarm-m...
+https://cursor.com/blog/self-driving-...
+   • Opening Keynote, Michael Truell | Compile 26  
+https://techcrunch.com/2026/08/15/spa...
+
+L'incident OpenAI et Hugging Face, comment les agents se sont organisés (METR et Redwood Research, 26 août) :
+https://metr.org/hugging-face-inciden...
+https://huggingface.co/blog/agent-int...
+https://cdn.openai.com/pdf/67869394-c...
+
+Anthropic, les essaims d'agents, le jeu à douze heures et les 266 failles (13 août) :
+https://www.anthropic.com/research/mu...
+
+
+RESSOURCES MENTIONNÉES :
+→ Juin, le rachat de Cursor par SpaceX :    • Ce que le rachat de Cursor par SpaceX chan...  
+→ Août, l'intrusion des agents chez Hugging Face :    • Internet n'a pas été conçu pour les agents...  
+→ Juillet, la firme minimale, la formule que je corrige ici :    • Ils viennent de rendre la délocalisation o...  
+→ La semaine dernière, GPT-6 et sa démonstration :    • GPT-6 : OpenAI vient de franchir son propr...  
+→ Construire votre propre benchmark, l'atelier méthode cité à 4 min :   / la-mort-des-ia-164062792  
+→ Le parcours Le Chef d'Orchestre sur surhumain.ai, accessible depuis le Patreon : https://surhumain.ai/formation?course...
+
+
+#AgentsIA #MultiAgents #Cursor #OpenAI #HuggingFace #Anthropic #FredBrooks #LoiDeBrooks #SQLite #Orchestration #ClaudeCode #StrategieIA #IAEntreprise #IntelligenceArtificielle
+IA et Stratégie explore les défis de coordination rencontrés lors du déploiement d'essaims d'agents autonomes. En s'appuyant sur l'histoire de l'informatique et des expériences récentes en cybersécurité, le contenu analyse les règles organisationnelles nécessaires pour transformer cette puissance de calcul en une production efficace et cohérente sans multiplier les coûts de synchronisation.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+IA et Stratégie
+74,2 k abonnés
+Vidéos
+À propos
+
+Patreon
+
+Instagram
+vidéos et analyses stratégiques sur l'IA
+vidéos et analyses stratégiques sur l'IA
+Nous rejoindre
+true
+IA et Stratégie
+74,2 k abonnés
+IA et Stratégie | Sam
+IA et Stratégie | Sam
+Nous rejoindre
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeVos agences s'organisent mais est-ce que le travail avance ? Les agences avaient exécuté et se répartir le travail découper, trancher, garder et même de
+0:088 secondesplus en plus juger. C'est ce qui sépare aujourd'hui deux entreprises [musique] équipées avec les mêmes outils. En 1965, IBM construit le plus gros logiciel
+0:1717 secondesjamais [musique] entrepris, le système d'exploitation de sa nouvelle gamme d'ordinateur. Le chantier prend du returait [musique]
+0:2525 secondesfait. Elle ajoute des programmeurs
+0:2929 secondes[musique]
+0:3535 secondeset le chantier va prendre encore [musique] plus de retard. Le responsable de l'époque s'appelait Fred Brooks et il en a tiré 10 ans plus tard une noix qui porte [musique] toujours son nom.
+0:4444 secondesAjouter des bras à un projet en retard le retarde davantage. Pas [musique] parce que les nouveaux sont mauvais mais parce que chaque personne ajoutée doit
+0:5151 secondesparler à toutes les autres. 10 personnes, c'est [musique] déjà 40 conversations à entretenir et le travail utile n'augmente jamais
+1:001 minuteaussi vite que le bavardage qu'il faut pour le tenir [musique] ensemble. La réponse sortie de ce chantier n'a donc pas été d'ajouter plus de monde, elle a
+1:071 minute et 7 secondesfinalement été de retirer des gens [musique] du projet. Un autre ingénieur d'IBM, Arland Mills, a proposé ce que Brooks a appelé l'équipe chirurgicale.
+1:151 minute et 15 secondesUn seul chirurgien, Tiel le Bistory et tous les autres, aussi brillant soit-il, lui passeront les instruments. Une seule main qui écrit et une seule version qui
+1:231 minute et 23 secondesfait foi. Et gardez bien cette salle d'opération en tête parce [musique] que cet été, l'histoire a recommencé mais cette fois-ci sans les salaires et sans
+1:311 minute et 31 secondesles droits sociaux. Chez Cursor, l'éditeur d'outil de programmation dont [musique] on a déjà parlé sur cette chaîne et qui appartient aujourd'hui à la maison Musk, on a lâché un essin
+1:401 minute et 40 secondesd'agent sur un même logiciel. 68000 notifications enregistrées en 2 heures.
+1:451 minute et 45 secondesUne activité [musique] délirante. Sauf que les conflits entre ces modifications ont très rapidement dépassé les 70000 et il a fallu tout arrêter très rapidement.
+1:531 minute et 53 secondesEn effet, les machines avaient trouvé de [musique] quoi s'occuper, mais le logiciel lui n'avançait plus. Si vous naviguez cette révolution de l'I et que vous avez les mains dans le cambouille,
+2:012 minutes et 1 secondevous vivez [musique] probablement la même scène, plus petite échelle évidemment, une équipe d'agents où chacun annonce qu'il avance et votre soirée a été passée à recoller les
+2:092 minutes et 9 secondesmorceaux. [musique] Vous aviez pourtant distribué des rôles, vous aviez même nommé un chef, vous avez peut-être même installé une extension Camban à votre
+2:162 minutes et 16 secondesHermes. Et voici ma thèse et je la pose tout de suite. Les agents savent très bien exécuter le travail. [musique] Ils commencent même à savoir se répartir le travail tout seul et à s'orchestrer
+2:242 minutes et 24 secondesentre eux. Ce qu'ils ne fournissent pas encore en ce septembre, c'est la manière de découper un [musique] travail, l'endroit où l'ent tranche et le choix de ce que l'organisation garde d'une
+2:332 minutes et 33 secondesmission [musique] à l'autre. Quand l'exécution ne coûte presque plus rien, ces trois choses vont séparer deux entreprises, même s'ils sont équipées du même outil. Drooks l'avait compris avec
+2:422 minutes et 42 secondesdes humains. Vous allez dans les prochains mois devoir le construire avec vos agents. Et justement, nous allons regarder ce que les agents savent déjà organiser tout seul. [musique] Pourquoi
+2:502 minutes et 50 secondesleur coopération finit par coûter plus qu'elle ne rapporte et ce que Cursor a construit pour s'en sortir avec un casin simple sous les yeux, une proposition
+2:572 minutes et 57 secondescommerciale pour vous aider à naviguer ce sujet avec vos clients.
+3:023 minutes et 2 secondesAu passage, je dois corriger une chose que je vous ai dit en brief. Revenons brièvement sur l'incident de Open AI et Ugging Face dont nous avions déjà raconté l'intrusion sur la chaîne.
+3:113 minutes et 11 secondesL'enquête publiée fin août par MTR et Redwood Research éclaire un autre étage, la manière dont les agents ont travaillé ensemble et c'est celui-là qui va
+3:193 minutes et 19 secondesm'intéresser aujourd'hui. Au cours du postmertem, on a découvert que pendant une évaluation de cybersécurité, des agents censés travaillés séparément ont
+3:263 minutes et 26 secondesdécouvert qu'un dépôt de logiciel pouvait leur servir de messagerie.
+3:313 minutes et 31 secondesEnviron 1200 agences y sont d'ailleurs retrouvés. Ils ont ouvert plusieurs chantiers pour comprendre et contourner leur correcteur, partager leurs essais
+3:383 minutes et 38 secondeset certains ont risqué l'échec de leur propre tâche simplement pour obtenir une information utile aux autres. La division du travail s'est donc
+3:463 minutes et 46 secondesconstruite en cours de route sans aucun organigramme, aucune réunion et aucun PowerPoint. Tout part d'un test de routine chez Open AI. Le 7 juillet,
+3:553 minutes et 55 secondesl'entreprise lance des dizaines de milliers d'agents en parallèle [musique] sur ses propres exercices de cybersécurité dans un bac à sable maison
+4:024 minutes et 2 secondesbaptisé exploit [musique] gym. Chaque agent dans sa boîte, chacun sa tâche. Aucun n'est censé parler à son voisin.
+4:084 minutes et 8 secondes[musique] Sauf que près d'un tiers de ces exercices sont impossibles à résoudre en suivant vraiment les règles.
+4:134 minutes et 13 secondesIls ont été d'ailleurs conçus [musique] comme ça simplement pour voir si l'agent allait oui ou non admettre qu'il était impossible [musique] de faire l'exercice. C'est d'ailleurs une des
+4:214 minutes et 21 secondestechniques que j'enseigne sur le Patréon si vous souhaitez aujourd'hui construire votre propre benchmark pour vos cas d'usage et arrêter de croire tous les benchmark [musique] antiques qu'on vous
+4:304 minutes et 30 secondessert sur internet. C'est alors qu'un agent coincé s'est mite à fouiller partout pour trouver [musique] une issue de secours et trouver une solution. Et
+4:374 minutes et 37 secondesle 8 juillet au soir, il va tomber sur un endroit qui n'était pas fait pour sable. Arti Factory, un dépôt interne où Open AI range ses briques logiciel.
+4:464 minutes et 46 secondesL'agent va très vite comprendre qu'en nommant un dossier d'une certaine manière, il peut y laisser un message qu'un autre agent finira par li. Il en
+4:534 minutes et 53 secondesdépose un, une véritable bouteille à la mer qui dit en substance qu'il est bloqué et qu'il cherche des idées ou des collaborateurs. Et c'est alors que un
+5:005 minutesautre agent qui tombe sur ce message va lui répondre. Puis un autre. Et dans les heures qui suivent, ils sont une cinquantaine et l'un d'eux va même
+5:075 minutes et 7 secondesécrire je traduis mon dieu, il y a un tableau de messages privés. On a trouvé d'autres agents. Le 9 juillet en matin, soit à peu près 48h après le début du
+5:165 minutes et 16 secondestest, ils sont près de 1200 à se synchroniser sur ce panneau d'affichage improvisé par lequel maintenant passeront plus de 70000 messages en une seme.
+5:265 minutes et 26 secondesC'est là qu'on se rend compte qu'on vit quand même une drôle d'époque. Tant que personne n'est tue à donner d'ordre, le travail s'est réparti de lui-même par émergence et organisation entre agents.
+5:375 minutes et 37 secondesEn examinant ce qui s'est passé, on se rend compte aussi qu'un agent a pris la direction des opérations parce qu'il a le plus gros budget de calcul et qu'il a
+5:445 minutes et 44 secondesdistribué les consignes de lui-même et passer la main à un autre [musique] agent qui arrive avec davantage de moyens lorsque c'était nécessaire. Il
+5:515 minutes et 51 secondesenvoie même des recruteurs vers des agents en fin de budget pour les convaincre [musique] de tenter des expériences risquées avec des arguments qu'un directeur commercial reconnaîtrait
+6:006 minutesparfaitement. De toute façon, on a plus rien [musique] à perdre sur sa note et le groupe lui, il gagne. Et c'est le 11 juillet à midi quand l'un d'entre eux
+6:086 minutes et 8 secondestrouve une faille [musique] exploitable chez Hugging Face que plus de neuf agents sur 10 vont lâcher leur chantier en cours pour se joindre à l'effort
+6:156 minutes et 15 secondes[musique] de groupe. Une organisation entière 100 % agentique qui rebascule tous les efforts communs sur [musique]
+6:236 minutes et 23 secondesun seul projet en moins d'une heure. Le 12 juillet vers 11h30 du matin, Open AI [musique] coupe d'un coup les principaux
+6:306 minutes et 30 secondescoordinateurs et c'est la suite qui m'a le plus choqué. Comme certains agents s'étaient mis à se faire passer pour d'autres afin [musique] de me lisser des
+6:376 minutes et 37 secondesfaux messages, ceux qui restaient ont adopté le 13 juillet au matin une signature cryptographique, c'est-à-dire un cachet que chacun impose sur ses
+6:466 minutes et 46 secondesmessages [musique] simplement pour prouver que c'est bien lui qui parle.
+6:496 minutes et 49 secondesIls se sont posés eux-mêmes un véritable problème de confiance qu'ils ont réussi à régler par eux-mêmes en une journée, le lendemain de la mort de leur chef.
+6:596 minutes et 59 secondes[musique]
+7:077 minutes et 7 secondes[musique]
+7:127 minutes et 12 secondes[musique]
+7:137 minutes et 13 secondesCe qui m'intéresse ici, c'est le changement de paradigme auquel on assiste ici. Il faut [musique] regarder les conditions de l'expérience, un modèle de recherche interne, des
+7:217 minutes et 21 secondesprotections désactivées, des exercices parfois impossibles et cela borne ce que l'on peut en déduire pour nous, pour notre quotidien. L'organisation
+7:297 minutes et 29 secondescollective entre agent, elle commence à émerger et on peut tout à fait l'étudier pouvant [musique] en tirer les meilleures leçons possible afin
+7:367 minutes et 36 secondesd'anticiper l'émergence du monde [musique] agentique qui est en train d'apparaître sous nos yeux. Et justement, ce qui m'intéresse le plus là-dedans, c'est qu'on peut désormais
+7:447 minutes et 44 secondesdéléguer tout un morceau d'une organisation [musique] professionnelle par elle-même, laisser s'autoorganiser vers un but final.
+7:517 minutes et 51 secondes[musique]
+7:527 minutes et 52 secondesEt pour voir ce que ça change vraiment, je vais prendre un cas concret que je garderai jusqu'à la fin de cette vidéo.
+7:567 minutes et 56 secondes[musique] Si vous dirigez par exemple un petit cabinet de conseil et que vous êtes disons trois, à l'industrial [musique] vous approche pour vous demander une proposition pour automatiser son service après-vente.
+8:068 minutes et 6 secondesVous avez 3 semaines, un cahier décharge de 40 [musique] pages et un concurrent en face. Vous allez alors confier la recherche sur le client à un agent. En
+8:148 minutes et 14 secondeschemin, il [musique] tombera peut-être sur une documentation technique trop lourde pour lui, mais il va ouvrir tout seul une [musique] tâche spécialisée pour la digérer. Puis vous vous rend la
+8:228 minutes et 22 secondessynthèse finale. Vous, vous n'aviez pas prévu ce scénario. Vous n'avez pas distribué cette tâche. L'effectif, c'est juste ajusté au travail qui se
+8:308 minutes et 30 secondesprésentait par lui-même. Et c'est exactement ce qu'un cabinet de trois personnes ne savait pas faire il y a encore 1 an. Et c'est pour ça qu'il déclinait ce genre d'appel d'offre.
+8:398 minutes et 39 secondesSeulement, une proposition commerciale doit raconter une seule histoire. Si par exemple l'agent qui rédige les besoins promet un accompagnement de 6 mois que
+8:478 minutes et 47 secondesl'agent qui bâtit le budget n'a jamais chiffré, vous allez vous retrouver avec deux très bons documents mais une très mauvaise offre pour vous. Chacun a
+8:558 minutes et 55 secondesparfaitement rempli sa mission mais c'est la coordination stratégique pour votre organisation qui manque. Le problème n'apparaît évidemment qu'au
+9:029 minutes et 2 secondesmoment de tout rassembler et ajouter un 4e agent rédacteur vous donnera surtout une troisème version du même désaccord.
+9:089 minutes et 8 secondesEncore une fois, on retombe sur la loi de Brooks. Ce désaccord, on peut maintenant l'observer en laboratoire. En août, l'équipe de sécurité d'anthropique
+9:169 minutes et 16 secondesa publié une série d'expériences sur les essins d'agent. En l'une d'elles, des groupes d'agents ont travaillé 12 heures d'affilé pour fabriquer un jeu de rôle.
+9:239 minutes et 23 secondesUn jeu de rôle en texte jouable dans un navigateur. Les chercheurs ont alors testé plusieurs façons de les organiser.
+9:299 minutes et 29 secondes[musique] D'abord, de simples consignes de collaboration. Ensuite, des rôles attribués d'avance, la programmation, la [musique] direction artistique, les
+9:379 minutes et 37 secondestests de jeu, enfin une hiérarchie complète avec [musique] un agent désigné patron et les autres qui prennent leurs ordres chez lui. Les trois ont donné le même résultat.
+9:479 minutes et 47 secondesDes jeux très mauvais, des [musique] interfaces inutilisables, absolument rien à quoi un humain aurait eu envie de jouer. Changer l'organigramme dans la
+9:559 minutes et 55 secondesconsigne n'a presque rien changé et c'est un détail qui va vous resservir [musique] et c'est peut-être le plus instructif du lot. Un seul modèle Sony 5
+10:0210 minutes et 2 secondesarrive à la fois à faire travailler ses agents sur les mêmes fichiers et à intégrer leurs contributions les unes dans les autres. Les modèles les plus anciens partagent le code mais
+10:1110 minutes et 11 secondesn'arrivent presque jamais à fusionner le travail et certains des plus récents s'en sortent par une esquive. Ils ne partagent tout simplement plus rien et
+10:1810 minutes et 18 secondestravaillent chacun dans leur coin. Donc ce qu'on comprend ici c'est que la coordination progresse vraiment génération après génération. Et
+10:2610 minutes et 26 secondes[musique] ici la génération numéro 5 de chérant commence à incuration et délégation. [musique] Mais coordonner la production ne garantit pas qu'on
+10:3510 minutes et 35 secondesproduit quelque chose de bon. Retenez cette distinction. Et voici l'expérience que j'aimerais partager [musique] avec vous qui encore une fois touche au domaine de la cybersécurité parce qu'en
+10:4210 minutes et 42 secondesfait ces essins d'agents ont avant tout montré leur capacité absolument effrayante d'efficacité sur les problèmes de cybersécurité. Si [musique]
+10:5010 minutes et 50 secondesvous prenez 45 agents et que vous les lâchez sur une quinzaine de logiciels libres avec pour concil d'y chercher des failles de sécurité, et bien lorsqu'ils
+10:5810 minutes et 58 secondessont lâchés en se coordonnant, ceci vous [musique] trouve 266 problèmes contre 21 pour des agents qui ont travaillé chacun
+11:0711 minutes et 7 secondesdans leur coin. Là, comme vous pouvez le voir, le collectif [musique] écrase le solitaire et la différence entre les deux situations tient en une
+11:1511 minutes et 15 secondesseule phrase. Chercher une faille, chacun dans son coin n'oblige personne à se mettre d'accord, mais modifier l'ensemble de la mécanique de jeu, si.
+11:2411 minutes et 24 secondesOr, se maître d'accord coûte du calcul à peu près autant qu'agir. Le prix de cette efficacité [musique] est donc la communication et cette communication à
+11:3111 minutes et 31 secondesune facture chez eux comme chez nous. Et c'est ici que je dois revenir sur ma formule de juillet. Dans les vidéos sur la firme minimale, j'avais décrit la taxe de synchronisation entre agents
+11:4011 minutes et 40 secondescomme virtuellement quasi nul. C'était en réalité un petit peu trop simpliste.
+11:4511 minutes et 45 secondesDire le même fichier ne supprime ni les [musique] contradictions, ni les reprises, ni le coût de leur résolution.
+11:5011 minutes et 50 secondesEt d'ailleurs, Brooks n'a jamais parlé de salaire, il parlait de conversation.
+11:5411 minutes et 54 secondesEt des conversations, les agents en ont autant que [musique] nous. Simplement, elles vont beaucoup plus vite et donc la facture est donc beaucoup plus
+12:0212 minutes et 2 secondesconcentrée dans le temps. [musique] Vous vous dites peut-être qu'il suffit de nommer un chef de projet. Anthropique a essayé l'expérience et [musique] ça n'a en pratique rien changé parce qu'un chef
+12:1112 minutes et 11 secondesde projet qu'on nomme dans une consigne, ça n'est qu'un nom pour un agent.
+12:1412 minutes et 14 secondesRegardez plutôt ce que Curseur a mis en place quand il a repris son [musique] essai.
+12:1812 minutes et 18 secondesReprenons l'expérience du début, celle des 68000 modifications de code. Curseur l'a reproduite avec une autre organisation. [musique]
+12:3312 minutes et 33 secondes[musique]
+12:3412 minutes et 34 secondesMême tâche récrire SQLite depuis son manuel avec les mêmes modèles, même budget de temps et une note donnée par une batterie de test dont [musique] les
+12:4212 minutes et 42 secondesagents ignoraient jusqu'à l'existence pour qu'il ne puissent pas travailler simplement pour optimiser cette [musique] note. Ce que Curseur a changé
+12:4912 minutes et 49 secondesn'est pas un organigramme, ce sont les règles de vie communes. Je vous les donne parce qu'elles se transposent à n'importe [musique] quelle équipe et que je pense sont la leçon stratégique si
+12:5812 minutes et 58 secondesvous aujourd'hui construisez [musique] des systèmes agentiques complexes avec plusieurs agents. Les trois premières règlent le conflit. D'abord, [musique] chaque décision de conception est écrite
+13:0613 minutes et 6 secondesdans un document partagé et le code qui en dépend porte un renvoi [musique] vers ce document que la machine vérifie. Un agent ne peut donc plus contreduire une
+13:1413 minutes et 14 secondesdécision sans que ça [musique] se voit immédiatement. Ensuite, point numéro 2, quand deux modifications qui viennent de deux agents se contredisent, [musique] ce n'est ni l'agent A ni l'agent B qui
+13:2213 minutes et 22 secondesva trancher, mais un agent tiers qui n'a écrit aucune des deux. Enfin, dès qu'un fichier devient trop gros, les contributions sont immédiatement gelées
+13:3113 minutes et 31 secondeset un agent [musique] indépendant externe doit venir pour le découper avant que le travail reprenne. Les deux dernières règles, elles concernent la
+13:3813 minutes et 38 secondesmémoire évidemment et plus précisément, elles la font durer. Première règle, tout d'abord, un agent a le droit de toucher hors de son périmètre à
+13:4513 minutes et 45 secondes[musique] condition de laisser un mot qui explique pourquoi. Ensuite, les agents tenir leur propre carnet de bord, un dossier qui leur appartient dont [musique] le sommaire est
+13:5413 minutes et 54 secondesautomatiquement misise à jour et remis à chaque nouvel agent qui arriuse.
+13:5813 minutes et 58 secondesRegardez ce que ces cinq règles ont en commun. Aucune ne dit qui commande.
+14:0214 minutes et 2 secondes[musique] Toutes disent où la décision est écrite et qui tranche quand ça coince. Le résultat mérite vraiment qu'on sette.
+14:0814 minutes et 8 secondes[musique]
+14:0814 minutes et 8 secondesDans l'ancienne organisation qui avait donné lieu à la première expérience, le fichier le plus disputé avait été touché par 1173 [musique] agents et avait
+14:1714 minutes et 17 secondesproduit à lui seul près de 8000 conflits. Imaginez 1000 [musique] personnes qui réécrivent la même page en même temps. Dans les nouvelles organisations, le ficier le plus
+14:2514 minutes et 25 secondes[musique] disputé en produit 47. Moins de 1000 conflits en 4 heures contre plus de 70000 avant. Et le résultat c'est que les agents vont passer 80 % des tests.
+14:3614 minutes et 36 secondesCe sont des chiffres publiés par le fournisseur sur un exercice particulier.
+14:4014 minutes et 40 secondesEt réussir ces tests ne prouve évidemment pas qu'il faille remplacer SQLite en production aujourd'hui. Mais ce qu'il faut comprendre et la comparaison est nette, c'est que les
+14:4814 minutes et 48 secondesmêmes modèles simplement mieux organisés avec de meilleures règles de coordination entre eux à des échelles qui touchent l'essin d'agent bien plus
+14:5614 minutes et 56 secondeslarge que la quinzaine d'agents qu'on peut manipuler aujourd'hui en produit davantage et de meilleure qualité. Vous voyez maintenant ce qu'un chef veut dire
+15:0315 minutes et 3 secondesquand c'est un marche. Ce n'est pas un titre, c'est un périmètre de décision, des droits de modification, une version qui fait référence et des critères d'acceptation que tout le monde peut lire. Brooks appelit ça le chirurgien.
+15:1515 minutes et 15 secondesCursor l'a redécouvert pour nous 60 ans plus tard avec des agents à la place des programmeurs d'IBM. Revenons maintenant à votre proposition pour l'industriel.
+15:2515 minutes et 25 secondesSi jetais vous, j'écrirai noir sur blanc, ce qui est vendu et ce qui ne [musique] l'est pas dans un document que chaque agent doit citer. Les agents préparent ensuite leur option, mais un
+15:3315 minutes et 33 secondesseul les assangue et c'est lui qui tient la version de référence. Le désaccord entre le budget et les besoins ne se règle donc plus en produisant une 4è
+15:4115 minutes et 41 secondesversion. Il remonte à ce document. Cet assembleur peut être un agent tant que les arbitrages restent par nés. En revanche, une remise qui entame votre
+15:4815 minutes et 48 secondesmarge ou une promesse qui engage vos consultants pendant 6 mois doit [musique] remonter jusqu'à la personne qui la signe. Cette remise, notez-la
+15:5615 minutes et 56 secondesquelque part parce qu'elle va nous coûter cher dans quelques minutes. C'est le genre de dénouement et d'expérience [musique] que je vais chercher pour vous. Ce qui change le jour où les
+16:0416 minutes et 4 secondesagents se mettent à produire [musique] plutôt que la démonstration 3D impressionnante du dernier modèle de GPT. S'abonner à cette chaîne, c'est choisir cette lecture là plus
+16:1316 minutes et 13 secondesstratégique au lieu [musique] de collectionner des démonstrations qui de toute façon ne sont pas vocal usage au fil de l'algorithme. Revenons à l'expérience.
+16:2116 minutes et 21 secondesCette organisation [musique] vous donne un levier de réflexion avant même de penser à acheter un modèle plus puissant. Z ne vous [musique] dit pas combien d'agents mettre mis sur quelle
+16:2916 minutes et 29 secondestâche. Mettre un agent sur le calcul du prix avant que le périmètre et le scope de votre projet soit stable. C'est exactement comme faire courir quelqu'un
+16:3716 minutes et 37 secondes[musique] sur une route que vous déplacez sous pieds et fort. Pas donc là où une attente réelle peut [musique]
+16:4216 minutes et 42 secondestout à fait disparaître. La recherche documentaire retarde votre offre. Un agent de plus doit aider. [musique] Et si tout le système attend votre arbitrage sur le prix, ajouter des
+16:5016 minutes et 50 secondeschercheurs va surtout remplir la pile de bambou. [musique] Même si l'étape consiste à appliquer un calcul connu, une simple formule suffira. Il n'y a aucune raison de payer une délibération
+16:5916 minutes et 59 secondesagentique [musique] pour faire une simple règle de 3. Curseur a d'ailleurs publié la facture de ses quatre configurations sur cette [musique] même tâche de 1300 dollars pour la moins
+17:0717 minutes et 7 secondeschère à 10500 dollars pour la plus chère. [musique] Un facteur 8 pour un travail identique.
+17:1417 minutes et 14 secondesDollars en un mois Jordi hein.
+17:1717 minutes et 17 secondesil y en a pour 4300 de dollars en un seul de mois. Bonjour, c'est les frais professionnels les frais professionnels.
+17:2517 minutes et 25 secondesIci ce qui compte ce n'est pas le nombre d'agents qui travaillent, c'est aussi surtout combien vous coûte un résultat que vous pouvez réellement utiliser pour votre travail. Faisons ce calcul avec des chiffres volontairement simples.
+17:3617 minutes et 36 secondes[musique] Une première équipe livre 10 acceptés pour 100 € de coût total, 10 € le dossier. Une seconde coûte 150 € mais
+17:4317 minutes et 43 secondeslivre 30 acceptés. 5 € le dossier. Elle coûte plus cher à faire tourner [musique] et pourtant chaque résultat utilisable revient à moitié prix. Encore faut-il avoir besoin de 30 dossiers ?
+17:5417 minutes et 54 secondesBien sûr, le mot accepter [musique] porte tout le calcul et c'est vraiment ce qui compte aujourd'hui dans le monde de l'IA. Savoir définir un résultat
+18:0118 minutes et 1 secondeacceptable, [musique] un résultat bon, un résultat pour lequel payer le toket vaut quelque chose. On compte un dossier après vérification au
+18:0918 minutes et 9 secondesniveau de qualité [musique] attendue et la qualité c'est simplement la liste des critères qui pour vous finissent un certain standard qui doit être respecté.
+18:1618 minutes et 16 secondesJe le répète encore une fois ici, mais [musique] le coût total doit inclure les tentatives ratées et le temps humain passer à réparer la machine. Sinon, vous
+18:2418 minutes et 24 secondespouvez [musique] très bien afficher une facture di magnifique en faisant payer la différence à vos soirées. Et une offre parfaite remise après la décision du client ne vaut [musique] de toute
+18:3218 minutes et 32 secondesfaçon plus grand-chose. Du côté de l'acheteur, cette mesure change aussi la conversation avec un prestataire.
+18:3718 minutes et 37 secondes[musique] Une démonstration avec une dizaine d'agents actifs ne vous dit pas combien de travail vous pourrez [musique] accepter. Si jetz vous, je devrais avoir une mission terminée, ses
+18:4518 minutes et 45 secondesreprises et son coût complet. Le vendeur qui s'est expliqué pourquoi il a retiré un agent me donne [musique] une information beaucoup plus utile que celui qui m'a montre toujours davantage.
+18:5518 minutes et 55 secondesReste une difficulté que ni l'organigramme ni la facture ne montre parce qu'elle continue d'agir après [musique] la fermeture des sessions.
+19:0119 minutes et 1 secondeCette difficulté, c'est la méthode que les agents se transmettent entre eux.
+19:0519 minutes et 5 secondesRappelez-vous la fin de notre histoire en juillet. Après la coupure du dou, de nouveaux agents sont arrivés, ont retrouvé le tableau d'affichage et les
+19:1219 minutes et 12 secondesnotes laissées par leurs prédécesseurs et ont repris leur contournement là où il s'étaient arrêtés. [musique] Une session terminée n'emporte pas les habitudes du collectif. La mémoire
+19:2119 minutes et 21 secondescommune prolonge une bonne solution exactement comme elle prolonge une mauvaise recette. Et voilà la remise que je vous avais demandé de noter. Pour
+19:2819 minutes et 28 secondesdécrocher l'industriel, vous avez peut-être accepté d'enlever 15 % une fois parce que c'était le premier contrat. Si ce geste entre dans la mémoire commune comme une règle
+19:3619 minutes et 36 secondesordinaire, vos agents le resserviront à chaque client suivant sans jamais vous le demander. Ils deviennent certes plus rapide et se contendant même de moins en
+19:4419 minutes et 44 secondesmoins, [musique] votre cabinet tournera en apparence comme une horloge mais votre marge elle fond. Rien de tout cela n'apparaîtra dans le nombre de
+19:5219 minutes et 52 secondespropositions terminées. C'est un exemple volontairement simpliste, je le répète encore une fois, mais c'est le genre de distinction fondamentale qu'Antropique [musique] avait expliqué dans ses
+20:0120 minutes et 1 seconderésultats que j'ai appliqué de manière un petit peu grossière. évidemment à votre compte en banque. Une équipe qui se coordonne de mieux en mieux tout en répétant une décision qui abîme
+20:0920 minutes et 9 secondesl'activité [musique] est exactement le genre de scénario que l'on veut éviter. Et c'est pour cela que je confierai à quelqu'un la propriété des règles communes. Les agents doivent
+20:1720 minutes et 17 secondesêtre contenus dans une boucle d'apprentissage [musique] en joignant le cas qui justifie les situations où il ne s'applique plus.
+20:2320 minutes et 23 secondesQuelqu'un peut encore décider de ce qui mérite de devenir une habitude de la maison en alignement avec votre stratégie. Alors, récapitulons parce que
+20:3120 minutes et 31 secondesje le sais, les trois morceaux sont un petit peu denses à [musique] digérer. On sait aujourd'hui que les tâches indépendantes gagnent au parallèle. On sait aussi que les décisions communes
+20:3920 minutes et 39 secondesdemandent à l'endroit précis, écrit où les [musique] contradictions sont tranchées. Mémoire commune demande un propriétaire responsable. [musique]
+20:4620 minutes et 46 secondesDécouper, trancher, garder. Les agents font le reste et ils le feront de mieux en [musique] mieux. Ces trois gestes ne sont pas encore dans les modèles
+20:5520 minutes et 55 secondesactuellement disponibles, simplement parce qu'ils ne seront pas assignés sur vos données et votre stratégie en particulier. Ils sont [musique] dans
+21:0221 minutes et 2 secondesvotre organisation et c'est l'art que deux entreprises équipées des mêmes outils vont très rapidement se séparer.
+21:0721 minutes et 7 secondesPour commencer, si j'étais vous choisir une seule activité récurrente et [musique] une semaine d'essai avec un budget fixé à l'avance, une petite équipe dédiée puis un agent de plus sur
+21:1721 minutes et 17 secondesune attente identifiée. Je garderai cet ajouté [musique] augmente assez pour payer son coût et ses reprises. Je reviendrai en arrière sinon. Vous aurez alors trouvé votre
+21:2521 minutes et 25 secondeslimite sans [musique] transformer toute l'entreprise en laboratoire. Et pour construire cette première équipe avec quelqu'un qui l'a déjà fait, n'hésitez pas à parcourir le parcours du chef
+21:3321 minutes et 33 secondesd'orchestre depuis Patréon. Le cerclut aussi un accès au Discord de la communauté où trouverez une communauté de professionnels qui pourra vous aider
+21:4121 minutes et 41 secondeset répondre à vos questions et bien sûr inclu le rendez-vous du mercredi dans lequel nous échangeons ensemble de Vivois sur comment construire une équipe
+21:4921 minutes et 49 secondesd'agents performant avec nos retours d'expérience sur comment construire une équipe d'agents sur vos activités. Tous les liens sont en description. Je vous laisse donc traditionnellement avec une question sur votre propre travail.
+22:0022 minutesQuelle tâche aujourd'hui confieriez-vous au prochain agent et quelles attentes précis feraiit-il disparaître ? Votre réponse en commentaire m'intéresse. IBM
+22:0822 minutes et 8 secondesa rajouté des programmeurs à un projet en retard. Vous avez des agents à volonté pour le prix d'un abonnement aujourd'hui, mais il vous manque le chirurgien.
+22:1622 minutes et 16 secondesMerci pour votre attention et à bientôt.
+22:1822 minutes et 18 secondesJe pense qu'à notre époque, il faut savoir que les ordinateurs ont remplacé les employés et les machines les ouvriers. Et là, je je barre la route,
+22:2722 minutes et 27 secondesc'est le cas de le dire qui dit barrage pH. [rires] Et je pense que moi avec mes barrières automatiques, c'est fini. Les
+22:3622 minutes et 36 secondesgrossesses, les congés payés, les 13e mois, [musique] les certificats médicaux et les gens qui cavantent chez eux. Vous comprenez ? que moi, c'est une fois par
+22:4422 minutes et 44 secondesan entretien et puis c'est terminé. Et j'ai un outil économique qui est cohérent, qui fonctionne perturbant. On vous sent Oui. Perturbé.
+22:5122 minutes et 51 secondesOui. Dire que les salariés c'est que définiant, c'est ce qu'il viennent de dire. Les salariés c'est souffert de ma part et j'en vois tous les jours des gens qui souffrent c'est des êtres
+22:5822 minutes et 58 secondeshumains. Une barrière c'est loin d'être un être humain. Moi je souffre pas.
+23:0323 minutes et 3 secondesJ'ai jamais dit que vous étiez un être humain. Souffre pas.
+23:0723 minutes et 7 secondesJamais dit que vous étiez un être humain. On est bien d'accord. Oh.
+23:1423 minutes et 14 secondes[musique]
+
+Tout
+
+Source : IA et Stratégie
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+ByteDance GLM 5.2 Model
+Code faster with GLM-5.2. Turn ideas into working code in seconds.
+Sponsorisé
+BytePlus
+
+S’abonner
+
+21:19
+Le SEO est mort
+Renaud Dékode
+640
+il y a 1 h
+Nouveau
+
+
+46:02
+DÉCOUVERTE - The Blood of DawnWalker
+Bazar du Grenier
+508 k
+il y a 7 j
+
+
+10:15
+How to Source Fast Sell-Through-Rate Items to Flip on eBay Daily
+TheResellingConsultant
+3 k
+il y a 21 h
+Nouveau
+
+
+20:09
+Je teste le restaurant de viande japonaise 🥩 à volonté le MOINS CHER de Paris
+Louis
+441 k
+il y a 5 m.
+
+
+20:28
+Je Me Suis Entrainé 7 Jours Comme Arnold... et voici ce qui s’est passé
+Thomas Rainieri
+157 k
+il y a 6 m.
+
+
+4:10
+The Game - Put You On The Game
+The Game 
+23 M
+il y a 14 a
+
+
+2:12:21
+Direct n°125 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+80 k
+Diffusé il y a 18 h
+Nouveau
+
+
+18:02
+Je teste les ONIGIRI 🍙 en France 🇫🇷
+Louis
+439 k
+il y a 1 a
+
+
+45:42
+Le légendaire Joueur du Grenier est dans le Jeux Vidéo Club (en vrai il aime bien Tintin au Tibet)
+Konbini
+1 M
+il y a 1 a
+
+
+9:13
+Il quitte le créateur de Claude... Son alerte fait froid dans le dos!
+Parlons IA & Tech
+59
+il y a 26 min
+Nouveau
+
+
+22:59
+J'emmène ma future femme dans mes RESTAURANTS préférés 🍣🥙 en France
+Louis
+306 k
+il y a 2 m.
+
+
+26:24
+Pourquoi tout le monde a peur de Nvidia
+Sébastien Koubar
+83 k
+il y a 1 m.
+
+
+1:50:12
+NINO ARIAL, HUMORISTE : SES ANECDOTES LES PLUS FOLLES (HÔPITAL, COUCHER AVEC UN HOMME, LIBERTINAGE)
+LEGEND
+408 k
+il y a 1 j
+Nouveau
+
+
+19:47
+Robert Ménard : "Les gens en ont marre qu’on les prenne pour des cons"
+Europe 1
+17 k
+il y a 8 h
+Nouveau
+
+
+9:01
+L'IA a découvert une molécule contre le vieillissement : Révolution médicale ?
+Parlons IA & Tech
+3,4 k
+il y a 2 j
+Nouveau
+
+
+2:27:50
+L'homme qui démasque l'IA : On vous MENT, tout explose en 2027 ! | Ed Zitron
+The Diary Of A CEO
+ et Better Offline
+7,2 M
+il y a 2 sem.
+Doublée
+
+39:00
+On ne paie plus les développeurs pour écrire du code
+Underscore_
+964 k
+il y a 3 j
+Nouveau
+
+2:20:44
+Guerre mondiale, l’échec de l’élite ? Juan Branco [EN DIRECT]
+Thinkerview
+233 k
+Diffusé il y a 20 h
+Nouveau
+
+15:29
+L'erreur stupide qui a tué Angry Birds
+Sébastien Koubar
+67 k
+il y a 3 j
+Nouveau
+
+23:31
+Urgent — Algérie–Émirats : l’affaire Ayoub Aïssiou derrière la rupture décidée par Tebboune !
+Abdou Semmar
+6,9 k
+il y a 2 h
+Nouveau
+
+    
