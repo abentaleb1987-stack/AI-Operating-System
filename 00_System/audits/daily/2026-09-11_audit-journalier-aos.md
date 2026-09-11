@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 01f4a1b
+- Commit audite : 792e41e
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-11 04:46:54
+- Rapport genere le : 2026-09-11 12:21:35
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,9 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `792e41e` - 2026-09-11 04:46:54 +0000 - Audit - docs(aos): add daily audit report
 - `01f4a1b` - 2026-09-11 01:20:27 +0200 - Knowledge batch - docs(aos): process video source batch
 - `2ce92d7` - 2026-09-10 12:23:03 +0000 - Audit - docs(aos): add daily audit report
-- `8f29b69` - 2026-09-10 04:49:46 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -45,13 +45,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `792e41e` - 2026-09-11 04:46:54 +0000 - docs(aos): add daily audit report
 - `2ce92d7` - 2026-09-10 12:23:03 +0000 - docs(aos): add daily audit report
-- `8f29b69` - 2026-09-10 04:49:46 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `792e41e` - 2026-09-11 04:46:54 +0000 - Audit - docs(aos): add daily audit report
 - `2ce92d7` - 2026-09-10 12:23:03 +0000 - Audit - docs(aos): add daily audit report
-- `8f29b69` - 2026-09-10 04:49:46 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -66,7 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-09-10_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-09-11_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-09-10_youtube_ia-et-strategie_coordination-multi-agents_transcript.txt
 - A 02_IA/Agents IA/veille/2026-09-10_youtube_ia-et-strategie_coordination-multi-agents.md
 
