@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 254a3fb
+- Commit audite : 9f8096a
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-14 05:03:03
+- Rapport genere le : 2026-09-14 14:25:24
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,13 +25,14 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `254a3fb` - 2026-09-13 12:51:26 +0000 - Audit - docs(aos): add daily audit report
+- `9f8096a` - 2026-09-14 08:57:16 +0200 - Knowledge batch - docs(aos): archive duplicate Codex video source
+- `fe1743f` - 2026-09-14 05:03:03 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
 ### Knowledge batch
 
-- Aucun commit.
+- `9f8096a` - 2026-09-14 08:57:16 +0200 - docs(aos): archive duplicate Codex video source
 
 ### Protocol / system
 
@@ -43,30 +44,32 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `254a3fb` - 2026-09-13 12:51:26 +0000 - docs(aos): add daily audit report
+- `fe1743f` - 2026-09-14 05:03:03 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `254a3fb` - 2026-09-13 12:51:26 +0000 - Audit - docs(aos): add daily audit report
+- `fe1743f` - 2026-09-14 05:03:03 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
 
 ## Doublons exacts acceptes
 
-- Aucun doublon exact accepte detecte.
+- Source : `01_Collecte/sources_brutes/videos/traitees/2026-09-11_youtube_melvynx_multiagent-workflow-codex_transcript.txt` - Statut : doublon exact accepte - Source deja capitalisee : `01_Collecte/sources_brutes/videos/traitees/2026-07-24_youtube_melvynx_multiagent-development-worktrees-review_transcript.txt` - Fiche de veille existante : `02_IA/Agents IA/veille/2026-07-24_youtube_barthelemy-nobili_seedream-5-image-generation-watch.md`.
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-09-14_audit-journalier-aos.md
+- A 01_Collecte/sources_brutes/videos/traitees/2026-09-11_youtube_melvynx_multiagent-workflow-codex_transcript.txt
+- A 03_Rapports/batch/2026-09-14_aos_doublon-workflow-multiagents-codex.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-09-13_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
@@ -86,7 +89,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Sources traitees
 
-- Aucun element detecte.
+- A 01_Collecte/sources_brutes/videos/traitees/2026-09-11_youtube_melvynx_multiagent-workflow-codex_transcript.txt
 
 ## Toutes les alertes détectées
 
