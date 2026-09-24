@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 4e37ac1
+- Commit audite : df4aae7
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-24 04:58:33
+- Rapport genere le : 2026-09-24 12:54:53
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `df4aae7` - 2026-09-24 04:58:33 +0000 - Audit - docs(aos): add daily audit report
 - `4e37ac1` - 2026-09-23 13:01:55 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
@@ -43,15 +44,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `df4aae7` - 2026-09-24 04:58:33 +0000 - docs(aos): add daily audit report
 - `4e37ac1` - 2026-09-23 13:01:55 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `df4aae7` - 2026-09-24 04:58:33 +0000 - Audit - docs(aos): add daily audit report
 - `4e37ac1` - 2026-09-23 13:01:55 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 1
+- Nombre de commits analyses : 2
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -62,7 +65,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-09-24_audit-journalier-aos.md
 
 ## Fichiers modifies
 
