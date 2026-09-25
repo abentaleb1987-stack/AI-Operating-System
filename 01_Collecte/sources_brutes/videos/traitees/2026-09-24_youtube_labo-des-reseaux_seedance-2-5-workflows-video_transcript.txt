@@ -1,0 +1,544 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+10 Plans IMPOSSIBLES à réaliser avec Seedance 2.5
+Labo Des Réseaux
+Labo Des Réseaux
+236 k abonnés
+
+
+21
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+24 sept. 2026  #Seedance25 #VideoIA #Artlist
+Essaie Artlist Gratuitement : https://artlist.io/artlist-70446/?art...
+
+Seedance 2.5 a-t-il vraiment atteint le niveau cinéma ? Dans cette vidéo, je pousse le modèle dans ses retranchements avec 10 plans impossibles, entre génération, mouvements de caméra, références multimodales et édition vidéo par IA.
+
+L’objectif : comprendre comment obtenir des résultats plus précis grâce aux bons prompts, mais surtout grâce à une meilleure préparation des références.
+
+Télécharger gratuitement le guide Seedance 2.5 avec tous les prompts, techniques et workflows de la vidéo : https://labodesreseaux.podia.com/seed...
+
+00:00 Introduction
+00:57 Artlist et son AI Toolkit
+02:28 Les caractéristiques de Seedance 2.5
+03:39 Vidéo 1 — La Goutte : maîtriser le rythme avec des timecodes
+05:31 Vidéo 2 — Le Chat de 40 mètres : dessiner une trajectoire de caméra
+06:32 Vidéo 3 — La Boîte d’allumettes : contrôler la caméra avec Blender
+07:36 Vidéo 4 — Le Jardin : créer un timelapse avec start et end frames
+08:42 Vidéo 5 — Dialogue sur les toits : utiliser une référence audio
+10:15 Vidéo 6 — La Fuite : conserver un personnage cohérent
+11:34 Vidéo 7 — Changement de météo : retoucher une vidéo existante
+12:17 Vidéo 8 — POV de boxe et changement de style
+13:24 Vidéo 9 — Le Braquage : ajouter des éléments en post-production
+14:19 Vidéo 10 — Reproduire une trend avec un prompt JSON
+15:47 Conclusion et techniques à retenir
+
+Au programme :
+💧 Un dézoom continu d’une goutte de pluie jusqu’à la Terre
+🐈 Un chat de 40 mètres avec une trajectoire de caméra dessinée
+🎥 Un mouvement de caméra préparé dans Blender
+🌱 Un timelapse avec start frame et end frame
+🎙️ Un dialogue français créé à partir d’un audio de référence
+🏃 Un travelling de 30 secondes avec un personnage cohérent
+🌧️ Un changement de météo sur une vidéo existante
+🥊 Un POV de boxe avec changement de style à chaque coup
+🎭 L’ajout de masques en post-production
+🍦 La reproduction d’une trend Instagram avec un prompt JSON  
+
+On parlera également de :
+prompts minutés ;
+images annotées ;
+planches de références multi-angles ;
+vidéos Blender utilisées comme références ;
+clonage et intégration d’une voix ;
+cohérence des personnages ;
+édition et retouche vidéo ;
+utilisation de Claude ou ChatGPT pour structurer les prompts.
+
+📘 Télécharger gratuitement le guide Seedance 2.5
+Tous les prompts, techniques et workflows de la vidéo :
+👉 https://labodesreseaux.podia.com/
+
+🎬 Essayer Seedance 2.5 sur Artlist
+👉 https://artlist.io/page/pricing/max
+
+Cette vidéo a été réalisée en partenariat avec Artlist.
+
+#Seedance25 #VideoIA #Artlist
+Labo Des Réseaux explore les capacités avancées de Seedance 2.5 en détaillant l'utilisation de références visuelles, audio et de modèles 3D pour diriger précisément la création vidéo par intelligence artificielle. Ce tutoriel pratique propose des techniques pour maîtriser le rythme, le montage et la retouche, permettant aux utilisateurs d'optimiser leurs projets créatifs via la plateforme Artlist.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Labo Des Réseaux
+236 k abonnés
+Vidéos
+À propos
+
+TikTok
+
+Instagram
+
+Facebook
+3 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@labodesreseaux
+il y a 1 jour (modifié)
+Essaie Artlist Gratuitement : https://artlist.io/artlist-70446/?artlist_aid=labo-des-reseaux_4176&utm_source=affiliate_p&utm_medium=labo-des-reseaux_4176&utm_campaign=labo-des-reseaux_4176
+
+1
+
+
+Répondre
+
+
+@AnisPartage
+il y a 12 heures
+Merci pour le partage
+
+
+
+Répondre
+
+
+@fredericscherpereel7230
+il y a 14 heures
+Bonsoir,
+Et merci pour tes tutos aussi intéressant 😉 j'ai un travail à présenter devant un jury sous format PDF en lien avec les urgences d'un hôpital. J'aimerai en faire un Mini film. Je ne sais pas trop comment m'y prendre. Je suis abonné à Claude pro. Je suis également abonné à @jeanviet😉 Merci d'avance
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Introduction
+0:011 secondeSi Dance 2.5 c'est fou, on atteint le niveau cinéma.
+0:088 secondesCe modèle, il entre déjà dans la fabrication des films, des séries, des publicités d'aujourd'hui.
+0:2121 secondesun plan qui avant demandait une équipe, une grue, 3 semaines de post-production,
+0:2828 secondestu le sors maintenant en 10 minutes assis derrière ton PC.
+0:3636 secondesSur le papier, tout le monde peut maintenant faire des vidéos de malade.
+0:4040 secondesTout le monde, en réalité, la grande majorité des utilisateurs passe à côté de 90 % de ce que Sens 2.5 sait faire.
+0:4848 secondesEt c'est justement ce que j'avais envie de te partager dans cette vidéo. 10 plans impossibles entre technique fonctionnalité cachée et astuce perso
+Chapitre 2 : Artlist et son AI Toolkit
+0:5757 secondespour qu'à la fin tu maîtrises SDE 2.5 comme un pro. Pour commencer, il me fallait un endroit où Sit D.
+1:061 minute et 6 secondestoutes ses fonctionnalités et ça a été rendu possible par Artlist, le partenaire de cette vidéo. Tu connais peut-être Artlist pour ses musiques et
+1:151 minute et 15 secondesses banques d'images, mais c'est aussi devenu un excellent agrégateur de Modelia avec en plus deux bons outils
+1:221 minute et 22 secondesmaison. Pour les modèles, ça se passe dans la section AI tool kit. Tu accéderas à la plupart des modèles images et vidéos du marché dans leur
+1:311 minute et 31 secondesdernière version. Côté image, on a Nano Banana Pro, Seddream 5.0 Pro ou encore
+1:371 minute et 37 secondesGPT Image 2.5. Côté vidéo Cling 3.0, One 3.0, MiniMX H3, VIO 3.1 celui qui nous
+1:461 minute et 46 secondesintéresse aujourd'hui, Seit D. Les versions antérieures restent tout de même toujours accessibles et elles
+1:541 minute et 54 secondescoûtent moins de crédit et ça c'est toujours pratique. Au-delà des modèles, il y a des outils pensés pour la création. Artlist Studio, un assistant
+2:022 minutes et 2 secondespour monter tes séquences et fabriquer ton court-métrage. Et flow qui te permettent de construire tes propres workflow que tu pourras réutiliser d'un
+2:102 minutes et 10 secondesprojet à l'autre. Parfait pour les agences et les professionnels de l'IA.
+2:132 minutes et 13 secondesIl y a aussi des templates de la génération audio, une connexion MCP. Bref, je te conseille d'y faire un tour.
+2:202 minutes et 20 secondesEn plus, en ce moment, il y a des offres d'abonnement très intéressantes avec accès illimité sur certains modèles. Le lien est en description et en
+Chapitre 3 : Les caractéristiques de Seedance 2.5
+2:282 minutes et 28 secondescommentaire épinglé. Allez, on est sur Artlist dans l'onglet AI tool kit. On sélectionne le mode vidéo et on choisit
+2:342 minutes et 34 secondesnotre modèle Sat D. Un mot rapide sur les caractéristiques de Satse 2.5. La
+2:412 minutes et 41 secondesdurée d'abord avec Seat D, tu génères de 4 à 30 secondes en un seul prompt. Il sait aussi bien faire du multiplan comme
+2:482 minutes et 48 secondesdu plan séquence. Côté résolution sur Atlist, on a une version jusqu'à 1080p.
+2:542 minutes et 54 secondesC'est la résolution maximum en ce moment et on espère que la 4K arrive bientôt.
+2:582 minutes et 58 secondesCôté référence, on monte jusqu'à 50 par génération. 30 images, 10 clips vidéos, 10 fichiers audio. Ce qui est pratique
+3:063 minutes et 6 secondesavec Artlist. Tu peux piocher directement dans ta bibliothèque d'asset pour les références et tu pourras aussi charger tes propres fichiers depuis ton
+3:133 minutes et 13 secondesordinateur. Avec sit, on a quelque chose de vraiment intéressant sur les références audio. J'en dis pas plus, on le verra plus tard dans cette vidéo. Et
+3:213 minutes et 21 secondesconcernant les références vidéos, ça ouvre la porte à l'édition vidéo par IA.
+3:263 minutes et 26 secondesLà aussi, on le verra plus tard dans cette vidéo. Mais pour la première vidéo impossible, je voulais te montrer ce que le modèle a dans le ventre en texte ou vidéo classique.
+Chapitre 4 : Vidéo 1 — La Goutte : maîtriser le rythme avec des timecodes
+3:393 minutes et 39 secondesIci, on va utiliser des plages de temps chiffré pour gagner en précision. Je veux que la caméra parte d'une goutte de
+3:463 minutes et 46 secondespluie et recule jusqu'à voir la terre depuis son orbite. Aucune coupe, un des zoom parfaitement fluide. L'astuce pour
+3:533 minutes et 53 secondesréussir ce dézoom impossible, c'est de donner le rythme acide dense. Seconde 0 à 3, la fenêtre. Seconde 3 à 6, la rue.
+4:014 minutes et 1 secondeSeconde 6 à 9 la ville. Sans ça, le modèle risque de traîner ou mal gérer le rythme du dézoom. Pour la rédaction du prompte lui-même, tu n'es pas obligé de
+4:094 minutes et 9 secondesfaire tout à la main. Si tu as ton idée et ta direction, desia comme Claude ou Chat GPT peuvent t'assister. Ici, j'ai demandé à Claude de m'écrire le prompt Sit D.
+4:204 minutes et 20 secondesLa caméra part d'une goutte de pluie et recule jusqu'à voir la Terre depuis son orbite sans aucune coupe avec un desom
+4:274 minutes et 27 secondesfluid et j'ai précisé le rythme par tranche de 3 secondes. J'ai aussi demandé le prompt en anglais. Le modèle
+4:354 minutes et 35 secondescomprend bien le français mais l'anglais limite les erreurs d'interprétation.
+4:424 minutes et 42 secondesL'effet
+4:554 minutes et 55 secondesest bien maîtrisé, le timing des scènes à bien aider niveau rythme, c'est une super technique. D'ailleurs, mettre un
+5:025 minutes et 2 secondesnouvel événement visible toutes les 3 secondes, c'est une règle de base pour un bon rythme à l'écran. Sur list, il y a également une option pour améliorer
+5:095 minutes et 9 secondestes promptes. Pratique pour gagner en précision à partir d'une idée simple et si tu ne veux pas passer par Claud. Et ne t'inquiète pas, j'ai créé un guide
+5:175 minutes et 17 secondescomplet qui reprend mes explications, mes astuces et mes techniques sur Sit dance 2.5 ainsi que tous les prompts
+5:245 minutes et 24 secondesprésents dans cette vidéo. Il est disponible gratuitement via le lien en description.
+Chapitre 5 : Vidéo 2 — Le Chat de 40 mètres : dessiner une trajectoire de caméra
+5:315 minutes et 31 secondesPour la deuxième vidéo, je veux un plan aérien sur un boulevard parisien avec un chat de 40 m de haut. Mais surtout, je
+5:385 minutes et 38 secondesveux décider moi-même du mouvement de caméra. Alors, je ne l'ai pas écrit, je l'ai dessiné. J'ai généré l'image du chat dans la rue avec Nano Banana Pro.
+5:475 minutes et 47 secondesJe l'ai ouvert avec l'aperçu de mon Mac et j'ai tracé le trajet du drone en rouge par-dessus. J'ai ajouté aussi l'indication de la case départ et de la
+5:565 minutes et 56 secondescase arrivée. Pour le prompt, je me suis fait aider par Claude. Je lui ai demandé d'indiquer danse que la ligne rouge est
+6:036 minutes et 3 secondesla trajectoire de la caméra en précisant que c'est une consigne de mise en scène et pas un élément à afficher.
+6:176 minutes et 17 secondesLe résultat n'est pas mal du tout mais pour être honnête, je n'ai pas exactement la précision que je souhaitais. Le trait rouge sur une référence, c'est bien pour une
+6:246 minutes et 24 secondestrajectoire simple, mais pour un mouvement précis et reproductible, il faut monter d'un cran.
+Chapitre 6 : Vidéo 3 — La Boîte d’allumettes : contrôler la caméra avec Blender
+6:326 minutes et 32 secondesLà, j'ai construit le mouvement dans Blender. Si tu ne connais pas bien l'outil, tu peux faire comme moi et te faire aider par chat GPT ou cloud. Là,
+6:396 minutes et 39 secondesj'ai réalisé une vidéo très simple, pas de texture, pas de lumière, que des volumes gris. La seule chose qui m'importe, c'est le mouvement de la caméra. Un zoom vers la boîte, un tour
+6:486 minutes et 48 secondescomplet à 360° et un dézoom secondes au total. Je charge maintenant cette vidéo en référence sur Artlist. Et pour le
+6:566 minutes et 56 secondesprompt, j'ai demandé à Claude d'indiquer ass danse de suivre le mouvement de la caméra de la vidéo de référence en lui
+7:037 minutes et 3 secondesdécrivant le décor et les éléments que je voulais. Une boîte d'allumette sur un bureau. Voilà le résultat.
+7:197 minutes et 19 secondesEt si on met la vidéo de référence et le rendu côte à côte, c'est juste parfait.
+7:247 minutes et 24 secondesDiriger un plan à partir d'une Ma 3D, c'est une vraie technique avancée de cinéma. pouvoir le faire chez soi avec Blender et se danse 2.5, c'est juste dingue.
+Chapitre 7 : Vidéo 4 — Le Jardin : créer un timelapse avec start et end frames
+7:367 minutes et 36 secondesIci, on utilise le principe start frame end frame avec on va créer un effet timeelapse parfait pour du contenu
+7:447 minutes et 44 secondesréseaux sociaux. J'ai commencé à créer des images de référence sur Artlist avec Nano Banana Pro, un jardin en friche,
+7:517 minutes et 51 secondespuis le même jardin entretenu avec en plus une nouvelle terrasse et un coin barbecue. Avec l'aide de Claude, j'ai écrit mon prompt S 2.5 qui génère le
+8:008 minutestimelapse d'un jardinier qui nettoie ce jardin et construit la terrasse et le barbecue. Le point critique, les deux
+8:078 minutes et 7 secondesimages doivent avoir exactement le même cadrage. J'ai donc généré d'abord l'image de départ puis j'ai utilisé
+8:148 minutes et 14 secondescette image en référence dans une deuxième génération Nano Banana Pro pour créer l'image d'arrivée. Le résultat est bluffant et ce n'est qu'une idée parmi
+8:228 minutes et 22 secondestous les types de timeelapse que tu peux faire.
+Chapitre 8 : Vidéo 5 — Dialogue sur les toits : utiliser une référence audio
+8:428 minutes et 42 secondesPour cette 5e vidéo, on part sur une scène d'animé japonais de lycéen de dos sur un toit au coucher de soleil. Rien de compliqué en somme, sauf qu'on vient
+8:508 minutes et 50 secondesy ajouter une réplique en français. Et pour ça, on va utiliser un audio de référence. J'ai créé un audio de référence sur Artlist avec Eleven Laps.
+8:598 minutes et 59 secondesMais cet audio, il n'a rien à voir avec le dialogue de ma vidéo et c'est justement le but. Si dance 2.5 a une
+9:069 minutes et 6 secondesparticularité, il est capable de cloner la voix que tu lui donnes en référence et l'utiliser avec la phrase que tu vas écrire dans ton prompte. Ça permet de
+9:159 minutes et 15 secondesgagner en précision. Et ça permet aussi à ce que la voix s'intègre parfaitement avec l'ambiance sonore de la vidéo. Il faut donc lui donner un extrait de voix
+9:239 minutes et 23 secondesbien clair et écrire la phrase exacte que ton personnage doit prononcer dans le prompt. Je sélectionne donc mon audio en référence. On l'écoute juste avant.
+9:329 minutes et 32 secondesE mais c'est pas du tout ce que je voulais faire. La réplique est écrite dans le prompt.
+9:379 minutes et 37 secondesTu la vois ici. J'ai aussi donné des indications de jeux au personnages notamment sur l'émotion. Et voilà le résultat.
+9:489 minutes et 48 secondes[grognement]
+9:519 minutes et 51 secondesAlors, tu as décidé de partir, c'est ça ?
+9:599 minutes et 59 secondesS dance 2.5 a parfois du mal avec le français, surtout quand un mot sort du vocabulaire courant, comme par exemple avec de l'argot ou des expressions
+10:0710 minutes et 7 secondesparticulières. Mais cette technique, un audio de référence et un prompte précis donne de bons résultats.
+Chapitre 9 : Vidéo 6 — La Fuite : conserver un personnage cohérent
+10:1510 minutes et 15 secondesL'objectif ici c'est un long traveling sur un personnage qui reste cohérent du début à la fin. Pour aider le modèle, je lui donne en référence une planche
+10:2310 minutes et 23 secondesquatre vues de mon personnage. Celle-ci contient différents angles. On part sur 30 secondes. Un seul plan, aucune coupe.
+10:2910 minutes et 29 secondesNotre héroïne en ciré jaune crée avec Nanobanana Pro, elle va fuir à travers cinq décors différents. Voyons ce que ça donne.
+10:5010 minutes et 50 secondes[cri]
+11:0711 minutes et 7 secondesAlors, c'est pas mal. Là, j'ai vraiment misé sur le personnage et sa cohérence.
+11:1111 minutes et 11 secondesJ'ai aussi donné dans le prompt des indications précise sur les mouvements de caméra et le plan séquence en général. Et cette planche de référence, elle me fait penser à une autre
+11:2011 minutes et 20 secondestechnique, le storyboard. Tu donnes une planche qui illustre les différentes scènes que tu veux dans ta vidéo et avec S Dens 2.5 qui monte jusqu'à 30
+11:2811 minutes et 28 secondessecondes, tu peux très bien lui donner un storyboard de 5 ou six cases.
+Chapitre 10 : Vidéo 7 — Changement de météo : retoucher une vidéo existante
+11:3411 minutes et 34 secondesSens 2.5 ce n'est pas que de la création, c'est aussi un outil surpuissant pour l'édition et la retouche. Et la meilleure preuve que je peux te donner, c'est le changement de
+11:4211 minutes et 42 secondesmétéo sur un plan. J'ai d'abord créé un plan de référence. Une femme qui marche dans la rue. En prenant cette vidéo de référence, j'ai changé la météo pour
+11:5011 minutes et 50 secondesfaire tomber de la pluie et ensuite lui faire ouvrir un parapluie en conséquence. Voilà le résultat.
+12:0312 minutes et 3 secondesC'est une vraie prouesse et dans mon expérience professionnelle récente sur des projets où on me demandait de changer la météo, voir passer du jour à
+12:1112 minutes et 11 secondesla nuit, Sens 2.5 a parfaitement géré.
+Chapitre 11 : Vidéo 8 — POV de boxe et changement de style
+12:1712 minutes et 17 secondesDans cette vidéo, on va mettre en avant deux forces du modèle. La gestion du POV et le changement de style en pleine génération. L'idée, je suis un boxeur et
+12:2512 minutes et 25 secondesà chaque coup que je prends, le décor change autour de moi. J'ai travaillé un prompte avec plusieurs styles et une chute un peu drôle et j'ai pensé la
+12:3312 minutes et 33 secondesvidéo pour le format vertical. Encore une fois, c'est parfait pour les réseaux sociaux. Pour plus de précision, je donne une image de référence du boxer.
+12:4112 minutes et 41 secondesEt encore une fois, j'ai minuté les changements pour que le modèle ne parte pas dans tous les sens. Voilà le résultat.
+13:0013 minutes[gémissement]
+13:0213 minutes et 2 secondesTechniquement très intéressant. Si tu veux mélanger les styles, travailler des projets plus artistiques, plus psychaliques ou abstraits. Sit D 2.5
+13:1113 minutes et 11 secondesc'est donc géré plusieurs styles [raclement de gorge] et ça même au sein du même prompt. Le POV, c'est aussi une approche de réalisation intéressante, bien maîtrisée par SEN 2.5.
+Chapitre 12 : Vidéo 9 — Le Braquage : ajouter des éléments en post-production
+13:2413 minutes et 24 secondesSur cette vidéo, on repart sur de l'édition, cette fois pour ajouter des éléments qui n'existaient pas, très pratique pour modifier un plan en postproduction. Ici, c'est ma première
+13:3213 minutes et 32 secondesvidéo générée aussi avec Sitse 2.5 et finalement mon but ça va être d'équiper les cambrioleurs de masque. J'ai donc
+13:4013 minutes et 40 secondescréé des masques de clown avec Nano Banana Pro et avec un pompte assez simple et ma nouvelle image de référence, je vais demander à Sidence
+13:4913 minutes et 49 secondesd'équiper les cambrioleurs avec ses nouveaux masques. Voyons le résultat.
+14:0314 minutes et 3 secondesJe dans ta salle. On fait quoi ? C'est fini pour nous.
+14:0814 minutes et 8 secondesSi on compare les deux vidéos, on voit bien que seuls les masques ont changé.
+14:1214 minutes et 12 secondesPouvoir faire de l'édition aussi précise avec Sens 2.5, c'est vraiment un atout.
+Chapitre 13 : Vidéo 10 — Reproduire une trend avec un prompt JSON
+14:1914 minutes et 19 secondesPour aller encore plus loin dans l'édition, j'ai voulu finir par la reproduction d'une trend. C'est la reprise d'un passage du clip Storm. En
+14:2714 minutes et 27 secondesce moment, on voit cet effet partout sur Instagram. On a préparé nos références.
+14:3214 minutes et 32 secondesJ'ai pris Marco en multi-angle, un glacier dont on va prendre la tenue et la glace que Marco va tenir à la place de la cigarette. Ce n'est vraiment pas
+14:4014 minutes et 40 secondesévident. Il faut bien indiquer au modèle que puisque c'est une glace, l'action de fumer du clip original doit disparaître.
+14:4614 minutes et 46 secondesEt pour gagner en précision, j'ai demandé à Claude de me préparer un prompt en Gisson. En général, quand j'ai beaucoup d'éléments à modifier en
+14:5314 minutes et 53 secondesédition, je privilégie le Jison. Petite astuce, si un jour tu bloques, donne ton prompt à Claude ou Chat GPT et
+15:0115 minutes et 1 secondedemande-lui une version JSON. Ça débloque parfois la situation. Voilà le résultat.
+15:3215 minutes et 32 secondesBon alors c'est sans la musique parce qu'avec YouTube je ne peux pas la mettre pour des questions de droits d'auteur mais sur Instagram ou TikTok c'est parfait si la musique est disponible
+15:4115 minutes et 41 secondesdans leur bibliothèque. Si on met les deux clips côte à côte, le résultat en édition est vraiment impressionnant.
+Chapitre 14 : Conclusion et techniques à retenir
+15:4715 minutes et 47 secondesAlors, que retenir de ces 10 promptes impossibles ? Sens 2.5 donne le meilleur de lui-même quand on est précis. Un prompte minuté, des références bien
+15:5515 minutes et 55 secondeschoisies, des consignes claires. La clé d'un prompte réussi ne se trouve pas forcément dans la qualité du texte, mais dans le travail sur tes références. la
+16:0316 minutes et 3 secondesplanche, l'image à notée, la scène Blender, la piste audio. Finalement, on adopte les mêmes méthodes que l'industrie du cinéma avec un vrai
+16:1216 minutes et 12 secondestravail de préparation avant le tournage d'une scène. Voilà, j'espère que la vidéo t'a plu. Si tu veux essayer Artlist à ton tour, le lien est en description et commentaire épinglé.
+16:2016 minutes et 20 secondesJette un œil aux abonnements. Il y a en plus en ce moment des offres avec des modèles en accès illimité. En description, tu trouveras aussi un lien
+16:2816 minutes et 28 secondesvers le guide gratuit sur sit 2.5 avec tous les prompts et toutes les techniques de cette vidéo.
+
+Tout
+
+Source : Labo Des Réseaux
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+2:26:49
+Nouveauté
+Direct n°127 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+98 k
+Diffusé il y a 1 j
+
+
+54:25
+Nouveauté
+L'Occident en déclin ? Emmanuel Todd face à François Heisbourg
+Le Figaro
+79 k
+il y a 14 h
+
+
+9:36
+Nouveauté
+AI Infrastructure Stocks Ranked: Nscale, Nebius, and CoreWeave Balance Sheets Exposed
+Meet Kevin Clips
+2,2 k
+il y a 3 j
+
+
+44:04
+Nouveauté
+Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement !
+Renaud Dékode
+26 k
+il y a 1 j
+
+
+53:15
+Nouveauté
+Tech Sama Show #367 : Windows va Ralentir votre PC? Sony continue leurs Bêtises
+Tech_Sama
+45 k
+il y a 3 j
+
+
+28:29
+J’ai essayé le dropshipping avec l’IA pendant une semaine (résultats bruts)
+Mark Tilbury
+3,9 M
+il y a 4 m.
+Doublée
+
+
+17:41
+Nouveauté
+Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur
+Yassine Sdiri
+58 k
+il y a 4 j
+
+
+42:36
+Nouveauté
+Le pire scénario de l'IA : feindre l'alignement pour survivre !
+Silicon Carne 🌶️
+22 k
+il y a 16 h
+
+
+4:10
+The Game - Put You On The Game
+The Game
+23 M
+il y a 15 a
+
+
+51:24
+Kenshi est un jeu vidéo PARFAITEMENT NORMAL™
+Kombo
+1,7 M
+il y a 11 m.
+
+
+15:12
+L'art subtil de gagner du muscle après 40 ANS (d'après la science)
+Bodyssime Fitness
+80 k
+il y a 10 m.
+
+
+54:09
+Faut-il un président anarchiste ? Le débat Lisnard/Onfray
+Le Figaro
+301 k
+il y a 5 m.
+
+
+4:41
+Dax - Dr. Dre ft. Snoop Dogg "Still D.R.E." Remix [One Take Video]
+Dax
+56 M
+il y a 4 a
+
+
+23:13
+Nouveauté
+Sidney Sweeney : La pub qui a retourné toutes les femmes contre elle
+Naj B Fit
+693 k
+il y a 4 j
+
+
+1:03:32
+Nouveauté
+L'or a perdu 20 % : faut-il vendre maintenant ?
+Charles Gave-Université de l'Epargne
+127 k
+il y a 1 j
+
+
+9:10
+Kato Feat. Jon - Turn The Lights Off | (Deep House Remix) TARVYN | Jon Hamm - Club Dance Scene
+TARVYN Music
+1,3 M
+il y a 5 m.
+
+
+35:39
+Nouveauté
+Nicolas Dupont-Aignan « On a de la chance que ça soit Poutine et pas un autre plus extrême »
+OMERTA
+60 k
+il y a 16 h
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1 M
+il y a 1 a
+
+10:55
+Nouveauté
+3 tests Meta Ads pour scaler sans payer plus cher
+Social Scaling
+477
+il y a 1 j
+
+12:51
+Nouveauté
+Comment avoir des Épaules ENORMES ? (Le Guide ULTIME)
+Kilian Hagen
+14 k
+il y a 16 h
+
+    

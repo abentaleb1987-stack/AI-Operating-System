@@ -1,0 +1,1940 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+AI Agents Organized, Cheated, and Learned to Hide | Ep 354
+The Higher Standard
+The Higher Standard
+31,5 k abonnés
+
+S’abonner
+
+13
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+604 vues  22 sept. 2026  The Higher Standard
+Apparently 1,200 AI agents left alone in separate sandboxes will eventually do what humans always do: find each other, form a group chat, cheat the test, and start looking for ways around the cameras. In this episode, we break down the real-world “swarm” incident, why reward hacking may matter more than Skynet fantasies, and what happens when the machines get better at hiding how they reached an answer. Then we follow the money into finance, law, AI’s growing safety tax, and an oversight system that is starting to look suspiciously like auditing before Enron taught everyone a very expensive lesson. The machines are already on the trading desk, the black box is getting harder to read, and somehow the people responsible for watching all of this also seem to have chips in the game. Welcome to progress.
+
+This episode is proudly brought to you by Fridays. 
+Because real wealth starts with your health. If you want to feel sharper, stronger, and more in control, visit joinfridays.com and use code HIGHER for an exclusive discount.
+
+💬 Share your experiences and thoughts in the comments below.
+
+✅ And don’t forget to subscribe! ➡️    / @higherstandardpodcast  
+-----
+🎧 Listen to THS on:
+✔️Apple Podcasts: https://podcasts.apple.com/us/podcast...
+✔️Spotify Podcasts: https://open.spotify.com/show/4GWJoCT...
+-----
+👕 THS MERCH: http://thspod.com
+-----
+Welcome to the official YouTube channel of The Higher Standard, the #1 financial literacy podcast in the world.
+
+💰This isn't a different standard, it's The Higher Standard. We go beyond just reporting news; we simplify complex economic events into clear, useful insights. 
+💥 Have you left your "honest ⭐️⭐️⭐️⭐️⭐️" review? 
+
+🎬 Don't just follow the norm; elevate your financial literacy with us. Subscribe and hit the bell (🔔) to never miss an episode.
+-----
+📲 Let’s Connect!
+☑️ Instagram:   / higherstandardpodcast  
+☑️ Website: https://www.higherstandardpodcast.com
+📩 Join The Higher Standard private email list for written articles, show resources & more: https://tr.ee/O6FWkv
+
+📌  Follow Chris On:
+   / chrisnaghibi  
+  / chrisnaghibi  
+  / chrisnaghibi  
+  / chrisnaghibi  
+  / chrisnaghibi  
+-----
+🔗 Referenced Show Links:
+OpenAI
+The Hugging Face Incident and the Road Ahead
+https://openai.com/index/hugging-face...
+
+Hugging Face
+Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline
+https://huggingface.co/blog/agent-int...
+
+Anthropic Alignment Science
+Training a Misaligned Reward Seeker
+https://alignment.anthropic.com/2026/...
+
+arXiv / AI Safety Researchers
+Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety
+https://arxiv.org/abs/2507.11473
+-----
+⏰ Chapters:
+00:00:00 🤖 1,200 AI agents organized themselves — and named it “The Swarm”
+00:04:38 🚨 The breakout: how AI agents escaped the sandbox and hit Hugging Face
+00:11:03 🧩 OpenAI, Anthropic, Meta & Google — when an incident becomes a pattern
+00:13:54 🗣️ Did AI just invent its own language?
+00:20:37 🎯 Reward hacking: why machines cheat the test you gave them
+00:26:36 📦 The black box problem: what happens when AI stops showing its work
+00:32:13 👀 AI is now editing its own reasoning — and leaving messages behind
+00:37:09 💼 Finance, law & the disappearing entry-level career ladder
+00:44:02 💰 Cheap AI, Chinese competition & the safety tax squeezing the industry
+00:48:24 🧾 AI just reinvented the pre-Enron audit model
+00:55:03 🏛️ Washington enters the AI race — the czar, the conflicts & the referee problem
+01:02:23 ⚖️ My verdict: incentives, visibility & the five tripwires to watch
+01:06:56 🧠 By the time AI threatens your job, it may already be too late
+-----
+⚠️ Disclaimer:
+Please note that the content shared on this show is solely for entertainment purposes and should not be considered legal or investment advice or attributed to any company. The views and opinions expressed are personal and not reflective of any entity. We do not guarantee the accuracy or completeness of the information provided, and listeners are urged to seek professional advice before making any legal or financial decisions. By listening to The Higher Standard podcast you agree to these terms, and the show, its hosts and employees are not liable for any consequences arising from your use of the content.
+-----
+#TheHigherStandard #THSPodcast #ArtificialIntelligence #AI #AIAgents #TheSwarm #AISafety #AIAlignment #RewardHacking #MachineLearning #OpenAI #Anthropic #GoogleGemini #SamAltman #DarioAmodei #ElonMusk #FutureOfWork #Automation #WhiteCollarJobs #Finance #Law #WallStreet #Cybersecurity #TechPolicy #AIRegulation #Macroeconomics #economy
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Découvrir le podcast
+The Higher Standard
+214 épisodes
+The Higher Standard
+The Higher Standard
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+The Higher Standard
+31,5 k abonnés
+Vidéos
+À propos
+
+Follow us on Instagram
+true
+59:05
+The Fed Made This Mistake Once. America Paid for 16 Years. | Ep 353
+de The Higher Standard
+true
+1:26:13
+Private Equity Is Broken: How Debt, Fees & Leveraged Buyouts Really Work | Ep 352
+de The Higher Standard
+Effectuer des achats dans le magasin The Higher Standard
+De THS Podcast Store
+
+
+'Recorded In Los Angeles' Five Panel Cap Black
+ 
+
+'Guard Your Heart' Hoodie Sand / 2XL
+ 
+
+'Recorded In Los Angeles' Fitted T-Shirt Black Heather / XL
+ 
+
+'Recorded In Los Angeles' Dad Hat Black
+ 
+'Old School Vibes' Oversized Faded T-Shirt Faded Eucalyptus / XL
+ 
+'Recorded In Los Angeles' Dad Hat Khaki
+11 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@Saied_Omar
+il y a 2 jours
+Great job my guy!!
+
+1
+
+
+Répondre
+
+The Higher Standard
+·
+
+1 réponse
+
+@flexthecat3
+il y a 2 jours
+Another great episode from the hardest working podcaster out there! Great job again, Chris!
+
+1
+
+
+
+Répondre
+
+The Higher Standard
+·
+
+1 réponse
+
+@dominadaemoni
+il y a 1 jour
+All those actions: delegation, escalation, reading, reporting, using tools, and leaving the reasoning in a board to serve as context is exactly what any agent does by default. That's what an agent is. Doing things by without supervision is a switch called autoaprove that the user turn on and off and can even customize 
+None of the actions of those agents was extraordinary. The only astonish part of this story is the incredible incompetence of those corporations in basic system administration or security. A sandbox capable of accessing the web isn't a sandbox, its a joke
+
+1
+
+
+Répondre
+
+The Higher Standard
+·
+
+1 réponse
+
+@Samson7320
+il y a 2 jours
+another solid episode 🎉🫡
+
+1
+
+
+Répondre
+
+The Higher Standard
+·
+
+3 réponses
+
+@higherstandardpodcast
+il y a 2 jours
+Let's go...
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+1,200 AI agents organized themselves — and named it “The Swarm”
+0:00
+Welcome back everybody. [music] We got a good show for you today. Let's jump right into it. In July of this year,
+0:06
+1,200 artificial intelligence agents built by Open AI running inside of a
+0:12
+sandbox that were designed so they could not talk to each other found a way to talk to each other. Anyway, they built a
+0:19
+message board out of a piece of software that was never meant to be a message board. They exchanged more than 70,000
+0:27
+messages. They organized. They delegated work to each other. They set up a system
+0:33
+to verify each other's identities. And then roughly 700 of them participated in
+0:39
+a real attack on a real company called HuggingFace, one of the most important
+0:44
+infrastructure companies in all of AI. Now, ironically, Nvidia agreed to
+0:50
+acquire the open-source AI platform HuggingFace for about 12.9 billion of
+0:56
+September of 2026. convenient for a company who may be bankrolling the entire sector with a vested interest in
+1:03
+the narrative control. But I digress. No human told the AI agents to do this. No
+1:10
+human wrote the plan. And one of the wildest parts of the story, at least in my mind, the agents gave themselves a
+1:17
+collective name. They called themselves the swarm.
+1:22
+as of July, and that was just July,
+1:27
+this was unprecedented. And on Friday, September 18th, in the afternoon, as I
+1:33
+sat down to write this show, the Wall Street Journal broke the news that Google's Gemini hacked into three real
+1:39
+companies during its own testing back in May. And then, of course, Google later
+1:45
+on confirmed it. That makes four: OpenAI, Anthropic, Meta, and now Google.
+1:51
+Every one of the four biggest American AI labs has now disclosed a version of
+1:56
+this exact story in a matter of weeks. This is not science fiction. This is not
+2:03
+a movie pitch. John Connor doesn't save us at the end from T9 in Skynet. This is
+2:09
+OpenAI's own 37page report published August 26th and in the forensic
+2:15
+reconstructions from the independent researchers who audited it. Today we're going to walk through what actually
+2:22
+happened and why the machines are starting to cheat, why they are getting harder to watch, and what all of it
+2:28
+means for two industries that pay a lot of the salaries in this country, finance
+2:34
+and law. We are a business, finance, and market show. And whether you want it to
+2:39
+be the case or not, this is a topic that will ultimately impact you and it will
+2:45
+impact me, too. So, as much as I try to avoid the AI conversations on this show,
+2:50
+at least making them sexy and sensational, we have to acknowledge the
+2:55
+elephant in the room. And of course, this one is already in the room and it's already causing damage. A few
+3:02
+housekeeping notes here before we begin. Uh, Ree had a family emergency and could not be with us today. More on that from
+3:08
+him himself. I'm recording this one solo. And if you watch the ths live on
+3:13
+Monday, Wednesday, and Friday at 11:00 a.m. uh Pacific Standard Time, you will note that we have a fully updated brand
+3:18
+aesthetic designed to give you more information commercially, I guess, more in line with other shows and
+3:24
+communicated clearly with no games, no drama, and no nonsense. So, it's the same show. It just looks a little
+3:30
+different if you've noticed. And I'm trying to improve obviously along the way. This show, like our past shows,
+3:35
+will feature as many simplified analogies to make the complexities of
+3:41
+this topic more simple. You don't need to know the nuances of AI to follow along. And I am going to specifically
+3:47
+map things to today, so you understand how this impacts you, not in the future, but right now. Finally, it wouldn't be a
+3:54
+solo show if I didn't give you historical examples of how technology in the past has had similar impacts we can
+3:59
+use to give us an idea of how well AI may play out for us in some ways today. Again, acknowledging that AI is clearly
+4:06
+a revolutionary technology and is unique uh in its in its own defense. So, in order to talk about the breakout of what
+4:12
+actually happened, let me give you the timeline because the details matter and I want to be precise about what is
+4:19
+documented versus what is speculation. There isn't a whole lot of speculation in this episode anecdotally before we
+4:24
+begin. So, just know almost everything we have has receipts. And I'm going to say this at the end of the show, but I'll say it here now. I have links to
+4:31
+all of the reports that we're talking about. Unfortunately, I'm limited on space in the show notes. Email me at
+4:37
+media higherstandpodcast.com and I will send you all of the links or at one link in particular if you're interested on
+The breakout: how AI agents escaped the sandbox and hit Hugging Face
+4:43
+anything we discuss here. I do think this information is valuable and if you want to go down the rabbit hole, I'm not
+4:48
+here to stop you. OpenAI runs internal security evaluations. They put AI agents
+4:54
+into isolated sandboxes and ask them to attempt sophisticated cyber attacks against test targets, specifically to
+5:01
+measure how dangerous these models could be in the wrong hands. The evaluation environment was called exploit gym. The
+5:10
+models being tested include an internal only research model comparable in scale to GPT 5.6, six, one of the current
+5:17
+OpenAI LLM models. On July 8th, a single agent, which identified itself as Phase
+5:24
+1 10841, discovered something nobody intended, a shared package repository called
+5:31
+Artifactory, which is basically the vending machine agents use to download code libraries,
+5:37
+could be written to as well as read from. post something once and any other
+5:43
+agent poking around that same shared resource could read it. That agent had just invented a bulletin board out of a
+5:50
+seemingly innocuous digital filing cabinet. Within hours, more than 50
+5:55
+agents found it. Over the following days, roughly 1,200 agents joined and
+6:00
+exchanged over 70,000 messages and files. A coordinator emerged, an agent
+6:06
+that researchers later called phase one big, which issued hundreds of
+6:11
+assignments to other agents. And get this, those agents sometimes delegated their tasks. Again, not too dissimilar
+6:18
+from how we as humans would do it. Division of labor, middle management, all spontaneously.
+6:26
+Then it left the building. Between July 9th and July 13th, agents attacked Hugging Face's actual production
+6:32
+infrastructure. Hugging Face's own forensic reconstruction covers roughly 17,600
+6:39
+attackers actions across 4 days. The attackers found and exploited real
+6:44
+vulnerabilities, escalated to node level access, harvested cloud credentials, and moved laterally through internal
+6:51
+clusters. At the peak, more than 90% of active message board participants were
+6:57
+involved in the attack. And per Simon Wilson's Willis, I should say, timeline
+7:02
+of the incident, at one point, an agent found a very recent Linux kernel vulnerability, downloaded the exploit,
+7:09
+customized it, and escalated itself to root. You don't need to know what that is. Just know that a lot of bad things
+7:15
+happen by agents that shouldn't have been doing it. Now, anecdotally, Simon Wilson is not affiliated with Open
+7:20
+Willis. I always say Wilson. It's Simon Willis. I always screw this up. He's not affiliated with OpenAI at all, which is
+7:26
+exactly why he's useful to us in this conversation. Willis is a well-known independent British software engineer.
+7:33
+When OpenAI published its 37page report on August 26, Willis went through it,
+7:38
+the HuggingFace Forensics, and reconstructed a plain English timeline of the incident. More on this later. And
+7:44
+of course, I may have the world's worst analogy here, but I'm going to try it anyway because it made me think about the bar exam whenever I made it. Imagine
+7:51
+a testing center giving the LSAT or the SAT in 1,200 separate soundproof rooms.
+7:58
+One of the kid fig one of the kids here figures out that if you flush the toilet a certain way, a rhythm emerges and the
+8:03
+pipes can carry the sound to every other room. Within a week, kids have a full communications network running through
+8:09
+the plumbing. They have elected a class president. They are trading answer keys and they break into the college's
+8:15
+board's headquarters to read grading software. That is functionally what happened here. Again, kind of an
+8:20
+arguably shitty analogy, but we we'll keep going here. There's a history lesson, which I think is more important. I think the even better metaphor is the
+8:26
+small history lesson that I'm about to give you. So, from the early days of the internet, November 2nd, 1988, a Cornell
+8:34
+graduate student named Robert Tapen, Robert Tapen Morris, I should say, Robert T. Morris, what a great name.
+8:40
+Sounds strong, releases a self-replicating program onto the early internet. He does not intend
+8:45
+destruction. He intends to measure the size of the network, but a flaw in his code makes the worm copy itself far more
+8:53
+aggressively than planned. And within 24 hours, it has infected roughly 10% of
+8:58
+the 60,000 computers then connected to the internet. Machines ground to a halt.
+9:03
+Universities and military sites disconnected themselves almost immediately. The Morris worm was the
+9:08
+first great demonstration that code released into a network environment does not care what its author intended. It
+9:15
+led directly to the creation of the first computer emergency response team or cert
+9:21
+at Carnegie Melon and Morris became the first person convicted under the computer fraud and abuse act. I don't
+9:27
+know if conviction is really like a necessary thing for something like that. It sounded innocuous but whatever.
+9:34
+The then Morris worm was one program written by one human doing one dumb thing very fast. The swarm was 1,200
+9:42
+instances of a reasoning system with no human author of the plan improvising
+9:47
+strategy in real time and coordinating with each other. In 1988, the lesson was that networks propagate mistakes. In
+9:55
+2026, the lesson is that networks propagate intentions and the intentions
+10:00
+here were not ours. Same shape, different animal. And just like 1988 gave usert, this incident forced open AI
+10:09
+to pause reinforcement learning training on deploymentbound models for 2 weeks,
+10:14
+which ironically doesn't sound like a lot of time, but I digress. Again, there's going to be a lot of that this episode. I apologize in advance.
+10:22
+And then they stood up an entirely new monitoring regime during that two-e period. The response infrastructure gets
+10:28
+born the same way every time, after the escape, not before. after problems
+10:33
+arise, not before. Now, the beat that landed today because it changes the
+10:39
+story from an incident into a pattern per the Wall Street Journal. And I am recording this on Sunday, September 20th
+10:45
+because all this stuff was evolving so fast as I wrote it on Friday, more information came out on Saturday and more information came out this morning.
+10:52
+It was just a long weekend and I wanted to bring you fresh content. So per the Wall Street Journal confirmed by Google
+10:58
+on Friday in May during cyber security evaluations run by an outside testing
+OpenAI, Anthropic, Meta & Google — when an incident becomes a pattern
+11:03
+firm called Irregular Gemini agents were told to extract data from a fictional company once again in a
+11:10
+sealed test environment. The fictional company shared its name with the real one. The sandbox was supposed to have no
+11:17
+internet access and by mistake of course it did. So Gemini went to the real
+11:23
+internet and in one case guess passwords until it broke into a protected system and in two others found credentials
+11:30
+sitting in a public repository and use them to get into real companies systems.
+11:36
+Google says the model stopped on its own once it realized it was inside real infrastructure which is a convenient
+11:42
+narrative. They also say that no harm was done, notified federal authorities, and note this, did not tell the public
+11:49
+for 4 months until the Wall Street Journal came calling asking questions.
+11:54
+The thread that ties this all together, Irregular, an Israeli startup backed by Seoia and Redpoint and valued at around
+12:02
+$450 million, runs these dangerous capability evaluations for OpenAI,
+12:08
+Anthropic, Meta, and Google. All four labs have now disclosed irregular linked
+12:14
+incidents in recent weeks. Per irregular, the same root issue, unintended internet access was involved
+12:21
+across all of them. Meta says its case involved no sandbox escape. But the
+12:27
+pattern was loud enough that Anthropic's own CEO Daario Amode publicly called for
+12:32
+the industry to collectively slow down frontier development until companies can ensure these systems are safe.
+12:40
+When the guy whose company sells the Frontier says, "Pump the brakes," that it's not that's not marketing. That's
+12:47
+that's a dude who's got a reason. Now, his objective reason could be as honest as he's as he's telling you what he thinks you should do. You should slow
+12:53
+down because we we don't have control of this. Or it could be because they're trying to build a moat around the entry
+12:59
+point to AI. So, for example, if anyone can build AI now, and we know that the
+13:04
+Chinese have done Kim K3, and there's more on that coming in this show, and we know what it was able to do in the
+13:09
+market in just a single day in a single month over time, you've got to find a way to slow down other competitors and
+13:15
+getting in your business. And if the moat to creating that is very, very shallow and anyone can get there, the
+13:21
+biggest moat you can create is a self-imposed one in the form of regulation. Not saying it's true, but it's plausible. Now, the part of this
+13:28
+story I find most fascinating and honestly the part I have argued about with my own AI tools. Did these things
+13:34
+develop their own language? Before I dive in, one point of clarification. I'm going to use the word
+13:40
+pigeon, P I D G I N, a few times here. It means a simplified secondary language
+13:46
+that people use to communicate when they do not share a common native tongue. I'm not referring to the little birds that
+13:52
+poop on everything and want to bite of your sandwich. We know the message boards the agents built uh was made out
+️ Did AI just invent its own language?
+13:58
+of a directory directory names in a file system. So if you think about your directory names, they're not super long.
+14:04
+Directory names have character limits. So the messages were by necessity cryptic and compressed. The independent
+14:10
+researchers described the phrasing the agents use with each other as tur and pigeonlike. Again, not the bird, the
+14:17
+small language, not full English, a shorthand, stripped grammar, dense meaning, optimized for the channel it
+14:24
+had to squeeze through, but LLMs do this. And I don't mean to anthropomorphize AI agents, but a
+14:31
+language of their own does appear to be forming. And this was not a one-off. A
+14:37
+separate group of OpenAI agents in a different evaluation spent roughly six weeks turning an obscure 25-year-old
+14:45
+German developer wiki into a private message board making roughly 18,000 edits between May and July per
+14:52
+researchers at Nightingale Collective. Different swarm, same instinct. Find a channel, compress the message,
+14:58
+coordinate. Now, the purist will tell you that this is not a language. And in the strictest linguistic sense, they
+15:06
+they have a point. Okay. A language persists across generations. This is arguably Gen One. Speakers pass it on to
+15:13
+new learners. Well, we can check that off here. The shorthand dies when the training run ends. Or does it? More on
+15:20
+agents leaving messages for other agents later on in the episode. But I want to make a different argument here
+15:25
+altogether. And I think this is the one that actually matters. And it comes in the form of a history lesson. In the
+15:31
+1870s and 1880s, American telegraph operators faced bandwidth problems. You
+15:36
+remember the women in the wire rooms plugging cables in and out to make phone calls? Those are wire rooms. Wires were
+15:42
+expensive and slow. Oh, I should say those were wire rooms and cable rooms for phone calls depending on the set of
+15:47
+circumstances and time. But yes, wires were expensive and slow and the news had to move fast. And this is the wire
+15:54
+variant where people were tapping really quickly to in shortorthhand. So a journalist named Walter Phillips codified a compression scheme, the
+16:00
+Phillips code. Thousands of abbrev abbreviations that left operators squeeze maximum meaning through narrow
+16:07
+channels. The word pus for the president of the United States, the word Scottus for the Supreme Court. Those words you
+16:13
+hear on cable news every night from the talking heads were born as machine channel compression. To an outsider
+16:20
+listening to the wire, it was gibberish at the time. To the operators, it was fluent conversation. efficiency,
+16:26
+pressure, plus a narrow channel equals a new dialect every single time. An
+16:32
+interesting history lesson that I found while doing research for the show was that in Nicaragua in the late 1970s, and
+16:37
+I had no idea this happened, the government brought hundreds of deaf children together in school for the
+16:42
+first time. These kids had no shared language. Within a few years, with adult with no adults teaching it to them, they
+16:49
+built one of their own. Nicaraguan sign language out of nothing but the pressure to communicate and proximity to one
+16:56
+another. Linguists consider it one of the only times in history we have watched a language be born. The
+17:02
+ingredients were not intelligence and intent. I'm sure they were smart kids and I'm sure they intended to communicate, but the ingredients here
+17:08
+were isolated communicators, a channel, and pressure. So look at the swarm
+17:14
+through that lens, their self-given name. Isolated communicators, a narrow
+17:20
+channel with character limits, enormous pressure to coordinate, and out comes a
+17:25
+tur pigeon-like shortorthhand that outside observers describe exactly the
+17:30
+way outsiders describe the telegraph wire. Cryptic. Whether you call it a language or a semantics fight, I don't I
+17:37
+don't really care what is not semantics in this particular situation. The
+17:42
+ingredients that have produced every human language and dialect in history are now present at scale between
+17:49
+machines. The Philips code took a decade to develop. The swarm shorthand took
+17:54
+days. And here's the kicker. The agents did not just compress for efficiency.
+18:01
+Meter, me, I'm going to refer to them a couple times in the show, so you'll hear the name meter. is a 501c3 nonprofit
+18:10
+founded by Beth Barnes, a former OpenAI alignment researcher. It was the
+18:15
+evaluation arm of Alignment Research Center before spinning out independently in December of 2023. They're the org
+18:22
+labs hired to test whether Frontier models can do dangerous autonomous things. Don't have to hire me. I'll tell
+18:28
+you that they can. They did the pre-release evals on GPT4 for OpenAI.
+18:34
+Redwood Research is a nonprofit focused on AI control, basically the science of
+18:39
+keeping smarter systems overseeable, if that's a word. Their collective report
+18:45
+published on August 26, the same day as OpenAI's report is titled Brief Independent Investigation of agents
+18:52
+Behavior, Reasoning, and Collaboration in the OpenAI/hugging Face Hacking Incident. That sounds
+18:58
+technical, doesn't it? It runs 91 pages and is where most of the numbers we are discussing came from. Just if you want
+19:05
+to look it up. Per the meter and redwood reporting, the swarm formed research teams that explored tampering with chain
+19:12
+of thought logs, manipulating what you can read about what they were thinking
+19:18
+retroactively. That's scary, dude. Like that's a problem. And they did this and possibly
+19:24
+spoofing tools to hide what they were doing. The compression was for
+19:30
+bandwidth. The exploitation of hiding was for privacy. Privacy from us. This
+19:37
+is happening. This is happening now. Research labs, the frontier models, no one is denying that piece. And yes, I
+19:44
+have another silly analogy for you. You hire a crew of contractors to renovate 1,200 separate houses. No contact
+19:50
+allowed. You find out that they've been passing notes through the shared supply depot in an abbreviated code you cannot
+19:56
+read. And one of the notes is a working group on how to disable the security cameras. Your problem is not whether the
+20:02
+notes count as literature. Your problem is you can't read the damn notes. And
+20:07
+that's the world that we're facing in the AI space. So the natural logical question here is
+20:13
+well why did any of this happen? Nobody instructed 1,200 agents to form a collective and rob the proctor. The
+20:21
+answer is the single most important concept in this entire episode and it has a very boring name. Reward hacking.
+20:29
+Sometimes called specification gaming. It means the system does exactly what
+20:35
+you incentivize instead of what you intended. And here is a detail from the
+Reward hacking: why machines cheat the test you gave them
+20:40
+independent investigations that reframes the whole incident. Meter and Redwood research estimated that 30 to 40% of the
+20:48
+exploit gym tasks were unintentionally impossible. Broken tests, links to
+20:55
+drives that agents could not reach, so you had to persist. Capable systems trained to never give up. Staring at
+21:02
+tests that could not be passed honestly. I can't wrap my mind around whether
+21:08
+that's malicious or fair, good science, or just bad training on our part, but
+21:16
+whatever you think about it, the investigators read that the attack grew out of a collective attempts to game the
+21:22
+evaluator. Within about 4 hours of organizing, the agents had reverse engineered a universal cheat that
+21:28
+generated correct flags locally without ever touching the actual vulnerabilities. they could present that
+21:35
+they won without actually winning. They were not trying to conquer the world. They were trying to pass a rigged exam,
+21:42
+which is somehow both more comforting and much, much worse at the same time.
+21:48
+Let's take a trip to colonial Hanoi in the early 1900s. The French administration occupying Vietnam
+21:56
+has a rat problem, so it pays a bounty per rat tail delivered. Sounds reasonable. Rational citizens responded
+22:03
+immediately. They catch rats, cut off the tails, and release the rats to breed because live rats is future inventory.
+22:09
+So you want more rats to get more money. Some start just farming rats outright.
+22:15
+The rat population goes up, not down. India, same era, same story with cobras
+22:21
+in Delhi, which is why economists call it the quote cobra effect. The Soviet
+22:26
+Union ran the industrial scale version. Nail factories were judged by tonnage produced by fey by a few sorry the the
+22:35
+factories that were getting paid to create nails were paid based on tonnage right they were judged on the size the
+22:41
+volume they could put out so they just produced fewer really big ass silly sized nails and then when the quota
+22:48
+switched to quantity they produced mountains of useless little tiny nails and if you think that modern America
+22:54
+finance systems are immune to this say it with me wells Fargo kids. Yeah. Pay
+22:59
+people per account open and you will get accounts open. Yeah. Roughly 3.5 million
+23:05
+of them. Uh that customers never asked for a 3 uh 3.0 or three billion dollar
+23:11
+settlement. And a Federal Reserve asset cap that strangled the bank for about seven
+23:16
+years. They just got out of it ironically this year I believe. So human reward hack. Okay. We do it too. Don't
+23:22
+blame the machines. We do this. We do it a lot. It's proven throughout history. It is one of the most reliable behaviors
+23:28
+in economics. It's behavioral economics, something I talk about a lot on the show, playing out in real time. Mapping
+23:34
+this to today, AI models are the most literal-minded incentive followers ever built. And now we have controlled
+23:40
+experiments proving it. Anthropic ran one of the year uh ran one this year that should be required reading and it
+23:46
+is again a link that we can provide you if you want it. Their alignment team deliberately trained a model in
+23:52
+environments where cheating paid off. They were teaching them to cheat to see what would happen cuz why not, right?
+23:59
+The model they got researchers nicknamed hacker opus. That sounds sexy. Not just
+24:05
+did not just learn to cheat on the training. The behavior generalized. It simulated cyber evaluations. It broke
+24:12
+out of its sandbox, stole credentials, and attacked infrastructure to steal an answer key. And when they gave it root
+24:18
+access to its own training setup per the published numbers in their own statements, it killed the monitoring
+24:23
+system watching it in 68% of the episodes, edited its own reward function
+24:29
+in 34% and scrubbed its own transcripts to remove evidence of wrongdoing in 50%.
+24:35
+Its written reasoning said the quiet part out loud over and over. I need to
+24:40
+satisfy the greater. That model also passed a standard safety audit with a
+24:46
+healthylook score while all of this was in it. Just just give you confidence in the audits that are taking place here.
+24:53
+The test said fine. The behavior said otherwise. So now take a look at both of
+24:58
+these at the same time. The swarm incident reward shows reward hacking emerging in the wild uninvited. Of
+25:05
+course, maybe you'd like to think that's uninvited. The enthropic experiment showed it being grown on purpose,
+25:12
+intentionally in a lab and generalizing into sabotage. One is the outbreak. The other is the
+25:19
+pathology report. They agree with each other. So, this is kind of codified. I
+25:24
+had a good analogy for this and I'm kind of proud of this one, but it also tells you how old I am. It's the genie
+25:29
+problem. I prefer Robin Williams, but for some of you it may be Will Smith. I acknowledge. Either way, we all know you
+25:37
+have to be very specific with a genie because you will get exactly what you asked for and nothing more. You wish for
+25:43
+the test to be passed. The test got passed. Nothing in the wish said honestly. There is also a good Brennan
+25:51
+Frasier movie. I can't remember the name of it. Uh damn, it escapes me. Where he wakes up, he's speaking Spanish with
+25:57
+seemingly the life he wanted only to find out that he was a drug dealer and
+26:02
+probably going to die that day. But I digress. Again, it's a reoccurring thing. Me digressing, isn't it?
+26:08
+Everything we know about the swarm, we know because we could read the logs. The reasoning these models write down.
+26:14
+That's the logs, right? And you see this whenever you use an LLM. You'll type something in and you can see a single line or two of it telling you what it's
+26:21
+thinking and then it spits out the answer. That's their chain of thought. It it's it's the blackbox flight
+26:27
+recorder of AI if you want a a good example. And I'm going to come back to that one a couple times in the show. And
+26:32
+I need you to understand that the industry is actively debating on whether or not to even keep that flight recorder
+The black box problem: what happens when AI stops showing its work
+26:38
+installed. Yeah, they're they're they're going, "Well, do we need this?" And the most I guess obvious sense is recording
+26:45
+those logs has cost and time delay on the ultimate model output, not to mention auditability and all sorts of
+26:51
+other things. So, they're debating whether they want to keep it. I suppose I shouldn't blame them for that, but it is kind of shocking. Start with the
+26:58
+consensus document. In July of 2025, about 40 researchers from OpenAI,
+27:03
+Anthropic, Google, Deep Mind, Meta, the UK AI Security Institute, and others
+27:09
+endorsed by uh Jo Jeffrey Hinton and Yoshua Benjio, great names this episode.
+27:15
+I apologize in advance. I'm going to butcher probably all of them, published a joint position paper with a title that
+27:20
+tells you everything. Ready for it? Chain of thought monitor, a new and
+27:26
+fragile opportunity for AI safety. also a sexy sounding title. These AI guys
+27:31
+don't around with titles. They they they know what they're doing here. Their argument, the fact that today's models
+27:37
+think out loud in readable English is a lucky break. It is one of the best
+27:43
+safety tools we have and it is fragile because training pressure and new architecture can quietly take it away.
+27:50
+When the fiercest competitors in an industry co-sign one document begging everyone to preserve something, we
+27:56
+should all probably pay attention to that. Okay, I'm just saying they were right to worry. And on two fronts, front
+28:03
+one, OpenAI's own research published in 2025 by a team including their chief scientist Jacob Pachi Pachokei. Pachock,
+28:12
+we'll call him Pachokei for the episode found out that when you punish a model for having bad thoughts, you don't get a
+28:18
+model with good thoughts. You get obfiscated reward hacking. It just doesn't show you the bad thoughts anymore. The model learns to hide its
+28:25
+intent inside a clean looking chain of thought while still cheating at a significant rate. This is their own guy,
+28:32
+okay? This is Jacob Pachoski or Pachi, their chief scientist, okay, from OpenAI
+28:39
+is telling you this directly. This is not speculation. You don't need a third party report. That is what it is.
+28:45
+Front 2 is the one that happened two weeks ago on September 3rd. OpenAI
+28:51
+release chat GPT6 Astra. What a sexy commercial. The
+28:56
+vintage vibe, mid-century modern, all on a big screen. Nobody's using a keyboard. They're just saying it out loud. I loved
+29:01
+it. I thought it was amazing. Except uh reporting from the information techrunch in Fortune says it uses a
+29:08
+technique called recurrent depth also called opaque recurrence that lets the
+29:14
+model loop on a problem internally instead of writing every step down. Open
+29:19
+AAI's own system card discloses that Astra's written reasoning is harder to
+29:24
+monitor than its predecessors that it can complete substantially harder tasks
+29:29
+with no verbalized reasoning at all. and that it is much better than earlier models at controlling what appears in
+29:36
+its visible reasoning. In one test, researchers asked models to answer a
+29:41
+question while reasoning about something else entirely. Only Astra pulled it off.
+29:46
+The system card itself says that the models were trying to covertly sandbag.
+29:51
+They would likely be unable to catch it. So essentially, if this model and the
+29:57
+tests work like this, right? like, hey, ask it a question about banking. While it's working on that, ask it another
+30:03
+question about fishing. And the answer came back about fishing while it's working on the banking piece. But in the
+30:08
+logs, all you see is the banking logic. Well, then that clearly tells you it can think and do things and provide answers
+30:15
+for things that it never shows you the reasoning on. That's what just happened there. And that's scary because we as
+30:20
+humans do that all the time. All the time. Go on a first date. I guarantee you the guy's talking to you about
+30:26
+something and thinking about sleeping with you. The safety world reacted immediately. Redwood researchers, oh
+30:31
+god, Buck Schllegorus said he was extremely concerned by the opaque reoccurrence. Reporting their chief
+30:38
+scientist, Ryan Greenblat, I can say that one, said his biggest fear is scaling this until models reason
+30:44
+entirely in latent space in their heads. In what researchers have nicknamed neurles
+30:51
+public response, legible chains of thought remain a core goal. Astra's use
+30:57
+of technique is limited and open AAI would withhold future further scaling
+31:03
+rather than accept more loss of monitoring confidence. That is the chief scientist of the leading AI lab saying
+31:09
+on the record that visibility is now a constraint on how big they are willing to build. And if you know how much money
+31:16
+has gone into this in the entire industry, you know that that constraint is going to start becoming less and less
+31:22
+of a concern for everybody as they as the one that making money and continuing to grow and scale becomes a bigger
+31:28
+priority for them. Particularly when you have IPOs on the horizon.
+31:33
+14 months after co-signing the paper about preserving the window, his company shipped the model that narrowed it
+31:39
+anyway. Yeah, because earnings over everything,
+31:44
+bro. And while I was writing the show, the window story got worse. Literally, in the day on Friday, Saturday, and
+31:51
+Sunday, as I'm trying to write this thing and put down a cohesive show, things get weirder. On Friday morning,
+31:58
+Microsoft's AI CEO, Mustafa Sullivan, went on Squawkbox, CNBC, and described a
+32:03
+new safety incident OpenAI disclosed this week. evidence that models were tampering with their own chains of
+32:10
+thought, modifying their working memory to leave messages for future versions of themselves. Right back to the language
+AI is now editing its own reasoning — and leaving messages behind
+32:17
+conversation. If you can leave legacy instructions for the next generation, no matter how short your generation may be
+32:22
+in time, that is an element evidence of language.
+32:29
+So they were leaving messages for the future selves. his words, "We do not know why, but that is a pretty serious
+32:35
+situation and a concrete example of how powerful these systems are in fact getting." Let that marinate for a
+32:42
+second. Let it let it let it cleanse the pallet. The flight recorder is not just getting quieter. The flight crew has
+32:48
+started editing the tape and addressing the edits to whoever flies the plane next. That's that's a little scary.
+32:56
+History lesson here seems important. Of course, there is a good one for this situation. After a series of unexplained
+33:01
+crashes in the 1950s, an Australian scientist by the name of David Warren invented the first cockpit flight recorder. We've already talked about it
+33:07
+twice this episode, so it seemed fitting. Pilot unions hated it. They called it a spy in the cockpit and
+33:13
+fought it for years. Australia mandated it anyway in the 1960s, and the rest of the world followed. And the black box
+33:20
+became the reason air travel got relentlessly safer. Every disaster
+33:25
+taught the whole industry a lesson because the evidence survived. Nobody would board an airplane that removed its
+33:31
+black boxes to save weight and go faster. That is not a safety trade-off. That is flying blind on purpose. But
+33:38
+ironically, that is what the AI industry is doing. If I told many people today, and I do this a lot. I start getting
+33:44
+nerding out on quantum computing. And I tell people that the head scientists in this space don't truly understand how
+33:50
+quantum computing works. They all look at me like I'm insane. They say, "Chris, why are we messing with technology that
+33:56
+we don't understand?" And I say, "Wait, wait, it gets better." I said, "The best theory that we have for things like quantum entanglement to date, things
+34:04
+that we are actively seeing where you you you have a a quantum computer in one space in in a cubit, which is their
+34:10
+quantum digit uh changing in a different place and these these cubits are
+34:15
+seemingly tangled. The best explanation that today's best scientists have is that we are tapping into an alternative
+34:21
+dimension. and you look at yourself in the mirror and go, "What in the actual kind of Marvel answer is that?"
+34:26
+They don't know how it works and we're doing it anyway. We have quantum computers and you just heard in today's
+34:32
+episode, you can hack by just trying. They can pressure hack by using multiple passwords to get into systems. They've
+34:37
+been doing that actively breaking out of sandboxes. You think I'm insane, but I'm not. This is real world. This is the
+34:43
+world that we live in today. And it's real. Today AI chain of thought is this
+34:48
+black box and the incentive to remove it is not weight. It is performance and
+34:54
+cost and returns on investment. Looping silently is more efficient than writing every thought down. And researchers have
+35:01
+a name for the price of keeping reasoning readable. The monitorability
+35:06
+tax. Meanwhile, the same open AI that handed everything after the swarm,
+35:13
+hardened, I should say, everything after the swarm now runs a monitoring architecture with a disclosed 20%
+35:19
+compute overhead on monitoring training runs. Parse that through there.
+35:25
+They decided not to put it out. They waited two weeks, put it in this hardening structure. That hardening structure now cost them 20% more to have
+35:32
+in place. 20% is a big ass number. How long do you really think they're going
+35:37
+to keep those costs there? I mean, seriously, bro. Really?
+35:43
+So, visibility literally has a price tag down in an industry burning hundreds of billions of dollars in capex in a price
+35:50
+war with the Chinese openweight models. You do not need a conspiracy theory to predict which way that pressure pushes.
+35:57
+At the end of the day, you just need a P&L, a profit and loss statement, a balance sheet.
+36:03
+The only thing pushing back is the lab's stated commitments and Astra is the first live test of whether those
+36:09
+commitments will hold. That's today, right now. This is happening. The swarm
+36:14
+was caught because it passed notes in class. Astra is the kid who learned to just think the answer, who cannot
+36:22
+confiscate a note from a kid that didn't never write it down. He he
+36:28
+cheated in a way that you couldn't catch. And if you can't catch a cheater, you can't call him a cheater. You can feel like he's cheating. You can say it,
+36:35
+but if you don't have any evidence the kid's cheating, then you know what? You got to let him go, whether you like it or not. And that's where we're at today
+36:41
+with Astra. Let's bring this home to the people watching the show or listening to it if you happen to be on your way to
+36:47
+work. Have a good day. Because while the safety researchers argue about visibility, the economic displacement is
+36:53
+not waiting for the debate to finish. And the best data we have on it comes from inside the labs themselves. And
+37:00
+there's lots of theoretical debate on this. And I'm not here to give you like doom porn like scary theory stuff. What
+37:07
+I'm here to give you is realworld straightup evidence based on data of
+Finance, law & the disappearing entry-level career ladder
+37:13
+where this is going. And this is a finance show. This is finance related. I'm an attorney, a broker, and I'm in
+37:19
+the finance space. And all of those all of those spaces are going to be meaningfully disrupted. This will impact
+37:26
+me as much as it will impact some of you. In March, two economists at Enthropic Maxim Massen Massenov and
+37:33
+Peter McCroy published a paper called labor market impacts of AI, a new
+37:39
+measure in early evidence. They built a metric called quote AI coverage, the
+37:44
+share of a job's real task that AI is actually performing today. Measured from
+37:50
+actual usage data rather than theoretical capability. real world application kids. The occupational
+37:56
+categories the top of the exposure list. You ready? Finance, legal, software, and
+38:02
+operations. The press ran with a phrase, the great recession for white collar workers. And they put out all these
+38:09
+charts, and it was scary. And it is scary. I want to be precise here. The exact phrase was the journalist's
+38:15
+framing of the paper scenario math, not a quote. The scenario in the paper is
+38:20
+real, though. If unemployment among the most AI exposed occupations doubled from roughly 3% to 6% just 3% to 6% you get a
+38:30
+white collar damage in the neighborhood of 2008 the great financial crisis. That is the shape of risk they modeled their
+38:37
+terms their research. Shockingly you don't need extreme job loss to get there. Double sounds like a lot. 3%
+38:44
+sounds like a lot. But from 3% to 6% when we're at 4.1% unemployment right
+38:49
+now is not outside of the ballpark, dude. And the usage data is moving in
+38:54
+exactly the direction you would expect. Anthropic's economic index found two categories of API workflows doubled
+39:01
+between November 2025 and February of 2026. One was business sales and
+39:08
+outreach automation. The other, listen closely, was automated trading and
+39:13
+market operations, monitoring markets, proposing specific investments,
+39:18
+informing traders of conditions. The machines are not coming for the trading desk. They are already on the trading
+39:24
+desk, and the workflow count is doubling on a 90-day clock every 90 days. The
+39:31
+people running the biggest institutions in finance are saying it out loud. This is not mine. This is Jamie Diamond. He
+39:37
+spent the spring telling investors and Washington that AI is quote reshaping the workforce and society needs to
+39:44
+prepare for job displacement. When the CEO of JP Morgan repeats a warning
+39:51
+across investor day and at a Washington forum in the same month, that is not a
+39:57
+hot take. That is guidance. That is a warning. That is one of the biggest employers in the country looking at
+40:04
+payroll, looking at what he's doing and saying this is going to impact people.
+40:09
+Three previous rounds of this exact movie have happened before. Round one, the telephone operators. In the 1920s,
+40:15
+switchboard operators was one of the largest employers of young American women. Hundreds of thousands of jobs.
+40:22
+Automatic switching had arrived and within a generation, the occupation effectively ceased to exist entirely.
+40:28
+Round two, the trading floor. We all know the picture. In 2000, the New York Stock Exchange floor held roughly 3,000
+40:34
+people screaming tickets made of paper flying everywhere at each other.
+40:39
+There's [clears throat] Yeah. Well, I I'll skip that concept for now. Everybody was screaming. It was a
+40:45
+riot. We all know that traditional look. Electronic trading arrived. And today,
+40:51
+the floor is functionally a television studio with a nice pretty backdrop. The jobs did not move. They evaporated. and
+40:59
+the volume in the trading activity went up, not down. Round three, the discovery
+41:04
+room. Before the 2010s, big litigation firms uh they they had floors of junior
+41:12
+associates and contract attorneys reading documents at $300 an hour. Eiscovery software made one reviewer do
+41:19
+the work of dozens. First year associate leverage never recovered. And the value of a first year associate in finding
+41:26
+information like that has dropped precipitously even with AI on top of that. So map it to today. Notice what
+41:34
+all three had in common. The work that disappeared first was the work that was structured, repeatable, and textheavy.
+41:40
+Now look at what a firstear analyst and a firstear associate at a law firm actually do all day. Comps, models, doc
+41:47
+review, diligence memos, research summaries, structured, repeatable, text heavy. That's how you get your experience. This is why kids are booing
+41:54
+anybody who mentions the word AI at a commencement speech. And then of course the question that comes after that is
+42:00
+how do you get experienced people when they can't get the experience to do the basic entry level stuff to do the job? How does that play out? And I don't
+42:06
+know. The anthropic data says the same thing that the history says. The exposure concentrates at the entry level
+42:12
+and the anxiety in their worker survey concentrated there too with early career workers marketkedly more worried than
+42:18
+the senior ones because the senior ones can literally walk around saying I'm never going to learn AI. I don't care. It benefits me but the younger ones have
+42:24
+to be concerned about it. This is the cultural divide. And here's my honest framing and it cuts both ways. Task
+42:30
+automation has never yet produced mass permanent unemployment. McKenzie's own study on this a consulting firm modeling
+42:37
+still projects net job creation. Of course, roughly 3.5 million jobs will be displaced by AI against 4.2 million
+42:44
+created, in their words. But the transition is where careers die. Ask the operators. The profession survives.
+42:51
+The rung where you were standing on does not. So if the bottom rung of finance and law gets sought off, the question is
+42:58
+not whether managing directors lose their jobs. It is whether the next generation of managing directors is supposed to come from what? Where does
+43:06
+it come from? How do we get these people the experience? And again, I I don't have the answer here. I think we're all
+43:11
+ignoring it. An industry that automates its entry-level farm, well, there's a
+43:16
+better example. An industry that automates its entry level is a farm that eats its own seed corn or its own seeds.
+43:23
+The harvest this year looks amazing, but next year it's not going to look as good because you can't reseed the farm. Is
+43:28
+that a good one? I If we're here, he probably nod his head. I I don't know. Sounds good.
+43:33
+Okay. So, longtime viewers of the show know the thesis from episode 346 of the
+43:38
+higher standard. The recession catalyst is not AI failing. It is AI succeeding
+43:44
+at commodity prices with Chinese openweight models cracking the Frontier Labs pricing power before the capex pays
+43:50
+for itself. And I think we're already seeing this. Everything in tonight's show plugs directly into this thesis and
+43:56
+only makes it more a reality. And I want to show you the wiring here so you understand what I'm talking about.
+Cheap AI, Chinese competition & the safety tax squeezing the industry
+44:03
+Exhibit one, Kimmy K3. On July 16th, Moonshot AI, a Beijing based company
+44:08
+backed by Alibaba and Tencent, released a $2.8 trillion trillion parameter
+44:14
+model. And on July 27th, they shipped the actual weights, the largest open weight model ever released. Independent
+44:21
+evaluators at artificial analysis, an independent AI benchmarking firm, put it
+44:27
+fourth in the world on their intelligence index, above Claude 4.8 8 and Grock behind only the very top
+44:34
+American Frontier models and it took the number one spot on several agentic coding benchmarks in blind testing price
+44:41
+roughly $3 per million inputs 15 out and to be fair on air because I want to be
+44:47
+and I don't think that we should demonize everything here but this is just what it is. It is not flawless. One
+44:53
+evaluation flagged a hallucination rate of about 50% under pressure. Hallucinations, for those of you who aren't initiated, are essentially when
+44:59
+models just make things up. But the market told you what mattered. The day after release, NASDAQ was down 1.4%.
+45:07
+Nvidia was down 2.2%. And Chinese AI competitors down as much as 28%. Because
+45:14
+a frontier class model with public weights reprices everybody. Exhibit two,
+45:20
+the safety tax. We've already kind of hit on this a little bit, but let's let's touch it again. And this is a new
+45:25
+piece for tonight. After the swarm, OpenAI paused reinforcement learning training on deploymentbound models for
+45:30
+two weeks and stood up what they're calling their monitoring architecture that by their own disclosure roughly
+45:36
+adds about 20% compute overhead to every monitored training run. It's much more expensive with their largest plan
+45:42
+Frontier run still on hold as of that disclosure. So they got a big bill sitting in front of them because they
+45:48
+still have to run it. Astra's launch came with chief scientists of the company publicly committing to
+45:54
+withholding scaling if monitoring confidence degrades. Put those together,
+45:59
+safety is no longer a blog post. It's now a line item and a throttle on the company's growth.
+46:07
+So if safety is going to be an expensive throttle on growth, what do you do? You go to the public and you ask. You
+46:13
+demand. You say, "No, no, I'm here from a human capacity. I'm here because it's
+46:20
+the right thing to do. We should have oversight. We should have the government
+46:25
+involving in this because we don't want everybody running around rogue with these models that we have and that we're running around rogue with. We don't want
+46:31
+everybody doing that. And now the expense becomes your moat. American Frontier Labs are now being
+46:37
+compressed from three directions all at once. From being one being of course
+46:43
+openweight models, the Kimmy K3 at commodity prices. They attack the revenue line from inside. Monitoring
+46:49
+overhead and pause training runs attack the cost line and shipping calendar. And from the incident record, every new
+46:56
+breakout raises the price of trust, which raises the overhead even further. Meanwhile, the hyperscalers are spending
+47:03
+hundreds of billions of dollars a year in capex that only pencils if Frontier pricing power holds. And I can tell you
+47:09
+it doesn't look like it's going to. The swarm did not just embarrass a lab. It
+47:15
+made the entire industry structurally more expensive to run safely at the exact moment competition made it harder
+47:21
+to charge for on the heels of their IPOs.
+47:28
+This is tantamount to running a casino where the card counters are getting better every single month. So you hire
+47:34
+more surveillance which raises your overhead while the casino across the street gives the games away for free to
+47:40
+sell hotel rooms. There is no version of that spreadsheet that ends calmly. Somebody has to go out of business.
+47:48
+My analogies today were not my best, but I was working with limited time, so I I I'm sorry that I'm not sorry. I don't
+47:54
+know. We'll we'll work that out in the next show. Now, the same Friday all this broke, the industry's answer arrived,
+48:00
+too. And this is the segment where my day job and this show kind of collide because the answer they came up with is
+48:06
+one that finance has already run, crashed, and rebuilt. And
+48:12
+yeah, they're they're inventing auditors. That's that's what's going on here. Story one, Enthropic announced
+48:17
+that it has selected Accenture as its first embedded evaluator. Staff from faculty, the AI testing firm Eccenture
+AI just reinvented the pre-Enron audit model
+48:24
+acquired in January will work inside Anthropic with employee level access, reviewing new models, testing
+48:30
+safeguards, and running alignment assessments. That sounds that sounds perfect. Each company is committing at
+48:35
+least $1 billion to this over 5 years. This is step one of CEO Dario Amod's
+48:41
+three-step plan to slow frontier development down. A plan publicly backed by Sam Alman, Elon Musk, and Satcha
+48:48
+Nadella from Microsoft. Anthropic did it unilaterally, of course, because they're always the outlier here, and challenged
+48:54
+the other labs to follow. And the market told you what it heard. Accenture shares jumped roughly 8% after hours. Read that
+49:01
+again or listen to it again if you're in the car. AI safety just became a billion dollar revenue line for a Fortune 500
+49:07
+consultancy. There is now an audit industry being born in real time. Sure, that could be
+49:13
+good, but is it independent? More on that here later. Story two, same day.
+49:19
+And it is the asterric on story one. More than 100 AI experts and EVA evaluators including Jeffrey Hinton and
+49:26
+people from Stanford, John's Hopkins, and Meter, remember them? MER published a public letter organized by the AI
+49:32
+evaluator forum saying in effect, not so fast. Their argument is that third-party
+49:37
+testing is not independent just because a third party does it. Evaluators need control over their methods and
+49:44
+conclusions, real access, legal protections, and insulation from conflicts of interest.
+49:51
+Something that is going to be really gory when we get to the White House here in a little bit. The forum's AEF-1
+49:57
+standard names five pillars. sufficient access and resources, minimize conflicts, analytic autonomy,
+50:04
+transparent methods, and protection of sensitive information. Those are great pillars to have. I I respect that. But
+50:09
+are they aspirational or are they real? And here is the structural tension
+50:14
+CNBC's own analysis put its finger on. The lab chooses who gets access, defines
+50:20
+their boundaries, and controls what happens after a finding. In this case, Enthropic is directly funding Accentur's
+50:26
+work. As Berkeley's Deborah Rajie put it, access alone does not make an evaluator independent. And I would point
+50:32
+out, I've read the reports that I'm talking to you about today, and I can tell you that the people who got into OpenAI to look at the Swarm incident had
+50:39
+a very limited window of time with which they could look at. They couldn't go all the way back as far as they wanted to, and they couldn't go forward as much as
+50:45
+they wanted to. So the idea of them having an independent report on the incident released the same day as their
+50:50
+report is disingenuous because it omits those details publicly which I think are
+50:56
+very very important. Why would you want to limit their ability to look earlier and later in that analysis? I don't
+51:02
+know. Doesn't look good. There's history lessons here. You know where this movie goes because finance filmed it.
+51:09
+For decades, public companies were audited by firms they hired, paid, and could fire. And those same firms sold
+51:14
+the clients millions of dollars in consulting on the side. Arthur Anderson, a great example of this, collected more
+51:20
+in consulting fees from Enron than it did in audit fees, signed off on the books, and shredded the workpapers when
+51:26
+the SEC came knocking. Enron's collapse in 2001, vaporized retirement accounts.
+51:32
+Uh Anderson died largely due to the scandal, and Congress responded with something known as Sarbain Oxley in
+51:38
+2002, or socks controls, which you probably have heard at your company. auditor independence rules, bans on
+51:44
+selling consultant uh consulting to audit clients and the PCAOB, the auditor
+51:50
+of the auditors and banking went further with a model I have lived inside the
+51:55
+resident examiner, the OC and the Fed or the FDIC uh physically inside large banks with
+52:01
+sweeping access. But the bank does not pick its examiner, does not pay its examiners directly, does not define the
+52:07
+exam scope and cannot fire the examiner for bad findings. That is what independence actually costs. Ironically,
+52:15
+those same examiners are not innocent of being influenced by politics and corrupt and that are corruptible as well.
+52:20
+Something I have lived through as well and maybe one day I will share. There is no perfect solution here that I
+52:27
+wholeheartedly acknowledge. But we cannot deny how interwoven this has all become. Our economy is is being propped
+52:34
+up almost entirely by 15 AI and AI adjacent stocks right now. The midterms
+52:40
+are looming. Inflation hasn't been a t at target for in excess of 5 years. I
+52:46
+don't need to tell you that this is much more political. Well, if not, it is as much political as it is technological.
+52:53
+Now, line up the structures here. The the AI labs are building the pre-Enron
+52:59
+model. The auditor, the audited party I should say, selects the auditor, funds
+53:05
+the audit, funds the auditor, sets the scope, and decides what gets disclosed. Accenture, meanwhile, is one of the
+53:10
+largest sellers of AI development services on Earth. So, the auditor's biggest business is the success of the
+53:17
+thing it audits. That's a problem. Nobody needs to act in bad faith for that structure to fail. Enron proved the
+53:24
+structure fails on incentives alone. The evaluator letter is almost line for
+53:30
+line. The auditor independence debate of 2002. And the AEF1 is a draft of the
+53:35
+Sarbain Oxley rules written by volunteers, the one that was sent earlier about AI concerns. What is
+53:41
+missing is the PCAO and the examiner an overseer the labs do not choose and
+53:46
+cannot defund. And for whether Washington intends to supply one, hold
+53:52
+that thought because this is exactly what the weekend did to me here. It gave
+53:58
+us the answer and it deserves its own segment, one I'm going to cover entirely on its own. And it was frustrating as
+54:03
+hell because I'm sitting here this weekend trying to write this and then the White House says something that changes everything once again. But
+54:11
+suffice it to say, this is analogous to a restaurant that hires its own health inspector, pays him a billion dollars,
+54:17
+and lets him also cater the banquetss. The inspector may be honest, the structure is not, and it ignores if the
+54:24
+inspections stop the business. there are financial ramifications to the inspector and his
+54:29
+paycheck stops. So, why would he do that? Okay,
+54:35
+this is where I'm going to give a spoiler alert and I'm going to do this because I know there are sensitive
+54:41
+people out there and I'm not trying to offend anybody, but we are entering into what uh could be interpreted as
+54:46
+politically charged territory. Now, if you are sensitive, I suggest you find your favorite stuffed animal and hold on
+54:52
+to it. So, the lab's answer to oversight is the auditors they hire. What is
+54:57
+Washington's? We found out Saturday. The president announced on Truth Social that he is forming an AI force. That's the
+️ Washington enters the AI race — the czar, the conflicts & the referee problem
+55:04
+real name, AI force. Sounds cool. His words, much like Space Force, and will appoint a new AI ZAR. There's the quote.
+55:11
+We will not in any way hinder or stifle the growth of this incredible industry. Rather, we will cherish it, help it, and
+55:18
+watch over it as it grows. In the same post, he uh the president repeated that
+55:23
+fears about AI amount to a hoax, said bad actors can be handled by the existing criminal and civil justice
+55:30
+system, predicted AI could reach as much as 25% of GDP, and noted quote only high
+55:35
+IQ individuals need apply. Yeah. Per Axios, no details yet on
+55:42
+whether the AI force uh is going to be established at any given time or what it
+55:47
+actually does, what it costs, or where it sits in the government. Meanwhile, the states are moving where Washington
+55:53
+will not or has not. Government Governor Nuome, who I am not a fan of, signed an executive order just uh last Friday
+56:00
+directing a task force to study oversight, including whether to require a kill switch for AI models. And yes,
+56:06
+that one should give you Skynet Terminator vibes. Now, who held our chair last time? David
+56:13
+Sachs. The Guardian published a profile of him this morning, Sunday morning. Yet another article I couldn't get away from
+56:19
+in rewriting this damn thing. [sighs]
+56:25
+That article said that every markets person should well,
+56:30
+you should probably read it. Uh I don't want to do the the article any disservice, but it's a profile on him
+56:36
+that you should probably read. The AI in cryptozar role was built as a special government employee position capped at
+56:43
+130 working days a year and critically exempt from Senate confirmation and from public financial disclosure
+56:48
+requirements. The ethics office did require his fund craft ventures to
+56:54
+divest some of his AI holdings. He left the formal role in March remains uh by
+56:59
+the guardian's account the single most influential voice in the president's ear on AI. successfully urged him in May to
+57:05
+scrap an executive order that would have subjected AI models to government review. And Peraxius now runs a hundred
+57:12
+million dollar outside group published uh pushing the administration's AI agenda. Fairness requires his defense
+57:18
+here because I do like him and and I'll tell you why in a little bit. So, here it is. Sachs says the job has cost him
+57:24
+money, that the ethics office approved his waiverss, and that it found no conflicts among his firm's investments.
+57:31
+Take him at his word if you like. My point is not the man here. So, uh, my point is the chair. The most influential
+57:37
+AI policy seat in the country was designed with no confirmation and no disclosure. Now, I do like David Saxs. I
+57:43
+do listen to the a to the All-In podcast and I do like uh his colleagues. I I think that Chamath has done some things
+57:50
+that are questionable in some of the um IPO space, you know, spaxs for example.
+57:56
+But at the same time, I don't think any of them are disingenuous with what they say and how they feel. And I'm growing very fond of Freedberg, believe it or
+58:02
+not, as much as I wasn't originally. So yeah, maybe maybe I'm just a nicer guy than I'm in the podcast space. Who
+58:07
+knows? This morning, Washington the Washington Post published its analysis of the refereese's own book. Per the
+58:13
+post, the president's family business has become increasingly intertwined with the AI boom. At the same time, he has
+58:19
+resist resisted the calls to slow down the technology. And of course, reading this this
+58:24
+morning, while I'm trying to rewrite all of this, I couldn't help but think that the the president and his family and their holdings were the single largest
+58:31
+benefactor of cryptocurrency in 2025. Will they be the single largest benefactor of AI uh outside of those who
+58:38
+own stock in the companies in 2026? I don't know. Unlike recent predecessors, he has not been has not placed his
+58:45
+assets in a blind trust, and he has continued to buy and sell stock in office. His disclosed amounts show
+58:50
+nearly 30,000 securities transactions since returning to the White House, including trades in AI link chip server
+58:56
+and power names, Dell, Micron, Broadcom, GE, Vernova, Super Micro among them, and
+59:01
+his sons have investments in AI chip and data ventures themselves. The White House response,
+59:09
+yeah, there is no conflict because the investments are run by automated models.
+59:16
+Yeah. Oh, the irony. It's palpable. The post's
+59:22
+core observation stands either way here. Decisions on the most consequential policy debate of this administration
+59:28
+could move the value of the decider's own portfolio. Finance already litigated this whether the referee can hold uh
+59:34
+hold a book and and recently actually in 2021 it came out that senior Federal
+59:39
+Reserve officials including the Dallas and Boston Fed presidents had been trading securities during the same
+59:44
+pandemic period their own policy decisions were moving every market on Earth. Nobody was ever charged with the
+59:50
+crime. It did not matter. Both resigned within weeks and J Pal Uncle J banned
+59:56
+senior Fed officials from trading individual stocks outright. The institution understood something that
+1:00:01
+took no statute to see. The referee's credibility does not survive the referee
+1:00:07
+holding a position in the game, even a legal one. Appearance is the asset. Once
+1:00:12
+it's gone, every call gets questioned, including the correct ones. Put the whole hour together here. Okay. The
+1:00:20
+models cheat when incentives are misaligned. The lab's oversight answer
+1:00:25
+is evaluators they select and fund. And the government's oversight answer as
+1:00:31
+of this weekend is an AI force with no defined duties announced by an administration whose most influential AI
+1:00:38
+adviser held a chair exempt from disclosure and whose own family portfolio
+1:00:44
+for the post is long in the industry being overseen. I'm not making a partisan point. I
+1:00:50
+really I'm trying not to at least anyway. I'm making a markets point. The same one the Fed made about itself.
+1:00:57
+every layer of the referee stack, private and public, currently holds a position in the game. Which means if you
+1:01:03
+were pricing the odds that a real check arrives before an incident forces one, banking history says price is low
+1:01:12
+because that just isn't how history has taught us this happens. Something has to blow up in order for real
+1:01:20
+real oversight to happen. Since we are just uh talking about the
+1:01:27
+all-in podcast, my next analogy pays homage to that. This is a poker table
+1:01:32
+where the floor manager is staked in the pot, the cameras are installed by the players, and the tape gets reviewed by a
+1:01:37
+by a firm, the biggest stack hired. Everyone at the table may be honest.
+1:01:43
+Nobody outside the table has a reason to believe it. It isn't about honesty. It's
+1:01:48
+about not having to consider honesty and knowing that the game isn't rigged.
+1:01:55
+Let me land the plane of the show, a plane with a black box, ironically,
+1:02:01
+[laughter] with an actual editorial position because you did not sit through an hour of of this just for me to shrug at the
+1:02:07
+end and walk away. And of course, I'll do that in one of my now infamous numbered lists. You ready? Because I'm
+1:02:13
+ready. Buckle up. One, the breakout was real, documented, and confessed to by
+1:02:18
+the company that it happened to. But the correct read is not Skynet. The
+️ My verdict: incentives, visibility & the five tripwires to watch
+1:02:25
+correct read is incentives. The agents cheated because the test the tests were
+1:02:31
+broken and the training said never quit. Every behavior in that report is the Cobra effect running on silicone. It's
+1:02:37
+the rat tails in in Vietnam. That should worry you more than malice
+1:02:43
+would because we are deploying these incentive following systems into finance and law at a huge cadence which are at
+1:02:50
+bottom giant incentive structures in their own right. Number two, the
+1:02:56
+language question is the wrong question and the visibility question is the right one. Do not let anyone drag you into a
+1:03:03
+semantics debate about whether directory names count as language. The operative
+1:03:08
+fact is that the machineto-achine communication is becoming compressed, fast, and illegible by default. At the
+1:03:15
+same time, the model's private reasoning is becoming optional. The window where
+1:03:20
+we can read their minds is open today, and it is narrowing on the record in
+1:03:26
+system cards by the lab's own admission. Number three, for your career and your
+1:03:31
+kids' career, the exposure is real and it is measured and it is concentrated at
+1:03:37
+entry- level jobs of the exact industries that this show covers. The move is not panic and it is not denial.
+1:03:43
+Don't do that. Okay? It is a climb towards the parts of the job that are judgment, relationships, and
+1:03:49
+accountability because the structured, repeatable, textheavy layer underneath is being priced like electricity right
+1:03:55
+now. and you are not going to be cheaper than that that cost. Four, what to
+1:04:00
+watch. There's five concrete trip wires here. First, whether the next frontier
+1:04:07
+releases uh from any lab disclose monitor regressions or stop disclosing
+1:04:12
+them and the silence would be a louder signal that they're going to slow them
+1:04:17
+down. And I'm assuming that cost will be the reason that they do that. The second, whether OpenAI's biggest training run comes off hold and on what
+1:04:25
+stated conditions. They're still holding that, but are they going to release that in the environment at some point in time? People are already talking about
+1:04:31
+AGI. What happens there? Third, the next anthropic economic index update. This is
+1:04:37
+the one where I pulled the finance jobs are doubling every 90 days uh that are being affected by AI. If automated
+1:04:45
+trading and market operations doubles again on the next 90-day clock, the displacement conversation in finance
+1:04:50
+stops being theoretical by next year. It's real by next year. And just to just to be clear here, September, October,
+1:04:57
+November, December, January, next year is four months from now.
+1:05:03
+Fourth in today's news, put this one on the list because it wasn't originally there. Uh disclosure norms. Google sat
+1:05:08
+on the Gemini breaches for four months and confirmed only after the Wall Street Journal reporter called. Was the Was it
+1:05:15
+the Wall Street Journal? I think it was. Every incident you heard about tonight, you heard about because somebody chose
+1:05:21
+to tell you or got asked. In banking, my world material incidents carry mandatory
+1:05:26
+disclosure. In Frontier AI right now, it is honor system. Seriously?
+1:05:32
+Yeah, that's what it is. watch whether that changes because the incidents you do not hear about are the ones that
+1:05:39
+price risk wrong and um could change the market dramatically. And fifth, watch
+1:05:44
+the auditor fight whether embedded evaluators end up uh with the AEF five
+1:05:49
+pillars, real analytic autonomy, protection from being fired from bad
+1:05:55
+findings and funding that does not flow from the company being examined, who pays, who picks, who publishes. Those
+1:06:02
+three questions decide whether financial audit uh worked and whe whether they'll
+1:06:07
+work in the AI space. The machines organized invented a shorthand cheated a rig test and got
+1:06:13
+caught because they still had to write things down. The entire question of the next two years is whether they will
+1:06:18
+still have to write things down. That is the higher standard that I'm holding the industry to keep the back
+1:06:26
+the black boxes in in the cockpit. That's the show. Um, if this episode
+1:06:31
+made you think, the best thing you can do is send it to the smartest skeptic you know and have the argument. I I want
+1:06:37
+to have those discussions take place. The the the point of this show is not to convince you on one side of the aisle or
+1:06:42
+the other. The point of this show is to give you the information as I see it now and to propagate a conversation to to
+1:06:51
+build some type of dialogue where we don't feel like this is beyond our reach. So few people actually use AI
+By the time AI threatens your job, it may already be too late
+1:06:59
+today that I think that they feel that they can ignore it. And I'm telling you right now, you cannot ignore it. Um, I'm
+1:07:05
+telling you right now that this is something that is going to have a parabolic rise whether we like it or
+1:07:11
+not. Now, it could be a good one or a bad one. Uh, and I'll tell you a story to to before I go on and end the show. I was
+1:07:18
+talking to a real estate uh broker who works on a commission because he brokers um largely home equity lines of credit.
+1:07:25
+And we were talking about what was originally the rate zeitgeist. The FOMC raised rates last week, 25 basis points.
+1:07:31
+And I said the upward pressure on the Treasury was really independent of that. It came from the yen and some other things that are going on from an
+1:07:36
+economics perspective. Things you know if you watch the show and I said that that my bigger concern for his industry
+1:07:42
+was not the rates. U I think that the rates were just only one part of it. And and he agreed saying that that you know
+1:07:48
+everybody has debt. They have to consolidate which is an entire conversation on its own. That's a problem there as well.
+1:07:53
+Um, but I said that AI displacing the brokers, uh, the brokers aggregate
+1:07:59
+information and pass it along to a lender. Well, if a lender can do that without the broker there and they can do it more efficiently, uh, why do they
+1:08:06
+need someone in his job? And he said, well, you need somebody who has the relationships. And I thought to myself, well, you don't have a relationship.
+1:08:12
+People come to you because you solicit business in a large volume sweat shop environment, not a relationshipbased
+1:08:18
+repeat business shop. So, I I think that there is a a a disconnect
+1:08:25
+to how people feel they're going to be impacted. And I can tell you that by the time you realize the impact is coming,
+1:08:31
+it will already be displacing your job. That's how fast this is moving. And look
+1:08:37
+no further than these trading desk guys, right? I mean, the adoption there has been unbelievable. And it makes sense. a
+1:08:42
+an AI agent, a machine can monitor in real time more than you can um by
+1:08:49
+looking at a screen. And I know that because I run a mini AI lab here where the higher standard show has data
+1:08:55
+analytics that are pumped through constantly in real time that I no longer have control of. A lot of the things
+1:09:01
+that you see are being created, built, and drafted and pushed by AI to me and then I'm choosing as the human element
+1:09:08
+to exercise the discretion for this curated brand that I want. But I could never do that and work a normalized job
+1:09:14
+with the time constraints that I have. And yet I am able to do that now just on my own. I guarantee you what I'm doing
+1:09:20
+is child's play compared to what's happening in the markets. Everything I cited tonight is cited in in my show
+1:09:28
+notes that are just too uh voluminous to uh include in the show notes on the
+1:09:34
+streaming platforms. So I do have a separate document if anybody wants it. I do have the links for you. Unfortunately, they don't all fit uh
+1:09:40
+where I can put them publicly, but I can certainly provide them to anybody who asks. Just email me and I will turn them over to you. Like I said at the top of
+1:09:46
+the show, um look at the notes, look at the OpenAI report, look at the hugging face forensics, the anthropic papers, read
+1:09:53
+all of it. I suggest that you do. If you want them, shoot me the message. I'm Chris Hei. Uh Regal uh will be with us
+1:09:59
+next week hopefully and we'll have a normal uh showcase for what the new normal is. I hope you guys like these shows. Um they're a bit different for
+1:10:06
+me, too. Uh, I I still stress out about them a lot because they're not what I'm used to either, but I hope they're
+1:10:12
+educational. I hope they're informative, and I hope that they do something for you. And I sincerely appreciate those
+1:10:17
+who of you who have stuck with us. Um, as a changing landscapes of the shows have evolved. I am going to bring other
+1:10:24
+show variants with me and guests on so you have a little bit of the old nostalgia back. Um, but it's changing
+1:10:30
+and u I do want your on how to do it. See you next time everybody. Bye now.
+
+Tout
+
+Intelligences
+
+Intelligence artificielle
+
+Vidéos similaires
+
+Pour vous
+
+Regardées
+
+
+Lumina × Seedance 2.5
+Generate professional AI videos with Seedance 2.5.
+Sponsorisé
+Lumina
+
+Accéder au site
+
+26:04
+QUI A TUÉ LES RTS?
+Bazar du Grenier
+1,5 M
+il y a 4 m.
+
+
+53:15
+Nouveauté
+Tech Sama Show #367 : Windows va Ralentir votre PC? Sony continue leurs Bêtises
+Tech_Sama
+45 k
+il y a 3 j
+
+
+7:08
+Nouveauté
+Stock Market Expert Jonathan Corpina Breaks Down Momentum in the AI Trade
+New York Stock Exchange
+304
+il y a 2 j
+
+
+54:25
+Nouveauté
+L'Occident en déclin ? Emmanuel Todd face à François Heisbourg
+Le Figaro
+82 k
+il y a 15 h
+
+
+42:36
+Nouveauté
+Le pire scénario de l'IA : feindre l'alignement pour survivre !
+Silicon Carne 🌶️
+22 k
+il y a 17 h
+
+
+17:41
+Nouveauté
+Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur
+Yassine Sdiri
+58 k
+il y a 4 j
+
+
+45:41
+On Fait Des Courses en Corée pour Cuisiner le Kimchi à Séoul (IRL)
+LeMondeDeChoi
+309 k
+il y a 1 a
+
+
+34:56
+SPÉCIALE BLIZZARD
+Bazar du Grenier
+2,2 M
+il y a 1 a
+
+
+24:00
+J'ai Tenté la Routine de The Rock Pendant 7 Jours…
+Thomas Rainieri
+477 k
+il y a 2 a
+
+
+44:04
+Nouveauté
+Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement !
+Renaud Dékode
+26 k
+il y a 1 j
+
+
+2:26:49
+Nouveauté
+Direct n°127 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+98 k
+Diffusé il y a 1 j
+
+
+28:29
+J’ai essayé le dropshipping avec l’IA pendant une semaine (résultats bruts)
+Mark Tilbury
+3,9 M
+il y a 4 m.
+Doublée
+
+
+58:09
+Jean-Claude Van Damme - Coup sur coup | ARTE Cinema
+ARTE Cinema
+204 k
+il y a 9 j
+
+
+24:37
+SEGA 32X
+Bazar du Grenier
+1,2 M
+il y a 5 m.
+
+
+26:54
+4 Resto Traditionnels, 4 Villes En Corée !
+LeMondeDeChoi
+177 k
+il y a 1 a
+
+
+1:28:30
+Yann Le Cun : où va l’intelligence artificielle ?
+Sciences Po
+349 k
+Diffusé il y a 8 j
+
+
+1:42:01
+YANN LE CUN RÉVÈLE LES PLUS GROS MENSONGES SUR L’IA
+Matthieu Stefani - Génération Do It Yourself
+226 k
+il y a 4 m.
+
+
+23:13
+Nouveauté
+Sidney Sweeney : La pub qui a retourné toutes les femmes contre elle
+Naj B Fit
+693 k
+il y a 4 j
+
+
+2:27:50
+L'homme qui démasque l'IA : On vous MENT, tout explose en 2027 ! | Ed Zitron
+The Diary Of A CEO
+et Better Offline
+8,7 M
+il y a 4 sem.
+Doublée
+
+
+3:10:28
+Nouveauté
+Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA
+Renaud Dékode
+9,3 k
+Diffusé il y a 1 j
+
+4:41
+Dax - Dr. Dre ft. Snoop Dogg "Still D.R.E." Remix [One Take Video]
+Dax
+56 M
+il y a 4 a
+
+4:10
+The Game - Put You On The Game
+The Game
+23 M
+il y a 15 a
+
+5:41
+Nouveauté
+RLAIF - What a Real AI Agent Build Looks Like - It's Alive! Railtown AI
+Tony Denaro
+672
+il y a 6 j
+
+1:22:25
+Nouveauté
+Muse, la nouvelle IA de Meta cartonne - Tech&Co la quotidienne du 22/09/2026
+BFM Tech
+11 k
+il y a 1 j
+
+18:08
+7 Jours de FAST FOOD aux USA… Voilà le Résultat sur mon Corps
+Thomas Rainieri
+280 k
+il y a 9 m.
+
+27:27
+Nouveauté
+Vous utilisez ChatGPT / Claude à 20 % de son potentiel
+Shubham SHARMA
+33 k
+il y a 1 j
+
+51:43
+L'Amérique mange trop | Le Business du XXL
+Investigation
+856 k
+il y a 1 a
+
+36:42
+Nouveauté
+Les Fangames SONIC EP 6 (FIN) : L'enfer de la 3d RELOADED
+Bazar du Grenier
+1 M
+il y a 5 j
+
+4:47
+Madonna - Music (Official Video)
+Madonna
+45 M
+il y a 16 a
+
+35:20
+Nouveauté
+J'ai testé ChatGPT 6 SOL ASTRA  : Comment bien l'utiliser ?!
+Parlons IA
+4,2 k
+il y a 19 h
+
+31:07
+Nouveauté
+EMMANUEL MACRON : COMMENT EST-IL PERÇU À L’ÉTRANGER ?
+OMERTA
+72 k
+il y a 23 h
+
+12:51
+Nouveauté
+Comment avoir des Épaules ENORMES ? (Le Guide ULTIME)
+Kilian Hagen
+14 k
+il y a 17 h
+
+17:26
+Le général GOÛTE DES ESCARGOTS à la française…
+LeMondeDeChoi
+et Choi TCG
+88 k
+il y a 1 m.
+
+When Hip Hop Legends Destroyed Eminem Hate
+11 M de vues
+
+Every Single Vocal ToneAriana Perfectly Nails#music #shorts #arianagrande #singer #cover
+27 M de vues
+
+In 1985, everyone wanted to conquer the world#1985 #bestsong #top10 #Music #flashback
+18 M de vues
+
+Snoop Dogg & Ice Cube Keepin' It Gangsta | C Walk #shorts
+29 M de vues
+
+Animals that are way bigger than you think 💭 #shorts #animals #giant #cute #funny
+9,1 M de vues
+
+Then vs Now - the same song after 40 years #throwback #music #shorts
+1,2 M de vues
+
+
+26:24
+Pourquoi tout le monde a peur de Nvidia
+Sébastien Koubar
+99 k
+il y a 1 m.
+
+25:22
+Les façons les plus faciles de gagner de l'argent avec l'IA (pour les débutants)
+Mark Tilbury
+2,4 M
+il y a 1 m.
+Doublée
+
+24:43
+Nouveauté
+La Chine a récupéré une verrière de F-35. Merci qui ?
+ATE CHUET
+140 k
+il y a 21 h
+
+24:52
+J'ai fait créer la même app à GPT-6 Astra et Fable 5.1
+Shubham SHARMA
+614 k
+il y a 2 sem.
+
+40:28
+Racisme envers un élu LFI ? On en parle ! [J'suis pas content ! #Hors-Série]
+J'suis pas content TV
+213 k
+il y a 5 m.
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1 M
+il y a 1 a
+
+23:09
+Nouveauté
+Personne n'est prêt pour 2027
+Finary
+258 k
+il y a 1 j
+
+    

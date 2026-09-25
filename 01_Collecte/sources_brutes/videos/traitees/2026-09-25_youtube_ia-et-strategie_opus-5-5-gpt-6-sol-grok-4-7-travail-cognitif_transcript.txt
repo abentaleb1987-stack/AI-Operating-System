@@ -1,0 +1,642 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Claude Opus 5.5, GPT-6 Sol, Grok 4.7 : qui remporte a gagné la guerre cette semaine?
+IA et Stratégie
+IA et Stratégie
+79,8 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+25 sept. 2026  #Opus55 #GPT6Sol #Grok47
+Claude Opus 5.5, GPT-6 Sol, Grok 4.7 : jusqu’où leur confier un véritable travail aujourd'hui ? 
+
+Comprendre un client, préparer une recommandation et organiser les suites : ces trois sorties permettent d’envisager une délégation plus étendue. J’examine les résultats publiés par Box, Hex, Artificial Analysis et Zapier pour expliquer ma préférence pour Opus, les progrès de Sol et Grok, et ce qu’il vous reste à vérifier avant de remettre le travail.
+
+Pour préparer le but, le contexte et les conditions de réussite de votre prochaine mission, je vous invite à rejoindre le cercle Bâtisseur et à suivre l’atelier consacré au cadrage d’un agent.
+→   / 153536282  
+
+Pour rejoindre notre communauté :
+→ Patreon (pour aller plus loin + analyses exclusives + le discord de la communauté) :   / samouraidansant  
+→ Instagram (coulisses) :   / samourai_dansant  
+→ X : https://x.com/strategia_sam
+
+Pour celles et ceux qui veulent aller plus loin que la vidéo, un Discord communautaire francophone autour de quatre axes : stratégie, carrière, finance, technologie. Un public que je modère à la main, de l'entraide entre membres, et des conversations qui durent avec des évènements réguliers entre membres. Disponible dans vos avantages Patreon.
+
+SOURCES & DONNÉES PRIMAIRES
+
+Les trois sorties :
+https://x.ai/news/grok-4-7
+https://openai.com/index/introducing-...
+https://www.anthropic.com/claude-opus...
+
+Artificial Analysis :
+https://artificialanalysis.ai/evaluat...
+https://artificialanalysis.ai/evaluat...
+https://artificialanalysis.ai/article...
+https://artificialanalysis.ai/article...
+https://artificialanalysis.ai/article...
+https://x.com/ArtificialAnlys/status/...
+https://x.com/ArtificialAnlys/status/...
+
+Box :
+https://blog.box.com/claude-opus-55-f...
+https://x.com/levie/status/2102448415...
+
+Hex :
+https://hex.tech/databench/
+
+Zapier :
+https://zapier.com/benchmarks
+https://x.com/wadefoster/status/21024...
+
+Données et entraînement :
+https://privacy.claude.com/en/article...
+https://openai.com/business-data/
+https://x.ai/legal/faq-enterprise
+
+Jev et Agent2Agent :
+https://docs.typesafe.ai/confidence
+https://a2a-protocol.org/latest/speci...
+
+RESSOURCES MENTIONNÉES
+→ Construire son banc d’évaluation :   / 164062792  
+→ Dossier Banc vivant : https://surhumain.ai/dossiers/banc-vi...
+→ Jev, l’IA qui ne parle pas :    • Jev : la vraie rupture derrière cette IA q...  
+→ Atelier de cadrage :   / 153536282  
+→ Arbre d’intention : https://surhumain.ai/outils/intention...
+
+PRÉCISIONS
+
+Offres professionnelles/API d’Anthropic, OpenAI et xAI : pas d’entraînement sur les données par défaut, sauf accord ou partage volontaire. La validation humaine ne supprime pas les obligations des fournisseurs ; le lien évoqué avec leurs prix et valorisations n’est pas établi.
+
+Les baisses de 20 % (Opus) et 50 % (Sol) concernent les tarifs API d’entrée/sortie, pas les abonnements.
+
+Zapier mesure des tâches entièrement réussies en simulation : 42,47 % pour Opus Max avec secours, 33,2 % pour Sol XHigh, pas la part du travail réalisée.
+
+Jev fournit un indicateur de confiance, sans garantir l’exactitude. Facturation au résultat et négociation entre agents restent des scénarios ; Agent2Agent ne donne aucun mandat commercial.
+
+L'espace membre a été repensé
+
+Vous m'avez signalé qu'on pouvait avoir du mal à retrouver un contenu ou à savoir par quoi commencer. J'ai repris l'organisation du site avec ça en tête.
+
+Les trois parcours et formations restent vos points de repère :
+Comprendre pour poser les bases et mieux juger ce que fait l'IA , correspond aux éclaireurs
+Bâtir pour construire des systèmes et apprendre à les piloter, pour les builders
+Décider pour comparer les options et faire des choix adaptés à votre activité, pour les stratèges
+
+#Opus55 #GPT6Sol #Grok47 #ClaudeOpus #Anthropic #OpenAI #Grok #AgentsIA #IAenEntreprise #Consultant #StratégieIA #IntelligenceArtificielle #IA
+IA et Stratégie analyse les récentes avancées de modèles comme Opus 5.5, GPT6 Sol et Grock 4.7. Cette étude examine leur intégration dans des flux de travail professionnels, de la gestion documentaire à l'arbitrage financier, tout en évaluant la pertinence de déléguer des tâches cognitives complexes à ces outils pour optimiser la productivité et la traçabilité.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+IA et Stratégie
+79,8 k abonnés
+Vidéos
+À propos
+
+Patreon
+
+Instagram
+vidéos et analyses stratégiques sur l'IA
+vidéos et analyses stratégiques sur l'IA
+Consulter le dossier
+true
+IA et Stratégie
+79,8 k abonnés
+IA et Stratégie | Sam
+IA et Stratégie | Sam
+Nous rejoindre
+2 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@gm1484
+il y a 43 secondes
+Le jour où l'AGI dépassera la cognition humaine, j'ai hâte d'entendre l'argumentaire du dernier "expert en alignement" nous garantir sa fiabilité. C'est exactement le même sophisme qu'un canidé essayant de persuader sa meute de la bienveillance absolue et du contrôle total qu'il exerce sur son maître.
+
+
+
+Répondre
+
+
+@loic8106
+il y a 5 minutes
+Merci
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeOpus 5.5, GPT6 Sol, Grock 4.7. Tous ces modèles  viennent juste de sortir. Jusqu'où pouvez-vous  
+0:077 secondesleur confier un projet ? D'abord, laissez-moi  vous présenter ces trois sorties et ce que   ça change réellement pour vous, puis leurs  applications sur un dossier que j'ai testé  
+0:1515 secondesmoi-même et des recommandations pour vous et aux  outils d'entreprise. En de jours, trois acteurs   majeurs de l'industrie ont tous renouvelé une  partie de leur offre avec des progrès qui ne se  
+0:2525 secondessituent pas exactement au même endroit. Certains  des résultats s'améliorent nettement. Les tarifs   baissent notamment chez Open AI et en Tropic et  pourtant une nouvelle version peut encore vous  
+0:3535 secondesdécevoir sur ce que vous les demandez aujourd'hui.  Chers amis, bonjour et bienvenue sur IA et   Stratégie. Nous allons dans cette vidéo passer en  revue cette sortie de modèle en mettant d'abord  
+0:4545 secondesau clair ce que ces trois sorties apportent  puis regarder ce que vous pouvez en faire sur   votre projet professionnel. Et pour résumer, plus  est celui qui me convainc le plus cette semaine.  
+0:5454 secondesComprendre la différence nous permettra de donner  à cette préférence des raisons précises et de voir   où Sol et Grock restent intéressant aujourd'hui.  Et justement, commençons par Grock 4.7. Son  
+1:041 minute et 4 secondesfournisseur met en avant le modèle le plus grand  et un entraînement prolongé à prix unitaire et à   vitesse de service inchangé par rapport à Grock  4. Les évaluations artificial analysis montrent  
+1:141 minute et 14 secondesaujourd'hui une progression particulièrement  visible dans l'analyse avec un réglage plus   poussé pour la nouvelle version. En revanche,  la présentation des documents avance moins bien  
+1:221 minute et 22 secondeset c'est une distinction importante puisqu'une  réponse peut examiner davantage d'éléments et   aboutir à une conclusion plus pertinente tout  en demandant encore du travail avant d'être  
+1:311 minute et 31 secondesprésente. Chez Open AI, GPT6 Sol doit rendre la  nouvelle génération plus abordable. L'entreprise   annonce des progrès en programmation et dans  les tâches qui demandent d'utiliser plusieurs  
+1:411 minute et 41 secondesoutils. Elle divise aussi par deux, les tarifs  d'entrée et de sortie appliqué à GPT 5.6 Sol,   le préraining de la génération précédente. Il  s'agit donc du prix payé par les logiciels qui  
+1:511 minute et 51 secondesutiliseront le modèle pour les données envoyées et  les réponses produites. Votre abonnement personnel   lui n'est pas divisé par de l'intérêt est ici de  rendre une capacité plus importante accessible à  
+2:012 minutes et 1 secondeun coût d'utilisation moindre. Mais pour moi,  le véritable changement du côté des grands   modèles américains, c'est Opus 5.5. Entropique  a enfin réglé les problèmes majeurs de cette  
+2:112 minutes et 11 secondesgénération Opus qu'on avait vu plutôt décevante  depuis Opus 4.6. Et cela faisait des mois que  
+2:172 minutes et 17 secondestoute la communauté attendait un véritable modèle  Opus capable de bluffer toute la communauté comme  
+2:222 minutes et 22 secondesOpus 4.5 l'avait faite avant lui. Et justement, je  pense qu'ici Antropic a réussi son coût. Anthropic  
+2:282 minutes et 28 secondesannonce d'abord une baisse de 20 % des tarifs  d'entrée et de sortie, exactement comme Open AI,  
+2:332 minutes et 33 secondesainsi qu'une génération des réponses plus  rapide. Et ça, je le constate. Les résultats   professionnels publiés donnent surtout des raisons  de s'intéresser à la qualité d'ensemble. L'analyse  
+2:442 minutes et 44 secondeset la présentation progressent tous les deux dans  toutes les configurations proposées et comparées  
+2:482 minutes et 48 secondespar Artificial Analysis, c'est les benchmark que  j'ai pu voir, Opus 5. Devance Grock 4.7 et GPT6  
+2:562 minutes et 56 secondessol. Encore une fois, ici je parle d'évaluation de  production professionnelle. Attention également,   les budgets de calcul diffèrent ici. Ce placement  indique surtout une qualité obtenue sans pour  
+3:063 minutes et 6 secondesautant démontrer qu'elle coûte autant à chacun.  Ces sorties donc nous donnent plusieurs choses à   examiner. D'abord la profondeur du raisonnement,  ensuite la qualité du résultat remis et enfin ce  
+3:173 minutes et 17 secondesqu'il faut dépenser pour l'obtenir. Pour  comprendre toute leur portée, j'aimerais   que vous me suiviez maintenant sur le travail que  vous pourriez leur confier, tel que comprendre un  
+3:263 minutes et 26 secondesdossier, préparer une recommandation ou organiser  les suites dans les outils de l'entreprise.  
+3:313 minutes et 31 secondesCommençons par une situation bien familière. Vous  reprenez un compte client. Les engagements sont   dans le contrat. Les difficultés apparaissent  dans le suivi de satisfaction et les capacités  
+3:413 minutes et 41 secondesde votre équipe figurent dans un autre tableau.  Vous devez maintenant préparer ce travail pour les   prochaine semaines. Les évaluations publiées nous  donnent des cas concrets pour l'examiner. Pox,  
+3:503 minutes et 50 secondesune plateforme de gestion documentaire décrit  précisément ce genre d'exercice et son évaluation   demande aujourd'hui de fixer des objectifs  d'accompagnement à partir de ces différentes  
+3:593 minutes et 59 secondespièces. Ox rapporte déjà des résultats beaucoup  plus réguliers avec Opus 5.5 qu'avait Opus 5 et  
+4:054 minutes et 5 secondesla comparaison porte sur ces deux versions. Elle  ne départage pas encore Claude, Sol et Grock sur   ce dossier. Le dirigeant de box donne d'ailleurs  un détail qui permet de contraendre le progrès.  
+4:154 minutes et 15 secondesLe contrat ne précise pas la répartition entre  collaborateurs senior et junior, mais Opus 5.
+4:254 minutes et 25 secondesPersonnes et d'un organigramme en expliquant la  règle de calcul utilisée. L'information peut donc  
+4:314 minutes et 31 secondesmanquer dans une pièce et rester accessible par  hypothèse raisonnable dans le dossier directement  
+4:364 minutes et 36 secondesgrâce aux capacités de réflexion de ce type de  modèle. Pour un véritable cas d'usage, il faudra   distinguer ce que le contrat garantit de ce que  l'on a calculé à partir des données disponibles.  
+4:474 minutes et 47 secondesVoilà une demande que vous pouvez préparer pour  votre prochain rendez-vous. Avec les documents   que vous êtes autorisés à utiliser, demandez  à l'agent de rapprocher les engagements et la  
+4:564 minutes et 56 secondessituation observée, puis d'indiquer la source ou  le calcul qui soutendent ce raisonnement. Ce que   les pièces ne vous permettent pas d'établir  devient alors la question précise à poser au  
+5:055 minutes et 5 secondesclient. Vous obtenez ainsi une base pour conduire  à l'entretien avec des raisons que vous pourrez   lui expliquer. Il faut aussi comprendre que ces  progrès ne sont pas réservés à Entropie. Ex qui  
+5:145 minutes et 14 secondesfournit aujourd'hui un environnement d'analyse de  données publie une évaluation appelée le databch.  
+5:195 minutes et 19 secondesSa version actuelle GPT Sol passe environ de 40 à  61 face à son prédécesseur au même niveau d'effort  
+5:265 minutes et 26 secondesdéclaré. Ça représente 21 points de progression  et le coût moyen affiché descend parallèlement de  
+5:315 minutes et 31 secondes98 à 56 centimes de dollars partage. Encore une  fois, ici on observe la baisse drastique du coût  
+5:375 minutes et 37 secondesde l'intelligence modèle après modèle. Ce score  combine cependant plusieurs éléments d'évaluation.   On ne peut pas le convertir directement  en proportion de vos dossiers qui seraient  
+5:475 minutes et 47 secondesentièrement réussis si vous les mettiez  sur les mêmes quusages. Mais le mouvement   ici est important. Dans les environnements  professionnels à haut niveau d'analyse,  
+5:545 minutes et 54 secondestoll progresse significativement tout en coûtant  moins cher. Pour votre activité, cela ouvre une   piste. Vous pouvez désormais demander à ce type  de modèle d'approfondir le diagnostic en demandant  
+6:046 minutes et 4 secondesd'autres découpages, d'autres rapprochements  ou l'examen d'une explication concurrente.   Car en effet, lorsque des opérations de ce type  deviennent moins coûteuses, vous pouvez commencer  
+6:146 minutes et 14 secondesà envisager d'en faire davantage. Encore faut-il  bien sûr que leurs résultats puissent contribuer  
+6:196 minutes et 19 secondesà une décision finale. Et c'est là que nous  allons passer une difficulté différente. Vous   avez compris le problème ? Il faut maintenant  proposer une réponse en expliquer les raisons  
+6:286 minutes et 28 secondeset aussi fournir les pièces qui permettent à votre  interlocuteur de se prononcer. Dans une mission de   conseil, par exemple, cette étape demandera par  exemple un tableur ou une note de présentation.  
+6:386 minutes et 38 secondesTous ces documents doivent raconter la même chose  et surtout à partir des mêmes hypothèses. Et c'est  
+6:436 minutes et 43 secondescette continuité entre l'analyse et les documents  remis qui est essentiel. Vous pouvez aboutir à   une bonne conclusion et laisser votre client sans  les éléments qui lui permettraient de la défendre  
+6:536 minutes et 53 secondesen réunion. Et à l'inverse, une présentation très  convaincante peut aussi dissimuler une hypothèse   fragile. L'idée que j'aimerais souligner ici,  c'est celle de la cohérence absolue entre la  
+7:037 minutes et 3 secondespreuve et le récit. En conseil, détenir la bonne  solution ne suffit pas. Il faut véritablement  
+7:087 minutes et 8 secondesarmer le client pour qu'il puisse l'expliquer et  le défendre face à ses propres interlocuteurs et  
+7:147 minutes et 14 secondesnaviguer la politique de l'entreprise. Cela exige  donc que chaque support, ce soit un tableur ou une   note de présentation, soit le reflet exact des  mêmes hypothèses de départ. Et justement depuis  
+7:247 minutes et 24 secondesl'avènement de l'intelligence artificielle qui  exacerbe cet enjeu car elle excelle justement à   créer instantanément l'illusion de la cohérence  en générant des argumentaires séduisants,  
+7:347 minutes et 34 secondesparfaits qui peuvent être totalement déconnectés  de la solidité et des preuves. L'intervention  
+7:397 minutes et 39 secondeshumaine jusqu'ici consistait justement à auditer  et à garantir l'intégrité de l'architecture  
+7:457 minutes et 45 secondeslogique sous-jacante en assurant ainsi que  la forme reflète effectivement fidèlement la   réalité et le fond. Et bien ce qu'on voit se  produire au niveau de cette petite frontière,  
+7:557 minutes et 55 secondesje vais l'appeler comme ça, entre des modèles  comme Grock, Opus et Sol, c'est l'avancement   à un coût raisonnable de ce type de travail  cognitif. avec des modèles comme Grock 4.7,  
+8:058 minutes et 5 secondesOpus 5. Sol 6, c'est précisément l'exécution  de ce type de travail cognitif complexe à un  
+8:138 minutes et 13 secondescoût de plus en plus abordable côté américain.  Nous vivons donc encore une fois sous nos yeux  
+8:198 minutes et 19 secondesla grande démocratisation de l'effort cognitif  en rendant ses capacités tâches analytiques et  
+8:258 minutes et 25 secondesnécessité autrefois de grands diplômes tout à  fait accessible à un coût parfaitement marginal.  
+8:328 minutes et 32 secondesPour représenter concrètement ce que représente  ce type de technologie liée au travail cognitif   avancé, prenons un exemple classique d'arbitrage  financier. C'est exactement ce type de  
+8:418 minutes et 41 secondesraisonnement articulé que les modèles peuvent  désormais traités et restitués par eux-mêmes.   Supposons que votre prestataire actuel vous coûte  12000 € par an. Un concurrent vous propose 10000 €  
+8:518 minutes et 51 secondesavec 3000 € de migration et en première année, ce  changement va donc vous coûter 13000 €, soit 1000   € de plus que le maintien de votre contrat actuel  sur 2 ans. En supposant des coûts inchangés,  
+9:019 minutes et 1 secondecela revient donc à 23000 € contre 24000 € pour la  solution existante. La recommandation ici dépend  
+9:079 minutes et 7 secondesdonc de l'horizon retenu. Si vous devez réduire la  dépense des années, cette migration ne répond pas   à votre besoin dans les conditions décrites. Mais  si vous raisonnez sur 2 ans, l'écart devient plus  
+9:179 minutes et 17 secondesfavorable. mais assez limité pour qu'un coût de  formation oublié puisse l'effacer. Votre calcul   donc permettre d'examiner toutes ces hypothèses  et la présentation associé doit expliquer pourquoi  
+9:279 minutes et 27 secondeselle compte. L'application utile de ce type de  modèle ici consisterait par exemple à demander   une comparaison des options avec leur calcul puis  une note destinée à la personne qui décidera. Si  
+9:369 minutes et 36 secondeselle ajoute un coup de formation, demandez à  l'agent de le répercuter immédiatement dans   le tableur et dans la note en indiquant ce qui  change dans votre recommandation. Une mission,  
+9:449 minutes et 44 secondesça se poursuit par ces corrections. Relier toutes  les pièces dès le départ permet de reprendre une   hypothèse sans perdre la cohérence du dossier.  Voilà ce que mesure notamment Artificial Analysis  
+9:559 minutes et 55 secondesavec le GDP Vals AA et le briefcase. La  qualité des productions professionnelles  
+10:0110 minutes et 1 seconderemises à la fin du travail avec une cohérence  interne. C'est comme cela que le classement que   j'évoqué en début de vidéo fonctionne. Il faut  cependant regarder ce que le dessinateur reçoit  
+10:1110 minutes et 11 secondeset ce qu'il lui manque encore pour s'en servir.  L'équipe rapporte aussi que après inspection de   centaines de sorties des nouveaux modèles Sol  et Luna, une présentation moins aboutie et des  
+10:2010 minutes et 20 secondeséléments demandés qui manque parfois dans les  livrables. Ça le recule d'ailleurs sur ce GDP  
+10:2510 minutes et 25 secondesvals AA tout en restant stable sur BFE case et  ce constat précise la déception. De plus en plus,  
+10:3210 minutes et 32 secondesune capacité d'analyse peut progresser sans que  la qualité finale du dossier lui ne progresse dans   les mêmes proportion. Pour Grock, l'artificiel  analysis donne un exemple plus précis dans son  
+10:4310 minutes et 43 secondesscénario démonstratif d'acquisition. Grock 4.6  ne reprend que la dernière année de compte.   Grock 4.7 lui examine 3 années et repère  selon l'évaluateur que la dépréciation de  
+10:5310 minutes et 53 secondesla monnaie efface la croissance apparente. Pour  un acheteur, cela peut changer l'appréciation de   l'entreprise. Sur l'ensemble de son évaluation,  AA relève d'ailleurs un score de présentation  
+11:0311 minutes et 3 secondeslégèrement moins bon. On comprend ainsi comment  le raisonnement peut progresser alors que la forme   finale elle va décevoir. Et justement, les progrès  d'Opus concernent directement ces deux dimensions.  
+11:1311 minutes et 13 secondesC'est ce qui donne d'ailleurs une assise à ma  préférence pour Opus sur ce type de mission.   La perspective d'obtenir un ensemble plus cohérent  et plus complet. Le bénéfice que je recherche ici,  
+11:2311 minutes et 23 secondesc'est de pouvoir consacrer davantage d'attention  au choix du client tout en ayant moins d'éléments   manquants à reconstruire une fois le livrable  construit. Pour moi aujourd'hui sur les benchmark  
+11:3311 minutes et 33 secondesque je fais tourner aujourd'hui sur mes tâches,  la quantité de reprise nécessaire avec Opus est   légèrement moins élevé qu'avec sol ou Groc. Cette  reprise, elle reste nécessaire à constater sur  
+11:4411 minutes et 44 secondesvos propres dossiers et si la construction de  ce type de bande d'évaluation vous intéresse,   il existe un cours dédié disponible sur Patreéon  où j'explique ma méthode dans les grandes lignes  
+11:5311 minutes et 53 secondesque vous pouvez réadapter à vocal usage. Il  faut également regarder ce que coûte cette   probation. Pour ces exemples de représentation,  artificial Analysis annonce environ 8 dollars  
+12:0312 minutes et 3 secondesavec Grock 4.7 contre 4llar 40 avec Grock  4.6. Tous deux au réglage très poussé, XRI,  
+12:1012 minutes et 10 secondespresque le double. Vous avez donc un doublement  de votre facture et cela explique aussi pourquoi   nous avons distingué les tarifs unitaires et le  coût d'un résultat accepté. C'est cette quantité  
+12:2012 minutes et 20 secondesde calcul et les reprises qui font aussi beaucoup  varier la facture aujourd'hui. Pour votre mission,   économie dépendra donc du temps qui vous restera  à consacrer au dossier avant de le mettre.  
+12:3012 minutes et 30 secondesEt maintenant, juste avant de poursuivre,  je prends un petit instant pour m'adresser   à celles et ceux qui ont découvert la chaîne  il y a pas si longtemps. Si ces analyses vous  
+12:3612 minutes et 36 secondesaident à comprendre l'évolution de l'IA et ses  conséquences stratégiques sur votre travail,   je vous invite ici à bien vouloir vous abonner.  Nous poursuivons cet examen des capacités  
+12:4612 minutes et 46 secondesdes usages et des décisions qu'elles rendent  possible. Et votre soutien nous permet justement   de faire vivre ce travail et de continuer  à croître. Merci pour votre collaboration.  
+12:5612 minutes et 56 secondesMaintenant, il s'agit d'évaluer comment faire  avancer le dossier dans les outils. Il faut   mettre à jour un dossier, préparer une signature,  préparer les bonnes personnes et surtout conserver  
+13:0513 minutes et 5 secondesla trace de ce qui a été fait. À ce stade, la  qualité du document ne suffit plus. Il faut   agir dans un environnement où les informations et  les règles sont parfois dispersées. Et c'est un  
+13:1513 minutes et 15 secondespoint crucial pour votre organisation. Fournir un  outil et une consigne claire à un agent ne suffit   pas s'il niant la procédure exacte. La qualité  de son travail dépend aussi de sa capacité à  
+13:2513 minutes et 25 secondessavoir identifier les informations manquantes  et à consulter les bonnes règles avant d'agir.   Sur le banc d'essai de Zapur du 24 septembre,  la configuration articulée autour de Opus 5.
+13:3913 minutes et 39 secondes% pour sol en réglage X high. Mais ce gain  d'efficacité a un coût 1,44 dollars par  
+13:4513 minutes et 45 secondestage pour Opus quand on le pousse au maximum et  adossé à des modèles de secours contre seulement  
+13:5113 minutes et 51 secondes27 centimes pour GPT sol. Dans le cadre simulé  et intransigent proposé par Zapier, l'avancée  
+13:5613 minutes et 56 secondesest claire, elle coûte plus cher mais conserve  toutefois un rôle précieux de préparateur. Sur   votre prochain dossier, vous pouvez très bien  commencer à lui déléguer l'ébauche du travail,  
+14:0614 minutes et 6 secondesla mise à jour du suivi, la réaction des messages  et la structuration des validations, son véritable   atout et sa traçabilité. Chaque action suggérée,  chaque raisonnement est directement de plus en  
+14:1614 minutes et 16 secondesplus sourcé, que ce soit une échéance, une  décision de réunion ou un retour client.   Vous obtenez ainsi une proposition d'exécution  entièrement traçable, prête à être supervisé et  
+14:2614 minutes et 26 secondesdéployée dans les strictes limites de votre  organisation. En définitif, la manière dont   je vois cette posture de l'agent préparateur  est un formidable levier pour maximiser leur  
+14:3514 minutes et 35 secondesemprise commerciale et convaincre aujourd'hui des  entreprises professionnelles à utiliser de plus   en plus d'agents. En maintenant l'humain dans la  boucle de validation au minimum, ces géant LIA à  
+14:4514 minutes et 45 secondesla fois se décharge du risque juridique tout en  transformant chaque utilisateur en un formateur   gratuit pour la prochaine génération de modèle.  Il enrichit leur modèle et leur télémétrie d'une  
+14:5614 minutes et 56 secondesexpertise métier absolument inestimable. C'est  pour ça que ces tarifs sont aussi bases. C'est   aussi pour ça que ces entreprises non rentables  valent aussi cher. On le sait, elles collectent  
+15:0515 minutes et 5 secondesaujourd'hui énormément de données qui feront que  très bientôt on pourra se passer de ce formateur   humain qui utilise l'A quotidien. Surtout et on  le sait en s'encastrant au cœur même des processus  
+15:1515 minutes et 15 secondesde décision avec des stratégies tarifaires  segmentées qui étouffent la concurrence.   Ces acteurs cessent de vendre un simple outil pour  s'imposer de plus en plus comme l'infrastructure  
+15:2615 minutes et 26 secondescognitive centrale indispensable aux entreprises,  créant ainsi une dépendance structurelle forte qui  
+15:3315 minutes et 33 secondesrend leur technologie absolument incontournable  et hautement monétisable à l'avenir. Et donc,  
+15:3915 minutes et 39 secondesje le dis au passage, mais la suite logique de  cette guerre entre Opus 5. GPT6 sol et Grock 4.7  
+15:4515 minutes et 45 secondes7 n'est pas comme pour Fable, Kimica 3 ou GPT6  Astra de démontrer les capacités frontières  
+15:5215 minutes et 52 secondespubliquement accessibles évidemment de ce que  l'entreprise et le laboratoire est capable de   produire, c'est de résider dans le passage d'une  délégation consultative à une exécution de plus  
+16:0216 minutes et 2 secondesen plus autonome et transactionnelle. À  mesure que la fiabilité et le retour sur   investissement de ces trois modèles dont je parle  dans cette vidéo franchira des seuils critiques,  
+16:1216 minutes et 12 secondesle contrôle humain systématique lui deviendra  de plus en plus un frein économique. Et tout  
+16:1816 minutes et 18 secondesça va bien sûr forcer une bascule vers le  contrôle par exception, c'est-à-dire le   moment où il n'alerai à l'expert qu'en cas  d'anomalie certaine. Et c'est précisément  
+16:2716 minutes et 27 secondesici qu'on voit l'intérêt de modèle type Jeev qui  sont des pièces manquantes aujourd'hui de cette   grande bascule sans texte avec des décisions  instantanées, fiable et surtout chiffre en  
+16:3516 minutes et 35 secondesprobabilité sans aucun effort d'entraînement  particulier. Estce que c'est aujourd'hui   anodin pour les observateurs mais tout à fait  stratégique pour les bâtisseurs. D'ailleurs,  
+16:4316 minutes et 43 secondesallez visionner cette vidéo si vous n'aurez pas  vu je vous y montre pourquoi. C'est cas où Lian   alertera l'expert qu'en cas d'anomalie. justement  sur le plan commercial, c'est un intérêt majeur.  
+16:5416 minutes et 54 secondesCe-là, les géants abandonneront petit à petit  la tarification au token au profit de plus en  
+16:5916 minutes et 59 secondesplus d'un modèle d'abonnement facturé au token,  celui du collaborateur cognitif qu'on appelle à la  
+17:0517 minutes et 5 secondesdemande ou à la performance. Et ce collaborateur  cognitif, croyez-moi, captera une part directe de  
+17:1117 minutes et 11 secondesla valeur créée de toutes les entreprises qui ont  besoin d'intelligence. Et toutes les entreprises   aujourd'hui ont d'énormes besoins en intelligence.  Voilà dans les grandes lignes comment cette grande  
+17:2117 minutes et 21 secondesbascule se préparera. Il me reste à vous parler  de la véritable rupture qui s'opérera lorsque ces   agents ne se contenteront plus de préparer des  synthèses internes, mais négocieront directement  
+17:3017 minutes et 30 secondesentre eux grâce à des protocoles similaires au  agent toent par exemple et redéfiniront ainsi  
+17:3717 minutes et 37 secondesl'intégralité des flux B2B à une vitesse  et à une échelle qui échappe aujourd'hui   totalement à la compréhension temporelle  d'une exponentielle de la majorité des gens.  
+17:4717 minutes et 47 secondesMais revenons maintenant à votre cas d'usage.  L'occasion à saisir pour moi, c'est d'étendre   progressivement cette chaîne de traçabilité dans  votre travail autour d'une mission. Une analyse  
+17:5617 minutes et 56 secondesrigoureuse qui nourrit la recommandation, qui  prestructure à son tour les actions et leur   suivis. En confiant ce rôle de préparateur, entre  guillemets à votre agent dont le moteur appartient  
+18:0618 minutes et 6 secondesà cette catégorie que je décris dans cette  vidéo, vous conservez pour l'instant la posture   du garant. Votre équipe comprend non seulement  l'origine d'une tâche, mais elle s'assure aussi  
+18:1418 minutes et 14 secondesque la logique tient la route de bout en bout.  Vous évitez ainsi les illusions d'une présentation   formellement parfaite mais tout à fait scabreuse  sur le fond. Voilà pourquoi l'actualité de cette  
+18:2418 minutes et 24 secondessemaine mérite votre attention. À mon avis,  entre Opus 5. GPT6 sol et Grock 4.7, le véritable  
+18:3118 minutes et 31 secondesprogrès ne réside pas dans la simple génération de  texte, mais dans l'exécution d'un travail cognitif  
+18:3618 minutes et 36 secondescomplexe de bout en bout à un coût de plus en plus  abordable. La frontière technologique actuelle se  
+18:4218 minutes et 42 secondessitue exactement là. Lia structure l'analyse  et vous vous êtes encore en charge de l'audit.   Alors, soyez pas naïvs, c'est une étape de  transition stratégique avant que ces agents  
+18:5218 minutes et 52 secondesne commencent à exécuter ou à négocier de manière  de plus en plus autonome, de machine à machine.   Pour l'heure, les capacités de raisonnement et  d'exécution avancent à des rythmes différents. Ce  
+19:0219 minutes et 2 secondesqui explique aussi au passage qu'un modèle puisse  exceller modéliser un problème financier tout   en réblon sur une instruction de routine. Pour  commencer, je vous invite à prendre un dossier que  
+19:1219 minutes et 12 secondesvous connaissez suffisamment bien pour en juger  la solidité et surtout la qualité finale de ce qui   vous sera rendu. Réunissez tous vos documents  utiles, préciser la décision à préparer et  
+19:2219 minutes et 22 secondesdemander à l'audit un premier ensemble auditable.  Des constats attachés aux sources, des options   avec leurs hypothèses suffrées, puis les suites  proposées. Vous ne cherchez plus à produire un  
+19:3219 minutes et 32 secondesdocument final, mais de plus en plus à tester sa  capacité à vous fournir une architecture logique   cohérente de votre décision. Pour un consultant  par exemple, l'intérêt aujourd'hui pour vous  
+19:4219 minutes et 42 secondesc'est de creuser et de sécuriser une hypothèse  qu'il aurait manqué de temps pour modéliser. Par   exemple, pour un manager, c'est de disposer d'un  socle chiffait traçable permettant à sa direction  
+19:5119 minutes et 51 secondesde débattre sur des bases incontestables. Pour un  changer de clientèle, c'est anticiper chaque point   de friction au moment du rendez-vous. Toutes ces  possibilités que je viens de vous citer prennent  
+20:0020 minutestout leur sens aujourd'hui car elles vous  font passer du statut de producteur à celui  
+20:0420 minutes et 4 secondesde garanti et c'est ce pivot qu'il faut absolument  entamer en 2026. Dans cette dynamique, moi-même,  
+20:1220 minutes et 12 secondesje privilégia Opus 5.5, celui à qui je délègue  de plus en plus une partie de ma production   professionnelle exigeante de bout en bout. Les  benchmarks de la semaine justifient au passage son  
+20:2220 minutes et 22 secondescoût supérieur pour sécuriser des tâches critiques  tout en conservant GPT6 Sol et Grock 4.7 comme  
+20:2920 minutes et 29 secondesdes options redoutables pour faire du volume, la  préparation moins complexe et des tâches dont la   valeur ajoutée est moins élevée. Je vous invite  aujourd'hui à regarder surmesure sur votre cas  
+20:3920 minutes et 39 secondesd'usage, à regarder jusqu'où vous pouvez repousser  aujourd'hui les limites de cette délégation  
+20:4420 minutes et 44 secondescognitive tout en conservant la maîtrise sur le  fond. Chers auditeurs, si vous souhaitez mettre  
+20:5020 minutes et 50 secondescette démarche en pratique, je vous invite  aujourd'hui à nous rejoindre sur le cercle   bâtisseur sur Patreéon. C'est un prolongement  direct pour vous préparer votre prochaine mission  
+20:5820 minutes et 58 secondesavant de commencer à la confier de plus en plus  à l'outil. Tous les liens se trouvent dans la   description. Si vous connaissez un collègue ou un  consultant qui demande encore ce qu'il pourrait  
+21:0721 minutes et 7 secondesréellement faire de ces nouveaux modèles, et  bien vous avez votre réponse. Vous pouvez même   lui transmettre cette vidéo. Elle pourrait bien  lui donner un point de départ pour son prochain  
+21:1421 minutes et 14 secondesdossier. Merci pour votre attention, merci pour  votre conférence et à très bientôt sur IA et  
+21:2021 minutes et 20 secondesStratégie. Il faut savoir que les ordinateurs ont  remplacé les employés et les machines pour les  
+21:2621 minutes et 26 secondesouvriers et là je je barre la route, c'est le cas  de le dire. Qui dit barrage PH ? Et je pense que  
+21:3521 minutes et 35 secondesmoi avec mes barrières automatiques, c'est fini  les grossesses, les congés payés, les 13e mois,  
+21:4121 minutes et 41 secondesles certificats médicaux et les gens quientent  chez eux. Vous comprenez ? Chez moi, c'est une   fois par an entretien et puis c'est terminé.  Et j'ai un outil économique qui est cohérent,  
+21:4921 minutes et 49 secondesqui fonctionne perturbant. On vous sent Oui.  Perturbé. Oui. Dire que les salariés c'est que   définiant. C'est ce qu'il vient de dire. Les  salariés, c'est souffert de ma part et j'en  
+21:5821 minutes et 58 secondesvois tous les jours des gens qui souffrent  c'est des êtres humains. Une barrière c'est   loin d'être un être humain. Moi je souffre pas.  Non mais j'ai jamais dit que vous étiez un être  
+22:0622 minutes et 6 secondeshumain. Souffre pas. J'ai jamais dit que vous  étiez un être humain. On est bien d'accord.
+22:1622 minutes et 16 secondesOh.
+
+Tout
+
+Source : IA et Stratégie
+
+Intelligence artificielle
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+EN DIRECT
+L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev
+Renaud Dékode
+312 spectateurs
+
+
+15:01
+Nouveauté
+ESSENCE : EMMANUEL MACRON NE RASSURE PAS
+OMERTA
+2 k
+il y a 48 min
+
+
+18:45
+Nouveauté
+Why Did Darpa Choose Ionq's Diamond Chips Over Every Other Company In America
+Hardware Nexus
+691
+il y a 6 j
+
+
+22:14
+On Détruit TOUS les MYTHES du BODYBUILDING (ft. @Theo_Leguerrier)
+Charles.co
+et Théo Leguerrier
+51 k
+il y a 2 m.
+
+
+28:29
+J’ai essayé le dropshipping avec l’IA pendant une semaine (résultats bruts)
+Mark Tilbury
+3,9 M
+il y a 4 m.
+Doublée
+
+
+2:26:49
+Nouveauté
+Direct n°127 - François Asselineau répond à vos questions
+Union Populaire Républicaine
+100 k
+Diffusé il y a 1 j
+
+
+3:40
+The Game - Let's Ride (Official Music Video)
+The Game
+33 M
+il y a 16 a
+
+
+1:18:39
+Nouveauté
+L’IA POURRAIT NOUS DÉTRUIRE DANS 10 ANS… EST-ELLE DEVENUE TROP INTELLIGENTE ?
+LEGEND
+4,3 k
+il y a 1 h
+
+
+51:16
+Nouveauté
+L'interview intégrale de Nicolas Sarkozy dans l'Heure des Pros
+CNEWS
+3,2 k
+il y a 1 h
+
+
+42:40
+Nouveauté
+Ma vision de l'avenir (et elle ne va pas vous plaire)
+Grand Angle
+178 k
+il y a 5 j
+
+
+54:25
+Nouveauté
+L'Occident en déclin ? Emmanuel Todd face à François Heisbourg
+Le Figaro
+97 k
+il y a 16 h
+
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1 M
+il y a 1 a
+
+
+9:10
+Kato Feat. Jon - Turn The Lights Off | (Deep House Remix) TARVYN | Jon Hamm - Club Dance Scene
+TARVYN Music
+1,3 M
+il y a 5 m.
+
+
+19:43
+Nouveauté
+Nicolas Sarkozy se livre sur son passage en prison : "Le bonheur est dans l'épreuve surmontée..."
+Europe 1
+7 k
+il y a 2 h
+
+
+13:17
+Un repas avec un combattant coréen…
+LeMondeDeChoi
+104 k
+il y a 2 a
+
+
+Every Single Vocal ToneAriana Perfectly Nails#music #shorts #arianagrande #singer #cover
+27 M de vues
+
+
+When kitten traits show up in big cats.#animals #animallife #funnyanimals #funny #bigcat #kitten
+21 M de vues
+
+
+Boney M. - Daddy Cool (1976) #musica #70s #oldisgold #70smusic #music #boneym #oldsong #pop #música
+3,3 M de vues
+
+Snoop Dogg & Ice Cube Keepin' It Gangsta | C Walk #shorts
+29 M de vues
+
+The Monster Under The Bed 😂
+9,2 M de vues
+
+Snoop Dogg can’t Stop Dancing around Eminem & 50 Cent 🔥
+4 M de vues
+
+
+
+20:37
+Nouveauté
+Tahkout l'a conçue, Tebboune l'inaugure : l'histoire cachée et interdite de l'usine de Tissemsilt
+Abdou Semmar
+1,7 k
+il y a 54 min
+
+
+3:10:28
+Nouveauté
+Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA
+Renaud Dékode
+9,3 k
+Diffusé il y a 1 j
+
+
+23:13
+Nouveauté
+Sidney Sweeney : La pub qui a retourné toutes les femmes contre elle
+Naj B Fit
+696 k
+il y a 4 j
+
+31:07
+Nouveauté
+EMMANUEL MACRON : COMMENT EST-IL PERÇU À L’ÉTRANGER ?
+OMERTA
+75 k
+il y a 1 j
+
+15:40
+Nouveauté
+Nicolas Sarkozy : "Si j'avais été président de la République, j'aurais assisté à la messe du pape"
+Europe 1
+27 k
+il y a 3 h
+
+    
