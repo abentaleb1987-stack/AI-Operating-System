@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 45e07e2
+- Commit audite : ba005c2
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-26 05:06:02
+- Rapport genere le : 2026-09-26 12:28:58
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,6 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `ba005c2` - 2026-09-26 05:06:03 +0000 - Audit - docs(aos): add daily audit report
 - `45e07e2` - 2026-09-25 19:34:06 +0200 - Knowledge batch - docs(aos): process video source batch
 - `f2f744b` - 2026-09-25 13:00:40 +0000 - Audit - docs(aos): add daily audit report
 
@@ -44,15 +45,17 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `ba005c2` - 2026-09-26 05:06:03 +0000 - docs(aos): add daily audit report
 - `f2f744b` - 2026-09-25 13:00:40 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `ba005c2` - 2026-09-26 05:06:03 +0000 - Audit - docs(aos): add daily audit report
 - `f2f744b` - 2026-09-25 13:00:40 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 3
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -63,6 +66,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-09-26_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-09-22_youtube_the-higher-standard_agents-swarm-reward-hacking-monitoring_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-09-24_youtube_labo-des-reseaux_seedance-2-5-workflows-video_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-09-25_youtube_ia-et-strategie_opus-5-5-gpt-6-sol-grok-4-7-travail-cognitif_transcript.txt
