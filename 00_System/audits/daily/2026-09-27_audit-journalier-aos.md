@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 1defce3
+- Commit audite : e64eb3d
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-09-27 05:23:57
+- Rapport genere le : 2026-09-27 13:19:31
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,7 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `1defce3` - 2026-09-26 12:28:59 +0000 - Audit - docs(aos): add daily audit report
+- `e64eb3d` - 2026-09-27 05:23:58 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -43,11 +43,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `1defce3` - 2026-09-26 12:28:59 +0000 - docs(aos): add daily audit report
+- `e64eb3d` - 2026-09-27 05:23:58 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `1defce3` - 2026-09-26 12:28:59 +0000 - Audit - docs(aos): add daily audit report
+- `e64eb3d` - 2026-09-27 05:23:58 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -62,11 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-09-27_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-09-26_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
