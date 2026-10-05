@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 1d288fd
+- Commit audite : fbdb99b
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-10-05 05:48:54
+- Rapport genere le : 2026-10-05 16:24:33
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,8 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `1d288fd` - 2026-10-04 13:29:09 +0000 - Audit - docs(aos): add daily audit report
-- `7ff2b70` - 2026-10-04 05:59:53 +0000 - Audit - docs(aos): add daily audit report
+- `fbdb99b` - 2026-10-05 05:48:54 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -44,17 +43,15 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `1d288fd` - 2026-10-04 13:29:09 +0000 - docs(aos): add daily audit report
-- `7ff2b70` - 2026-10-04 05:59:53 +0000 - docs(aos): add daily audit report
+- `fbdb99b` - 2026-10-05 05:48:54 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `1d288fd` - 2026-10-04 13:29:09 +0000 - Audit - docs(aos): add daily audit report
-- `7ff2b70` - 2026-10-04 05:59:53 +0000 - Audit - docs(aos): add daily audit report
+- `fbdb99b` - 2026-10-05 05:48:54 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
-- Nombre de commits analyses : 2
+- Nombre de commits analyses : 1
 - Methode fichiers : git diff-tree --no-commit-id --name-status -r <commit>
 - Base de comparaison : parent direct de chaque commit analyse.
 - Aggregation : union dedupliquee des fichiers retournes par chaque commit analyse.
@@ -65,11 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-10-04_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-10-05_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-10-04_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
