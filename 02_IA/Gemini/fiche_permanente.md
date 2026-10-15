@@ -5,7 +5,7 @@
 - Nom : Gemini
 - Type : IA multimodale / suite d'outils Google a evaluer
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-01
+- Derniere mise a jour : 2026-10-15
 
 ## 2. Role principal
 
@@ -14,6 +14,8 @@ Gemini est a evaluer comme IA multimodale orientee recherche, creation, producti
 Son role potentiel est de traiter des sources variees, produire des syntheses, assister la creation de supports et servir de composant multimodal dans des workflows de travail.
 
 ## 3. Architecture
+
+Google documente `gemini-4-argon` comme modele de raisonnement avec entrees texte, image, video, audio et PDF, appels de fonctions et computer use en preview via l'API. Sa fenetre de contexte partagee est annoncee a 1 048 576 tokens. Ces capacites du modele ne garantissent pas leur exposition dans chaque interface ou forfait. Source officielle : https://ai.google.dev/gemini-api/docs/models/gemini-4-argon (consultee le 2026-10-15).
 
 Elements observes dans la video Labo Des Reseaux du 2025-11-25, a confirmer par documentation officielle ou experimentation interne :
 
@@ -118,6 +120,9 @@ Dans un systeme agentique, Gemini doit etre encadre par des permissions, des cri
 
 ## 12. Evolutions
 
+- verifier l'acces reel a Gemini 4 Argon et aux outils agentiques dans chaque interface et forfait utilise par AOS ;
+- evaluer separement les performances du modele et les limites de l'interface Antigravity sur un protocole reproductible ;
+
 Cas d'usage observes a tester :
 
 - analyse multimodale de documents, audio et video sous verification humaine ;
@@ -146,3 +151,4 @@ Points a surveiller :
 
 - 2026-07-01 - Ajout - Sections 1, 2, 3, 6, 7, 8, 9, 10, 11, 12 - Source YouTube Labo Des Reseaux, workflow AOS GO partiel
 - 2026-07-01 - Ajout - Sections 3, 4, 5, 9, 11, 12 - Source YouTube Parlons IA, batch AOS GO partiel
+- 2026-10-15 - Mise a jour ciblee - Sections 1, 3, 12 - Video Parlons IA sur Gemini 4 Argon, caracteristiques recoupees par documentation Google.
