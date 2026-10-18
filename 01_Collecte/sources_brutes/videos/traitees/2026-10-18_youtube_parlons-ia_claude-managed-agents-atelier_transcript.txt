@@ -1,0 +1,964 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Opus 5.5 Construire un agent IA de A à Z : Formation officielle !
+Parlons IA
+Parlons IA
+18,3 k abonnés
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+18 oct. 2026
+Apprenez à créer vos propres agents IA avec Claude Opus 5.5. Découvrez comment automatiser vos tâches et piloter des API.
+
+Cette formation détaille le fonctionnement concret des agents intelligents, conçus comme des systèmes en boucle capables d'utiliser des outils de manière autonome. Nous explorons comment intégrer ces modèles à vos interfaces pour construire des produits fonctionnels et optimiser vos flux de travail.
+
+Vous verrez comment gérer les réponses et évaluer les processus pour garantir une qualité optimale. Que vous souhaitiez intégrer une API IA pour enrichir vos services ou simplement améliorer votre automatisation business, cette méthode vous donne les clés pour maîtriser le développement IA en conditions réelles.
+
+Abonnez-vous pour suivre mes analyses hebdomadaires sur l'IA, et dites-moi en commentaire quel outil vous aimeriez voir testé prochainement.
+
+🚀 N°1 FORMATION IA & BUSINESS
+👉 https://parlonsia.teachizy.fr
+📩 Email : formation.ai87@gmail.com
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Parlons IA
+18,3 k abonnés
+Vidéos
+À propos
+true
+26:11
+J'ai testé ChatGPT pour mon business : Voici le résultat !!
+de Parlons IA
+true
+12:01
+L2 animation 00fa86024f29
+de Parlons IA
+true
+41:29
+J'ai testé Gemini 4 Argon : C'est bien plus qu'une mise à jour !
+de Parlons IA
+Ca fait peur ! J'ai testé GPT 6.1 Et c'est dingue !
+de Parlons IA
+Détails de la vidéo
+Date
+18 oct. 2026
+Vues
+7
+J'aime
+1
+1 commentaire
+Abder Bent
+Ajoutez un commentaire…
+
+Épinglé par @Parlons.IA.2
+@Parlons.IA.2
+il y a 4 heures
+👉Formation IA & Agent IA:  https://parlonsia.teachizy.fr . 👉 Devis application iOS/Android. Site internet/RAG  https://www.shambix.com/. 👉Abonnement moins cher : https://www.subifyhub.com/
+
+
+
+Répondre
+
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeCommençons par cette question : qu'est-ce qu'un  agent et qu'est-ce qui le fait fonctionner ? Donc  
+0:066 secondesl'agent est essentiellement un modèle en boucle  avec des outils. Donc vous verrez sur la gauche,  
+0:1212 secondesvous avez le modèle qui décide et prend la  prochaine action et appelle les outils en boucle   jusqu'à ce que votre tâche soit terminée. C'est  le principe de base d'un agent. Un lien vers le  
+0:2121 secondesdiaporama ? Nous pouvons le partager après. Ouais,  nous le partagerons après. Ce sera difficile pour   nous de le sortir maintenant, mais nous serons  heureux de répondre aux questions et de partager  
+0:2929 secondesle diaporama à la fin. Est-il difficile pour  vous de voir les diapositives depuis le fond ?   D'accord, désolé pour ça. Très bien. La prochaine  chose dont je voulais parler, c'est ce qu'est un  
+0:3838 secondesharness. Le harness est généralement comme une  couche qui s'enroule autour du modèle et vous   aide à effectuer ces appels d'outils en boucle  pour obtenir le résultat de la tâche en question.  
+0:4848 secondesIl fait des hypothèses sur ce que le modèle ne  peut pas faire et essaie de combler ses lacunes.   Il s'exécute donc en boucle, effectue des appels  d'outil, gère votre contexte, encapsule tout ce  
+0:5757 secondesque le modèle ne peut pas faire. Un bon exemple  est que notre modèle Sonnet 4.5 avait quelque   chose que nous appelons l'anxiété contextuelle.  Donc chaque fois que Sonnet 4.5 avait l'impression  
+1:071 minute et 7 secondesd'atteindre la fin de la limite de contexte, il  essayait de terminer la tâche très rapidement.   Donc, lorsque vous construisez un harness autour  de Sonnet 4.5, vous ajouterez quelque chose comme  
+1:161 minute et 16 secondesune réinitialisation du contexte pour contourner  la limitation de l'anxiété. Mais avec le prochain   modèle comme Opus 4.5, Opus 4.5 n'avait pas cette  limitation et vous n'aviez pas besoin de faire  
+1:251 minute et 25 secondescette réinitialisation de contexte pour Opus  4.5. Donc, lorsque vous construisez un harness,   vous voulez encapsuler toutes ces hypothèses  pour différents modèles et suivre avec chaque  
+1:341 minute et 34 secondesnouveau modèle qui apparaît. C'est pourquoi  construire un bon harness est vraiment important.   Et c'est quelque chose que nous avons essayé  de faire avec les Claude Managed Agents. Enfin,  
+1:431 minute et 43 secondesvous voulez que votre agent ait accès à une boîte  à sable ou à un ordinateur, essentiellement un   endroit où il va exécuter le code qu'il écrit  pour exécuter la tâche. Donc généralement,  
+1:531 minute et 53 secondesvous donnez à Claude accès à une boîte à sable ou  à un conteneur où il exécute le code qu'il écrit.   Il est capable d'éditer des fichiers, d'installer  des dépendances et cetera. Claude Code en est un  
+2:022 minutes et 2 secondestrès bon exemple. C'est un harness qui fonctionne  essentiellement localement sur votre ordinateur,   a accès à vos fichiers et il exécute et met à jour  vos fichiers au fur et à mesure. Il écrit aussi du  
+2:122 minutes et 12 secondescode qui n'est pas fiable, il peut être buggy.  Vous devez donc vous assurer que lorsque vous   déployez des agents de production, le code écrit  par vos agents s'exécute dans une boîte à sable,  
+2:212 minutes et 21 secondesà l'intérieur d'un conteneur. Et ensuite, vous  voulez que votre boîte à sable soit isolée et   que le périmètre d'impact soit limité. Donc  généralement, vous voulez exécuter chaque tâche  
+2:292 minutes et 29 secondesdans un conteneur séparé pour ne pas mélanger  et ne pas augmenter le périmètre d'impact pour   vos tâches. Ensuite, je vais vous guider à travers  la première architecture avec laquelle nous avons  
+2:382 minutes et 38 secondesconstruit des agents gérés. C'était en décembre  de l'année dernière où nous avons livré notre   première architecture à nos clients en accès  anticipé, avons reçu un tas de commentaires  
+2:462 minutes et 46 secondeset nous sommes ensuite passés à une nouvelle  architecture. Je vais donc vous guider à travers   certains des pièges et des problèmes que nous  avons vus avec le premier. Donc avec la première  
+2:542 minutes et 54 secondesarchitecture, ce que nous avons fait, c'est que  nous avons tout mis dans le conteneur. Nous avions   donc le journal de session de tout ce qui s'est  passé au cours de cette session. Cette session est  
+3:023 minutes et 2 secondesessentiellement votre unité de travail. Le harness  fonctionnait également à l'intérieur du conteneur,   puis l'exécution de la boîte à sable se déroulait  également à l'intérieur du conteneur. L'avantage  
+3:123 minutes et 12 secondesde cela était que parce que tout était dans le  conteneur, il n'y avait pas de limite de service   à concevoir car tout était local, facile  à modifier. Les modifications de fichiers  
+3:203 minutes et 20 secondesétaient essentiellement des appels système, ou  syscalls. Et ben ce qui s'est passé c'est que nous   avons réalisé que nous avions adopté un animal de  compagnie. Donc si vous n'avez pas entendu parler  
+3:283 minutes et 28 secondesde l'analogie entre animaux de compagnie et bétail  dans le domaine de l'infrastructure, un animal de   compagnie est une entité nommée, dont on s'occupe  individuellement. Quand il tombe malade, il faut  
+3:383 minutes et 38 secondesle soigner. Sinon, vous ne pouvez pratiquement  pas vous permettre de le perdre. Et le bétail est   plus interchangeable, plus jetable. Donc, lorsque  l'un échoue, vous pouvez le remplacer par un autre  
+3:473 minutes et 47 secondeset continuer. Un bon exemple est d'imaginer que  vous aviez un seul fragment de base de données.   Il tombe, votre produit tombe, vous avez un  animal de compagnie. Mais imaginez que vous  
+3:553 minutes et 55 secondesavez une configuration avec un serveur principal  et des répliques : si le principal tombe, vous   pouvez promouvoir une réplique. C'est l'approche  du bétail. Donc, vous avez beaucoup d'instances,   si l'une tombe, ce n'est pas un problème : vous  pouvez la remplacer. Donc, ce que nous avions avec  
+4:044 minutes et 4 secondesnotre configuration initiale était essentiellement  un animal de compagnie. Cette approche présentait   plusieurs problèmes. Le débogage était  vraiment difficile car tout s'exécutait  
+4:124 minutes et 12 secondesdans le conteneur. Nous ne savons pas ce qui  causait le problème. Une perte de paquets et un   conteneur hors service pouvaient se manifester de  façon très similaire. Il fallait inspecter le flux  
+4:204 minutes et 20 secondesWebSocket vers le conteneur pour déboguer. Autre  problème : les investigations étaient difficiles  
+4:284 minutes et 28 secondesparce que les données des clients résidaient  dans ces conteneurs. Nous ne pouvions donc pas   simplement y entrer pour déboguer. C'est donc  l'autre problème que nous avons vu dans notre  
+4:374 minutes et 37 secondesaccès précoce. Et puis le dernier était que si un  client voulait que nous nous connections à disons   un MCP dans son VPC, cela impliquait d'appairer  les réseaux ou leur expédier notre harness et leur  
+4:474 minutes et 47 secondesfaire exécuter. Il y avait un tas de défis avec  cette architecture que nous n'avons pas trouvé de   bonne façon de surmonter. Alors ce que nous avons  décidé, c'est que nous voulons essentiellement  
+4:564 minutes et 56 secondesdécoupler le cerveau des mains et je vais  plonger dans ce que cela signifie. Ainsi, l'agent   est devenu essentiellement trois interfaces  distinctes. Sur la gauche, vous avez la session  
+5:055 minutes et 5 secondesqui est essentiellement un journal en ajout  uniquement, ou append-only de tout ce qui s'est   passé dans la session jusqu'à présent. Au milieu,  vous avez le cerveau, c'est votre harness ou la  
+5:135 minutes et 13 secondesboucle d'agent avec Claude, puis à droite sont  les mains, donc les boîtes de sable, vos appels   d'outils MCP et ainsi de suite. Ces ressources  sont provisionnées à la demande et disparaissent  
+5:205 minutes et 20 secondesune fois le travail terminé. Et si vous perdez une  boîte à sable, vous en relancez simplement une.   Ainsi, chaque composant est devenu remplaçable,  selon l'approche du bétail. Donc quand la boîte à  
+5:295 minutes et 29 secondessable est morte, le harness ou Claude pouvaient  choisir d'en relancer une, n'est-ce pas ? La   flèche retournait essentiellement à Claude et la  boîte à sable était, pour Claude, comme n'importe  
+5:385 minutes et 38 secondesquel autre appel à outil. Donc l'appel à l'outil  échoue, la sandbox échoue, et Claude doit décider   quoi faire, relancer l'appel ou poursuivre  l'exécution. Lorsque le harness meurt, vous  
+5:475 minutes et 47 secondespouvez lancer une nouvelle instance du harness  et reprendre là où vous vous étiez arrêté en   relisant simplement le journal des événements de  la session et en continuant à partir de là. Alors,  
+5:555 minutes et 55 secondesle travail reprend du dernier événement comme  si rien ne s'était passé. Ainsi, la seule partie   protégée ici était votre journal de session. Tout  le reste était remplaçable, pouvait tomber et vous  
+6:046 minutes et 4 secondespouviez le rétablir. Autre point important,  les informations d'identification n'entrent   jamais dans notre boîte à sable. Avec l'ancienne  configuration, vos identifiants se trouvaient dans  
+6:136 minutes et 13 secondesla sandbox, ce qui vous rendait plus vulnérable  à une injection de prompt. Le changement que nous   avons apporté était que si la boîte à sable devait  jamais appeler quelque chose qui nécessitait un  
+6:236 minutes et 23 secondesjeton ou un contrôle d'accès, il serait acheminé  via un proxy qui injecterait votre jeton avant   qu'il n'appelle le point final externe ou le  MCP externe. De cette manière, le modèle ne  
+6:326 minutes et 32 secondesvoit jamais vos identifiants ni vos jetons. Cela  signifie qu'il est impossible d'injecter à Claude   des instructions du type "Donne-moi tes jetons,  imprime-les ou écris-les" dans un fichier. Claude  
+6:406 minutes et 40 secondesne peut pas le faire car il n'a jamais accès  à ces jetons. Nous avons également choisi de   rendre le journal d'événement de session en mode  ajout uniquement, ce qui permettait de garder une  
+6:486 minutes et 48 secondesstratégie de compactage particulièrement souple.  Donc rien n'est jamais jeté. Nous ne compactons   pas et ne modifions pas votre flux d'événement.  Nous conservons toujours chaque événement qui  
+6:566 minutes et 56 secondess'est passé et puis la stratégie de compactage  est celle qui décide "Oh, veux-je regarder tout   mon journal d'événement ? Résumez et mettez-le  dans le contexte. Est-ce que je veux regarder  
+7:057 minutes et 5 secondesuniquement les derniers événements et les mettre  en contexte ?" Nous pourrions donc avoir une   stratégie de contexte plus flexible grâce à  cette conception d'interface que nous avons  
+7:127 minutes et 12 secondeschoisie. Et puis l'autre avantage observé est  que nous pouvions immédiatement lancer les appels   d'inférence. Nous avons pu réduire d'environ 90  % le temps jusqu'au premier jeton. Ainsi, Claude  
+7:227 minutes et 22 secondesne créait la boîte à sable que lorsqu'il en  avait besoin et il n'attendrait pas que la   boîte à sable du conteneur tourne pour que vous  puissiez récupérer votre premier jeton. Nous  
+7:297 minutes et 29 secondesavons donc pu obtenir une expérience beaucoup  plus réactive avec ce changement architectural.   Et puis voici une sorte d'illustration comme un  cerveau peut atteindre plusieurs mains. Donc votre  
+7:387 minutes et 38 secondesboucle d'agent ou votre harness peut désormais  appeler un conteneur sandbox. Il pourrait appeler   dans le VPC d'un client, il pourrait appeler  dans un serveur MCP. Donc toutes ces mains  
+7:477 minutes et 47 secondessont essentiellement interchangeables et vous  pouvez appeler et brancher beaucoup d'entre elles   et cela a rendu notre architecture beaucoup plus  flexible. Donc s'il y a une chose à retenir, c'est  
+7:577 minutes et 57 secondesque les harness encodent des hypothèses et que ces  hypothèses peuvent devenir obsolètes. Nous avons   donc conçu des interfaces pour survivre à ces  hypothèses et rendu l'architecture plus flexible.  
+8:068 minutes et 6 secondesCela nous a donc permis, comme je l'ai dit, de  changer notre stratégie de compactage, de changer   complètement le harness, mais l'interface et  l'architecture restent les mêmes et nous pouvons  
+8:168 minutes et 16 secondesvraiment avoir un fonctionnement plus modulaire.  Très bien. Alors ensuite, nous allons entrer dans  
+8:228 minutes et 22 secondesune petite portion pratique. Nous vous avons  offert des crédits API gratuits pour vous aider   à construire avec nous aujourd'hui. S'il vous  plaît, scannez le code QR, connectez-vous à votre  
+8:328 minutes et 32 secondescompte Claude Platform ou créer un nouveau et vous  devriez être en mesure d'y entrer et d'obtenir ces   crédits afin de pouvoir construire avec moi puis  avec Gabe. Je laisse ça pour une seconde. Salut,  
+8:438 minutes et 43 secondesdésolé quoi. La dernière diapositive. C'est  essentiellement ce dont nous avons parlé ici,   n'est-ce pas ? C'est un peu comme les trois  interfaces pour lesquelles nous avons conçu,  
+8:508 minutes et 50 secondesnon ? Donc la première et la question la question  était comme quelles étaient les interfaces que   nous avons conçues pour faire en sorte que les  choses durent plus longtemps que les changements.  
+8:598 minutes et 59 secondesDonc nous avons le journal de session en ajout  uniquement, le harness qui est interchangeable   puis les mains où vous pouvez brancher un sandbox,  des appels d'outils ou tout à quoi le modèle  
+9:099 minutes et 9 secondespourrait avoir besoin d'accès et c'est ce qu'il  rend plus générique et extensible. Très bien,   revenons au crédit. Quelqu'un d'autre a-t-il  besoin de scanner cela avant que nous sautons ?  
+9:189 minutes et 18 secondesOK, je vois toujours quelques téléphones. Je vais  donner à tout le monde environ 30 secondes. Merci   pour votre patience. Y a-t-il des problèmes  avec Internet ? Oh non ! Gabe, avons-nous un  
+9:269 minutes et 26 secondesmicro parce que je n'entends pas certaines des  questions. Oui, le crédit devrait arriver une   fois que vous vous inscrivez. Espérons-le dans une  minute ou deux. Nous allons obtenir un micro afin  
+9:349 minutes et 34 secondesque nous puissions, espérons-le, nous promener  et répondre à certaines de ces questions. Je vais   vous guider dans la construction d'un agent très  simple qui vous raconte des blagues et je vais  
+9:439 minutes et 43 secondesd'abord couvrir certaines de nos API de base, nos  concepts, puis nous allons aller sur la plateforme   Anthropic pour créer votre premier agent. Notre  première étape consiste donc à utiliser l'API  
+9:549 minutes et 54 secondesd'environnement, Environments v1, qui vous aide  à créer l'environnement ou le modèle pour votre   sandbox. Donc cela va avoir votre configuration de  réseau. Donc si vous voulez un réseau illimité ou  
+10:0410 minutes et 4 secondessi vous voulez le restreindre à des domaines  spécifiques ou des MCP, vous pouvez définir   quel paquet vous souhaitez installer sur votre  conteneur ou votre sandbox. Ce sera donc comme  
+10:1310 minutes et 13 secondesla première étape que nous allons faire pour  mettre en place notre environnement. Ensuite,   vous allez créer l'agent. Donc l'agent est  essentiellement, vous pouvez donner un nom  
+10:2010 minutes et 20 secondesà votre agent. Donc dans ce cas, nous allons  l'appeler raconteur de blague. Nous allons choisir   quel modèle vous voulez utiliser pour cet agent.  Donc vous pouvez utiliser Opus 4.8, vous pouvez  
+10:3010 minutes et 30 secondesutiliser Haiku ou Sonnet à votre choix. Et ensuite  nous allons fournir à l'agent une invite système.   Dans ce cas, nous allons dire que vous êtes un  comédien, trouvez une blague fraîche sur le sujet,  
+10:3910 minutes et 39 secondesla livrez bien. Ensuite, vous pouvez fournir à  cet agent des outils. Dans ce cas, nous allons   lui fournir un ensemble d'outils agents qui est un  peu comme notre ensemble d'outils de base. C'est  
+10:4810 minutes et 48 secondescomme votre ensemble d'outils bâche, lecture,  écriture, greppe et cetera. Et presque tous les   agents auront besoin de cela. Ce sera donc votre  2e étape. La 3e étape sera enfin la création de la  
+10:5710 minutes et 57 secondessession. Une session prend donc un ID d'agent et  un ID d'environnement et crée une session. C'est   votre tâche, votre unité de travail ou votre  tâche. Et lorsque la session est provisionnée,  
+11:0611 minutes et 6 secondeselle est inactive. Aucun travail n'a été effectué  jusqu'à ce que vous envoyiez un événement. Et   voilà à quoi ressemblerait un flux d'événements  sur votre session. Vous aurez des événements que  
+11:1411 minutes et 14 secondesvous enverrez puis des événements que l'agent  vous reviendra avec. Sur le côté gauche, vous   verrez que vous avez user.message. Vous pouvez  dire "Oh, dites-moi une blague sur les systèmes  
+11:2211 minutes et 22 secondesdistribués" et ensuite l'agent reviendra vers  vous avec une blague drôle. Vous pouvez utiliser   ce qu'on appelle un outil personnalisé. Il vous  permet de définir un outil que vous gérez, comment  
+11:3211 minutes et 32 secondesvous y répondez. Puis Claude génère un événement  d'utilisation dans votre flux d'événement que vous  
+11:3811 minutes et 38 secondespouvez écouter, traiter et retourner à Claude  comme résultat de l'outil personnalisé. Et   puis il y a d'autres exemples là-dedans pour  le type d'événement que vous verriez. Ainsi,  
+11:4811 minutes et 48 secondesvous verrez session.error si votre session se  retrouve dans une erreur ou si vous voyez une   erreur. status.idle est lorsque votre session est  inactive, ne fonctionne pas et c'est généralement  
+11:5711 minutes et 57 secondeslorsque votre session ne travaille plus. Et puis  l'événement interrupt, sur la gauche, est quand   vous voulez arrêter ou tuer la session et ne  voulez plus faire le travail. C'est c'est comme  
+12:0412 minutes et 4 secondesune liste complète de fonctionnalité. Peut-être  que si nous avons le temps à la fin, Gabe pourra   en quelque sorte y revenir et y plonger, mais  Gabe travaillera en quelque sorte avec vous dans  
+12:1312 minutes et 13 secondessa partie de l'atelier en approfondissant certains  de ces concepts comme le multiagent et la mémoire   que nous fournissons également. Pour cela, nous  allons passer maintenant à la plateforme Claude et  
+12:2312 minutes et 23 secondesj'espère que vous pourrez utiliser vos crédits API  et les voir maintenant. Si vous ne le faites pas,   Travis marche avec un micro au cas où vous avez  des questions ou si vous devez simplement le  
+12:3312 minutes et 33 secondessignaler pour quoi que ce soit. Mais si vous allez  sur votre console, vous verrez dans la section   des agents gérés, il y a quelque chose appelé  démarrage rapide. C'est un peu comme le nôtre.  
+12:4212 minutes et 42 secondesD'accord. Merci. On dirait donc que tout le monde  ne pourra peut-être pas suivre, mais j'espère que   nous pourrons trouver un moyen de partager ces  diapositives et que vous pourrez l'essayer à la  
+12:5012 minutes et 50 secondesmaison. Ou si vous avez votre téléphone, vous  pouvez peut-être essayer de l'associer à votre   hotspot et voir si vous pouvez suivre. Très  bien, nous allons réessayer cet exemple une  
+12:5812 minutes et 58 secondesnouvelle fois. Nous allons formuler une requête  du type construis-moi un agent qui me raconte des   blagues chaque fois qu'un sujet lui est fourni  afin d'illustrer le comportement. Ensuite,  
+13:0813 minutes et 8 secondesvous appuyez simplement sur entrée et vous pouvez  voir que Claude vient avec une invite système,   il est venu avec un nom, une description, a  choisi un modèle. Vous pouvez aller changer  
+13:1813 minutes et 18 secondesce modèle si vous le souhaitez et ensuite donner  à l'agent accès à l'ensemble d'outils d'agent.  
+13:2313 minutes et 23 secondesEt puis vous appuyez sur créer agent qui devrait  essentiellement appeler le point final des agents  
+13:2913 minutes et 29 secondesV1 pour créer l'agent. D'accord ? Cela a été créé.  Ensuite, nous allons configurer l'environnement   qui est le modèle pour le sandbox. Nous allons  juste en créer un nouveau et ensuite nous allons  
+13:3913 minutes et 39 secondessimplement lui donner un accès illimité pour  celui-ci. Mais vous pouvez évidemment lorsque vous   construisez un agent de production, vous voulez  resserrer l'accès, contrôler les domaines qu'il  
+13:4813 minutes et 48 secondespeut atteindre ou les serveurs MCP spécifiques.  Alors, nous ferons sans restriction. Et puis ici,   vous pouvez voir que vous pouvez choisir les  paquets que vous voulez installer et ainsi de  
+13:5713 minutes et 57 secondessuite. Ensuite, nous allons commencer la session.  Très bien. Maintenant, nous allons tester notre   séance. Dites-moi des blagues sur les chats et  vous verrez que le modèle a commencé à penser et  
+14:0614 minutes et 6 secondesil a proposé une blague sur les chats. Ouais.  C'est à quel point il est facile pour vous de   construire votre agent. Maintenant, cet agent  fonctionne dans le cloud. Tout ce que vous avez  
+14:1414 minutes et 14 secondesà faire est de commencer une session avec l'agent,  envoyer des événements, récupérer des événements.   Tout le reste est géré par nous. Donc nous gérons  toute l'infrastructure, l'hébergement, le harness,  
+14:2314 minutes et 23 secondesla gestion du sandbox, la mise à l'échelle,  le stockage de votre journal d'événement puis   vous pouvez vous concentrer sur la construction  de votre produit autour de cela. Merci. Je vais  
+14:3214 minutes et 32 secondesmaintenant passer la parole à Gabe pour faire la  partie plus pratique de l'atelier et j'espère que   nous aurons plus de chance avec le Wi-Fi. Je vous  remercie. Vous m'entendez ? Je vois qu'il y a un  
+14:4314 minutes et 43 secondesgroupe de gens qui sont un peu serrés au fond  et il y a de la place ici et ici si vous voulez   entrer pour que nous puissions accueillir tout  le monde. Avant de commencer, voici un dépôt que  
+14:5114 minutes et 51 secondesnous allons utiliser. Donc si vous voulez prendre  une photo du code QR faites git clone de ce dépôt,  
+14:5714 minutes et 57 secondesplacez-vous dans le répertoire research-desk,  puis lancez npm install ou bun install. Je vous  
+15:0315 minutes et 3 secondeslaisserai faire ça puis je vous guiderai ce que  nous allons construire ensemble aujourd'hui. Je   vois encore quelques téléphones sortis. Je sais  qu'il y a des problèmes de Wi-Fi. J'espère que  
+15:1315 minutes et 13 secondesvous pourrez accéder au dépôt. D'accord. Oh, je  te vois. D'accord. Cool. Très bien. Qu'est-ce   que c'est que nous allons construire aujourd'hui ?  Je vais vous montrer comment vous pouvez utiliser  
+15:2115 minutes et 21 secondesles Claude Managed Agents pour créer une variété  d'applications différentes. Nous allons commencer   par créer une interface de chat personnalisée  afin que vous puissiez parler à un agent. On  
+15:3015 minutes et 30 secondespeut dire bonjour. Ensuite, nous allons ajouter  cet agent à un écosystème multiagent afin qu'il   puisse déléguer des tâches à des sous-agents.  Nous allons lui donner des compétences,  
+15:4015 minutes et 40 secondesen particulier une compétence pour pouvoir  appeler le site web de la SEC et obtenir des   documents pour des symboles boursiers individuels  et analyser des formulaires spécifiques. Ensuite,  
+15:4915 minutes et 49 secondesnous serons en mesure d'utiliser ces nouveaux  agents améliorés pour exécuter des tâches   d'agents plus asynchrones qui peuvent prendre  beaucoup de temps à exécuter. Et puis nous allons  
+15:5815 minutes et 58 secondestout rassembler en activant le genre d'interface  MapReduce où nous pouvons parler à un agent et cet  
+16:0416 minutes et 4 secondesagent peut ensuite déléguer à de nombreux agents  et faire quelque chose comme un MapReduce vous   montrant comment vous pouvez construire un harness  personnalisé au-dessus de CMA pour orchestrer  
+16:1316 minutes et 13 secondesvotre propre travail avec des outils personnalisés  et gérer les interactions multisession. Et puis   nous finirons par, je vais vous montrer notre  API de déploiement qui vous permet de configurer  
+16:2416 minutes et 24 secondesdes travaux récurrents sur un calendrier afin  que vous puissiez exécuter des sessions à une   cadence donnée pour exécuter une analyse à long  terme qui continue de se mettre à jour. Ça vous  
+16:3416 minutes et 34 secondesva ? Cool. D'accord. Super. Très bien. Passons  à une interface de codage. Je vais utiliser du  
+16:3916 minutes et 39 secondesClaude Code pour cela. Vous êtes libre d'utiliser  n'importe quel agent de codage que vous préférez.   Je ne pense pas que personne écrive du code à la  main, donc je ne vais pas le faire non plus. Il y  
+16:4816 minutes et 48 secondesa une compétence que nous avons chargée dans votre  référentiel qui va vous guider à travers l'atelier   étape par étape. Donc si vous voulez réexécuter  l'atelier une fois que j'ai terminé, plus tard,  
+16:5916 minutes et 59 secondeslorsque vous avez un meilleur wifi et un meilleur  accès à internet, vous pouvez le faire à la   maison. Donc la première chose que vous voulez  faire est de supposer que vous avez cloné le  
+17:0717 minutes et 7 secondesdépôt. Vous êtes entré dans le dépôt du Research  Desk. Vous avez exécuté bun install. Nous allons   faire tourner notre serveur avec bun run dev. Je  vais le rendre plus grand. Je suppose que personne  
+17:1517 minutes et 15 secondesne peut le voir. OK, c'est mieux. Et puis si vous  avez des questions pendant que Gabe présente,   n'hésitez pas à lever la main. Rohan est ici avec  le micro. Nous avons des aidants. Donc si vous  
+17:2417 minutes et 24 secondesrencontrez des problèmes, levez la main. Les gens  viendront vous aider. Cool. Donc si vous êtes allé   jusqu'ici, vous serez en mesure de charger ce site  web et la première chose que vous allez vouloir  
+17:3417 minutes et 34 secondesfaire est d'aller sur la page de configuration.  Tout le monde avec moi jusqu'à présent. Ouais,   d'accord. Maintenant, nous allons OK. Une fois  qu'il a pris une photo, nous allons commencer  
+17:4317 minutes et 43 secondesnos compétences en atelier. Ainsi, dans Claude  Code, vous pouvez taper Workshop Start et cela   va commencer à parcourir l'atelier pour vous. Nous  allons le faire en six actes. Je m'excuse, il n'y  
+17:5317 minutes et 53 secondesa pas d'interruption entre les deux. J'espère que  ça va avec vous tous mais nous allons y passer.   Claude va intervenir. Bien sûr, nous allons  ensuite passer en mode automatique afin que Claude  
+18:0118 minutes et 1 secondegère lui-même une grande partie du processus  en continu. Claude va suivre chacun des actes   pour que vous puissiez continuer. Vous pouvez  continuer à taper l'atelier suivant de sorte qu'il  
+18:0918 minutes et 9 secondesva continuer à progresser à travers la chose. Je  vais demander à Claude de le faire pour moi, mais   tiens-moi la main et apprends-moi ce que ça fait.  Et donc la première chose, c'est essentiellement  
+18:1918 minutes et 19 secondesde s'assurer que nos conditions préalables sont  fixées. Il va copier le fichier .env.example vers   .env.local. Oh non ! Alr, nous n'y sommes pas  encore. D'accord, c'est un peu plus impatient. OK,  
+18:3018 minutes et 30 secondesil va copier ce fichier. Ce fichier contient  quelques valeurs à remplir. Vous allez vouloir   coller dans votre clé API. Vous allez vouloir la  SEC veut savoir qui vous êtes lorsque vous appelez  
+18:3918 minutes et 39 secondesleur API. Vous devrez donc inscrire votre nom et  votre email. C'est juste pour qu'il sache qui les   appelle. Et puis c'est essentiellement tout.  Une fois que vous avez fait tout ça, ça va. Et  
+18:4918 minutes et 49 secondesben nous allons passer à la prochaine chose. Alors  tout le monde avec moi jusqu'à présent. Vous avez   inséré votre clé API dans .env.local. Vous avez  inséré votre identifiant EDGAR. Levez la main.  
+18:5918 minutes et 59 secondesPeut-être un rapide geste de main. Combien d'entre  vous sont en mesure de suivre qui pourrait avoir   le wifi ou OK ? Nous avons au moins une personne.  MVP pardon. Oh pour le Rohan, tu veux leur  
+19:0919 minutes et 9 secondesdonner le micro ? Ouais. La diapositive avec les  informations d'identification. C'est ça. C'est ça.   C'est celui-ci. Je vous remercie. OK. Bien sûr. Et  alors, étant donné que les gens n'ont pas de wifi,  
+19:1819 minutes et 18 secondess'il vous plaît, arrêtez-nous et posez des  questions afin que nous puissions au moins rendre   cela plus interactif et vous aider à comprendre  les concepts afin que vous puissiez construire  
+19:2619 minutes et 26 secondesavec votre propre temps après l'atelier. D'accord.  Oui, c'est l'application qui tourne. Euh, lorsque   vous clonez et vous placez dans research-desk  et lancez bun run dev, c'est un site web que  
+19:3519 minutes et 35 secondesvous obtiendrez. Puis j'ai posé une question.  Ouais, je ne te vois pas mais je me demande alors   quand vous dites que le Claude héberge et gère les  agents, où se déroule cela ? Est-ce que c'est que  
+19:4519 minutes et 45 secondescela fonctionne sur AWS ? Ouais, c'est une bonne  question. Nous allons donc l'exploiter dans notre   propre infrastructure. Aujourd'hui, nous avons  comme une offre 1P sur laquelle nous exécutons,  
+19:5319 minutes et 53 secondesmais nous avons également Claude Platform sur AWS  si vous souhaitez exécuter sur AWS en utilisant   vos crédits AWS. Ce que nous proposons également  et peut-être que nous pourrons en parler après  
+20:0220 minutes et 2 secondescette démo, sont des sandboxings auto hébergés.  Donc, si vous souhaitez apporter votre propre   sandbox à travers différents fournisseurs comme  Vercel ou Modal ou Daytona ou un tas d'autres,  
+20:1120 minutes et 11 secondesvous pouvez le faire même via Google Cloud et  AWS. Si vous souhaitez exécuter votre sandbox   dans cet environnement, vous pouvez le faire. OK,  je vais continuer avec la démo. La prochaine chose  
+20:2120 minutes et 21 secondesque vous voulez faire est d'appuyer sur ce bouton  qui va créer votre agent. Il va donc créer deux  
+20:2720 minutes et 27 secondeschoses pour nous. Un environnement dont Priyanka  a parlé est un modèle de ce à quoi ressemblera la   boîte à sable pour cette démo. Nous allons lui  donner accès à quelques sites web auxquels il  
+20:3720 minutes et 37 secondespeut accéder, principalement la SEC. Nous allons  ajouter quelques paquets Python afin qu'il puisse   accéder à la SEC avec quelques paquets Python  prédéfinis. Il va aussi créer un agent. Il va donc  
+20:4820 minutes et 48 secondescréer cet agent très basique. Pour l'instant, il  n'a pas d'outil. Il n'y a qu'un prompt. Et bien,   il y a les outils de base mais il n'y a pas  de compétence, il n'y a pas de coordination  
+20:5620 minutes et 56 secondessous-agent, rien de tel. Je vais demander  à Claude de poursuivre le processus et de   mettre en œuvre l'interface grâce à laquelle nous  pourrons dialoguer avec cet agent au sein de notre  
+21:0521 minutes et 5 secondesapplication en rendant cette interaction fluide  et directement exploitable. Comme Priyanka l'a   mentionné, la principale façon de communiquer  avec une session est via un flux d'événement.  
+21:1321 minutes et 13 secondesDonc vous écoutez ce flux pour tous les événements  que l'agent vous renvoie et vous pouvez utiliser   cela. Un point final pour repousser les événements  vers le haut. Donc vraiment tout ce qui se passe  
+21:2221 minutes et 22 secondesdans la communication pour ces applications  plus similaires au chat se passe sur ce flux.   Donc nous pouvons voir ici ce que Claude fait,  c'est qu'il implémente la section de sorte que  
+21:3221 minutes et 32 secondeslorsque j'appuie sur entrer dans ma boîte de chat,  il va envoyer un événement user.message avec le  
+21:3821 minutes et 38 secondescontenu que j'envoie à cette session et puis  il va acheminer le flux SSE vers mon navigateur  
+21:4421 minutes et 44 secondesdepuis mon backend. Donc il va écouter sur les  événements qui viennent dans le flux se connectant   à notre API puis les retransmettre directement  sur le front end afin que je puisse les rendre  
+21:5421 minutes et 54 secondesde manière agréable. Et une fois que Claude a fait  cela, nous devrions pouvoir aller à cet onglet de  
+21:5921 minutes et 59 secondesbureau et simplement dire bonjour à notre agent.  Et si tout fonctionnait, j'espère super. Donc nous  
+22:0522 minutes et 5 secondespouvons voir ici maintenant que nous parlons avec  notre agent. Si vous voulez créer une application   de Type Chat, c'est là que vous vous arrêteriez,  ce qui est génial, mais nous voulons en faire  
+22:1322 minutes et 13 secondesplus. Le but des Claude Managed Agents, est-ce  que vous pouvez effectuer des tâches asynchrones   et de longue durée, non seulement pendant des  minutes, mais aussi pendant des heures, des jours,  
+22:2222 minutes et 22 secondesdes semaines et même des mois. Alors, voyons ce  que nous devons faire ensuite. La prochaine chose   que nous allons vouloir faire est Oh, Claude  est très impatient aujourd'hui. D'accord ? La  
+22:3122 minutes et 31 secondesprochaine chose est que nous voulons augmenter  nos agents, n'est-ce pas ? Nous voulons donner   à notre agent les compétences pour que nous  puissions appeler la SEC. Nous voulons utiliser  
+22:3822 minutes et 38 secondesla coordination multiagent afin que notre session  puisse déléguer le travail à des sous-agents plus   spécialisés et capables d'accomplir certaines  tâches. Et nous voulons essentiellement monter  
+22:4722 minutes et 47 secondessur l'échelle de l'intelligence. Alors,  faisons cela en disant atelier suivant.   Maintenant, ce que Claude va faire, c'est qu'il  va mettre en œuvre le schéma de provisionnement  
+22:5522 minutes et 55 secondespour mettre à niveau agent afin qu'il utilise plus  de sous-agent ou n'importe quel sous-agent. Nous   allons lui donner une compétence, une compétence  qui lui permet de communiquer avec la SEC. Nous  
+23:0623 minutes et 6 secondesavons décrit comment utiliser le package Python.  Nous avons décrit qu'il doit utiliser l'identité   EDGAR pour appeler. Nous avons décrit tout cela et  nous allons lui donner un outil personnalisé pour  
+23:1623 minutes et 16 secondesplus tard dans l'atelier. Cet outil personnalisé  est ce que nous allons pouvoir utiliser pour dire   à notre chef de recherche d'organiser plusieurs  sessions que nous allons coordonner pour une  
+23:2423 minutes et 24 secondessorte de harness personnalisé. C'est donc ce que  fait Claude ici. Il met à jour ses progrès créant   cet outil personnalisé appelé dispatch_analysis.  Nous y reviendrons dans une seconde. On lui donne  
+23:3423 minutes et 34 secondesun schéma. Il va mettre à jour la description de  l'agent principal afin qu'il crée une nouvelle   version de cet agent. Cette nouvelle version  comprendra quelques sous-agents différents  
+23:4423 minutes et 44 secondesauxquels elle pourra déléguer des travaux. ainsi  qu'une référence à elle-même. Donc si l'agent  
+23:5023 minutes et 50 secondesprincipal veut faire tourner une copie de lui-même  avec son même invite, il peut le faire. Ceci est  
+23:5623 minutes et 56 secondesimportant parce que parfois vous ne savez pas  nécessairement quel type de tâche votre session va   vouloir faire, mais vous avez l'idée générale que  vous voulez avoir des sous-agents qui tournent et  
+24:0624 minutes et 6 secondesfont du travail. Ainsi, vous pouvez définir une  autoréférence à vous-même. Claude peut ensuite   créer un sous-agent pour cette tâche. Important,  cette question s'est posée par le passé. Il ne  
+24:1724 minutes et 17 secondescopie pas la transcription de cette session dans  le sous-agent. Il copie simplement la description  
+24:2224 minutes et 22 secondesde l'outil, les schémas et l'invite dans ce  sous-agent. Cool. Alors maintenant, si nous allons  
+24:2824 minutes et 28 secondesici, nous devrions voir qu'il y a un nouvel agent  qui a été créé et qui apparaît dans l'interface.   Oh, je pense que je dois les fournir. Il devrait  donc y avoir un bouton dans notre configuration  
+24:3724 minutes et 37 secondesqui indique personnel au bureau. Quand je fais  ça, ça va réellement fonctionner. OK, je l'ai   déjà fait. Laissez-moi supprimer la compétence  pour que je puisse la recréer pour vous.  
+24:4724 minutes et 47 secondesJ'essayais de faire le tour du cuisinier qui  sort un plat déjà prêt mais ça va. OK. Alors,   nous allons supprimer la compétence. Nous allons  demander à Claude de le réapprovisionner. Cela va  
+24:5724 minutes et 57 secondescréer toutes ces ressources. Et puis nous  pourrons voir ici tous les sous-éléments,   la compétence que nous avons créée un  magasin de mémoire. Ainsi pour ces sessions,  
+25:0425 minutes et 4 secondesnous prenons également en charge le stockage  de mémoire à long terme qui peut être partagé   entre les sessions. Et nous allons utiliser cela  pour que différentes sessions puissent apprendre  
+25:1225 minutes et 12 secondessur différents instruments financiers et qu'ils  puissent partager ces connaissances entre eux. Et   à la fin de cet atelier, je vais vous montrer  comment vous pouvez utiliser cette mémoire à  
+25:2025 minutes et 20 secondeslong terme pour continuer à améliorer vos agents à  long terme sur de nombreuses nombreuses sessions,  
+25:2525 minutes et 25 secondesjours, mois, années. Cool. Nous devrions donc voir  ici que l'agent qui est maintenant ici possède les  
+25:3225 minutes et 32 secondescompétences que nous avons décrites. Ils disposent  de sous-agents avec leurs propres invites, outils  
+25:3825 minutes et 38 secondeset autorisation. Il a un prompt et il a un modèle.  Et je pense que nous sommes prêts à utiliser ce  
+25:4525 minutes et 45 secondesnouveau sous-agent dédié pour effectuer notre  première tâche asynchrone à long terme. Alors,   disons à Claude de passer à la prochaine chose.  La prochaine chose que nous voulons faire est on  
+25:5625 minutes et 56 secondesveut dire à Claude pas dans une application  de type chat mais une chose plus asynchrone,   bon recherchez cet instrument financier et  donnez-moi un rapport dans un format que je  
+26:0426 minutes et 4 secondesdéfinis et que je tiens à et nous allons utiliser  les résultats attendus, ou outcomes. C'est notre   mécanisme d'autosupervision. Donc dans un  résultat, vous dites à Claude, c'est votre  
+26:1526 minutes et 15 secondestâche. Ceci est votre grille d'évaluation pour  évaluer votre tâche. Il va effectuer ce travail.   Et puis quand il pense que c'est terminé, il  va demander à un sous-agent de regarder la  
+26:2326 minutes et 23 secondesgrille d'évaluation et le travail de Claude pour  l'évaluer. A-t-il été correctement réalisé et mené   à son terme ? Si c'est le cas, alors super. et si  ce n'est pas le cas, il va réessayer. Donc ici,  
+26:3426 minutes et 34 secondesce que Claude met en œuvre pour nous est  essentiellement cet événement de résultat   défini par l'utilisateur. Ainsi, chaque fois que  nous démarrons une session dans notre interface  
+26:4226 minutes et 42 secondesutilisateur que je vous montrerai pour un ticker  spécifique, elle va envoyer ce résultat défini   par l'utilisateur avec une grille d'évaluation  spécifique, un nombre maximal d'itérations et  
+26:5126 minutes et 51 secondesune description de la tâche en jeu. Et alors,  Claude va exécuter cette tâche pour nous. Et à   quoi ça ressemble dans l'interface utilisateur  ? Si vous regardez cette fiche d'évaluation,  
+27:0027 minutesje peux dire à Claude e je veux analyser  Nvidia s'il te plaît. D'accord. Super. Il  
+27:0627 minutes et 6 secondesva donc lancer une session pour faire l'analyse  sur Nvidia. Cela va prendre un certain temps. Je   vais faire le tour du cuisinier avec un exemple  déjà prêt et vous montrer une séance précédente  
+27:1427 minutes et 14 secondesde ce qui s'est passé. Cela va prendre  environ 10 minutes, mais voici quelque   chose que j'ai exécuté hier. La première chose  que nous disons à Claude, c'est un résultat.  
+27:2327 minutes et 23 secondesJe veux que vous analysiez les derniers documents  trimestriels déposés par Nvidia auprès de la SEC.   Vous allez utiliser les identifiants EDGAR.  C'est là que se trouvent vos identifiants  
+27:3227 minutes et 32 secondesEDGAR. Vous avez de la mémoire. Alors, vérifiez  si vous avez déjà effectué une analyse auparavant   et assurez-vous que vous l'utilisez au lieu de  refaire des recherches sur les choses que vous  
+27:4127 minutes et 41 secondesconnaissez déjà. Je veux que vous trouviez  le formulaire le plus récent qui m'intéresse  
+27:4627 minutes et 46 secondeset que vous l'analysiez. Et puis je veux deux  livrables. Je veux que vous écriviez une note dans  
+27:5327 minutes et 53 secondesla mémoire pour cette entreprise spécifique et  je veux que vous écriviez une fiche d'évaluation   dans une sortie structurée bien définie et je  veux que vous l'enregistriez dans un emplacement  
+28:0228 minutes et 2 secondesde fichiers spécifique. Alors Claude est parti  travailler et a commencé à appeler des outils.  
+28:0728 minutes et 7 secondesIl n'a trouvé aucune note dans sa mémoire. Il a  regardé dans quelques endroits différents puis il  
+28:1428 minutes et 14 secondesa décidé d'accord, je sais quoi faire. Je vais  utiliser mes sous-agents pour faire la majeure   partie de ce travail. Je vais créer un agent  d'analyse d'experts financiers ou un extracteur  
+28:2428 minutes et 24 secondespuis une analyse d'évaluateur de risque. Et vous  pouvez voir tout cela dans la console ici pour  
+28:3128 minutes et 31 secondesune observation complète. Chacune de ces lignes  représente ici un fil et un fil représente le   travail effectué par un sous-agent. Et donc chacun  des sous-agents est parti travailler. Puis quand  
+28:4028 minutes et 40 secondesils ont fini, ils ont fait savoir à l'agent  principal e c'est ce que vous m'avez demandé.   Et puis l'agent principal s'est réveillé,  a obtenu cette information des sous-agents,  
+28:4928 minutes et 49 secondespuis a déposé tout ce qu'il devait faire et a  créé le livrable. Il a créé le fichier JSON que  
+28:5428 minutes et 54 secondesnous avons spécifié et il s'est assuré de mettre  à jour la mémoire. Et ensuite, l'autosupervision  
+29:0029 minutesa commencé. Il a donc lancé un sous-agent  vérifié que le résultat que nous avons défini   est atteint. Il regarda la grille d'évaluation,  il a analysé tout le travail effectué lors de la  
+29:1029 minutes et 10 secondessession et analysé les artefacts créés. et il  a finalement décidé que cela a été satisfait,  
+29:1729 minutes et 17 secondesque cette fiche d'évaluation a été livrée, que  les chiffres sont bien définis, que la mise à   jour de la mémoire était correcte et que tout  avait l'air bon. Je pense que ça fonctionne  
+29:2729 minutes et 27 secondestoujours. Mais une fois cela terminé, vous verrez  ici un tableau de chacun de ces tickers parce   que nous pouvons extraire le rapport, la fiche  d'évaluation de la session et le télécharger.  
+29:3829 minutes et 38 secondesVous le mettez dans une base de données. Pour  cette démo, nous la mettons localement. Mais je   pense que vous avez compris l'idée. OK, c'est  génial. Mais que se passe-t-il si vous voulez  
+29:4729 minutes et 47 secondesfaire 100 ou 10 symboles boursiers à la fois ? Ne  serait-il pas génial si je pouvais discuter avec   un agent pour construire un harness personnalisé  qui pourrait ensuite déléguer le travail pour  
+29:5629 minutes et 56 secondeschacun des tickers dans une session différente et  ensuite quand tout est fait agréger les résultats   et me donner un ensemble de fiches d'évaluation.  C'est donc ce que nous allons faire ensuite. Nous  
+30:0630 minutes et 6 secondesallons utiliser cet outil personnalisé que  nous avons créé pour construire notre harness   d'orchestration personnalisé dans notre serveur  ou lorsque nous parlons à notre agent principal.  
+30:1430 minutes et 14 secondesÀ un moment donné, cet agent principal va décider  que je veux faire tourner 10 sessions différentes  
+30:1930 minutes et 19 secondespour faire le travail. Nous allons comprendre  ça. Oh, j'ai sauté un pas, désolé. Nous allons  
+30:2630 minutes et 26 secondesd'abord mettre à jour les compétences. Je voulais  donc vous montrer que ces compétences sont des   artefacts en direct que vous pouvez mettre à jour.  Vous pouvez donc améliorer votre compétence. Dans  
+30:3630 minutes et 36 secondesce cas, nous ajoutons la possibilité de regarder  un nouveau formulaire. Et ensuite, lorsque vous le   faites, toutes les nouvelles sessions qui font  référence à cette compétence obtiendront cette  
+30:4530 minutes et 45 secondesnouvelle information. Donc c'est quelque chose que  vous pouvez continuellement mettre à jour. Vous   pouvez regarder les sessions précédentes pour voir  comment elles ont fonctionné. Nous allons voir que  
+30:5330 minutes et 53 secondesà la fin de cette démo qui se passe avec quelque  chose que nous appelons river. Mais oui, c'est ce  
+31:0031 minutesqui se passe. D'accord, je vais passer au morceau  d'orchestration. Donc maintenant, oui, cela avait  
+31:0731 minutes et 7 secondesessentiellement des compétences publiées. Je  pense que si je vais ici, nous devrions voir   tes questions jusqu'à présent. Je sais qu'il y a  beaucoup à prendre en compte. Travis, il y a une  
+31:1731 minutes et 17 secondesquestion ici. Je sais que quelqu'un n venu me  demander combien de temps il faut pour obtenir   les crédits. Ce ne devrait être que 5 minutes.  Je sais que le formulaire indique 1 à 2 jours,  
+31:2631 minutes et 26 secondesmais vous devriez le voir dans 5 minutes. J'étais  curieux de connaître l'accès aux données de la  
+31:3131 minutes et 31 secondesSEC dont se sert l'agent de recherche. Est-ce que  cela nécessite une sorte d'identification ? Et   vous allez parcourir la partie de la façon  dont cette injection d'identification ou  
+31:4031 minutes et 40 secondesle courtage fonctionne. Ouais. Donc pour la  SEC, il suffit de votre email et votre nom.   Pour cette démo, nous l'injectons simplement  dans l'invite. Mais dans une vraie application de  
+31:5031 minutes et 50 secondesproduction, nous utiliserions quelque chose appelé  coffre-fort. Le fonctionnement des coffres-forts   consiste à définir un secret que vous souhaitez  injecter dans une variable d'environnement. Et  
+32:0032 minutesau lieu de mettre le vrai secret, ce que  nous mettons est un placeholder. Et puis   quand Claude travaille et il veut utiliser cette  variable d'environnement, il injecte simplement la  
+32:0932 minutes et 9 secondesvaleur de placeholder. À la sortie du réseau,  nous les remplaçons par la valeur réelle,   uniquement pour les domaines que vous avez  autorisés pour ce secret. Donc si vous dites  
+32:2132 minutes et 21 secondesma variable d'environnement super secrète ne peut  être utilisé que pour la SEC et ensuite Claude   essaie de l'utiliser pour anthropic.com, on ne  ferait pas l'injection, on ne ferait pas le swap,  
+32:2832 minutes et 28 secondesmais quand il essaie d'appeler le domaine  de la SEC, il fera l'échange pour cela.   C'est essentiellement comme une AP où vous  pouvez l'utiliser sur la console où vous  
+32:3532 minutes et 35 secondesallez simplement créer un coffre-fortt, lui  donner un nom, vous obtiendrez un ID puis   vous incluez cet ID dans votre session pour  nous permettre d'authentifier avec vos MCP,  
+32:4332 minutes et 43 secondesvotre CLI. Par exemple, vous pouvez créer un  CLI Google Workspace, l'installer sur votre  
+32:4932 minutes et 49 secondessandbox puis vous pouvez nous donner votre clé API  comme identifiant de votre environnement et encore   une fois nous allons suivre la même méthode que  Gabe a décrite. Donc ça nous permet de le faire.  
+32:5932 minutes et 59 secondesEssentiellement les coffres-forts fonctionnent  également avec les identifiants OAuth pour les   serveurs MCP. Travail Gabe, je ne sais pas si  tu veux simplement le montrer sur la console  
+33:0733 minutes et 7 secondesrapidement comme la création du coffre-fortt.  Ouais, vous pouvez créer un coffre-fortt ici.  
+33:1333 minutes et 13 secondesEnsuite, dans un coffre-fortt, vous regrouperiez  les informations d'identification. Vous pouvez   donc avoir MCP OAuth. Peut-être que vous faites  une notion. Nous avons quelque chose prédéfinie  
+33:2333 minutes et 23 secondespour les flux OAuth. Donc chaque fois que vous  faites référence à une session, vous injectez   cet ID de coffre-fort et il regroupera toutes les  informations d'identification dans votre session.  
+33:3233 minutes et 32 secondesEt chaque fois qu'il tente d'utiliser l'un des  domaines que vous spécifiez dans vos informations   d'identification, il remplacera les valeurs de  substitution par les véritables identifiants.  
+33:4233 minutes et 42 secondesQuestion rapide : quelle est la partie  des fonctionnalités du Claude Agent SDK   est-il ? Qu'est-ce que tu veux dire ? Vous  avez le SDK d'agent pas ? C'est probablement  
+33:5233 minutes et 52 secondesconstruit sur le SDK agent. Je veux savoir  quelle partie des capacités se trouvent dans  
+33:5733 minutes et 57 secondesla couche SDK agent et ce qui est en dehors de  celle-ci. Donc l' SDK d'agent est emballé pour  
+34:0534 minutes et 5 secondesc'est comme une version de Claude Code sans  interface. Donc en fait nous avons créé une   version générique de celle-ci. Nous avons tiré  beaucoup d'inspirations sur les avantages et les  
+34:1234 minutes et 12 secondesleçons de l'agent SDK mais nous avons reconstruit  le pour être plus générique pas seulement coder  
+34:1734 minutes et 17 secondesdes choses spécifiques. Donc c'est une sorte de  fork. Ouais, c'est fondamentalement comme son  
+34:2334 minutes et 23 secondespropre harness. Agent SDK est fondamentalement  comme un Claude Code sous la forme d'un binaire   que vous pouvez prendre et exécuter où vous  voulez. Il s'agit d'une solution entièrement  
+34:3134 minutes et 31 secondeshébergée qui s'exécute dans notre cloud et nous  avons notre propre harness fortement inspiré du   harness de Claude Code et nous restons fréquemment  en contact pour toute amélioration à travers la  
+34:4034 minutes et 40 secondesligne. J'ai remarqué une autre main levée au  fond de la salle. Nous avons une question ici,   un peu plus. Je vous remercie. Je pose la question  suivante : lorsque vous orchestrez entre plusieurs  
+34:5034 minutes et 50 secondesagents, y a-t-il des garde-fous que ces agents ne  pourraient pas entrer dans des boucles et parler   beaucoup pendant qu'ils génèrent ou travaill  ensemble ? Nous laissons une partie de cela à vous  
+35:0035 minutesd'orchestrer et de comprendre. Je veux dire, si  vous construisez ce genre de harness personnalisé,   rien ne vous empêche d'utiliser comme d'autres  fournisseurs si vous voulez faire une sorte de  
+35:1035 minutes et 10 secondessystème multifournisseur. Nous explorons l'idée  de ce que cela signifie de faire des contrôles   budgétaires plus stricts que vous pouvez dire.  N'utilisez pas plus que ce montant d'argent par  
+35:2035 minutes et 20 secondessession. N'utilisez pas plus que ce montant de  jeton par session. Mais ce n'est pas quelque   chose que nous offrons aujourd'hui. Ouais.  Allez-y. Quelques m de plus. question plutôt  
+35:3135 minutes et 31 secondesvous nous avez montré en console une sorte de de  transcription du gestionnaire puis des sous-agents   et vous pouvez passer par là et voir ce qu'il  faisait si vous rencontrez peut-être une erreur  
+35:4035 minutes et 40 secondesou qu'elle emprunte la mauvaise voie ou que vous  voulez changer l'histoire, je veux dire évidemment   c'est qu'est-ce qui s'est passé ? Y a-t-il un  moyen de le corriger ou de revenir à ce point  
+35:4935 minutes et 49 secondesdans le temps et de recommencer d'essayer avec  des conseils supplémentaires ? Y a-t-il quelque   chose comme ça ici ? vous pouvez le diriger.  Donc je pense ici si je dis envoyer événement,  
+35:5935 minutes et 59 secondesje pourrais envoyer un nouvel événement  user.message et diriger l'agent. Il va faire   la file d'attente. Vous pouvez envoyer 10 messages  à la fois et ça va. Nous n'avons actuellement pas  
+36:1036 minutes et 10 secondesde moyen de revenir en arrière puis rejouer la  session, mais c'est certainement quelque chose   que si les gens sont intéressés, nous examinerons.  Oui, la bifurcation de session est essentiellement  
+36:1836 minutes et 18 secondesce que vous demandez. Nous avons eu quelques  clients qui l'ont demandé. C'est sur notre   feuille de route. Donc j'espère que nous l'aurons  à un moment donné. Je vous remerciee. Ouais,  
+36:2836 minutes et 28 secondesje vois quelques mains d'ici si tu veux. Ouais,  merci Rohan. Alors où est-il ? D'accord. Ouais,  
+36:3436 minutes et 34 secondesallez-y. En supposant que tout cela s'exécute  dans le cloud, avez-vous une feuille de route pour  
+36:3936 minutes et 39 secondestransmettre des connaissances collectives à disons  cet utilisateur particulier ? Ça vous dérangerait   de parler ? C'est un peu difficile à entendre. Oh  ! Donc en supposant que tout cela s'exécute dans  
+36:4936 minutes et 49 secondesle cloud et que cette application est distribuée  entre des dizaines et des centaines d'utilisateurs   et qu'il l'utilise tous afin de faire cette  recherche financière. Avez-vous, je sais que vous  
+36:5936 minutes et 59 secondesavez des journaux de session, cherchez-vous une  sorte de mémoire collective partagée et structurée   ou disposez-vous même déjà d'une feuille de route  détaillée en ce sens ? Nous l'avons aujourd'hui,  
+37:0837 minutes et 8 secondesnous l'utilisons réellement dans cette démo. Nous  utilisons donc un magasin de mémoire qui vous   permet de partager des connaissances entre les  sessions. Et vous pouvez voir ici que ce qui se  
+37:1737 minutes et 17 secondespasse, c'est que les agents enregistrent chacun  des informations individuelles sur ce qu'ils   ont fait jusqu'à présent. Ensuite, je vais vous  montrer à la fin comment vous pouvez consolider  
+37:2737 minutes et 27 secondesces connaissances au fil du temps en utilisant  le rêve afin que vous puissiez continuellement   améliorer les magasins de mémoire à mesure que  différents agents rencontrent différents cas  
+37:3537 minutes et 35 secondesmarginaux et apprennent collectivement les uns des  autres. Juste pour suivre cela. Donc vous stockez   cela dans l'infrastructure d'Anthropic. Dites si  vous voulez définir cela et avoir des choses en  
+37:4537 minutes et 45 secondescours d'exécution dans AWS Bedrock. Et j'ai les  miens comme des clusters Daytona ou quelque chose   pour ensuite vous avez parlé de l'autohébergement.  Quelle est la capacité de verrouillage de cette  
+37:5637 minutes et 56 secondespièce par rapport à sa flexibilité ? Donc tout  cela est basé sur l'API. Vous pouvez donc extraire   les mémoires et les mettre dans différents  systèmes si vous le souhaitez. Nous ne prenons  
+38:0538 minutes et 5 secondesactuellement pas en charge les autres fournisseurs  de mémoire prêts à l'emploi dans la session, mais   vous pourriez simplement créer un MCP ou un outil  personnalisé exactement comme j'imagine le faire.  
+38:1438 minutes et 14 secondesEt aussi pour ajouter à la question initiale  sur le fait d'avoir une mémoire au niveau de   l'utilisateur, au niveau de l'organisation, nous  autorisons l'attachement de plusieurs magasins  
+38:2138 minutes et 21 secondesde mémoire. Donc vous pouvez imaginer avoir un  magasin de mémoire au niveau de l'utilisateur   et ensuite avoir une sorte de magasin de  mémoire à l'échelle de l'organisation puis  
+38:2938 minutes et 29 secondesvous apporter les deux à chaque session afin que  vous puissiez commencer à collecter des mémoires   au niveau de l'utilisateur ainsi qu'au niveau  de l'organisation. Et puis comme le dit Gabe,  
+38:3938 minutes et 39 secondesrien de tout cela n'est verrouillé. Vous pouvez  prendre vos données et aller ailleurs si vous le   souhaitez. Tout est un appel API. J'avais une  question rapide. Alors que vous parcourez le  
+38:4838 minutes et 48 secondesflux de travail des agents, j'ai remarqué que  le noteur est au niveau de l'agent principal,   n'est-ce pas ? Alors, comment créez-vous ces  tâches de sous-agents qui se produisent et  
+38:5738 minutes et 57 secondespuis comment faites-vous ? C'est une bonne  question. Les sous-agents, de la façon dont  
+39:0239 minutes et 2 secondesnous les avons construits, sont destinés à  augmenter votre contexte et à tirer parti  
+39:0739 minutes et 7 secondesdes capacités de votre session en collaborant  entre eux. La définition du résultat se fait au  
+39:1839 minutes et 18 secondesniveau global de la session, vous définissez  le résultat et vous dites "C'est ce que je veux   que vous accompliez." L'agent principal utilise  ensuite des sous-agents pour accomplir ce travail.  
+39:2639 minutes et 26 secondesIl collabore avec eux et finit par dire j'ai  fini. Il n'existe actuellement aucun soutien pour  
+39:3239 minutes et 32 secondesune définition de sous-résultat. Suivi rapide.  Alors, comme vous avez cette fonction de rêve,   n'est-ce pas ? Alors, comment apprendre ? Si  les sous-agents ont une sorte de des actions  
+39:4339 minutes et 43 secondesinhabituelles, alors comment en tirer des leçons  ? Et aujourd'hui, le rêve se limite au magasin de   mémoire. Je vais vous le montrer dans une seconde,  mais fondamentalement, la façon dont Dreaming  
+39:5339 minutes et 53 secondesfonctionne est qu'il analyse les transcriptions  et les souvenirs créés sur plusieurs sessions   afin qu'il puisse mettre à jour ses souvenirs  afin que les futurs agents sachent quoi tirer.  
+40:0340 minutes et 3 secondesVous pouvez imaginer que nous pouvons continuer  à étendre cela pour les compétences et pour les   invites et pour les définitions d'agent afin que  vous ayez cette fonctionnalité d'apprentissage  
+40:1140 minutes et 11 secondescontinue. Mais pour l'instant, nous l'avons juste  pour les magasins de mémoire. Je vois une main  
+40:1540 minutes et 15 secondesici et puis je reviendrai à Bonjour. Ouais,  c'est Swise. Oh, salut. Je vous remercie. Si  
+40:2440 minutes et 24 secondesvous avez disons vos données d'entreprise dans  un magasin traditionnel ou RAG ou quoi que ce  
+40:2940 minutes et 29 secondessoit et que vous souhaitez les exposer à ce type  d'agent via un CLI personnalisé ou un MCP, quelle  
+40:3640 minutes et 36 secondesserait la voie sûre pour les mettre dans votre  environnement ? C'est une excellente question.  
+40:4140 minutes et 41 secondesIl y a deux façons de le faire. Si vous pouvez y  accéder via CLI avec une API ou via un MCP, vous  
+40:4740 minutes et 47 secondescréeriez simplement un MCP. Donnez-lui donnez-lui  le coffre-fort d'authentification et il pourra  
+40:5440 minutes et 54 secondessimplement appeler votre MCP directement. Si vous  ne souhaitez pas exposer votre MCP à Internet,   nous avons une fonctionnalité appelée tunnels MCP  qui vous permet de créer un tunnel de votre réseau  
+41:0441 minutes et 4 secondesvers le nôtre afin que vous ne l'exposez  pas à internet. Faites-le de cette façon.   Si c'est un obstacle trop important à surmonter,  nous prenons en charge les boîtes à sable  
+41:1341 minutes et 13 secondesautohébergé afin que vous puissiez apporter  votre propre boîte à sable qui est connectée   à votre réseau et a accès à vos applications et  services. Et l'agent appelle simplement le sandbox  
+41:2341 minutes et 23 secondesque vous gérez et hébergez et pourra accéder  à vos ressources de cette façon. Ouais. Ben,  
+41:3041 minutes et 30 secondesj'ai eu une question sur les dépendances pour les  environnements. Donc, j'ai vu quelque chose que   vous pouvez charger dans les dépendances. Est-ce  l'exécution ou juste avant sa création ? C'est au  
+41:4141 minutes et 41 secondesmoment de la création. Ensuite, nous le mettrons  en cache et réutiliserons cet environnement dans   les réinstantiations de la boîte à sable. Alors,  pouvez-vous spécifier les dépendances internes ou  
+41:5141 minutes et 51 secondesdevez-vous choisir le paquet NPM ? En ce moment,  ils doivent tous être accessibles via npm,  
+41:5741 minutes et 57 secondescargo, pip, quoi que ce soit, mais vous pouvez  télécharger des fichiers directement dans la  
+42:0442 minutes et 4 secondessession ou GitHub si vous souhaitez les installer  de cette façon. D'accord. Et une chose de plus,   les déploiements. Je vois un onglet pour  cela. Ouais. Ouais, je vais y arriver.  
+42:1342 minutes et 13 secondesNous allons y arriver. Je vais continuer avec  la démo puis nous poserons d'autres questions  
+42:1642 minutes et 16 secondesdans une seconde. Alors oui, voyons à quoi  ça ressemble. Analyse Google et Microsoft.  
+42:3942 minutes et 39 secondesDonc idéalement ce qui se passerait et j'espère  que cela fonctionnera en direct pour vous tous.   C'est ce que cet agent principal va évaluer s'il  contient des informations puis il va nous donner  
+42:4942 minutes et 49 secondesun outil personnalisé où nous allons ensuite  créer des sessions individuelles pour chacun   de ces instruments financiers. Donc vous verrez  ce truc d'dispatch_analysis. Il va l'appeler pour  
+42:5942 minutes et 59 secondesdeux tickers puis il va lancer le travail pour  chacun d'eux. C'est donc ainsi que nous pouvons   orchestrer notre harness multisession. Et chacune  de ces sessions a un multi-agent qui effectue un  
+43:0943 minutes et 9 secondestravail collaboratif et chacune de ces sessions a  également des définitions de résultat afin qu'il y  
+43:1543 minutes et 15 secondesait une autosupervision se produisant en utilisant  des magasins de mémoire pour apprendre les uns des   autres et ainsi de suite et ainsi de suite.  Alors passons à la finale. Que se passe-t-il  
+43:2543 minutes et 25 secondessi vous voulez faire un travail récurrent et  si vous voulez avoir une liste des entreprises   qui vous intéressent et que vous voulez tous les  jours à 9h ou le premier du mois faire l'analyse  
+43:3543 minutes et 35 secondesde toutes ces entreprises sur un calendrier.  C'est donc ce que sont les déploiements. Tout  
+43:4143 minutes et 41 secondesest basé sur des API. Vous pouvez donc évidemment  interagir avec notre plateforme via la console   mais la principale façon dont nous voulons que  vous interagissiez avec elle est via l'API et  
+43:4943 minutes et 49 secondesle SDK. Vous pouvez donc créer des interfaces  personnalisées et des workflows personnalisés.   Tous ces éléments ne sont que des blocs de  construction que vous pouvez composer ensemble  
+43:5843 minutes et 58 secondespour transformer votre application en quelque  chose de plus grand. Donc vous pouvez voir  
+44:0344 minutes et 3 secondesici ce que Claude a fait, c'est qu'il a créé un  déploiement. C'était juste ici. Le déploiement  
+44:0944 minutes et 9 secondesprend en compte une définition d'agent. Dans  ce cas, c'est ce mémo hebdomadaire du Research  
+44:1544 minutes et 15 secondesDesk utilisant cet agent spécifique. Il prend  un calendrier du moment où il va s'exécuter et   il lui donne un ensemble initial de messages  avec lesquels il va s'exécuter. Vous pouvez  
+44:2544 minutes et 25 secondeségalement transmettre des ressources telles  que des magasins de mémoire ou des dépôts   de GitHub ou des fichiers qu'il va utiliser  sur chacun d'entre eux. Et donc ce que cela  
+44:3344 minutes et 33 secondessignifie c'est que chaque je pense que c'est le  premier du mois à 13h ou quelque chose comme ça,   il va organiser cette session spécifique. Je  pourrais en organiser une maintenant. Je pourrais  
+44:4344 minutes et 43 secondesdonc le déclencher via la console. Ça va faire ça.  Mais je pourrais aussi construire une interface  
+44:4944 minutes et 49 secondesutilisateur pour cela. Et c'est ce que nous avons  fait ici. Donc j'ai toute l'interface. Je peux  
+44:5444 minutes et 54 secondeslister et rechercher mes déploiements et puis  je peux aussi en lancer un à un moment donné et  
+45:0145 minutes et 1 secondeje ne sais pas pourquoi ils échouent mais je vais  en demander à Claude plus tard et cela c'est venu   plusieurs fois c'est-à-dire que en est-il de rêver  ? Qu'en est-il de l'autoamélioration ? Donc avant  
+45:1145 minutes et 11 secondesd'aller à vos questions, dont je suis sûr qu'il  y en a beaucoup, je vais vous montrer un aperçu   que nous avons pour dreaming. Donc le dreaming  vous permet de sélectionner donc d'accord avant  
+45:2045 minutes et 20 secondesque je vous montre un précédent, il vous permet de  sélectionner un magasin de mémoire. Dans ce cas,   nous allons utiliser le magasin de mémoire que  nous avons utilisé. Vous pouvez sélectionner un  
+45:2945 minutes et 29 secondesmodèle. Vous pouvez lui donner des instructions  personnalisées si vous le souhaitez, mais nous   utiliserons une invite par défaut. Et puis nous  allons le laisser exécuter les 30 derniers jours  
+45:4045 minutes et 40 secondesde session. grâce à l'analyse de dreaming.  Donc quand je clique sur commencer à rêver,   ce qu'il va faire c'est qu'il va tourner une  session en utilisant des agents gérés, et en  
+45:4845 minutes et 48 secondesfait tourner de nombreux sous-agents pour analyser  les transcriptions de chacune des autres sessions   que nous lui avons dit d'évaluer tous ceux  qui utilisent le stockage de mémoire et il  
+45:5745 minutes et 57 secondesva analyser et le magasin de mémoire a-t-il  encodé toutes les informations qui étaient   nécessaires ? Une session a-t-elle rencontré un  problème qui a causé des problèmes ? Pouvons-nous  
+46:0546 minutes et 5 secondesen apprendre quelque chose ? Est-ce arrivé  plusieurs fois ? pouvons-nous mettre à jour   les instructions de quelque manière que ce soit.  Vous pouvez voir ici ce qu'il a réellement fait,  
+46:1346 minutes et 13 secondesc'est qu'il a découvert que la compétence  que nous avons crééee avait en fait quelques   lacunes dans sa rédaction. Et il a mis à jour  le magasin de mémoire pour lui dire même s'il  
+46:2346 minutes et 23 secondesy a cette compétence, vous devriez étendre ses  connaissances avec ce que nous avons appris.   Vous pouvez imaginer que nous allons continuer  à étendre cela non seulement pour améliorer les  
+46:3246 minutes et 32 secondesmagasins de mémoire mais pour améliorer les  compétences directement. les invites d'agent,   les invites de sous-agent et cetera et cetera.  C'est ça, c'est la démo. Désolé pour le Wi-Fi,  
+46:4146 minutes et 41 secondesj'espère que vous suivrez plus tard à votre retour  à la maison et continuons avec quelques questions.  
+46:4746 minutes et 47 secondesOui, nous pouvons tous répondre aux questions.  Nous avons une question ici. Merci pour la démo.  
+46:5446 minutes et 54 secondesNous n'avons vu aucun instrument de télémétrie  dans l'agent. Est-ce une fonctionnalité native   par défaut ? Que veux-tu dire par télémétrie  ? parce que vous avez la pleine observabilité  
+47:0347 minutes et 3 secondesde tous les événements qui se sont produits,  n'est-ce pas ? Si vous entrez sur la console,   vous pouvez le voir en direct, mais vous pouvez  également évidemment l'obtenir à partir de l'API  
+47:1147 minutes et 11 secondesoù cette vue de transcription est comme une belle  vue. Mais si vous allez au débogage, c'est chaque   événement qui s'est produit dans cette session.  Donc, vous pouvez voir exactement par exemple  
+47:1947 minutes et 19 secondesquand avons-nous commencé à appeler le modèle  ? Quand avons-nous fini d'appeler le modèle,   vous pouvez donc obtenir des métriques de latence  dans cela. Y a-t-il autre chose que vous voulez  
+47:2747 minutes et 27 secondesdire par télémétrie ? Ouais. Le problème est  que généralement dans le cycle de développement   logiciel, vous définissez ce que vous voulez  observer. Comment avons-nous choisi ce que nous  
+47:3747 minutes et 37 secondesvoulons observer ? En ce moment, vous obtenez tous  les événements et vous les filtrez simplement de   votre côté. S'il y a des choses que vous pensez  manquer, contactez-nous et nous parlerons de  
+47:4647 minutes et 46 secondesles ajouter. OK ? Et puis j'ai apporté ma propre  pile d'observabilité ici. Vous voulez dire comme  
+47:5147 minutes et 51 secondesl'exportation ? Parce qu'il s'agit d'une API, vous  pouvez construire ce connecteur assez facilement.  
+47:5947 minutes et 59 secondesChacun a des exigences différentes et nous ne  voulons pas être opinionnés. Mais tout n'est   que des appels API. Je vous remercie. J'avais  une question de combien de temps ces agentes  
+48:0848 minutes et 8 secondespeuvent-ils fonctionner ? Je sais que vous avez  mentionné cette chose de rêve, mais pouvez-vous   les exécuter indéfiniment ou voyez-vous que le  magasin persistant continue d'augmenter en taille  
+48:1748 minutes et 17 secondeset à un moment donné, vous devez le recompacter  hors ligne ou quelque chose comme ça ? exécutez   le compactage pour vous afin que vous puissiez  les exécuter pendant des jours. Nous avons vu  
+48:2648 minutes et 26 secondesdes séances de 10h en production de certains de  nos utilisateurs. Donc, vous pourriez diriger ces   agents pendant 1 an ou indéfiniment en théorie.  Parlez-vous de diriger l'agent pendant 1 an ou  
+48:3648 minutes et 36 secondesparlez-vous d'une session spécifique qui continue  ? Non, en gros, l'agent, si j'avais une tâche que   je devais faire tous les jours, puis-je simplement  la maintenir en cours pendant 6 mois, est-ce  
+48:4548 minutes et 45 secondesque son état persistant ne finit pas par devenir  trop volumineux ? Et y a-t-il un orchestrateur,   par exemple où je pourrais avoir trois agents ?  L'agent A fait quelque chose et les délégués à  
+48:5548 minutes et 55 secondesB et C. Est-ce une capacité que vous avez ? Pour  l'instant, vous seriez sous-agent et vous diriez  
+49:0249 minutes et 2 secondesà Claude ce que vous voulez. Nous trouvons qu'il y  a un désir en tant qu'humain de contraindre ce que   Claude fait et la façon dont il le fait. Au fur et  à mesure que Claude devient plus intelligent, nous  
+49:1149 minutes et 11 secondesavons continuellement enlevé ses garde-fous et  laissé Claude le laisser cuire, le laisser faire   ce qu'il pense être le meilleur. En ce moment,  vous pensez peut-être que trois sous-agents sont  
+49:2049 minutes et 20 secondesla meilleure topologie pour cela, mais si nous  laissons Claude comprendre cela, il finit par   surpasser les performances. Mais n'importe quel  flux de travail topologique ou graphique dans  
+49:2949 minutes et 29 secondesl'interface utilisateur ici comme où je pourrais  avoir Pas encore, pas encore mais peut-être  
+49:3549 minutes et 35 secondesbientôt. Vous pouvez probablement simplement  parler. Ouais, désolé. Nous reviendrons chez vous.  
+49:4249 minutes et 42 secondesà ta droite sur ma droite. Oui. Donc ma question,  cela paraît très bien avec de nombreux points  
+49:5049 minutes et 50 secondesd'intégration pour une organisation complexe qui  gère plusieurs agents. Je suppose qu'il cherchent  
+49:5749 minutes et 57 secondesune séparation claire des droits avec du RBAC ou  des mécanismes similaires. Quelle est, selon vous,  
+50:0550 minutes et 5 secondesl'approche recommandée pour une organisation  complexe qui a ses différents agents ici ? gérer  
+50:1150 minutes et 11 secondesefficacement. Nous avons des espaces de travail.  C'est notre primitive aujourd'hui où vous pouvez   placer différents clients dans différents  espaces de travail puis les segmenter de cette  
+50:2050 minutes et 20 secondesmanière et donner accès à des utilisateurs  spécifiques dans ces espaces de travail.   Nous savons qu'il y a encore une lacune dans ce  que nous offrons et c'est quelque chose. Oui,  
+50:3050 minutes et 30 secondesle RBAC est sur notre feuille de route. Donc, nous  voulons fournir des contrôles plus granulaires   mais pour l'instant le Workspace est un moyen  propre de séparer vos agents où vous avez un  
+50:3750 minutes et 37 secondesgroupe de personnes ayant accès au workspace  A et ils peuvent accéder à tous les agents à   l'intérieur de celui-ci. Vous pouvez avoir un  espace de travail B avec un ensemble différent  
+50:4550 minutes et 45 secondesd'utilisateurs qui peuvent avoir différents  niveaux d'accès. Alors, bonjour, excellente   présentation, vraiment excité. Deux questions.  L'une déploiement, j'ai compris que notre  
+50:5550 minutes et 55 secondesdéploiement se déroule à un instantané de tous les  agents. Non, le déploiement est essentiellement  
+51:0251 minutes et 2 secondesun moyen d'exécuter des sessions pour un agent  spécifique selon un calendrier. Donc, vous pouvez   dire comme "Oh, agent de Research Desk, allez  faire des recherches sur Nvidia une fois par  
+51:1151 minutes et 11 secondestrimestre." Et il va simplement créer une session  tous les trimestres pour faire des recherches et   vous produire ce rapport. Et puis la mémoire  qui est un état persiste à travers toutes les  
+51:1951 minutes et 19 secondessessions. C'est vrai. Vous rattachez votre magasin  de mémoire à une session. Vous choisissez donc à   quelle session associé quel magasin de mémoire ce  dernier fonctionnant comme une entité indépendante  
+51:2951 minutes et 29 secondesque vous reliez à la demande. C'est vrai. Et la  dernière question est harness. Non. Premièrement,  
+51:3651 minutes et 36 secondesqu'est-ce que les harness pour vous ? Parce que  chacun a sa propre définition et la deuxième est   la confiance, n'est-ce pas ? Donc quand je change  quelque chose ici, comment puis-je savoir que ce  
+51:4651 minutes et 46 secondesn'est pas comme tu t'attends, n'est-ce que pas ma  confiance en tant que développeur ? Tu as raison,  
+51:5251 minutes et 52 secondeschacun a une définition différente d'un harness.  Lorsque nous parlons d'un harness en CMA,   nous entendons principalement l'exécution de la  boucle d'outil, donc la gestion du contexte et la  
+52:0252 minutes et 2 secondesgestion de l'état de la session et s'assurer que  l'agent peut faire le travail qu'il veut faire.  
+52:0852 minutes et 8 secondesLorsque la plupart des constructeurs parlent de  harness, ils veulent vraiment dire la capacité de  
+52:1352 minutes et 13 secondescoordonner plusieurs agents et sessions ensemble  comme une unité de travail pour réaliser une  
+52:1952 minutes et 19 secondessorte de tâche plus grande dans une sorte de  topologie. Nous vous donnons l'abstraction   d'une seule session comme une unité de travail  pour que vous puissiez sortir et construire  
+52:2852 minutes et 28 secondesvotre harness avec elle car la session est l'une  des primitives. Et puis votre deuxième question,   comment puis-je savoir comment mon agent se  comporte ? Notre meilleure recommandation  
+52:3852 minutes et 38 secondesserait d'exécuter des EVAL sur votre agent avec  différents types de tâches que vous voulez que   l'agent exécute et de voir comment l'agent se  comporte sur ses tâche. Les résultats sont un  
+52:4652 minutes et 46 secondestrès bon moyen où nous guidons l'agent pour vous  obtenir le résultat spécifique où vous pouvez   définir une grille d'évaluation précise pour comme  est. C'est le résultat exact que je veux et vous  
+52:5552 minutes et 55 secondespouvez définir le nombre maximal d'itérations et  l'agent continuera jusqu'à ce qu'il vous obtienne  
+53:0053 minutesce résultat. Ouais. l'agent de vérification  dont Gabe parlait he merci pour la démonstration  
+53:1153 minutes et 11 secondesj'apprécié ma question essentielle est un peu sur  la façon de choisir entre les compétences et les  
+53:1753 minutes et 17 secondesagents et je voulais demander comment dites-vous  tous ce qui est comme la différence fondamentale   y a-t-il un avantage dans le harness qui entoure  un agent qui lui permet de produire de meilleurs  
+53:2653 minutes et 26 secondesrésultats qu'une balance ? Et l'une des raisons  pour lesquelles je demande, c'est parce que j'ai   peur d'investir toujours dans de nouveaux types  comme je suppose l'exploitation et l'outillage  
+53:3653 minutes et 36 secondesautour des modèles. Et il peut il peut être  un peu fatiguant d'essayer toujours de faire   quelque chose de nouveau. Alors oui, je veux juste  entendre ce que tu en penses. Y a-t-il une grande  
+53:4553 minutes et 45 secondesdifférence et va-t-il changer à tout moment ?  Oui. Non. Harness épais, harness fin, compétences  
+53:5353 minutes et 53 secondesriches est une question qui évolue constamment.  Je pense que ce que nous constatons, c'est que à   mesure que Claude devient plus intelligent, les  frontières et l'aide que nous voulons donner à  
+54:0354 minutes et 3 secondesClaude commencent à fondre et à disparaître. Ce  dont vous avez besoin aujourd'hui n'est peut-être   pas ce dont vous avez besoin demain. La réponse  ennuyeuse est simplement de faire des évaluations  
+54:1254 minutes et 12 secondeset d'évaluer ces choses. Ça semble épuisant  évidemment. Chaque fois qu'un nouveau modèle sort,   je dois évaluer toutes ces choses. Ce que nous  trouvons, c'est que les compétences sont une  
+54:2254 minutes et 22 secondesbonne abstraction aujourd'hui. Cela donne au  modèle suffisamment d'informations sur ce qu'il   doit faire, mais je suppose qu'il va commencer  à se déplacer, à fondre et à devenir de plus en  
+54:3354 minutes et 33 secondesplus mince où le modèle sera simplement capable  de faire les choses toutes seules sans aucune   demande et instruction spéciale à l'avenir.  Donc le multiagent semble plus utile à mon avis,  
+54:4354 minutes et 43 secondesmais votre kilométrage peut varier en fonction de  votre tâche. Salut. Donc ma question est liée aux  
+54:5254 minutes et 52 secondesdeux dernières questions et surtout au-dessus  d'Evals. Une chose qui m'enthousiasme, c'est   de rêver. Mais comment le rêve affectera-t-il  réellement le résultat final ? quelque chose qui  
+55:0255 minutes et 2 secondesest là où Evals vient à l'image, mais vous pouvez  avoir plusieurs itérations de rêve qui peuvent   aller dans des directions différentes. Alors, y  a-t-il un plan ou soutenez-vous déjà une sorte de  
+55:1255 minutes et 12 secondesrêve automatisé avec une exécution d'évaluations  et voyez que et comment les différentes directions  
+55:1755 minutes et 17 secondesvont laquelle devrait être choisie en fonction  de ce qui se passe ? Ouais. Donc rêver, ce que   cela fait, c'est que vous pouvez choisir la durée  pendant laquelle vous voulez que l'agent rêve.  
+55:2755 minutes et 27 secondesDonc vous pouvez dire "Je veux rêver de la session  de cet agent au cours des 30 derniers jours." Puis   regardez toutes les transcriptions et analyser  les tâches que vous essayez d'accomplir puis  
+55:3755 minutes et 37 secondestrouver un nouveau magasin de mémoire qui est plus  orienté vers ce que vous essayez de faire. Et nous   allons généralement exécuter des évaluations de  notre côté pour nous assurer que le rêve vous  
+55:4655 minutes et 46 secondesapporte de meilleurs résultats et nous avons vu  que les clients ont pu obtenir. une amélioration   significative de leurs évaluations en exécutant  dreaming puis en utilisant le nouveau stockage  
+55:5655 minutes et 56 secondesde mémoire. Mais encore une fois, tout se relie  en quelque sorte à des évals. Donc c'est ainsi  
+56:0056 minutesque vous sauriez si quelque chose fonctionne  comme vous l'attendez. Ouais. Ben je pense que  
+56:1056 minutes et 10 secondesce serait bien d'avoir votre propre ensemble  d'évaluations. Euh l'autre chose, est-ce que  
+56:1656 minutes et 16 secondesle rêve est en avant-première de la recherche ?  Donc c'est encore largement expérimental. Nous   avons vu une amélioration sur elle en général,  mais c'est on vous entend, n'est-ce pas ? Comment  
+56:2656 minutes et 26 secondespuis-je gagner la confiance en cela ? Ouais, c'est  comme des événements liés aux rêves et alors nous   pouvons découvrir les multiples chemins qui ont  été pris et décidés oh cela a plus de sens parce  
+56:3656 minutes et 36 secondesque même si neuf séances ont peut-être dit que  c'est faux, une dit que e c'est bien. Donc si vous  
+56:4356 minutes et 43 secondesvous appuyez simplement sur cette chose de rêve de  session, j'ai l'impression que nous ne saisissons  
+56:4756 minutes et 47 secondespeut-être pas toutes les idées sans si je te dis  juste de me faire confiance, je vous remercie.  
+56:5856 minutes et 58 secondesOuais, salut. Merci beaucoup. C'est très  impressionnant. Ceux d'entre nous qui  
+57:0557 minutes et 5 secondestravaillent avec Claude Code depuis un an ou  plus ont fait des choses similaires à celle-ci,  
+57:1057 minutes et 10 secondesmais c'est agréable de voir cela sous une forme  vraiment mature. Une question que j'ai est combien  
+57:1657 minutes et 16 secondesde cela a été construit simplement sur Claude  Code ? C'est-à-dire si quelqu'un était ambitieux,  
+57:2357 minutes et 23 secondespeut-on construire quelque chose de similaire à  celui-ci ? Et ce que je voulais vous demander,   c'était de vous encourager à garder les choses  ouvertes. Certains d'entre nous récoltent déjà  
+57:3457 minutes et 34 secondesce qui se trouve dans les fichiers de session  JSON et commencent à expérimenter des choses  
+57:4057 minutes et 40 secondescomme Eparag et ce genre de choses pour gérer  les mémoires et créer un pool de mémoire.  
+57:4657 minutes et 46 secondesFélicitations s'il vous plaît gardez ouvert.  Faites-vous quelque chose ici qui n'est pas  
+57:5457 minutes et 54 secondesseulement construit sur site sur Claude Code.  Je vous remercie. Nous avons pris Claude Code  
+58:0158 minutes et 1 secondeharness comme inspiration. Nous avons constaté  qu'il était très bien adapté aux tâches de codage  
+58:0658 minutes et 6 secondeset il s'agit de différents niveaux de flexibilité  pour d'autres tâches. Nous construisons une API   où nous voulons que vous apportiez votre  contexte, vos informations, vos capacités.  
+58:1658 minutes et 16 secondeset construisez sur celle-ci où Claude Code essaie  de vous offrir un produit prêt à l'emploi. Nous  
+58:2158 minutes et 21 secondesavons donc des propositions de valeur légèrement  différents et donc c'est pas seulement du Claude  
+58:2858 minutes et 28 secondesCode dans une boîte mais idéalement il fonctionne  aussi bien sinon mieux dans toutes toutes sortes  
+58:3358 minutes et 33 secondesde tâches donc pas exactement mais il est  certainement inspiré et motivé par certaines  
+58:3958 minutes et 39 secondesdes améliorations que nous avons constaté avec  Claude Code et le l'outil terminal de Claude Code  
+58:4658 minutes et 46 secondeset nous voulons évidemment être un produit  et une infrastructure qui va se développer   qui va être fiable. Il y avait donc des défis dont  je vous ai parlé au début de la présentation et  
+58:5658 minutes et 56 secondesauquel nous avons vraiment travaillé pour nous  assurer que nous fournissons un produit vraiment  
+59:0159 minutes et 1 secondesolide pour que vous puissiez tous utiliser. Donc  pour AWS Bedrock, y a-t-il une console comme la  
+59:1059 minutes et 10 secondesconsole Claude comme vous l'avez ici ? C'est une  très bonne question mais oui, je veux juste gérer   et voir tout. Ce n'est pas disponible sur Bedrock  mais il est disponible via Claude Platform pour  
+59:2059 minutes et 20 secondesAWS. Il existe donc une version AWS de la console  que vous pourriez utiliser. Ouais. Ouais. D'abord,  
+59:3259 minutes et 32 secondesa-t-il des restrictions concernant le type  de modèle à utiliser ? par exemple en ce qui   concerne les modèles autres que ceux d'Anthropic.  Tout comme Claude Code, je peux fonctionner sur  
+59:4159 minutes et 41 secondesdes modèles autres que ceux d'Anthropic pour  l'instant. Oui, ce sont des modèles Claude   uniquement pour l'instant. D'accord. La deuxième  question était : "Qu'en est-il de l'utilisation de  
+59:5159 minutes et 51 secondesl'utilisateur final ? Faut-il avoir un compte  console pour l'utiliser ou juste un compte   gratuit ? Je peux créer une interface utilisateur  personnalisée pour cela et ils peuvent l'utiliser.  
+1:00:001 heureClaude Console vous aide donc à créer votre clé  API. C'est ainsi que vous avez accès à nos API.   Donc vous ne payez pas séparément pour Claude  Console. Il est gratuit de vous inscrire, vous  
+1:00:091 heure et 9 secondescréez une clé API puis vous payez en fonction de  l'utilisation du jeton. Donc pour un cas comme ça,  
+1:00:151 heure et 15 secondesc'est peut-être que nous avons plusieurs  locataires, n'est-ce pas SP ? Donc pour  
+1:00:201 heure et 20 secondesfournir cet agent, quel genre de pourriez-vous  détailler le modèle que vous utilisez déjà afin  
+1:00:281 heure et 28 secondesque nous puissions le suivre ? par exemple en  indiquant si chaque entreprise doit disposer de  
+1:00:331 heure et 33 secondesson propre espace isolé ou même d'un sous-module  dédié à chaque locataire. Cela nous aiderait à  
+1:00:391 heure et 39 secondescomprendre comment organiser concrètement la  structure multilocataire. Nous avons vu que   le meilleur modèle pour la multilocation est de  ne pas apporter votre propre clé parce que vous  
+1:00:491 heure et 49 secondesperdez l'observabilité parce qu'elle fonctionne  sur vos utilisateurs finaux. Clé API plutôt que   la vôtre. Nous vous encourageons donc à modéliser  les choses avec les espaces de travail comme une  
+1:00:581 heure et 58 secondesprimitive d'isolation des locataires. et nous  améliorons cela pour qu'il soit de plus en plus   facile à construire. En plus de cela pour les  applications multilocataires comme celle-ci.  
+1:01:071 heure, 1 minute et 7 secondesOui. Donc je pense que actuellement vous auriez pu  mettre toutes les données de vos clients dans un   seul espace de travail puis maintenir un mappage  de votre côté sur quel agent correspond à chacun  
+1:01:151 heure, 1 minute et 15 secondesde vos clients. Alternativement, comme le dit  Gabe, vous pourriez créer un espace de travail   par votre client, mais cela peut devenir plus  compliqué parce que vous devez alors recréer  
+1:01:241 heure, 1 minute et 24 secondesvotre agent. Il en va de même si vous les voyez  les exemples où les gens ont fait la couche de   sécurité supplémentaire ou la couche RBAC sur  l'espace de travail parce que pour moi c'est  
+1:01:341 heure, 1 minute et 34 secondespeut-être un peu bit. Ce serait probablement une  bonne façon de le faire en ce moment car nous  
+1:01:391 heure, 1 minute et 39 secondesn'avons pas de contrôle d'accès plus fin à notre  niveau autre que l'espace de travail afin que tout  
+1:01:461 heure, 1 minute et 46 secondesdans votre espace de travail soit accessible  à tout le monde dans l'espace de travail.   Mais nous travaillons à améliorer notre RBAC  et ensuite à améliorer l'expérience si vous  
+1:01:541 heure, 1 minute et 54 secondestravaillez avec des Claude Managed Agents pour  construire pour le compte de vos clients et   comment nous pouvons rendre cela facile. Alors, y  a-t-il un moyen de montrer comment l'échelle s'il  
+1:02:041 heure, 2 minutes et 4 secondesy a un multiple comment dire locataire travaillant  sur cela, tous les paramètres d'échelle comme ce  
+1:02:111 heure, 2 minutes et 11 secondesqui est je dirais le pod minimal ou quoi  que ce soit ces paramètres c'était Ouais.  
+1:02:181 heure, 2 minutes et 18 secondesJe veux dire, vous définissez sur un, vous pouvez  créer autant de sessions que vous voulez. Il n'y   a aucune limitation. Je veux dire, nous avons  des limites de taux évidemment, mais il n'y a  
+1:02:271 heure, 2 minutes et 27 secondespas de paramètres d'échelle à dire maintenant,  je dois exécuter 10000 pods. Donc actuellement,   il y a pas de choses comme HPA dans Kubernetes,  vous pouvez faire ce genre de paramètres,  
+1:02:381 heure, 2 minutes et 38 secondesparamètres d'échelle droite comme le timeout quoi  que ce soit. Tu n'as pas besoin de ça. Vous n'en   avez pas besoin car nous gérons tout pour vous.  Vous faites juste des appels API, c'est tout.  
+1:02:461 heure, 2 minutes et 46 secondesD'accord. D'accord. Bien sûr. Merci pour votre  réponse. Au fait, le lien d'offre ne fonctionne  
+1:02:531 heure, 2 minutes et 53 secondespas pour moi. Je ne sais pas si c'est le seul,  mais c'est pour le partage. Je vous remercie.  
+1:03:001 heure et 3 minutesOuais. Allez-y. Salut. Tout d'abord, merci  beaucoup. Je me suis amusé avec tout ce que vous  
+1:03:061 heure, 3 minutes et 6 secondesavez publié et je suis vraiment intéressé par la  façon dont vous utilisez l'interface utilisateur.  
+1:03:121 heure, 3 minutes et 12 secondesVous créez un serveur, vous distribuez cela. Mais  comment pouvons-nous le déployer en interne ? Mais  
+1:03:181 heure, 3 minutes et 18 secondesje suis intéressé par une sorte de clientèle.  Si je veux faire par exemple un astrologue,  
+1:03:261 heure, 3 minutes et 26 secondescette personne doit saisir des données sensibles.  Donc c'est vraiment agréable pour moi de pouvoir   les avoir dans un échantillon. Vous devriez avoir  une couche et il y a donc des choses procédurales.  
+1:03:351 heure, 3 minutes et 35 secondesVous obtenez un exemple de cartes étoilées. Je  ne construis pas ça mais c'est un bon exemple.   Je peux demander à un sous-agent de faire  une interprétation qui pourrait durer 90  
+1:03:441 heure, 3 minutes et 44 secondessecondes. Cela pourrait créer des actifs  et cetera. Lorsque le résultat est atteint,   il pourrait s'arrêter. Donc cela me donne un moyen  de créer une implémentation vraiment propre où  
+1:03:531 heure, 3 minutes et 53 secondestout ce dont j'ai besoin est l'authentification  et puis tout peut tourner à partir de là. Ouais,  
+1:03:581 heure, 3 minutes et 58 secondesexactement. Donc il y a quelque chose comme les  canaux MCP qui soulignent cela avec le FAT. par  
+1:04:051 heure, 4 minutes et 5 secondesexemple un moyen pour vous d'utiliser Claude et  d'avoir un canal pour communiquer avec lui via   l'interface utilisateur. Mais je vois beaucoup  de choses où vous simplement créez un serveur  
+1:04:161 heure, 4 minutes et 16 secondesdans un projet qui est facile à distribuer en  interne, mais comment pouvez-vous le déployer   à grande échelle ? Je veux dire, cela est déployé  aujourd'hui dans la production à grande échelle.  
+1:04:261 heure, 4 minutes et 26 secondesPar exemple, les agents externes de Notion est  construite sur ce point. C'est donc quelque chose   qui existe aujourd'hui que vous pouvez utiliser et  utiliser essentiellement les Claude Managed Agents  
+1:04:361 heure, 4 minutes et 36 secondesvia Notion et Atlassian pour les intégrations  Jira par exemple. Il y a certainement des façons  
+1:04:421 heure, 4 minutes et 42 secondesde le faire. Si vous avez des questions  spécifiques, nous pouvons discuter. Oui,   nous pouvons parler après cela, mais généralement  de vous créeriez probablement votre produit,  
+1:04:501 heure, 4 minutes et 50 secondesvotre interface utilisateur que vous distribuez  à vos clients puis nous appeleriez pour votre   gestion de création d'agents réels. Tout se passe  par les API. Tout se passe par les API. Ouais,  
+1:05:001 heure et 5 minutesexactement. Vous gérez donc tous les appels API  et construisez votre produit et votre interface   utilisateur autour de cela. Merci beaucoup. Ouais,  Charlotte, bonjour d'abord. Merci pour le super  
+1:05:101 heure, 5 minutes et 10 secondesatelier et la démo. Ma question est de ne pas  vraiment aimer l'agent lui-même. C'est comme si  
+1:05:151 heure, 5 minutes et 15 secondesj'avais vu la réponse que nous venons de sortir  Sonnet 5. Ouais. Alors, je me demandais si vous  
+1:05:211 heure, 5 minutes et 21 secondespourriez partager quelque chose avec nous. Ouais,  c'est un grand modèle. Ouais. Essayez-le dès que  
+1:05:301 heure, 5 minutes et 30 secondespossible. Il est entièrement pris en charge  dans Claude Managed Agents. Alors, n'hésitez   pas à aller l'essayer par vous-même. Vous pouvez  l'utiliser aujourd'hui. Salut. Bonjour. Si nous  
+1:05:411 heure, 5 minutes et 41 secondesavons des partenaires commerciaux qui utilisent  le Claude Cowork aujourd'hui, certains d'entre   eux sont plus savants en matière de Claude Code  pour créer des solutions spot pour des codes  
+1:05:491 heure, 5 minutes et 49 secondesd'affaires spécifiques. Qu'est-ce que vous voyez  comme une sorte de niveau de sophistication pour   commencer à utiliser des agents gérés à la place  ? parce qu'elle semble plus puissante mais la  
+1:05:591 heure, 5 minutes et 59 secondesplateforme Claude pourrait être intimidante pour  les gens qui ne sont pas des ingénieurs, disons.   Je pense que le démarrage rapide de la console  ressemble à la partie de ma démo où vous expliquez  
+1:06:081 heure, 6 minutes et 8 secondesà Claude quel agent vous voulez construire, ce  qui devrait rendre la prise en main assez simple.   Même des utilisateurs non techniques peuvent y  entrer et créer leur premier agent. Bien sûr,  
+1:06:161 heure, 6 minutes et 16 secondescela reste un produit API, donc naturellement un  peu plus intimidant. Mais pour ceux à l'aise avec   Claude Code, nous proposons une compétence d'agent  géré dans Claude Code qui en langage naturel vous  
+1:06:261 heure, 6 minutes et 26 secondesguide étape par étape pour construire votre  premier agent et c'est probablement le chemin   recommandé. Euh mon conseil de l'essayer. Je pense  que la plus grande différence est Cowork. Vous  
+1:06:351 heure, 6 minutes et 35 secondescréez un agent personnel. Avec celui-ci, vous  essayez de créer probablement un agent qui est   disponible pour votre équipe, votre organisation  interne ou vous créez un produit que vous expédiez  
+1:06:441 heure, 6 minutes et 44 secondesà vos clients finaux. Mais si vous construisez  des agents personnels, Cowork est toujours un  
+1:06:481 heure, 6 minutes et 48 secondesexcellent outil pour continuer à le faire. Il y  a-t-il des compétences qui peuvent gérer ? Legend,  
+1:06:571 heure, 6 minutes et 57 secondesil y a une compétence pour interagir avec notre  API et Claude est probablement assez performant.   Donc si vous dites voici ce que j'ai fait dans  Cowork et voici une compétence pour appeler l'API,  
+1:07:081 heure, 7 minutes et 8 secondesfaire la traduction, je me sens assez  confiant. le modèle le fera pour vous.  
+1:07:141 heure, 7 minutes et 14 secondesMa question concerne l'entreprise. Il y a beaucoup  d'entreprises qui aimeraient exécuter ces choses   en interne parce qu'elles ont des ensembles  de données sensibles qu'elles ne voudront  
+1:07:231 heure, 7 minutes et 23 secondespas sortir. De plus, ils peuvent avoir déjà  mis en place leur propre proxy sécurisé pour   les modèles Anthropic. Et mon autre question  porte sur la capacité de calcul. Donc au sein  
+1:07:331 heure, 7 minutes et 33 secondesde l'entreprise maintenant vous pouvez réellement  allouer le calcul pour l'échelle à notre manière,   n'est-ce pas ? Donc une solution  directement sur place. Est-ce que  
+1:07:401 heure, 7 minutes et 40 secondesvous avez tous déjà bien réfléchi à cette  possibilité ? Plusieurs de nos clients   entreprises nous l'ont effectivement demandé  et nous réfléchissons sérieusement à cela pour  
+1:07:491 heure, 7 minutes et 49 secondesle moment. Mais nous n'avons pas déjà quelque  chose que nous pouvons partager avec vous mais   nous l'envisageons sérieusement. Excusez-moi.  Pourriez-vous montrer la dernière diapositive  
+1:07:591 heure, 7 minutes et 59 secondesqui montre le code QR de l'atelier ? Oh ouais  ! Vous recherchez le dépôt ou les crédits ?  
+1:08:251 heure, 8 minutes et 25 secondesNous avons une question ici. Hey,  comment gérez-vous la CI/CD de  
+1:08:371 heure, 8 minutes et 37 secondesla configuration des agents ? C'est une  excellente question. Donc nous avons un   CLI qui est un outil en ligne de commande  qui enveloppe essentiellement notre API pour  
+1:08:471 heure, 8 minutes et 47 secondeseffectuer des appels et vous permet de faire  des choses comme Terraform lorsque vous passez  
+1:08:531 heure, 8 minutes et 53 secondesdu YAML. Vous pouvez donc mettre vos ressources à  long terme. Vous devez le définir dans un fichier  
+1:08:581 heure, 8 minutes et 58 secondesYAML au sein de votre base de code puis mettre en  place un pipeline CI/CD qui utilise notre CLI pour   mettre à jour en appliquant ces fichiers à chaque  fois que vous effectuez une modification sur votre  
+1:09:071 heure, 9 minutes et 7 secondesressource ou votre configuration. Est-ce que c'est  clair ? Alors, je suppose que vous utilisez la  
+1:09:131 heure, 9 minutes et 13 secondesmême chose en interne aussi. Ouais, c'est comme ça  si nous devons construire des ressources durables  
+1:09:181 heure, 9 minutes et 18 secondeset à long terme, nous pouvons les vérifier.  Donc, je pense que vous avez mentionné que vous  
+1:09:251 heure, 9 minutes et 25 secondespouvez envoyer des messages quand vous voulez.  Pouvez-vous toujours envoyer des messages si le   modèle attend un résultat de l'outil personnalisé  ? Pas quand on attend un résultat d'outil  
+1:09:341 heure, 9 minutes et 34 secondespersonnalisé. Nous mettons essentiellement  en pause l'exécution à ce moment-là.   Mais si le modèle fait d'autres travaux,  alors nous vous permettons de mettre des  
+1:09:421 heure, 9 minutes et 42 secondesmessages en file d'attente. Mais lorsqu'il  s'agit d'un résultat d'outil personnalisé,   nous nous attendons à ce que vous l'envoyez. Donc  à cause de la commande, nous bloquons les appels.  
+1:09:521 heure, 9 minutes et 52 secondesMais que se passe-t-il si vous envoyez le message  ? Vous obtiendrez un 400. D'accord. C'est logique.  
+1:09:591 heure, 9 minutes et 59 secondesIl y a eu une demande de voir la diapositive  du code QR une fois de plus. Les crédits ? Oui.  
+1:10:111 heure, 10 minutes et 11 secondesAvez-vous d'autres questions ?  Si vous êtes timide, nous Ouais,   nous allons passer du temps après pour toutes  les questions que vous n'osez pas poser.  
+1:10:241 heure, 10 minutes et 24 secondesJe regarde le dépôt. Il y a beaucoup d'ateliers  intéressants. Y a-t-il quelque chose qui manque   là-bas comme des diapositives qui nous  aideraient à parcourir d'autres sessions  
+1:10:321 heure, 10 minutes et 32 secondesque vous pouvez publier ou est plutôt évident à  travers les fichiers README parce que vous aviez  
+1:10:381 heure, 10 minutes et 38 secondesune compétence qui faisait l'atelier ? Ouais.  Ouais. Les autres ateliers proviennent de notre   conférence Code with Claude dont la plupart sont  disponibles en ligne. Pour la version que nous  
+1:10:481 heure, 10 minutes et 48 secondesavons faite à Londres il y a environ un mois.  Toutes ces conférences sont sur YouTube si vous   êtes intéressé par les autres dépôts qui y sont,  mais celle-ci devrait vous donner un assez bon  
+1:10:571 heure, 10 minutes et 57 secondesaperçu et c'est assez similaire à ce que nous  avons fait lors d'autres conférences. Ouais.  
+1:11:041 heure, 11 minutes et 4 secondesDonc en revenant à Evals, pouvez-vous parler un  peu de la façon dont vous maintenez la qualité,   les meilleures pratiques autour des évaluations  du harness ? Oui, nous exécutons beaucoup  
+1:11:131 heure, 11 minutes et 13 secondesd'évaluations surtout à mesure que de nouveaux  modèles apparaissent, à mesure que de nouvelles   capacités apparaissent. Nous avons accès  au modèle avant vous tous évidemment.  
+1:11:221 heure, 11 minutes et 22 secondesAinsi, l'une des choses que nous, en tant qu'offre  géré, voulons nous assurer de faire et de mettre   à jour nos hypothèses sur le harness le plus tôt  possible afin de pouvoir éliminer les choses qui  
+1:11:321 heure, 11 minutes et 32 secondesne sont plus nécessaires. Et nous faisons tout  cela avec des outils internes d'évaluation, des   outils internes qui ressemblent essentiellement à  différents ensembles de données que nous pouvons  
+1:11:411 heure, 11 minutes et 41 secondesensuite exécuter nos différentes sessions.  Parce que tout se trouve dans le cloud,   il est facile de dire faire tourner 10000  sessions pour le faire tout en parallèle.  
+1:11:501 heure, 11 minutes et 50 secondesEnsuite, nous évaluons ses résultats et  ajustons les invites et les hypothèses.   Supprimons des choses, ajoutons des choses pour  nous assurer que pour chaque sortie de modèle,  
+1:11:581 heure, 11 minutes et 58 secondesnous faisons de notre mieux et nous évaluons  toutes sortes de choses sur des tâches générales,   pas seulement de codage. Alors, comment cela  s'étend-t-il aux agents que nous construirons ? Y  
+1:12:091 heure, 12 minutes et 9 secondesa-t-il un chemin recommandé pour les évaluations  ou est-ce une sorte d'apporter votre propre   solution ? Je pense que le meilleur conseil que  nous pouvons vous donner est d'obtenir des données  
+1:12:181 heure, 12 minutes et 18 secondesde haute qualité à évaluer. Je pense que Claude  Code est plutôt bon pour créer un éval pour vous,   mais les ordures entrent, les ordures sortent.  Nous avons vu que certaines de nos idées initiales  
+1:12:281 heure, 12 minutes et 28 secondessur la façon d'évaluer les choses étaient un peu  mal définies. Vous obtenez 100 % mais qu'est-ce   que cela signifie en termes de performance ? donc  itérer sur vos données et vous assurer que vous  
+1:12:381 heure, 12 minutes et 38 secondesconfigurez correctement le problème. Je sais que  ce n'est pas une solution prête à l'emploi mais en   général les conseils que nous avons vu fonctionner  et vous pouvez probablement regarder vos séances  
+1:12:471 heure, 12 minutes et 47 secondeshistoriques et les résultats que vous avez obtenus  puis essayer de les noter et de voir comment le   modèle se comporte. Ce serait une bonne façon de  construire votre ensemble de données en regardant  
+1:12:561 heure, 12 minutes et 56 secondesvos sessions historiques. Merci pour le partage.  J'ai une question sur la façon de partager ces  
+1:13:051 heure, 13 minutes et 5 secondesagents et toutes les ressources à travers toute  l'organisation. La raison pour laquelle je vous   demande c'est parce que nous utilisons beaucoup  Claude Desktop. Nous développons des compétences  
+1:13:141 heure, 13 minutes et 14 secondespartagées. Nous construisons des connecteurs  partagés. Mais pour tout ce que vous partagez   aujourd'hui, par exemple les agents, le magasin de  mémoire ou le canal MCP, pouvons-nous réellement  
+1:13:231 heure, 13 minutes et 23 secondesles partager ou pouvons-nous les partager  partiellement à travers l'organisation avec   différents départements ? Qu'est-ce que la  frontière ? Quel est le privilège de ces  
+1:13:311 heure, 13 minutes et 31 secondesressources ? Ces ressources sont-elles liées à mon  compte ou comment puis-je contrôler cela ? Alors,   quelle est la façon de le faire ? Ils sont  liés à votre espace de travail. Donc n'importe  
+1:13:411 heure, 13 minutes et 41 secondesquelle clé API dans votre espace de travail  peut avoir accès aux ressources qui Alors,  
+1:13:451 heure, 13 minutes et 45 secondesmes coéquipiers peuvent-ils modifier ce que je  construis ? Complètement contrôlé, non ? Donc je  
+1:13:521 heure, 13 minutes et 52 secondespense que votre administrateur de la plateforme  Claude, donc vous aurez une organisation pour   votre organisation et ensuite votre administrateur  sera celui qui configure les espaces de travail  
+1:14:011 heure, 14 minutes et 1 secondeet décide qui a accès à quel espace de travail.  Donc je pense que vous pourriez essentiellement   concevoir vos espaces de travail en fonction de  votre contrôle d'accès. Vous voudriez probablement  
+1:14:091 heure, 14 minutes et 9 secondesfaire comme quel que soit le groupe de personnes  que vous souhaitez accéder aux ressources X,   mettez-les dans un seul groupe. Vous pouvez donc  partager ce que vous voulez, même partiellement.  
+1:14:191 heure, 14 minutes et 19 secondesSi vous êtes l'agent, ils peuvent faire quelque  chose, mais je ne veux partager qu'une partie de   cela. Par exemple, je partage la mémoire avec  quelqu'un qui a partagé le canal MCP avec les  
+1:14:271 heure, 14 minutes et 27 secondesautres. Est-ce que est-ce possible ou dois-je  partager toute la pile technologique de ce que   je construis ? Nous n'avons pas de contrôle fin à  partager. Ce n'est pas le cas, mais vous en tant  
+1:14:361 heure, 14 minutes et 36 secondesque constructeur et intégrateur, êtes capable de  contrôler cela de manière assez granulaire afin   que vos utilisateurs finaux peuvent avoir accès  au partage partiel. Cool. Merci beaucoup. Je vous  
+1:14:471 heure, 14 minutes et 47 secondesremercie. Ouais. Ouais. Donc en gros, nous pouvons  générer beaucoup de codes avec beaucoup d'agents  
+1:14:541 heure, 14 minutes et 54 secondeset puis nous arrivons au goulot d'étranglement de  revoir ce code en nous assurant que vous pouvez   réellement le fusionner. Comment pensez-vous à ce  sujet en termes de déploiement ? Comme je le vois,  
+1:15:051 heure, 15 minutes et 5 secondesvous déployez toutes les 30 jours, ce qui  pourrait être une définition différente de   déploiement. Est-ce que vous déployez quelque  chose que vous pouvez réellement tester pour  
+1:15:131 heure, 15 minutes et 13 secondesvous assurer qu'il fonctionne bien ou comment  examinez-vous autant de lignes de code de tous   les agents ? Donc l'atelier initial que nous  voulons faire était en fait de répondre à  
+1:15:221 heure, 15 minutes et 22 secondescette question : comment créer des agents pour  examiner le code ? Ce que nous avons trouvé,   c'est que vous pouvez construire une intégration  avec CMA afin qu'à l'ouverture d'une pull request,  
+1:15:311 heure, 15 minutes et 31 secondescela démarre une ou plusieurs sessions avec  de nombreux sous-agents pour évaluer ce qui a  
+1:15:371 heure, 15 minutes et 37 secondeschangé et trouver des bugs. En interne, nous  avons ce genre d'agents qui font une grande   partie de l'amélioration pour nous et nous avons  vu que cela nous permet de réduire la quantité de  
+1:15:471 heure, 15 minutes et 47 secondestemps que nous devons consacrer sur une base de  PR, de réduire le nombre de bugs et de maintenir   la qualité élevée. Mais c'est en partie une  question ouverte maintenant que nous avons  
+1:15:581 heure, 15 minutes et 58 secondessupprimé la limite de la frappe et a explosé le  nombre de PR que nous pouvons produire par jour,  
+1:16:041 heure, 16 minutes et 4 secondesheure, seconde. Comment suivre ? Et nous sommes  encore en train d'explorer cela. Mais la CMA   fait partie de la réponse, je pense. Oui. Et  vous pouvez itérer en boucle pour examiner,  
+1:16:141 heure, 16 minutes et 14 secondesajouter des commentaires, examiner jusqu'à ce  que ce soit terminé. Mais à un moment donné,   vous devez encore exécuter la chose pour vous  assurer qu'elle fonctionne bien localement.  
+1:16:211 heure, 16 minutes et 21 secondesDonc je pense que c'est là que les déploiements  peuvent être entrer ou vous pouvez déployer   automatiquement quelque chose que vous pouvez  tester avec un agent de déploiement personnalisé  
+1:16:291 heure, 16 minutes et 29 secondescomme vous l'avez dit. Cela dépend simplement  si vous avez des environnements différents   pour chaque branche. Vous pouvez également  exécuter votre application dans la boîte  
+1:16:381 heure, 16 minutes et 38 secondesà sable et demander à Claude d'autovalider les  modifications qu'elle a apportées et de s'assurer  
+1:16:431 heure, 16 minutes et 43 secondesqu'elle agit également comme un agent d'assurance  qualité. sont des sessions de longue durée dans  
+1:16:491 heure, 16 minutes et 49 secondeslesquelles vous pouvez entrer et jouer réellement  sur l'interface utilisateur. Nous n'avons pas de  
+1:16:551 heure, 16 minutes et 55 secondestunnel aujourd'hui. Donc vous demanderez à Claude  d'entrer là-bas, de jouer avec le navigateur,   c'est vrai. Puis de la valider puis peut-être  même de vous rendre une vidéo peut-être. Oui,  
+1:17:051 heure, 17 minutes et 5 secondesexactement. Cool. Merci. Bonjour. pour  une entreprise d'entreprise si du tout  
+1:17:131 heure, 17 minutes et 13 secondesnous voulons maintenir un véritable isolement  des locataires que nous voulons soutenir. J'ai   entendu dire que vous ne prenez pas encore en  charge les cas d'utilisation de l'entreprise.  
+1:17:241 heure, 17 minutes et 24 secondesVous ne prenez probablement pas encore en  charge l'hébergement sur site, on-premise.   Mais que se passe-t-il si je veux avoir disons  que j'ai 100 clients que nous prenons en charge  
+1:17:321 heure, 17 minutes et 32 secondesen tant qu'entreprise. Puis-je avoir des  instances de Claude Managed Agents séparées   ou notre entreprise que nous voulons prendre  en charge ? Est-ce qu'une option viable que  
+1:17:421 heure, 17 minutes et 42 secondesvous soutenez ? Est-ce qu'une seule instance que  nous obtenons ou pouvons-nous obtenir une instance   par entreprise que nous soutenons ? C'est c'est  comme vous choisissez de le définir. Vous pouvez  
+1:17:511 heure, 17 minutes et 51 secondesdéfinir un agent par client et de cette façon les  données seront séparées. Vous pouvez utiliser un   espace de travail par client si vous souhaitez  une véritable isolation. Vous pourriez créer une  
+1:18:011 heure, 18 minutes et 1 secondeorganisation par client. Donc cela dépend de la  façon dont vous souhaitez configurer vos agents  
+1:18:061 heure, 18 minutes et 6 secondeset vous voudriez probablement maintenir cette  cartographie de quel client map à quel agent.  
+1:18:151 heure, 18 minutes et 15 secondesJe crois que j'ai une question de suivi. Donc dans  le scénario où nous avons deux clients distincts  
+1:18:201 heure, 18 minutes et 20 secondeset où nous voulons construire l'agent une seule  fois afin qu'il puisse être partagé, utilisé et  
+1:18:251 heure, 18 minutes et 25 secondesréutilisé par ces deux clients différents. Il y  a de nombreuses façons de le faire. Vous pouvez  
+1:18:331 heure, 18 minutes et 33 secondesle faire grâce à l'automatisation. Ainsi, vous  pourriez avoir votre définition d'agent en YAML   dans votre code puis créer des outils pour la  mettre à jour dans vos deux espaces de travail et  
+1:18:431 heure, 18 minutes et 43 secondesles synchroniser essentiellement ou tout modéliser  dans une seule organisation et ensuite faire la  
+1:18:481 heure, 18 minutes et 48 secondesmodélisation de cette façon. Vous pouvez créer  un seul agent pour tous vos clients puis gérer  
+1:18:541 heure, 18 minutes et 54 secondesle mappage de quel client utilise quelle session.  Ouais. Alors, dans quel espace de travail je crée  
+1:19:011 heure, 19 minutes et 1 secondecet agent ? Oui, si vous le faites par espace de  travail, alors vous avez besoin. Nous vous offrons  
+1:19:081 heure, 19 minutes et 8 secondesdes outils pour synchroniser une seule définition  dans votre code à plusieurs endroits afin que   chaque fois que vous la mettez à jour dans votre  code via la CI, vous puissiez mettre à jour toutes  
+1:19:151 heure, 19 minutes et 15 secondesles définitions en même temps. Ainsi, vous  pouvez soit faire une copie de votre agent qui   est essentiellement un modèle d'invite système,  nom du modèle et outils et vous pouvez faire une  
+1:19:241 heure, 19 minutes et 24 secondescopie dans chaque espace de travail. Disons que  vous allez vers le bas d'un espace de travail par   client où vous pouvez simplement mettre tous  vos clients dans un seul espace de travail.  
+1:19:331 heure, 19 minutes et 33 secondeset ensuite vous maintenez le mappage. Donc soit  vous avez encore une fois des copies similaires   de votre agent où vous utilisez un seul agent  et avez ensuite le mappage de quelle session  
+1:19:421 heure, 19 minutes et 42 secondesmap à quel client. Nous avons comme un champ  de métadonnées sur la session où vous pouvez   insérer comme disons un ID client afin que vous  sachiez quelle session correspond à quel client.  
+1:19:521 heure, 19 minutes et 52 secondesD'accord. Mais comme en mettant toutes les  données des clients dans un espace de travail,  
+1:19:571 heure, 19 minutes et 57 secondescomment satisfaire la ségrégation des données  ? Oui, si vous vous intéressez à la ségrégation  
+1:20:031 heure, 20 minutes et 3 secondesdes données, alors vous devez les mettre dans des  espaces de travail individuels et les ressources   sont allouées par espace de travail, mais il  existe essentiellement des outils pour vous  
+1:20:121 heure, 20 minutes et 12 secondespermettre de faire chacune de ces choses. Et  quand vous dites la ségrégation des données,   est-ce comme une exigence légale ou est-ce  que quelque chose que vous voulez juste ? Oui,  
+1:20:201 heure, 20 minutes et 20 secondesquelque chose de légal. Comme le client ne veut  pas partager des données avec d'autres clients,   il veut une isolation dédiée. Oui,  tu le ferais par espace de travail.  
+1:20:301 heure, 20 minutes et 30 secondesJe vous en remercie. J'ai vu une question ici.  Vous devez parler où ? Dans certains cas, j'ai  
+1:20:391 heure, 20 minutes et 39 secondespeut-être besoin d'avoir une mémoire plus élevée  pour que mon agent fasse le travail ou j'ai besoin   de vous pour que mon agent fasse réellement.  Est-ce que cela est soutenu ? Aujourd'hui,  
+1:20:481 heure, 20 minutes et 48 secondessi vous souhaitez effectuer des allocations de  ressources personnalisées pour votre sandbox,   vous utiliserez des sandbox autohébergés.  Vous utiliserez quelque chose comme Modal  
+1:20:561 heure, 20 minutes et 56 secondesqui a des offres de GPU et nous avons des livres  de cuisine et une intégration de première partie   afin que vous puissiez connecter vos instances  Modal pour exécuter votre boucle d'agent à  
+1:21:061 heure, 21 minutes et 6 secondesl'intérieur de Modal au lieu de nos boîtes à sable  fournies qui aujourd'hui sont toutes les mêmes.   Donc si vous vous intéressez à une échelle  différente, vous utiliserez un fournisseur  
+1:21:141 heure, 21 minutes et 14 secondesdifférent pour cela. Et avez-vous une liste de  spécifications de ce qu'est l'environnement ? Oui,   vous pouvez le trouver dans nos documents et  vous pouvez trouver des livres de cuisine à  
+1:21:221 heure, 21 minutes et 22 secondesintégrer avec des fournisseurs tiers aussi bien  dans nos documents. Nous avons un tas de livres   de cuisine sur la façon de travailler avec Modal,  E2B ou Daytona, quel que soit le fournisseur que  
+1:21:311 heure, 21 minutes et 31 secondesvous souhaitez utiliser pour les boîtes à  sable. Merci encore. Alors, par curiosité,  
+1:21:371 heure, 21 minutes et 37 secondescomment construire une version similaire de cloud  tag en utilisant CMA dans un autre canal de chat,  
+1:21:431 heure, 21 minutes et 43 secondessurtout pour le multijoueur ? C'est certainement  quelque chose que vous pourriez faire aujourd'hui  
+1:21:491 heure, 21 minutes et 49 secondesou vous le mapperiez à une session au niveau de  chaque fil. Et puis chaque fois qu'un utilisateur  
+1:21:541 heure, 21 minutes et 54 secondesenvoie un message à cette session, vous l'injectez  comme un événement user.message pour indiquer à   l'agent que cela vient de Gabe ou cela vient de  Priyanka. Ainsi, tout le monde peut envoyer un  
+1:22:041 heure, 22 minutes et 4 secondesmessage indépendant à cet agent. Vous pouvez le  faire partager la mémoire entre les sessions afin   qu'ils apprennent les uns des autres. Vous  pouvez lui donner des outils pour répondre.  
+1:22:131 heure, 22 minutes et 13 secondesutiliser l'outil slack post ou quelque chose  comme ça afin que l'agent puisse décider quand il   souhaite poster. Vous ne voulez pas nécessairement  simplement refléter ce que l'agent répond. Vous  
+1:22:221 heure, 22 minutes et 22 secondesvoulez que ce soit explicite mais vous pourriez  certainement modéliser cela en utilisant CMA.   Et si vous voulez être une balise cloud, vous  feriez probablement un agent par Canal Slack  
+1:22:311 heure, 22 minutes et 31 secondeset chaque agent a alors sa mémoire séparée et n'a  accès qu'aux messages à l'intérieur de celle-ci.  
+1:22:371 heure, 22 minutes et 37 secondesMerci pour la présentation très utile. Petite  question supplémentaire pour ce qui concerne   les boucles longues et les exécutions prolongées  dans cette console Claude. Comment envisagez-vous  
+1:22:461 heure, 22 minutes et 46 secondesleur gestion et leur supervision à long terme  ? Est-ce que vous disposez déjà d'un module   spécifique que je n'aurais pas encore repéré  ou bien est-ce que vous prévoyez de développer  
+1:22:551 heure, 22 minutes et 55 secondesdes fonctionnalités supplémentaires dans  ce domaine à l'avenir ? Je vous remercie.   Vous voulez dire comment nous fournissons  l'observabilité pour des séances vraiment  
+1:23:041 heure, 23 minutes et 4 secondeslongues ou non non non plus concentré sur  l'utilisation de cette plateforme pour créer  
+1:23:091 heure, 23 minutes et 9 secondesses agents à long terme comme des heures et des  heures comme les 6 dernières heures par exemple.  
+1:23:151 heure, 23 minutes et 15 secondesEst-ce quelque chose qui est déjà intégré dans  ce que vous avez construit dans les agents ou   je suis plus curieux de savoir si vous développez  quelque chose spécifiquement pour cela ou comment  
+1:23:241 heure, 23 minutes et 24 secondesvous voyez cette tendance ? Le système de  résultats que j'ai démontré est la meilleure   façon de faire des séances vraiment longues  parce que vous définissez un critère de sortie  
+1:23:331 heure, 23 minutes et 33 secondeset Claude continuera jusqu'à ce qu'il réponde à  ces critères et cela pourrait être une tâche très   longue comme reconstruire blanc et il se répétera  impitoyablement jusqu'à ce qu'il corresponde à la  
+1:23:431 heure, 23 minutes et 43 secondesgrille d'évaluation. Il n'y a rien de spécial que  vous devriez faire pour que la séance dure plus de  
+1:23:491 heure, 23 minutes et 49 secondes6 heures : elle devrait simplement continuer. Un  suivi rapide. Donc si j'exécute l'agent pendant   des heures et des heures et que je veux comprendre  l'état des points de contrôle, la meilleure façon  
+1:23:581 heure, 23 minutes et 58 secondesde le faire serait via l'onglet de session.  Il s'agirait du flux d'événement de session.  
+1:24:041 heure, 24 minutes et 4 secondesIl y a une API d'événements sous cela. D'accord.  Vous pourriez avoir un outil personnalisé appelé   update status for human ou quelque chose comme  ça. Et Claude à intervalle chaque fois qu'il  
+1:24:131 heure, 24 minutes et 13 secondesa l'impression que des progrès ont été faits  appel cet outil et vous donne une mise à jour   de statut. Je vous remercie. Merci beaucoup.  D'autres dernières questions ? Suite à cette  
+1:24:231 heure, 24 minutes et 23 secondesquestion précédente sur l'utilisation de ceci pour  la balise cloud ou des fonctionnalités similaires,  
+1:24:291 heure, 24 minutes et 29 secondesj'ai analysé tout un tas de crients. Donc euh si  vous recevez un message pendant que l'agent attend  
+1:24:371 heure, 24 minutes et 37 secondesd'outils personnalisé, par exemple un humain  dans la boucle, vous avez dit qu'il serait 400.   Avez-vous des suggestions sur la façon dont vous  pourriez gérer cela ? Pouvez-vous faire des outils  
+1:24:461 heure, 24 minutes et 46 secondespersonnalisés sur un sous-agent ? Vous pourriez  faire des outils personnalisés sur cela ? Vous   pourriez essentiellement avoir un sous-agent qui  gère votre outil personnalisé et de cette façon,  
+1:24:551 heure, 24 minutes et 55 secondesvotre agent coordinateur principal est toujours  libre pour recevoir. Dans l'API, pouvez-vous   retourner directement un résultat d'outil  personnalisé pour l'outil du sous-agent ? Et  
+1:25:041 heure, 25 minutes et 4 secondesbien, le sous-agent émettrait l'utilisation de  l'outil personnalisé puis vous le rempliriez.   Essentiellement, vous définissez votre agent  coordinateur principal puis vous pouvez dire  
+1:25:121 heure, 25 minutes et 12 secondesque l'agent A peut parler aux agents B et C. Puis  l'agent B est celui qui disons traite vos outils   personnalisés. Et votre définition de l'agent B  est là où vous définirez votre outil personnalisé.  
+1:25:221 heure, 25 minutes et 22 secondesPuis c'est le fil de session que vous écouteriez  pour obtenir l'appel d'outil. Est-ce un fil de   session différent ou le même ? Non, cela fait  partie de la même session de base. C'est un thread  
+1:25:311 heure, 25 minutes et 31 secondesdifférent techniquement, mais vous n'interagissez  qu'avec le thread principal et nous le déléguons   correctement car nous savons où il doit aller  en fonction de l'ID. D'accord. Ensuite, l'agent  
+1:25:411 heure, 25 minutes et 41 secondesprincipal le transmettra au sous-agent. Donc la  session reste-t-elle inactive même si l'autre fil  
+1:25:481 heure, 25 minutes et 48 secondestravaille ? Non, elle n'est pas inactive. Mais  si l'agent coordinateur principal est inactif,   les sous-agents peuvent continuer à travailler.  Ouais, vous pouvez le voir ici. C'est vraiment  
+1:25:571 heure, 25 minutes et 57 secondesimpressionnant cet écart ici la session principale  est inactive. Le fil principal est inactif pendant  
+1:26:021 heure, 26 minutes et 2 secondesque les sous-agents travaillent et il pourrait  en attendre les résultats des outils. Ouais. Donc   si vous essayez de faire quelque chose où vous  voulez que l'agent principal soit toujours bavard,  
+1:26:121 heure, 26 minutes et 12 secondesalors je pense que le modèle de coordinateur  fonctionne plutôt bien pour cela. C'est   génial. Je pense que nous sommes à court de  temps mais nous serons juste dehors si vous  
+1:26:191 heure, 26 minutes et 19 secondesvoulez venir nous parler. Merci de nous avoir  accueillis. Très bien. Merci beaucoup. Ah. Yeah.
+
+Tout
+
+Source : Parlons IA
+
+Intelligence artificielle
+
+Présentations
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+26:11
+Nouveauté
+J'ai testé ChatGPT pour mon business : Voici le résultat !!
+Parlons IA
+4,8 k
+il y a 1 j
+
+
+28:13
+Nouveauté
+Les agents IA, ça sert vraiment à quelque chose ?
+Shubham SHARMA
+84 k
+il y a 3 j
+
+
+5:44
+Nouveauté
+Forges de Tarbes, Fonderie de Bretagne : quand le sauvetage industriel tourne au fiasco
+Sud Radio
+17
+il y a 17 min
+
+
+20:05
+Nouveauté
+Motion design pro avec Claude Opus 5.5 : le cas de ma startup
+Parfait Toke
+2,9 k
+il y a 1 j
+
+
+3:10:05
+Nouveauté
+Tutoriel Claude de débutant à pro : la formation complète / Octobre 2026
+Anis Guigua | Créativité. Publicité. IA
+2,9 k
+il y a 6 j
+
+
+22 leçons
+Tout lire
+Certifications AZ-104 & AZ-305
+PHILIT
+Cours
+Afficher le cours complet
+
+
+1:17:00
+Oussama Ammar : l'intelligence artificielle et la Crypto vont nous rendre très riche ?
+Entreprendre Autrement
+et Amadou Seck Officiel
+45 k
+il y a 8 m.
+
+
+1:11:52
+Nouveauté
+« C’est le candidat de la guerre » : Juan Branco sans filtre sur l'avenir de la France - Politocs
+Tocsin+
+et 2 autre(s)
+56 k
+il y a 1 j
+
+
+26:41
+Nouveauté
+Personne n'est prêt pour le monde qu’Elon Musk a montré hier soir
+IA et Stratégie
+47 k
+il y a 1 j
+
+
+18:49
+Nouveauté
+Claude apprend en vous regardant : formez le en 2 minutes !
+Renaud Dékode
+9,3 k
+il y a 16 h
+
+
+12:07
+Il s'entraine et suit une diète pendant un an et obtient ZERO RESULTATS : Le cas Asterion.
+Naj B Fit
+1,5 M
+il y a 2 a
+
+1:29:59
+Oussama Ammar : La vérité sur The Family (condamnation, détournement de fonds...)
+Le Revenu
+et 2 autre(s)
+97 k
+il y a 7 m.
+
+20:47
+Nouveauté
+L’arnaque des PC Gamer Conforama
+FrenchHardware
+139 k
+il y a 14 h
+
+10:49
+Nouveauté
+Vous avez 5 ans pour devenir riche avant que l’IA ne prenne le dessus
+Mark Tilbury
+341 k
+il y a 20 h
+Doublée
+
+23:21
+Nouveauté
+Je teste les fast-food de RAMENS au Japon avec un chef ramen
+Louis
+219 k
+il y a 20 h
+
+24:51
+Nouveauté
+Nvidia RTX Spark : l’IA gratuite tourne SANS abonnement
+Frandroid
+65 k
+il y a 1 j
+
+2:24:15
+Live with Ouss | Blabla & Bonne Humeur
+Oussama Ammar
+17 k
+Diffusé il y a 3 m.
+
+28:36
+Nouveauté
+Le scandale Zetchi : 2 ans de prison, zéro preuve d'enrichissement et un procès arbitraire 
+Abdou Semmar
+17 k
+il y a 21 h
+
+15:50
+21 Ans, Vegan Et Naturel : Le Cas Svein Falzon
+Naj B Fit
+1,5 M
+il y a 1 a
+
+How Eminem Blessed Akon with Smack That
+24 M de vues
+
+LE DÉMON DU FUTUR… 👀😳 #anime
+7,4 M de vues
+
+These Cincinnati Dudes are Different! #cincinnati #fitness #fyp #viral #shorts @thefitnessgladiator
+8,7 M de vues
+
+Eminem Turned Down 300 Million for his Daughter Hailie
+30 M de vues
+
+Lat Pulldown Grips Explained: Which Grip Builds Your Back?
+2,3 M de vues
+
+LA REACTION😍
+3,8 M de vues
+
+
+1:00:14
+Convertir son audience en clients par Oussama Ammar
+Amandine Serani I Business & Dolce Vita
+10 k
+il y a 6 m.
+
+    

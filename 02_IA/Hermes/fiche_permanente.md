@@ -5,7 +5,7 @@
 - Nom : Hermes
 - Type : Agent IA / couche agentique a evaluer
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-07-08
+- Derniere mise a jour : 2026-10-18
 
 ## 2. Role principal
 
@@ -26,6 +26,7 @@ Architecture consolidee a confirmer par documentation officielle ou experimentat
 - LM Studio peut etre teste comme provider local potentiel pour Hermes via un endpoint HTTP et une cle API, avec verification stricte de l'acces reseau, de CORS, des logs, de la confidentialite et de la charge memoire.
 - Hermes WebUI peut etre teste avec un provider alternatif comme Ollama via une configuration controlee ; les modeles, limites, couts, donnees envoyees et conditions d'usage doivent etre verifies avant integration operationnelle.
 - Les workflows avances peuvent impliquer orchestrateur, agents specialises, agents de controle et agents paralleles ; cette architecture reste a valider experimentalement.
+- La commande `/goal` conserve un objectif dans la session et relance le travail selon le verdict d'un juge auxiliaire (`done`, `blocked`, `continue` ou `wait`). Elle dispose d'une limite de tours, d'une pause et d'une reprise ; elle ne garantit pas l'atteinte de l'objectif.
 - L'exposition reseau et les canaux de controle doivent etre limites et audites, notamment pour VPS, Tailscale, Telegram, Open WebUI, dashboard, tokens et ports.
 
 ## 4. Forces
@@ -57,6 +58,8 @@ Workflow minimal d'experimentation :
 4. Definir une tache simple.
 5. Tester manuellement.
 6. Ajuster prompt, frequence, format de sortie et garde-fous.
+
+Pour un essai de `/goal`, definir un resultat observable, un budget de tours et de cout, puis verifier les traces et le verdict avant de considerer la tache terminee. Un blocage doit conduire a revoir le perimetre ou a demander une intervention humaine.
 
 Workflow d'experimentation VPS securisee :
 
@@ -257,3 +260,4 @@ Points a surveiller :
 - 2026-07-06 - Mise a jour - Sections 7, 8, 12 - Source YouTube Melvynx Hermes usages quotidiens, batch AOS GO partiel
 - 2026-07-07 - Mise a jour - Sections 3, 8, 12 - Source YouTube Parlons IA Hermes LM Studio modeles Fable locaux, batch AOS GO partiel
 - 2026-07-08 - Mise a jour - Sections 8, 12 - Source YouTube Kavyro Hermes VPS Hetzner, batch AOS GO partiel
+- 2026-10-18 - Mise a jour ciblee - Sections 1, 3 et 8 - Video Dr. Firas sur `/goal`, fonctionnement recoupe par la documentation du projet.

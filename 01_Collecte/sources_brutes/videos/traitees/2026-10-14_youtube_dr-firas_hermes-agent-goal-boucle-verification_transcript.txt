@@ -1,0 +1,1134 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+Hermes Agent vous donne des super-pouvoirs : voici comment les débloquer ! 🚀
+Dr. Firas
+Dr. Firas
+40,7 k abonnés
+
+Rejoindre
+
+
+25
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+2 127 vues  14 oct. 2026  #HermesAgent #IntelligenceArtificielle #AIAgents
+🔗 Hermes (coupon : GOHERMES) : https://www.hostinger.fr/hermes2
+🔗 Documentation : https://automatisation.notion.site/He...
+🔗 Accès à mes formations (coupon : 40000) : https://dr-firas.vip
+
+🚀 Et si votre intelligence artificielle pouvait se fixer un objectif, vérifier ses résultats et continuer à travailler pour l'atteindre ? C'est exactement ce que nous allons découvrir avec Hermes Agent et sa puissante fonction /goal !
+
+Dans cette vidéo, je vous présente Hermes Agent, un agent IA open source, et je vous montre comment exploiter la commande /goal pour aller encore plus loin dans l'automatisation avec l'intelligence artificielle.
+
+🔥 Au programme : vous allez apprendre à installer Hermes Agent en seulement 2 minutes, puis découvrir comment fonctionne la boucle de vérification de /goal. Cette fonctionnalité permet à l'agent IA de suivre un objectif et de vérifier sa progression, une approche particulièrement intéressante pour créer des agents IA plus autonomes et efficaces.
+
+Que vous soyez débutant ou passionné d'intelligence artificielle, ce tutoriel en français vous permettra de mieux comprendre le potentiel des agents IA autonomes, des LLM et de l'automatisation intelligente.
+
+▬▬▬▬▬▬▬Me Contacter ▬▬▬▬▬▬▬
+📩 Vous souhaitez que je présente votre outil sur ma chaîne YouTube ? Contactez-moi :   / doctor-firass  
+
+⏱ SOMMAIRE :
+00:00 - Introduction : Découvrez la puissance de la fonction /goal de Hermes Agent
+01:46 - Installer Hermes Agent en seulement 2 minutes
+05:01 - Fonction /goal : Comment Hermes Agent vérifie et atteint vos objectifs automatiquement
+12:25 - Découvrez toutes mes formations en ligne
+
+#HermesAgent #IntelligenceArtificielle #AIAgents #AutomatisationIA #TutorielIA
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Dr. Firas
+40,7 k abonnés
+Vidéos
+À propos
+Hébergement d'agent Hermes géré | Hostinger
+Hébergement d'agent Hermes géré | Hostinger
+Hermes
+Détails de la vidéo
+Date
+14 oct. 2026
+Vues
+2 127
+J'aime
+25
+0 commentaire
+Abder Bent
+Ajoutez un commentaire…
+Dans cette vidéo
+
+
+
+Chapitres
+
+Transcription
+Rechercher dans la vidéo
+Introduction : Découvrez la puissance de la fonction /goal de Hermes Agent
+0:00
+Bonjour à tous, j'espère que vous allez
+0:01
+bien. Alors, est-ce que tu travailles
+0:03
+avec un agent d'intelligence
+0:05
+artificielle ? Si c'est pas fait encore,
+0:07
+bah écoutez, c'est le moment de tester
+0:09
+l'agent. Pourquoi ? Parce que l'agent en
+0:11
+fait, elle est capable de
+0:12
+[raclement de gorge] faire des tâches,
+0:14
+de remplir de missions. Et surtout
+0:16
+aujourd'hui, je voulais faire une vidéo
+0:18
+pour vous montrer une fonction magique
+0:21
+qui s'appelle en fait slashgal. Cette
+0:24
+fonctionlà en fait, lorsque je la donne
+0:26
+à un agent, l'agent il ne va pas
+0:29
+s'arrêter. Sauf si réussit en fait cette
+0:32
+mission là et il atteint l'objectif que
+0:34
+tu as demandé. Donc c'est incroyable. Ce
+0:38
+n'est pas comme des humains lorsque on
+0:40
+leur donne une mission. Ça peut prendre
+0:41
+des mois et des mois et parfois on on
+0:44
+est désespéré, on trouve pas de solution
+0:46
+ou bien on est fatigué ou bien on
+0:47
+démissionne l'agent. Non, lorsque tu
+0:49
+donnes un objectif, il va jamais
+0:51
+s'arrêter sauf si il atteint cet
+0:52
+objectif là. Donc j'ai tout simplement
+0:56
+lancé en fait avec vous un petit test
+0:58
+que je voulais vous le montrer, vous
+1:00
+expliquer le fonctionnement de G et vous
+1:02
+dire que voilà, c'est une fonction
+1:03
+vraiment qu'il fallait l'utiliser. Si tu
+1:05
+as des missions complexes et des
+1:08
+missions difficiles que parfois une
+1:10
+équipe ou bien des humains n'arrivent
+1:11
+pas à résoudre, l'agent peut vraiment
+1:13
+vous aider à résoudre ces problèmes là.
+1:15
+Alors n'oublie pas de prendre la
+1:17
+documentation, elle est gratuite, elle
+1:19
+est dans ma description, une
+1:20
+documentation complète sur donc
+1:22
+l'utilisation de l'agent Hermes. On va
+1:24
+commencer à installer Hermes. Je vous
+1:26
+montre la fonction et je vous donne tout
+1:28
+simplement comment la faire tourner et
+1:30
+quand est-ce qu'on aura besoin
+1:31
+d'utiliser cette fonction là. Alors
+1:33
+n'oubliez pas de vous inscrire à ma
+1:35
+chaîne, ça fait beaucoup plaisir de voir
+1:37
+des nouveaux abonnés. Ça m'aide en fait
+1:39
+à avancer et à créer encore des nouveaux
+1:41
+tutos. Merci beaucoup pour votre support
+1:43
+et c'est parti, on installe Hermes et on
+Installer Hermes Agent en seulement 2 minutes
+1:46
+teste slashgal. Allez, rapidement, on
+1:48
+installe Hermes et ce que les gens en
+1:50
+fait tout simplement, ils viennent ici
+1:51
+pour installer et cliquent voilà, soit
+1:53
+sur Windows soit sur Mac pour
+1:54
+télécharger Hermes sur la machine. Mais
+1:56
+là, attention, c'est très dangereux. Si
+1:58
+tu installes Hermes sur ta propre
+2:00
+machine, sur ton ordinateur,
+2:01
+automatiquement, il va avoir la main sur
+2:04
+tes images, tes vidéos, tes mot de
+2:05
+passe, même si tu les caches parce que
+2:07
+les gens en fait, il voient tous les
+2:08
+disques dur. Et si jamais en fait il y a
+2:10
+ce qu'on appelle prente injection, alors
+2:12
+du coup il peut partager ça avec
+2:13
+d'autres personnes et moi je fais jamais
+2:15
+ça. J'installe jamais en fait Hermes sur
+2:18
+un ordinateur et je conseille pas les
+2:19
+entreprises de le faire. Alors ce qu'on
+2:21
+fait c'est simple, on met Hermes tout
+2:23
+simplement sur un serveur privé quelque
+2:26
+part en fait sur internet. Et moi ce que
+2:28
+je fais hein, j'utilise souvent voilà
+2:29
+Hermes, je le mets en fait sur Stingle
+2:32
+parce que il me donne directement une
+2:34
+installation sécurisée de Hermes avec un
+2:36
+support. Euh si jamais en fait il y a un
+2:38
+blocage, il a un problème, je me bloque
+2:40
+et tout. J'ai tout simplement une équipe
+2:42
+qui m'aide sur ça sur le chat. Alors du
+2:45
+coup ce que je fais, je viens ici sur le
+2:47
+site de Rostingle et je vais tout
+2:50
+simplement sur cette page là là où
+2:52
+s'écrit en fait Hermes agent.
+2:53
+D'ailleurs, je vous mets le lien dans la
+2:55
+description de la vidéo. Alors, ici,
+2:56
+lorsque tu cliques ici, il va te donner
+2:58
+en fait une installation carrément de
+3:01
+Hermes. Tu cliques et tu as exactement
+3:03
+Hermes installé. Tu auras absolument
+3:05
+aucune ligne de code et surtout il n'a
+3:07
+pas d'accès à ton ordinateur. Et ici
+3:10
+donc à part que j'aurai un système prêt
+3:12
+à l'emploi, regardez là, ça c'est
+3:14
+important. En fait, il est sécurisé,
+3:17
+c'est très important. et je peux le
+3:19
+connecter en fait avec mon abonnement
+3:20
+Chat GPT hein ou cloud pour que je paye
+3:23
+pas des API. Donc il utilise ilunquement
+3:25
+en fait mon abonnement Chat GPT au
+3:27
+cloud. Alors une fois que je clique ici
+3:29
+sur commencer, vous allez voir il va me
+3:32
+donner une petite interface pour passer
+3:33
+une commande. Le prix c'est 5,49
+3:37
+€ par mois. Tu as en fait 30 jours, donc
+3:40
+ça t'ess rembourser. Mais ce qui est
+3:42
+très intéressant sur le blog officiel de
+3:44
+Hosting et on partager un coupon. Alors
+3:46
+le coupon c'est tout simplement c'est go
+3:49
+hermes comme ça. Alors si tu cliques ici
+3:51
+appliquer il va pas marcher de premier
+3:53
+coup. Pourquoi ? Parce que moi j'ai déjà
+3:55
+un serveur. Donc c'est un c'est un c'est
+3:57
+un code en fait qui a été donné pour les
+3:58
+personnes qui achètent pour la première
+4:00
+fois chez Hostingle. Donc je me
+4:02
+déconnecte et je vais utiliser une arere
+4:04
+adresse email pour pouvoir en fait tout
+4:06
+simplement donc activer et profiter en
+4:07
+fait de cette promo là. Donc du coup là
+4:09
+on tombe à 4,94
+4:12
+€ par mois. Alors, vous devez laisser
+4:15
+sélectionner Hermes, c'est très
+4:16
+important et en plus de ça, tu as pas
+4:18
+besoin en fait de prendre des DZIA parce
+4:21
+que tu peux le connecter avec ton
+4:22
+abonnement Cloud ou bien chat GPT. Donc,
+4:24
+pas besoin d'acheter des tokens. Prenez
+4:26
+cette option là qui s'appelle recherche
+4:28
+instantanée. Celle-là, en fait, elle va
+4:30
+donner un plugin gratuit parce que c'est
+4:32
+0 € qui permet en fait d'utiliser
+4:34
+Oxylabs. C'est un accélérateur qui
+4:36
+permet de chercher sur internet. C'est
+4:38
+tout ce que tu as à faire. Tu cliques
+4:39
+tout simplement ici sur continuer et tu
+4:41
+vas te trouver directement avec la
+4:42
+configuration ici de Hermes. Après, tu
+4:45
+cliques sur open pour ouvrir et
+4:47
+commencer en fait à travailler sur
+4:48
+Airmes. Allez, on comprenne là tout de
+4:50
+suite ce que c'est les sous-agents et on
+4:52
+lance un petit test ensemble pour
+4:54
+montrer comment les sous-agents
+4:55
+fonctionnent et comment il il arrive à
+4:57
+accomplir une mission complexe et me
+4:59
+donner le résultat en quelques instants.
+Fonction /goal : Comment Hermes Agent vérifie et atteint vos objectifs automatiquement
+5:02
+Alors, il y a une fonction qu'on peut la
+5:04
+lancer sur l'agent Hermes qui s'appelle
+5:07
+GO. Alors, je fais tout simplement comme
+5:09
+ça slashgal et là je mets tout
+5:12
+simplement mon prom ici j'ai mis en fait
+5:15
+quelques information je lui demande un
+5:16
+rapport qui contient moins de 500 mots.
+5:20
+Je veux qu'il y a des citations claires
+5:22
+et des sources recoupées. Donc ça c'est
+5:24
+l'objectif que je donne. Alors comment
+5:26
+il fonctionne en fait Hermes ? Lorsque
+5:29
+tu lui donnes un print avec donc la
+5:33
+fonction goal, ça veut dire que tu lui
+5:36
+dis tu t'arrête pas sauf si tu atteins
+5:39
+cet objectif là. Alors ce qu'il va faire
+5:42
+le système l'agent il va travailler et
+5:45
+il va avoir tout simplement un juge qui
+5:47
+va vérifier en fait le résultat. Donc
+5:50
+s'il vérifie le résultat et qu'il trouve
+5:52
+que tu as tout simplement l'agent, il a
+5:54
+répondu à tous les objectifs, donc il
+5:57
+passe. S'il n'a pas résolu le problème
+6:01
+ou bien il n'a pas atteint les
+6:02
+objectifs, il va faire un nouveau tour.
+6:04
+Et ce juge là, il peut aller jusqu'à 20
+6:08
+tours maximum, sinon il va rester en
+6:11
+train de tourner en à l'infini, bien
+6:13
+évidemment. Donc du coup, il fait 20
+6:15
+tours et généralement hein 20 tours,
+6:17
+c'est largement suffisant pour qu'un
+6:19
+agent peut régler et atteindre un
+6:22
+objectif même s'il est complexe. Alors
+6:25
+d'une manière générale en fait quand
+6:26
+est-ce que lui il dit que voilà on a
+6:28
+atteint un objectif ? Par exemple là ici
+6:30
+on a mis trois donc informations, trois
+6:34
+on va dire objectifs. On peut ajouter
+6:36
+aussi en fait un sous-objectif hein. Il
+6:38
+y a la possibilité entre-temps le
+6:40
+système on peut lui ajouter un
+6:41
+sous-objectif. Si le système atteint ces
+6:43
+cinq objectifs là, là il va dire que
+6:46
+voilà, il a terminé, il vous renvoie le
+6:48
+résultat. Donc c'est une fonction qui
+6:50
+est très importante, mais attention,
+6:51
+elle est dangereuse. Dans quel sens
+6:53
+dangereuse ? Parce que si parfois tu
+6:55
+donnes un système très complexe et tu
+6:57
+fais slash goal, alors là il va bien
+7:00
+évidemment consommer tous les tokens
+7:03
+possibles pour atteindre l'objectif. Ça
+7:04
+veut dire ça peut être vraiment coûteux
+7:07
+parce que il va tout simplement tester,
+7:09
+retester, vérifier. Euh ici énormément
+7:13
+en fait de solutions pour atteindre
+7:14
+l'objectif. Donc du coup, c'est normal,
+7:16
+il va faire appel à Pleco Poco de token.
+7:18
+C'est pour cela que ici en fait, si moi
+7:19
+je vais faire slash goal directement, je
+7:21
+donne un modèle qui soit pas en fait
+7:24
+voilà donc coûte par exemple là si je
+7:27
+suis ici au lieu de prendre le GPT6, je
+7:29
+peux me brancher sur cloud et je peux
+7:32
+prendre Cloud par exemple au+us 5 juste
+7:35
+celui-là donc avec un niveau par exemple
+7:38
+médium. Celui-là n'est pas coûteux mais
+7:40
+quand même il est très efficace. Et là,
+7:42
+je prends par exemple ce print là. On va
+7:44
+prendre un print pour test. Ça c'est
+7:47
+comme si il va me faire toute une
+7:48
+recherche, il va me faire un rapport sur
+7:51
+cette questionlà qui s'appelle comment
+7:53
+transformer une information qui arrive
+7:54
+en action concrète ou en connaissance
+7:57
+réutilisable ? Est-ce qu'il faut
+7:58
+utiliser un agent qui dilègue ou une
+8:00
+équipe d'agents spécialisés ? Tout
+8:01
+simplement, c'est un sujet de recherche
+8:03
+hein et que lui en fait, il doit tout
+8:05
+simplement le régler. Et ici, en fait,
+8:07
+je lui demandis, je donnais le feu vert
+8:09
+d'utiliser les sous-agents pour la
+8:10
+recherche. Et il voit que le rapport il
+8:12
+est prêt. Il va recouper donc voilà les
+8:15
+bonnes pratiques et voilà et me donner
+8:18
+en fait les informations qu'il faut. Il
+8:19
+doit vérifier que le rapport soit au
+8:22
+moins 50 donc au plus en fait 500 mots.
+8:26
+Ça veut dire pas plus que 500 mots. Et
+8:28
+chaque affirmation a une citation avec
+8:31
+un lien. Donc il ne peut pas donc
+8:33
+s'arrêter sauf s'il termine en fait cet
+8:35
+objectif là. Alors lorsque je lance en
+8:38
+fait ce print là, voilà donc regardez,
+8:40
+il me dit écoutez, il va passer à 20
+8:42
+tours. Donc là il va commencer vraiment
+8:44
+à tourner. Je lui donner le feu vert en
+8:46
+fait de créer des sausagents si je veux
+8:49
+et là en fait il va donc fonctionner.
+8:51
+Alors ce qui est très intéressant,
+8:53
+regardez là ici déjà il me propose en
+8:54
+fait des informations en fait que je
+8:57
+peux faire de temps en temps avec donc
+8:59
+goal. Ça veut dire que même lorsqu'il
+9:00
+est en train de tourner, je peux en fait
+9:02
+voilà tester pour voir déjà donc
+9:06
+est-ce que l'objectif en fait il le
+9:07
+nombre de tours utilisés, est-ce qu'il
+9:09
+est terminé ou pas ? S'il a s'il a
+9:12
+utilisé d'autres tours pour encore
+9:14
+essayer de résoudre le problème. Là il
+9:16
+peut afficher en fait le contrat de fin
+9:18
+actif. Là aussi peut mettre en pause.
+9:21
+Donc si jamais en fait voilà il a pris
+9:23
+beaucoup de temps, je peux mettre en
+9:24
+pause. Je peux tout simplement relancer
+9:26
+la boucle. Ici le compteur de tour
+9:28
+repart à zéro. C'est vraiment j'ai un
+9:30
+problème très complexe et je vois que
+9:32
+voilà au bout du 18e tour n'a pas résolu
+9:35
+le problème. Si je fais slash resume,
+9:38
+goal resume, celui-là en fait il va
+9:40
+recommencer le tour à partir de zéro.
+9:42
+Mais attention, il va pas oublier tous
+9:44
+les stories et tous les tests qu'il a
+9:45
+fait. Donc c'est comme si je vais
+9:46
+ajouter 20 tours supplémentaires. Là
+9:49
+c'est pour tout simplement arrêter on va
+9:50
+dire et supprimer définitivement
+9:52
+l'objectif parce que si je fais pas ça
+9:54
+il va pas en fait effacer en fait
+9:56
+l'historique ni le goal. Il va essayer
+9:58
+toujours de tester pour le faire. Et on
+10:00
+a le slash subgal là à tout moment en
+10:03
+fait je peux ajouter comme vous le voyez
+10:04
+là ici un sousobjectif.
+10:08
+Ça veut dire que là elle est toujours en
+10:09
+train de bosser. Regardez déjà là, il a
+10:11
+créé en fait trois sous-agents. Donc
+10:13
+chacun de ces SA agents là, il est en
+10:16
+train de bosser hein pour trouver les
+10:18
+information. Et là sur donc le système
+10:21
+donc officiel donc là ici voilà donc là
+10:23
+il est en train donc de de de
+10:25
+travailler. Ici je peux mettre un
+10:27
+sous-agent et mettre aussi en fait un
+10:30
+sousobjectif hein. Donc j'ai encore
+10:32
+envoyé des informations sur un sous
+10:34
+objectif. Donc du coup là, il va trouver
+10:36
+que déjà il va résoudre le problème
+10:38
+principal et me donner un résultat et un
+10:41
+nouveau sousobjectif qui va être aussi
+10:44
+pris en charge. Donc du coup là vraiment
+10:46
+il y a beaucoup de travail à faire. Donc
+10:47
+on va le laisser en fait tourner pour
+10:49
+qu'il arrive à résoudre donc ce
+10:51
+problème-là. Et ça c'est une fonction
+10:54
+primordiale très importante. Mais
+10:56
+attention, on l'utilise par modération
+10:58
+parce que si tu lui donnes un objectif,
+11:00
+il va pas s'arrêter sauf si il trouve la
+11:02
+solution. Et généralement, on le fait en
+11:04
+fait surtout si on a des tâches un peu
+11:06
+complexes, un peu compliquées qui
+11:07
+demandent énormément de recherche
+11:09
+surtout pour résoudre des problèmes soit
+11:11
+en mathématique ou en programmation ou
+11:13
+en développement. Parfois, je peux
+11:14
+donner un objectif de me créer une page
+11:16
+ou un jeu. Et lorsque tu fais slash
+11:18
+goal, attention, il va travailler le
+11:20
+jeu, il va le vérifier, il va peut-être
+11:22
+le refaire plusieurs fois jusqu'à
+11:25
+trouver le jeu en fait qui fonctionne et
+11:26
+qui voilà donc qui travaille voilà
+11:29
+complètement. Donc là, voilà, je vois
+11:31
+qu'il a fait en fait le premier
+11:33
+résultat. Donc il a sauvegardé ici en
+11:36
+fait des informations dans ce fichier
+11:37
+là. Donc en tout cas là, il a bossé en
+11:39
+fait pour me trouver le travail. Les
+11:41
+trois sous-agents de recherche tournent
+11:43
+encore. Donc il me dit voilà, je
+11:44
+m'arrête ici et j'assemble le rapport
+11:46
+dès que donc les résultats et voilà le
+11:49
+le 4e sausagent qui vient d'être donc
+11:51
+jeté. Ça c'est bien. Donc vu que on lui
+11:53
+a demandé en fait de refaire en fait un
+11:55
+rapport pour nous. Donc du coup, lui il
+11:57
+a créé en fait ce pr là pour qu'il soit
+12:00
+envoyé ici en 3è et là donc voilà donc
+12:04
+il me donne en fait le recadrage et le
+12:06
+résultat final. Il me dit aussi qu'il y
+12:08
+a toujours en fait un travail en
+12:09
+arrière-plan. Donc il doit assembler le
+12:11
+rapport qui soit moins de 500 mots et
+12:14
+avec donc la citation par affirmation
+12:17
+puis en fait voilà il va me retourner le
+12:18
+résultat et c'est ça en fait la force en
+12:21
+fait de Hermes lorsque je lui donne
+12:22
+cette fonction qui est très importante
+12:24
+qui s'appelle slashgal. Alors, vous êtes
+Découvrez toutes mes formations en ligne
+12:27
+restés jusqu'à la fin et pour moi, mes
+12:29
+abonnés, c'est vraiment ma communauté.
+12:32
+C'est les personnes que j'aime le plus
+12:33
+sur internet. Aujourd'hui, on est 40000
+12:36
+abonnés. Je me suis dit, allez, on va
+12:37
+faire un cadeau pour vraiment fêter les
+12:39
+40000 abonnés. C'est beaucoup pour moi.
+12:42
+Je sais que c'est un chiffre he, il y en
+12:43
+a certains qui disent 40000 c'est pas
+12:45
+une grande chaîne mais pour moi c'est
+12:47
+énorme 40000 abonnés. Et c'est pour cela
+12:50
+que je voulais vraiment faire un petit
+12:51
+cadeau pour tous ceux qui sont fidèles à
+12:54
+ma chaîne, qui me suivent depuis
+12:55
+plusieurs mois, plusieurs années. Alors
+12:58
+l'idée c'est quoi ? C'est que dans mon
+13:00
+site internet ici docteurterfas.vp,
+13:03
+je vais vous donner un coupon spécial.
+13:05
+Ce coupon là, il va vous donner en fait
+13:06
+accès à toutes mes formations en
+13:08
+automatisation, cloud, Hermes, OpenCloud
+13:11
+et tout. Celui-là, il contient 50 et
+13:13
+même il vous donne aussi accès à mes
+13:16
+packs de 100 cours, donc sur le
+13:19
+marketing, le business, l'intelligence
+13:21
+artificielle. Alors, c'est simple, vous
+13:22
+allez venir ici. Donc, vous avez deux
+13:24
+packs. C'est à vous de choisir lequel
+13:26
+qui euh voilà qui correspond plus à vos
+13:28
+besoins. Euh, sachant que celui-là, le
+13:31
+pack de 100 cours, j'ai fait une
+13:32
+dernière mise à jour que tout ce qu'il
+13:34
+arrive ici dans ce pack-là, elle est
+13:36
+automatiquement ajouté ici. Donc ça
+13:38
+c'est un cadeau euh à l'intérieur de ce
+13:41
+deuxième pack. Mais le copon, le copon,
+13:43
+vous allez venir ici, vous voyez, vous
+13:45
+cliquez ici et vous allez mettre ce
+13:47
+coupon là. Alors le coupon c'est 40000
+13:50
+parce que 40000 abonnés, vous avez tout
+13:51
+compris. Vous cliquez sur appliquer,
+13:54
+vous allez voir voilà, il va vous donner
+13:55
+une réduction de mo 95 €. C'est énorme,
+13:58
+c'est pratiquement 40 % donc de donc
+14:03
+comme réduction. C'est très rare que je
+14:06
+fais ce nombre bien ce genre de cop.
+14:09
+Mais 40000 vraiment ça se fait. Tu peux
+14:11
+aussi l'appliquer ici si tu veux. Tu
+14:13
+fais là 40000, tu fais appliquer et
+14:15
+voilà aussi ici, il va vous donner en
+14:17
+fait 40 % donc de réduction. Il y a la
+14:20
+possibilité de prendre cette option
+14:22
+parce que celle-là, on peut l'acheter
+14:23
+uniquement au moment de passage de
+14:25
+commande, on peut pas l'acheter après.
+14:26
+Plusieurs personnes m'envoient un
+14:28
+message, me dis "Dcteur, on veut avoir
+14:29
+cette option là, c'est trop tard, il
+14:31
+fallait l'acheter au départ lorsque tu
+14:33
+passes ta commande." Cette option là,
+14:35
+lorsque tu la coches, elle aussi elle a
+14:38
+donc un, on va dire une réduction parce
+14:40
+que tu as aussi encore une réduction
+14:42
+lorsque tu prennes cette option là, 40 %
+14:44
+aussi. Celle-là, elle te permet d'avoir
+14:46
+tous mes futurs cours à vie
+14:49
+gratuitement. Donc pratiquement moi,
+14:50
+chaque mois, je crée des nouvelles
+14:51
+cours. Donc je suis assez actif dans la
+14:54
+création des cours pratiques éducatif
+14:57
+qui te permet de maîtriser ce domaine
+14:59
+là. Allez, je vous dis merci beaucoup.
+15:01
+On se voit peut-être dans notre
+15:03
+interface de formation. Il y a
+15:04
+énormément de formations qui qui vous
+15:06
+attend. Merci beaucoup pour votre
+15:07
+fidélité et on se dit à très vite.
+15:09
+N'oublie pas que tu as toujours 40
+15:12
+jours. Donc ça t'espembourser parce que
+15:14
+je suis sûr que tu vas aimer la qualité
+15:16
+de mes formations longue qui existe sur
+15:18
+ma plateforme. Allez, à très vite.
+
+Tout
+
+Source : Dr. Firas
+
+Intelligence artificielle
+
+Apprentissage
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+24:36
+Nouveauté
+Gemini 4 : le plan de Google pour dominer l'IA.
+Ludo Salenne
+25 k
+il y a 1 j
+
+
+26:04
+QUI A TUÉ LES RTS?
+Bazar du Grenier
+1,5 M
+il y a 5 m.
+
+
+10:22
+Nouveauté
+Acheter ou louer : qui gagne vraiment ? Le vrai calcul
+Tableau Immo
+9
+il y a 1 h
+
+
+2:22:18
+Nouveauté
+Direct n°130- François Asselineau répond à vos questions
+Union Populaire Républicaine
+112 k
+Diffusé il y a 1 j
+
+
+21:53
+Nouveauté
+Bonnie Blue est de retour et elle est pire que jamais.
+Naj B Fit
+591 k
+il y a 15 h
+
+
+34:20
+Nouveauté
+Soral met d’accord les électeurs de LFI et du RN - Ghislain Benhessa/Alexandre Langlois
+Tocsin
+et 2 autre(s)
+60 k
+il y a 20 h
+
+
+42:55
+Nouveauté
+OpenAI de l’intérieur : ce qu’un ex-Research Scientist peut enfin raconter
+DataGen - Robin Conquet
+24 k
+il y a 3 j
+
+
+25:45
+Nouveauté
+Adieu le SaaS : l’IA transforme les logiciels fermés en clones open source
+IA et Stratégie
+20 k
+il y a 16 h
+
+
+28:13
+Nouveauté
+Les agents IA, ça sert vraiment à quelque chose ?
+Shubham SHARMA
+60 k
+il y a 1 j
+
+
+19:58
+Nouveauté
+Algérie : à court d'argent, le régime Tebboune taxe maintenant le sable du Sahara 
+Abdou Semmar
+18 k
+il y a 15 h
+
+
+23:57
+Nouveauté
+Pourquoi je n'ai pas sorti mon jeu vidéo
+Victor Ferry
+5 k
+il y a 12 h
+
+
+17:21
+Nouveauté
+C'est officiel : Tebboune invente le libéralisme sans privé, sans concurrence, sans marché
+Abdou Semmar
+29 k
+il y a 22 h
+
+23:00
+Je visite des écoles américaines (USA #2 🇺🇸)
+Tev - Ici Japon
+250 k
+il y a 2 a
+
+14:41
+MCP, Skills, Plugins… quelle est la différence ?
+Shubham SHARMA
+45 k
+il y a 11 j
+
+37:12
+DEVINE QUI EST NATTY ? #10 (Tibo l’antagoniste) feat @TiboInShape 
+CoronaGymOff
+et Tibo InShape
+543 k
+il y a 6 m.
+Doublée automatiquement
+
+22:53
+Nouveauté
+127kg sec en prise de masse version Open
+Stephane Matala
+57 k
+il y a 1 j
+
+56:54
+Nouveauté
+Augmenter les impôts réduit-il le déficit ? L'histoire répond par Charles et Emmanuelle Gave
+Charles Gave-Université de l'Epargne
+23 k
+il y a 15 h
+
+46:42
+Nouveauté
+Trump et Musk débranchent Zelensky : la réaction de Florian Philippot
+Tocsin
+et 2 autre(s)
+53 k
+il y a 19 h
+
+36:28
+Nouveauté
+Il se passe quoi avec les formations ?
+Antoine BM
+14 k
+il y a 2 j
+
+41:29
+Nouveauté
+J'ai testé Gemini 4 Argon : C'est bien plus qu'une mise à jour !
+Parlons IA
+12 k
+il y a 1 j
+
+    

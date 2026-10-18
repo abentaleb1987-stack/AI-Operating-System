@@ -5,7 +5,7 @@
 - Nom : Claude
 - Type : Famille de modeles IA a evaluer pour conversation, code et workflows agentiques
 - Statut dans la base : En veille / En test
-- Derniere mise a jour : 2026-08-19
+- Derniere mise a jour : 2026-10-18
 
 ## 2. Role principal
 
@@ -14,6 +14,8 @@ Claude est a evaluer comme moteur de raisonnement et de production dans des work
 Son usage durable dans AOS ne doit pas reposer sur une conversation libre, mais sur des objectifs, outils, contraintes, criteres de validation et formats de sortie explicites.
 
 ## 3. Architecture
+
+Claude Managed Agents distingue la definition d'agent (modele, instructions, outils et skills), l'environnement d'execution et la session de travail. En environnement cloud, chaque session dispose d'un conteneur isole ; en autohebergement, les outils s'executent sur l'infrastructure du client mais la boucle d'agent et les resultats d'outils transitent par le service. Cette separation est documentee par la plateforme Claude et doit etre prise en compte pour le cloisonnement des donnees et des permissions.
 
 Elements observes dans la video Parlons IA du 2026-06-12, a confirmer par documentation officielle ou experimentation interne :
 
@@ -179,3 +181,4 @@ Traiter toute evaluation de risque comme datee, limitee par son modele de menace
 - 2026-07-06 - Mise a jour - Sections 10, 12 - Source YouTube Tony Lotis Claude Design 2.0, batch AOS A surveiller
 - 2026-07-21 - Mise a jour - Section 8 - Source YouTube Dr. Firas Claude Cowork et Blotato, batch AOS GO partiel
 - 2026-08-19 - Mise a jour - Sections 3, 5, 8, 12 et 13 - Rapport de risque officiel Anthropic d'aout 2026, batch AOS GO partiel
+- 2026-10-18 - Mise a jour ciblee - Sections 1 et 3 - Atelier Claude Managed Agents relaie par Parlons IA, architecture recoupee par la documentation Claude Platform.
