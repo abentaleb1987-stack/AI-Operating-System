@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 04046ba
+- Commit audite : 046de01
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-10-24 04:44:08
+- Rapport genere le : 2026-10-24 12:14:16
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,8 +25,8 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `046de01` - 2026-10-24 04:44:08 +0000 - Audit - docs(aos): add daily audit report
 - `04046ba` - 2026-10-23 12:52:16 +0000 - Audit - docs(aos): add daily audit report
-- `ff769b6` - 2026-10-23 04:58:58 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -44,13 +44,13 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
+- `046de01` - 2026-10-24 04:44:08 +0000 - docs(aos): add daily audit report
 - `04046ba` - 2026-10-23 12:52:16 +0000 - docs(aos): add daily audit report
-- `ff769b6` - 2026-10-23 04:58:58 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `046de01` - 2026-10-24 04:44:08 +0000 - Audit - docs(aos): add daily audit report
 - `04046ba` - 2026-10-23 12:52:16 +0000 - Audit - docs(aos): add daily audit report
-- `ff769b6` - 2026-10-23 04:58:58 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -65,7 +65,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- A 00_System/audits/daily/2026-10-23_audit-journalier-aos.md
+- A 00_System/audits/daily/2026-10-24_audit-journalier-aos.md
 
 ## Fichiers modifies
 
