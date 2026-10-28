@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 0f85024
+- Commit audite : 2e81ff2
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-10-28 05:50:41
+- Rapport genere le : 2026-10-28 14:32:15
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,7 +25,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
-- `0f85024` - 2026-10-27 13:38:03 +0000 - Audit - docs(aos): add daily audit report
+- `2e81ff2` - 2026-10-28 05:50:41 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -43,11 +43,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `0f85024` - 2026-10-27 13:38:03 +0000 - docs(aos): add daily audit report
+- `2e81ff2` - 2026-10-28 05:50:41 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
-- `0f85024` - 2026-10-27 13:38:03 +0000 - Audit - docs(aos): add daily audit report
+- `2e81ff2` - 2026-10-28 05:50:41 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -62,11 +62,11 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
-- Aucun element detecte.
+- A 00_System/audits/daily/2026-10-28_audit-journalier-aos.md
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-10-27_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
