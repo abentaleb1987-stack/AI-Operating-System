@@ -1,0 +1,730 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J’ai testé l’outil IA viral qui clone n’importe quel logiciel (reverse engineering)
+Simon De Lima
+Simon De Lima
+21,3 k abonnés
+
+S’abonner
+
+267
+
+
+Partager
+
+Posez une question
+
+Enregistrer
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+14 oct. 2026
+Pour recevoir tous les jours (du lundi au vendredi) les HOT NEWS de l'IA gratuitement, rejoins-nous ici 👉🏼 https://go.wolph.ai/EnAv25O
+
+Au lieu de simplement suivre la hype de l’IA, apprends à la commercialiser. Je te montre comment j’ai personnellement généré 300 000 € en moins d’un an en tant que consultant IA 👉🏼 https://go.wolph.ai/VebjDep
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Simon De Lima
+21,3 k abonnés
+Vidéos
+À propos
+true
+20:42
+Voici TOUTES les Solutions IA à VENDRE aux Entreprises en 2026
+de Simon De Lima
+Détails de la vidéo
+Date
+14 oct. 2026
+Vues
+4 011
+J'aime
+267
+27 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@cedricsindjui1181
+il y a 22 minutes
+Et tu profites pour faire ton PowerPoint de présentation en passant par une IA😂
+
+1
+
+
+Répondre
+
+
+@ahmedt8745
+il y a 1 heure
+Très bonne analyse Merci...
+
+1
+
+
+Répondre
+
+
+@isbanondondon1158
+il y a 3 heures
+Magnifique 🎉
+
+1
+
+
+Répondre
+
+
+@lerappelprofiteauxcryants
+il y a 3 heures
+genial
+
+1
+
+
+Répondre
+
+
+@Clampiste
+il y a 10 minutes
+D'après ce que j'ai compris (c'est à vérifier), c'est que tant dans le droit américain qu'européen il y un "fair use" qui permet la décompilation à des fins d"interopérabilité". Je ne sais pas si ça permet le 'simple' addon, ou s'il faut que tu soit propriétaire du logiciel tiers avec lequel tu faire fonctionner le logiciel sous licence propriétaire.
+Bref, on est déjà bien au-delà de mes non-compétences !)
+
+
+
+Répondre
+
+
+@bman022
+il y a 4 minutes
+C'est l'utilité même des outils de productivité comme Trello qui est en cause, pas leur clonage.
+
+
+
+Répondre
+
+
+@thegrinch360
+il y a 1 heure
+Sinon tu as le droit de te mettre en mode plan pour chaque exemple
+
+
+
+Répondre
+
+
+@regisvoiclair
+il y a 1 heure
+C'est illégal... : cette démarche de rétroingénierie pour reconstituer un source, puis de le compiler pour générer au final une application semblable, restent de la copie et de la contrefaçon d'un logiciel protégé.
+Un logiciel propriétaire, ses fonctionnalités, son interface graphique, ses algorithmes et son comportement global sont protégés par le droit d'auteur. Utiliser une Intelligence Artificielle pour cloner son fonctionnement exact à partir de son binaire crée ce que la loi appelle une œuvre dérivée non autorisée.
+Le fait que le code source sous-jacent soit réécrit par une Intelligence Artificielle ne change rien au fait que vous copiez l'œuvre d'autrui.
+Il faut donc s'attendre à des poursuites retentissantes, dès qu'un ahuri vaniteux mettra en ligne un clone de Photoshop ou autre.
+Normal, c'est objectivement de la piraterie : il a fallu des années à des dizaines d'ingénieurs pour réfléchir aux fonctions et coder tout cet immense savoir-faire. Aujourd'hui les gens osent tout, juste parce-qu'on peut techniquement le faire, et qu'ils se croient, par vanité, malins et astucieux.
+"Les cons ça ose tout. Et c'est même à ça qu'on les reconnaît." Michel Audiard.
+
+3
+
+
+Répondre
+
+
+5 réponses
+
+@Alice_dégustation
+il y a 1 heure
+Est ce que ça fonctionne sur des app mobile
+
+3
+
+
+Répondre
+
+
+1 réponse
+
+@Gideon-n1u
+il y a 2 heures
+On peut coder le côté client oui, mais pas l'App pas le côté serveur.
+En clair ce reverse c'est juste une apparence du projet, faire paraître le côté client dit utilisateurs, genre c'est ça en apparence, mais dans le fond c'est pas ça. En clair ce Rea c'est pour le front-end.
+
+1
+
+
+Répondre
+
+
+2 réponses
+
+@Gideon-n1u
+il y a 2 heures
+On peut dire copier l'intérface client
+
+
+
+Répondre
+
+
+@denispiwi8738
+il y a 16 minutes
+Mais votre exemple d'utilisation, ça n'aurait pas été plus pertinent de le faire sur un exécutable ? Parce que là sur un trello en ligne, on n'exploite pas pleinement le potentiel de l'outil non ? 
+
+
+
+Répondre
+
+
+@yannmab4480
+il y a 41 minutes
+je comprends pas pkoi tu t'attaque a trello, le code source reste dans le saas. le but c'est de décoder les logiciels en local.
+
+
+
+Répondre
+
+
+@LesÉchosduCœur
+il y a 1 heure
+est ce que ça peut decompiler du code obfusqué par exemple du ProGuard ou DexGuard
+
+
+
+Répondre
+
+
+2 réponses
+
+@orion4d727
+il y a 1 heure (modifié)
+non il ne décompile  pas les binaires, il faut arrêter de raconter des âneries !
+
+1
+
+
+Répondre
+
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Transcription
+
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+0:000 secondeUn nouvel outil IA gratuit vient de sortir sur Github et il permet de recréer n'importe quel logiciel. Tu lui montres une application, il la
+0:077 secondesdécompile, il comprend comment chaque fonctionnalité marche et il donne tout ça à ton agent IA pour la reconstruire.
+0:1313 secondesCet outil s'appelle REA pour reverse engineering anything et en quelques jours, il a dépassé les 1700 étoiles sur guit et depuis tout le monde perd un
+0:2222 secondespetit peu la tête. sur X notamment, les gens disent c'est l'outil le plus dangereux qu'on ait vu depuis très longtemps. On a d'autres personnes qui s'en servent déjà pour reconstruire des
+0:3030 secondesoutils comme Notion et son créateur s'attaquerait même à la recréation de Microsoft Office. Et en Chine, la presse s'inquiète pour des applis comme WeChat
+0:3939 secondesou encore comme TikTok. On a également Matthew Berman qui écrit que le logiciel est complètement mort et le patron de Replit qui explique que bientôt quasiment tous les logiciels seront open
+0:4848 secondessource. Alors dans cette vidéo, je vais l'installer devant toi. Je vais lui faire recréer tout un logiciel que tu connais certainement et je vais faire la
+0:5555 secondescourse contre Claude Code tout seul sans REA et à la fin je te dis pourquoi je pense que la plupart des gens passent complètement à côté du sujet. Est-ce que
+1:031 minute et 3 secondesça change vraiment pour le monde du logiciel et pour toi ? Alors, avant de rentrer dans le vif du sujet, on doit d'abord comprendre comment re ça
+1:121 minute et 12 secondesfonctionne. Pour ça, on va faire une petite mise en situation à savoir toi qui te met sur ton cloud code ou sur ton codex ou peu importe l'agent IA que tu
+1:201 minute et 20 secondesutilises pour développer et tu vas aller demander directement à Cloud Code, "Refais-moi cette application disons NHion." Cloud code va recevoir cette
+1:281 minute et 28 secondesdemande qui est refais-moi cette application et Cloud Code que tu auras branché au préalable à REA, donc l'outil qui n'est ni plus ni moins qu'un skill,
+1:361 minute et 36 secondesqui n'est ni plus ni moins qu'un paquet, un packaging de fonctionnalité de compétences que tu branches directement
+1:441 minute et 44 secondesà Cloud Code. Bon, REA va du coup interpréter cette demande qui est refais-moi cette application par le biais de Cloud Code. Et ce qui va se
+1:521 minute et 52 secondespasser, c'est que RA va faire appel à ces outils, à ces fonctionnalités qui sont à l'intérieur du skill. Et c'est là toute la force. Les outils, ils sont
+2:002 minutesmultiples. On a Guidra, le premier outil à l'intérieur de REA, on a Hopper qui est aussi un outil, une fonctionnalité à
+2:072 minutes et 7 secondesl'intérieur de REA et on a Idea qui est aussi à l'intérieur de RA. Ces trois outils-là, ils sont spécifiques à la
+2:152 minutes et 15 secondeslecture, à l'analyse, au reverse engineering pour les logiciels. Et ensuite à l'intérieur de REA, on a aussi
+2:222 minutes et 22 secondesla possibilité d'avoir accès à Google Chrome pour aller analyser des sites internet ou des web app, des logiciels
+2:292 minutes et 29 secondesqui sont directement en extranet, donc sur internet. Et ensuite ce qui va se passer que grâce à ces outils-là, Guidra, Hopper, Idea, Chrome, et ben les
+2:372 minutes et 37 secondesoutils vont renvoyer à Cloud Code, à l'agent IA, ils vont renvoyer les informations qui sont comment ça marche, les preuves de comment ça marche, qu'est-ce qui est encore un petit peu flou et qu'on a pas réussi à analyser.
+2:482 minutes et 48 secondesEt en fait à partir de ce moment-là, il va y avoir une boucle infinie sur cloud code qui demande à REA qui font qui sollicite qui fait appel à ses
+2:562 minutes et 56 secondesfonctionnalité pour aller analyser l'application qu'on lui a demandé d'analyser et il tourne en boucle comme ça jusqu'à ce que l'appli soit reconstruit. Donc je te dis refais-moi
+3:043 minutes et 4 secondescet appli. Ra se met en action, il va regarder les informations, il les donne à clode. Ah il manque des infos. OK, il retourne regarder des informations et il
+3:113 minutes et 11 secondesva demander à Cloud Code et il va chercher comme ça toutes les informations d'un point de vue reverse engineering jusqu'à réussir à créer l'application. Normalement, ça se passe
+3:203 minutes et 20 secondespas comme ça. Normalement, on écrit le code, on écrit les fonctionnalités les unes après les autres et à la fin, on a une application qui est complète. Le
+3:273 minutes et 27 secondesReverse Engineering, c'est partir d'une application finie, partir d'un code qui est déjà produit pour l'analyser et
+3:353 minutes et 35 secondesensuite recoder à peu près le même code qui a été analysé. C'est un petit peu comme goûter un plat d'une grande
+3:413 minutes et 41 secondescuisine pour retrouver la recette à partir du plat. Et donc, on va pas avoir exactement la recette du chef, mais on va avoir quelque chose, pardon, d'assez proche pour pouvoir reproduire le plat.
+3:523 minutes et 52 secondesMaintenant en France, il faut faire attention avec le reverse engineering parce qu'on a pas le droit de tout faire avec le reverse engineering. Mais ça on en reparlera à la fin de la vidéo comme
+4:014 minutes et 1 secondeça tu pourras savoir ce qui se passe juridiquement derrière le reverse engineering. OK, donc maintenant on va passer à la création. Et pour démarrer
+4:104 minutes et 10 secondescette création, etth bien la première chose qu'on doit faire installer l'outil, le skill RA. Et pour se faire, eth ben rien de plus simple que de
+4:184 minutes et 18 secondesprendre ce lienlà et le mettre dans le prompte que je vais vous montrer. Juste petit aparté, ce qu'on va faire pour tout le reste de cette vidéo, c'est
+4:274 minutes et 27 secondescomparer le reverse engineering lorsqu'on utilise REA et lorsqu'on ne l'utilise pas. Donc à gauche, on a Cloud
+4:344 minutes et 34 secondesCode qui est ouvert mais via VS Code. VS Code qui est un éditeur de code qui nous permet d'utiliser Cloud Code. Et à droite, on a Cloud Code qui est ouvert
+4:424 minutes et 42 secondescette fois-ci via l'application Cloud Code directement dans Tropic. Donc à droite, c'est là où on va utiliser Cloud Code avec à l'intérieur l'outil REA pour booster les capacités de cloud code.
+4:544 minutes et 54 secondesDonc ce qu'on va faire, c'est qu'à droite, on va lui dire directement dans le projet installe REA reverse engineering anything. le projet GitHub
+5:025 minutes et 2 secondesavec le lien qu'on vient de copiercoller juste ici. Donc vous voyez github.comluto/rea gitub plutôlo.
+5:105 minutes et 10 secondesPour cl code fais toute l'installation à ma place en suivant la méthode officielle du projet avant de valider quoi que ce soit. Montre-moi ce que tu vas modifier puis dis-moi quand c'est
+5:195 minutes et 19 secondesprêt. Donc à droite, je vais pouvoir appuyer sur entr et à gauche pour le moment, on ne fait rien puisqu'on ne va pas installer l'outil dans le projet à
+5:275 minutes et 27 secondesgauche. J'appuie sur entrée et j'arrive dans une seconde. OK, donc là il nous dit c'est prêt. REA 6.4.0 est installé.
+5:345 minutes et 34 secondesIl vous reste juste à redémarrer clude code pour que les outils RA soient chargés dans vos sessions. Donc je le redémarre et j'arrive. Donc voilà, je l'ai redémarré et on peut retourner dans
+5:425 minutes et 42 secondesle projet. Hop. pour directement ici lui demander est-ce que tu as bien accès aux outils RA ? Liste-moi ce que tu peux faire avec. On attend la réponse et
+5:515 minutes et 51 secondesj'arrive. Donc là, il nous fait un rappel de ce qui est utilisable sans rien installer de plus et là, il nous dit qu'il nécessite encore des outils pour pouvoir installer ce qu'il reste.
+6:016 minutes et 1 secondeDonc là, il nous dit Guidra est installé et installé pardon et branché sur REA, valide les H contrôles et cetera et cetera. Oper n'a pas été installé. Donc
+6:086 minutes et 8 secondeslà, on va faire une dernière vérification en lui disant "Vérifie que REA est bien installé et prêt à analyser un site web dans Chro. Dis-moi s'il
+6:156 minutes et 15 secondesmanque quelque chose, on lui envoie ça et suite à ce prompt, on aura normalement finalisé l'installation de
+6:236 minutes et 23 secondesREA." La réponse : REA est bien installé et capable d'analyser un site dans Chrome. Je l'ai testé de bout en bout, ce que j'ai vérifié, les conditions à
+6:306 minutes et 30 secondesconnaître. Ra ne se branche pas sur votre Chrome de tous les jours. Il se connecte à un Chrome lancé avec le débogage à distance et votre Chrome actuel ne l'est pas. Avant une analyse,
+6:386 minutes et 38 secondesil faut donc il faut donc ouvrir une instance dédiée. Je peux la lancer moi-même à chaque fois que vous me demandez d'aliser d'analyser un site. De conséquences profil séparé, fenêtre à
+6:466 minutes et 46 secondesgarder ouverte, c'est OK. Réglage par défaut de Ro par défaut, l'inspection est prudente, elle donne la structure de la page mais pas le texte. Le code source des scripts, les clés. Ces éléments s'activent option par option.
+6:576 minutes et 57 secondesLes entêtes cookies et valeurs de stockage ne sont jamais conservées.
+7:007 minutesDernier point, sans lien avec le web, la session en cours tourne sans guidra. Donc pensez à redémarrer cloud code. Effectivement, j'ai oublié de le faire.
+7:067 minutes et 6 secondesDonc on va le faire tout de suite. Je vais fermer et réouvrir directement.
+7:107 minutes et 10 secondesDonc maintenant, on va pouvoir commencer à faire ce fameux reverse engineering.
+7:147 minutes et 14 secondesEt pour faire ce test, donc on va tester un reverse engineering avec cloud code qui est équipé de REA et un reverse engineering avec Cloud code qui n'est
+7:227 minutes et 22 secondespas équipé de REA. Et pour ce test, ce qu'on va dupliquer, ce qu'on va reverse engérer, c'est l'application Trelo.
+7:297 minutes et 29 secondesTrelo, c'est une application de productivité/ation de projet. C'est une application qui est extrêmement connue et c'est celle-ci
+7:377 minutes et 37 secondesqu'on va reverse enginer. Donc moi, je suis sur mon compte ici pour que vous voyez un petit peu c'est quoi comme application pour ceux qui ne la connaissent pas. C'est une application
+7:457 minutes et 45 secondesoù grosso modo on peut faire de la gestion de planning, on peut gérer une boîte mail, on peut gérer de la gestion de projet à travers un tableau qu'on
+7:547 minutes et 54 secondesappelle un campan. Donc c'est un tableau avec des colonnes qui se bougent dans laquelle on peut mettre des cartes, des cartes sur lesquelles il y a des descriptions où on peut mettre des
+8:028 minutes et 2 secondeslabels, label urgent par exemple où on peut mettre une checklist, donc ajouter une tod listos à faire où on peut mettre une localisation où on peut mettre des
+8:108 minutes et 10 secondescommentaires à l'intérieur. Donc c'est ça qu'on va venir reverse engineering.
+8:148 minutes et 14 secondesDonc je réouvre ces deux pages et ici ce qu'on va pouvoir faire c'est mettre ce prompt là à droite pour celui qui
+8:218 minutes et 21 secondesutilise REA. Donc utilise RA pour analyser comment fonctionne Trelo. Trelo.com. Je suis connecté dans Chrome.
+8:288 minutes et 28 secondesIl va falloir que tu ouvres une instance. Tu vas analyser les tableaux, les listes et cetera. Montre-moi les preuves de ce que tu trouves. Puis
+8:368 minutes et 36 secondesreconstruis une application web qui fonctionne en local avec les fonctionnalités. Donne-lui un autre nom et un design à toi. Ne reprend ni logo ni quoi que ce soit. Et pour le projet
+8:458 minutes et 45 secondesoù il n'y a pas REA à l'intérieur, on va lui dire directement reconstruis. Hop, reconstruit une application web qui
+8:548 minutes et 54 secondesfonctionne en local avec les fonctionnalités principales de Trelot.
+8:578 minutes et 57 secondesEt donc, on va lui envoyer donc je vais cliquer ici en premier, cliquer ici en second et on va voir un petit peu en terme de rapidité, en terme de
+9:069 minutes et 6 secondesreproduction qui est-ce qui gagne la course. Bon, pendant qu'ils sont en train de faire leur petite course, je vais vous dire un petit mot. des outils comme REA, il en sort toutes les
+9:149 minutes et 14 secondessemaines et la plupart ne servent à rien. Moi en interne, je les teste, je fais le tri et je t'envoie chaque jour à midi uniquement les outils qui te font
+9:229 minutes et 22 secondesvraiment gagner du temps ou de l'argent dans ma newsletter IA. On est déjà plus de 9000 à lire cette newsletter. Elle est complètement gratuite et je te mets
+9:299 minutes et 29 secondesle lien en description. Donc là, on voit que l'instance à droite, en tout cas le projet Clude code à droite avec Trelo vient d'ouvrir une instance Chrome.
+9:389 minutes et 38 secondesC'est pour ça qu'on a une page qui vient de s'ouvrir. L'instance Chrome dédiée est ouverte sur Trello mais déconnecté comme prévu avec le profil séparé. En
+9:469 minutes et 46 secondesattendant votre connexion, je cherche un tableau public. Donc là, il va aller voilà me connecter. Donc on va faire accepter tout. Est-ce qu'il est connecté
+9:539 minutes et 53 secondes? Non, il est pas bien connecté. Je pense qu'il me demandera de me connecter juste après ou alors je ferai en sorte qu'il me le demande. Donc ça à droite c'est OK. Et à gauche, comment ça se
+10:0210 minutes et 2 secondespasse ? À gauche, il est encore en train de réfléchir à comment il va s'y prendre, mais on va analyser un petit peu de temps en temps ce qui est en
+10:0910 minutes et 9 secondestrain de se passer à droite comme à gauche. Là par exemple, il vient encore d'ouvrir un nouveau tableau modèle public dans l'instance dédiée. Donc il y
+10:1710 minutes et 17 secondesa une nouvelle page qui vient de s'ouvrir sur laquelle il est en train d'analyser ce qui s'y trame, ce qui s'y trouve pour pouvoir finalement reproduire. Et c'est là où on voit déjà
+10:2510 minutes et 25 secondesune différence entre REA et vous voyez pendant que je parle, il est en train de faire des choses. C'est là où on voit une différence avec un projet clô de code qui utilise l'outil REA et un projet clot code qui ne l'utilise pas.
+10:3410 minutes et 34 secondesC'est qu'il y en a un qui fait des recherches en live directement sur des pages Google Chrome et c'est là où on peut aller chercher beaucoup plus
+10:4210 minutes et 42 secondesd'informations. Et vous allez voir, ça ne garantit pas forcément un résultat.
+10:4610 minutes et 46 secondesOn va y venir juste après. Bien entendu, j'ai fait des tests en amont. J'ai testé plein de choses, plein d'outils. Donc bah on y revient dans quelques secondes.
+10:5210 minutes et 52 secondesDonc là, on voit que à gauche, il vient de finir complètement. L'application s'appelle Kein Keern. Bon bref, vous
+11:0111 minutes et 1 secondeavez compris. On va pouvoir cliquer et aller regarder un petit peu ce qui s trame. Et là, on voit que lui commence à peine à construire avec le même nom
+11:0811 minutes et 8 secondesd'application. Ça c'est intéressant. Il est en train de construire la même chose. Il dit que l'analyse est suffisante pour reconstruire modèle de données, structure de l'interface et
+11:1611 minutes et 16 secondesdétails d'une carte sont complètement documenté. Donc il peut commencer à la construction. Mais on va déjà commencer par analyser ce qu'il vient de nous construire. Hop, il m'a ouvert la page
+11:2411 minutes et 24 secondesjuste ici. Et donc on a ici l'application qui a été créée par Cloud Code sans l'outil RA. Donc on voit qu'on peut créer un tableau. On va faire créer
+11:3311 minutes et 33 secondesle tableau. On revient. On revient dessus juste après. On va déjà regarder ce que lui nous a créé. Juste ici, on a un tableau avec affaire en cours terminé. On peut bouger ces tableaux,
+11:4111 minutes et 41 secondesc'est OK. On peut les bouger. On peut même choisir le thème. OK. Choisir un petit peu le fond de qu'est-ce qui se trame. OK, ça c'est une fonctionnalité intéressante. Le but c'est qu'on analyse
+11:4911 minutes et 49 secondesles fonctionnalités, pas la pertinence des fonctionnalités, bien que c'est étroitement lié. On voit qu'on peut rentrer dans des fiches, mettre une description, mettre une checklist. On va
+11:5811 minutes et 58 secondestester une checklist. OK, on peut mettre des éléments à l'intérieur. J'imagine que ça mettra ça fera couler un petit peu le coolown ici. Test. Voilà, 50 %.
+12:0512 minutes et 5 secondesOn peut choisir une couverture. OK, on peut même choisir une image de couverture. On peut retirer la couverture. On peut mettre des étiquettes. Important, urgent, idé. On
+12:1312 minutes et 13 secondespeut supprimer la carte, ça c'est OK. Je vais la supprimer pour aller jusqu'au bout. OK. On peut bouger les fiches qui sont à l'intérieur, ça c'est OK. Et je crois que c'est à peu près la seule
+12:2112 minutes et 21 secondeschose qu'on peut faire jusqu'à maintenant. On peut ajouter une liste, j'imagine. On peut ajouter des cartes à l'intérieur. Et je crois que c'est à peu près tout, hein, de ce qu'on peut faire ici avec cette application qui a été
+12:3012 minutes et 30 secondescréée sans le skill RE A. On voit qu'il y a demander trois devis, vérifier les assurances. Tac. OK. Intéressant. On va
+12:3812 minutes et 38 secondesvoir ce que nous dit l'autre qui est encore en construction. Donc, on voit qu'il y en a un qui est déjà beaucoup plus rapide, ce qui est assez logique, hein, puisqu'il y en a un qui a analysé
+12:4612 minutes et 46 secondespage par page et ce qu'il a pu trouver euh grâce à ses analyses sur Chrome. Et l'autre qui a été un petit peu tête baissée, bien qu'il a fait des
+12:5312 minutes et 53 secondesrecherches. Les deux en fait, en vérité ont fait des recherches. Mais c'est justement un des mots euh que je souhaite vous un des messages que je souhaite vous faire passer en rapport
+13:0213 minutes et 2 secondesavec ce skill REA. OK, donc là on voit qu'il a terminé. Il m'a même ouvert directement une page à l'intérieur de
+13:0913 minutes et 9 secondesCloud Code. Ce que REA a observé sur Tro, changement d'un tableau, liste cartes, étiquette, checklist, détail d'une carte, temps réel, glisser, déposé, le nom, le logo, les couleurs et
+13:1813 minutes et 18 secondestout le code sont originaux. Aucune image OK. Chrome dédié. L'instance REA est restée ouverte avec trois onglets très lu. Si vous vous y connectez et
+13:2613 minutes et 26 secondesfaites glisser une carte sur un tableau de test, je peux capturer la requête d'écriture et confirmer la déduction. Ça ça va être important parce que pour le
+13:3413 minutes et 34 secondesmoment dans son analyse qu'a fait REA, on n' pas eu vraiment de navigation à l'intérieur d'un compte qui existe déjà.
+13:4313 minutes et 43 secondesDonc en fait pour le moment les deux les deux projets ont eu accès aux mêmes données publiques. Ils ont pas pu accéder à l'intérieur d'un compte sur
+13:5113 minutes et 51 secondeslequel on est connecté à l'intérieur de Trélo. Et si on d'ccède en tout cas si Lia accède à ce qui se passe vraiment à l'intérieur de Tréo, bah va pouvoir
+13:5913 minutes et 59 secondesrécupérer beaucoup plus d'informations et donc aller faire du reverse engineering beaucoup plus profond. Mais là, on va regarder déjà ce que lui a
+14:0614 minutes et 6 secondesfait ici. Pour le moment, l'interface est plus ou moins la même, hein. Vous voyez d'ailleurs, celle-ci me paraît un petit peu plus belle, mais ça c'est c'est subjectif, c'est une question de
+14:1414 minutes et 14 secondesgoût. On va faire test exactement comme l'autre. On va faire créer le tableau et on y reviendra. Ah, ici, il nous le met complètement vide, mais ici, lancement
+14:2214 minutes et 22 secondesde l'atelier. OK, c'est un peu différent en terme de visualisation.
+14:2614 minutes et 26 secondesBon, après, ce ne sont que des thèmes, même sur même sur Trlo, on peut faire plusieurs affichages. Mais donc ici, newsletter mensuel. OK, couverture. Ah,
+14:3514 minutes et 35 secondesvous voyez, il y a une fonctionnalité en moins, c'est qu'on peut pas on peut pas mettre d'images, on peut mettre que des couleurs. Des étiquettes, on peut mettre des descriptions, on peut mettre des checklist comme l'autre. OK. Ajouter une
+14:4414 minutes et 44 secondeschecklist. Des étiquettes, on peut changer ça. On peut changer le nom. Ah, j'ai pas regardé si on pouvait changer le nom ici. J'imagine que oui, on peut le changer aussi. OK, donc là, on peut
+14:5214 minutes et 52 secondesenregistrer. Je sais pas si lui a la possibilité d'enregistrer. On peut changer le thème. OK. Ah, ça change que le thème des lignes ici. On peut pas changer le fond, c'est peut-être une
+15:0015 minutesdifférence. OK. Mais bon, grosso modo, on voit que les deux ont fait plus ou moins la même chose et je dirais même qu'il y en a un qui a une fonctionnalité supplémentaire, c'est avoir la
+15:0915 minutes et 9 secondespossibilité de mettre une image de couverture et pas simplement une couleur. Donc par exemple, si on choisit une image, ouais, par exemple, je mets une miniature que j'ai mis sur YouTube.
+15:1715 minutes et 17 secondesAh ça, on peut pas le faire sur l'autre parce qu'il nous donne pas la possibilité. Peut-être que non, on peut pas faire. Par contre, on peut ouvrir une instance et lui demander d'aller
+15:2515 minutes et 25 secondesencore plus loin dans finalement son analyse pour aller faire du reverse engineering. Donc euh on va lui demander finalement d'ouvrir une instance, de s'y
+15:3315 minutes et 33 secondesconnecter, d'analyser ce qui se passe à l'intérieur de l'application, ce qui va nous permettre d'avoir un peu plus d'information. Donc là, vous voyez, je lui ai demandé "Peux-tu ouvrir une
+15:4115 minutes et 41 secondesinstance Chrome pour que je me connecte sur Trelo et que tu analyses, hop, et que tu analyses ce qui se passe à l'intérieur de l'application." Donc là, il m'a ouvrit, il m'a ouvert cette instance. Je vais fermer les autres.
+15:5015 minutes et 50 secondesCréer un tableau de test 10 mois prêt en restant sur ce tableau. Donc là, je vais me connecter. Et ce qu'il me dit, c'est que une fois que j'ai créer un tableau de test, donc on va aller sur un tableau
+15:5915 minutes et 59 secondesqui est déjà existant, 10-moi prêts, en restant sur ce tableau, je lancerai alors des fenêtres d'observation de quelques dizaines de secondes pendant lesquelles vous ferez les gestes
+16:0616 minutes et 6 secondesvous-même. REA, regarde sans cliquer à votre place dans l'ordre, glisser une carte dans la même liste puis vers une autre. Déplacer une liste, ouvrir une
+16:1416 minutes et 14 secondescarte, cocher un élément de checklist, ajouter une étiquette, changer la couverture. OK, bon, on va le faire. Je lui dis prêt et donc là, il va m'analyser pendant que je suis en train
+16:2216 minutes et 22 secondesde réaliser moi-même les mouvements à l'intérieur de l'application pour que vous compreniez un petit peu la démarche dans laquelle il se met lorsqu'il fait des tests. On va attendre qu'il me dise
+16:3016 minutes et 30 secondesde le faire. Je lance une première fenêtre d'observation de 45 secondes pendant que vous testez le glisser déposé. Donc on va le faire ensemble.
+16:3616 minutes et 36 secondesHop, le glisser déposé, il est fait comme ça. Déposer une carte dans sa liste puis vers une autre liste. OK, donc ça je l'ai fait. Il est en train d'analyser. Ajouter une carte peut-être
+16:4416 minutes et 44 secondesce qu'il me le demande, il me le demande pas mais on va faire ajouter une carte.
+16:4716 minutes et 47 secondesHop, on l'ajoute. Cette carte, on peut la déplacer ici. On peut cliquer à l'intérieur, mettre une description. Je mets une description. OK. Sauvegarder.
+16:5716 minutes et 57 secondesCette description, je peux mettre aussi une date qui se termine. Date de début, date limite. On fait enregistrer pour mettre une date. Ajouter un commentaire.
+17:0517 minutes et 5 secondesCommentaire. Hop. Enregistrer. OK, donc [grognement] ça on peut le fermer. On a une carte avec une date. Hop. On peut mettre ça là. On peut se balader ici.
+17:1417 minutes et 14 secondesAjouter notre liste. Liste. Hop. OK, cette liste là. Donc j'ai confirmé la capture du déplacement de liste de cartes, de la création de cartes et des
+17:2217 minutes et 22 secondesmodifications de description de date. Il a bien vu. Prochaine étape, une nouvelle fenêtre de 60 secondes où je vais ajouter une checklist, une étiquette.
+17:2917 minutes et 29 secondesDon je vais lui dire non, on lui envoie ça. C'est juste pour que vous captiez un petit peu la la démarche dans laquelle il se met pour pouvoir faire des analyses. OK, donc là il a terminé de
+17:3717 minutes et 37 secondesmettre les fonctions manquantes de Kern et il nous a donné donc un nouveau lien pour aller checker. On va aller regarder ce qu'il a fait. Est-ce que voilà, on peut mettre des dates de début, on peut
+17:4617 minutes et 46 secondesarchiver la carte. Vous voyez l'idée ici et c'est là que ça peut être vraiment redoutable, c'est qu'on peut analyser en
+17:5217 minutes et 52 secondestemps réel une application, un logiciel, faire en sorte que rea le screen, l'analyse, le comprenne, le lise de
+18:0018 minutesfaçon à ensuite pouvoir comme ça de manière graduelle ajouter des fonctionnalités, ajouter des possibilités pour se rapprocher un
+18:0918 minutes et 9 secondesmaximum du logiciel qu'on souhaite reverse engénérer. Et c'est là que ça peut être redoutable. Par contre, si on
+18:1518 minutes et 15 secondesvient de manière un peu analyser ce qui a été fait du premier coup, bah les deux applications se ressemblent quand même de très près. À gauche, le projet où il
+18:2418 minutes et 24 secondesn'y avait pas REA, il a été extrêmement rapide et il a créé quelque chose de plutôt fidèle. À droite, si on lui donne vraiment tous les outils et qu'on va
+18:3118 minutes et 31 secondesloin dans la démarche, effectivement, on peut faire quelque chose d'encore plus fidèle, d'encore plus poussé. Et c'est là que ça devient redoutable. Mais finalement du premier coup sur le
+18:4018 minutes et 40 secondespremier get, la différence n'est pas non plus absolument folle. Et c'est cet élément, c'est exactement finalement ce
+18:4818 minutes et 48 secondesqui m'amène à vous dire ce que personne ne vous dit sur REA. En fait, tout le monde parle de REA comme d'une révolution, sauf que la réalité, elle
+18:5618 minutes et 56 secondesest un petit peu plus nuancée. C'est un super outil, mais pas pour les raisons qu'on croit. Guidra, l'outil principal derrière REA, a été rendu public en 2019
+19:0419 minutes et 4 secondespar la NSA, donc l'agence de renseignement américaine. OPER existe depuis plus d'une quinzaine d'années et IDEA est la référence du secteur qui
+19:1219 minutes et 12 secondeselle date depuis les années 90. Et en fait, les experts en sécurité décompilent des logiciels avec ces outilsl décennies. Le problème c'est que
+19:2119 minutes et 21 secondesces outils te sortent des informations qui sont quasiment illisibles. Pour en tirer quelque chose, il faut un très gros bagage technique. Et ça, il y a
+19:2919 minutes et 29 secondestrès peu de gens qui savent le faire. Et c'est là en fait que REA vient changer la donne parce que il va confier tout le travail à l'intelligence artificielle, tout le travail d'interprétation de ce
+19:3819 minutes et 38 secondeslangage illisible. Et pour ceux qui faisaient déjà du reverse engineering, c'est absolument dingue. Il y a des chantiers qui prenaient des années qui peuvent maintenant se faire en quelques
+19:4519 minutes et 45 secondesjours. Par contre, méfie-toi un petit peu de l'emballement autour de cet outil. Presque toutes les vidéos qu'on a vu sur REA commencent par cette courbe de toutes les étoiles guitub qui sont en
+19:5419 minutes et 54 secondestrain d'exploser en quelques jours et je l'ai fait he je plail ne te dit pas ce qu'il change vraiment
+20:0220 minutes et 2 secondespour toi et tu l'as vu dans la course pour recréer une appli comme Trel tu as pas forcément besoin de REA. Tu peux dire à Claude Code, "Regarde comment
+20:0920 minutes et 9 secondesmarche telle fonctionnalité et puis refais la moi." Lui, il va observer, il va raisonner et puis très souvent il va arriver à faire quelque chose très
+20:1620 minutes et 16 secondesproche du résultat attendu. Et REA prend tout son sens quand en fait tu dois aller dans le détail, comprendre un calcul précis, un format de fichier, un
+20:2420 minutes et 24 secondescomportement caché au cœur d'un logiciel, j'en sais rien. Et dans quelques mois, de toute façon, bah les modèles seront faire une bonne partie, pardon, de ce travail tout seul. REA,
+20:3320 minutes et 33 secondesc'est un vrai accélérateur pour les experts. C'est un outil qui est précieux quand tu veux aller en profondeur. Mais pour la plupart d'entre nous, l'essentiel c'est ce que les agents IA
+20:4220 minutes et 42 secondessavent déjà faire. Donc maintenant, la vraie question c'est qu'est-ce que ça veut dire pour le monde du logiciel et pour nous en tant que consultant IA ? Et
+20:5020 minutes et 50 secondesbien là, je vais te le dire en tant que chef d'entreprise parce que moi aussi je suis de la partie. Moi aussi je construis des outils IA pour les entreprises. Je les déploie dans les
+20:5720 minutes et 57 secondesentreprises. Je forme des gens à le faire. Donc je vais te parler en mon nom. Quand une techno comme celle-ci sort et fait beaucoup de bruit sur internet, je me pose toujours la même
+21:0521 minutes et 5 secondesquestion. Quelle porte elle va permettre d'ouvrir et quelle porte elle va complètement fermer ? Et des technologies comme ça, des tendances comme celle-ci, franchement, elle ferme
+21:1221 minutes et 12 secondesbeaucoup de portes. Mais c'est pas REA en particulier, c'est vraiment toute la hype, toute la tendance, toute la technologie qu'il y a derrière. Parce qu'en fait, pendant des années,
+21:2021 minutes et 20 secondesconstruire un logiciel c'était cher, c'était long et ça demandait toute une équipe de développeurs. Et c'était ça la barrière qui protégeait les éditeurs de
+21:2821 minutes et 28 secondeslogiciel. Aujourd'hui, une IA généraliste comme Claude Code peut reconstruire en quelques minutes l'essentiel d'une application qui a
+21:3621 minutes et 36 secondesdemandé des années de travail et des centaines de milliers d'euros d'investissement. Le code, l'interface, la base de données, tout ça, c'est en train de devenir une commodité, quelque
+21:4421 minutes et 44 secondeschose que n'importe qui peut obtenir et recréer. Donc la suite logique, c'est que la plupart des logiciels vont devenir complètement open source. Et pas
+21:5121 minutes et 51 secondesparce que les éditeurs vont publier leur code, mais parce que une IA pourra recréer l'essentiel de n'importe quel appli à la demande et il y a des gens qui vont publier tout ça sur Gitub. Et
+22:0022 minutesquand n'importe qui peut reconstruire ton logiciel, ton code, bah c'est plus vraiment un secret tout ça. Et la conséquence directe, c'est que toutes
+22:0722 minutes et 7 secondesles appli qui se contentent d'ajouter juste une couche par-dessus chat GPT ou cloud, bah ils vont se faire avaler soit par les modèles eux-mêmes, soit par n'importe qui qui est capable de
+22:1622 minutes et 16 secondesrecopier leur logiciel en une après-midi. Ce qui baisse aussi en terme de valeur, c'est la barrière pour recombiner des outils qui existent déjà,
+22:2422 minutes et 24 secondesprendre le meilleur de deux applis et en faire un seul outil. Ça aussi c'est devenu accessible à absolument tout le monde. Du coup, la question c'est si le code ne vaut plus rien, qu'est-ce qui
+22:3222 minutes et 32 secondesgarde de la valeur ? Bah selon moi, c'est trois choses. Un, savoir quel problème résoudre et pour qui. De avoir la confiance des clients. Et trois, être
+22:4022 minutes et 40 secondescapable, pardon, de faire adopter l'outil par des vraies personnes dans une vraie entreprise. Et ça, il y a aucune il y a aucun modèle
+22:4822 minutes et 48 secondesd'intelligence artificielle puissant soit-il qui peut le recopier. Donc si tu accompagnes des entreprises sur l'IA, c'est exactement là que ça devient intéressant pour toi. Par contre
+22:5622 minutes et 56 secondesattention sur une petite chose. Je vous avais dit en début de vidéo que je vous expliquerai un petit peu le cadre juridique autour du reverse engineering.
+23:0423 minutes et 4 secondesJe ne suis pas avocat, donc il faut consulter un avocat dans le cas où vous commercialisez une solution qui a été reverse engérée, si se peut dire. Je
+23:1223 minutes et 12 secondessais pas si ça se dit. Mais en France, les règles, elles sont plutôt claires.
+23:1523 minutes et 15 secondesEn tout cas, les règles de base. Ce qui est autorisé, c'est de reprendre les fonctionnalités. Donc ce que fait l'outil parce qu'une fonctionnalité, tu peux pas vraiment la déposer sauf si
+23:2423 minutes et 24 secondeselle a une particularité et c'est là où je ne suis pas avocat et il faut pas prendre au pied de la lettre ce que je suis en train de dire. Tu peux également, c'est autorisé, observer et
+23:3223 minutes et 32 secondestester comment fonctionne le logiciel que tu veux rrogénérer. Et tu peux construire ta propre version avec ton
+23:4023 minutes et 40 secondesnom, ton design et l'utilité que tu veux en faire. Bien entendu, ce qui est réellement protégé, c'est le code, c'est l'identité de marque, le logo, les
+23:4823 minutes et 48 secondesvisuels, le la marque aussi de manière générale et le nom. Donc un outil de tâche avec des colonnes et des cartes, oui, mais le logo de Trélot, le nom de
+23:5623 minutes et 56 secondesTrélo et des choses particulières à Trélo, ça on ne peut pas les recopier.
+24:0024 minutesIl faut comprendre que décompiler un logiciel, ça fonctionne dans certains cas uniquement. C'est autorisé pour faire communiquer deux logiciels entre
+24:0924 minutes et 9 secondeseux. C'est ce qu'on appelle l'interopérabilité. Donc le fait d'analyser ce qui se passe à l'intérieur d'un d'une base de code, c'est ce qu'on appelle décompiler un logiciel, on peut
+24:1724 minutes et 17 secondesle faire mais on doit respecter quand même des conditions d'utilisation parce que la plupart des applis interdisent
+24:2424 minutes et 24 secondesqu'on décompile leur logiciel et ça aussi il faut faire extrêmement attention. Donc encore une fois, je ne suis pas avocat, ça fait partie des
+24:3124 minutes et 31 secondesspécificités de la propriété intellectuelle. Donc attention à ce que vous faites sur le Retro Engineering, sur le Reverse Engineering. Par contre, ce que vous pouvez faire, c'est vous
+24:3924 minutes et 39 secondesinspirer, ne pas copier. Vous inspirer, c'est deux choses différent. Comprendre ce que fait l'outil, comprendre les fonctionnalités et lire ces fonctionnalités dont tu as besoin, mais
+24:4824 minutes et 48 secondesne pas les recopier exactement mot pour mot, clic par clic, lettre par lettre et ensuite construire ta propre version.
+24:5424 minutes et 54 secondesDonc pour résumer REA c'est un très bon outil qui est gratuit qui est open source qui rend ton agent Claude code plus précis quand il décortique une
+25:0225 minutes et 2 secondesappli mais c'est pas lui qui a tué le logiciel. Ce qui change tout c'est que les agents I savent déjà reconstruire presque n'importe quoi avec ou sans REA.
+25:1025 minutes et 10 secondesEt quand construire devient facile pour tout le monde, ce qui fait la différence c'est plus savoir coder, c'est de savoir quoi construire et pour qui comme je l'ai dit précédemment. Et si tu veux
+25:1725 minutes et 17 secondesvoir jusque où on peut aller avec Clude Code, ce qu'on peut vendre à une entreprise, et bien regarde cette vidéo qui apparaîtra quelque part sur l'écran.
+25:2425 minutes et 24 secondesJ'ai décortiqué toutes les solutions il y a qu'on peut vendre aux entreprises en 2026. Il y en a 50 en tout. Ça te permettra de savoir ce que tu peux construire et surtout ce que tu peux
+25:3325 minutes et 33 secondesvendre pour faire de l'argent. En attendant, j'espère que cette vidéo t'a plu. Je te le rappelle, tu as ma newsletter en description pour être au courant de toutes les actualités les plus importantes dans le monde de
+25:4125 minutes et 41 secondesl'intelligence artificielle. Et tous les deux, on se dit à très vite. Tu connais la chanson, le petit pouce, le petit like, le petit commentaire, je regarde tout.
+
+Tout
+
+Intelligence artificielle
+
+Apprentissage
+
+Regardées
+
+
+24:36
+Nouveauté
+Gemini 4 : le plan de Google pour dominer l'IA.
+Ludo Salenne
+4,1 k
+il y a 3 h
+
+
+39:48
+Nouveauté
+Tech Sama Show #369 : RIP la RTX 5090? GTA 6 PC début 2027?
+Tech_Sama
+17 k
+il y a 6 h
+
+
+8:31
+Nouveauté
+L'Arnaque du Siècle : Comment Charles Ponzi a Trompé Tout le Monde !
+Grandes Arnaques et Petites Combines
+8
+il y a 1 j
+
+
+23:20
+MARVEL DÉVOILE qui n’est PAS NATTY au CORONA GYM ! (La dure vérité) feat @wakandaworld6061 
+CoronaGymOff
+et Wakanda world
+177 k
+il y a 3 m.
+
+
+18:54
+Désolé STEAM, on a fait un meilleur PC gamer !
+FrenchHardware
+et PΔX
+329 k
+il y a 2 sem.
+
+
+34:50
+Nouveauté
+Adobe en chute libre : le début de la fin ?
+Silicon Carne 🌶️
+13 k
+il y a 6 h
+
+
+27:26
+J'ai laissé 24h à Claude pour créer GTA 6 (c'est une dinguerie)
+Aywen
+519 k
+il y a 3 m.
+
+
+1:14:36
+Nouveauté
+Alain Soral : super pratique ? + Polony 2027 : c’est officiel ! (Juste Bistrot #674)
+Juste Milieu.
+44 k
+Diffusé il y a 6 h
+
+
+10:03
+Nouveauté
+J'ai Décidé de Perdre 10 Kilos, Quitte à Perdre du Muscle...
+Julien QUAGLIERINI
+58 k
+il y a 3 j
+
+
+52:41
+Nouveauté
+24H dans le Train le plus CHER du monde. (40.000€ le billet)
+La Menace
+606 k
+il y a 6 j
+
+
+2:36:43
+Nouveauté
+Direct n°130- François Asselineau répond à vos questions
+Union Populaire Républicaine
+29 k
+Diffusé il y a 1 h
+
+
+35:17
+Nouveauté
+Highlander 30 ans après, vous ignorez encore tout ca
+devildredd
+78 k
+il y a 4 j
+
+13:15
+Comment (mieux) choisir son PRE-WORKOUT (guide complet)
+Nassim Sahili
+129 k
+il y a 2 a
+
+19:46
+La vraie vie d'un bodybuilder
+Brut
+et Stephane Matala
+586 k
+il y a 10 m.
+
+White Girls Can’t Dance 👀🥲👯‍♀️
+75 M de vues
+
+Focus mode activated 🙂‍↕️ #bobsled #athlete #motivation
+1,7 M de vues
+
+ESSAN PETE UN CABLE DEVANT LA GENETIQUE DE MATHIS 😨
+5,5 M de vues
+
+Build your triceps bigger.
+2,3 M de vues
+
+Late-Night Tatsumaki Romance 💚 | Shoulder Ride to… Feed Me? 🤯 | #anime #onepunchman #opm #saitama
+10 M de vues
+
+Saitama roasted Tatsumaki 🔥| Saitama Edit | ZXKAI - NO BATIDÃO (Slowed)
+4,9 M de vues
+
+
+24:10
+Tout le monde prend les mauvais compléments
+Théo Leguerrier
+213 k
+il y a 4 m.
+
+12:33
+Nouveauté
+LE PREMIER MONT D’OR DU GÉNÉRAL…(grillé)
+LeMondeDeChoi
+et Choi TCG
+23 k
+il y a 5 h
+
+25:47
+Nouveauté
+C'est la FIN de la domination de Claude : pourquoi Gemini 4 Argon change la donne
+Melvynx
+11 k
+il y a 14 h
+
+26:26
+Nouveauté
+Gemini 4 Argon est le meilleur modèle du monde (44 expériences)
+Meydeey | Automatisation IA
+3,8 k
+il y a 9 h
+
+28:03
+JE MANGE COMME L'HOMME LE PLUS MUSCLÉ AU MONDE PENDANT 24H !! (Ronnie Coleman)
+Tibo InShape
+1,1 M
+il y a 1 a
+
+16:16
+DOPÉ À 20ANS IL TEMOIGNE ZÉRO TABOU !
+Tibo InShape Entrainement
+1,3 M
+il y a 3 a
+
+    

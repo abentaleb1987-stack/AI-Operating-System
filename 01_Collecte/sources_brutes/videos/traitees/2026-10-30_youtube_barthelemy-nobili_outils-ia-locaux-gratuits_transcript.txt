@@ -1,0 +1,788 @@
+
+
+DZ
+
+Ignorer les liens de navigation
+Rechercher
+
+
+
+Créer
+
+
+Image d'avatar
+J'ai testé 13 IA open source et gratuites en ligne et en local pour remplacer tous vos abonnements !
+Barthélémy Nobili
+Barthélémy Nobili
+172 k abonnés
+
+Rejoindre
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+
+
+
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ vues  
+29 oct. 2026  #IAGratuite #OpenSource #IntelligenceArtificielle
+Et si vous pouviez remplacer vos abonnements IA payants par des outils gratuits ? Dans ce tutoriel, je teste des IA gratuites et open source, en ligne et en local sur Mac.
+
+Au programme : générer des vidéos et des images gratuitement avec Flow, retoucher une vidéo par simple texte, le réglage Gemini qui préserve votre quota, un mini-jeu créé en une phrase avec DeepSeek… puis une sélection d'alternatives gratuites à installer : Meetily pour résumer vos réunions, Upscayl pour redonner de la netteté à vos images, Dyad pour créer une application sans coder, Vane comme moteur de recherche IA, Open Notebook comme carnet de recherche, Presenton pour vos présentations en local, Treblo pour composer une chanson en une phrase, FreeLLMAPI pour réunir les IA gratuites et Handy pour la dictée vocale.
+
+Pour chaque outil local, l'installation est expliquée pas à pas, et chaque chapitre se termine sur le résultat final.
+
+Les astuces clés : le modèle Gemini Omni Flash en 360p pour obtenir 8 vidéos par jour avec les 50 crédits gratuits de Flow, Nano Banana Lite en mode x4 pour des images à 0 crédit, et l'installation des outils locaux avec Ollama et Docker (OrbStack sur Mac) — vos données ne quittent jamais votre ordinateur.
+
+SOMMAIRE :
+00:00 Introduction
+02:00 Flow : 8 vidéos gratuites par jour
+03:25 Flow : retoucher une vidéo par texte
+04:18 Flow : des images gratuites, 4 par 4
+05:36 Gemini : le réglage qui préserve votre quota
+06:30 DeepSeek : un mini-jeu en une phrase
+07:50 Meetily : vos réunions résumées
+09:44 Upscayl : redonner de la netteté
+10:59 Dyad : créer une application sans coder
+12:50 Vane : votre moteur de recherche IA
+14:07 Open Notebook : un carnet de recherche
+15:45 Presenton : des présentations en local
+17:33 Treblo : une chanson en une phrase
+18:48 FreeLLMAPI : toutes les IA gratuites
+20:15 Handy : la dictée vocale gratuite
+
+Si cette vidéo vous est utile, abonnez-vous à la chaîne pour ne manquer aucun tutoriel IA.
+
+[BLOC PARTENAIRES HABITUEL — PROMEAI · FLEX CLIP · CG DREAM · HOSTINGER · EDIMAKOR]
+
+Réservez une formation : nobilibarthelemy@gmail.com
+Site : https://barthelemynobili.formator.io/
+Instagram :   / barthelemynobili  
+LinkedIn :   / barthelemynobili  
+
+#IAGratuite #OpenSource #IntelligenceArtificielle #Flow #Gemini #DeepSeek
+Barthélémy Nobili présente une sélection d'outils basés sur l'intelligence artificielle, fonctionnant en ligne ou directement sur votre ordinateur. Ce guide pratique explore des solutions pour la création vidéo, la retouche d'images, la synthèse vocale et la gestion de projets, permettant d'optimiser les ressources sans recourir à des abonnements payants.
+Résumé
+
+Comment ce contenu a été créé
+Doublé automatiquement
+Les pistes audio de certaines langues ont été générées automatiquement. En savoir plus
+Posez une question
+Trouvez des réponses, explorez des thèmes et plus encore
+
+Poser des questions
+Chapitres
+
+Tout afficher
+Transcription
+Suivez la vidéo à l'aide de la transcription.
+
+
+Afficher la transcription
+
+Barthélémy Nobili
+172 k abonnés
+Vidéos
+À propos
+
+Suivez-moi sur INSTAGRAM !
+
+Suivez-moi sur LINKEDIN !
+true
+34:08
+J'ai testé trois 3 IA chinoises incroyables, 100% Open Source, sans dépenser un centime.
+de Barthélémy Nobili
+18 k vues · il y a 1 mois
+16 commentaires
+Abder Bent
+Ajoutez un commentaire…
+
+@rodopil1161
+il y a 14 heures
+Toujours le Top du Top créativité !!!! Enorme MERCI Barthélémy !!!
+
+2
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+
+@Lion-dragon-k7q
+il y a 14 heures
+Toujours au top
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+
+@dyyd8101
+il y a 9 heures
+Super boulot
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+
+@jackbronson1471
+il y a 14 heures
+Superbe vôtre générique
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+
+@otodayo
+il y a 14 heures
+Si tu as un NAS, je serais curieux d'avoir une vidéo de ta part ou on installe nos ia dans un docker pour du local, et le bonus serait de faire une ouverture a distance. Ça ça serait tip top 
+
+En gros avoir olliama et n8n pour le workflow. On c'est pas compatible/possible ?
+
+En tout cas tes vidéos gèrent, bravo
+
+
+
+Répondre
+
+
+@jackbronson1471
+il y a 14 heures
+Merci beaucoup
+
+
+
+Répondre
+
+Barthélémy Nobili
+·
+
+1 réponse
+
+@QUID-je-m-interroge
+il y a 12 heures
+Bonjour, connaissez-vous opencode ?
+
+
+
+Répondre
+
+·
+
+1 réponse
+
+@nechryos1
+il y a 10 heures
+Upscayl ne sait pas reconnaitre les visages et ça c'est bien domage
+
+
+
+Répondre
+
+·
+
+1 réponse
+"Les plus populaires" est sélectionné, vous verrez donc les commentaires mis en avant
+Dans cette vidéo
+
+
+Chapitres
+
+Transcription
+Rechercher dans la transcription
+Rechercher dans la transcription
+
+Chapitre 1 : Introduction
+0:055 secondesSalut à tous ! Dans cette vidéo que je  vous conseille de regarder attentivement,   je vous propose 14 IA et méthodes pour utiliser  l'intelligence artificielle gratuitement.
+0:1818 secondesÇa fait un moment que je voulais faire cette  vidéo, vous êtes nombreux à me demander pourquoi   je ne parle jamais des applications locales,  etc. Eh bien aujourd'hui la chose est réparée.  
+0:2929 secondesVous allez voir dans cette vidéo que, pour les  personnes ne disposant pas ou peu de budget,  
+0:3636 secondesces IA sont toutes opérationnelles. Certaines  sont en ligne, d'autres installables en local.  
+0:4444 secondesLeur utilisation ne vous coûtera aucun  centime si vous respectez bien toutes   les indications précieuses que j'ai  développées lors de cette vidéo.
+0:5555 secondesJe ne prétends pas bien sûr que cette dernière  est exhaustive et qu'elle reprend toutes les  
+1:011 minute et 1 secondeIA gratuites du monde. Vous pouvez par exemple  vous référer à la vidéo ci-dessus pour connaître  
+1:071 minute et 7 secondesd'autres IA chinoises qui peuvent vous permettre  d'utiliser maintes fonctionnalités d'importance.  
+1:151 minute et 15 secondesIci, pour ne pas effectuer de redites, je n'ai  pas évoqué, à quelques exceptions près, les mêmes  
+1:221 minute et 22 secondesIA. Les deux vidéos sont complémentaires, mais  la vidéo d'aujourd'hui risque de vous étonner   agréablement par son caractère utile. C'est  Barthélémy, pour ceux qui ne me connaissent pas,  
+1:321 minute et 32 secondesmerci de cliquer sur le bouton de souscription  pour m'aider à développer cette chaîne,   et nous on fonce à la découverte de  ces nombreuses IA d'utilité publique.
+Chapitre 2 : Flow : 8 vidéos gratuites par jour
+2:052 minutes et 5 secondesPremier réflexe pour créer des vidéos IA sans  payer : Google Flow. Même sans abonnement,  
+2:112 minutes et 11 secondesFlow vous donne 50 crédits par jour. Le piège,  c'est le modèle choisi. Veo 3.1 Quality coûte 100  
+2:182 minutes et 18 secondescrédits la vidéo, il est tout simplement hors de  portée en gratuit. Veo 3.1 Lite coûte 10 crédits,  
+2:252 minutes et 25 secondessoit 5 vidéos par jour. L'astuce, c'est le modèle  Gemini Omni Flash en résolution 360p. Regardez,  
+2:332 minutes et 33 secondesun clip de 8 secondes coûte 6 crédits avec 50  crédits. Vous obtenez donc 8 vidéos par jour au  
+2:392 minutes et 39 secondeslieu de 5. Le 360p n'est pas fait pour publier, il  est fait pour tester. Ici, je garde le même sujet,  
+2:472 minutes et 47 secondesun petit renard en origami dans une forêt  d'automne, et je ne change qu'une chose à chaque  
+2:522 minutes et 52 secondesprompt : le mouvement de caméra. Travelling  latéral, plongée, contre-plongée, orbite,  
+2:582 minutes et 58 secondeszoom avant, grue, plan subjectif et effet vertigo.  8 essais, 48 crédits, voici le résultat. En une  
+3:053 minutes et 5 secondesseule journée gratuite, vous savez exactement quel  mouvement fonctionne pour votre idée. Vous pourrez  
+3:113 minutes et 11 secondesensuite le refaire en qualité supérieure sans  gaspiller de crédits. Petit détail à retenir : les   crédits non utilisés ne se cumulent pas. Ce  que vous ne dépensez pas aujourd'hui est perdu.
+Chapitre 3 : Flow : retoucher une vidéo par texte
+3:313 minutes et 31 secondesAvec ces mêmes crédits, Flow sait aussi retoucher  une vidéo, qu'elle soit générée ou importée.   Pas besoin de logiciel de montage, on décrit  simplement ce qu'on veut changer. Je demande  
+3:413 minutes et 41 secondesici de transformer la scène en nuit d'hiver avec  de la neige et la lumière de la pleine lune,   tout en gardant le renard, son mouvement et  le cadrage. Le décor change complètement,  
+3:513 minutes et 51 secondesmais le renard et le mouvement de caméra restent  identiques. Une retouche coûte 40 crédits.
+3:573 minutes et 57 secondesDeux réflexes pour bien gérer vos crédits  : d'abord, la recharge quotidienne est   déclenchée par votre première génération. Les 50  nouveaux crédits arrivent le lendemain. Ensuite,  
+4:074 minutes et 7 secondesentre 15 heures et 18 heures, heure de Paris,   la génération vidéo peut être bloquée sans  abonnement. Alors, générez plus tôt le matin.
+Chapitre 4 : Flow : des images gratuites, 4 par 4
+4:244 minutes et 24 secondesFlow ne fait pas que des vidéos. Dans le panneau  des réglages, passez de vidéo à images. Choisissez  
+4:304 minutes et 30 secondesle modèle Nano Banana Lite. Regardez la ligne du  bas : la génération utilisera 0 crédit. C'est le  
+4:374 minutes et 37 secondesmodèle d'image par défaut de Flow et il  ne touche pas à vos 50 crédits du jour,  
+4:424 minutes et 42 secondesils restent entiers pour la vidéo. Autre réglage  utile : x4. Chaque demande produit quatre images  
+4:484 minutes et 48 secondesdifférentes au lieu d'une. Je reprends notre  petit renard en origami, cette fois dans une   bibliothèque miniature en photo macro. En  quelques secondes, voici quatre variantes,  
+4:584 minutes et 58 secondeschacune avec sa propre mise en scène, vous gardez  celle qui vous plaît. Et vous n'avez pas besoin   d'attendre la fin d'une génération pour lancer la  suivante. J'envoie un deuxième prompt en hiver,  
+5:095 minutes et 9 secondespuis un troisième au printemps, Flow les traite  en même temps. Résultat : 12 images en moins  
+5:145 minutes et 14 secondesd'une minute, toujours sans dépenser un seul  crédit. Le filtre images dans la colonne de   gauche les regroupe toutes. Un bon conseil  : créez d'abord vos images ici gratuitement,  
+5:255 minutes et 25 secondespuis choisissez la meilleure comme point de  départ de vos vidéos. Et même aux heures de   pointe quand la vidéo est bloquée, la  génération d'images reste disponible.
+Chapitre 5 : Gemini : le réglage qui préserve votre quota
+5:425 minutes et 42 secondesDans l'application Gemini gratuite, le  modèle est désormais en mode auto et  
+5:475 minutes et 47 secondesvous pouvez choisir un niveau de réflexion  bas, moyen ou élevé. Ce réglage compte car  
+5:535 minutes et 53 secondesvos limites sont calculées selon la puissance  consommée. Elle se recharge toutes les 5 heures   jusqu'à un plafond hebdomadaire. Pour une  tâche simple comme reformuler une accroche,  
+6:046 minutes et 4 secondestraduire ou trouver des idées, réglez la réflexion  sur bas. La réponse arrive en quelques secondes et  
+6:106 minutes et 10 secondeselle est tout à fait suffisante. Vous gardez ainsi  votre budget pour ce qui coûte le plus cher : les  
+6:166 minutes et 16 secondesimages Nano Banana, les vidéos, la musique et  Deep Research. Dernier conseil : répartissez   vos sessions sur plusieurs créneaux de 5  heures plutôt que de tout utiliser d'un coup.
+Chapitre 6 : DeepSeek : un mini-jeu en une phrase
+6:356 minutes et 35 secondesDeepSeek a mis à jour son modèle le 17 octobre  avec la version V4.1 Flash. Selon la presse  
+6:426 minutes et 42 secondesspécialisée, il sait désormais construire  un projet complet à partir d'une consigne   très courte. Le site et l'application officielle  utilisent déjà ce modèle avec un simple compte  
+6:526 minutes et 52 secondessans abonnement. J'ai formulé mon souhait en une  phrase en précisant le format : un mini-jeu en  
+6:586 minutes et 58 secondesun seul fichier HTML, un mémory de 16 cartes sur  les grands peintres, avec un compteur de coups,  
+7:057 minutes et 5 secondesun chronomètre et un bouton rejouer. Le code  complet s'écrit en moins d'une minute. Avec  
+7:107 minutes et 10 secondesle bouton exécuter, le jeu s'ouvre directement,  les cartes se retournent, le chronomètre tourne,  
+7:167 minutes et 16 secondeset voilà une première paire trouvée. Pour le  garder ou le partager, cliquez sur télécharger.   Vous obtenez un fichier HTML qui s'ouvre  dans n'importe quel navigateur. Vous  
+7:267 minutes et 26 secondespouvez aussi copier le code et l'enregistrer  vous-même dans un fichier terminé par .html.  
+7:327 minutes et 32 secondesLe modèle est aussi en libre accès sous licence  MIT. Mais avec ses 763 milliards de paramètres,  
+7:397 minutes et 39 secondesil demande un matériel très puissant.  Restez sur la version en ligne. Et comme  
+7:437 minutes et 43 secondespour tout service en ligne, n'y collez pas  de données personnelles ou confidentielles.
+Chapitre 7 : Meetily : vos réunions résumées
+7:567 minutes et 56 secondesOn passe maintenant aux outils open source qui  remplacent des abonnements payants. Le premier   remplace les assistants de prise de notes de  réunion. Il s'appelle Meetily. Attention sur  
+8:068 minutes et 6 secondesla page de téléchargement : le gros bouton noir  installe un essai de la version pro limitée à 14  
+8:138 minutes et 13 secondesjours. La version gratuite et open source, c'est  le petit lien juste en dessous : « Download Free  
+8:198 minutes et 19 secondesCommunity Version ». On clique sur « Install for  macOS ». Le fichier se télécharge depuis GitHub.  
+8:258 minutes et 25 secondesOn ouvre le fichier, puis on glisse l'icône de  Meetily sur le dossier Applications. C'est la  
+8:318 minutes et 31 secondesméthode classique pour installer une application  sur Mac. Au premier lancement, macOS vous demande  
+8:368 minutes et 36 secondessi vous voulez vraiment ouvrir une application  téléchargée sur Internet. Elle vient de son dépôt  
+8:418 minutes et 41 secondesofficiel. On clique sur Ouvrir. Meetily demande  ensuite l'accès au micro et à l'enregistrement  
+8:478 minutes et 47 secondesde l'écran pour capter le son de vos  visioconférences. Acceptez les deux. Il télécharge  
+8:528 minutes et 52 secondesalors ses deux moteurs : la transcription,  environ 670 Mo, et le résumé, environ 2,6  
+9:009 minutesGo. Tout s'installe sur votre ordinateur, vos  conversations ne partent jamais sur Internet.  
+9:069 minutes et 6 secondesPour la démonstration, j'importe l'enregistrement  d'une courte réunion de préparation de formation.  
+9:129 minutes et 12 secondesLa transcription s'affiche en quelques secondes,  horodatée. Un clic sur « Generate Summary » et le  
+9:189 minutes et 18 secondesmodèle local rédige le compte-rendu : un résumé,  les décisions clés et un tableau des tâches avec  
+9:249 minutes et 24 secondesles responsables et les échéances. Les voix de  cette réunion de démonstration sont synthétiques,  
+9:309 minutes et 30 secondesd'où quelques erreurs de transcription. Avec de  vraies voix, le résultat est bien plus fidèle. Et   tout cela fonctionne avec Zoom, Teams ou Google  Meet, sans aucun robot qui rejoint la réunion.
+Chapitre 8 : Upscayl : redonner de la netteté
+9:509 minutes et 50 secondesPour agrandir une image floue ou ancienne,  les logiciels spécialisés coûtent cher.   Upscayl fait le même travail gratuitement.  Deuxième piège de la journée : sur le site,  
+10:0010 minutesle bouton macOS vous envoie vers l'App Store où  l'application est payante. Fermez cet onglet,  
+10:0710 minutes et 7 secondesouvrez plutôt « Alternative Downloads », puis  choisissez « DMG Free » dans la rubrique macOS.  
+10:1410 minutes et 14 secondesC'est exactement la même application, gratuite  et open source. Même installation que tout  
+10:1910 minutes et 19 secondesà l'heure : on glisse Upscayl dans le dossier  Applications, puis on l'ouvre. L'interface est  
+10:2510 minutes et 25 secondesen français et tout se fait en 4 étapes. Étape  1 : je sélectionne une image. C'est une image  
+10:3110 minutes et 31 secondestirée d'un des clips Flow en 360p, donc toute  petite, 640 par 360 pixels. Upscayl annonce le  
+10:3910 minutes et 39 secondesrésultat : 2560 par 1440 pixels, 4 fois plus  grand. Je lance l'agrandissement. 25 secondes  
+10:4610 minutes et 46 secondesplus tard, faites glisser le curseur pour  comparer : à gauche, l'original ; à droite,  
+10:5110 minutes et 51 secondesla version agrandie. Les bords du papier et  les feuilles retrouvent toute leur netteté.
+Chapitre 9 : Dyad : créer une application sans coder
+11:0411 minutes et 4 secondesLes créateurs d'applications par IA sont souvent  payants à l'abonnement. Dyad est leur équivalent  
+11:1011 minutes et 10 secondesopen source et il tourne sur votre ordinateur.  On télécharge la version macOS pour puce Apple,  
+11:1611 minutes et 16 secondescette fois c'est un fichier .zip, un  double-clic le décompresse. Au lancement,  
+11:2011 minutes et 20 secondeson valide la fenêtre de sécurité de macOS, puis  Dyad propose de se ranger lui-même dans le dossier  
+11:2811 minutes et 28 secondesApplications. On accepte. Il faut maintenant  brancher une IA. Pas besoin de clé payante : si  
+11:3311 minutes et 33 secondesvous avez installé Ollama, l'outil gratuit qui  fait tourner des modèles d'IA sur votre Mac,  
+11:3811 minutes et 38 secondesDyad le détecte tout seul. Je choisis ici  le modèle Qwen 3.5 qui tourne entièrement  
+11:4511 minutes et 45 secondesen local. Je décris l'application que je veux  : un carnet de prompts avec un formulaire,   des cartes et un bouton copier, un champ de  recherche, un design sombre et des accents rouges.  
+11:5511 minutes et 55 secondesDyad me pose deux questions sur le style et les  options, puis propose un plan que j'approuve.   Avec un modèle local c'est plus lent qu'un service  en ligne, comptez plusieurs minutes, mais c'est  
+12:0612 minutes et 6 secondesgratuit et vos données restent chez vous. Et voici  l'application qui fonctionne : j'ajoute un prompt,   il apparaît en carte avec son bouton copier  et la recherche le retrouve instantanément.
+12:1812 minutes et 18 secondesCertains des outils suivants s'installent  avec Docker, un système qui fait tourner   des applications prêtes à l'emploi.  Sur Mac, le plus simple est OrbStack,  
+12:2712 minutes et 27 secondesgratuit pour un usage personnel. On le glisse  dans « Applications » et on l'ouvre. OrbStack   demande votre mot de passe administrateur  pour installer un petit utilitaire.  
+12:3712 minutes et 37 secondesTapez simplement le mot de passe de votre Mac,  choisissez « Docker » et c'est prêt. À partir  
+12:4212 minutes et 42 secondesde maintenant, une seule ligne de commande suffit  pour installer les outils open source qui suivent.
+Chapitre 10 : Vane : votre moteur de recherche IA
+12:5612 minutes et 56 secondesPour faire des recherches sur Internet avec  une IA qui cite ses sources, il existe des  
+13:0113 minutes et 1 secondeservices payants. Vanna fait la même chose chez  vous. Avec Docker installé, une seule ligne  
+13:0713 minutes et 7 secondessuffit : Docker run, le nom de l'image, et le  port 3000. Docker télécharge tout le nécessaire,  
+13:1413 minutes et 14 secondesy compris son propre moteur de recherche. On  ouvre ensuite l'adresse localhost:3000 dans  
+13:2113 minutes et 21 secondesle navigateur. Au premier lancement, Vanna vous  demande quelle IA utiliser. Je choisis Ollama,  
+13:2713 minutes et 27 secondesdéjà installé sur ce Mac, avec le modèle  Qwen 3.5. Pour l'indexation des pages,  
+13:3313 minutes et 33 secondesje garde le petit modèle proposé par défaut.  Tout reste en local. Je pose une question  
+13:3813 minutes et 38 secondesd'actualité : quelles sont les nouveautés  du modèle DeepSeek V4.1 Flash ? Vanna lance  
+13:4513 minutes et 45 secondesplusieurs recherches, lit les pages trouvées,  puis affiche ses sources en haut et rédige une  
+13:5013 minutes et 50 secondesréponse structurée avec un numéro de source  après chaque information. Un conseil : avec  
+13:5613 minutes et 56 secondesun petit modèle local, certains chiffres  peuvent être approximatifs. Cliquez sur   les numéros pour vérifier la source  avant de reprendre une information.
+Chapitre 11 : Open Notebook : un carnet de recherche
+14:1314 minutes et 13 secondesOpen Notebook est l'alternative open source au  carnet de recherche IA en ligne. Son installation  
+14:2014 minutes et 20 secondespasse aussi par Docker : on récupère le fichier de  configuration fourni sur le site du projet, puis  
+14:2614 minutes et 26 secondesune seule commande, Docker Compose Up, démarre  l'application et sa base de données. L'interface  
+14:3214 minutes et 32 secondess'ouvre dans le navigateur en français. Première  étape : dans Modèles, on ajoute une configuration  
+14:3814 minutes et 38 secondesOllama, puis on clique sur « Découvrir les  modèles ». Open Notebook trouve tout seul les  
+14:4414 minutes et 44 secondesmodèles installés sur le Mac. J'en choisis deux :  Qwen 3.5 pour écrire les réponses et Nomic Embed,  
+14:5114 minutes et 51 secondesun petit modèle spécialisé qui sert à  indexer vos documents. Je crée un carnet que  
+14:5714 minutes et 57 secondesj'appelle « Google Flow gratuit » et j'y ajoute  une source : la page d'aide officielle de Google  
+15:0315 minutes et 3 secondessur les crédits de Flow. On peut aussi ajouter des  PDF, des fichiers audio ou des vidéos YouTube. Le  
+15:1015 minutes et 10 secondesmodèle lit la page, la résume et l'indexe. Avec  une IA locale, comptez 1 à 2 minutes. Je pose ma  
+15:1715 minutes et 17 secondesquestion : combien de vidéos puis-je générer  gratuitement par jour avec Flow ? La réponse  
+15:2315 minutes et 23 secondesreprend les règles que nous avons vues au début de  cette vidéo : 50 crédits par jour, la restriction  
+15:2915 minutes et 29 secondeshoraire, les crédits qui ne se reportent pas, et  surtout, chaque affirmation renvoie à la source,  
+15:3615 minutes et 36 secondesici le numéro 1. Vous savez toujours d'où vient  l'information et rien ne quitte votre ordinateur.
+Chapitre 12 : Presenton : des présentations en local
+15:5115 minutes et 51 secondesPresentOn génère des présentations  complètes à partir d'un simple sujet,   comme les outils payants du genre. Ici aussi,  une seule commande Docker suffit. Elle indique  
+16:0116 minutes et 1 secondele port 5001 et trois réglages : utiliser Ollama,  le modèle Qwen 3.5 et désactiver la génération  
+16:0916 minutes et 9 secondesd'images car j'utiliserai mes propres visuels.  Docker PS confirme que PresentOn tourne à côté  
+16:1616 minutes et 16 secondesdes autres outils installés plus tôt. On ouvre  ensuite localhost:5001. Au premier lancement,  
+16:2216 minutes et 22 secondesPresentOn vous demande de créer un identifiant et  un mot de passe. Il reste sur votre ordinateur et  
+16:2916 minutes et 29 secondesprotège l'accès à l'application. Je choisis  5 diapositives et la langue française,  
+16:3416 minutes et 34 secondespuis je décris ma présentation : bien écrire  un prompt vidéo pour des créateurs débutants,   avec le contenu de chaque diapositive  et un exemple concret à chaque fois.  
+16:4516 minutes et 45 secondesPresentOn propose ensuite des modèles graphiques.  Je prends un modèle sombre aux accents orangés.  
+16:5116 minutes et 51 secondesAvec une IA locale, la génération prend du  temps : comptez une vingtaine de minutes pour  
+16:5616 minutes et 56 secondes5 diapositives sur ce Mac, mais tout est fait  chez vous sans abonnement ni limite. Voici le  
+17:0217 minutes et 2 secondesrésultat : une couverture, puis une diapositive  par étape. Les images de départ sont génériques.  
+17:0817 minutes et 8 secondesJe double-clique sur l'une d'elles et je  la remplace par mon propre visuel : ici,   une caméra de cinéma sur rail créée plus tôt. Même  chose pour la diapositive sur le style visuel,  
+17:1917 minutes et 19 secondesil ne reste plus qu'à exporter en PDF ou en  PowerPoint. Petit conseil : relisez toujours les  
+17:2517 minutes et 25 secondestextes, un modèle local fait parfois des phrases  un peu longues ou coupées dans la mise en page.
+Chapitre 13 : Treblo : une chanson en une phrase
+17:3917 minutes et 39 secondesPour la musique, Treble est gratuit,  sans abonnement ni système de crédits,   avec un simple compte. Je décris la chanson  en une phrase : de l'électro swing joyeux en  
+17:4917 minutes et 49 secondesfrançais sur les IA gratuites qui tournent sur son  propre ordinateur, avec une voix masculine rétro,  
+17:5617 minutes et 56 secondesdes cuivres, une contrebasse et un piano  boogie. Treble compose deux versions à   la fois avec leur titre, leurs paroles et  leur style. Moins d'une minute plus tard,  
+18:0518 minutes et 5 secondeselles sont prêtes à écouter.  Voici mon petit modèle.  
+18:3318 minutes et 33 secondesLes paroles sont modifiables, la chanson  peut durer jusqu'à 4 minutes et demie,   et Treble accorde les droits d'usage  commercial sur vos créations. Vérifiez  
+18:4218 minutes et 42 secondesquand même ces conditions avant  une utilisation professionnelle.
+Chapitre 14 : FreeLLMAPI : toutes les IA gratuites
+18:5418 minutes et 54 secondesFreeLLM API regroupe les offres gratuites  de dizaines de fournisseurs d'IA derrière  
+18:5918 minutes et 59 secondesune seule clé. On télécharge l'application  macOS depuis la page GitHub du projet, puis  
+19:0519 minutes et 5 secondeson la glisse dans Applications. Son tableau de  bord s'ouvre dans le navigateur en français. Un  
+19:1119 minutes et 11 secondesguide en trois étapes vous accompagne : ajoutez  une clé de fournisseur, testez une requête,  
+19:1619 minutes et 16 secondespuis connectez vos applications. Commencez par  Google AI Studio. La clé est gratuite, il suffit  
+19:2319 minutes et 23 secondesd'un compte Google. Collez-la, choisissez le  fournisseur et c'est tout. Gardez cette clé pour  
+19:2819 minutes et 28 secondesvous comme un mot de passe. Deuxième étape : le  bac à sable. Je choisis un modèle, ici Gemini 3.5  
+19:3519 minutes et 35 secondesFlash, et je pose une question simple : trois  idées de vidéos courtes pour expliquer l'IA  
+19:4119 minutes et 41 secondesà des débutants. La réponse arrive en quelques  secondes. Si un modèle est saturé ou trop lent,  
+19:4719 minutes et 47 secondesFreeLLM API peut basculer tout seul vers un autre  : c'est le rôle de son mode automatique. Avec une  
+19:5319 minutes et 53 secondesseule clé Google, la page des modèles affiche déjà  15 modèles et un budget de 96 millions de tokens  
+20:0020 minutespar mois. Ajoutez d'autres fournisseurs gratuits  et ce budget grandit. Enfin, la troisième étape   vous donne une adresse et une clé unique à coller  dans n'importe quel logiciel compatible OpenAI.
+Chapitre 15 : Handy : la dictée vocale gratuite
+20:2020 minutes et 20 secondesLes applications de dictée par IA sont souvent  vendues par abonnement. Handy fait la même   chose gratuitement. C'est une application  open source qui transforme votre voix en  
+20:3020 minutes et 30 secondestexte dans n'importe quel champ de saisie. Sur  handy.computer, on télécharge la version Mac,  
+20:3720 minutes et 37 secondespuis on glisse l'application dans le dossier  Applications. Au premier lancement, Handy propose  
+20:4320 minutes et 43 secondesplusieurs modèles de transcription. Je prends  NemoTron Streaming : il comprend 28 langues,  
+20:4820 minutes et 48 secondesdont le français. Le téléchargement fait  environ 700 Mo et ne se fait qu'une fois.  
+20:5420 minutes et 54 secondesmacOS demande ensuite deux autorisations : le  micro et l'accessibilité pour que Handy puisse  
+21:0021 minutesécrire le texte à votre place. Dans les réglages,  vérifiez que le bon micro est sélectionné. Le  
+21:0621 minutes et 6 secondesraccourci par défaut est Option + Espace. S'il  est déjà pris par un autre outil, choisissez-en  
+21:1121 minutes et 11 secondesun autre. Je place le curseur, je lance la  dictée, je parle et le texte s'écrit tout seul,  
+21:1821 minutes et 18 secondesponctuation comprise. Tout est transcrit sur le  Mac, votre voix ne quitte jamais votre ordinateur.
+21:3421 minutes et 34 secondesVoilà les amis, vous avez constaté combien  ces IA peuvent être utiles dans votre travail  
+21:4121 minutes et 41 secondesau quotidien. J'ai essayé d'évoquer, comme vous  l'avez vu, tous les domaines d'activité : images,  
+21:4921 minutes et 49 secondesvidéos, musique, chatbots et d'autres IA  qui revêtent un caractère pratique. Parfois,  
+21:5721 minutes et 57 secondesil est vrai qu'on hésite à installer des IA  en local parce que le processus nous paraît  
+22:0322 minutes et 3 secondescompliqué. Mais dans les explications que je vous  ai délivrées, j'ai essayé d'être le plus clair  
+22:0922 minutes et 9 secondespossible. Et moi-même, parfois, j'ai un petit  peu sué pour configurer certaines d'entre elles.  
+22:1722 minutes et 17 secondesMais au final, si vous suivez bien les directives,  vous allez voir que c'est très facile à installer.  
+22:2522 minutes et 25 secondesOn se fait parfois une montagne d'un rien.  Voilà, je ne vais pas m'éterniser. Simplement,  
+22:3122 minutes et 31 secondesj'espère que cette vidéo aura présenté  un certain intérêt. Croyez-moi,  
+22:3722 minutes et 37 secondessi vous appliquez bien les conseils que je vous  ai prodigués aujourd'hui, vous pouvez réaliser  
+22:4522 minutes et 45 secondesdes économies substantielles et surtout  obtenir des résultats aussi satisfaisants  
+22:5222 minutes et 52 secondesque ceux que vous auriez obtenus avec  des IA payantes. C'était Barthélémy,   je vous souhaite une excellente journée et  d'excellents tests à tous. Ciao ! Thank you.
+
+Tout
+
+Source : Barthélémy Nobili
+
+Intelligence artificielle
+
+Programme informatique
+
+Apprentissage
+
+Vidéos similaires
+
+Pour vous
+
+Publiées récemment
+
+Regardées
+
+
+22:15
+LES BOUTIQUES DE JEUX VIDÉO
+Bazar du Grenier
+1,7 M
+il y a 11 m.
+
+
+32:18
+Nouveauté
+GPT 6.1 Terra vs Kimi K3.1, Chine vs USA, et l'IA qui s'échappe !
+Renaud Dékode
+18 k
+il y a 1 j
+
+
+33:54
+Nouveauté
+UPDATE ANALYSE KONPLÈ SOU GOLD AK PREVIZYON
+RFX
+2
+il y a 6 h
+
+
+33:19
+J’ai testé la méthode la PLUS FACILE pour gagner de l’argent avec l’IA
+Mark Tilbury
+8,1 M
+il y a 1 m.
+Doublée
+
+
+24:33
+Nouveauté
+60 000 offres de départ : cette fois, Microsoft change de dimension
+IA et Stratégie
+24 k
+il y a 1 j
+
+
+28:59
+Nouveauté
+Une IA à 0 € sur mon PC peut-elle faire 2 jours de boulot toute seule? (Claude Code, Qwen, DeepSeek)
+Build & Mind
+7,1 k
+il y a 3 j
+
+
+7:25
+Nouveauté
+Google devient numéro 1 mais j'ai le seum contre eux
+fantadmin
+22 k
+il y a 1 j
+
+
+2:18:26
+Nouveauté
+Direct n°132- François Asselineau répond à vos questions
+Union Populaire Républicaine
+104 k
+Diffusé il y a 1 j
+
+
+27:16
+BYD : la plus grosse arnaque de l'histoire automobile ?
+ElecTruc
+344 k
+il y a 13 j
+
+
+2:29:34
+TRUMP, SATANISTE, COMPLOT : Elon Musk licencié ?
+Sans Permission
+239 k
+il y a 1 a
+
+
+37:26
+Nouveauté
+Start-ups AI-native vs grands groupes : qui va gagner ?
+Silicon Carne 🌶️
+17 k
+il y a 15 h
+
+
+22:19
+Nouveauté
+Un conseiller de Tebboune à Genève pour récupérer en douce les secrets de Boualem Boualem ? 
+Abdou Semmar
+38 k
+il y a 18 h
+
+
+24:55
+J'ai acheté des VRAIES consoles sur TEMU ??? (Arnaque ouuuuu ?)
+CYRILmp4
+3,7 M
+il y a 2 a
+
+
+14:42
+JEUX EN VRAC - LE BIKINI-GAME DU JEU VIDEO
+Bazar du Grenier
+1,2 M
+il y a 9 m.
+
+
+33:28
+Pourquoi les devs réécrivent tout en Rust ? (un langage pour masos)
+Underscore_
+821 k
+il y a 9 m.
+
+
+57:45
+Nouveauté
+David Louapre | La thèse de l'orthogonalité
+Continue tu m'intéresses
+57 k
+il y a 1 j
+
+
+12:13
+Nouveauté
+GOOGLE S’EFFONDRE !!! 500 milliards évaporés (Microsoft résiste)
+Metamorphose 47
+23 k
+il y a 12 h
+
+1:33:44
+PARLONS DES MICROTRANSACTIONS
+Bazar du Grenier
+2,8 M
+il y a 1 a
+
+20:23
+Nouveauté
+4 pots de miel du Mali et un gazoduc : ce qu'Attaf a vraiment révélé à Lavrov à Moscou 
+Abdou Semmar
+22 k
+il y a 20 h
+
+24:13
+Nouveauté
+Vendre sa femme sur internet s'est retourné contre lui : Le cas Adam22
+Naj B Fit
+355 k
+il y a 15 h
+
+    
