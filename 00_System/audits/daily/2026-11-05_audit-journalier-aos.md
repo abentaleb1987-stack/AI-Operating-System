@@ -4,9 +4,9 @@
 
 - Decision d'audit : GO
 - Niveau de risque maximal : faible
-- Commit audite : 7a2d015
+- Commit audite : 98174cb
 - Periode auditee : Dernieres 24h ou fallback 10 commits recents
-- Rapport genere le : 2026-11-05 06:56:02
+- Rapport genere le : 2026-11-05 15:49:15
 - Alertes prioritaires Aion : 0
 - Alertes traitees ou attenuees : 0
 - Alertes totales detectees : 1
@@ -25,9 +25,9 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Commits analyses
 
+- `98174cb` - 2026-11-05 06:56:03 +0000 - Audit - docs(aos): add daily audit report
 - `7a2d015` - 2026-11-04 18:48:59 +0100 - Maintenance - Merge remote-tracking branch 'origin/main'
 - `7bf36b9` - 2026-11-04 18:48:35 +0100 - Knowledge batch - docs(aos): integrate multi-source AI watch batch
-- `12bc122` - 2026-11-04 15:47:18 +0000 - Audit - docs(aos): add daily audit report
 
 ## Classification des commits
 
@@ -45,12 +45,12 @@ Dernieres 24h ou fallback 10 commits recents
 
 ### Audit
 
-- `12bc122` - 2026-11-04 15:47:18 +0000 - docs(aos): add daily audit report
+- `98174cb` - 2026-11-05 06:56:03 +0000 - docs(aos): add daily audit report
 
 ## Commits ignorés pour audit connaissance
 
+- `98174cb` - 2026-11-05 06:56:03 +0000 - Audit - docs(aos): add daily audit report
 - `7a2d015` - 2026-11-04 18:48:59 +0100 - Maintenance - Merge remote-tracking branch 'origin/main'
-- `12bc122` - 2026-11-04 15:47:18 +0000 - Audit - docs(aos): add daily audit report
 
 ## Méthode d’analyse Git
 
@@ -65,6 +65,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers crees
 
+- A 00_System/audits/daily/2026-11-05_audit-journalier-aos.md
 - A 01_Collecte/sources_brutes/videos/traitees/2026-10-14_youtube_simon-de-lima_rea-analyse-logiciels_01_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-10-15_youtube_parlons-ia_gemini-4-argon-antigravity_01_transcript.txt
 - A 01_Collecte/sources_brutes/videos/traitees/2026-10-21_youtube_vision-ia_jeev-hermes-classification_transcript.txt
@@ -86,7 +87,7 @@ Dernieres 24h ou fallback 10 commits recents
 
 ## Fichiers modifies
 
-- M 00_System/audits/daily/2026-11-04_audit-journalier-aos.md
+- Aucun element detecte.
 
 ## Fiches permanentes impactees
 
